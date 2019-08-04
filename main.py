@@ -11,7 +11,6 @@ import pprint
 
 
 
-# hello will
 
 
 
@@ -28,12 +27,17 @@ def getParaIndex(p, lines_list):
 
 
 def printJudgement(judgement_bits):
-    para_counter = 1
-    for jb in judgement_bits:
 
-        if 'para' in jb['types']:
-            print('[' + str(para_counter) + '] ' + jb['text'])
-            para_counter += 1
+    # para_counter = 1
+    # for jb in judgement_bits:
+    #     if 'para' in jb['types']:
+    #         print('[' + str(para_counter) + '] ' + jb['text'])
+    #         para_counter += 1
+
+    for jb in judgement_bits:
+        print()
+        print("----")
+        print(jb["text"])
 
 
 def printJudgementFullData(judgement_bits):
@@ -42,11 +46,6 @@ def printJudgementFullData(judgement_bits):
         print()
 
 
-def classifyJudgementBit(jb_text):
-    if re.match(r'^\[\d+]', jb_text):
-        type = para
-    elif trueIfLogicalHeading(jb_text):
-        pass
 
 def getPossibleHeadings(judgement_bits):
     possible_headings = []
@@ -150,8 +149,6 @@ def trueIfPossibleHeading(jb_text):
 
 
 def getHeadingGroups(possible_headings):
-    for ph in possible_headings:
-        print(ph)
 
     heading_groups = []
     for i, ph in enumerate(possible_headings):
@@ -328,7 +325,12 @@ untyped_bits = [jb for jb in judgement_bits if len(jb['types']) == 0]
 #         print(ph)
 
 printJudgement(judgement_bits)
-printJudgementFullData(judgement_bits)
+# printJudgementFullData(judgement_bits)
+
+
+
+
+
 
 # jb_sents = [mySentTokenize(jb['text']) for jb in judgement_bits]
 # jb_words = []
