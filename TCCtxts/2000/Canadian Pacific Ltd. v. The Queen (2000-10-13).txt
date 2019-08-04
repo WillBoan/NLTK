@@ -1,0 +1,172 @@
+Date: 20001013
+
+Docket: 95-3534-IT-G
+
+BETWEEN:
+
+CANADIAN PACIFIC LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bonner, T.C.J.
+
+[1] This appeal has a long and somewhat convoluted history. It commenced as an appeal to this Court from an assessment under the Income Tax Act (the "Act") for the Appellant's 1990 taxation year. This Court issued judgment on July 3, 1998. As will be seen from the Reasons for Judgment, the appeal was allowed in order to give effect to a consent dealing with a minor issue. The appeal was otherwise unsuccessful. Since that time the matter has been reviewed by the Federal Court of Appeal and by the Supreme Court of Canada which remitted it to the Federal Court of Appeal. By the judgment of the Federal Court of Appeal dated February 17, 2000, the appeal was remitted to this Court to make such factual and legal determinations regarding the Australian dollar borrowing as the Court considers necessary solely with respect to section 245 of the Income Tax Act.
+
+[2] As noted in the Reasons for Judgment of this Court, this appeal originally involved two foreign currency borrowings one in Australian dollars (A$) and one in New Zealand dollars (NZ$). The transactions were, save for irrelevant detail, identical to the borrowing considered by the Supreme Court in Shell Canada Ltd. v. Canada[1]. By the assessments in issue the Minister of National Revenue disallowed the deduction of part of the interest claimed under s. 20(1)(c) of the Act. A description of the relevant events and of the assessment in issue may be found in the July 3, 1998 Reasons for Judgment. The Federal Court of Appeal initially dismissed the appeal from the decision of this Court but, following an appeal to the Supreme Court of Canada, the Court of Appeal allowed the Appellant's appeal from the decision of this Court with respect to interest on the NZ$ borrowing and found that the decision of the Supreme Court of Canada in Shell governs all issues relating to the A$ borrowing except for the matter which I must now consider, the application of the current version of s. 245 of the Act (the general anti-avoidance rule otherwise known as GAAR). GAAR did not apply to the NZ$ borrowing because it was not then in force.[2]
+
+[3] S. 245, in the form which has application to the A$ borrowing transaction, is set out in appendix A to these reasons. It is to be interpreted in accordance with s. 11 of the Interpretation Act. That provision reads:
+
+"Every enactment shall be deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects."
+
+[4] Before proceeding further I will set out a very brief overview of s. 245. S. 245(2) of the Act provides that if a transaction is an "avoidance transaction" the tax consequences are to be determined as is reasonable in the circumstances to deny the tax benefit which would otherwise result from the transaction. The term "avoidance transaction" is defined in s. 245(3) as any transaction that results directly or indirectly in a tax benefit unless the primary purpose of the transaction may reasonably be considered to have been something other than the obtaining of the tax benefit. The term "tax benefit" is defined in s. 245(1) as the reduction avoidance or deferral of tax or other amount payable under the Act or an increase in a refund of tax or other amount under the Act. Finally it will be noted that, by virtue of s. 245(4), s. 245(2) does not apply unless the transaction resulted directly or indirectly in a misuse of the provisions of the Act or an abuse of the provisions of the Act read as a whole.
+
+[5] S. 245 was enacted against the background of the decision of the Supreme Court of Canada in Stubart Investments Ltd. v. The Queen[3]. That decision put an end to any notion that a business purpose was necessary to the validity of a transaction for purposes of the Act. Stubart led the Supreme Court to say the following in Duha Printers (Western) Ltd. v. The Queen[4]:
+
+"It is well established in the jursprudence of this Court that no "business purpose" is required for a transaction to be considered valid under the Income Tax Act, and that a taxpayer is entitled to take advantage of the Act even where a transaction is motivated solely by the minimization of tax: Stubart Investments Ltd. v. The Queen [1984] 1 S.C.R. 536. Moreover, this Court emphasized in Antosko, supra, at p. 327 that, although various techniques may be employed in interpreting the Act, "such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed"."
+
+It is evident from the language chosen by the legislature to express its will that its objective was to bring an end to some, but not all, forms of tax avoidance. S. 245(3) makes it clear that the legislature intended to exclude from the scope of the GAAR those transactions which, viewed objectively, could be seen to have been undertaken primarily for a bona fide purpose. There can be no doubt that a transaction undertaken primarily to achieve a non-tax business objective is not within the scope of the GAAR. As I see it the use of the word "primarily" is intended to preserve the right of the taxpayer to structure a business driven transaction in a tax effective manner.
+
+[6] As a consequence of the February 17, 2000 judgment of the Court of Appeal this Court held a second hearing at which the parties made further submissions regarding the application of s. 245 to the A$ borrowing. The Respondent argued that the events which constituted that borrowing were subject to s. 245. In his summary, counsel for the Respondent submitted that:
+
+"The Appellant wanted to borrow Canadian dollars to use in its business. Rather than borrow Canadian dollars directly, it arranged to issue Australian dollar denominated debentures for exchange or conversion first into Japanese yen and then Canadian dollars.
+
+It may reasonably be considered that the Appellant arranged to issue the Australian dollar debentures, i.e. to denominate the debentures in Australian dollars, and to enter into the associated currency transactions, primarily to obtain the tax benefit of:
+
+a) deducting interest at the higher Australian rate rather than the Canadian rate;
+
+b) deferring the taxation of the offsetting locked-in gain for five years when the debentures were repaid;
+
+c) obtaining capital gains treatment for the locked-in gain.
+
+Issuing the debt in Australian dollars rather than the needed Canadian dollars was an abuse of the Act as a whole because it converted non-deductible Canadian principal repayments to a deductible expense thereby inflating the cost of the borrowing solely for tax purposes. The Appellant was attempting to deduct capital, the Canadian dollar principal payments, in the guise the Australian dollar interest payments by taking advantage of a divergence between the legal form of the transactions, and their true effect when viewed realistically, for purposes of section 245 of the Act, the characterization of a transaction cannot be taken to rest on legal form alone; rather, the effect of the transaction should be viewed realistically. There can be no serious dispute that the effect is as described above.
+
+The tax consequences to the Appellant that would be reasonable in the circumstances in order to deny the tax benefit, that but for section 245 would result directly or indirectly from the avoidance transaction, would be to disallow that part of the annual interest payments permitted under paragraph 20(1)(c) that represents repayments of principal."
+
+[7] The Appellant argued that s. 245 does not apply because:
+
+a) there is no "tax benefit" within the meaning of s. 245(1);
+
+b) the A$ borrowing was undertaken primarily for a bona fide non-tax purpose and thus there is no avoidance transaction within the meaning of s. 245(3); and
+
+c) the transaction would not result directly or indirectly in a misuse of any provision of the Act or an abuse having regard to the provisions of the Act read as a whole.
+
+[8] In my view the Appellant must succeed because the A$ borrowing and the series of transactions of which it formed a part may reasonably be considered to have been arranged primarily to raise capital and that was, within the meaning of s. 245(3), a bona fide (business) purpose which was not tax driven.
+
+[9] It was not suggested that the findings of basic fact set out in the Reasons for Judgment dated July 3, 1998 were in error. I will not repeat all that was said before. It is sufficient to reproduce two passages which are of particular relevance to the application of s. 245:
+
+a) paragraph 4
+
+"Each borrowing and the foreign currency transactions associated with it was designed, I infer, to satisfy a need for borrowed capital in a way which would inflate the amount of interest fully deductible under paragraph 20(1)(c) while providing an offset to the higher interest costs in the form of a locked-in gain to be realized on the sale of the borrowed foreign currency. It was the Appellant's intention to treat the locked-in gains when realized as capital gains."
+
+b) paragraph 21 (d)
+
+"The Appellant's decision to borrow at all was made for business reasons. The Appellant's decision to effect the borrowing in foreign currency was an attempt to lower its overall borrowing costs, when viewed on a purely economic basis, by structuring the transactions to secure
+
+i) enhanced paragraph 20(1)(c) deductions,
+
+ii) the locked-in gains, and
+
+iii) anticipated capital gains treatment of the locked-in gains."
+
+[10] At this point I will note that I do not agree with the Respondent's assertion that "issuing the debt in A$ rather than the needed C$ ... converted non-deductible Canadian principal repayments to a deductible expense thereby inflating the cost of borrowing solely for tax purposes". While that statement may be accurate as a condensed description of overall economic effect it is not what happened at all and it is important for purposes of the s. 245 analysis to be clear on what did happen. What the Appellant did was choose to satisfy its need for capital for use in its business by borrowing money. It made a second choice, namely, to achieve its objective by means of a borrowing of A$. That second choice carried with it a burden and a benefit. The burden was the obligation to pay interest on the borrowed money at 16.125%, the market rate for A$ borrowings. That rate was substantially higher than the rate which the Appellant would have been obliged to pay had it borrowed C$ directly. The benefit was the opportunity to engage in a profitable foreign exchange transaction. The Appellant was able to sell for immediate delivery the A$ which it had borrowed. It was able to buy in 1989 for delivery in 1994 the A$ required to retire the debentures at maturity. The difference between the exchange rate applicable to 1989 sales of A$ for immediate delivery and the rate applicable to purchases in 1989 of A$ for delivery in 1994 yielded the Appellant an enormous foreign exchange profit. There can be no doubt that the high interest rate on A$ borrowings was linked to the inflationary conditions which made the A$ delivered in 1994 worth less than the A$ delivered in 1989 but that economic linkage does not support a conclusion that the principal repayments on the debentures were in some way "converted" into a deductible expense. S. 245 does not permit the recharacterization of an event for purposes of determining whether s. 245(2) applies. Recharacterization is permissible under s. 245(5)(c) only where it can be found that s. 245(2) applies on the basis of transactions which have not been subjected to recharacterization.
+
+[11] The first step in considering whether s. 245 applies to a transaction is to determine whether the transaction results in a "tax benefit" as defined in s. 245(1). The Respondent pleaded in the Reply to the Notice of Appeal that one of the findings on which the assessment was based was:
+
+"(h) the transactions referring to Australian dollars would, but for section 245 of the Income Tax Act, result in a reduction, avoidance or deferral of tax or other amount payable under the Income Tax Act or an increase in a refund of tax or other amount under the Income Tax Act through the deduction of an amount greater than the actual amount of interest paid or payable;"
+
+It is evident from what I have said in paragraph 10 that I do not agree with an analysis which suggests that the A$ borrowing resulted in a reduction of tax through the deduction of an amount greater than the interest in fact paid or payable. It does not follow however that there was no tax benefit.
+
+[12] The definition of tax benefit in s. 245(1), by referring to "a reduction, avoidance or deferral of tax ...", assumes the existence of a standard amount of tax against which reduction may be measured[5]. Here it is clear on the evidence that the Appellant acted in response to a need for borrowed capital in the form of Canadian dollars (C$). It is also clear that a direct borrowing of C$ could have been accomplished at an interest rate far lower than 16.125%. In my view, in the circumstances of this case, the question whether the transaction resulted in a reduction of tax is to be answered by reference to the amount of tax which would have been exigible had the Appellant borrowed the relevant amount directly in C$. The standard against which reduction is to be measured is not a transaction which is theoretically possible but, practically speaking, unlikely in the circumstances. I will therefore note that a direct borrowing of C$ is what the Appellant could have done and, in my opinion, would, but for tax reasons, have done. I say that because, even where the offsetting benefits produced by the foreign exchange transactions made possible by the A$ borrowing are taken into account, the A$ borrowing cost the Appellant at least 40 basis points more on a pre-tax basis than interest on a direct C$ borrowing. I am not inclined to agree with the expert witnesses who thought that the difference was not material. The Appellant, it will be remembered, was borrowing a very substantial sum of money and a difference of 40 basis points or more would be very significant indeed. To this I will add that one of the Appellant's executives testified regarding the many considerations which are routinely taken into account by the Appellant when a major borrowing is contemplated. I am not persuaded that the A$ borrowing offered the Appellant any significant non-tax advantage which would have been unavailable had the Appellant chosen to borrow C$ directly. The A$ borrowing therefore reduced tax by generating interest costs deductible under paragraph 20(1)(c) which were substantially higher than C$ borrowing costs and by reaping the offsetting advantage in a form which, in light of the decision in Shell[6], I am compelled to regard as a capital gain. Clearly, the transaction resulted in a tax benefit.
+
+[13] In crafting s. 245, the legislature defined the term "tax benefit" in comprehensive language designed to give a broad initial scope to the term "avoidance transaction". The legislature proceeded next to focus the section on transactions regarded as offensive by:
+
+a) limiting the definition of avoidance transactions to exclude those which "... may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit" and
+
+b) enacting s. 245(4).
+
+[14] The position of counsel for the Respondent with respect to the s. 245(3) primary purpose test was that the overall purpose of borrowing the C$ capital does not assist the Appellant for there was no purpose for the foreign currency borrowing other than obtaining a tax benefit by way of current reduction of tax and deferral of the taxation of the offsetting compensation at capital gains rates. Counsel pointed out that s. 245(3) states that if any one step taken in a series of transactions was not carried out primarily for bona fide non-tax purposes then that step will constitute an avoidance transaction. Counsel argued that where a transaction is carried out for a combination of bona fide non-tax purposes and tax avoidance, the primary purpose of the transaction must be determined. A transaction, he said, will not be considered to be an avoidance transaction because, incidentally, it results in a tax benefit or because tax considerations were a significant, but not primary, purpose for carrying out the transaction. However, tax reduction was, he insisted, the primary purpose for borrowing in A$.
+
+[15] It should be noted that the words "may reasonably be considered" imply that the s. 245(3) purpose test is objective in nature[7]. That is understandable having regard to the slippery and unreliable quality of statements of subjective intent as a basis for arriving at tax results. The A$ borrowing and the foreign exchange transactions constitute a series of transactions within the meaning of s. 245(3)(b) and s. 248(10). The evidence established that, at the Appellant's insistence, the closing of the transactions proceeded on the basis that the Appellant was not committed to any of the transactions unless all of them went ahead. Nevertheless, the Respondent's case is not advanced. The transactions which the Respondent says constitute the series were, when viewed objectively, inextricably linked as elements of a process primarily intended to produce the borrowed capital which the Appellant required for business purposes. The capital was produced and it was so used. No transaction forming part of the series can be viewed as having been arranged for a purpose which differs from the overall purpose of the series. The evidence simply does not support the Respondent's position. Accordingly none of the transactions on which the Respondent relies was an avoidance transaction within the meaning of s. 245(3).
+
+[16] S. 245(4) leads to the same result. In McNichol v. R.[8] the following is said:
+
+"Subsection 245(4) provides that subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of the Act or in an abuse having regard to the provisions of the Act read as a whole. It operates by way of exception to the general rule laid down in subsection (3) and, I take it, must have been intended to make allowance for transactions which the legislature sought to encourage by the creation of tax benefit or incentive provisions or which, for other reasons, do no violence to the Act, read as a whole."
+
+In my view the Minister put the cart before the horse when, as already explained, he attempted to recharacterize events by asserting that issuing the debt in A$ was an abuse of the Act as a whole because it converted non-deductible Canadian principal repayments to a deductible expense. That, I repeat, is not what happened. The Appellant seeks to deduct the interest expense payable pursuant to the A$ debentures. In respect of the virtually identical transaction considered in Shell (supra)McLachlin J. (as she then was) stated at page 649:
+
+"Allowing Shell to deduct its interest payments at the actual rate that was paid to the foreign lenders in exchange for the NZ$150 million that was then used for the purpose of producing income is not contrary to the object and spirit of s. 20(1)(c)(i). To the contrary, it fulfills its purpose."
+
+Clearly, s. 245(4) also dictates that s. 245(2) cannot apply here.
+
+[17] There is one final point which must be made. In the words of my colleague Bowman J. in Jabs Construction Ltd. v. R.[9]:
+
+"Section 245 is an extreme sanction. It should not be used routinely every time the Minister gets upset just because a taxpayer structures a transaction in a tax effective way, or does not structure it in a manner that maximizes the tax."
+
+[18] I would therefore allow the appeal and refer the assessment back to the Minister of National Revenue for reassessment on the basis that the Appellant is entitled to deduct the interest in issue.
+
+Signed at Ottawa, Canada, this 13th day of October 2000.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+"(1) Definitions. In this section,
+
+"tax benefit" – "tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+"tax consequences" – "tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+"transaction" – "transaction" includes an arrangement or event.
+
+(2) General anti-avoidance provision. Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+(3) Avoidance transaction. An avoidance transaction means any transaction.
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+(4) Where s. (2) does not apply. For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+(5) Determination of tax consequences. Without restricting the generality of subsection (2),
+
+(a) any deduction in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+
+(b) any such deduction, any income, loss or other amount or part thereof may be allocated to any person,
+
+(c) the nature of any payment or other amount may be recharacterized, and
+
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+
+(7) Exception. Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+
+(8) Duties of Minister. On receipt of a request by a person under subsection (6), the Minister shall, with all due dispatch, consider the request and, notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6)
+
+[1] [1999] 3 S.C.R. 622
+
+[2] S.C. 1988 c. 55 s.185 (2)
+
+[3] [1984] 1 S.C.R. 536.
+
+[4] [1998] 1 S.C.R. 795 at 839
+
+[5] McNichol v. The Queen, 97 DTC 111
+
+[6] Shell Canada Ltd. v. Canada (supra) at page 653-4.
+
+[7] OSFC Holdings Ltd. v. R. [1999] 3 C.T.C. 2649
+
+[8] 97 DTC 111 at 120
+
+[9] 99 DTC 729 at 738
+

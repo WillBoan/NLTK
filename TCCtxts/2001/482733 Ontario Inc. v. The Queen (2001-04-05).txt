@@ -1,0 +1,182 @@
+Date: 20010405
+
+Docket: 1999-3212-GST-I; 1999-3213-GST-I
+
+BETWEEN:
+
+482733 ONTARIO INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Sarchuk J.T.C.C.
+
+[1] These are appeals by 482733 Ontario Inc. from two assessments bearing numbers 05DP0013723 and 414149 made by the Minister of National Revenue (the Minister) on September 23, 1997 and April 29,1998, respectively. Both assessments relate to the period from December 1, 1995 to December 31, 1996 (the Period) and arise from the same series of transactions. However, the issue in each appeal is different and will be dealt with separately.
+
+[2] The First Assessment: The Appellant was registered for purposes of Part IX of the Excise Tax Act (the Act) effective December 1, 1995. During the Period, it reported goods and services tax (GST) collected in the amount of $65,674.15 and claimed input tax credits (ITCs) in the amount of $75,748.26 to report net tax refundable in the amount of $10,674.11 for the Period. In reassessing the Appellant the Minister disallowed ITCs claimed in the amount of $62,438.26 and assessed penalties and interest of $2,828.64 and $1,505.60, respectively. In so doing, the Minister acted on the basis that:
+
+4(i) the Appellant claimed ITCs in the amount of $62,438.26 that did not correspond to a taxable supply taxable at 7%;
+
+4(j) the supplies of interlining for which the Appellant claimed ITCs in the amount of $62,438.26 are a 0% taxable supply pursuant to subsection 1(1) and section 11 of Part VII of Schedule VI of the Act;
+
+4(k) no tax was payable or paid by the Appellant on the receipt of the supply of interlining that is the issue of the denial of ITCs this appeal;
+
+4(l) pursuant to section 169(1) of the Act, an input tax credit is subject to tax having been payable or paid in respect of a supply; and
+
+4(m) sufficient and appropriate evidence as required by subsection 169(4) of the Act and the Input Tax Credit Information Regulations was not obtained and maintained by the Appellant in relation to the ITCs claimed and denied.[1]
+
+[3] Testimony on behalf of the Appellant with respect to this assessment was given by Howard Winick (Winick). He said that on December 1, 1995, the Appellant purchased a business known as KM Delivery Service (KM) from Kay Ann Marks (Marks).[2] KM was in the business of providing "full management of delivery services" to four customers each of whom did not wish to become involved in the setting up of an internal system for that purpose utilizing their own employees and drivers. The two major customers were Charles Abel (Abel) and Benjamin Film Labs (Benjamin) and deliveries for them comprised over 85% of its business. Winick described Abel as a photo finishing company which had contracted with KM to deliver their product primarily developed and undeveloped film to its stores throughout southern Ontario from Kingston to Windsor. As a general rule, KM picked up the product at the Abel plant in Toronto. The pickup consisted of large bins of developed and undeveloped film packaged in separate bags and identified by Abel with the appropriate store number for delivery purposes. According to Winick, it was brought to the Appellant's warehouse for sorting, if necessary, "routing" the deliveries and making the necessary arrangements to ship the items as required.[3] When the sorting and organizing was done, the "product" was turned over to "independent contractors" or "brokers", i.e. drivers with their own vehicles,[4] who delivered the product as required. In all instances, the Appellant was paid by its customers on a per delivery basis. The delivery services provided to Benjamin were for all practical purposes identical to that of Abel. The remaining 15% of KM's business reflected the delivery of printing supplies and packages for Sears. As was the case with the photo finishing products, the arrangement required KM to merely pick up a large bin full of printing supplies, labelled and addressed for delivery and attend to that service.[5]
+
+[4] Appellant's position – First Assessment: The basis for the Appellant's submission that the Minister erred in assessing to disallow its claim for ITCs is twofold. First, the deliveries were made by "brokers" and accordingly, as carriers they were required to charge GST. Second, there was no "continuous freight movement" because the Appellant "in fact became the shipper" and thus there was no interlining involved. The Appellant also maintains that with respect to approximately 85% of its business there was a stopover which on occasion lasted for as long as four or five days. Its representative argued that following the pickup up of the "buckets of product with the store codes" at the clients' premises, they were taken "back to our warehouse, sorting them and making routes and directing the carriers where to go". The Appellant relies on the decision in American Adventures 2000 v. The Queen[6] to support the proposition that where there is a stopover, there is not a continuous freight movement and that therefore tax is applicable on each part.
+
+[5] Statutory Provisions: The relevant sections of the Act are:
+
+123(1) In section 121, this Part and Schedules V to X,
+
+“carrier” means a person who supplies a freight transportation service within the meaning assigned by subsection 1(1) of Part VII of Schedule VI;
+
+“zero-rated supply” means a supply included in Schedule VI.
+
+165(3) The tax rate in respect of a taxable supply that is a zero-rated supply is 0%.
+
+Part VII, Schedule VI – Transportation Services
+
+1(1) In this Part,
+
+"continuous freight movement" means the transportation of tangible personal property by one or more carriers to a destination specified by the shipper of the property, where all freight transportation services supplied by the carriers are supplied as a consequence of instructions given by the shipper of the property;
+
+"shipper" of tangible personal property means the person who, in respect of a continuous freight movement or a continuous outbound freight movement, transfers possession of the property being shipped to a carrier at the origin of the freight movement and, for greater certainty, does not include a person who is a carrier of the property to which the freight movement relates;
+
+11 A supply of a freight transportation service made by a carrier of the property being transported to a second carrier of the property being transported, where the service is part of a continuous freight movement and the second carrier is neither the shipper nor the consignee of the property being transported.
+
+[6] Analysis – First Assessment: The Appellant's reliance on the decision in American Adventures is misplaced. That case dealt with a taxpayer which was a tour operator and the issue was whether two tours involving no "stopovers" constituted zero-rated "continuous journeys".[7] As was observed by the Court in American Adventures, passenger transportation services that are included in a tour package can in certain instances form part of a "continuous journey" and thus be zero-rated for GST purposes. "Continuous journey" is an exception to the general rules of applicability of GST to tour packages as outlined in section 163 of the Act. However, these concepts have absolutely no application in the Appellant's case. The definition of "continuous journey" applies only to a "continuous journey of an individual or groups of individuals" and is not applicable to a supply of a freight transportation service as defined in section 11 of Part VII, Schedule VI of the Act.
+
+[7] The next question is whether the Appellant is correct in arguing that it became the shipper and was not interlining. Interlining describes a process where several carriers participate in the supply of a freight transportation service in the course of a continuous freight movement from the shipper's premises to the customer's premises. I am satisfied that the facts of this case establish a continuous freight movement involving one or more carriers to a destination specified by the shipper of the property. A shipper is clearly defined in the Act and on the facts in this case, it is clear that Abel, Benjamin and Sears, respectively, and not the Appellant were the shippers. Furthermore, in my view, there is equally no doubt that the Appellant falls squarely within the definition of carrier and was a person which supplied a freight transportation service within the meaning assigned by subsection 1(1) of Part VII of Schedule VI. Accordingly, the Minister was correct in assessing on the basis that the supply provided to the Appellant by other carriers that participated in the continuous freight movement was a zero-rated supply.
+
+[8] The Second Assessment: Upon receipt of the first assessment, the Appellant filed a notice of objection and concurrently, as an alternative measure, made application for a rebate of tax paid in error in the amount of $50,950.10. In assessing to deny the rebate sought, the Minister made the following assumptions of fact:
+
+(b) Appellant claimed a rebate of tax paid in error in the amount of $50,950.10 that did not correspond to a taxable supply taxable at 7%;
+
+(c) the supply that is the subject of the rebate claim is the supply of freight transportation services ("interlining");
+
+(d) the supplies of interlining for which the Appellant claimed a rebate of tax paid in error in the amount of $50,950.10 are a 0% taxable supply pursuant to subsection 1(1) and section 11 of Part VII of Schedule VI to the Act;
+
+(e) no tax was payable or paid by the Appellant on the receipt of the supply of interlining that is the issue of the denial of the rebate in this appeal;
+
+(f) pursuant to section 261(1) of the Act, a person is only eligible for a rebate of tax paid in error where the person has paid an amount of tax that was not payable or remittable by the person; and
+
+(g) the Appellant did not pay an amount of tax in the amount of $50,950.10.[8]
+
+[9] Appellant's Evidence: Winick testified that at the time the Appellant was considering the purchase of KM as part of the due diligence, it reviewed a number of matters including goods and services tax returns for KM and satisfied itself the vendors were up-to-date on all of the filings. He alleges that the brokers who made deliveries on behalf of KM were listed on those returns and that excepting one or two individuals all had GST registration numbers.[9] He said that following the purchase, KM "continued to operate in exactly the same manner, with the same personnel, the same drivers, the same computer program and the same software as had been used by the previous owners". He produced five sample "payout sheets" which he said documented the amount each broker was paid for each two-week period[10] which amount included GST. He also produced computer printouts with respect to GST paid by the Appellant on purchases and said that in the system used, the payments to the brokers by KM were included as a purchase item. Thus, he said, the total amount of GST reflects the period of time under assessment and forms the basis for the Appellant's claim for ITCs on its return.[11] These documents were provided to the Appellant by Heather Chamberlaine (Chamberlaine). She had been employed by KM and, according to Winick, following its purchase by the Appellant she "had a contract of services with our company" to provide operational services to KM which involved "part book work, part organization ... helping sort stuff, helped hiring brokers if we needed them ... " and included some of the firing. She was also responsible for attending to all aspects of payment of the "brokers" for their services.
+
+[10] At the objection stage the Appellant, in response to a request by Revenue Canada for confirmation of GST payments by the Appellant to its brokers, provided the auditor with nine documents purporting to be invoices issued to KM by eight different brokers.[12] A further set of documents was provided by the Appellant to Respondent's counsel prior to trial purporting to be invoices for services rendered by a number of other brokers.[13] According to Winick, these documents are consistent with and support the amounts of GST paid as shown in the general ledger.[14] He did concede these invoices had not been provided by the brokers but said they "might have used our computer program" to generate them.
+
+[11] Evidence was also adduced from Marilyn Leslie (Leslie), a consultant hired in August 1995 by the former owners of KM to facilitate the sale of the business. She testified that its books and records which had been prepared and maintained by Chamberlaine and Brenda Turner, a part-time bookkeeper, were made available to her. KM's GST returns for the period January 1 – June 30, 1995[15] formed part of these records and she was led to believe by Chamberlaine that all but two of the "brokers" listed therein had applied for GST registration. She had seen GST numbers in individual folders but was unable to verify that in fact they had registered. With respect to the actual payment of GST to the brokers, Leslie said she could not attest to the fact that GST was actually paid to them, had never actually seen the invoices or payslips, but was led to believe that a portion of their daily rate reflected GST. The source of her information with respect to all of these "beliefs" was Chamberlaine. Leslie also specifically pointed out that she was only aware of what was done to December 31, 1995 since her contract ended shortly thereafter, and that although the subsequent format appears to be the same, she had no way of knowing.
+
+[12] Respondent's Evidence: George Choremis is an appeals officer with Revenue Canada. He became involved in these appeals following the filing of the notices of objection by the Appellant. As part of the process, he examined the documents initially provided by the Appellant.[16] Utilizing the Revenue Canada data base, he attempted to determine whether the individuals named on the invoices were registered, the date of registration and the registration number. His review disclosed the following:
+
+(a) Masaud Ansari: Two invoices dated December 15 and 31, 1995. The data base established that Ansari both registered and de-registered on October 31, 1995 and that there was no record of any subsequent registration. No GST returns for the periods set out in the invoices had been filed by this individual.
+
+(b) Ali Golriz: The data base disclosed that the GST registration number on an invoice purportedly issued by Golriz to KM on March 31, 1996 did not exist in the system and was not a valid GST number.
+
+(c) The remaining six documents in this group purport to be invoices from Doug Urie (dated Mar/96), Joe Gramueller (Jan/96), Amir Pourtayyebe (Oct/96), Robert Webster (Nov/96), Douglas Bell (Mar/96) and Marcy McGuinnes (Feb/96). None of these invoices were signed. Each document bears a GST registration for that individual.
+
+Choremis testified the data base established that in each case the registration number was valid but also established that none of them had been issued prior to the latter part of May or the early part of June 1997. In view of the fact that the GST registration numbers on these documents had not come into existence until well after the dates indicated on the invoices, Choremis, by way of letter to Winick, asked for written confirmation that the Appellant did in fact pay GST or was billed GST by these individuals. There was no response from the Appellant. According to Choremis, it was not possible for Urie, Gramueller, Pourtayyebe, Webster, Bell and McGuinnes to have provided these invoices on the dates indicated bearing a registration number which in each case had not been issued.
+
+[13] Evidence was also adduced by counsel for the Respondent from Mike Mant (Mant). He had been employed as a full-time driver by KM since it began to carry on business. At all relevant times, he was paid by cheque and had never been required to provide KM with invoices. Mant examined a series of documents covering the period December 1 to December 31, 1995 and January 1 to November 30, 1996[17] which had been submitted by the Appellant to Revenue Canada. Each purported to be an invoice from Mant to KM for delivery services for a specified period and included GST at 7%. All were unsigned. Mant said he had never seen these documents, had never provided any invoices to KM and was not being paid GST. He did not dispute that the GST registration number on these documents was his but says he signed an application for registration presented to him by "one of Heather's deputies" in 1995 when KM was in financial difficulty, its cheques were bouncing and the payment of wages was being delayed for periods as long as several weeks. He says he agreed to KM's specific request to do so "because that was the only way I would get a paycheque". Mant also examined a document purporting to be his Affidavit dated September 18, 1997 which states that he was an independent contractor providing services to KM; that he was never an employee of KM; that he provided services and charged KM for them; and that he was aware that he charged and received GST from KM.[18] Mant testified that he had never seen this document prior to it being presented to him in Court, that it had not been prepared by him, that the statements in it were not true and that the signature was not his.
+
+Appellant's Position
+
+[14] The Appellant, carrying on a delivery business as KM, subcontracted services to individual brokers. The Appellant maintains that, acting on the assumption these individuals were required to register and collect GST, the amounts it paid to them were inclusive of GST. The Appellant now says that since this GST was paid in error, it is entitled to a rebate of the tax pursuant to section 261 of the Act.
+
+Analysis
+
+[15] Subsection 261(1) of the Act provides as follows:
+
+261(1) Where a person has paid an amount
+
+(a) as or on account of, or
+
+(b) that was taken into account as,
+
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+
+The supply that is the subject of the rebate claim in this appeal is the supply of freight transportation services commonly referred to as interlining which are zero-rated pursuant to the provisions of subsection 1(1) and section 11 of Part VII of Schedule VI to the Act. Accordingly, if the Appellant is to succeed it is incumbent upon it to establish that the rebate amounts claimed were paid by mistake to the brokers as or on account of tax.
+
+[16] It is incumbent on the Appellant to establish the nature of the agreement between KM and the brokers and, more specifically, to establish that the amounts paid to the latter included an amount paid as or on account of tax. The evidence as a whole suggests that brokers entered into oral contracts with KM and were paid for their services primarily on a per diem basis. As well, at some point of time in 1995 prior to the Appellant's acquisition of KM, Chamberlaine and the brokers appear to have discussed the registration issue. There is, however, no credible evidence before the Court to establish whether the brokers accepted KM's position that their supply of services was taxable. The Appellant relies principally on the testimony of Winick and the documents submitted. However, it is apparent that, at best, Winick had no more than a limited involvement in the day-to-day operations of KM. There is no evidence that he personally negotiated any of the broker contracts. He did not know how any driver billed for his services but observed that "Heather would" and he concedes that he knew what they were paid only "because it's on the pay sheets", summaries of which he received every two weeks from Chamberlaine.
+
+[17] The documents tendered by the Appellant in support of its case are, in my view, suspect. The first group of invoices[19] was tendered as proof that the amounts paid to the brokers were inclusive of GST but none of them could possibly have been prepared prior to May or June 1997 when the registration numbers were first issued. The Appellant was urged to provide additional information to clear up the discrepancy, but none was forthcoming. With respect to the second group of invoices (Exhibit R-1, tabs 10-19) none appear to have been provided by the brokers. All are unsigned and, given the testimony of both Winick and Leslie, it is safe to conclude they had been generated internally, probably by Chamberlaine or her assistant. What has not been answered is when this was done. In the absence of any explanation, it is difficult to accept these documents as adequate proof of the arrangement with respect to GST alleged by the Appellant to exist between KM and each broker. Mant, in his testimony (which was not seriously challenged), contradicted the Appellant's position and raised additional doubt as to the authenticity of the invoices and records the Appellant submitted. The Appellant's position appears to be that because it recorded part of the payments to the brokers as being on account of GST that is sufficient proof to entitle the Appellant to the rebate. I am unable to accept that proposition in the absence of some evidence that an agreement with the brokers as to GST existed. It must be remembered that the brokers were not the "person" which "supplied freight transportation service" and thus were providing a zero-rated supply. There is no evidence which would entitle the Court to assume that they were not aware of this fact.
+
+[18] It should also be noted that two of the employees that are alleged by the Appellant to have provided zero-rated services and were erroneously paid GST were not in fact providing delivery services. As such, if any GST had been paid to them, it would not be rebatable in any event. These two were Heather Chamberlaine who provided operation/managerial services and Robyn Leslie, the daughter of the witness, Marilyn Leslie. Both Winick and the Appellant's documents referred to Robyn Leslie as a broker. This was contradicted by Marilyn Leslie who said that her company, The Marway Group, contracted to provide administrative services to one of KM's clients which service was provided by Robyn. Marway invoiced KM specifically for that service. Leslie also noted that the Appellant's invoices[20] which referred to Robyn as providing delivery services were internal to KM and appear to have been substituted for the invoices which Marway had submitted.
+
+[19] The evidence adduced on behalf of the Appellant falls short of establishing that the amounts paid by KM to its brokers included GST. The Appellant was aware that its assertion that the amounts paid to its brokers included GST and the documents it submitted in support thereof were being called into question. Chamberlaine was the office manager both prior to and following KM's acquisition by the Appellant. She attended to its day-to-day management and was the person who attended to the contractual arrangements with the brokers. Since Winick himself had no firsthand knowledge of the arrangements which had been made with the brokers (particularly any which may have been made prior to the Appellant's acquisition of KM), it is surprising to say the least that the only person in a position to do so, Chamberlaine, was not called to testify. I note that when Leslie initially indicated a reluctance to testify, Winick served her with a subpoena. That same avenue was available to the Appellant with respect to Chamberlaine. In these circumstances, the failure to call her can only lead to the inference that her testimony would have been unfavourable to the Appellant.
+
+[20] The Appellant has failed to meet the onus of establishing its case. Accordingly, the appeals are dismissed.
+
+Signed at Ottawa, Canada, this 5th day of April, 2001.
+
+"A.A. Sarchuk"
+
+J.T.C.C.
+
+[1] Reply to the Notice of Appeal no. 1999-3212(GST)I - page 3, paragraph 4.
+
+[2] Winick testified that KM continued to be the operating name of the business and throughout his testimony referred to the activities of the Appellant as those of KM.
+
+[3] On another occasion, Winick testified that the sorting was also done at the customers' premises.
+
+[4] Winick used the terms brokers, drivers, carriers and independent contractors interchangeably in describing these employees.
+
+[5] The fourth contract was concluded in March 1996 and represented only a very small percentage of the Appellant's business.
+
+[6] 5 G.S.T.C. 1003.
+
+[7] Part VII, Schedule VI – Transportation Services
+
+1(1) In this Part,
+
+“continuous journey” of an individual or a group of individuals means the set of all passenger transportation services provided to the individual or group
+
+(a) and for which a single ticket or voucher in respect of all the services is issued, or
+
+(b) where 2 or more tickets or vouchers are issued in respect of 2 or more legs of a single journey of the individual or group on which there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, and all the tickets or vouchers are issued by the same supplier or by 2 or more suppliers through one agent acting on behalf of all the suppliers where
+
+(i) all such tickets are supplied at the same time and evidence satisfactory to the Minister is maintained by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, or
+
+(ii) the tickets or vouchers are issued at different times and evidence satisfactory to the Minister is submitted by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued;
+
+“stopover”, in respect of a continuous journey of an individual or a group of individuals, means any place at which the individual or group embarks or disembarks a conveyance used in the provision of a passenger transportation service included in the continuous journey, for any reason other than transferring to another conveyance or to allow for servicing or refuelling of the conveyance;
+
+[8] Reply to the Notice of Appeal no. 1999-3213(GST)I - page 2, paragraph 4.
+
+[9] Exhibit A-1 – GST return for January 1-March 31, 1995; and Exhibit A-2 – GST return for April 1-June 30, 1995.
+
+[10] Exhibit A-3 – broker payout sheets for five sample two-week periods, one for the December 16-31 period in 1995 and four sample periods for 1996. The hand-written notations on the document are not those of the Appellant or its staff. It is not disputed that all payout sheets for the 1996 year were provided to Revenue Canada.
+
+[11] Exhibit A-5 – general ledger re: GST.
+
+[12] Exhibit R-1, tabs 1-9.
+
+[13] Exhibit R-1, tabs 10-19.
+
+[14] Exhibit A-5.
+
+[15] Exhibits A-1 and A-2.
+
+[16] Exhibit R-1, tabs 1-9, inclusive.
+
+[17] Exhibit R-1, tab 16.
+
+[18] Exhibit R-2.
+
+[19] Exhibit R-1, tabs 1 – 9.
+
+[20] Exhibit R-1, tab 14.
+

@@ -1,0 +1,486 @@
+Date: 20020322
+
+Docket: 2000-5127-GST-I
+
+BETWEEN:
+
+GINETTE V. PAQUET,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] This is an appeal from an assessment under Part IX of the Excise Tax Act ("the Act") for the period from June 1, 1995, to December 31, 1997, notice of which is dated July 27, 1999, and numbered PACT-0217055.
+
+[2] The assessment concerns $4,789.07 in goods and services tax ("GST") that was allegedly not collected or remitted on taxable supplies as well as $6,479.17 in input tax credits ("ITCs") that were allegedly wrongfully claimed in relation to exempt supplies, for a total of $11,268.24. The appellant was also assessed $1,874.36 in penalties and $1,334.82 in interest.
+
+[3] For the purposes of the assessment, the Minister of National Revenue ("the Minister") relied on the findings and assumptions of fact set out in subparagraphs 19(a) to (i) of the Reply to the Notice of Appeal. Those subparagraphs read as follows:
+
+[TRANSLATION]
+
+19. In assessing the appellant, the Minister relied on the following findings and assumptions of fact:
+
+(a) the appellant is a GST registrant;
+
+(b) the appellant was audited under the Excise Tax Act;
+
+(c) during the period from June 1, 1995, to December 31, 1997, the appellant operated a catering business;
+
+(d) during the audit, it was found that supplies made to persons and/or businesses working in the field of day care in schools were not taxed by the appellant;
+
+(e) in light of this fact, the respondent's representative reviewed the supplies made to the persons and/or businesses referred to in subparagraph (d);
+
+(f) an examination of the available documents, including the invoices issued, revealed the following facts:
+
+- the consideration paid by the customer was based on a per-person or per-serving charge;
+
+- the meals were prepared to the customer's specification;
+
+- the meals were delivered to the place designated by the customer;
+
+- the appellant was known (advertised) as a caterer;
+
+(g) following discussions with the appellant, and taking the above-mentioned facts into account, the respondent's representative determined that the supplies made to the persons and/or businesses referred to in subparagraph (d) were exempt supplies of catering services;
+
+(h) after reviewing the data entered in the accounting records, the respondent's representative determined the taxes that should have been collected and the ITCs that should have been claimed, as shown in greater detail in the attached schedule;
+
+(i) the respondent's representative thus found that the appellant had not remitted $4,789.07 in GST and had wrongfully claimed $6,479.17 in ITCs in relation to exempt supplies, as can be seen from the following table:
+
+PERIOD
+
+GROUND(S)
+
+AMOUNT
+
+95-06-01 to 95-12-31
+
+Uncollected GST
+
+$1,732.47
+
+ITCs claimed on purchases for the production of exempt supplies
+
+$1,313.13
+
+96-01-01 to 96-12-31
+
+Uncollected GST
+
+$1,061.68
+
+ITCs claimed on purchases for the production of exempt supplies
+
+$3,310.74
+
+97-01-01 to 97-12-31
+
+Uncollected GST
+
+$1,994.92
+
+ITCs claimed on purchases for the production of exempt supplies
+
+$1,855.30
+
+SCHEDULE
+
+COMPUTATION OF TAXES TO BE REMITTED
+
+01-01-98 to 30-09-98
+
+01-01-97 to 31-12-97
+
+01-01-96 to 31-12-96
+
+01-09-94 to 31-12-95
+
+TOTAL QST AND GST DISCREPANCY
+
+TOTAL SALES
+
+$147,262
+
+$206,693
+
+$208,095
+
+$326,813
+
+ELEM. SCHOOL SALES (EXEMPT)
+
+$62,514.45
+
+$114,714.85
+
+$140,013.53
+
+$163,022.27
+
+ANAPHARM SALES (TAXABLE)
+
+$28,337.57
+
+$ -
+
+$ -
+
+$ -
+
+OTHER SALES (TAXABLE)
+
+$56,409.98
+
+$91,978.15
+
+$68,081.47
+
+$163,790.73
+
+TOTAL TAXABLE SALES
+
+$84,747.55
+
+$91,978.15
+
+$68,081.47
+
+$163,790.73
+
+GST COMPUTED (SALES x 7%)
+
+$5,932.33
+
+$6,438.47
+
+$4,765.70
+
+$11,465.35
+
+GST REPORTED
+
+$2,923.11
+
+$4,443.55
+
+$3,704.02
+
+$7,505.42
+
+GST DISCREPANCY
+
+$3,009.22
+
+$1,994.92
+
+$1,061.68
+
+$3,959.93
+
+$10,025.75
+
+% OF SALES TAXABLE
+
+58%
+
+44%
+
+33%
+
+50%
+
+QST COMPUTED (SALES x 1.07 x 0.075)
+
+$6,800.99
+
+QST COMPUTED (SALES x 1.07 x 0.065)
+
+$6,397.08
+
+$4,735.07
+
+$11,391.65
+
+QST REPORTED
+
+$3,210.21
+
+$4,415.01
+
+$3,669.52
+
+$6,095.81
+
+QST DISCREPANCY
+
+$3,590.78
+
+$1,982.07
+
+$1,065.55
+
+*$4,633.86
+
+$11,272.26
+
+$21,298.01
+
+COMPUTATION OF ADJUSTED INPUTS
+
+01-01-98 to 30-09-98
+
+01-01-97 to 31-12-97
+
+01-01-96 to 31-12-96
+
+01-09-94 to 31-12-95
+
+TOTAL ITCs AND ITRs DISALLOWED
+
+% OF SALES EXEMPT
+
+42%
+
+56%
+
+67%
+
+50%
+
+ITCs CLAIMED AT 100%
+
+$2,791.62
+
+$3,313.03
+
+$4,941.40
+
+$6,002.88
+
+ITCs TO BE ELIMINATED BASED ON EXEMPT %
+
+$1,172.48
+
+$1,885.30
+
+$3,310.74
+
+$3,001.44
+
+$9,339.96
+
+ITCs ALLOWED
+
+$1,619.14
+
+$1,457.73
+
+$1,630.66
+
+$3,001.44
+
+ITRs CLAIMED AT 100%
+
+$3,009.70
+
+$3,290.38
+
+$4,844.89
+
+$3,766.14
+
+ITRs TO BE ELIMINATED BASED ON EXEMPT %
+
+$1,264.07
+
+$1,842.61
+
+$3,246.08
+
+*$1,647.69
+
+$8,000.45
+
+ITRs ALLOWED
+
+$1,745.63
+
+$1,447.77
+
+$1,598.81
+
+$1,883.07
+
+$17,340.41
+
+PERIOD FROM 1-9-94 TO 31-12-95:
+
+Statute-barred period according to QST returns (Sept. and Oct. 1994):
+
+Adjustment to QST discrepancy* discrepancy found $5,295.84
+
+statute-barred $ $661.98 (x 2/16 month)
+
+adjusted QST discrepancy $4,633.86 rather than $5,295.84
+
+Adjustment to ITRs to be eliminated* ITRs to be eliminated $1,883.07
+
+statute-barred $ $235.38 (x 2/16 month)
+
+adj. ITRs to be eliminated $1,647.69 rather than $1,883.07
+
+[4] Although the above schedule to the Reply to the Notice of Appeal sets out the relevant figures for the periods from September 1, 1994, to September 30, 1998, the assessment at issue in this case relates solely to the period from June 1, 1995, to December 31, 1997.
+
+[5] Subparagraphs 19(c), (f), (g), (h) and (i) were denied by the appellant's agent. However, the agent did not call anyone to testify.
+
+[6] Constance Roussos, Sylvie Desjardins, Gina Boudreau and Esther Guérin testified for the respondent. Those individuals did business with the appellant in one capacity or another with respect to the hot meal service provided to students at various elementary and secondary schools. Yvon Bourque and France Blouin of the Quebec Department of Revenue also testified for the respondent.
+
+[7] Constance Roussos was the person in charge of the day care centre at the Fernand-Séguin school, an elementary school in the Les Découvreurs school board. Ms. Roussos described herself as the intermediary between the parents' hot meal committee and the caterer, Ginette V. Paquet, the appellant in this case. With the help of invoices (Exhibit I-1), Ms. Roussos explained that, pursuant to an agreement with the caterer, the students' parents had to choose the number of hot meals they wanted for their children every week from the menu provided by the caterer for each day of the week. Under the prior agreement, the meals were offered at a set price. The price per meal included dishes and service (Exhibits I-2 and I-3). The parents paid the committee for the number of meals they ordered. Once the number of meals wanted for each day of the week had been calculated, the information was given to the caterer. The caterer's employee who delivered the meals also served the students, and there was a refrigerator and a range that that person could use. The caterer sent an invoice every two weeks and was paid by means of a cheque signed by two committee members.
+
+[8] In short, the parents' hot meal committee managed everything, and all that Ms. Roussos took care of was the forwarding of the documents and cheques that passed between the committee and the caterer. She said that the school's governing board or, prior to that, the committee of user parents had a veto over the agreement with the caterer, for example if the price was too high.
+
+[9] Sylvie Desjardins worked as a volunteer on the parents' committee of Les Sources school, which was a school for pupils from kindergarten to Grade 4. Ms. Desjardins explained the operation of the hot meal system for the pupils, which was more or less the same as the system described above. In this instance, Ms. Desjardins, acting on behalf of the parents' committee, cashed parents' cheques, placed their orders with the caterer and paid the caterer (see Exhibit I-5). The school did not really have a cafeteria, but it did have a room with a refrigerator and a range. The meals, delivered in pans with food warmers, were served to the pupils by the delivery person and were consumed either in the classrooms or in a room used for meetings.
+
+[10] At the relevant time, Gina Boudreau was in charge of the day care centre at the St-Claude school, an elementary school for pupils from kindergarten to Grade 6. In her testimony, she referred to the agreement between the day care centre and the caterer, Ginette V. Paquet. Things worked more or less as described above. The parents chose the number of meals they wanted for their children by filling out a form. They paid the required amount to the day care centre. The caterer's invoice was sent to Ms. Boudreau, who gave it to the school. The school then forwarded the invoice to the school board, which issued a cheque to the caterer (see Exhibits I-6 and I-7). Everything was authorized by the school principal. The school did not have a cafeteria, but it did have a room in which there was a microwave oven for warming the meals. At that school, the day care workers served the meals delivered by the caterer.
+
+[11] Esther Guérin was the person in charge of activities at the Grandes Marées school in Cap-Rouge. It was in that capacity that she did business with the appellant from 1995 to 1997 in connection with the lunchtime hot meal service for the school's pupils. The approach used with the caterer was the same as in the other cases. The parents chose the number of meals they wanted for their children from the menus offered by the caterer and they paid by cheque. The caterer delivered daily the number of meals ordered and invoiced the school every week or every two weeks, and the school wrote her a cheque for the amount of the invoice (see Exhibits I-8 and I-9). The school had a fully equipped cafeteria. The meals were delivered in bulk by the caterer in pans or pots, were served in the cafeteria by two school employees and were consumed in the cafeteria.
+
+[12] Yvon Bourque, a tax-auditing technician, explained that he had considered the supplies of meals at elementary and secondary schools to be exempt supplies and not zero-rated supplies, as the appellant had treated them. As a result, the ITCs were disallowed in relation to those exempt supplies. Since he did not have the necessary documents to determine exactly how much the appellant was entitled to in ITCs for her taxable supplies, Mr. Bourque used the figures provided by the appellant in her financial statements and disallowed ITCs based on the ratio of exempt sales to the business's total sales for 1997, 1996 and 1995. For 1995, Mr. Bourque established a prorated amount for the seven months that were not statute-barred, namely from June 1 to December 31. Basically, the appellant was considered a caterer, which was also how she advertised herself (see Exhibit I-11). The sales of meals at elementary and secondary schools were considered exempt supplies and not zero-rated supplies.
+
+[13] When cross-examined by the appellant's agent, Mr. Bourque admitted that it had also been submitted to him that the appellant had made bulk sales of sandwich filling to some Provigo stores and sales to various government departments. However, he said that he had never had in his possession the documents relating to those supplies. Mr. Bourque admitted that he had had an initial meeting with the appellant's agent in January 1999 and then a second one attended by a Ms. Mailloux, a tax expert representing the appellant, as well as two tax experts from the Quebec Department of Revenue. Mention was apparently made of obtaining a technical interpretation concerning the correct characterization of the sales to the schools. In the end, no interpretation was requested, and Mr. Bourque went ahead with the assessment because the four-year time period had already expired for part of 1995. Mr. Bourque said that he did not receive any new documents between the making of the proposed assessment and the issuing of the assessment itself, notice of which is dated July 27, 1999.
+
+[14] It should be noted that the appellant's agent sought to adduce in evidence certain tax exemption certificates from the Government of Quebec. I refused to admit those documents because they contained no information that would have made it possible to determine the sales to which they applied. One of the documents was from 1998, that is, after the assessment period at issue. The others were not even dated. As well, the appellant's agent did not provide any invoices concerning sales to government departments or agencies.
+
+[15] The appellant's agent maintained that he had in fact submitted a large number of documents to Mr. Bourque, that Mr. Bourque had made photocopies of them and that they included the documents concerning bulk product sales to some Provigo stores and sales to several Quebec government departments. Mr. Bourque denied this. Mr. Bourque also said that his use of prorating to determine the ITCs to which the appellant was entitled was justified by the lack of invoices concerning the business's expenses.
+
+[16] The appellant's agent, who basically accused Mr. Bourque of not considering all the documents submitted, which he had photocopied, himself stated that his wife had destroyed all the originals of the documents remaining in her possession because she was so exasperated by her problems with the tax authorities.
+
+[17] France Blouin, an objections officer with the Quebec Department of Revenue, also testified for the respondent. Ms. Blouin said that she had been in contact mainly with Ms. Mailloux, who was representing the appellant. Ms. Blouin confirmed that they had talked about bulk food sales to Provigo and sales to the government. She said that she had set a deadline of a month and a half to two months for the relevant invoices to be filed but that she never received them. Moreover, the invoices that she obtained from a colleague in the tax division related only to taxable sales of hot or cold buffets to Provigo and various other companies (Exhibit I-13). Ms. Blouin also stated that no invoices concerning the expenses related to the ITCs were filed.
+
+[18] Counsel for the respondent began by referring to the obligation to keep appropriate records imposed by section 286 of the Act. He also stressed the need to keep relevant documents. He argued that, without such documents, particularly the invoices for expenses, the Minister had no choice but to do a pro rata calculation to determine the ITCs to which the appellant was entitled in relation to the taxable supplies made in the course of her commercial activities. Counsel for the respondent argued that the appellant's supply of meals to elementary and secondary school students was an exempt supply specifically covered by section 14 of Part III of Schedule V of the Act, which reads as follows:
+
+14. [Food services supplied to universities, colleges and schools] — A supply of food and beverages, including catering services, made to a person that is a school authority, university, or public college under a contract to provide food or beverages
+
+(a) to students under a plan referred to in section 13; or
+
+(b)
+
+(b) in an elementary or secondary school cafeteria primarily to students of the school,
+
+except to the extent that the food, beverages and services are provided for a reception, conference or other special occasion or event.
+
+[19] According to counsel for the respondent, the term "cafeteria" is not a technical term and may be taken to mean any place used to serve and consume food. In addition, he said, the appellant was a caterer and identified herself as such. She supplied meals to a school authority under a contract to provide food primarily to elementary or secondary school students. According to counsel for the respondent, section 14 is actually a complement to section 12, which provides for cases where the school authority itself takes care of providing meals. Section 14 complements, as it were, that provision by providing for cases where the supply is made by a third party to a school authority under a contract.
+
+[20] Counsel for the respondent also stressed paragraph 1(o.5) of Part III of Schedule VI, which excludes from basic groceries, which are zero-rated supplies, "food or beverages sold under a contract for, or in conjunction with, catering services."
+
+[21] He submitted as well that the exception in subparagraph 1(q)(i) of Part III of Schedule VI is not applicable here because the food sold by the appellant in the schools could be consumed immediately or after simply being warmed. Subparagraph 1(q)(i) of Part III of Schedule VI sets out an exception to the food and beverages referred to in paragraph 1(q), which are not considered zero-rated supplies of basic groceries. Subparagraph 1(q)(i) reads as follows:
+
+1. Supplies of food or beverages for human consumption (including sweetening agents, seasonings and other ingredients to be mixed with or used in the preparation of such food or beverages), other than supplies of
+
+. . .
+
+(q) food or beverages when sold at an establishment at which all or substantially all of the sales of food or beverages are sales of food or beverages included in any of paragraphs (a) to (p) except where
+
+(i) the food or beverage is sold in a form not suitable for immediate consumption, having regard to the nature of the product, the quantity sold or its packaging . . . .
+
+[22] With regard to the argument made by the appellant's agent that the bulk sale of sandwich filling to some Provigo stores and the sales to various Quebec government departments should entitle the appellant to ITCs, counsel for the respondent argued that the appellant never submitted any invoices relating either to sales of zero-rated supplies to Provigo stores or to sales on which she did not collect the tax because the supply was made to the provincial government.
+
+[23] The appellant's agent submitted that the food for the school meals was prepared by weight and delivered in bulk to the schools in pans or pots. According to him, the food could not be consumed immediately because it was cold and had to be warmed. He also argued that, in most cases, the meals in the schools were served by the day care workers. The appellant's agent therefore submitted that the sale of meals in schools was a zero-rated supply under subparagraph 1(q)(i) of Part III of Schedule VI of the Act except as regards the sale of disposable plates and utensils, which was a taxable supply.
+
+[24] The appellant's agent also stressed the fact that the students' meals were actually sold to parents' committees and not to the school itself, so that the supply was not exempt as claimed by counsel for the respondent.
+
+[25] As for the sales of bulk products in the form of sandwich filling to Provigo stores, the appellant's agent considered them to be zero-rated supplies as well and he maintained that all of the requested invoices were submitted to the authorities, despite the fact that the Minister's representatives who testified asserted the contrary. The same is true of the supplies to various Quebec government departments on which the tax was not collected.
+
+Analysis
+
+[26] The appellant carried on a commercial activity as a caterer and moreover identified herself as such both in the telephone directory (Exhibit I-11) and in the agreements she signed and the invoices she issued (Exhibits I-1 to I-9). The word "caterer" is not defined in subsection 123(1) of the Act. However, Le Petit Robert gives the French equivalent, "traiteur", the following modern meaning:
+
+[TRANSLATION]
+
+One who prepares meals or dishes to be taken out and to be eaten at home.
+
+[27] In GST/HST Policy Statement P-224 (January 4, 1999), which concerns the term "catering", some guidelines are provided that indicate when catering is being provided. They are as follows:
+
+· The food or beverages are processed or arranged to the customer's specification after the order is placed. When the food or beverages are supplied to the customer it is in a form that can be consumed either immediately or after it is warmed;
+
+· The consideration paid by the customer is based on a per person or per serving charge;
+
+· The food or beverages are delivered to or on behalf of the customer;
+
+· The food or beverages are supplied with some or all of the necessary amenities for either serving or consuming the food or beverages.
+
+[28] The circumstances of this case are consistent with those guidelines. Under an agreement negotiated with an elementary or secondary school authority or with the parents' committee of such a school, the appellant sold meals prepared on the basis of the menu offered for each day of the week. The meals were supplied for a unit price. The sales were not bulk food sales. The meals were prepared by the appellant and delivered to the schools, ready to be consumed by the students, except that in some cases they had to be warmed. The fact that they were delivered in pans or pots containing many servings does not imply in any way that the students could not consume the meals immediately, since that is in fact what they did. Otherwise, it would have to be concluded that food sold by a caterer and delivered otherwise than in individual servings is not food sold under a contract for, or in conjunction with, catering services, which is nonsense. To begin with, therefore, the meals sold individually by the appellant and delivered to the customer must be considered food sold under a contract for, or in conjunction with, catering services. As such, they are specifically covered by paragraph 1(o.5) of Part III of Schedule VI and are not zero-rated supplies. In my opinion, the exception in subparagraph 1(q)(i), which would make the meals prepared by the appellant and delivered to the schools each day zero-rated supplies, is simply not applicable to this case. The purpose of the agreements to supply meals for students was precisely to enable the students to consume immediately, at lunchtime, hot meals prepared and delivered by the appellant, subject to their having to be warmed in some instances.
+
+[29] Since the meals sold by the appellant were not zero-rated supplies, it remains to be determined whether they were exempt supplies. The result of such a characterization would be that the appellant could not claim ITCs in respect of those supplies. Section 14 of Part III of Schedule V is aimed precisely at the supply of food and beverages, including the supply of catering services, to a school authority under a contract to provide food or beverages in an elementary or secondary school cafeteria primarily to students, except as therein specified. First of all, there is no doubt that the appellant, as a caterer, contracted to supply food to be consumed primarily by elementary or secondary school students. As for the question of whether the food was supplied in the cafeteria of such an elementary or secondary school, it must first be acknowledged that the word "cafeteria" is not defined. Some schools have a room designated as a cafeteria where food can be served and consumed, while others do not, strictly speaking, have a cafeteria but use another room for that purpose, a room that may also be used for other activities. In my view, insofar as a room in a school is used for serving and consuming meals, it can be considered a cafeteria for the purposes of section 14.
+
+[30] The question that remains is whether the appellant contracted with a school authority to supply meals to students. In some cases, the evidence shows that such was clearly the case, since the contract or agreement was with a person in authority at the school and the appellant was paid directly by the school or the school board. In other cases, the appellant signed an agreement with a parents' committee, and there the situation seems less clear to me. It was not shown how a committee of volunteer parents looking after hot meals for students could be considered to be representing or to be part of a school authority. Insofar as the committee is not so considered, the exemption provided for in section 14 cannot apply, and the appellant's supply of the meals in those cases must be considered a taxable supply that entitles her to ITCs unless it can be argued that another provision covering exempt supplies, such as section 12 of Part III of Schedule V, is applicable. According to counsel for the respondent, section 12 applies to situations where an elementary or secondary school authority itself supplies food primarily to students, which was not the case here. I would merely point out that section 12 in no way specifies the identity of the person who must supply the food in order for the supply to be exempt.
+
+[31] The Minister assessed the appellant on the basis that the supplies of meals in the circumstances described were exempt supplies under section 14 of Part III of Schedule V and not zero-rated supplies under subparagraph 1(q)(i) of Part III of Schedule VI, with the result that he disallowed in proportion to those exempt supplies the ITCs claimed by the appellant. Although, for the reason given, there may be some doubt as to whether section 14 of Part III of Schedule V is applicable to all of the appellant's sales of meals in schools, that treatment is definitely more favourable than would have been the case if the Minister had considered part of the sales to be taxable supplies entitling the appellant to ITCs, since the net tax payable would then have been higher than the disallowed ITCs. This is because, given the type of supply, the ITCs that could have been claimed would have been quite limited, as no tax was paid on the basic groceries used or on the labour.
+
+[32] In any event, since no one has provided me with the details required for a more exhaustive analysis, and since I cannot reach a decision that results in an increase in the amount assessed, I see no point in continuing in this direction.
+
+[33] As regards the issue of bulk product sales to Provigo stores and of sales to various Quebec government departments on which the appellant did not collect the GST, none of the documents adduced in evidence shows that such sales actually occurred or, if they did, what their amounts were. It is therefore impossible to establish that zero-rated sales were made to Provigo stores and thus that the appellant is entitled to ITCs in relation to such sales. The same is true of the sales allegedly made to government departments or agencies, which sales are treated for ITC purposes in the same manner as zero-rated supplies. (See GST Memorandum 500-6-2, March 19, 1993, paragraph 10.)
+
+[34] As a result of the foregoing, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 22nd day of March 2002.
+
+"P.R. Dussault"
+
+J.T.C.C.
+
+Translation certified true on this 30th day of April 2002.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Erich Klein, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+2000-5127(GST)I
+
+BETWEEN:
+
+GINETTE V. PAQUET,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on February 25, 2002, at Québec, Quebec, by
+
+the Honourable Judge P.R. Dussault
+
+Appearances
+
+Agent for the Appellant: Marcel Paquet
+
+Counsel for the Respondent: Michel Morel
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period from June 1, 1995, to December 31, 1997, notice of which is dated July 27, 1999, and numbered PACT-0217055, is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 22nd day of March 2002.
+
+"P.R. Dussault"
+
+J.T.C.C.
+
+Translation certified true
+
+on this 30th day of April 2002.
+
+Erich Klein, Revisor
+

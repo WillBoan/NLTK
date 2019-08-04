@@ -1,0 +1,104 @@
+Date: 20010130
+
+Docket: 97-3628-IT-G
+
+BETWEEN:
+
+ALAN MCLARTY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Beaubier, J.T.C.C.
+
+[1] This is an application by the Respondent that this Court determine "whether the promissory note provided as consideration by the Appellant is a contingent liability of the Appellant?"
+
+[2] It arises from an appeal from an assessment pursuant to sections 66(15), 66.1, 67 and 248(1) of the Income Tax Act ("Act”). The pleadings of the parties read, in part:
+
+1. From the Notice of Appeal, paragraphs 9, 10 and 11:
+
+9. The total consideration given by the Individual Joint Venturers for the Venture Data was $6,373,335 satisfied by $956,002 in cash and $5,417,333 by way of promissory notes in favour of Compton (the "Promissory Notes"). This consideration was the same amount as the consideration given by Compton to Seitel in proportion to the percentage interest in the Western Data Base (ie. 30.35%)
+
+10. The Promissory Notes are due on December 31, 1999 with interest at 8% per annum. Pursuant to the Joint Venture Agreement, the Individual Joint Venturers assigned to Compton sixty percent (60%) of the seismic licensing revenue, and twenty percent (20%) of the Production Cash Flow from the Drilling Program of the Joint Venture towards payment of the interest and principal of the Promissory Notes. In the event that any portion of the Promissory Notes remains unpaid on the due date, the Promissory Notes are secured by sixty percent (60%) of the sale proceeds from the disposition of the proprietary interest in the Venture Data and an undivided twenty percent (20%) of the rights acquired by the Joint Venture pursuant to the Drilling Program, with no further recourse against other assets of the Individual Joint Venturers.
+
+11. The Appellant acquired his undivided share of the Venture Data for consideration equal to $100,000 satisfied by cash in the amount of $15,000 and a promissory note in the amount of $85,000 in favour of Compton on the terms set out in paragraph 10, above (the "Promissory Note").
+
+2. From the Reply, paragraph 1 which admits paragraph 10 of the Notice of Appeal and paragraph 8, which refers to paragraphs 9 and 11 of the Notice of Appeal and which reads:
+
+8. He admits the facts in paragraphs 9 and 11 of the Notice of Appeal, except he says that the consideration given was for an interest in the Income Stream, and that the consideration by way of promissory notes was contingent.
+
+[3] Pursuant to an application under Rule 58, this Court ordered on December 27, 2000 that this motion proceed without the admission of evidence. It proceeded on that basis. The portions of Rule 58 which apply to this motion read as follows:
+
+58(1) A party may apply to the Court,
+
+(a) for the determination, before hearing, of a question of law raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+
+and the Court may grant judgment accordingly.
+
+[4] The jurisprudence is that a contingent liability does not constitute an expense under paragraph 66.1(6)(a) of the Act which contains the following definition:
+
+"Canadian exploration expense" – "Canadian exploration expense" of a taxpayer means any expense incurred after May 6, 1974 that is
+
+(a) any expense including a geological, geophysical or geochemical expense incurred by the taxpayer ... for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas ...
+
+(Underlining supplied)
+
+Thus a finding in favour of the motion of the Respondent would disallow the note as an expense and dispose of all or part of this proceeding.
+
+[5] From the pleadings quoted, the Court finds that:
+
+1. The Appellant was one of a number of joint venturers who paid a total consideration to Compton Resource Corporation ("Compton") of $6,373,335 satisfied by cash of $956,002 and Promissory Notes of $5,417,333 in favour of Compton ("the Promissory Notes");
+
+Notice of Appeal, paragraph 9; Reply, paragraph 8
+
+2. The Appellant's share of the total consideration was $100,000, satisfied by cash of $15,000 and a Promissory Note of $85,000 in favour of Compton;
+
+Notice of Appeal, paragraph 11; Reply, paragraph 1
+
+3. The terms of payment of the Promissory Notes were:
+
+(i) The notes were due on December 31, 1999;
+
+(ii) interest on the notes was 8% per annum;
+
+(iii) payment was by way of assignment to Compton of 60% of any seismic licensing revenue and 20% of the Production Cash Flow from the drilling program;
+
+(iv) in the event that any portion of the Promissory Notes remained unpaid on December 31, 1999, the Promissory Notes were secured by:
+
+a) 60% of the sale proceeds from the disposition of the "venture data"; and
+
+b) an undivided 20% of the rights acquired by the joint venture pursuant to the drilling program; and
+
+(v) with no further recourse against other assets of the joint venturers.
+
+Notice of Appeal, paragraph 10; Reply, paragraph 1.
+
+The foregoing is a virtual quote from the Respondent's factum submitted in this matter. Some words are changed to correspond with the pleadings.
+
+[6] The Court finds that the pleadings in this motion establish that the promissory note is similar to the one before the Court in Global Communications Limited v. The Queen, (F.C.A.) 99 DTC 5377. In that case, the Court stated at paragraph 44:
+
+... the limited recourse promissory note represents a contingent liability, since it only arises to the extent that licensing revenue is generated which, by definition, is an uncertain event. There is no question that there is an underlying debt in respect to Global's purchase of the seismic data. It is equally true that personal liability will attach to Global with respect to licensing revenues actually received. Until such revenues are received, however, Global's liability to pay the proceeds and ultimately the balance of the purchase price is a contingent one.
+
+[7] Because the liability for the debt represented by the Promissory Note was contingent, that portion of the deduction claimed was disallowed.
+
+[8] In Samuel F. Investments Limited v. M.N.R., 88 DTC 1106 at 1108, Christie, C.J. found three things which make a liability contingent. Based upon the pleadings quoted and agreed upon by the parties, the Court finds that the Promissory Note in question was uncertain as to (1) whether payment would be made, and (2) the amount payable.
+
+[9] The motion is granted with costs in favour of the Respondent.
+
+[10] Appellant's counsel did not disagree with the Respondent's submissions that if this motion is granted, then the Appellant did not incur an expense within the meaning of paragraph 66.1(6)(a) of the Income Tax Act in excess of the amount already allowed by the Minister of National Revenue. Therefore, the appeal is dismissed in its entirety with costs in favour of the Respondent.
+
+Signed at Ottawa, Canada, this 30th day of January, 2001.
+
+"D. W. Beaubier"
+
+J.T.C.C.
+

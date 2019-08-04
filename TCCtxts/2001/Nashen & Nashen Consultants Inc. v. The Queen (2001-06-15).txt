@@ -1,0 +1,262 @@
+Date: 20010615
+
+Docket: 2000-3621-IT-I
+
+BETWEEN:
+
+NASHEN & NASHEN CONSULTANTS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur, J.
+
+[1] The issue in this appeal for the Appellant's taxation year ending September 30, 1998 is whether certain activities constitute scientific research and experimental development (SRED) for the purposes of sections 37 and 37.1 of the Income Tax Act. SRED is defined in subsection 248(1) of the Act as follows:
+
+"scientific research and experimental development" means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+
+and, in applying this definition in respect of a taxpayer, includes
+
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,[1]
+
+...
+
+[2] The Appellant was represented by its accountant, Ather Kandella, and by one of its officers, Barry Nashen. Expert evidence was given by Claude M. Papion on behalf of the Appellant and Charles Fakiris on behalf of the Respondent. The Minister disallowed the SRED expense of $88,188 and consequently an investment tax credit (ITC) of $30,866, claimed by the Appellant. The Appellant elected the informal procedure for this appeal knowing the amount in issue is deemed not to be greater than $12,000.[2] The hearing of the appeal commenced on May 15, 2001 but was adjourned to May 22, 2001 to permit the Appellant to have Mr. Papion testify on its behalf.
+
+[3] Mr. Kandella informed the Court that the Appellant's assessment was overstated by $59,085. While counsel for the Respondent agreed, she advised that this error was not an issue before the Court and was not prepared to deal with it in this appeal. I accepted that position and proceeded with the issue of whether the Appellant's research activities were eligible for ITC for the year end September 30, 1998. While I make no ruling on the $59,085 overstated assessment, I am confident the Minister will do what is necessary to correct the error.
+
+[4] The Appellant has been in business for over 16 years. Its payroll presently is over $600,000. Broadly speaking, its business includes developing, customizing and modifying accounting, distribution, manufacturing and related software for the distribution and manufacturing industries. These systems run on "midrange" computer servers (currently the IBM AS/400 with 10 to 500 attached workstations).[3]
+
+[5] Mr. Nashen testified that over the past 15 years, the Appellant relied heavily on its research and development efforts and the SRED tax credit program to maintain its competitive edge and conquer new markets. The Appellant's various SRED claims have been reviewed in past years and accepted as filed in each instance prior to 1998.
+
+[6] The project we are concerned with has to do with the electronic mailing of complex documents that include design elements. In the Appellant's Exhibit A-3 it is described as follows:
+
+B. Technological Limitations of Current Technology
+
+At this time, there is no capability for the AS/400 system to e-mail directly (with no other intervention) a document (i.e. a spool file ready for printing) which has more than just text. When the spool file has only text, the AS/400 command, snddst, will after some straightforward configuration, be able to easily e-mail the file to any address on the Internet.
+
+However, many applications today create spool files which have advanced function printing (AFP) capabilities. These functions include the embedding into documents of design elements, such as graphics, forms (called overlays) logos (page segments), bar codes, different font character sets, etc.
+
+There is no facility, either offered by IBM, or by third parties, to e-mail directly from the AS/400 these complex documents. In our discussions with IBM, and with third parties that offer related fee-based products, a tool of this type would be very marketable!
+
+Charles Fakiris, the expert called by the Respondent presented two reports, the first dated October 5, 1999. He stated that the Appellant did not provide the additional information he required and somewhat in frustration, concluded that the Appellant's project did not qualify. Mr. Nashen explained that Mr. Fakiris did not speak to any of the officers of the corporation but to an uninformed employee. Mr. Nashen provided him with a project description dated November 5, 1999 and Mr. Fakiris, in turn, wrote an addendum to his report dated November 10, 1999 wherein he again concluded that the project was not eligible for SRED and ITC.
+
+[7] Mr. Papion reviewed the four projects for which the Appellant was claiming ITC. He concluded that two of these qualified and two did not. I will only deal with the two projects which he found qualified. At page 2 of his report dated June 16, 2000 (Exhibit A-2), he made the following general comments about the Appellant's technological work:
+
+Over the past years, Nashen+Nashen Consultants Inc. aimed at designing, with a modular concept, each application software to fulfil a specialized role in the support of the client's mission. It addresses the requirements of distribution logistics, manufacturing business intelligence and document management.
+
+After decades of computerized automation of specialized processes such as manufacturing and distribution, paperwork still constructs the flow of information and working environment in most companies. In fact, it is estimated that 80% of company documents remain paper-based forms.
+
+The Company identified a need for a different approach to those static, inefficient and outdated paper forms. Errors are common in paper forms and can often be difficult to identify. Printing, storage and shipping of pre-printed forms drive up costs substantially of adapting the print program of the application software each time the form is revised.
+
+With introduction of Electronic Forms, there is an opportunity to eliminate these obstacles by exploiting intelligent, dynamic, context sensitive forms on screen to capture structured information. Then the Electronic Form can act as a window into a complete workflow system that allows for the routing of information quickly and economically to its recipient.
+
+During 1997, the Company's team undertook to create a workflow based system, with folders as controlling objects.
+
+During 1998, the research team focused on the creation of a Graphical Development Tool that was to be capable of producing exact electronic replicas of paper forms, store them in a server (a AS-400 machine) and a Form Filler Tool to provide accurate and flexible form filling.[4]
+
+[8] Both experts have been consulted by the Minister with regard to the admissibility of SRED over the years. I believe Mr. Papion assisted the Minister from 1985 to 1998 with respect to more than 1,000 applications. He now does similar consultant work for taxpayers. Mr. Fakiris has been a consultant with Revenue Canada with respect to SRED since 1995. In arriving at his conclusions, Mr. Papion was guided by three criteria described in Information Circular 86-4R3[5] together with Information Circular 97-1 on Administrative Guidelines for software development. The criteria are: (i) scientific or technological advancement; (ii) scientific or technological uncertainty; and (iii) scientific or technological content.
+
+[9] The projects were highly technical and I relied heavily on the evidence of the experts. Both are qualified in the subject matter. Mr. Papion who was retained by the Appellant, spent nine hours with Mr. Nashen before he felt he could analyze the projects. Mr. Fakiris spent one hour with Mr. Nashen who was the guiding mind with respect to the projects. Mr. Papion grouped the relevant projects 2 and 3 together because "they are intimately linked". They are e-mail alternatives and integration of AFP documents.
+
+[10] The Appellant's goal is to create the technology to make exact electronic replicas of paper forms. Most corporate documents are paper-based forms. The Appellant sought to duplicate these forms electronically. The Appellant found a need for a different approach to those static, out-dated paper forms. It envisages the context sensitive forms on screen to capture structured information and send the information quickly and economically.
+
+[11] The Appellant's 1998 research team focused on the creation of a Graphical Development Tool capable of producing electronic replicas of paper forms, store them in a server (an AS-400 machine) a form filler tool to provide accurate and flexible form filing. Both parties referred to Information Circular 86-4R3 and the three criteria referred to earlier but no case law.
+
+[12] In Northwest Hydraulic Consultants Ltd. v. The Queen,[6] Bowman J. set out a number of criteria that are useful in determining if a particular activity constituted SRED. In their abbreviated form, they are:
+
+(a) Is there a technological risk or uncertainty?
+
+(b) Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+
+(c) Did the procedures adopted accord with established and objective principles or scientific methods, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+
+(d) Did the process result in a technological advance, that is to say an advancement in the general understanding?
+
+(e) Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+
+I will apply these criteria to the present facts:
+
+(a) Was there a technological risk or uncertainty? I accept that there was no existing technology creating electronic replicas of paper forms. The resolution of the problem was not reasonably predictable using routine engineering.
+
+(b) With respect to second item of the Northwest criteria, I am not sure what hypotheses were formulated to eliminate the uncertainty. Mr. Papion stated the following:
+
+The Company has systematically explored a number of avenues leading to a three-prong software engineering project:
+
+- Form Design Graphical Development Tool-Kit
+
+- Form Filler Front-End capability
+
+- Central Advanced Function Printing Mechanism.
+
+a) Form Design Graphical Development Tool-kit:
+
+The project is aimed at building and advanced technology capable of creating exact electronic replicas of paper forms.
+
+It encompasses a number of design tools to duplicate the various features of any paper form such as:
+
+- Lines
+
+- Boxes
+
+- Arcs and circles
+
+- Texts and text formats
+
+- Tables
+
+- Check boxes
+
+- Buttons
+
+- Data fields.
+
+(c) I assume that the methods of testing were in accordance with established methods of scientific method. Mr. Papion stated the following:
+
+The Company has acquired the Advanced Function Printing (AFP) Utilities for the AS-400 computer that is compatible with the OS-400. Thus a created PC form may be up-loaded to the AS-400 server. The AFP Utilities include several resources such as form definitions, overlays, page segments, fonts and page definitions.
+
+However, the AFP function is not a Form Design Graphical Development tool. It is not compatible with popular graphic formats such as PC Paintbrush bitmap (PCX), Tag Image File Format (TTIFF), Graphics Interchange Format (GIF), JPEG compressed bitmap (JPEG) and Portable Document File (PDF) (Adobe Acrobat - displayable with a Web browser).
+
+For the desired E-Mail capability, after experimenting with all PC-based e-mail utilities, it was found that there was a need for a Form Design Tool that could convert the AFT form into a PDF format, which was retained as the most promising standard.
+
+b) Form filler
+
+The Company explored with an automated process that enables the user to fill a given form, on a PC, transmit it to the AS-400 server that combines the form and its contents.
+
+c) Central Advanced Function Printing Mechanism
+
+The Company's team could create electronic documents containing both the form and the text on the AS-400. From then, the document could easily be faxed (using FAX/400) or printed to an AFP capable printer.
+
+(d) Was there a technological advance? It appears that there was no apparent technological advance. Mr. Papion stated:
+
+Therefore, the still unresolved problem remained the development of a Form Design Graphical Development toolkit, capable of taking the AFP combined form/text document and automatically translate it to the PDF/ADOBE Publishing Document Format for automatic e-mail transmission.
+
+(e) There was no evidence of a detailed record of the hypotheses, tests and results kept. Mr. Papion stated as follows:
+
+By the end of the 1998 fiscal year, following tests with JPEG, GIF and PDF standards the 1999 planned research program called for the development of a Framework that combined:
+
+- Form Design Toolkit
+
+- Form Filler Frontend
+
+- And Central Advanced Function Printing
+
+[13] To be successful, the Appellant has to establish on a balance of probabilities, the work done was SRED. It is a subtle exercise. I would venture to say that we would get as many different opinions as the number of experts who offered opinions. Disagreeing experts are not uncommon in a comparative analysis of such complex projects.
+
+[14] Mr. Papion is highly qualified and he spent a good deal more time analyzing the evidence than Mr. Fakiris. I accept his conclusion taken from his report as follows:
+
+On the basis of our project review we conclude that:
+
+Project #1 - Common Driver for API's, and Project #4 - Knowledge-based business, do not display strong enough evidence of a technological advancement to support the SRED claim.
+
+On the other hand:
+
+Project #2 - E-mail alternatives, and Project #3 - Integration of AFP documents, display a strong evidence of an experimental development process that converges towards the achievement of a technological advancement in the field of Software Engineering, along the lines of section 6.10(f) of Information Circular 86-4R3.
+
+Projects #2 and #3 are therefore assessed as eligible to tax credits, in accordance with section 2.9 of I.C. 86-4R3.
+
+[15] The Appellant was claiming $88,188 as qualified SRED and consequently, an ITC of $30,866. The Appellant elected the informal procedure which limits its claim to $12,000. The Appellant's own expert eliminated two of the Appellant's projects. In lack of any evidence to the contrary, I accept that this amounts to 50% of the amount claimed. In conclusion, the appeal is allowed on the basis that the qualified SRED expenditures are reduced to $44,094 and the informal procedure limitations remain in effect. The Appellant is entitled to its costs, if any.
+
+Signed at Ottawa, Canada, this 15th day of June, 2001.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-3621(IT)I
+
+STYLE OF CAUSE: Nashen & Nashen Consultants Inc. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Montréal, Québec
+
+DATE OF HEARING: May 15 and 22, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.H. McArthur
+
+DATE OF JUDGMENT: June 15, 2001
+
+APPEARANCES:
+
+Agents for the Appellant: Ather Kandella and Barry Nashen
+
+Counsel for the Respondent: Pascale O'Bomsawin
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-3621(IT)I
+
+BETWEEN:
+
+NASHEN & NASHEN CONSULTANTS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on May 15 and 22, 2001, at Montréal, Québec, by
+
+the Honourable Judge C.H. McArthur
+
+Appearances
+
+Agents for the Appellant: Ather Kandella and Barry Nashen
+
+Counsel for the Respondent: Pascale O'Bomsawin
+
+JUDGMENT
+
+The appeal from the assessment of tax for the Appellant's year end September 30, 1998 made under the Income Tax Act, notice of which is dated December 16, 1999 is allowed, with costs, if any, and the assessment is referred to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim an investment tax credit in the amount of $12,000 as a result of its scientific research and experimental development expenditures.
+
+Signed at Ottawa, Canada, this 15th day of June, 2001.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] The definition "scientific research and experimental development" in subsection 248(1) of the Act was amended to eliminate the cross reference to the definition in Income Tax Regulation 2900(1) and now contains the substantive definition of "scientific research and experimental development". Subsection 2900(1) of the Income Tax Regulations was repealed contemporaneously.
+
+Paragraph (d) of the definition has been amended for greater certainty to emphasize that, in applying the definition to a taxpayer, paragraph (d) includes only work undertaken by or on behalf of the taxpayer with respect to the items included in that paragraph where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b) or (c) of the definition that is undertaken in Canada by or on behalf of the taxpayer.
+
+The new definition applies to work performed after February 27, 1995.
+
+[2] Section 18.1 of the Tax Court of Canada Act.
+
+[3] Exhibit A-3, unmarked page 6.
+
+[4] Mr. Papion's Report - pages 2 and 3.
+
+[5] Referred to with approval and submitted in argument by counsel for the Respondent.
+
+[6] 98 DTC 1839.
+

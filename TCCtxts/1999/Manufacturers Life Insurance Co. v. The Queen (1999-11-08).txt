@@ -1,0 +1,614 @@
+Date: 19991108
+
+Docket: 98-363-IT-G
+
+BETWEEN:
+
+THE MANUFACTURERS LIFE INSURANCE COMPANY
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+O'Connor, J.T.C.C.
+
+[1] This appeal concerns the interpretation of certain provisions of Parts I.3 and VI of the Income Tax Act (Canada), R.S.C. 1985, c.1 (5th Supp.) ("Act"). The said Parts impose a capital tax on certain corporations including life insurance corporations carrying on business in Canada. The principal issue is whether the Appellant's "net deferred realized gains" are to be included in the Appellant's capital base for the 1989, 1990 and 1991 taxation years.
+
+FACTS:
+
+[2] The principal facts which are based upon an Agreed Statement of Facts are as follows:
+
+1. Throughout each of its 1989, 1990 and 1991 taxation years, the Appellant was a "financial institution" as defined for the purposes of Part I.3 and Part VI of the Act and an "insurance corporation" as defined by subsection 248(1) of the Act.
+
+2. Throughout each of its 1989, 1990 and 1991 taxation years, the Appellant was resident in Canada for the purposes of the Act and carried on a life insurance business in Canada and outside Canada.
+
+3. Throughout each of its 1989, 1990 and 1991 taxation years, the Appellant was governed by the Canadian and British Insurance Companies Act (Canada) and the regulations made thereunder and was required by law to report to the Superintendent of Financial Institutions (Canada) (the "Superintendent"). The Superintendent is the same official referred to in subparagraph 181(3)(b)(ii) of the Act.
+
+4. The Appellant filed with the Superintendent annual financial statements in respect of the Appellant's life insurance and accident and sickness business as at December 31, 1989, December 31, 1990 and December 31, 1991 (the "Annual Statements").
+
+5. Each of the Annual Statements contains a statement of "Assets" and a statement of "Liabilities, Capital and Surplus" which together form a balance sheet (the "Balance Sheets").
+
+6. Each of the Annual Statements also contains an "Income Statement" for the year then ended (the "Income Statements") and a "Reconciliation of Unappropriated Earned Surplus" for the year then ended (the "Surplus Statements").
+
+7. Each of the Annual Statements (and the Balance Sheet, the Income Statement and the Surplus Statement included therein) was prepared in accordance with the requirements of the relevant legislation and regulations (specifically, the Canadian and British Insurance Companies Act (Canada) and the regulations made thereunder) and the instructions for the preparation of such annual financial statements issued by the Office of the Superintendent of Financial Institutions applicable at the relative times (collectively, the "Rules").
+
+8. The Rules specify the statutory accounting and reporting requirements for annual financial statements of life insurers. The statutory principles are oriented to solvency-based financial reporting. The prescribed form of the annual financial statements reflects these legislative requirements. Other than in the defined areas of differences covered in the Rules, the underlying basis for accounting and financial reporting incorporated in the Rules and the annual financial statements is intended to conform to generally accepted accounting principles.
+
+9. Since 1992, the Insurance Companies Act (Canada), which replaced the Canadian and British Insurance Companies Act (Canada), has required that the annual financial statements of a life insurer be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants (the "CICA Handbook"), except as otherwise specified by the Superintendent. The accounting principles applicable to the accounting for investments of a life insurer adopted as generally accepted accounting principles for life insurers and prescribed by the Insurance Companies Act, and which are now set out in the CICA Handbook, are substantially the same as the accounting principles that were prescribed by the Rules applicable to the accounting for investments of a life insurer before 1992.
+
+10. Each of the Annual Statements (and the Balance Sheet, the Income Statement and the Surplus Statement included therein) was accepted by the Superintendent as filed by the Appellant (without requiring any changes thereto).
+
+11. Each of the Annual Statements was required to include, and did include, a report from the auditors of the Appellant to the Superintendent. Each such report contained a statement in substantially the following form:
+
+"In our opinion, based upon our examination and the opinion of the Company's Valuation Actuary, these financial statements present fairly the financial position of the Company as at December 31 [of the relevant year] and the results of its operations and the changes in its financial position [excluding segregated funds] for the year then ended in respect of the Company's life insurance and accident and sickness business in accordance with the accounting principles described in the notes accompanying the financial statements."
+
+12. In its Balance Sheets, the Appellant was required by the Rules to carry its investments in bonds, shares, real estate and mortgage loans at carrying values prescribed by the Rules. For this purpose, in general terms, under the Rules, the total carrying values of a life insurer's investments are required to be determined as follows:
+
+(i) In the case of investments in bonds and mortgage loans, the carrying values take into account any repayments of principal, any amortization of any premium or discount and the unamortized portion of any net realized gains and losses arising on the sale or other disposition of such investments.
+
+(ii) In the case of investments in real estate, the carrying values take into account any encumbrances and depreciation, any amortization of unrealized increases and decreases in the fair market values of such investments and the unamortized portion of any net realized gains and losses arising on the sale or other disposition of such investments.
+
+(iii) In the case of investments in shares, the carrying values take into account any amortization of unrealized increases and decreases in the fair market values of such investments and the unamortized portion of any net realized gains and losses arising on the sale of such investments.
+
+13. In its Balance Sheets, the Appellant reported the total carrying value of its bond investments net of an "Adjustment for Unamortized Gain on Disposal" as required by the Rules as follows:
+
+UNAMORTIZED GAINS ON BONDS
+
+YEAR
+
+CANADIAN
+
+FOREIGN
+
+TOTAL
+
+1989
+
+$59,119,000
+
+$74,662,336
+
+$133,781,336
+
+1990
+
+$23,986,000
+
+$(107,864,821)
+
+$(83,878,821)
+
+1991
+
+$99,014,627
+
+$89,565,000
+
+$188,579,627
+
+14. In its Balance Sheets, the Appellant reported the total carrying value of its share investments net of a "Formula Adjustment in Respect of Gains" as required by the Rules as follows.
+
+UNAMORTIZED GAINS ON SHARES
+
+YEAR
+
+CANADIAN
+
+FOREIGN
+
+TOTAL
+
+1989
+
+$133,496,000
+
+$285,345,251
+
+$418,841,251
+
+1990
+
+$120,244,000
+
+$242,228,542
+
+$362,472,542
+
+1991
+
+$87,956,000
+
+$446,719,000
+
+$534,675,000
+
+15. In its Balance Sheets as corrected with the consent of the Minister, the Appellant reported the total carrying value of its real estate investments net of a "Formula Adjustment" as required by the Rules as follows:
+
+UNAMORTIZED GAINS ON REAL ESTATE
+
+YEAR
+
+CANADIAN
+
+FOREIGN
+
+TOTAL
+
+1989
+
+$201,933,176
+
+$36,005,486
+
+$237,938,662
+
+1990
+
+$202,984,097
+
+$37,603,538
+
+$240,587,635
+
+1991
+
+$191,004,425
+
+$41,497,769
+
+$232,502,194
+
+16. In its Balance Sheets, the Appellant reported the total carrying value of its mortgage loan investments by adding thereto an "Adjustment for Unamortized Loss on Disposal" as required by the Rules as follows:
+
+UNAMORTIZED LOSSES ON MORTGAGE LOANS
+
+YEAR
+
+CANADIAN
+
+FOREIGN
+
+TOTAL
+
+1989
+
+$166,656
+
+$2,794,536
+
+$2,961,192
+
+1990
+
+$525,843
+
+$1,223,458
+
+$1,749,301
+
+1991
+
+$472,531
+
+$861,497
+
+$1,334,027
+
+17. The Appellant's Unamortized Gains on Bonds, the Appellant's Unamortized Gains on Shares and the Appellant's Unamortized Gains on Real Estate were not, and were not required by the Rules in the years under appeal to be, reported by the Appellant as part of the "Liabilities" or the "Capital, Surplus and Reserves" of the Appellant in its Balance Sheets.
+
+18. In the years under appeal, the Appellant reported total "Capital, Surplus and Reserves" in its Balance Sheets (prepared using the equity method of accounting for its subsidiary companies) as follows:
+
+CAPITAL, SURPLUS AND RESERVES
+
+YEAR TOTAL (in $thousands)
+
+1989 $1,911,624
+
+1990 $2,065,989
+
+1991 $2,291,811
+
+19. In calculating both its capital and its taxable capital employed in Canada for the purposes of Part I.3 of the Act for the 1989 taxation year, and for the purposes of Part I.3 and Part VI of the Act for the 1990 and 1991 taxation years, the Appellant's Returns did not include any amount in respect of the above mentioned Unamortized Gains.
+
+20. The Minister's reassessments of the Appellant under Parts I.3 and VI of the Act in issue consist of five notices of reassessment dated September 16, 1994 and numbered 855097, 855100, 855101, 855102 and 855103 (the "Reassessments").
+
+21. In issuing the Reassessments, the Minister included the Canadian Portion of the Unamortized Gains on Bonds, Shares and Real Estate in calculating the Appellant's taxable capital employed in Canada as defined for the purposes of Parts I.3 and VI of the Act for the relevant taxation years pursuant to subclause 181.3(1)(c)(ii)(B)(I) and clause 190.11(b)(ii)(A) of the Act, respectively, as being "reserves" of the Appellant that may reasonably be regarded as having been established in respect of the Appellant's insurance business carried on in Canada.
+
+22. In issuing the Reassessments and calculating the Appellant's taxable capital employed in Canada for the purposes of Part I.3 of the Act for the 1989 taxation year and for the purposes of Part I.3 and Part VI of the Act for the 1990 and 1991 taxation years, the Minister did not reduce the Appellant's taxable capital employed in Canada by the Canadian Portion of the Unamortized Losses on Mortgage Loans.
+
+23. In issuing the Reassessments, the Minister increased the Appellant's tax payable under Part I.3 and Part VI of the Act by the following amounts:
+
+ADDITIONAL TAX ASSESSED
+
+YEAR
+
+PART I.3
+
+PART VI
+
+1989
+
+$348,067
+
+1990
+
+$607,624
+
+$3,733,741
+
+1991
+
+$755,950
+
+$4,724,688
+
+24. There are several paragraphs in the Agreed Statement of Facts confirming that, although the Reassessments characterized the Unamortized Gains as reserves, the Minister, after the dates for further reassessment were statute barred, by an Amended Reply to the Appellant's Notice of Appeal put forth an alternative submission that the said Unamortized Gains were "other surpluses".
+
+25. Notices of Objection for each of the Reassessments were filed by the Appellant with the Minister on or before December 13, 1994.
+
+26. After service of the Notices of Objection, the Minister neither vacated nor confirmed the Reassessments. No other assessment or reassessment or additional assessment of the Appellant under Parts I.3 and VI of the Act in respect of the 1989, 1990 and 1991 taxation years was made by the Minister after service of the Notices of Objection and before the Minister's Reply to the Appellant's Notice of Appeal in this matter was filed with this Court on April 27, 1998.
+
+27. There are two broad categories of deferred realized gains and losses arising from dispositions of investments of the Appellant in or prior to the relevant taxation years. The first category of such deferred realized gains and losses comprises the gains and losses arising on dispositions by the Appellant of bonds and mortgages. The amounts of such gains and losses that were deferred and remained unamortized by the Appellant in its Balance Sheets are the Unamortized Gains on Bonds and the Unamortized Losses on Mortgages. The second category of such deferred realized gains and losses comprises the gains and losses arising on dispositions by the Appellant of shares of the capital stock of other corporations and real estate investments. The amounts of such gains and losses that were deferred and remained unamortized by the Appellant in its Balance Sheets are the Unamortized Gains on Shares and the Unamortized Gains on Real Estate.
+
+28. Under the Rules, the Unamortized Gains on Bonds and the Unamortized Losses on Mortgages were required to be, and were, reported by the Appellant in the Balance Sheets as an adjustment to the total carrying value of the appropriate class of investments.
+
+29. Under the Rules, gains and losses arising on dispositions of bonds and mortgages by the Appellant to arm's length purchasers are required to be deferred and amortized into earnings (and are not recognized and included in earnings in the year of disposition). Only a prescribed portion of such gains and losses is amortized and included in the earnings of the Appellant in the year of disposition, with the balance being deferred and amortized into earnings in subsequent years on a periodic basis. In the case of gains (and losses) on bonds and mortgages, the amount of the gain (or loss) is amortized into earnings in equal amounts over a period equal to the lesser of twenty years or the period to maturity of the investment disposed of. The amounts of such gains and losses that were deferred and remained unamortized by the Appellant in its Balance Sheets are the Unamortized Gains on Bonds and the Unamortized Losses on Mortgages.
+
+30. Under the Rules, such a deferral and amortization of gains and losses is not effected by way of an inclusion of the gain or loss in the Income Statement in the year of disposition followed by a deduction of the deferred portion of the gain or loss as an expense in the Income Statement or as an appropriation of retained earnings or surplus in the Surplus Statement in that year. Rather, only a prescribed portion of the gains and losses for that year and all prior years is required to be amortized and included in the earnings of the Appellant in the Income Statement for that year. The prescribed portion is determined in a Schedule in the Annual Statement.
+
+31. Where a bond or mortgage is acquired at a premium or discount relative to its principal amount, the Rules require such premium or discount to be amortized into earnings on a "yield to maturity" basis over the term to maturity of the investment and to be deducted from or added to the carrying value of the investment in the Balance Sheet to that extent. The Rules do not require unrealized increases or decreases in the market value of a bond or mortgage to be amortized into earnings prior to the disposition of the investment.
+
+32. Under the Rules, the Unamortized Gains on Shares and the Unamortized Gains on Real Estate were required to be, and were, reported as an adjustment to the total carrying value of the appropriate class of investments.
+
+33. Under the Rules, gains and losses arising on dispositions of shares or real estate investments to arm's length purchasers are required to be deferred and amortized into earnings (and are not recognized and included in earnings in the year of disposition). Only a prescribed portion of such gains and losses is amortized and included in the earnings of the Appellant in the year of disposition, with the balance being deferred and amortized into earnings in subsequent years at a uniform rate on a declining balance basis. In the case of gains on shares, the amount of the gain is amortized into earnings at the rate of 15% per year of the unamortized balance of such gains. In the case of gains on real estate, the amount of the gain is amortized into earnings at the rate of 10% per year of the unamortized balance of such gains. The amounts of such gains and losses that were deferred and remained unamortized by the Appellant in its Balance Sheets are the Unamortized Gains on Shares and the Unamortized Gains on Real Estate.
+
+34. Under the Rules, such a deferral and amortization of gains and losses is not effected by way of an inclusion of the gain or loss in the Income Statement in the year of disposition followed by a deduction of the deferred portion of the gain or loss as an expense in the Income Statement or as an appropriation of retained earnings or surplus in the Surplus Statement in that year. Rather, only a prescribed portion of the gains and losses for that year and all prior years is required to be amortized and included in the earnings of the Appellant in the Income Statement for that year. The prescribed portion is determined in a Schedule in the Annual Statement.
+
+35. The Rules also require that unrealized increases and decreases in the fair market values of shares or real estate investments be recognized and amortized into earnings in the Income Statement at the rate of 15% per year for shares and 10% per year for real estate investments, in each case, on a declining balance basis. The Rules require that amounts so amortized into earnings be added to or deducted from the total carrying value of the appropriate class of investments in the Balance Sheet to that extent.
+
+36. This method of accounting for premiums and discounts, for realized gains and losses arising on the sale or other disposition of investments of a life insurer and for unrealized increases and decreases in the fair market values of investments of a life insurer follows a long-standing accounting practice that pre-dates the enactment of Parts I.3 and VI of the Act, that is considered to be appropriate for the life insurance industry and that is reflected in the form of the Annual Statement (and the Balance Sheet, the Income Statement and the Surplus Statement included therein) required by the Rules. The underlying accounting principles reflected in the Rules have since been adopted as generally accepted accounting principles for the accounting of investments of a life insurer.
+
+37. This accounting practice reflects several unique characteristics of a life insurer's business: the long-term nature of the life insurance business and the assets and liabilities forming part of that business, that a life insurer does not generally suffer a net reduction in its investments (with the proceeds of any sale or other disposition of investments being used by the life insurer to make similar investments), and that a life insurer's investment objectives are to match the term of its investments with the term of its insurance or policy liabilities and produce investment returns (by way of interest, dividends, rents and other income, gains and profits) over that term to support its policy liabilities.
+
+38. Under this accounting practice, premiums and discounts, realized gains and losses and, in the case of shares and real estate investments, increases and decreases in fair market values, are considered to be earned (and are recognized as earnings) over a period commencing with the year of acquisition of an investment (and not just in the year of maturity, sale or other disposition of an investment) and, where the investment sold or otherwise disposed of had a specified term to maturity, over the period to that maturity date of the investment or, in any other case, over subsequent years, in each case, as prescribed by the Rules.
+
+39. Under this accounting practice, any gain or loss realized on the sale or other disposition of an investment merely reflects the lower or higher return available on the reinvestment of the sale proceeds over the longer term and the full amount of such gains or losses is not considered to be earned and is not recognized as earnings in the year of sale or other disposition. That is, a portion of such amount must be deferred (even though realized) and is not considered to be earned and may not be recognized as earnings in the life insurer's financial statements until (and then only to the extent that) the deferred amount is amortized into the life insurer's earnings as described herein.
+
+40. Under this accounting practice, premiums and discounts on bond and mortgage investments and any unrealized increases and decreases in the market values of share and real estate investments are considered to be earned and are recognized as earnings, in part, as (and then only to the extent that) such amounts are amortized into the life insurer's earnings over the period commencing with the year of acquisition of the investment and prior to the sale of the investment. That is, a portion of any such amount in respect of an investment is considered to be earned and must be recognized as earnings in the life insurer's financial statements (even though unrealized) prior to its being realized on maturity or through a sale or other disposition of the investment.
+
+41. The result of this accounting method is that such premiums and discounts, realized gains and losses and unrealized increases and decreases in value in respect of investments of a life insurer are considered to be earned and are recognized as earnings in the life insurer's financial statements in a periodic manner commencing with the year of acquisition of an investment (and not just in the year of maturity, sale or other disposition of an investment) and over subsequent years, in each case, as prescribed by the Rules.
+
+42. The generally accepted actuarial practices that form the basis for the actuarial valuation of a life insurer's policy liabilities are consistent with the method of accounting for premiums and discounts, realized gains and losses and unrealized increases and decreases in value in respect of investments of a life insurer and are unique to life insurance companies and reflect the unique characteristics of the life insurance business described herein.
+
+43. In accounting terminology, a "reserve" is defined to mean an amount which, though not required to meet a liability or contingency known or admitted or a decline in value that has already occurred, has been appropriated from retained earnings or other surplus, at the discretion of management or pursuant to the requirements of a statute, the instrument of incorporation or by-laws of a corporation, a trust indenture or other agreement, for a specific or general purpose such as future decline in inventory values, general contingencies, future plant extension and redemption of stocks and bonds. Under accounting principles applicable to the Appellant and to the preparation of the Annual Statements, the Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not "reserves". The Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are established before the Appellant's earnings are ascertained in the Income Statements and are not considered to be earned, are not an expense in the Income Statements, and are not appropriations of retained earnings or other surplus of the Appellant made in the Surplus Statements.
+
+44. In accounting terminology, a "provision" is defined to mean (i) an estimated expense that is a charge for diminution in value of an asset or for an estimated or accrued liability, or (ii) an estimated amount set up in recognition of a liability whose extent and timing are uncertain. Under accounting principles applicable to the Appellant and to the preparation of the Annual Statements, the Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not "provisions". The Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not an expense of the Appellant, are not a charge for diminution in value of an asset or for an estimated or accrued liability and are not set up in recognition of a liability of the Appellant the extent and timing of which is uncertain.
+
+45. In accounting terminology, an "allowance" is defined to mean (i) a deduction from the recorded value of assets to reduce them to estimated realizable value, (ii) a stipulated amount paid to an employee or agent under an arrangement in respect of expenses, regardless of the expenses actually incurred, or (iii) a form of price reduction in respect of a sale of goods or services, e.g. an allowance to compensate for expenses such as advertising to be incurred by the purchaser. Under accounting principles applicable to the Appellant and to the preparation of the Annual Statements, the Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not "allowances". The Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not established by the Appellant to reduce the recorded or carrying value of its assets to their estimated realizable value and are not amounts paid to employees or agents and are not price reductions in respect of the sale of goods or services.
+
+46. In accounting terminology, "surplus" is the excess of net assets over the total paid-in par value or stated value of the shares of a corporation. Under accounting principles applicable to the Appellant and to the preparation of the Annual Statements, the Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are not "surplus". The Appellant's Unamortized Gains on Bonds, Unamortized Gains on Shares and Unamortized Gains on Real Estate are netted against, and reduce, the total carrying values of its assets or investments and do not form part of the Appellant's net assets in the Balance Sheets, are not considered to be earned (and are not recognized as earnings) by the Appellant until such amounts are amortized into the Appellant's earnings in its Income Statements and are not appropriations of retained earnings or other surplus of the Appellant made in the Surplus Statements.
+
+47. A life insurer's policy liabilities are its future liabilities in respect of its life insurance policies. The extent and timing of such liabilities is uncertain. The amount of such liabilities determined by actuarial valuation is an estimated amount established to meet the life insurer's future liabilities in respect of its life insurance policies, and is reported as part of the life insurer's "Liabilities" in its Balance Sheet included in its Annual Statement for the year then ended.
+
+48. A life insurer's policy liabilities that may reasonably be regarded as having been established in respect of the life insurer's insurance business carried on in Canada are required to be included in calculating the life insurer's taxable capital employed in Canada as defined for the purposes of Parts I.3 and VI of the Act pursuant to subclause 181.3(1)(c)(ii)(B)(I) and clause 190.11(b)(ii)(A) of the Act, respectively, except to the extent such amounts are deductible under Part I of the Act.
+
+49. A life insurer's deferred realized gains and losses on its investments are not part of its policy liabilities.
+
+50. In the life insurance industry and a life insurer's annual financial statements, a life insurer's policy liabilities are also referred to as its "actuarial reserves" or "policy reserves". Increases in a life insurer's policy liabilities (or actuarial reserves) over a year are an expense in the Income Statement for the year.
+
+51. In the life insurance industry and a life insurer's annual financial statements, a life insurer's deferred realized gains and losses on its investments are not referred to as "reserves", "provisions", "allowances" or "surplus". Increases in a life insurer's deferred realized gains over a year are not an expense in the Income Statement for the year and are not an appropriation of retained earnings or surplus made in the Surplus Statement for the year.
+
+52. A life insurer is permitted a deduction "as a policy reserve" for its policy liabilities in respect of its life insurance policies in computing its income under Part I of the Act to the extent prescribed in the regulations made under the Act.
+
+53. A life insurer's realized gains and losses on such of its investments as are, for the purposes of Part I of the Act, used by it in, or held by it in the course of, carrying on its life insurance business in Canada are included in computing its income under Part I of the Act in the year such gains and losses are realized even though such amounts may be deferred and not considered to be earned in that year under the accounting principles applicable to the life insurer and the preparation of its Annual Statements. No deduction in computing the life insurer's income under Part I of the Act as a reserve or otherwise is permitted in respect of such deferred realized gains or losses, and no such deduction was claimed by the Appellant as a reserve or otherwise under Part I of the Act in respect of such deferred realized gains and losses.
+
+SUBMISSIONS OF COUNSEL FOR THE APPELLANT:
+
+[3] Capital taxes for a taxation year are imposed on the Appellant as a percentage of its "taxable capital employed in Canada" for the year. In general terms, the Appellant's "taxable capital employed in Canada" for a year is equal to the sum of
+
+(i) the carrying value of the Appellant's tangible property used in Canada (the meaning of which is not an issue in this appeal),
+
+(ii) the Canadian proportion (described below) of the Appellant's "taxable capital" for the year (described below), and
+
+(iii) the amount, if any, by which the Appellant's "reserves" for the year (a defined term) in respect of its insurance business carried on in Canada exceed the amount of its reserves that are deductible (or have been deducted) in computing its income under Part I of the Act.
+
+[4] The expression "taxable capital" for a year is equal to the taxpayer's "capital", net of certain deductions not relevant to this appeal. A taxpayer's "capital" is defined to include its world-wide "retained earnings, contributed surplus and any other surpluses" as at the end of the year. However, only the Canadian proportion of its "taxable capital" is included in its "taxable capital employed in Canada" for the year. The Canadian proportion is equal to the proportion that the Appellant's Canadian policy liabilities (determined as prescribed in the capital tax rules) as at the end of the taxation year are of its total policy liabilities (determined as prescribed in the capital tax rules) as at the end of that year.
+
+[5] The Appellant submits that its net deferred realized gains are neither "reserves" (which are defined to mean "reserves, provisions and allowances") nor "any other surpluses" (which are not defined), and, therefore, are not required to be included in computing its capital tax base pursuant to those rules.
+
+[6] The parties agree that the Appellant's net deferred realized gains are not "reserves", "provisions", "allowances" or a "surplus" under accepted accounting meanings and the accounting principles applicable to the preparation of the Appellant's annual financial statements (and its balance sheets). The issue for determination is whether the meaning to be given to those words for the purposes of the capital tax rules is the accepted accounting meaning or whether those words have some other meaning for the purposes of the capital tax rules that would include the Appellant's net deferred realized gains.
+
+[7] To consider the proper characterization of net deferred realized gains in the context of the capital tax rules, it is helpful to review the financial reporting requirements for life insurers, the nature of the life insurance business and its policy liabilities, the role of investments and investment returns in that business and the accounting method for investments of a life insurer all as described in the Agreed Statement of Facts.
+
+[8] Subparagraph 181(3)(b)(ii) of the Act states that, for the purposes of determining the carrying value of a life insurer's assets or any other amount for the purposes of the capital tax rules in Part I.3, the amounts reflected in the balance sheets accepted by the Superintendent are required to be used.
+
+[9] The Annual Statements (including the Balance Sheets, the Income Statements and the Surplus Statements) were prepared and filed as required by the Rules in the form prescribed and accepted, as filed, by the Superintendent.
+
+[10] The accounting principles underlying the Rules reflected a long-standing accounting practice considered to be appropriate for the life insurance industry. The accounting practice is prescribed by the rules and reflects the unique characteristics of the life insurance business. It is reflected in the form of the annual financial statements and applied to the Appellant in the years under appeal.
+
+[11] The accounting practice prescribed by the Rules pre-dates the enactment of the capital tax rules.
+
+[12] Consistent with the method of amortization before maturity or disposition, the Rules also require that gains and losses arising on dispositions of bonds and mortgages by the Appellant to arm's length purchasers be deferred and amortized into earnings in the Income Statements beginning with the year of disposition in equal amounts over a period equal to the lesser of twenty years or the period to maturity of the investment disposed of. As noted above, each year, when the requisite portion is recognized as earned in the Income Statements, it is added to or deducted from retained earnings and the Canadian proportion of such retained earnings is included in the life insurer's capital tax base.
+
+[13] Similarly, gains and losses arising on dispositions of shares or real estate investments by the Appellant to arm's length purchasers are required to be deferred and amortized into earnings in the Income Statements at a uniform rate beginning with the year of disposition. The rate is 15% for shares and 10% for real estate per year of the unamortized balance of such gains (on a declining balance basis). As in the case of bonds and mortgages, each year, when the requisite portion is recognized as earned in the Income Statements, it is added to or deducted from retained earnings and the Canadian proportion of such retained earnings is included in the life insurer's capital tax base.
+
+[14] This method of accounting for investments and investment returns of a life insurer prescribed by the Rules
+
+(i) presents fairly the financial position of the life insurer,
+
+(ii) is consistent with the actuarial valuation of the life insurer's policy liabilities,
+
+(iii) is even-handed in its recognition of both realized and unrealized investment returns as earnings and retained earnings of the life insurer,
+
+(iv) is even-handed in its effects on the carrying values of investments of the life insurer, and
+
+(v) is even-handed in its effects on the capital tax base of the life insurer.
+
+[15] This method of accounting is even-handed in its recognition of premiums and discounts, gains and losses and increases and decreases in value as earnings of a life insurer in its Income Statements and as retained earnings in its Balance Sheets. As described above, such returns are brought into earnings in the Income Statements and are added to or deducted from retained earnings in a periodic manner, regardless of whether such amounts have been realized or are unrealized.
+
+[16] As described above, it also produces even-handed effects on the retained earnings of a life insurer in that it requires the deferral and amortization of investment returns that would reduce earnings and retained earnings (unrealized premiums, unrealized decreases in value and net realized losses) in the same way that it requires the deferral and amortization of investment returns that would increase earnings and retained earnings (unrealized discounts, unrealized increases in value and net realized gains).
+
+[17] This method of accounting produces even-handed effects on the total carrying values of a life insurer's investments in that, as described above, it requires the deferral and amortization of investment returns that would decrease total carrying values (unrealized premiums, unrealized decreases in value and net realized losses) in the same way that it requires the deferral and amortization of investment returns that would increase total carrying values (unrealized discounts, unrealized increases in value and net realized gains).
+
+[18] This method of accounting produces even-handed effects on the retained earnings of a life insurer and, therefore, on its capital tax base in that, as described above, it requires the deferral and amortization of investment returns that would decrease retained earnings (unrealized premiums, realized decreases in value and net realized losses) in the same way that it requires the deferral and amortization of investment returns that would increase retained earnings (unrealized discounts, unrealized increases in value and net realized gains).
+
+[19] The Appellant's net deferred realized gains were not, and were not required by the Rules to be, reported by the Appellant as part of the "Liabilities" or the "Capital, Surplus and Reserves" of the Appellant in its Balance Sheets.
+
+[20] The principal issue is whether or not the Appellant's net deferred realized gains shown in its Balance Sheets are "reserves" (defined to mean "reserves, provisions and allowances") or "any other surpluses" of the Appellant for the purposes of the capital tax rules.
+
+[21] The taxes payable under Parts I.3 and VI of the Act by a Canadian resident life insurer are specified as percentages of the amount, if any, by which its "taxable capital employed in Canada" for the year exceeds its "capital deduction" for the year.
+
+[22] The Appellant's "taxable capital employed in Canada" for a year includes:
+
+(i) the Canadian proportion of the Appellant's "capital" (net of certain deductions not relevant to this appeal) for the year (which includes "any other surpluses"), and
+
+(ii) the amount, if any, by which the Appellant's "reserves" for the year (which are defined to mean "reserves, provisions and allowances") in respect of its insurance business carried on in Canada exceed the amount of its reserves that are deductible (or have been deducted) in computing its income under Part I of the Act.
+
+Subsections 181.3(1), (2), (3)
+
+[23] For the purposes of Part I.3 of the Act, subsection 181(1) states that "reserves" means and is, therefore, limited to:
+
+the amount at the end of the year of all of the corporation's reserves, provisions and allowances (other than allowances in respect of depreciation or depletion) and, for greater certainty, includes any provision in respect of deferred taxes.
+
+[24] The terms "reserves", "provisions" and "allowances" that make up the definition of "reserves" are not defined. Further, there is no definition of "any other surpluses" for the purposes of this Part.
+
+[25] Subsection 181(3) of the Act provides that, for the purposes of determining any amount under Part I.3 of the Act in respect of, among other things, the "capital" of a life insurer (which includes "any other surpluses" of the life insurer) and the "taxable capital employed in Canada" of a life insurer (which includes the "reserves" of the life insurer), the amounts reflected in the balance sheet accepted by the Superintendent must be used (that is, in the case of the Appellant, the Balance Sheets of the Appellant accepted by the Superintendent).
+
+[26] The provisions of Part VI that are relevant to the issues in this appeal are, in all material respects, the same as, and correspond to, the relevant provisions in Part I.3.
+
+[27] As a result, with respect to the issues in this appeal, Parts I.3 and VI of the Act are to be interpreted in a consistent manner, and the Appellant's submissions apply equally to Parts I.3 and VI of the Act for the years under appeal.
+
+[28] With respect to the principal issue in this appeal, the Appellant submits that its net deferred realized gains are not "reserves, provisions and allowances" and are not "any other surpluses" for the purposes of the capital tax rules. In the absence of any definition, in accordance with statutory interpretation principles, "reserves, provisions and allowances" and "any other surpluses" are to be interpreted for the purposes of the capital tax rules in accordance with the ordinary meaning of those words for accounting purposes, and, in particular, in accordance with the accounting principles and methods prescribed by the Rules, reflected in the Annual Statements and Balance Sheets of a life insurer and accepted by the Superintendent. As the parties have agreed that, in accordance with those accounting principles and methods, the Appellant's net deferred realized gains are not "reserves", "provisions" or "allowances" and are not a "surplus", this appeal should be allowed.
+
+[29] There is no express inclusion of deferred realized gains as "reserves" or as a "surplus" for the purposes of the capital tax rules. Therefore, the Appellant's net deferred realized gains will only be required to be included in its "capital" or "taxable capital employed in Canada" if they fall within the meaning of "reserves, provisions and allowances" or "any other surpluses" for the purposes of the capital tax rules.
+
+[30] As these are undefined terms, it is respectfully submitted that their meaning must be determined by applying general principles of statutory interpretation.
+
+[31] The Supreme Court of Canada has set out the proper approach to ascertaining the meaning of words used in a statute in Stubart Investments Limited v. The Queen and many subsequent decisions. In Stubart, addressing the interpretation of words in the Act, the Court cited Driedger, Construction of Statutes, as putting the modern rule succinctly:
+
+... there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+Stubart Investments Limited v. The Queen, [1984] 1 S.C.R. 536 at 578
+
+[32] It has long been established by the Courts that the "ordinary sense" of a word is to be determined by reference to the matters dealt with by the statutory provision and the persons to whom it is addressed.
+
+[33] Commercial and financial terms, particularly when used in the Act, are interpreted in accordance with their accounting meanings. In Bank of Nova Scotia v. The Queen, the Federal Court of Appeal considered the timing and method of computing certain foreign tax credits pursuant to section 126 of the Act and, in particular, the undefined word "paid" in the statutory provisions in issue. The Court stated:
+
+Wherever a term is not defined in the Act, then, unless the context otherwise requires, it must be given its common ordinary meaning and, where the term is a common commercial or financial one its meaning must be determined according to ordinary commercial or financial principles.
+
+...
+
+Generally recognized accounting and commercial principles and practices are to be applied to all matters of commercial and taxation accounting unless there is something in the taxing statute which precludes them from coming into play. The legislator when dealing with financial and commercial matters in any enactment, including of course a taxing statute, is to be presumed at law to be aware of the general financial and commercial principles which are relevant to the subject-matter covered by the legislation. The Act pertains to business and financial matters and is addressed to the general public. It follows that where no particular mention is made as to any variation from common ordinary practice or where the attainment of the objects of the legislation does not necessarily require such variation, then common practice and generally recognized accounting and commercial principles and terminology must be deemed to apply.
+
+Bank of Nova Scotia v. The Queen, [1980] C.T.C. 57 at 59 and 62 (F.C.T.D.), affirmed [1982] 1 F.C. 311 at 318 (F.C.A.)
+
+[34] The Appellant submits that the words in the phrase "reserves, provisions and allowances" and "retained earnings, contributed surplus and any other surpluses" as used in the capital tax rules are commercial or financial terms. The capital tax rules only apply to financial institutions and large corporations, and rely on financial statements and accounting principles. The other references to "allowances in respect of depreciation and depletion" and to "any provision in respect of deferred taxes" are further confirmation of the commercial or financial nature of these terms. As the words "any other surpluses" are preceded by the words "retained earnings" and "contributed surplus", the words "any other surpluses" must also be considered to be commercial or financial terms in accordance with the ejusden generis doctrine.
+
+Sullivan, Driedger on the Construction of Statutes, (3rd ed., Butterworths) at 203
+
+[35] In using the undefined words "reserves", "provisions" and "allowances" and "any other surpluses" for the purposes of the capital tax rules on large corporations and financial institutions, the legislator has selected commercial or financial terms with a specific meaning for accounting purposes.
+
+[36] The accounting meanings of the words "reserves" and "surplus" have been consistently adopted by Canadian courts for purposes of capital tax statutes using the statutory interpretation principles set out.
+
+[37] In the recent case of Oerlikon Aérospatiale Inc. v. The Queen, both the Tax Court and the Federal Court of Appeal specifically considered the meaning of the defined term "reserves" in Part I.3 of the Act. The Minister argued that only "reserves" in the accounting sense are contemplated by Part I.3 (contrary to the Minister's position in this appeal), whereas the taxpayer had argued that "reserves" in a tax sense should also be included. Neither party argued (as the Minister now does in this appeal) that the defined term "reserves" had a meaning broader than one that included "reserves" in either a tax or accounting sense. The Minister succeeded at trial. The Tax Court Judge noted that the terminology used in the Act to identify the component parts of the capital tax base is that used by accountants in preparing a balance sheet and held that "... the meaning to be given to the words "reserves" and "provisions" in subsection 181(1) of the Act must be the accounting, not the tax meaning.
+
+Oerlikon Aérospatiale Inc. v. The Queen, [1998] 4 C.T.C. 2821 at 2834 and 2840, (T.C.C.)
+
+[38] The relevant provision in issue was paragraph 181.2(3)(b), which requires that "reserves" be included in the capital tax base of a non-financial institution "except to the extent that they were deducted in computing its income for the year under Part I". The Federal Court of Appeal concluded that the Tax Court Judge had reached the correct conclusion, but reasoned as follows with respect to the defined term "reserves":
+
+As can be seen, with the exception of depreciation and depletion, this definition is wholly unlimited in scope and suggests at first glance that any amount which forms part of a corporation's reserves is contemplated by Part I.3. This would include all reserves and allowances, whether they be accounting reserves or tax reserves.
+
+...
+
+Despite this, it is clear that the Tax Court judge properly held that under paragraph 181.2(3)(b), only accounting reserves which have not given rise to a deduction under Part I must be added to the computation of the capital of a corporation: ... Even though by including reserves in the tax sense in Part I.3 only to deduct them from the computation of the capital, Parliament seems to have taken a circuitous route, the fact remains that the result arrived at by the Tax Court Judge follows from a straightforward reading of the relevant provisions, without adding anything whatsoever to them.
+
+[39] While the Federal Court of Appeal concluded that, "at first glance" the defined term "reserves" was broad enough to include "reserves", "provisions" and "allowances" in both an accounting and a tax sense, it did not conclude that a broader meaning than that could apply. Its conclusion that the Tax Court Judge "properly" held that only reserves in an accounting sense that were not deductible under Part I must be added to the computation of the capital tax base follows only if the defined term "reserves" is limited to reserves in an accounting sense and reserves in a tax sense. The Court went on to find that, while the legislators took a circuitous route, ultimately only reserves in an accounting sense are to be included in the capital tax base since, although reserves in a tax sense are included in the meaning of the word, they are not included in the capital tax base (because they arise by definition, only if they have been deducted in computing income under Part I of the Act and are therefore expressly excluded form the capital tax base).
+
+[40] The Appellant's net deferred realized gains are not "reserves in a tax sense" as defined by the Federal Court of Appeal in Oerlikon because no deduction was claimed by the Appellant under Part I of the Act as a reserve or otherwise in respect of such deferred realized gains and losses. As such, the only remaining meaning that could be applicable to the Appellant's net deferred realized gains is "reserves in an accounting sense". The parties have agreed that the Appellant's net deferred realized gains are not "reserves", "provisions" or "allowances" under the applicable accounting principles.
+
+[41] Parts I.3 and VI of the Act incorporate financial statements and the accounting terminology underlying such statements as the basis for the imposition of capital taxes under those Parts, rather than the income taxation concepts applicable, for example, in the determination of income for the purposes of Part I of the Act. Under Parts I.3 and VI of the Act, the capital tax base is calculated using amounts from financial statements prepared in accordance with accepted accounting principles.
+
+In general terms, a corporation is required to compute amounts relevant in determining its tax payable under Part I.3 of the Act using generally accepted accounting principles (GAAP).
+
+Canada, Department of Finance, Explanatory Notes to a Ways and Means Motion Amending the Income Tax Act and Related Acts (Ottawa: the Department, June, 1996) at 270
+
+[42] In the case of a life insurer, the accepted accounting principles are those prescribed by the Rules and reflected in the Annual Statements and Balance Sheets accepted by the Superintendent. This is evident in subsection 181(3) of the Act, which provides that, in the case of a life insurer, for the purpose of determining any amount under Part I.3 of the Act, the amounts reflected in the life insurer's Balance Sheets accepted by the Superintendent are to be used.
+
+[43] This method of accounting is a long-standing accounting practice considered to be appropriate for the life insurance business. It pre-dates the enactment of the capital tax rules, and those rules do not contain any express provisions precluding the use of this accounting method for capital tax purposes (as was done, for example, to preclude the use of the equity and consolidation methods of accounting). In fact, the capital tax rules are express in their reliance on such Balance Sheets for life insurers. In the absence of any express statutory provisions to the contrary, this accounting method must be considered to have been accepted by Parliament for the purposes of the capital tax rules applicable to life insurers.
+
+[44] In summary, the Appellant submits that the use of accounting meanings to interpret the undefined commercial or financial terms used in the capital tax rules that are in issue in this appeal is the correct approach for the following reasons:
+
+(i) The use of accounting meanings is consistent with the scheme of the capital tax rules in the Act. As described above, this produces a consistent and coherent framework for the capital tax rules. The capital tax rules are not based on income tax concepts but are based on financial statements and concepts and accepted accounting principles.
+
+(ii) The use of accounting meanings is consistent with established rules of law in the capital tax context. As described above, in interpreting undefined commercial or financial terms used in the context of capital tax, courts have consistently adopted accounting meanings and have rejected broader meanings. In none of the cases cited have the courts adopted, for capital tax purposes, any rules of law established in the income tax context in respect of the determination of profit.
+
+(iii) The use of accounting meanings is consistent with well-accepted business principles in the life insurance industry. This accounting method used by the Appellant reflects a long-standing practice in the life insurance industry that pre-dates the capital tax rules and is required under the applicable laws. The underlying accounting principles have been adopted by the CICA as being generally accepted accounting principles in Canada for life insurers.
+
+(iv) And, this accounting method produces an even-handed picture of the Appellant's capital tax base. It presents fairly the financial position of the Appellant, is consistent with the actuarial valuation of the Appellant's policy liabilities and produces even-handed effects on the Appellant's capital tax base.
+
+SUBMISSIONS OF COUNSEL FOR THE RESPONDENT:
+
+[45] The following are excerpts from Respondent's written submissions:
+
+2. The position of the Respondent is that:
+
+(1) The deferred realized gains [DRG] are "reserves" or "other surpluses" because the interpretation of these words in the context of Parts I.3 and VI is not limited to whether their presentation in the statements acceptable to the Superintendent of Insurance cause them to be "reserves" or "other surpluses" for insurance accounting purposes; these gains have been fully realized and are deferred or unamortized only for insurance accounting purposes; which is oriented to solvency-based financial reporting.
+
+...
+
+Background
+
+Department of Finance Technical Notes - Application of Tax to Financial Institutions
+
+3. The Large Corporations Tax will also be levied on financial institutions, including insurance corporations. The form of the tax as it will apply to financial institutions and insurance companies reflects the dual uses of capital in their business. Such firms operate as financial intermediaries for which a financial capital base is required, and generally also use capital to finance physical assets that are used in their intermediation business and/or for lease or rent. The new tax will apply to both of these uses of capital by a financial institution.
+
+4. For financial institutions (as currently defined under Part VI of the Income Tax Act and other prescribed financial corporations) and insurers, capital will include the financial capital employed by the institution in supporting its financial activities. The financial capital employed by these institutions will be similar to capital for Part VI purposes, and generally consists of the share capital, retained earnings, surpluses, reserves (other than those which are deducted for tax purposes) and outstanding long-term debt of the institution at the end of its taxation year. Deposits and similar liabilities, and policy reserves (deductible for income tax purposes) in respect of insurance policies will not be included in financial capital. Financial capital will be reduced by an investment allowance as described below. [underlining added]
+
+D.M. Sherman, ed. Income Tax Act, Department of Finance, Technical Notes, 2nd Ed., (Toronto: De Boo, 1990) at 840-42.
+
+...
+
+Approach to Interpretation - significance of GAAP definitions
+
+...
+
+10. It is submitted that the Supreme Court of Canada has determined that it is a truer picture of profit that will be the test of any method of income computations. This is a legal determination that must be made according to the provisions of the Income Tax Act, established case law principles or "rules of law" and well established business principles which include, but are not limited to GAAP. By analogy, it is the truer picture of capital that should be the test of any method of capital computation.
+
+11. GAAP is of even less significance for this appeal because subparagraph 181(3)(b)(ii) states only that "the amounts reflected in the balance sheet" accepted by the Superintendent of Insurance shall be used to determine the carrying value of assets or any other amount. The paragraph does not state that the accounting treatment appropriate for the requirements of the Superintendent of Insurance is determinative for the purposes of Part I.3, rather, it has the more limited effect that amounts "reflected" in the balance sheet are the basis for determining the numerical values. This wording contrasts with the specific reference to "prepared in accordance with GAAP" applicable to other corporations. The lack of significance is an appropriate result because GAAP/Superintendent of Insurance reporting requirements do not focus on capital tax purposes. They are concerned with solvency. Only the reflected amounts are relevant for capital tax purposes.
+
+...
+
+14. The term "Reserve" is defined in the Act. Subsection 181(1) defines reserves as follows:
+
+"reserves" in respect of a corporation for a taxation year, means the amount at the end of the year of all of the corporation's reserves, provisions and allowances (other than allowances in respect of depreciation or depletion) and, for greater certainty, includes any provision in respect of deferred taxes.
+
+15. Dealing first with the concept of reserves, of particular significance is that "reserve" is defined in the Dictionary of Insurance published by The Insurance Institute of Canada (1991) as "[f]unds which are set aside by an insurance company for the purpose of meeting obligations as they fall due". The DRG clearly fall within this industry definition.
+
+16. This is in conformity with a widely accepted commercial definition of "reserves": "[f]unds set aside to cover future expenses, losses, claims or liabilities".
+
+Black's Law Dictionary, cited in Canadian Pacific Limited v. Ontario (Minister of Revenue), 99 D.T.C. 5286 at 5291.
+
+17. Further, the subparagraph excludes from the capital tax base, any reserve that has been deducted in computing Part I tax. Therefore it draws into the consideration of the meaning of "reserve" for purposes of Part I.3, the particular regime established in respect of accounting for reserves under Part I of the Act. Note the reference to policy reserves allowed by regulation and policy loans. These Regulation 1401 reserves include "reserves" which are not in accord with the CICA definition. The same applies to "actuarial reserves" which are not taken from surpluses or retained earnings.
+
+18. It is submitted that the reserves set out under Part I are not GAAP reserves in that they are not appropriations from retained earnings, but rather, deductions from the computation of income, as noted in the following paragraph.
+
+19. A summary analysis of the comparison of the term "reserve" as used in the accounting sense and as used for tax purposes can be found in Harris on Canadian Income Taxation, 4th ed., wherein it states at page 439:
+
+[t]raditionally the term "reserve" was used by accountants to refer to a wide range of provisions in the accounts of financial statements for the possible, or probable, occurrence of future events that would establish the existence of an expense or loss. Conservative accounting required that provision be made for any anticipated loss, so that it could be treated as an expense, as soon as its occurrence appeared reasonably likely. Because of the tax postponement that could result if deductions of this nature were freely allowed for tax purposes, the Act contains a general prohibition against the deduction by a taxpayer, in computing his income, of "an amount transferred or credited to a reserve, contingent account or sinking fund except as expressly permitted by "Part I...
+
+In recent years, accountants have refined and limited the use of the term "reserve". The only use of the term that is now accepted in accounting is to refer to an amount that has been transferred by book entry from retained earnings or other surplus to a special shareholders' equity account and that is intended to recognize the possibility of future losses or expenses or to show that a portion of retained earnings cannot be paid in dividends because of contractual or other legal restrictions. If any such reserve account is no longer required, its balance is returned to the shareholders' equity account (e.g. retained earnings) from which it was originally derived. If an event occurs of a kind for which the reserve was designed to provide, the resulting cost is not charged against the reserve account, since an expense was not recognized at the time that the reserve account was set up; rather, an expense account must be charged when the expenses materializes. Reserves, in this accounting sense, must be distinguished from provisions made in the accounts for expenses that are considered to have been already incurred but the amount of which may need to be estimated -- such as provisions for doubtful and accumulated depreciation.
+
+It is clear, however, that the term "reserve" as used in the Act, though it is not defined, is being used in the older, broader, and less precise sense and is intended to include provisions for doubtful debts and the like ...
+
+20. The term "reserves" used in Part I of the Act is broader than the meaning of reserves in current accounting terminology and indicates the broader concept which, it is submitted, should be applied to the meaning of reserves under Part 1.3. It is submitted that a broad interpretive approach of the component elements that make up capital for purposes of Part 1.3 tax is consistent with the general scheme and intention of Part 1.3 which is to bring into the tax base virtually every source of capital available to a corporation in the conduct of its business.
+
+...
+
+24. ... the term "any other surpluses" is found at the end of the following list:
+
+(ii) the amount of its capital stock (or, in the case of an insurance corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surpluses and another other surpluses.
+
+25. The CICA accounting recommendation itself notes that:
+
+Dictionary definitions of the word "surplus" relate to a remainder or excess, often in the sense of an arithmetical difference rather than in the sense of a surfeit or overabundance. In accounting, "surplus" has long been used to designate the excess of net assets over the total paid-in par value or stated value of the shares of a corporation. This usage is firmly established in company law and finance, and is not likely to be discontinued.
+
+The convenient usage of the word surplus in the sense indicated above is recognized.
+
+26. It is submitted that the word "surplus" is a general term essentially meaning the residue or excess of assets after liabilities, including capital, have been deducted. The term incorporates both capital surplus and earned surplus.
+
+...
+
+28. Paragraph 181.3(b)(ii) clearly includes earned and capital surpluses in the requisite calculation of capital. Although those terms by themselves are comprehensive, Parliament went further and expressly enacted that "any other surplus" be included as part of the capital. Accordingly, it is submitted that a corporations surplus in any form must be included and it is submitted that the amounts in question should therefore be included.
+
+29. In any event, the words "and any other surpluses" do not have meaning if GAAP is used to interpret the word "surplus" because under GAAP, there is no other surplus except retained earnings and contributed surplus. Therefore, the term "any other surpluses" must mean an amount that is a surplus for other than GAAP purposes.
+
+...
+
+31. The word "surplus" is not defined in the Act. It is submitted that it should be given its most reasonable interpretation in accordance with the ordinary commercial and financial principles, in the context of the surrounding circumstances. The Appellant has realized the gains which therefore represent part of the net assets or financial resources available to it.
+
+32. The Act requires only that the amounts determined in accordance with the filing be used. There is no mention in subsection 181(3) to characterization of the amount. To read characterization into the provision would be to add words to the section. Nowhere does it state that the terminology or nomenclature is to be limited to GAAP or insurance accounting.
+
+...
+
+ANALYSIS AND DECISION:
+
+[46] Part I.3 of the Act levies a special tax on corporations in respect of their capital in excess of $10 million employed in Canada. This annual “Large Corporations Tax” is payable in addition to the Part VI tax payable on the capital of financial institutions.
+
+[47] Under section 181.3, special rules apply in computing the “taxable capital employed in Canada” of a financial institution that carries on a life insurance business. In order to calculate the amount of the “taxable capital employed in Canada”, one needs, inter alia, to look at the value of the corporation’s “taxable capital” and “reserves”.
+
+[48] Paragraph 181.3(3)(b) defines “capital” as follows.
+
+181.3(3) The capital of a financial institution for a taxation year is
+
+...
+
+(b) in the case of an insurance corporation that was resident in Canada at any time in the year and carried on a life insurance business at any time in the year, the amount, if any, by which the total at the end of the year of
+
+...
+
+(ii) the amount of its capital stock ..., retained earnings, contributed surplus and any other surpluses
+
+exceeds the total of
+
+...
+
+[49] In summary, then, the large corporations tax is a sort of minimum tax. The tax is imposed on a corporation’s capital. Financial institutions carrying on a life insurance business include the amount of “reserves” and “other surpluses” in computing taxable capital. The issue is what is included in taxable capital.
+
+[50] Subparagraph 181(3)(b)(ii) of the Act provides that all the relevant information for computing any amount under Part I.3, including “taxable capital employed in Canada”, is found in the balance sheet that has been accepted by the Superintendent of Financial Institutions. The subparagraph reads as follows.
+
+181(3) For the purposes of determining the carrying value of a corporation’s assets or any other amount under this Part in respect of a corporation’s capital, investment allowance, taxable capital or taxable capital employed in Canada for a taxation year ...
+
+(a) the equity and consolidation methods of accounting shall not be used; and
+
+(b) subject to paragraph (a) and except as otherwise provided in this Part, the amounts reflected in the balance sheet
+
+...
+
+(ii) accepted by the Superintendent of Financial Institutions, in the case of a bank or an insurance corporation that is required by law to report to the Superintendent, ...
+
+shall be used.
+
+[51] Subsection 181(1) defines certain terms applicable to Part I.3 including “reserves”. The subsection reads as follows.
+
+181.(1) For the purposes of this Part,
+
+“reserves”, in respect of a corporation for a taxation year, means the amount at the end of the year of all of the corporation’s reserves, provisions and allowances (other than allowances in respect of depreciation or depletion) and, for greater certainty, includes any provision in respect of deferred taxes.
+
+[52] In Oerlikon Aérospatiale Inc. v. R., referred to above, Archambault J.T.C.C. analyzed the meaning of “reserves” under Part I.3. The taxpayer corporation in Oerlikon received advances from customers for long term defence equipment contracts and it was in dispute as to how these advances were to be treated for tax purposes.
+
+[53] The corporation was not a financial institution and therefore the rules for determining “taxable capital employed in Canada” were different than those governing this appeal. Regardless of this fact, the term “reserves” was in issue and it has the same meaning throughout Part I.3.
+
+[54] Archambault, J. held that “reserves” were defined in subsection 181(1) only in an accounting sense. The terminology in Part I.3 is generally to be interpreted in accordance with accounting principles. He writes:
+
+It therefore goes without saying that the terminology used in the Act to identify the component parts of capital is that used by accountants in preparing a balance sheet.
+
+[55] The Federal Court of Appeal varied this analysis stating that "reserves" should also include "tax reserves" but did not go any further.
+
+[56] The manner in which the Appellant's balance sheets treated the unamortized gains was consistent with the Rules and the accounting principles applicable to the Appellant. Further, the Superintendent of Financial Institutions accepted the balance sheets and in my opinion since the balance sheets contained a Statement of Assets and a Statement of Liabilities, Capital and Surplus, those statements, as accepted by the Superintendent are to be relied on for purposes of determining the capital base of the Appellant. The Appellant did not treat the unamortized gains as a “surplus” or a "reserve" in its balance sheets, and the Superintendent in turn accepted the balance sheets.
+
+[57] Parliament knew or is presumed to have known of the Rules for preparation of balance sheets by life insurers as the Rules predated the coming into force of the capital taxes in issue. In fact the Instructions published by the Superintendent for the Completion of the ANNUAL STATEMENT states as follows:
+
+6. Statutory Accounting requirements/Generally Accepted Accounting Principles
+
+The Act and regulations framed thereunder specify the statutory accounting and reporting requirements. The statutory principles are oriented to solvency-based financial reporting. The prescribed Annual Statement (Form OSFI-54) reflects these legislative requirements. Other than in the defined areas of differences covered in the legislation, the underlying basis for accounting and financial reporting incorporated in the prescribed form is intended to conform to Generally Accepted Accounting Principles. ...
+
+[58] Moreoever the unamortized gains in issue are only taken into retained earnings on a periodic basis as described above. As and when a portion of the gain is taken in, that portion becomes capital since retained earnings are part of the capital base. It would seem logical to conclude that before that time the realized gains are not capital, because they have not under the Rules become retained earnings.
+
+[59] Again, as mentioned above, a life insurer's policy liabilities that may reasonably be regarded as having been established in respect of the life insurer's insurance business carried on in Canada are required to be included in calculating the life insurer's taxable capital employed in Canada as defined for the purposes of Parts I.3 and VI of the Act pursuant to subclause 181.3(1)(c)(ii)(B)(I) and clause 190.11(b)(ii)(A) of the Act, respectively, except to the extent such amounts are deductible under Part I of the Act. It would appear unreasonable to include not only policy liabilities in capital but also the deferred unamortized gains which are established and deferred for the purpose of meeting the policy liabilities.
+
+[60] I have concluded for the above reasons, in particular that the balance sheets must be relied on, that the unamortized/deferred gains are not reserves nor other surpluses. Therefore I will not address the issue of whether the Minister was estopped from raising the issue of "other surpluses" only in the Amended Reply after the dates for reassessing had expired.
+
+[61] Consequently, the appeals are allowed, with costs and the reassessments in issue are vacated.
+
+Signed at Ottawa, Canada this 8th day of November, 1999.
+
+"T.P. O'Connor"
+
+J.T.C.C.
+

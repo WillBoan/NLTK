@@ -1,0 +1,158 @@
+Date: 20030113
+
+Docket: 2002-2889-IT-I
+
+BETWEEN:
+
+ESTATE OF THE LATE RONALD CLAUSSEN
+
+Appellant
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent
+
+Reasons for Judgment
+
+Bowie J.
+
+[1] Ms. Jan Claussen appeared before me as agent representing the estate of her late husband, Ronald Claussen, in an appeal from an assessment for income tax for the 1999 taxation year. The issue in the appeal is whether Mr. Claussen was entitled to a tax credit under section 188.2 of the Income tax Act (the Act) in respect of certain medical expenses incurred by Ms. Claussen on her own behalf. Initially, there were a number of items in dispute, but during the hearing Ms. Claussen informed me that she was now contesting only two. One was the expenses that she incurred to travel from Powell River B.C. for the purpose of consultations with Dr. Chan, a naturopath practicing in Vancouver. The other item that is in dispute is the amount of $11,810.91 paid by her for drugs, medicaments or other preparations or substances (the medication) that were prescribed for her use by Dr. Chan, but were supplied to her neither by him nor by a pharmacist. After hearing Ms. Claussen's evidence, counsel for the Respondent very properly conceded that the travel expenses were a justifiable item of expense to be allowed under paragraph 118.2(2)(h) of the Act.
+
+[2] If the Appellant is to be allowed a tax credit for the medication then it must be on the basis that it can be brought within paragraph 118.2(2)(n):
+
+118.2(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+
+(a) ...
+
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+
+[3] It is not disputed that the Appellant actually spent the amount claimed to give rise to the credit, or that the medication was prescribed by Dr. Chan. The Minister bases the disallowance of the credit entirely upon the Appellant's inability to show that the medication was "... recorded by a pharmacist". The medication in question was in the nature of vitamins and herbal remedies. Similar medication was sold and administered to the Appellant by Dr. Chan, and a credit was allowed under paragraph 118.2(2)(a) for medical services, including the cost of the same medication.
+
+[4] The expression "... as recorded by a pharmacist" has attracted considerable judicial attention recently. In Frank v. The Queen,[1] Teskey J. held that the requirement was satisfied where the medication was sold to the patient by a druggist, even though they were not drugs listed for sale only by prescription. The druggist's purchase or sales slip was sufficient to satisfy the requirement for recording. In Pagnotta v. The Queen,[2] Miller J. had to deal with a claim for a tax credit under paragraph (n) which arose out of the purchase by the Appellant of herbs and supplements prescribed by a doctor, some of which were supplied by pharmacists and some of which were not. None of the items were drugs listed for sale only by prescription. After a careful review of paragraph (n), he concluded, following Frank, that those items purchased from a pharmacy satisfied the requirement to be registered by a pharmacist, while those that were purchased elsewhere did not. Judge Miller acknowledged that this is a liberal interpretation of the concluding words of paragraph (n), but he considered it to be warranted in order to meet the objective of the Act. His decision that medication not sold by a pharmacist cannot qualify for the tax credit was followed by Rowe D.J. in Dunn v. The Queen,[3] and by McArthur J. in Melnychuk v. The Queen,[4] both of whom would have preferred to allow the credit, but concluded that they could not because they could not ignore the concluding words of paragraph (n).
+
+[5] The only support to be found for the Appellant's position is in the decision of O'Connor J. in Ray v. The Queen.[5] In that case, like this one, the medication was prescribed by a doctor, but not obtained at a pharmacy, and so not registered by a pharmacist. They were not prescription drugs, but Judge O'Connor found that they were required to sustain the life of the Appellant. After considering the decisions of Teskey J. in Frank, of Miller J. in Pagnotta, and of Rowe D.J. in Dunn, he said at paragraph 20 of his Reasons:
+
+With respect, the ambiguity in the provision has resulted in judicial acrobatics with the purpose of fitting a taxpayer's situation within the provision. It is my opinion that common sense should prevail. If the medications are prescribed by a doctor and they make the difference between life and death or functioning or not functioning, they should fall under paragraph 118.2(2)(n).
+
+Determination of the question whether ambiguity lurks in a statute was dealt with recently by Iacobucci J. in the Bell ExpressVu[6] case. He said:[7]
+
+What, then, in law is an ambiguity? To answer, an ambiguity must be "real". The words of the provision must be "reasonably capable of more than one meaning" (Westminister Bank Ltd. v. Zang, [1966] A.C. 182 (H.L.), at p. 222, per Lord Reid). By necessity, however, one must consider the "entire context" of a provision before one can determine if it is reasonably capable of multiple interpretations. ...
+
+[6] I accept that the concluding words of paragraph 118.2(2)(n) of the Act, considered in its context as part of a series of provisions designed to provide a measure of relief from the burden of income tax to people who suffer, or as in this case whose dependants suffer, from illness, is capable of more than one meaning. Conceivably, it might refer to the requirement imposed upon a pharmacist who fills a prescription for a Schedule F drug under the Food and Drug Regulations to maintain a record of the prescriptions filled. This seems unlikely, however, as paragraph (n) refers to substances that would certainly fall outside Schedule F. It might refer to the requirement under provincial statute law that pharmacists maintain a record for each patient of the prescriptions filled, or it might, as the cases I have referred to have found, refer simply to the recording by the cash register of a sale of a product falling within the description found in paragraph (n). However, it must mean something. With due respect to Judge O'Connor, it is not, in my view, open to this Court simply to write the words out of the statute because their meaning is unclear. Iacobucci J. makes it clear in Bell Express Vu that if ambiguity is found, the Court must then go on to resolve that ambiguity through external aids to interpretation and the canons of construction. It is a fundamental canon of construction that words in a statute not be rendered nugatory. It is not necessary, however, for me to decide whether Judges Teskey and Miller were correct in their conclusion that a sale by a pharmacy is all that is required to satisfy paragraph (n); I am unable to find that a purchase which does not involve a pharmacy or a pharmacist can qualify.
+
+[7] I would not want to leave this case without expressing my agreement with the sentiment expressed by Associate Chief Judge Bowman in a brief oral judgment in Banman v. The Queen,[8] wherein he suggested that sooner or later the government will have to consider an amendment to this legislation to extend the tax credit to cover the natural remedies and alternative forms of treatment that are becoming prevalent, and are proving to be effective in certain cases. The present case is demonstrative of the need for some reform of the law. The Appellant finds herself in the position that she is permitted a tax credit in respect of the purchase of certain remedies because they were supplied and administered by Dr. Chan, but denied a tax credit for the same medication bought in a retail outlet, because it is not a pharmacy. There is no suggestion that the medication was not effective; indeed the opposite seems to be true. The distinction made by the law has no apparent medical basis. The situation cries out for reform. However, it is only Parliament that can act; the Court must apply the law as it is written.
+
+[8] The appeal will be allowed and the assessment will be referred back to the Minister for reconsideration and reassessment, but only to increase the base upon which the tax credit is calculated by the amount of the travel expenses, which were previously excluded.
+
+Signed at Ottawa, Canada, this 13th day of January, 2003.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.:
+
+2002-2889(IT)I
+
+STYLE OF CAUSE:
+
+Estate of the late Ronald Claussen and Her Majesty the Queen
+
+PLACE OF HEARING
+
+Vancouver, British Columbia
+
+DATE OF HEARING
+
+November 27, 2002
+
+REASONS FOR JUDGMENT BY:
+
+The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT
+
+January 13, 2003
+
+APPEARANCES:
+
+Agent for the Appellant:
+
+Jan Claussen
+
+Counsel for the Respondent:
+
+Victor Caux
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+N/A
+
+Firm:
+
+N/A
+
+For the Respondent:
+
+Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2002-2889(IT)I
+
+BETWEEN:
+
+ESTATE OF THE LATE RONALD CLAUSSEN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on November 27, 2002 at Vancouver, British Columbia, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Agent for the Appellant: Jan Claussen
+
+Counsel for the Respondent: Victor Caux
+
+JUDGMENT
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1999 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to include the travel expenses of Jan Claussen as claimed under subsection 118.2(2) of the Act.
+
+Signed at Ottawa, Canada, this 13th day of January, 2003.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] [2001] 3 C.T.C. 2596.
+
+[2] [2001] 4 C.T.C. 2613
+
+[3] [2002] 2 C.T.C. 2007.
+
+[4] [2002] 2 C.T.C. 2389.
+
+[5] [2002] 4 C.T.C. 2590.
+
+[6] Bell ExpressVu Limited Partnership v. Rex, [2002] S.C.C. 42.
+
+[7] At para 29.
+
+[8] [2001] 2 C.T.C. 2111
+

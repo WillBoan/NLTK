@@ -1,0 +1,140 @@
+Date: 19990618
+
+Docket: 97-3403-IT-G; 97-3404-IT-G
+
+BETWEEN:
+
+JOHN SHORT, FREDERICK SHORT,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent,
+
+Reasons for judgment
+
+Mogan, J.T.C.C.
+
+[1] The appeals of John Short v. Her Majesty the Queen (97-3403(IT)G) and Frederick Short (97-3404(IT)G) were heard together on common evidence. The only issue is whether a certain amount received by each Appellant in August 1993 was income as an "annuity payment" within the meaning of paragraph 56(1)(d) of the Income Tax Act or capital as part of the proceeds of disposition of capital property.
+
+[2] In July 1988, Frederick W. Short Sr. (the father of both Appellants) applied to Great West Life Assurance Company ("GWL") for three different interest income annuities. The applications and specifications are in Exhibits R-3, R-4 and R-5. The cost of each annuity was $50,000 and the specifications were for all practical purposes identical. The annuities were identified by numbers SNA 22396, SNA 22397 and SNA 22399, respectively. The following specifications are taken from Exhibit R-3:
+
+PLAN INTEREST INCOME ANNUITY
+
+POLICY NUMBER SNA 22396
+
+OWNER FREDERICK W. SHORT SR.
+
+ANNUITANT(S) FREDERICK W. SHORT SR.
+
+ISSUE DATE 19 July 1988
+
+EFFECTIVE DATE 13 June 1988
+
+SINGLE PREMIUM $50,000.00
+
+CONTRACT TYPE CASHABLE
+
+INTEREST GUARANTEE PERIOD 240 MONTHS
+
+GUARANTEED INTEREST RATE 11.00%
+
+INTEREST AMOUNT $5,500 ANNUALLY BEGINNING
+
+AND FREQUENCY 13 June 1989
+
+RENEWAL DATE 13 June 2008
+
+RENEWAL AMOUNT $50,000.00
+
+SURRENDER PROVISIONS
+
+Total Cash Value
+
+The Total Cash Value available at any time will be the Renewal Amount discounted to the date of determination for each month remaining in the Interest Guarantee Period, at a rate equal to 1 percent plus the difference between the current Guaranteed Interest Rate offered by the Company on the date of determination (for the same Interest Guarantee Period) and the Guaranteed Interest Rate, plus any interest accrued from the last interest payment date.
+
+Total Surrender
+
+The Owner, on written request, may elect to surrender the policy for its Total Cash Value in one sum at any time.
+
+[3] In May 1989, the father of the Appellants assigned two annuities (numbers SNA 22396 and SNA 22397) to Frederick Short Jr. (one of the Appellants) and assigned the remaining annuity (number SNA 22399) to John Short (the other Appellant). If I review the facts and decide the issue in the appeal of Frederick Short, the same result will follow in the appeal of John Short.
+
+[4] In August 1993, Frederick Short (the Appellant) elected to surrender both of his interest income annuities and receive the total cash value for each. He received $87,364.73 for each annuity making a total of $174,729.46. Ms. Shelagh Daly, an employee of GWL testified as a witness for the Appellants. She introduced Exhibit A-14, a document entitled "Market Value Calculator" explaining how GWL arrived at the total cash value of $87,364.72 as at August 17, 1993 for each annuity. A summary of Exhibit A-14 will explain the relevant numbers and amounts.
+
+Principal Amount $50,000.00
+
+Interest Term Annual
+
+Interest Rate Guaranteed 11%
+
+Interest Rate Current 6.375%
+
+Interest Guarantee Period 240 months
+
+Interest Guarantee Period Start 13/06/88
+
+Values at August 17, 1993
+
+Accumulated Value $50,937.92
+
+Gain (Loss) on Surrender $36,426.81
+
+Market/Surrender Value $87,364.73
+
+[5] In the above summary, the current interest rate of 6.375% is the annual interest rate that GWL would offer to a person who wanted to purchase an interest income annuity for the remaining months in the interest guarantee period being 178 months from August 17, 1993. The accumulated value of $50,937.92 represents the principal amount of $50,000 plus interest at 11% accrued from June 13, 1993 to August 17, 1993 being the valuation date. The market/surrender value of $87,364.73 is the amount which would have to be invested on August 17, 1993 at 6.375% per annum to produce annual interest of $5,500 for the remaining months in the interest guarantee period. And finally, the so-called gain of $36,426.81 is the difference between the market/surrender value and the accumulated value. I would regard the true gain as the amount by which the market/surrender value exceeded the principal amount of $50,000.
+
+[6] At the end of 1993, GWL issued to Frederick Short a Revenue Canada form T5 Statement of Investment Income showing accrued interest of $11,000 and other interest income of $74,729.46. The $11,000 was the annual interest amount at 11% paid to Frederick on June 13, 1993 with respect to his two annuities. The $74,729.46 was determined as follows:
+
+Market/Surrender Value $87,364.73
+
+Less Principal Amount 50,000.00
+
+Gain on one Annuity $37,364.73
+
+Gain on second Annuity 37,364.73
+
+Total Gain $74,729.46
+
+When filing his income tax return for 1993, Frederick reported $11,000 as interest for the two annuities plus $74,729.46 as part of his income. Exhibit R-1 is Frederick's 1993 income tax return containing the Revenue Canada form T5. Upon being assessed for tax, Frederick filed a notice of objection claiming that the amount $74,729.46 was a capital gain from the disposition of the two annuities. That is the issue, income or capital, in these two appeals.
+
+[7] Although the Revenue Canada form T5 contained the aggregate amount of $74,729.46 respecting the total true gain on two annuities, I will consider only the amount of $37,364.73 because that is the true gain on one annuity as explained in Exhibit A-14 and the other Appellant, John Short, owned only one annuity. In defending the assessment against Frederick Short, the Respondent does not argue that the amount $37,364.73 with respect to the one annuity was interest. Instead, the Respondent argues that that amount was an "annuity payment" within the meaning of paragraph 56(1)(d) of the Act and as the word "annuity" is defined in subsection 248(1).
+
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+...
+
+(d) any amount received by the taxpayer in the year as an annuity payment other than ...
+
+248(1) In this Act,
+
+“annuity” includes an amount payable on a periodic basis whether payable at intervals longer or shorter than a year and whether payable under a contract, will or trust or otherwise;
+
+[8] The complete answer to the Respondent's argument is that the amount of $37,364.73 was not "an amount payable on a periodic basis" by any standard or under any circumstances. In fact, it was the antithesis of an amount payable on a periodic basis because it was part of a lump sum payment made once and for all to terminate the annual interest payments of $5,500; to return the principal amount ($50,000) to the owner; and to pay the present value (as at August 17, 1993) of the stream of future interest payments over the remainder of the interest guarantee period.
+
+[9] Notwithstanding the definition of "annuity" in subsection 248(1), that same word is defined in the Concise Oxford Dictionary, Eighth Edition (1990) as follows:
+
+1. a yearly grant or allowance.
+
+2. an investment of money entitling the investor to a series of equal annual sums.
+
+3. a sum payable in respect of a particular year.
+
+The root of the English word "annuity" is the Latin word "annus" meaning year. In the workaday world, an annuity is an amount payable yearly. The definition of "annuity" in subsection 248(1) as set out above confirms the ordinary meaning in the workaday world in the sense that it describes an amount payable on a periodic basis; and it expands that ordinary meaning to include intervals longer or shorter than a year. While the definition in subsection 248(1) is inclusive in the sense that it "includes an amount payable ... " that same definition does not state or suggest or even imply that an annuity, for income tax purposes, can be a large once-and-for-all payment like the amount of $87,364.73 in Exhibit A-14 derived from a consolidation of (i) a principal capital amount of $50,000; (ii) accrued interest of $937.92; and (iii) a balance of $36,426.81 which is dependent upon fluctuating day-to-day interest rates as determined on a particular valuation date.
+
+[10] Counsel for the Respondent argued that the word "annuity" as defined in subsection 248(1) cannot be confined to the words employed in the definition because of the word "includes". I accept that argument but I cannot conclude that Parliament intended that the word "annuity", for purposes of the Income Tax Act, have a meaning opposite to the ordinary dictionary meaning just because the definition in the Act commences with the word "includes". If the person drafting the Act had intended that the word "annuity" in the Act could mean a lump sum payment or a large once-and-for-all payment, that person would have used much more explicit language to demonstrate that the statutory meaning would include the antithesis of the ordinary dictionary meaning.
+
+[11] In my opinion, these appeals got off the rails when GWL included the aggregate amount of $74,729.46 in the Revenue Canada form T5 as income and when both Appellants reported such amounts as income when filing their 1993 income tax returns. See Exhibits R-1 and R-2. The designation by GWL in the T5 forms and the reporting of the amounts by the Appellants do not answer the issue in these appeals which is a question of law.
+
+[12] It is interesting that Exhibit A-14 refers to the final amount of $87,364.73 as the "Market/Surrender Value". I asked counsel for the Respondent in argument what would be the position of her client if Frederick Short, one of the Appellants, had sold his two annuities to a third party on August 17, 1993 for proceeds of $174,729.46. Ms. Sheppard acknowledged that Frederick would have proceeds of disposition from the sale of capital property. I fail to see why the result should be any different because Frederick surrendered his two annuities to GWL on that same date. GWL as a financial institution dealing in commercial paper may regard the amount $74,729.46 as interest paid to a holder of such paper but that designation by GWL does not determine, at law, the character of the amount $74,729.46 in the hands of Frederick Short.
+
+[13] Both appeals are allowed with costs on the basis that, when each interest income annuity was surrendered in August 1993, the amount of approximately $87,000 received from GWL represented proceeds of disposition of capital property having an adjusted cost base of $50,000. Full party and party costs are awarded in the appeal of Frederick Short. Costs in the appeal of John Short are fixed at $400.
+
+Signed at Ottawa, Canada, this 18th day of June, 1999.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

@@ -1,0 +1,102 @@
+Date: 19991101
+
+Docket: 98-1242-IT-I
+
+BETWEEN:
+
+WILLIAM E. GREEN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur J.T.C.C.
+
+[1] The issue in this appeal is to determine the correct amount of taxable dividend income to be included in William E. Green's 1996 income. I will attempt to simplify the somewhat complicated facts.
+
+[2] In 1993, Mr. Green purchased 1000 US shares of the Canadian Imperial Bank of Commerce (the “shares”) for US$26,350. In 1996, he received notice that the shares were being redeemed for US$26.75 per share. In the spring of 1997, he received a T5 (the “first T5”) indicating 1996 dividends of US$3,816.12 from the shares, which included an incorrect deemed dividend of US$1,750.00 upon the redemption of the shares. Mr. Green was not aware of the incorrect deemed dividend when he received the first T5. Subsequent to that, Mr. Green received an Amended T5, an Additional T5, and a letter from his broker (Green Line Investor Services) with an attached letter from the R-M Trust Company as agent for CIBC. The Amended T5 indicated dividends of US$2,066.12 from the shares, which is equal to the dividends from the first T5, US$3,816.12, less the incorrect deemed dividend of US$1,750.00. The Additional T5 indicated the correct taxable deemed dividend of C$10,155.00 upon the redemption of the shares. Unlike the first T5, the Additional T5 correctly took into account the difference in the Canadian and US exchange rates between the time of issue of the shares in 1991 and the time of redemption of the shares in 1996.
+
+[3] Letters from Green Line Investor Services and the R-M Trust Company explained the Amended T5 and the Additional T5. Mr. Green did not understand these letters and he filed his 1996 Income Tax Return reporting the Amended dividend and the Additional dividend. The Minister assessed Mr. Green on the assumption that his return was properly filed and on the assumption that the Amended T5 and the Additional T5 were correct. Mr. Green claims that he should not have reported the Amended and Additional dividends and that he should have reported the amount of the dividend on the first T5 because this is the amount that he understood and he claims he actually received.
+
+[4] The following are the Appellant's submissions:
+
+PROPOSED TREATMENT OF INCOME FROM
+
+CIBC NON-CUMULATIVE PREFERENCE CLASS A
+
+SERIES 10 SHARES
+
+WILLIAM F. GREEN
+
+Treatment of Dividend Income:
+
+Total of 1996 Dividend Income (tab 10) USD $3,816.12
+
+Conversion to Canadian dollars @ 1.351 (tab 7)= $5,155.58
+
+Dividend gross-up @ 125% = $6,444.47
+
+Taxpayer proposes that dividend income reported on Schedule 4 of 1996 T1 in the amount of $13,644.16 be replaced by $6,444.47.
+
+Treatment of Investment Income:
+
+By virtue of purchase and disposition of the CIBC non-cumulative preference class A Series 10 shares, in US dollars, the taxpayer has realized no income from the changes in the relative exchange rates:
+
+Shares purchased 03/30/93 USD: $26,350.40 (tab 2)
+
+Conversion to Canadian dollars @ 1.2898 = $33,986.73
+
+(supp Per RBC Dominion Securities)
+
+Shares sold 12/02/96 USD: $25,000.00 (tab 5)
+
+conversion to Canadian dollars @ 1.3510 = $33,775.00 (tab 7)
+
+Net Loss: ($211.75)
+
+The Appellant submits that he did not receive $8,124 in CIBC Preferred Dividends and should not be taxed on that amount.
+
+[5] The following are the submissions of the Respondent:
+
+Originally the Appellant was issued a T5 in the amount of US$3,816.12 re dividend income.
+
+The original T5 was incorrect and the Appellant was subsequently issued two new T5s.
+
+#1 Amended T5 = $2,066.12 US ($3,816.12 - $1,750.00 = $2,066.00)
+
+#2 Additional T5 = $8,124.00 CND Deemed Dividend
+
+(which is 1.75 US/share)
+
+Calculation: Redemption Price – Paid Up Capital (PUC) = Deemed Dividend
+
+$26.76 US - $25.00 US = $1.75 US
+
+$36.139 CDN (exchange rate $1.3510 December 2, 1996)
+
+$28.015 CDN (exchange rate $1.1206 November 5, 1991)
+
+$36.139 - $28.015 = $8.124 CDN (Deemed Dividend of $8,124.00)
+
+The Minister stated that the amount of $8,124 was properly included in the Appellant's income pursuant to section 3 and paragraph 12(1)5 of the Income Tax Act. The initial onus rests with the taxpayer to demolish the Minister's assumptions relied on in arriving at the assessment.[1]
+
+[6] Mr. Green was ably represented by counsel who relied on a "Statement of Investment Income Summary – 1996" as evidence that the dividend income for the shares was $3,816.
+
+[7] In my view, Mr. Green cannot succeed in this matter because he did not establish that the Amended T5 and the Additional T5 were incorrect. I sympathize with Mr. Green because it was difficult to understand the first T5, the Amended T5, the Additional T5, and the letters from Green Line Investor Services and R-M Trust Company. However, the fact that he did not understand the Amended T5 and the Additional T5 is not evidence that the T5s were incorrect and it does not establish that the Minister’s assumption was incorrect. Furthermore, Mr. Green did not establish his position that he actually received US$3,816.12 in the first T5 because he did not produce evidence (such as a cancelled check or a bank deposit book) showing that he received this amount. The “Statement of Investment Income Summary - 1996” that he relied on was not evidence that he received this amount. For these reasons, I would find that Mr. Green did not demolish the Minister’s assumption. In my view, the Minister’s assumptions were correct. He properly assessed Mr. Green’s 1996 income tax return in accordance with section 3, paragraph 12(1)(j), and subsections 82(1) and 84(3) of the Act.
+
+[8] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 1st day of November, 1999.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Hickman Motors Limited v. The Queen, 97 DTC 5363 at 5376 (SCC).
+

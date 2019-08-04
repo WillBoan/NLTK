@@ -1,0 +1,208 @@
+Date: 19980622
+
+Docket: 93-692-IT-G
+
+BETWEEN:
+
+DONOHUE ST-FÉLICIEN INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+ARCHAMBAULT, J.T.C.C.
+
+[1]Donohue St-Félicien Inc. ("Donohue") is challenging income tax assessment notices issued by the Minister of National Revenue ("the Minister") for the 1985 and 1986 taxation years. At the start of the hearing the parties filed a consent to judgment settling the appeal with respect to 1985. As to 1986, the only issue was whether Donohue is entitled to an investment tax credit ("ITC") with respect to three forest roads built or improved in 1986. For there to be entitlement to the ITC, the three roads had to be "qualified property" according to the definition contained in s. 127(9) of the Income Tax Act ("the Act"):
+
+"qualified property" - "qualified property" of a taxpayer means property (other than an approved project property or a certified property) that is
+
+(a) a prescribed building to the extent that it is acquired by the taxpayer after June 23, 1975, or
+
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+
+that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer and . . .
+
+This provision applies to only three types of property, namely prescribed buildings, prescribed machinery and prescribed equipment. As a forest road is neither a building nor machinery, that leaves the third type of property, "prescribed equipment". Donohue maintained that the forest roads it built or improved were prescribed equipment described in s. 4600(2)(h) of the Income Tax Regulations ("the Regulations") and that they were not roadways, which are excluded from that definition. Section 4600(2)(h) provides as follows:
+
+4600. (2) Property is prescribed machinery and equipment for the purposes of the definition "qualified property" in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is . . .
+
+(h) a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway) . . .
+
+The property included in paragraph (n) of Class 10 or in Class 15 is the following:
+
+Class 10
+
+(n) property that was acquired for the purpose of cutting and removing merchantable timber from a timber limit and that will be of no further use to the taxpayer after all merchantable timber has been removed from the limit, unless the taxpayer has elected to include another property of this kind in another class in this Schedule . . .
+
+Class 15
+
+Property that would otherwise be included in another class in this Schedule and that
+
+(a) was acquired for the purpose of cutting and removing merchantable timber from a timber limit, and
+
+(b) will be of no further use to the taxpayer after all merchantable timber that the taxpayer is entitled to cut and remove from the limit has been cut and removed,
+
+except
+
+(c) property that the taxpayer has, in the taxation year or a preceding taxation year, elected not to include in this class, or
+
+(d) a timber resource property.
+
+In short, the question comes down to whether forest roads are equipment, and if so, whether they are roadways.
+
+Facts
+
+[2]Donohue is a company operating a forestry business which includes the cutting and removal of merchantable timber located in a Crown forest. In 1986 Donohue, in the course of its forestry business, built roads to enable the merchantable timber to be cut and removed.
+
+[3] The capital cost of the forest roads at issue with regard to the 1986 taxation year was as follows:
+
+Samaqua road: $176,806
+
+Desautels road: $258,000
+
+Libéral-Mistassini road: $ 58,155
+
+[4]Donohue asked Rosaire Després, a forestry engineer with a degree from the Université Laval, to testify as an expert witness and describe a roadway. Counsel for the Minister objected to Mr. Després testifying for this purpose because, in his submission, it was the Court's responsibility, not that of an expert witness, to define the meaning of the word chaussée ("roadway"). I took counsel’s objection under advisement and allowed each of the parties to call its expert witness.
+
+[5] In R. v. Mohan, [1994] 2 S.C.R. 9, at page 20, Sopinka J. of the Supreme Court of Canada set out the tests to be used by a judge to decide whether expert evidence is admissible. They are the following:
+
+(a) relevance;
+
+(b) necessity in assisting the trier of fact;
+
+(c) the absence of any exclusionary rule;
+
+(d) a properly qualified expert.
+
+[6] Here the question is whether the word "roadway" should be broadly interpreted, in the sense of a highway or road, or be given a narrower interpretation, like that adopted by Donohue, under which it would mean the surface course on which vehicles travel and which is located between the two shoulders. As this word is found in a regulatory provision applying to property used in the logging industry, I think it is useful to determine whether the word "roadway" (or "chaussée") can have a special meaning for people in that industry. That is a factor which could have a bearing on the scope of these words.
+
+[7] Through the testimony of the two expert witnesses I learned not only what they considered was meant by the word "roadway", but also how forest roads are built. Finally, this testimony drew the Court's attention to certain texts dealing with such matters. I therefore conclude that their testimony is admissible. It is quite clear that it is admitted solely in order to assist the Court and enable it to decide the matter at issue.
+
+[8]Mr. Després, Donohue's expert witness, filed passages taken from the Manuel de foresterie published in 1996 by Les Presses de l'Université Laval in collaboration with the Ordre des ingénieurs forestiers du Québec.[1] In that manual, the structure of a forest road is described as follows, and I quote the relevant passage in full:
+
+[TRANSLATION]
+
+1.1.2 Structure of a forest road
+
+Forest road terminology distinguishes between several structural components. These components are features of the road and delineate its physiognomy. As regards forest roads, the nomenclature of these components differs somewhat from that used by the Ministère des transports (MTQ).
+
+Figure 2 illustrates, with the aid of a well-defined road, the components of a forest road and the terminology generally used with regard to forest roads. However, it should be noted that for some types of road the foundation can serve as a sub-foundation and rest directly on the roadbed. In the same way, the surface course is almost non-existent in a forest road: the road surface rests directly on the foundation, the sub-foundation or sometimes even on the roadbed (e.g. winter roads).
+
+1.1.2.1 Roadbed
+
+The roadbed is defined as the earthworks supporting the sub-foundation, the foundation and its shoulders. The upper limit is the roadbed line. "Subgrade" is a term commonly used in forestry and, though sometimes rudimentary, the subgrade corresponds to the roadbed. The word "subgrading" is generally used with reference to the construction of the roadbed.
+
+Although in superior quality roads the roadbed consists of mineral materials, a mixture of stumps and organic and mineral matter is frequently used for lesser quality roads.
+
+1.1.2.2 Sub-foundation
+
+The sub-foundation consists of a layer of coarse granular material (natural gravel) resting on the roadbed. For secondary and tertiary roads, the sub-foundation commonly serves as the foundation.
+
+1.1.2.3 Foundation
+
+In the case of forest roads, the foundation is generally the layer of material which serves as the road surface. In that case the words "roadway" or "surface course" are often used to refer to the foundation. It sometimes consists of crushed gravel or natural gravel which has been sorted or sifted.
+
+1.1.2.4 Side ditches
+
+Side ditches are adjacent to the raised area forming the road and their primary function is to channel runoff water from the road and the right-of-way. These ditches prevent the formation of stagnant ponds and erosion of the road. They form part of the excavation work.
+
+1.1.2.5 Drainage ditches
+
+Drainage ditches are primarily excavation works for the drainage of wet areas. The term also refers to the diverting of water and the improvement of water runoff. This work is done beyond the side ditches and drainage ditches often extend beyond the right-of-way.
+
+1.1.2.6 Right-of-way
+
+The right-of-way is the strip of land necessary for road construction work; it usually corresponds to the cleared corridor.
+
+[9]Mr. Després stated that in forestry chaussée ("roadway") has always referred to the surface course which forms the road surface on which vehicles travel:
+
+[TRANSLATION]
+
+Seen crosswise, the roadway is the central part of the road. It is bordered on each side by a shoulder.
+
+Seen in cross-section, the roadway consists of a layer of materials of appropriate grading which is put there to ensure comfortable travel.
+
+[My emphasis.]
+
+[10]Dominique Parent, the Minister's expert witness, is a forestry engineer who works for the Quebec Department of Natural Resources (Ministère des ressources naturelles), in the forest bridges and roads division of the technical assistance branch. He expressed the following opinion on the meaning of the word chaussée ("roadway"):
+
+[TRANSLATION]
+
+In Quebec, in the language in use in the road construction sector (forest or other roads), the word chaussée ("roadway") refers to everything done the primary effect of which is to alter the natural profile of the land so as to obtain a road surface, that is, a finished product which is often characterized by the width reserved for vehicular traffic.
+
+Based on my knowledge and practical experience in the forest bridges and roads division of the Department of Natural Resources, all work involved in earthmoving, in preparation of the roadbed and in putting down a gravel layer about 30 cm deep to serve as a road surface represents costs relating to the construction of a chaussée ("roadway") or forest road.
+
+[11] In support of this interpretation, Mr. Parent relied in particular on the Highway Construction Manual by G.-Robert Tessier, Highway Department, Quebec, 1967, in which, in Chapter 9, titled "Terminology", chaussée ("pavement" in the English version) is defined as all parts of a highway, including the "paving" and shoulders. He also relied on the Cahier des charges et devis généraux, 1993 edition, published by Les Publications du Québec. Prepared by the operations support branch of the Department of Transport (Ministère des transports), this Cahier des charges defines the rights and duties of the Department of Transport and those of the contractor. In this document chaussée ("roadway") is defined as follows:
+
+[TRANSLATION]
+
+Roadway
+
+The roadway is the surface on which vehicles travel. It also refers to all the layers of material placed above the roadbed and intended to support vehicles: those layers are the sub-foundation, the lower and upper foundations and the road surface.
+
+Analysis
+
+[12] For Donohue to be entitled to its ITC, it is essential that the forest roads with respect to which it incurred costs be qualified property within the meaning of s. 127(9) of the Act.
+
+[13] Before considering whether Donohue is right in saying that "prescribed equipment" includes a forest road except for the surface course, it must first be decided whether the word "equipment" includes a forest road. Answering this question is essential because only a building, machinery and equipment can be "qualified property". If a forest road does not constitute equipment, then the Governor in Council could not make it "prescribed" equipment under s. 127(9) of the Act. In exercising the power conferred on him by s. 221(1)(a) of the Act, the Governor in Council can only make the regulations contemplated by the Act.
+
+[14]Counsel for Donohue argued that the word matériel ("equipment") has a broad enough meaning to encompass a forest road. As the word matériel ("equipment") is not defined in the Act, reference must be made to its everyday meaning. According to Le Robert - Dictionnaire alphabétique et analogique de la langue française (tome 4, Paris, Société du Nouveau Littré), the word matériel ("equipment") means:
+
+[TRANSLATION]
+
+|| 2 ° Set of objects, tools, machines . . . used in some service or operation (as opp. to staff). See Equipment, and also Capital. Farming, cultivation . . . printing, laboratory, office equipment. Modern equipment . . . Makeshift equipment . . . "Equipment" account in business accounting (See Equipment, furniture, tools). Depreciation of equipment. Chief in charge of equipment . . . Collect tons of equipment for a polar expedition . . .
+
+[15] A forest road is not a "tool" nor a "machine". However, counsel for Donohue argued that a forest road is an "object", a word defined as follows in Le Robert:
+
+[TRANSLATION]
+
+|| 2 ° Used of whatever has a physical existence and serves a certain purpose. See thing . . .
+
+[16] In the English version of the Act the equivalent of the word matériel is "equipment", defined as follows in Webster's Third New International Dictionary of the English Language:
+
+1 a: the equipping of a person or thing (the development and ~ of a library extension program) b: the state of being equipped (the institution did not spring in full maturity and ~ - J.H. Burton) 2 a: the physical resources serving to equip a person or thing (funds for building and ~) (the vocal ~ of a singer) (a new jail became part of the municipal ~ - Amer. Guide Series: Va.)as (1): the implements (as machinery or tools) used in an operation or activity: APPARATUS (where a tractor is standard ~) (sports ~) (2): all the fixed assets other than land and buildings of a business enterprise (the plant, ~, and supplies of the factory) . . .
+
+syn EQUIPMENT, APPARATUS, MACHINERY, PARAPHERNALIA, OUTFIT, TACKLE, GEAR, MATÉRIEL, can signify, in common, all the things used in a given work or useful in effecting a given end. EQUIPMENT usu. covers everything, except personnel, needed for efficient operation or service, often applying also to human qualities and skills useful in this way (the marines took with them full combat equipment, including tanks, artillery, jeeps, trucks, and flamethrowers - Time) (other equipment in the park includes tables, benches, and playground apparatus . . .)
+
+[My emphasis.]
+
+[17] I do not think we should adopt such a broad meaning as that suggested by counsel for Donohue. First, in determining the scope of a term it is important to fully understand the context in which the term is used. In the definition of the phrase "qualified property" in s. 127(9) of the Act, it can be seen that the Act creates a distinction between a building, machinery and equipment. If the broad meaning suggested by counsel for Donohue were adopted, there would have been no need to state that qualified property could include a building or machinery. In any case, it would not have been necessary to use two separate paragraphs to describe qualified property, one dealing with prescribed buildings and the other with prescribed machinery or prescribed equipment.[2]
+
+[18]Further, I do not think that the word matériel ("equipment") includes a dirt or gravel road to the man in the street. It is interesting to note that according to Webster’s Dictionary the word "equipment" may have either a broader or narrower meaning. Thus, it means an "implement" (which may be translated in French by outil or instrument, such as machinery or tools. It can also mean any fixed asset, other than land or buildings, of a business enterprise.[3] In my view, the word "equipment" used in the definition of the phrase "qualified property" does not include the buildings a company uses in operating its business and also does not include land, or the roads built thereon. In conclusion, I do not think the Governor in Council could have included forest roads in "prescribed equipment". Consequently, Donohue’s forest roads are not qualified property for the purposes of the ITC.
+
+[19]Even if my conclusion regarding the scope of the word "equipment" were incorrect and forest roads had to be treated as equipment, I would conclude that forest roads are not "prescribed equipment" because they are roadways and as such excluded from the definition of "prescribed equipment" in s. 4600(2)(h) of the Regulations. The word "roadway", as confirmed by two experts, can have a broader meaning and narrower meanings. In its broader sense the word is synonymous with "road". In its narrowest sense the word "roadway" refers to the thin surface course located between the shoulders of the road. In the latter case, the term does not include either the roadbed on which this surface course rests or the shoulders.
+
+[20] I do not think the narrow sense suggested by Donohue is in keeping with the spirit of the Act and Regulations. If the Governor in Council intended a forest road to be prescribed equipment, why did he take the trouble to exclude the surface course? As we have seen in the statement of facts, in most cases this surface course is almost non-existent in forest roads. What would be the use of excluding a part of a road which is not usually present? This appears to me to be an absurd result. I see no good reason of fiscal policy for including a forest road but excluding its surface course.
+
+[21]This conclusion would be still more obvious if one were to take the word "roadway" as meaning "foundation" (see 1.1.2.3 of the passage from the Manuel de foresterie cited in paragraph 8 above). In that case the foundation of the road would be excluded from "prescribed equipment". As the sub-foundation commonly serves as the foundation, the only parts of the forest road which could constitute "prescribed equipment" would be the shoulders and side ditches: so why exclude the foundation but not the shoulders and side ditches? It makes no sense.
+
+[22] If Donohue’s interpretation were adopted, it could also lead to needless problems with regard to application. In some cases it might be difficult to separate the costs related to the roadbed and those related to construction of the surface course. On the basis of what "appropriate grading" should a surface course be considered to exist? Here, counsel for Donohue argued that the forest roads were not covered with a surface course and that all the costs incurred related to a forest road, excluding a surface course.
+
+[23] I have no hesitation in adopting the broad meaning of the word "roadway" and concluding that this word is synonymous with "road" for the purposes of s. 4600(2)(h) of the Regulations.
+
+[24] For these reasons, Donohue’s appeal for the 1986 taxation year is dismissed with costs to the Minister. The appeal in respect of 1985 is allowed and the assessment referred back to the Minister for reconsideration and reassessment in accordance with the terms of the consent to judgment filed by the parties.
+
+Signed at Ottawa, Canada, this 22nd day of June 1998.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 16th day of July 1998.
+
+Erich Klein, Revisor
+
+[1] It should be noted that Mr. Després had the privilege of participating, with several other forestry engineers, in drafting the chapter dealing with forest roads.
+
+[2] In the dictionary definition of the word matériel ("equipment"), "object" cannot have the broad meaning assigned to it by Donohue. Otherwise there would have been no reason to speak of "tool" or "machine". I think that the word "object" must have a more limited meaning and the object intended by that definition must be of the same nature as the other property mentioned in the definition. A forest road is not of the same nature as a tool or machine.
+
+[3] The evidence did not indicate whether Donohue included its forest roads in its balance sheet under the heading [TRANSLATION] "equipment and tools". However, I would be very surprised if that were the case. Nevertheless, even if Donohue had included its forest roads under that heading it would not have had a decisive effect on the outcome of this case.
+

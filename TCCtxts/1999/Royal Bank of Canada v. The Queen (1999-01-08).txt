@@ -1,0 +1,122 @@
+Date: 19990106
+
+Docket: 96-4109-GST-G
+
+BETWEEN:
+
+THE ROYAL BANK OF CANADA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 5, 1998 in Montréal, Quebec by the Honourable Judge Gerald J. Rip
+
+Reasons for judgment
+
+RIP, J.T.C.C.
+
+[1] The issue in this appeal by the Royal Bank of Canada ("Bank") from an assessment of tax by the Minister of Revenue of Quebec ("Minister") pursuant to subsection 317(2) of the Excise Tax Act ("Act") is whether the Minister may legally garnish sums advanced to a tax debtor on the basis of security given by a third party. The Bank, after being served with a requirement to pay by the Minister of National Revenue ("Revenue Canada") pursuant to subsection 317(1) of the Act, loaned or advanced money or made payment on behalf of the tax debtor, Mastercraft Leather Goods (1986) Ltd. ("Mastercraft"), on the security of a personal guarantee of a shareholder.
+
+[2] The Bank argues that the service of the requirement to pay by Revenue Canada cannot apply to it since it did not make any payment following the receipt of the requirement to pay on the strength of the security granted by Mastercraft. Rather, the Bank made payments based upon the security granted by a shareholder of Mastercraft. Subsection 317(2) of the Act applies to a financial institution that makes a payment on behalf of a person who owes money to the institution and who has granted security in respect of that indebtedness.
+
+[3] Subsection 317(2) reads as follows:
+
+(2) Without limiting the generality of subsection (1), where the Minister has knowledge or suspects that within ninety days:
+
+(a) a bank, credit union, trust company or other similar person (in this section referred to as the “institution”) will loan or advance moneys to, or make a payment on behalf of, or make a payment in respect of a negotiable instrument issued by, a tax debtor who is indebted to the institution and who has granted security in respect of the indebtedness, or
+
+(b) ...
+
+the Minister may, by a letter served personally or by registered or certified mail, require the institution or person, as the case may be, to pay in whole or in part to the Receiver General on account of the tax debtor’s liability under this Part the moneys that would otherwise be so loaned, advanced or paid, and any moneys so paid to the Receiver General shall be deemed to have been loaned, advanced or paid, as the case may be, to the tax debtor. (2) Sans restreindre la portée générale du paragraphe (1), lorsque le ministre sait ou soupçonne que, dans les 90 jours, selon le cas :
+
+(a) une banque, une caisse de crédit, une compagnie de fiducie ou une personne semblable — appelée “ institution ” au présent article — prêtera ou avancera une somme au débiteur fiscal qui a une dette envers l'institution ou qui a donné à celle-ci une garantie pour cette dette, ou effectuera un paiement au nom d'un tel débiteur ou au titre d'un effet de commerce émis par un tel débiteur;
+
+(b) ...
+
+il peut, par lettre recommandée ou certifiée ou signifiée à personne, obliger cette institution ou cette personne à verser au receveur général au titre de l'obligation du débiteur fiscal en vertu de la présente partie tout ou partie de la somme qui serait autrement ainsi prêtée, avancée ou payée. La somme ainsi versée est réputée avoir été prêtée, avancée ou payée au débiteur fiscal.[1]
+
+[4] The facts are not in issue. Mastercraft is a private corporation that carried on the manufacture and sale of leather goods. On December 13, 1990, Mastercraft established a credit facility with the Bank by which the Bank agreed to lend to Mastercraft the amount of $1,700,000 as an operating loan, the amount of $602,840 as a term loan ("loans"), as well as other amounts. The security for the loans included an assignment of inventory under section 178 of the Bank Act covering raw materials, work in process and finished goods, a general assignment of book debts and a guarantee and postponement of claim for $2,306,420 by Michael Zunenshine, a shareholder. Mr. Zunenshine also executed a letter[2] acknowledging, among other things, that he is a guarantor of the loans. He also recognized that the financial situation of Mastercraft did not warrant bank advances totalling $3,519,170 to Mastercraft and an affiliated corporation and that "facilities are based solely on my personal guarantees totalling $2,306,420 for Mastercraft...[and is a] potential liability against my personal assets...". Counsel agreed that the value of the security granted by Mastercraft itself, that is, the assignment of inventory and the general assignment of book debts, aggregated $1,700,000.
+
+[5] On March 19, 1992 Revenue Canada issued a requirement for the Bank to pay pursuant to subsection 317(2) of the Act. Revenue Canada was of the view that the Bank was, or was about to become, liable to make a payment to Mastercraft in the amount of $42,976.04. The Bank was required to pay that amount to the Receiver General for Canada on account of Mastercraft’s liability under the Act. It appears that by March 19, 1992 Mastercraft had utilized in full its credit facility with the Bank. Counsel for both parties agree that all amounts paid by the Royal Bank after the receipt of the requirement to pay were based on the personal guarantee given to the Bank by Mr. Zunenshine whose guarantee exceeded the security given by Mastercraft itself.
+
+[6] Counsel advised that the only issue before me is the interpretation of subsection 317(2) of the Act, more precisely, to determine if this provision applies when a financial institution makes advances after receipt of requirement to pay by virtue of a guarantee given by a third party and not in virtue of security given by the debtor itself.
+
+[7] In the appellant’s view the person "who has granted security in respect of the indebtedness" was Mr. Zunenshine, not Mastercraft.
+
+[8] The debtor, Mastercraft, is not party to the contract between the Bank and Mr. Zunenshine although the contract was made for the benefit of Mastercraft. The contract between Mr. Zunenshine and the Bank is a contract of suretyship or "cautionnement", defined in article 2333 of the Civil Code of Quebec ("Civil Code"):
+
+Art. 2333. Suretyship is a contract by which a person, the surety, binds himself towards the creditor, gratuitously or for remuneration, to perform the obligation of the debtor if he fails to fulfil it.
+
+Art. 2333. Le cautionnement est le contrat par lequel une personne, la caution, s'oblige envers le créancier, gratuitement ou contre rémunération, à exécuter l'obligation du débiteur si celui-ci n'y satisfait pas.
+
+[9] Mastercraft did not guarantee payment of any amount over and above the value of the security it gave to the Bank, namely $1,700,000, declared the appellant's counsel. Subsection 317(2), she said, seeks to ensure the assets of the debtor are available to the creditor; the provision is not concerned with the assets of a third party who secured the debt. Subsection 317(2) does not refer to a tax debtor "for whom security has been provided", but to a tax debtor "who has granted security in respect of the indebtedness".
+
+[10] Counsel for the respondent, on the other hand, argues that subsection 317(2) applies to all security available to the creditor to enforce payment of the debt, which security is an interest in property or the personal obligation of a third party. Counsel for the respondent distinguished between the meaning of the words security and "garantie" in the English and French versions of paragraph 317(2)(a) and the definitions of security interest and "garantie" for the purpose of subsection 317(3) in the English and French versions of subsection 317(4). In counsel’s view, the words security and "garantie" in paragraph 317(2)(a) do not refer to a property interest but to any type of security whereas the words security interest and "garantie" in subsection 317(3) specifically refer to interest in property that secures payment or performance of an obligation.
+
+[11] Respondent’s counsel submitted that the words security and "garantie" in paragraph 317(2)(a) include a suretyship or "cautionnement". The reason the Royal Bank loaned money to Mastercraft, according to counsel, was because the debtor provided the Bank with sufficient guarantees; the guarantees were the security of its assets and Mr. Zunenshine's personal guarantee. In other words, since Mastercraft could only give security to the extent of $1,700,000, but required loans aggregately in excess of that amount, at least $2,300,000, it obtained for the Bank the personal guarantee of Mr. Zunenshine to the extent of the $2,300,000.
+
+ANALYSIS
+
+[12] The words security and "garantie" in subsection 317(2) are not defined in the Act. Their meanings must be determined according to the laws of the province in which the security was contracted, in this case, Quebec. The Civil Code does not define the word security. In the definition of suretyship or "cautionnement", the Civil Code refers to the person who provides the guarantee as the surety or "caution". Me P.B. Mignault, as he then was, writes that "le cautionnement ne peut avoir plus d'étendue que la dette qu'il garantit"[3]. That is, the surety cannot be greater than the debt it secures; a surety is a security. Professor Deslauriers discusses the import of the word "sûreté", a synonym of the word "caution":
+
+Les sûretés sont des garanties accordées à un créancier, soit par la loi, soit par le débiteur lui-même, pour lui assurer l’exécution d’une obligation principale et le protéger contre les risques d’insolvabilité de son débiteur. L’obligation principale constitue donc un engagement distinct de la sûreté qui la garantit.
+
+[...]
+
+La sûreté accompagnant une créance, sûreté personnelle ou réelle, assure au créancier une certaine protection contre l’insolvabilité de son débiteur. En cas de défaut du débiteur, le créancier peut réclamer le paiement de la caution, sûreté personnelle.[4]
+
+[13] In Caisse populaire d'Amos c. Denis Cimaf Inc., [1997] A.Q. no 3951, the Court of Appeal of Quebec considered the meaning of "garantie" (the French version of security in subsection 317(2)) at paragraph 25:
+
+Ensuite, la définition encore plus large de "garantie" comprend tout droit sur un bien qui garantit l'exécution d'une obligation. Ces termes me semblent, là encore, suffisamment étendus pour couvrir la cession de créance du droit civil québécois. [Je souligne]
+
+[14] The fact that the French version of subsection 317(2) of the Act refers only to a "garantie" and not a "sûreté" indicates that the legislator intended to give the word "garantie" a wide and large interpretation. Professor Deslauriers defined the term "sûreté" as a "garantie". The Le Nouveau Petit Robert dictionary defines the words "garantie" and "sûreté" as:
+
+Garantie: n.f. 1. Dr. Obligation d’assurer à qqn la jouissance d’une chose, d’un droit, ou de le protéger contre un dommage éventuel; responsabilité résultant de cette obligation... Contrat de garantie, dont l’objet principal est de fournir une garantie à un créancier...
+
+Sûreté: n.f. Dr. Garantie fournie à un créancier pour le recouvrement de sa créance... Sûreté réelle, lorsque les biens du débiteur sont apportés en garantie de paiement. Sûreté personnelle, qui résulte de l'engagement d'un tiers au côté du débiteur...
+
+[15] A "sûreté" is a form of "garantie". The definition of "sûreté" includes different kinds of "sûreté", personal and real. The Dictionnaire de droit québécois et canadien defines the term "sûreté personnelle":
+
+Sûreté consistant dans l’engagement personnel d’un tiers de répondre sur son patrimoine de l’exécution de l’obligation du débiteur. Ex. Le cautionnement est une sûreté personnelle.
+
+[16] In common law, the word security has been judicially considered by the Supreme Court of Canada in The Queen v. Province of Alberta Treasury Branches et al.[5]. The Court examined whether a general assignment of book debts is a form of security and whether the Crown has priority over lending institutions. At page 6249, Cory J. states:
+
+Basically, security is something which is given to ensure the repayment of a loan. ...
+
+[17] In Singer v. Williams, [1921] 1 A.C. 41 the House of Lords examined the meaning of the terms "foreign securities" and "foreign possessions" in the Income Tax Act of 1842. Viscount Cave said, at page 49:
+
+My Lords, the normal meaning of the word "securities" is not open to doubt. The word denotes a debt or claim the payment of which is in some way secured. The security would generally consist of a right to resort to some fund or property for payment; but I am not prepared to say that other forms of security (such as personal guarantee) are excluded. In each case, however, where the word is used in its normal sense, some form of secured liability is postulated.
+
+[18] It appears that there is no significant difference in the definition of the word "garantie" in civil law and the word security in common law. In both legal systems a personal guarantee is a security.
+
+[19] Counsel for the respondent declared that Mr. Zunenshine is a guarantor of the debt for the benefit of Mastercraft, and a guarantee of the guarantor is security under subsection 317(2) of the Act provided by the tax debtor. It is the latter who has the duty to find security to satisfy the lender. I share this view. The tax debtor has a duty to find security to secure the loan. If the lender is satisfied with the security the tax debtor has provided, then the lender will lend the money to the debtor.
+
+[20] Parliament intended to give a wide and large meaning to the words security and "garantie" in subsection 317(2) of the Act. In the absence of any restriction, the words security and "garantie" have a wide import and may include any form of security, whether personal, as in the case at bar, or in property.[6] The fact that Parliament defined the term security interest and "garantie" in subsection 317(4) more than suggests that it wanted to give this term a meaning for purposes of subsection 317(3) that the term "garantie" does not have in subsection 317(2).
+
+[21] When Mastercraft negotiated the loan with the Bank, the Bank required more security than Mastercraft could provide from its own proceeds. Mastercraft thus arranged for additional security by way of the personal guarantee of Mr. Zunenshine. It was Mastercraft who provided Mr. Zunenshine's personal guarantee to the Bank. Mr. Zunenshine was the "caution" or surety who bound himself to the Bank. And the personal guarantee of Mr. Zunenshine is a security or a "garantie" contemplated by subsection 317(2) of the Act.
+
+[22] Therefore, the appeal is dismissed with costs to the respondent.
+
+Signed at Ottawa, Canada, this 6th day of January 1999.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+[1]Counsel agreed that the word “ou” in the phrase “une banque... prêtera ou avancera une somme au débiteur fiscal qui a une dette envers l'institution ou qui a donné à celle-ci une garantie pour cette dette...” in the French version in paragraph 317(2)(a) should read “et” and not “ou”. The English version reads “and”, not “or”. The word “et” appears in the analogous provision in the French version of the Income Tax Act, at subsection 224(1.1). [Emphasis added]
+
+[2] The letter is not dated but is an appendix to the Bank's letter of December 13, 1990 describing the terms and conditions of the loans.
+
+[3] Mignault, P.B., Le droit Civil Canadien, Wilson & Lafleur, Montréal, 1909, vol. 8, page 343.
+
+[4] J. Deslauriers, Précis de Droit des sûretés, Wilson & Lafleur, Montréal, 1990, page 5.
+
+[5] 96 DTC 6245
+
+[6] If the appellant's interpretation of subsection 3l7(2) is correct, that the garnishment provision under the Act does not apply to advance by the creditor on third party guarantees, it would be open season for financial institutions to ignore the debtor and only insist on third person guarantees only. This would be an absurd result, contrary to normally accepted commercial practice, and obviously not Parliament's intent.
+

@@ -1,0 +1,352 @@
+Date: 19990112
+
+Docket: 96-4726-IT-G
+
+BETWEEN:
+
+LGL LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the appellant's 1991, 1992 and 1993 taxation years. The sole issue is whether certain costs of scientific research and experimental development ("SR & ED") work that was admittedly carried on outside the geographical boundaries of Canada as part of four projects qualify under paragraph 37(1)(a) of the Income Tax Act as SR & ED "carried on in Canada".
+
+[2] It is admitted that each of the projects in its entirety is SR & ED and that the expenditures are of a current nature.
+
+[3] The parties have filed a partial consent to judgment with respect to two projects, the Snow Goose Project and the Eider Project in which it is agreed that these two projects are projects of the appellant and not of LGL Alaska. It is unnecessary to set out the detailed terms of the consent. The appeal for 1991 will be allowed to give effect to the partial consent to judgment.
+
+[4] Evidence was adduced substantially by a detailed partial agreed statement of facts. In addition, an expert witness report of Dr. Roger H. Green, a professor of zoology at the University of Western Ontario, was filed on behalf of the appellant. His evidence was accepted by the respondent and he was not called or cross-examined. Also, Dr. Rolph A. Davis, the president of the appellant, supplemented the agreed statement of facts with viva voce testimony.
+
+[5] I shall not reproduce in full the agreed statement of facts. It consists of 16 pages, together with two detailed appendices with a total of 12 pages. It is not necessary for the purposes of my analysis of the question of statutory interpretation involved in these appeals. A brief summary of the issues and the facts will suffice.
+
+[6] Paragraph 37(1)(a) of the Act provides:
+
+(1) Where a taxpayer carried on a business in Canada in a taxation year and files with his return of income under this Part for the year a prescribed form containing prescribed information, there may be deducted in computing his income from the business for the year such amount as he may claim not exceeding the amount, if any, by which the aggregate of
+
+(a) the aggregate of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973
+
+(i) on scientific research and experimental development carried on in Canada, directly undertaken by or on behalf of the taxpayer, and related to a business of the taxpayer,
+
+(ii) by payments to
+
+(A) an approved association that undertakes scientific research and experimental development,
+
+(B) an approved university, college, research institute or other similar institution,
+
+(C) a corporation resident in Canada and exempt from tax under paragraph 149(1)(j),
+
+(D) a corporation resident in Canada, or
+
+(E) an approved organization that makes payments to an association, institution or corporation described in any of clauses (A) to (C)
+
+to be used for scientific research and experimental development carried on in Canada, related to a business of the taxpayer, and provided that the taxpayer is entitled to exploit the results of such scientific research and experimental development, or
+
+(iii) where the taxpayer is a corporation by payments to a corporation resident in Canada and exempt from tax under paragraph 149(1)(j), for scientific research and experimental development that is basic research or applied research carried on in Canada
+
+(A) the primary purpose of which is the use of results therefrom by the taxpayer in conjunction with other scientific research and experimental development activities undertaken or to be undertaken by or on behalf of the taxpayer that relate to a business of the taxpayer, and
+
+(B) that has the technological potential for application to other businesses of a type unrelated to that carried on by the taxpayer.
+
+[7] If the current expenditures on SR & ED fall within this provision and, specifically, if the SR & ED is carried on in Canada (effectués au Canada) the taxpayer is entitled to an investment tax credit ("ITC") under section 127 which will give rise to a credit against tax otherwise payable or a refund to the extent that the taxpayer is unable to utilize the credit. Such expenditures may also be pooled.
+
+[8] Current expenditures on SR & ED carried on outside of Canada are dealt with under subsection 37(2). They do not give rise to an ITC.
+
+[9] In the years in question, paragraph 37(7)(b) provided that SR & ED had the meaning given to that expression by regulation. That definition is found in section 2900 of the Regulations made under the Act. It is unnecessary to reproduce that definition. It is common ground that the activities carried on by the appellant fall within it.
+
+[10] The appellant is a Canadian company, owned and managed by Canadians. It has offices and laboratories in King City, Ontario, Sidney, British Columbia and St. John's, Newfoundland. It is also affiliated with two research companies in Texas and Alaska.
+
+[11] Its business involves doing research on behalf of governments, industry and other organizations in such matters as environmental effects, environmental planning and assessment, resource management, ecological research into terrestrial, freshwater and marine systems and bird hazards to aircraft.
+
+[12] It has a highly qualified professional staff in the numerous disciplines relating to the expertise requisite to its business and it has a worldwide reputation and clientele.
+
+[13] In the taxation years in question, the appellant carried on SR & ED projects in relation to a number of projects relating broadly to the environmental effect of certain activities on whales, birds and fish. It was necessary that data forming the basis of the research be collected off the northern coast of Alaska. The data so acquired was brought to Canada where it was analysed as part of the overall research projects. It is the direct cost of the work done outside of Canada in collecting the data necessary for the research done in Canada, together with a portion of the overhead allocable to that work, that is in issue here. The appellant claims that these expenditures fall within paragraph 37(1)(a) as SR & ED carried on in Canada. The respondent denies the claims on the basis that the activities outside of Canada are not SR & ED carried on in Canada.
+
+[14] The mathematical computation of the claim is not in dispute. The claim for SR & ED includes:
+
+(a) recoverable direct SR & ED costs attributable to each project; and
+
+(b) the allocation of the appellant's allowable overhead expenses attributable to each project.
+
+[15] The appellant's allowable overhead allocable to SR & ED is determined in accordance with the following formula:
+
+Fees Billed on
+
+SRED Projects
+
+Appellant's
+
+Total Fees
+
+Appellant's
+
+Total Overhead
+
+[16] It follows that a reduction of fees billed on SR & ED projects reduces the amount of overhead cost otherwise allocable to SR & ED.
+
+[17] The parties agree that the formula is acceptable and they also agree on the amount of the denominator as well as the appellant's total allowable overhead.
+
+[18] Where they disagree is whether the portion of the costs of the projects referable to work done outside of Canada represents expenditures on SR & ED carried on in Canada.
+
+[19] The four projects are the following.
+
+The Whale Project
+
+[20] The object of this project was to determine whether offshore oil exploration would have any adverse effects on the behaviour of spring migrating bowhead and white whales.
+
+[21] The fieldwork that was conducted was based in Barrow, Alaska and lasted about a month in each year of the project. The collection of the field data conducted outside of Canada involved placing a sound projector that simulated the noise of a drilling rig and the placing of a hydrophone (called a Sonabuoy) among the whales to determine what the whales were hearing. The sound received by the hydrophone was transmitted to the aircraft that circled above.
+
+[22] The behaviour of the whales in the vicinity of the sound projector was observed from the aircraft and recorded.
+
+[23] All of the data so collected was taken to King City, Ontario. In King City, the data was transcribed and tabulated, hypotheses were formulated, experimental designs were determined, systematic study protocols were evaluated and tested, the field logistics were planned and arranged, the data was analyzed, the results interpreted, conclusions were formed and the lengthy and detailed report was prepared.
+
+[24] In short, everything relating to the project was done in Canada except for the collection of the data, which was done in international waters.
+
+[25] The project continued into the 1992 and 1993 taxation years.
+
+[26] Based upon the agreed facts, the testimony of Dr. Davis and the affidavit of the expert Dr. Green, I am satisfied that the field work and data collection was an integral and essential part of the scientific research project and that it was necessary that it be carried on outside of Canada. The only location in which the data collection and the observation of the whales could safely be carried on was outside Canada and specifically off Point Barrow, Alaska. The work could not have been carried on in Canada.
+
+The Oldsquaw Project
+
+[27] This project was undertaken to determine whether coastal and near shore oil and gas development would affect populations of oldsquaw and other waterfowl that moult in such areas. The null hypothesis being tested was that such activity would not change the distribution and behaviour patterns of moulting oldsquaw ducks in the Alaskan Beaufort Sea.
+
+[28] The reasons for conducting the activities outside of Canada were the following:
+
+32. The activities conducted outside Canada consisted of the collection of field data in the Alaskan Beaufort Sea where previously disturbed and undisturbed moulting areas could be compared. The collection activities consisted of a series of aerial surveys of Oldsquaw and other moulting waterfowl in the experimental and control areas identified during the project planning phase. The surveys provided seasonal, geographic and climatic data that affects numbers of Oldsquaws. The surveys consisted of a series of low level aerial transect grids. The surveyors observed and counted the number of ducks on and adjacent to the transect strips.
+
+33. The kind of field study undertaken could not have been performed in any other location as far as LGL Limited was aware as:
+
+(a) There are several locations along the arctic coasts of Alaska and Canada where moulting waterfowl congregate during the open water season and the presence of oil and gas developments in any of these areas could have negative effects on waterfowl populations. However, in order to document effects, it was necessary to determine if future population changes could be reliably attributed to industrial activities;
+
+(b) The study area selected in Alaska included an area that had been subjected to previous oil exploration and a control area that had not been exposed to exploration; and
+
+(c) There was a data base of 9 years of waterfowl surveys in these two areas that could be used to establish the ranges and types of variability that could be expected to occur. These data were used to define the parameters of the statistical models to be tested during the field phase of the study. The study could not have been conducted in other areas because these areas did not have 9 years of background data that could be used.
+
+34. The data collected in the Beaufort Sea were specifically designed to test the mathematical models and statistical procedures developed by LGL Limited in Canada. The data have no immediate value outside the context of the Canadian study.
+
+[29] As in the case of the Whale Project, everything but the collection of data was performed in Canada, as set out in the partial agreed statement of facts:
+
+30. The activities conducted in Canada included:
+
+(a) the formulation of a series of testable hypotheses;
+
+(b) determination of an appropriate experimental protocol;
+
+(c) evaluation and testing of various systematic study designs;
+
+(d) data reduction and analyses;
+
+(e) data interpretation;
+
+(f) the development of appropriate mathematical models and statistical procedures to allow detection of changes in Oldsquaw distributions that could be attributed to industrial activities; and
+
+(g) preparation of scientific reports.
+
+[30] I accept that the work that was done outside of Canada had to be performed where it was and that it was an integral and essential part of the overall SR & ED project.
+
+[31] The Eider Project
+
+The purpose of this project was to determine whether nearshore causeways affected the distribution and number of Eider duck populations. Solid-fill causeways built by the oil industry extend offshore for several kilometres into the Alaskan Beaufort Sea. No such causeways exist in the Canadian Arctic and accordingly the null hypothesis (that such causeways do not affect the distribution and numbers of the Eider ducks) could not have been tested using Canadian field data.
+
+[32] The activities conducted outside of Canada consisted of fieldwork in Alaska, gathering observation data on the distribution, breeding success, brood rearing and moulting activities of the Common Eider duck near the Endicott causeway. Apart from the gathering of raw data, all other work was done in Canada and was substantially of the same nature as that carried out in connection with the Whale and Oldsquaw Projects.
+
+[33] I accept that the work done in Alaska could not have been carried out in Canada, and that it was an essential and integral part of the overall research project.
+
+[34] The Endicott Fish Project
+
+The purpose of this project was to determine the effects of the Endicott causeway on the coast of Alaska on the migration of the Arctic Cisco from the Mackenzie River (Canada) to the Colville River (Alaska).
+
+[35] The hypotheses tested were the following:
+
+46. The specific null hypothesis that was tested was that the Endicott causeway does not interfere with longshore movements of anadromous fish. The 1992 and 1993 field work also addressed a new null hypothesis. That is, installation of major breaches in the causeway will not improve the longshore movements, general body condition, and the survivability of anadromous fish. The new hypothesis was added after the regulatory agencies decreed that large breaches (=bridges) must be created in the Endicott causeway.
+
+[36] For obvious reasons the observation of the migration of the fish around the Endicott causeway could only take place at that location. All other work, such as data analysis, laboratory analyses, data tabulation and validation and preparation of the report was done at the appellant's Sidney, British Columbia office.
+
+[37] Charts were put in evidence setting out the time and money spent inside Canada and outside Canada. I reproduce only the appellant's summary of the totals of time and money spent. These figures must however be used with caution. In the Whale Project, for example, in 1991 and 1992 72% and 95.4% of the direct costs were spent outside of Canada, whereas only 22.4% and 19.8% of the time was spent outside Canada. This was a result of the high cost of aerial surveillance.
+
+[38] In the case of the Oldsquaw Project 85% of the money spent in 1993 was spent outside of Canada, yet 0% of the time. I am sure there is an explanation for this but it is not apparent.
+
+[39] In the Eider Project, 61.4% and 54.4% of the time was spent outside Canada in 1991 and 1992 respectively. The moneys spent inside and outside Canada were roughly equal. However, the dollar amounts are so small with this project that the percentages are not meaningful.
+
+[40] In the case of the Endicott Fish Project, about 30% of the time was spent outside of Canada and roughly 50% of the money.
+
+[41] On a project by project basis it is obvious that the figures can be misleading and can result in distorted or erroneous conclusions. The possibility of distortion is even more pronounced where all projects are lumped together, as is the case in the following table.
+
+[42] I do not think that any reliable conclusion can be reached by totalling up dollars and days and arriving at unweighted percentages. For what it is worth the following table sets out the appellant's totals:
+
+LGL LIMITED'S TOTALS OF TIME AND MONEY SPENT (including allocation of overhead) INSIDE and OUTSIDE CANADA ON THE PROJECTS IN ISSUE
+
+Time
+
+1991
+
+1992
+
+1993
+
+(excl. Eider)
+
+Total Time Spent In Canada (Days)
+
+733.1
+
+1,048.4
+
+408.9
+
+2,190.4
+
+Total Time Spent Outside Canada
+
+(Days)
+
+304
+
+387
+
+81
+
+772
+
+(Unweighted
+
+Percentage Outside
+
+29.3
+
+27.0
+
+16.5
+
+26.1%
+
+24.3%)
+
+DOLLARS (including Overhead at LGL Rate)
+
+1991
+
+1992
+
+1993
+
+In Canada and
+
+Overhead
+
+$283,297+$765,210
+
+$42,356+$684,515
+
+$33,186+$299,387
+
+$2,107,951
+
+Outside Canada
+
+$360,511
+
+$458,094
+
+$88,717
+
+$907,322
+
+(unweighted
+
+Percentage Outside
+
+25.6%
+
+38.7%
+
+21.1%
+
+30.1%
+
+28.5%)
+
+[43] The fundamental question is whether the work that was necessarily done outside of Canada as an essential part of an SR & ED project was SR & ED carried on in Canada within the meaning of paragraph 37(1)(a) of the Act. The question is an important one and the respective positions of the parties were advanced by both counsel skilfully and thoroughly.
+
+[44] As a preliminary observation, I accept the factual conclusions upon which the appellant relies:
+
+(a) the work in question involving the collection of data had to be done outside of Canada. It could not have been done in Canada;
+
+(b) the work done outside of Canada, by itself and without more, was not SR & ED. It only became SR & ED when it was assimilated to and made part of the overall SR & ED project;
+
+(c) the assembly of data was an essential and necessary part of the overall project;
+
+(d) if it is relevant to designate the projects, looked at in their entirety and not piecemeal as "Canadian" or "non-Canadian" it would be more accurate to describe them as Canadian. The work was done by a Canadian company, using Canadian researchers and personnel and the core scientific work, that is to say, the analysis of the data, the formulation and testing of hypotheses, the formation of conclusions and the preparation of reports were all done in Canada. All that was done outside of Canada was the collection of data.
+
+[45] The appellant's basic premise is that a project is to be looked at integrally and not piecemeal. I agree completely if one is considering the question whether a project is SR & ED within the meaning given that term in section 2900 of the Regulations. The principle is not however of any particular assistance in determining whether SR & ED is carried on in Canada. Whether an activity is carried on in Canada or elsewhere has nothing to do with whether it is SR & ED. It is only after it is determined that it is SR & ED that the second question, where it is carried on, must be answered. Counsel for the appellant recognizes this in his written argument where he says:
+
+Because subsections 37(1) and (2) ITA are drafted to be mutually exclusive it is respectfully submitted that there must first be a determination whether a bundle of activities constitutes SRED within the definition of Regulation 2900 before deciding whether that SRED, if it is such, is carried on in or outside Canada; and
+
+[46] From this unassailable point he moves to a proposition that, in my respectful view, does not logically or necessarily follow:
+
+Therefore it is respectfully submitted, the language of paragraph 37(1)(a) ITA is unambiguous and clearly includes the specific data collection/field work activities that were conducted by the Appellant outside Canada in direct support of its prosecution of SRED projects in Canada.
+
+[47] The appellant's position is that if the activities carried on outside of Canada satisfy the criteria in section 2900 of the Regulations independently of the work that is done in Canada, then they are carried on outside of Canada; if they require the work in Canada to be considered SR & ED (i.e. if it is only by their integration into the project as a whole that they become SR & ED) then they must form part of an SR & ED project that is carried on in Canada. Simply put, if a project qualifies as SR & ED then the project must be looked at integrally and it must be determined whether as a whole it is carried on in Canada or outside Canada.
+
+[48] I can see no particular reason for this conclusion, either as a matter of principle or as a matter of statutory interpretation.
+
+[49] The appellant argues that the respondent's interpretation requires that SR & ED as used in paragraph 37(1)(a) be read as "SR & ED activities". As a matter of fact, in 1994 the French version was changed to read:
+
+activités de recherches scientifiques et de développement expérimental exercées au Canada.
+
+[50] Obviously, "exercées" modifies "activités". However in 1991, 1992 and 1993, the wording was "des recherches scientifiques et du développement expérimental effectués au Canada" and it is that wording that applies to the years under appeal.
+
+[51] Counsel refers to two decisions of this court. The first is Tigney Technology Inc. v. R., [1997] 2 C.T.C. 2333 where Bell J. of this court stated:
+
+13 I agree with Appellant's counsel that these expenditures were made in Canada by a corporation carrying on business in Canada. I also agree that the portion of the research which did not physically take place in Canada was an isolated and relatively small part of the systematic investigation which was on-going in Canada. The evidence indicates that the only reason for the presence of the Appellant's personnel and portable plant in Kentucky was that the fresh tobacco required for the experiments conducted was not available in Canada. The experiments conducted in November, 1992 in Kentucky are not a separate and distinct "systematic investigation" but are part of the continuous scientific research on tobacco that the Appellant had commenced in 1990 and continued until 1993. The experiments in Kentucky were a small and necessary part of the research which the Appellant had been conducting. By my reading, the relevant sections and regulations of the Act are broad enough to encompass the SRED conducted by the Appellant as outlined above. It is therefore, my conclusion that these sums are qualified expenditures for the purposes of ITCs.
+
+[52] That case has been appealed to the Federal Court of Appeal and accordingly I make no comment on it beyond observing that the experiments in Kentucky appear to have been a rather small incident of the SR & ED carried on in Canada. Here the very basis of the SR & ED that was conducted was the data collected off the shore of Alaska.
+
+[53] In Data Kinetics Ltd. v. The Queen, 98 DTC 1877, the only activity outside of Canada was the use of a dedicated telephone line connected with a mainframe computer in Burmingham, Alabama used to test software systems that were being developed in Canada. Lamarre J. held that the costs associated with the testing on the computer in the U.S. formed part of SR & ED carried on in Canada. I note that no personnel of that appellant ever went to the U.S., and on this basis alone I think the case is distinguishable. Lamarre J. said at page 1884:
+
+[39] The Minister appears to favour the splitting of the testing expenditures between those in respect of work executed in Canada and those in respect of work executed outside of Canada. I do not agree with this approach. Even if I were to accept the interpretation favouring the Minister that the testing activity is a SR & ED in itself, the breaking up of the testing activity is not supported by the language of subsections 37(1) or 37(2). These provisions refer to "SR & ED carried on in Canada" and "SR & ED carried on outside Canada". There is no reference to "that portion of SR & ED" or similar language that would support the breaking down of SR & ED activities in applying the provisions. Further, if the constituent parts of the testing were broken down and allocated between the provisions, it is uncertain whether each particular component would continue to constitute SR & ED. Should the component parts when considered alone fail to meet the requirements of Regulation 2900, then neither of subsections 37(1) or (2) would apply as the activities would not constitute SR & ED.
+
+[40] I would also note that there is nothing in the language or meaning assigned to the relevant provisions to suggest that the determination of where an activity is carried on should be made by reference solely to the cost of performing the activities. It is not the monetary value or cost associated with the particular elements of SR & ED that is determinative of whether the SR & ED was carried on in or outside of Canada. The fact that significant expenditures were made by the Appellant for testing is not determinative.
+
+[41] From the evidence, there is no doubt that the SR & ED performed was controlled and directed from Canada. The testing was performed by the software development team in Canada in controlled conditions. All instructions and data were directed from someone in Canada with the results coming back to Canada to be analysed. The leasing expenditures made in the U.S. merely facilitate a mechanical testing process that is part and in support of the whole SR & ED project carried on in Canada. The mainframe computer was merely a tool that was necessary and that was used to perform the research that occurred in Canada.
+
+[42] In the present appeal, it was not argued that the software project as a whole was not carried on in Canada. The Minister's argument was based on the fact that a component of the testing involved the use of a computer located outside of Canada. The testing on the mainframe computer in Alabama, however, was part of a set of interrelated activities that collectively were necessary to the advancement of the SR & ED that was carried on in Canada.
+
+[54] It seems obvious from the facts found by Lamarre J. that the entire project was carried on in Canada.
+
+[55] Here the inescapable fact is that a substantial part of the project was performed outside of Canada. What principle of interpretation would permit or compel me to conclude that the work forming part of the SR & ED project outside of Canada was carried on in Canada? Many aids to interpretation are available and may be invoked where the words of a statute are ambiguous or difficult to understand, or where a particular interpretation may lead to an absurdity or is clearly at odds with the apparent legislative intent. For that reason, principles of statutory construction have been developed by the courts which permit them to interpret legislation in a manner that "best ensures the attainment of its objects" (section 12 Interpretation Act). I endeavoured in Glaxo Wellcome Inc. v. The Queen (96 DTC 1159, aff'd Federal Court of Appeal, October 8, 1998; leave to appeal to the Supreme Court of Canada denied) to summarize the more salient principles.
+
+[56] It is obvious that the SR & ED legislation is incentive legislation (Northwest Hydraulic Consultants Limited v. The Queen, 98 DTC 1839; Consoltex Inc. v. The Queen, 97 DTC 724). That does not however permit a court to strain the plain meaning of the words to achieve a result that appears to be desirable. As Fauteux C.J. said in Ville de Montréal v. ILGWU Center et al., [1974] S.C.R. 59 at 66:
+
+... there is no need to resort to interpretation when the wording is clear.
+
+[57] Even if the result is absurd, if the words are clear the court must give effect to them. In Victoria City v. Bishop of Vancouver Island, [1921] 2 A.C. 384 it was stated at pages 387-8:
+
+In the construction of statutes their words must be interpreted in their ordinary grammatical sense, unless there be something in the context, or in the object of the statute in which they occur, or in the circumstances with reference to which they are used, to show that they were used in a special sense different from their ordinary grammatical sense. In Grey v. Pearson (1) Lord Wensleydale said: " I have been long and deeply impressed with the wisdom of the rule, now I believe, universally adopted, at least in the Courts of Law in Westminster Hall, that in construing wills, and indeed statutes, and all written instruments, the grammatical and ordinary sense of the words is to be adhered to, unless that would lead to some absurdity, or some repugnance or inconsistency with the rest of the instrument, in which case the grammatical and ordinary sense of the words may be modified, so as to avoid that absurdity and inconsistency, but no farther." Lord Blackburn quoted this passage with approval in Caledonian Ry. Co. v. North British Ry. Co. (1), as did also Jessel M.R. in Ex parte Walton. (2)
+
+There is another principle in the construction of statutes specially applicable to this section. It is thus stated by Lord Esher in Reg. v. Judge of the City of London Court (3) : "If the words of an Act are clear, you must follow them, even though they lead to a manifest absurdity. The Court has nothing to do with the question whether the legislature has committed an absurdity. In my opinion, the rule has always been this :—if the words of an Act admit of two interpretations, then they are not clear; and if one interpretation leads to an absurdity, and the other does not, the Court will conclude that the legislature did not intend to lead to an absurdity, and will adopt the other interpretation." And Lord Halsbury in Cooke v. Charles A. Vogeler Co. (4) said : "But a court of law has nothing to do with the reasonableness or unreasonableness of a provision, except so far as it may help them in interpreting what the legislature had said." Which necessarily means that for this latter purpose it is legitimate to take into consideration the reasonableness or unreasonableness of any provision of a statute.
+
+Again a section of a statute should, if possible, be construed so that there may be no repugnancy or inconsistency between its different portions or members.
+
+(footnotes omitted)
+
+[58] Here, I find no absurdity or repugnancy and in any event, even if I did, I think the words "carried on in Canada" are reasonably clear and comprehensible. Where part of an SR & ED project is carried on in Canada and part is carried on elsewhere I foresee very little difficulty in splitting the costs on a reasonable basis between the two (as was in fact done here). I find this a more reasonable result than attempting to decide whether a project that is carried on both inside and outside Canada is essentially "Canadian" or essentially "non-Canadian". That approach would mean that the cost of activities forming part of an SR & ED project that are in fact carried on in Canada could, if the overall project were held to be non-Canadian because a predominant part of the activity was carried on outside of Canada, be denied paragraph 37(1)(a) treatment.
+
+[59] In the circumstances, I must dismiss the appeals except to the extent covered by the consent to judgment.
+
+[60] Counsel asked for an opportunity to speak for costs and I shall therefore withhold signing judgment until counsel have communicated with the court.
+
+Signed at Toronto, Canada, this 12th day of January 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

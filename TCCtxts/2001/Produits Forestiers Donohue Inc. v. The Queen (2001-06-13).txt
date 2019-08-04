@@ -1,0 +1,574 @@
+Date: 20010606
+
+Docket: 98-2655-IT-G
+
+BETWEEN:
+
+DONOHUE FOREST PRODUCTS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] In the late 1980s, Donohue Forest Products Inc.[1] (DSF) was part of a group of companies (Donohue Group) controlled by Donohue Inc. (Donohue). Starting in 1988, the Donohue Group invested considerable amounts of money in Donohue Matane Inc. (DMI) to finance the construction of a pulp and paper mill, improvements to four sawmills and the operation of those mills. For this project, Donohue formed a partnership with the Société de récupération, d'exploitation et de développement forestier du Québec (Rexfor) and each of the partners held 50 percent of DMI's common shares.
+
+[2] Shortly after construction of the pulp and paper mill was completed, DMI's financial situation became catastrophic. All its pulp production and sawmill operations were halted from June 1992 until November 1993. At the end of 1991, the Donohue Group's investment in DMI was no longer worth anything. To deduct the economic loss resulting from that investment for tax purposes, the Donohue Group, with Rexfor's cooperation, restructured its investment in DMI. This restructuring enabled DSF to deduct an allowable business investment loss (ABIL) of $46,657,499 (that is, 75 percent of the business investment loss (BIL) of $62,209,999) in computing its income for the 1993 taxation year.
+
+[3] Although the BIL was incurred in 1993, the taxation year in issue is 1990 since DSF carried the loss back to 1990 under section 111 of the Act. On October 30, 1997, the Minister of National Revenue (Minister) issued a notice of reassessment for the 1990 taxation year. By that reassessment, he reduced the carry-back of the loss incurred in 1993 by $47,323,359. The Minister relied on the general anti-avoidance rule (GAAR) stated in section 245 of the Income Tax Act (Act) in disallowing the deduction of the ABIL of $46,657,499, and the case concerns this loss alone.
+
+[4] In the alternative, the respondent also stated in her amended reply to the notice of appeal that one of the necessary conditions for deducting the ABIL had not been met, as DMI was not a small business corporation (SBC) within the meaning of subsection 248(1) of the Act because it was controlled, directly or indirectly, by Donohue, a public corporation. At the hearing, counsel for the respondent informed the Court that she was abandoning this argument.
+
+[5] Counsel for DSF acknowledged that there had been a series of avoidance transactions that had enabled DSF to obtain a tax benefit. As a result of the admissions made in the parties' pleadings and those made at the hearing, the sole remaining issue is the application of the GAAR. More specifically, the point at issue is whether the tax benefit obtained by DSF resulted in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. If section 245 applies, there is no dispute as to the amount at issue, or as to the tax consequences determined by the Minister. However, the parties agree that, if the ABIL deducted by DSF in 1993 did not result in a misuse or an abuse, that loss may be carried back to 1990.
+
+FACTS
+
+Financing of DMI's Capital Property and Operation of Its Business
+
+[6] Donohue is a corporation whose shares are listed on a Canadian stock exchange. DSF is a corporation carrying on operations in the pulp and paper industry that produces, in particular, newsprint, market pulp and lumber. DMI was incorporated in 1988 to build and operate a bleached chemithermomechanical pulp (BCTM pulp) mill in Matane's industrial park.
+
+[7] The cost to build the pulp mill was approximately $240,000,000, of which some $145,000,000 was provided by a banking consortium, $70,000,000 in equal shares by Donohue and Rexfor in consideration of common shares and $25,000,000[2] by Rexfor in consideration of Class A preferred shares. A significant portion of the loan (80 percent) was guaranteed by the Société de développement industriel du Québec (SDI) and the balance (20 percent) in equal shares by Donohue and Rexfor. In payment of the fees for this service, DMI issued 1,033,972 Class C preferred shares to the SDI in 1991. An agreement between Donohue and Rexfor stipulated that 50 percent of DMI's directors (an even number) were to be designated by Donohue and 50 percent by Rexfor.
+
+[8] In March 1989, to supply the pulp mill with wood chips, DMI acquired four sawmills and a sawtimber preparation centre (preparation centre) (wood mills) from a subsidiary of Rexfor, Bois de l'Est du Québec (1986) Inc. (BEQ). Two of the sawmills were located on the shore of the St. Lawrence River at Marsoui and Grande-Vallée (shore sawmills) and the other two in the Matapédia Valley at Lac-au-Saumon and Saint-Léon-le-Grand (valley sawmills). The cost of the wood mills was $16,100,000. According to Mr. Gingras, the Donohue Group's comptroller since 1987, at the time they were acquired, the two shore sawmills were worth approximately $13,000,000. The two valley sawmills were worth much less. In addition to the wood mills, BEQ transferred its cash, inventory and accounts receivable worth $19,500,000 to DMI. In payment for all these assets, DMI issued 35,600,000 Class B preferred shares.[3] Large sums totalling approximately $12 million were also spent to renovate the wood mills, mainly the shore sawmills.
+
+[9] Commercial operation of the pulp mill commenced in November 1990. DMI assigned the management of the operation of the pulp mill and wood mills to Donohue. Between 300 and 400 employees worked for DMI. Unfortunately, less than a year later, on September 1, 1991, DMI suspended the pulp mill's commercial operation for an indefinite period due to global pulp production overcapacity and the collapse of pulp prices. The suspension lasted until May 1995.
+
+[10] According to Richard Garneau, the Donohue Group's vice-president for finance from 1987 to 1994, it was estimated before construction began on the pulp mill that the price of BCTM pulp would be between $550 and $700 per metric tonne. In 1991, the price fell to $270, while the cost to DMI was $545 per metric tonne. This situation resulted in a significant loss in 1991 and would have resulted in losses of more than $40 million a year based on five-year projections made in March 1991.
+
+[11] It is not surprising that DMI did not pay the amounts owed to the banking consortium in 1991 and that the latter required repayment. The SDI repaid 80 percent of the loans, approximately $112,750,000, and was subrogated to the rights of the banking consortium. Donohue and Rexfor repaid the balance, approximately $14.1 million each, and also substituted themselves as DMI's creditors. However, their claim was converted to DMI common shares. In 1991, Donohue and Rexfor each had to subscribe for a total of $27,150,000 worth of common shares to convert their claims and to meet DMI's cash requirements, thus increasing their investment in DMI's common shares to $62,150,000.
+
+Restructuring of DMI's Share Ownership in 1991 and 1992
+
+[12] According to Mr. Garneau, the value of the Donohue Group's investment in DMI was nil at the end of 1991 as a result of the significant decline in the value of DMI's assets, the amount of DMI's debts and the paid-up capital of the preferred shares.
+
+[13] On December 30, 1991, Donohue decided to proceed with an initial restructuring of its interest in DMI. It decided that its interest should be held through one of its subsidiaries, DSF, a corporation deriving significant income from its business.[4] As Donohue held only 55 percent of the shares in DSF, it first acquired all the shares held by the other shareholder, Fletcher Challenge Canada Ltd. Donohue subsequently transferred all its shares in DSF to a wholly-owned subsidiary, 2946-7594 Québec Inc. (PDI), which had been incorporated on December 27, 1991. DSF then acquired from Donohue all the DMI shares held by the latter for $1.
+
+[14] But for the rule stated in subsection 85(4) of the Act, which precludes the realization of a tax loss where a transfer is made to a corporation controlled, directly or indirectly, by the transferor, Donohue would have incurred a loss of $62,209,999.[5] Since care had been taken to interpose PDI between Donohue and DSF, paragraph 84(4)(b) of the Act did not apply and the loss incurred by Donohue from the sale to DSF was added to the ACB of the shares of DMI held by DSF pursuant to paragraph 53(1)(f.1) of the Act. If PDI had not been interposed and paragraph 84(4)(b) of the Act had applied, the amount of the loss would have been added to the ACB of the shares of DSF held by Donohue pursuant to paragraph 53(1)(f.2) of the Act.
+
+[15] As a result of these transactions on December 30, 1991, Donohue held all the shares of PDI and PDI held all the shares of DSF, which in turn held 50 percent of the common shares of DMI with a fair market value (FMV) of $1 and an ACB of $62,210,000. The purpose of substituting DSF for Donohue in this way was to ensure that DSF would be able to deduct a loss of $62,209,999 on any disposition of its shares in DMI to a third party with whom it was dealing at arm's length.
+
+[16] The principles of accounting require that the value of an investment be reduced to its realizable value. Thus, on its consolidated balance sheet to December 31, 1991,[6] Donohue wrote off the book value of its investment in DMI. Due to the tax benefit that DSF could eventually derive from the BIL, a $15,000,000 deferred tax credit was added to Donohue's assets. The net amount of the write-off was thus $47,210,000 ($62,210,000 — $15,000,000).
+
+[17] On April 15, 1992, BEQ transferred its 35,600,000 Class B preferred shares in DMI to Rexfor. As of December 31, 1992, DMI had only three shareholders. DSF and Rexfor each held 63,650,000[7] shares, which still represented 50 percent of the common shares. Rexfor also held 25,000,000 Class A preferred shares and 35,600,000 Class B shares. The third shareholder, the SDI, held 1,033,972 Class C preferred shares.
+
+1993 Restructuring to Facilitate the Sale of the DMI Shares and the Wood Mills
+
+[18] As a result of the halt in production at the pulp mill in September 1991, the sawmills operated at only 25 percent of their capacity in the following months. In 1992, DMI's situation worsened. Between June 1992 and November 1993, all production at the wood mills was also stopped. During that period, all DMI's employees were laid off with the exception of some 15 employees of the pulp mill, who had to attend to maintenance, and three or four employees at each wood mill so as to ensure that, if necessary, the pulp mill and the wood mills could resume operations within five days. At the same time, DMI continued to liquidate its inventory, collect its accounts receivable and pay its accounts payable.
+
+[19] By December 31, 1992, DMI had reduced the book value of its capital assets by $88,413,000, from $243.4 million at the end of 1991 to $155 million. This decline in value is attributable mainly to the reduction in the value of the pulp mill, which fell from $214,518,000 in 1991 to $145,710,000 in 1993, a drop of $68,808,000. The undepreciated capital cost of the depreciable property exceeded market value by $57,010,000 at the time. As of that same date, reported non-capital losses amounted to $60,757,000.
+
+[20] DMI's mass lay-off of its employees was a heavy loss to the Matane area and the areas where the wood mills were located. According to Mr. Garneau, the unemployment rate in those areas was 25 percent at the time. In the spring of 1993, the political authorities were therefore under very strong pressure to resume operations at the pulp mill as soon as possible or to sell the wood mills. As the manufacturing cost of a tonne of pulp was still well above the market price, operations could not be resumed at the pulp mill. The decision to sell the wood mills was necessary because there was a market for lumber. It is therefore not surprising that the government cooperated in the restructuring to permit the sale of those mills.
+
+[21] A group of investors from the region was interested in purchasing the wood mills, and negotiations began with DMI. A bid of $10 million was made in early May 1993 to acquire them: $2.5 million for the valley sawmills and $7.5 million for the shore sawmills and the preparation centre. However, the bid did not come to anything because the investors did not have the necessary money.
+
+[22] Donohue and Rexfor were subsequently able to agree with two other separate groups to sell the wood mills: the valley sawmills were sold to Cèdrico Inc. (Cèdrico) on December 22, 1993, and the shore sawmills and the preparation centre to Groupe GDS on June 3, 1994.
+
+[23] In the fall of 1993, Cèdrico was interested in acquiring the timber supply and forest management agreements (TSFMAs) held by DMI in relation to the operation of the valley sawmills.[8] The valley sawmills' facilities were of no interest to Cèdrico since it considered them obsolete and not compliant with environmental standards. Instead, Cèdrico wished to build a new, modern and functional sawmill. When it negotiated the acquisition of the valley sawmills with Mr. Garneau of Donohue, Cèdrico had intended to dismantle the valley sawmills and use any portion of the equipment that might still be useful in operating the new mill.
+
+[24] While negotiating the purchase of the valley sawmills, Cèdrico also took steps to purchase land and applied to the Commission de protection du territoire agricole du Québec for the necessary authorization to build the new sawmill. A rezoning was approved on November 11, 1993, and the building permit was granted on November 19, 1993. Construction even began in November 1993.
+
+[25] If it had sold its shares in DMI to third parties at their FMV, DSF could have incurred a BIL of $62,209,999[9] and deducted an ABIL of $46,657,499. Of course, DMI's sale of the wood mills offered no such benefit. It was therefore decided, with the agreement of Rexfor, the SDI and their shareholder, the government of Quebec,[10] to sell DMI's shares to Cèdrico rather than having DMI sell the valley sawmills. Mr. Garneau acknowledged that there had been no question of selling the two valley sawmills directly to Cèdrico, whose purchase of the DMI shares was a precondition of the sale.
+
+[26] Cèdrico agreed to acquire the DMI shares for $1. At the time of the transfer on December 22, 1993, DMI owned only the valley sawmills and $2,500,000 in liabilities. This agreement would enable Cèdrico to have the MNR transfer to DMI the TSFMAs relating to the operation of the valley sawmills, which authorized the cutting of 200,000 cubic metres of timber.
+
+[27] This sale of DMI's shares enabled the Donohue Group to respond to the economic and social needs of the region, whose inhabitants wanted to have operations resume at the wood mills and to promote labour rehiring, and also gave it the opportunity to deduct for tax purposes the economic loss resulting from its investment in DMI as attested to by the write-off of that asset on its balance sheet to December 31, 1991.
+
+Separation of DMI's Assets and Liabilities in November 1993
+
+[28] Before the shares of DMI could be sold to Cèdrico, an extensive restructuring of DMI's assets and liabilities had to be carried out. This restructuring essentially consisted, first of all, in transferring to another corporation, Donohue Matane (1993) Inc. (DMI 1993), all DMI's assets and liabilities except the valley sawmills and $2.5 million in liabilities such that Cèdrico acquired, through DMI, only the valley sawmills.
+
+[29] The following transactions were carried out to do this. DMI 1993 was incorporated on November 12, 1993, and DMI subscribed for one common share of DMI 1993. On November 15, 1993, DMI transferred to DMI 1993 (by making the election provided for in section 85 of the Act)[11] all its assets and liabilities except the two valley sawmills and a $2,500,000 debt corresponding to the market value of the two valley sawmills. In addition to the pulp mill, the shore sawmills and the preparation centre, the assets transferred to DMI 1993 included cash, accounts receivable and inventory. The price was $165,124,883.[12]
+
+[30] In payment of that price, DMI 1993 assumed DMI's liabilities totalling $131,658,933 ($129,355,400 to the SDI, $2,256,873 in accounts payable and $46,660 for income tax). For the balance, it issued 25,000,000 Class A preferred shares, 7,441,978 Class B preferred shares and 1,033,972 Class C preferred shares. Each of these classes of preferred shares had basically the same attributes as the corresponding preferred shares of DMI's capital stock. However, it should be noted that DMI 1993 issued only 7,441,978 Class B preferred shares, not 35,600,000. The parties acknowledge that the FMV of DMI's assets prior to the November 1993 transfer of assets was $167,625,000 ($165.1 million + $2.5 million). This indicates that the net value of DMI's assets was not sufficient to redeem all its preferred shares. Consequently, not only was the value of the common shares held by Rexfor and DSF nil, but that of the Class B preferred shares held by Rexfor had declined by $28,168,022 ($35,600,000 - $7,431,978).[13]
+
+[31] Two days later, on November 17, 1993, DMI reduced the paid-up capital of its capital stock without any consideration. First of all, it reduced the paid-up capital in respect of the common shares by $128,099,999 to only $1. DMI also reduced the paid-up capital in respect of its Class B preferred shares by $28,168,022 to only $7,431,978. The total amount of the reduction of paid-up capital was therefore $156,268,021, and it was applied to reduce the deficit. This would permit the subsequent redemption of the preferred shares of DMI's capital stock and make it possible to comply with the solvency tests set out in the Quebec Companies Act.
+
+[32] That same day, DMI redeemed all the preferred shares held by Rexfor and the SDI by giving its common share of DMI 1993 to Rexfor, then handing over to Rexfor and the SDI the preferred shares corresponding to those of DMI which they held. Then, again the same day, DSF subscribed for one common share of DMI 1993 for the sum of $10. Following the redemption and DSF's subscription for the share, DSF and Rexfor each held 50 percent of the common shares of DMI and 50 percent of the common shares of DMI 1993. In addition, Rexfor held 25,000,000 Class A preferred shares and 7,431,978 Class B preferred shares of DMI 1993. The SDI held 1,033,972 Class C preferred shares of DMI 1993. DMI owned the valley sawmills, while DMI 1993 owned the pulp mill, the two shore sawmills and the preparation centre.
+
+Sale of the DMI Shares to Cèdrico
+
+[33] According to Serge Bilodeau, Donohue's tax consultant, for DSF to be able to realize a BIL of $62,209,999 on the sale of its shares in DMI to Cèdrico, a number of conditions had to be met, including the condition that DMI had to be an SBC or had to have been one in the twelve months preceding the sale of the shares. For DMI to be an SBC, all or substantially all of its assets had to be used in an active business and DMI had to be a Canadian-controlled private corporation. All the production operations of the pulp mill and the wood mills had ceased in June 1992 and the sale of the shares to Cèdrico could not be finalized before July 1993.
+
+[34] In Mr. Garneau's view, even after the production operations at the pulp mill and the wood mills had ceased, DMI continued to carry on its business actively since it had to retain a certain number of employees to maintain its mills and equipment, since it had to continue forest management activities in order to retain the TSFMAs and since there were still accounts payable and receivable. Annual maintenance expenses during the period in which production operations were suspended amounted to approximately $8,000,000. Although Mr. Bilodeau shared Mr. Garneau's opinion, he feared the tax authorities might claim that DMI had ceased to carry on its business in suspending its production operations in June 1992. Out of prudence, he recommended that production operations resume before the sale to Cèdrico. Donohue decided to follow his advice.[14]
+
+[35] Agreements were thus reached on November 16, 1993, concerning the valley sawmills, which were still owned by DMI. Under one of those agreements, Cèdrico was to manage the operation of those mills for one year and to recruit DMI's former employees for that purpose. However, DMI could terminate the agreement at any time.
+
+[36] In actual fact, it appears that Cèdrico operated the valley sawmills for only three weeks. It operated them before the purchase of the DMI shares in order to comply with its contractual undertakings. As seen above, this operation was not part of Cèdrico's business plan. However, Mr. Bérubé, its president, acknowledged that it had enabled him to select the equipment that would be used in the new sawmill. According to Mr. Bérubé, that equipment was worth approximately $1.2 million.
+
+[37] On December 22, 1993, DSF and Rexfor sold all their DMI common shares, that is, 128,100,000 shares, to Cèdrico for a consideration of $2. The contract of sale stipulates that DMI was to repay the vendors the amount of the investment tax credits that DMI had previously deducted in computing its income tax but that the Minister had disallowed. Those credits represented approximately $12,000,000 plus interest. Donohue asked that DMI continue not to be operated and that its assets be transferred to another company. DMI also had large tax losses to which no value appears to have been attached in determining the selling price of the DMI shares to Cèdrico. Neither Cèdrico nor any corporation related to it appears to have used those losses either.
+
+[38] On December 22, 1993, the MNR cancelled DMI's TSFMAs and, on March 15, 1994, be granted a new one to a newly formed corporation (Bois-Saumon), which was part of the Cèdrico group and to which DMI's assets had been transferred. Following the acquisition of the valley sawmills and the TSFMA, Bois-Saumon was able to operate its new sawmill at a profit and to create some 100 well-paid jobs for residents of the Matapédia Valley.
+
+Sale of the Other DMI 1993 Mills
+
+[39] On June 3, 1994, DMI 1993 sold the shore sawmills and the preparation centre to Groupe GDS for $7.5 million, which Groupe GDS paid for by assuming $7.5 million of DMI 1993's debt to the SDI.
+
+Resumption of Operations at the Pulp Mill in 1995 and Sale of the Shares in DMI 1993 in 1999
+
+[40] According to Mr. Garneau, there was never any question between 1991 and 1993 of selling the pulp mill to an unrelated third party. Nor had consideration been given at any time to closing the mill permanently. The shareholders still hoped to resume the pulp mill's operations, but that depended on the price of pulp. Consequently, DMI 1993 incurred heavy expenses to keep the pulp mill's facilities in working order with a view to resuming operations at the mill as soon as market conditions permitted. According to Mr. Rodrigue and Mr. Lévesque, efforts were made to find partners to resume the pulp mill's operations between 1991 and 1993. In view of the market conditions, discussions with potential partners were suspended. Efforts were subsequently made to find a buyer either for DMI 1993's assets or for interests in DMI 1993. All of the Quebec government's trade commissioners outside Canada were enlisted to find such a buyer, but without success. Mr. Lévesque said that they had [TRANSLATION] "gone around the world twice, but in vain".
+
+[41] Market conditions enabled DMI 1993 to resume operations at the pulp mill in May 1995. However, the market price per metric tonne of pulp did not enable it to make a profit, but merely to obtain a positive cash flow: profits were thus not sufficient to cover depreciation of the buildings and equipment used in operating the pulp mill. DMI 1993's shareholders also had to provide new capital.
+
+[42] In 1999, the shares of DMI 1993 were sold to a corporation of the Tembec Group. According to Mr. Bilodeau, the Donohue Group made no profit on the sale; Mr. Lévesque appeared to corroborate this, as he stated that Tembec had purchased the pulp mill at a price lower than the debt existing at the time. Additional capital financing was apparently required when the pulp mill was sold.
+
+Minister's Assessment
+
+[43] In making his assessment, the Minister considered that the following transactions constituted avoidance transactions within the meaning of section 245 of the Act:
+
+(1) the incorporation of DMI 1993 on November 12, 1993;
+
+(2) DMI's transfer of most of its assets, with the exception of the valley sawmills, to DMI 1993 on November 15, 1993;
+
+(3) the reorganization of DMI's capital structure, that is, the reduction of the paid-up capital of the Class B preferred shares and the common shares of DMI and DMI's redemption of its Class A, B and C preferred shares in consideration of the Class A, B and C preferred shares and the common share it held in DMI 1993; and
+
+(4) DSF's sale of the common shares of DMI to Cèdrico for $1.
+
+[44] The Minister considered that the tax benefit resulting from these transactions was to enable DSF to realize an ABIL which could be wholly absorbed by its income and that these avoidance transactions resulted directly or indirectly in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. The Minister felt that DSF had been able to deduct, in the form of an ABIL which it would not otherwise have been able to deduct, the potential loss resulting from the devaluation of the common shares of DMI in question. As tax consequences, the Minister disallowed the ABIL of $46,657,499 and increased the ACB of the common share of DMI 1993 held by DSF by $62,209,999.
+
+[45] In his cross-examination, Mr. Bilodeau acknowledged that it would have been possible to restructure DSF's investments so as to realize a loss on only 1.49 percent of the shares held by DSF, in which case the amount of the loss would have corresponded to the proportionate value of the two valley sawmills relative to all the assets held by DMI ($2.5 million/$167,625,000[15]).
+
+Positions of the Parties
+
+Respondent's Position
+
+[46] Counsel for the respondent prepared written notes in which she meticulously set out the relevant facts relating to the issue in the instant appeal. In her presentation on the misuse of the provisions of the Act resulting from the series of avoidance transactions, she described what must be done to determine whether a misuse has occurred. In paragraph 104 of her notes, she wrote:
+
+[TRANSLATION]
+
+The notion of misuse thus implies that it be determined whether there has been a failure to comply with the object and spirit of the Act, which is done by examining, among other factors, the actual result of the transactions and by determining what Parliament intended.
+
+[47] After describing the inappropriate transactions conducted by the Donohue Group, counsel for the respondent stated that the potential loss in respect of the shares of DMI was not independent of the assets transferred to DMI 1993 because, in her view, [TRANSLATION] "the funds injected in consideration of the shares of [DMI] were essentially used to finance those assets".[16] Prior to the series of transactions conducted in 1993, DSF held the shares of DMI in respect of which there existed a potential tax loss due to the considerable decline in value of the assets underlying the shares of DMI, that is, the pulp mill and the wood mills. However, she added, the series of transactions had the effect of altering those underlying assets. At the time of the sale of December 22, 1993, DMI no longer owned but a very small portion of the assets underlying the shares, that is, the valley sawmills representing only 1.49 percent of the value of all the assets it had previously owned. DMI 1993 owned the pulp mill, the shore sawmills and the preparation centre, the fair market value of which represented 98.51 percent of the value of all the assets previously held by DMI.
+
+[48] Furthermore, the series of transactions enabled DSF [TRANSLATION] "to put itself, with respect to the Matane mill, the [shore sawmills] and the preparation centre, in the same factual situation before and after that series of transactions through the holding of the shares of [DMI 1993] (same assets underlying those shares [and] liabilities whose value was equivalent to the value of those assets), while at the same time being able to claim the potential loss accrued on the shares of [DMI] due to the loss of value of those same assets which it retained".[17] Counsel presented her position as follows in paragraphs 115 to 117 of her notes:
+
+[TRANSLATION]
+
+115. In other words, the property responsible for the loss claimed by [DSF] on the shares of [DMI] was indirectly held by the same shareholders and, in particular, by [DSF], which, according to the respondent, thus claimed a loss on property which it did not actually dispose of.
+
+116. The series of transactions also enabled [DMI 1993], by the operation of subsection 85(5.1) of the Act, to retain the undepreciated capital cost of the property received from [DMI], which was much greater than the value of the property (a difference in value which was previously reflected in the loss claimed by [DSF]). Thus, starting in 1994, [DMI 1993] could, after the series of avoidance transactions, claim either a tax deduction in computing its income equivalent to this high tax cost or, in the case of a sale of the pulp mill, a terminal loss, thus doubling the tax benefit sought, as Serge Bilodeau has acknowledged.
+
+117. The series of transactions, which resulted in a tax benefit for [DSF], was inappropriate in the circumstances: it is unusual to conduct this many transactions in order to sell only two assets representing less than 2 percent of the value of all the assets of [DMI] prior to the transactions, with the result that [DSF] may claim a loss generated by 100 percent of the value of all of the assets.
+
+She concluded as follows in paragraphs 120 and 121:
+
+[TRANSLATION]
+
+120. A series of transactions then took place, the result of which was to realize the loss for [DSF] in relation not only to the [valley sawmills], of which the shareholders of [DMI] wanted to divest themselves, but also, which is inappropriate, to the vast majority of the property which was retained through [DMI 1993].
+
+121. And yet it would have been possible to structure the transactions so that the loss on the shares of [DMI] was realized only in relation to the property Cèdrico Inc. wished to acquire, that is, the assets connected with the [valley sawmills]. The transactions of this structure might have been considered avoidance transactions, but they would not have constituted a misuse because the result would have been consistent with the object and spirit of the Act, having regard to the factual result and to Parliament's intention.
+
+[49] Counsel then referred to the provisions of the Act of which the avoidance transactions resulted in a misuse. First, there is subsection 85(5.1) of the Act,[18] the scope of which she summarized as follows:
+
+[TRANSLATION]
+
+125. The effect of subsection 85(5.1) is to disallow a terminal loss in most cases of disposition to a "related" party. The loss was in fact deferred in that it was transferred to the transferee, which would be able to claim it in the event of a disposition to a person who was not "related" to the group.
+
+[50] Counsel for the respondent described the misuse of subsection 85(5.1) in paragraphs 127, 128 and 130 of her notes:
+
+[TRANSLATION]
+
+127. In the instant case, the transactions at issue, and more specifically those giving rise to the application of subsection 85(5.1), resulted in a misuse of that subsection since they enabled [DSF] to claim a loss in respect of property which is still held by the same group of companies.
+
+128. The very purpose of subsection 85(5.1) was to prevent a taxpayer from creating or deducting a potential tax loss in respect of property which remained under the ownership or control of a "related" group. In other words, the subsection barred a taxpayer from claiming a loss in respect of property which remained his or her property or the property of a person with whom he or she had a certain "relationship".
+
+130. Thus, the purpose of subsection 85(5.1) was clearly not to enable a taxpayer to strip a corporation of a significant portion of its property and to retain that property by transferring it to a "related" corporation in order then to claim a loss attributable to that same property. To use subsection 85(5.1) in this way is utterly inappropriate and a misuse.[19]
+
+[51] According to counsel for the respondent, the avoidance transactions in issue resulted in a misuse not only of subsection 85(5.1), but also of the Act read as a whole. Her argument on this point is as follows:
+
+[TRANSLATION]
+
+138. The general scheme of the Act is intended to prevent a potential loss from being realized by means of a transfer to a transferee with whom the transferor has a certain "relationship". More specifically, it appears from the provisions of the Income Tax Act which have the effect of restricting losses (Schedule E)[20] that the Act, viewed as a whole, bars a loss from being claimed in respect of property where that property is still held by a "related" group to which the transferor belongs.
+
+[Emphasis added.]
+
+She then continued as follows:
+
+[TRANSLATION]
+
+142. It would be surprising, if not illogical, if the Act failed to adopt this philosophy of disallowing losses in respect of property still held by a "related" group because, as long as the property has not been "genuinely" disposed of, there is still a chance that it will increase in value (because it generates profits or for any other reason) and that it will result in a capital gain or a loss smaller than the potential loss at the time of the transfer between persons with a certain "relationship".
+
+143. Where the property is "genuinely" disposed of, that is to say, disposed of to a person who is unrelated to the transferor such that there is no further possibility for the transferor or a person with whom he or she has a certain "relationship" of realizing a gain or a smaller loss in respect of the transferred property, there is no problem with recognizing that loss.
+
+144. However, the result of the avoidance transactions at issue is not consistent with this general scheme of the Act.
+
+145. Assuming that the Court considers that, in 1993, there was little hope of the mill's being sold or of its generating profits in the more or less long term, the respondent emphasizes that while this was perhaps what Rexfor's management felt about the mill's future, it was not what the Donohue Group felt.
+
+146. Donohue Inc. wanted to keep the pulp mill. In the minds of Donohue Inc.'s management, the pulp mill was at all times in operating condition and could resume operations in a very short period of time when market conditions were more favourable. They hoped at all times to resume its operations. Moreover, its operations were in fact resumed in 1995. At the time of the restructuring in issue, there was never any question of selling the mill. Mr. Garneau was categorical on this point. It was not sold until 1999.
+
+. . .
+
+149. Nevertheless for a potential loss to be recognized in respect of property, Parliament requires that the property be disposed of to a person with whom the transferor has no relationship or, where it cannot be disposed of, that the owner of the property be in a situation in which, in practice, he or she no longer has control over the property. For example, paragraph 50(1)(b) of the Act requires, for a loss to be recognized in respect of a share of a corporation, that the corporation be bankrupt, in the process of winding up or in such circumstances that it is reasonable to expect that the corporation will be dissolved or wound up.
+
+150. Parliament does not subsidize taxpayers by granting them tax benefits relating to a loss where that loss has not yet been realized, especially since it may never be realized or since the amount of the loss may be different when it is actually realized. Furthermore, it would be too easy for persons with a certain relationship to manipulate that loss.
+
+. . .
+
+153. Consequently, the result of transactions such as those at the origin of the instant case, which strip a corporation of assets in respect of which there exists a potential loss in order to realize that loss while retaining the property through a corporation belonging to the same group as the corporation stripped of the assets constitutes a misuse of the Act read as a whole.
+
+DSF's Position
+
+[52] Counsel for DSF presented his client's position without written notes. He began by pointing out that DSF had admitted by far most of the facts stated in the Reply to the Notice of Appeal. However, he emphasized that DSF had indeed incurred a BIL of $62,209,999. The Donohue Group had really invested $62,210,000 in DMI. He emphasized that there had been no manipulation to artificially inflate the ACB of DMI's shares. Nor was there any dispute as to the FMV of the shares at the time of the sale to Cèdrico: that value had been nil since 1991.
+
+[53] He added that the potential loss did exist and that the sale of DMI's shares had taken place before or after the transfer of DMI's assets to DMI 1993. That transfer had no impact on the amount of the loss incurred by DSF from the sale to Cèdrico on December 22, 1993. In other words, DMI's shares were worth nothing either with or without the assets transferred to DMI 1993. According to counsel, the tax loss deducted by DSF merely reflected the economic loss incurred by DSF, which is moreover confirmed by the fact that its investment was written off on its balance sheet. In addition, the loss actually incurred by DSF on the sale of DMI's shares to Cèdrico constitutes a BIL which meets all the conditions stated in paragraph 39(1)(c) of the Act.
+
+[54] No other provision, with the possible exception of section 245 of the Act, limits the deduction of the ABIL in the instant case. In particular, the "stop-loss rules" do not apply to the loss incurred on the disposition by DSF of the DMI shares to Cèdrico. For example, subsection 85(4)[21] of the Act bars a taxpayer from realizing a loss where he or she transfers capital property to a corporation that immediately after the disposition was controlled, directly or indirectly, by the taxpayer or certain related persons. This subsection barred Donohue from realizing a loss when it transferred its shares in DMI to DSF in 1991. Paragraph 40(2)(e)[22] of the Act lays down a similar rule applicable to a taxpayer which is a business corporation that has disposed of property to a person who controlled that taxpayer directly or indirectly (controlling corporation) or to a corporation controlled directly or indirectly by a person who controlled the taxpayer (controlled corporation). However, DMI's shares were actually sold by DSF to Cèdrico, a corporation which DSF did not control and with which it was dealing at arm's length. Neither of these stop-loss rules is therefore applicable here.
+
+[55] Subparagraph 40(2)(g)(i) of the Act provides that a taxpayer's loss from the disposition of a property is nil if it is a "superficial loss". In section 54, "superficial loss" is defined as a taxpayer's loss where the same or identical property — referred to as "substituted property" — was acquired, during the period beginning thirty days before the disposition and ending thirty days after the disposition, by the taxpayer, the taxpayer's spouse or a corporation controlled by the taxpayer and where, at the end of the thirty-day period following the disposition, the taxpayer, the taxpayer's spouse or the corporation owned the substituted property. In the case at bar, even if the shares of DMI 1993 were considered property identical to the shares of DMI,[23] the common share of DMI 1993 was acquired on November 17, 1993, or more than thirty days before the sale of DMI's shares to Cèdrico on December 22, 1993. Nor were the DMI shares sold to Cèdrico subsequently reacquired by DSF or a corporation controlled by Donohue.
+
+[56] Consequently, the only rule that could prevent the deduction of the ABIL would be the GAAR stated in section 245 of the Act. As counsel admits that DSF received a tax benefit resulting from a series of avoidance transactions, the only question to be decided is whether that series of transactions resulted in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole.
+
+[57] The concept of abuse of rights, counsel for both parties agree, does not derive from common law principles but originated in civil law jurisdictions. In those jurisdictions, Roman law is often cited as the source of the concept. In Houle v. Canadian National Bank, [1990] 3 S.C.R. 122, [1990] S.C.J. No. 120, L'Heureux-Dubé J. conducted an historical analysis of this legal concept at page 137:
+
+However, a closer analysis does demonstrate that the concept of abuse of rights was, to a certain extent, accepted in Roman law. Planiol and Ripert, in their Traité pratique de droit civil français (2nd ed. 1952), t. VI, so find, at No. 573, pp. 798-99:
+
+[TRANSLATION] While there are in the Digest formulas which, taken out of context, are such as to suggest that Roman jurists considered that a person could not be liable for damage caused to another while exercising a right, other texts show that these jurists refused to accept the use of a right so as to cause harm to another.
+
+The well-known maxim Neque malitiis indulgendum est (Digest, 6.1.38) seems to confirm it: malice would never be permitted, even if a right were being exercised. In fact, interestingly, Gaius states that if a debtor is ready to pay and the creditor attacks the sureties instead, for the purpose of injuring his debtor, then the creditor, even though he has a right to claim from the sureties, will be liable on account of such injury (Digest, 47.10.19).
+
+[58] L'Heureux-Dubé J. also analysed the evolution of the abuse of rights concept in French law. For example, she wrote the following at page 138:
+
+Mazeaud and Tunc, op. cit., describe the situation in early French law as follows, at No. 556, p. 646:
+
+[TRANSLATION] With the rebirth of Roman law, these ideas passed into our old law. The Parlements did not hesitate to punish any malicious abuse: thus on February 1, 1577 the Parlement of Aix condemned a wool carder who was singing simply in order to annoy his neighbour, a lawyer.
+
+Domat would allow an action for abuse of rights [TRANSLATION] "as a result of injustice and chicanery by poor litigants" (Oeuvres de J. Domat (1823), vol. 4, by M. Carré, at pp. 131-132), and would also allow it with regard to property rights if exercised with an intent to harm (p. 134).
+
+The French Civil Code did not contain any specific provision relating to the abuse of rights. However, courts soon began to apply the theory. Mazeaud and Tunc, op. cit., at No. 557, p. 647, discuss the famous decision of the Court of Colmar, May 2, 1855, D.P. 1856.2.9 (Doerr v. Keller), condemning a property owner to damages for building a false chimney with the sole purpose of [TRANSLATION] "removing almost all the daylight left in his neighbour's window". Marty and Raynaud, Droit civil: Les obligations (2nd ed. 1988), t. I, at No. 477, p. 538, comment:
+
+[TRANSLATION] This line of authority has developed widely not only for the right of ownership but also with respect to many other rights, such as the right to bring an action or to defend an action at law and to use execution proceedings.
+
+The evolution and application of the abuse of rights doctrine grew quickly from the beginning of the 20th century. It then became an accepted recourse in French law.
+
+[59] In Houle, supra, an action had been instituted against the National Bank, which had exercised its right to recall a loan on demand and to realize its securities following a reasoned decision based on objective economic factors. There was no evidence that that decision had been influenced by extraneous considerations. Although the recalling of the loan was not in itself an abuse of the bank's contractual rights, the hasty liquidation of the corporation's assets did constitute such an abuse. The bank's representative had attempted to obtain an additional investment from shareholders of the corporation to which the bank had granted a loan. Since no agreement was reached, the bank immediately took possession of the assets and liquidated them in less than three hours.
+
+[60] The concept of abuse of rights, transposed to tax law, would have the following meaning: rights are abused from the moment a transaction is conducted by a taxpayer [TRANSLATION] "for a purpose that is clearly inconsistent with the purpose of the Act". In the case at bar, counsel for DSF contends that the series of avoidance transactions carried out by the Donohue Group is in no way inconsistent with the purpose of the Act.
+
+[61] Contrary to the approach adopted by counsel for the respondent, counsel for DSF strove to show that the instant case concerned two distinct properties held by two taxpayers that were separate entities for both tax law and civil law purposes. On the one hand, DSF held shares of DMI, and, on the other hand, DMI held the assets, including the pulp mill and the wood mills. Counsel pointed out that the law in general and the Act in particular acknowledge the separate existence of a shareholder and a corporation. The taxation system established by the Act does not permit the corporations of a single group to consolidate their income as they can for accounting purposes. Each corporation in the group is a separate taxpayer which must file its own tax return and pay its own income tax.[24]
+
+[62] Counsel pointed out that the separate existence of a shareholder and his or her corporation could give rise to the double taxation [TRANSLATION] "of a single economic gain". For example, if an individual holding property with an FMV of $1,000 and an ACB of $100 transferred that property to a corporation by making the election provided for in section 85 of the Act, that individual would, following the transfer, hold shares with an FMV of $1,000 and an ACB of $100. The corporation would hold the property with an FMV of $1,000 and an ACB of $100. If the individual disposed of the shares, he or she would realize a gain of $900, as would the corporation if it disposed of its property.
+
+[63] Counsel for DSF also gave an example in which the use of a corporation could give rise to two separate legal losses in respect of what is essentially a [TRANSLATION] "single economic loss". If a corporation (Holding) held shares of the capital stock of a subsidiary for which it had paid $100, and if that sum were used by the subsidiary to purchase depreciable property worth $100, Holding and the subsidiary could both incur a loss if the value of that depreciable property were nil. Holding could realize a capital loss or a BIL on an actual or deemed disposition of its shares, and the subsidiary could realize a terminal loss on a disposition of its depreciable property, which loss could be carried back to a previous year and deducted from income for that year.[25]
+
+[64] In some cases, there are rules that may minimize this double taxation or double deduction.[26] However, counsel for DSF contended that this is not necessarily true at all times. There is no principle which necessarily precludes all double taxation or double deduction.
+
+[65] The disposition of shares of a corporation's capital stock and the disposition of assets held by that corporation are each subject to a very specific taxation system. A taxpayer is entirely free to choose to sell the shares of a corporation or to see that the corporation sells its assets. The transaction selected by the vendor has legal consequences not only for the vendor but also for the purchaser. The purchaser of the shares of a corporation is not in the same legal situation as one who merely buys assets from the corporation. For example, in purchasing the shares in DMI, Cèdrico acquired all the assets and all the contingent liabilities of DMI. Generally speaking, the purchase of a portion of a vendor's assets does not produce this result.
+
+[66] It is therefore important in the instant case to apply the taxation system applicable to the sale of shares. It is clear that the Minister refused to grant DSF the ABIL in respect of the shares of DMI because the vast majority of the underlying assets, that is, those transferred to DMI 1993, were retained by the Donohue Group and Rexfor through that corporation. However, counsel for DSF contended that there is nothing in the Act authorizing the Minister to take into account the underlying assets held by DMI. For example, nothing in the Act authorizes the Minister to attribute 1.5 percent of the value represented by the valley sawmills to the ACB of DMI's shares.
+
+[67] Counsel for DSF acknowledged that it is relatively easy in the instant case to determine which asset may be attributable to the loss incurred at the time of the sale of the DMI shares. However, there is ordinarily no relationship between the ACB of a corporation's shares and the ACB of the corporation's assets. He cited as an example the cost of the shares of corporations in the new technologies field, which may be traded on the stock exchange at prices out of all proportion to the cost of the corporation's assets.[27] In most cases, this exercise would be at the very least perilous, if not impossible.
+
+[68] Counsel for DSF pointed out that where Parliament wishes a corporation's underlying assets or activities to be taken into account, it has said so clearly. One example of this appears in paragraph 40(2)(h), which establishes a stop-loss rule for a case where a corporation (Holding) realized a loss on the sale (even to third parties) of shares of a controlled corporation (Subsidiary) and where Subsidiary, during the period in which it was a subsidiary controlled by Holding, disposed of property at a loss to another corporation controlled by Holding. The purpose of this rule is to prevent the double deduction of losses incurred in such circumstances. Subparagraph 40(2)(h)(i) of the Act provides that this rule applies only if additions provided for in paragraph 53(1)(f.1) have been made as a result of the cancelling out of Subsidiary's loss and if they may reasonably be considered to be attributable to losses on property that accrued during the period when Subsidiary was controlled by Holding. This provision clearly does not apply in the case at bar since DSF did not dispose of shares of a corporation which it controlled. It held only 50 percent of DMI's common shares.
+
+[69] Subsection 55(2) of the Act is another provision requiring that a corporation's underlying assets be taken into account. Its purpose is to prevent artificial reductions of a capital gain that the corporation could have realized but which was eliminated in whole or in part by means of a dividend. For this rule to apply, it must reasonably be considered that the dividend is attributable to anything other than income earned or realized by any corporation after 1971, such as the increase in value of the corporation's property after 1971.
+
+[70] Another illustration can be found in subsection 248(1) of the Act, which defines an SBC. One of the conditions that must be met in order to qualify as such a corporation is that all or substantially all of the FMV of the assets be attributable either to assets that are used principally in an active business carried on primarily in Canada by the corporation or to shares or indebtedness of an SBC.
+
+[71] It is interesting to note that, in the cases just described, the value of the underlying assets is relevant for only very specific purposes. No provision of the Act requires that the ACB of a corporation's shares match the ACB of the corporation's assets. Furthermore, the only stop-loss provision that requires a loss on a corporation's underlying assets to be subtracted from a loss on its shares is paragraph 40(2)(h), but it applies solely in the case of the sale of shares of a controlled corporation and in certain very specific circumstances.
+
+[72] According to counsel for DSF, the argument that it would be a misuse to be able to deduct a loss on the DMI shares, whereas the vast majority of the underlying assets were transferred to DMI 1993 and thus retained by the Donohue Group and Rexfor, is unsound. As an example, he mentioned that Rexfor and DSF could have elected to wind up DMI. Had they done so, DSF could have realized its loss of $62,209,999 on its shares, while retaining an undivided half ownership of the pulp mill, the shore sawmills and the preparation centre. The relevant legislative provisions are paragraph 39(1)(c) and subsections 69(5) and 84(9) of the Act. It should be noted that section 88 would not have applied because DSF did not hold 90 percent of the shares of DMI. The assets owned by DMI would be deemed to have been disposed of for their FMV in accordance with subsection 69(5) of the Act, and DMI would then have realized a terminal loss.[28] Under subsection 84(9), the shares of DMI held by DSF would be deemed to have been disposed of to DMI. Even if DSF had controlled DMI (which is not the case), paragraph 69(5)(e)[29] expressly provides that the paragraph 40(2)(e) stop-loss rule does not apply in computing any loss that the shareholder might then incur on his or her shares. Since DSF and DMI would be dealing with each other at arm's length and there would not have been enough assets at the time DMI was wound up to pay off DMI's debts and redeem its preferred shares, DSF would have received nothing for its common shares and would then have incurred its BIL when its shares were cancelled.
+
+Analysis
+
+[73] As stated above, the question raised by the instant appeal is whether the GAAR applies and cancels out the ABIL deducted by DSF. The two most relevant provisions are subsections 245(2) and (4) of the Act, which read as follows:
+
+245(2) General anti-avoidance provision. Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+245(4) Provision not applicable. For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+[74] The outcome of this appeal depends entirely on the answer to the following question: did the series of transactions conducted by the Donohue Group result in a misuse of the Act read as a whole? Briefly put, the respondent's position is that DSF's deduction of a loss on the shares of DMI cannot be allowed because the portion relating to the pulp mill, to which most of that loss may be attributed, remained within the Donohue Group. If the loss deducted by DSF were a loss resulting from the disposition of the pulp mill, I would concur entirely in this position. However, the property with respect to which DSF deducted an ABIL was not the pulp mill, but the shares of DMI.
+
+[75] In my view, the position of counsel for DSF, as described above, is an accurate representation of the law applicable to the facts of the instant appeal. The respondent's position is ill-founded because it disregards the distinction between the shares of DMI's capital stock held by DSF and the underlying assets held by DMI. To illustrate this position of the respondent, I refer in particular to paragraphs 115, 120, 127 and 130 of her notes. For the sake of convenience, I reproduce the most revealing paragraph below:
+
+[TRANSLATION]
+
+120. A series of transactions then took place, the result of which was to realize the loss for [DSF], in relation not only to the [valley sawmills], of which the shareholders of [DMI] wanted to divest themselves, but also, which is inappropriate, to the vast majority of the property which was retained through [DMI 1993].
+
+[Emphasis added.]
+
+[76] In corporate law, the property of a business corporation belongs to the corporation, not to its shareholders. A corporation has a legal personality separate from those of its shareholders. The Act creates no legal fiction which would have the effect of nullifying this distinction or by virtue of which the property of a corporation would be considered that of the shareholders. On the contrary, the Act recognizes that a gain or loss may be realized at the same time by shareholders in respect of their shares and by the corporation in respect of its own property. If there were a rule preventing the double taxation of a gain or the double deduction of a loss (whether or not there is concomitance) in respect of a corporation's shares and underlying assets, the respondent's position might be defensible. That is not the case, however.
+
+[77] In the instant case, Donohue invested more than $62 million to acquire shares of DMI's capital stock. It was those same shares that DSF sold to Cèdrico on November 22, 1993. At the time of that disposition, DSF incurred a tax loss corresponding to the accounting loss previously realized at the end of 1991. It will be recalled that Donohue wrote off its investment in DMI on December 31, 1991. The parties agree that the value of the common shares held by DSF on December 22, 1993, was nil. In selling its shares to Cèdrico, DSF was merely realizing the loss on its investment for tax purposes. However, there is no specific provision of the Act that minimizes the loss incurred in December 1993 either by eliminating it permanently or by carrying it back. The only provision that might have that result is the GAAR of section 245, but only if the series of transactions conducted by the Donohue Group resulted in a misuse of the Act read as a whole.
+
+[78] I do not believe that the respondent has succeeded in showing that, in law, the ABIL deducted by DSF resulted in such a misuse. All the provisions of the Act that were in force,[30] and to which counsel for the respondent referred in Schedule E to her notes to define the tax policy underlying the Act (or the general scheme established by the Act) with which the series of avoidance transactions might be inconsistent, concern the following cases: transfers of property to persons with whom there exists a "certain relationship", to use the words of counsel for the respondent, transfers of shares of a controlled corporation and transfers of property sold at a price less than its FMV or resulting in superficial losses. However, the parties agree that there was no "relationship" between DSF and Cèdrico. Since it genuinely disposed of the shares, with an ACB of $62,210,000, of a corporation that it did not control, since it received as consideration a sum representing the FMV of the shares, and since neither it nor a related corporation acquired substituted property, DSF genuinely incurred a loss of $62,209,999 and the deduction of that loss contravenes no stop-loss rule.
+
+[79] The only provision referred to by counsel for the respondent which is not consistent with the list found in Schedule E is the rule stated in subparagraph 39(1)(c)(v) of the Act. This provision concerns the computation of the BIL, and counsel stated in her oral argument that it is intended [TRANSLATION] "to prevent the conversion of a capital loss into a business investment loss".[31] The respondent clearly acknowledges that this subparagraph does not apply in the case at bar since she is relying on section 245 of the Act to disallow the ABIL deducted by DSF under paragraph 38(c) of the Act.
+
+[80] In my view, there is nothing in the Act that bars a taxpayer from realizing a loss on a corporation's securities sold to third parties (which are dealing with the corporation at arm's length), even if a significant portion of the assets that belonged to the corporation and to which the loss on the shares may be attributed remains within the group of corporations. If there were the slightest doubt as to whether the series of transactions implemented by the Donohue Group, with the cooperation of Rexfor and the government of Quebec, were inconsistent with the object of the Act read as a whole, the fact that the Act enables a person holding less than 90 percent of a corporation's shares to realize a loss on the shares when the corporation is wound up while at the same time obtaining ownership of a portion of the corporation's underlying assets shows clearly that that series of transactions is not inconsistent with the scheme established by the Act.
+
+[81] At the end of her argument, lacking arguments against the validity of this analysis, counsel for the respondent contended that the Minister would probably have applied the GAAR if DMI had been wound up. First of all, the argument regarding winding-up was advanced solely in support of the idea that the deduction of the ABIL on the shares by DSF — which at the same time retained the vast majority of DMI's assets through DMI 1993 — was not inconsistent with the object of the Act. Furthermore, I find this answer by counsel for the respondent utterly incorrect in law since Parliament has expressly provided in subsection 69(5) of the Act that the stop-loss rule stated in paragraph 40(2)(e) does not apply in the case of a simple winding-up. Parliament's intention could not be clearer. This result confirms not only that the Act recognizes the separate existence of the shares of a corporation's capital stock and of the assets held by that corporation, but also that a shareholder may be allowed to retain his or her portion of the underlying assets of the wound-up corporation at the same time as a loss is incurred in respect of those shares.
+
+[82] For these reasons, DSF's appeal is allowed and the assessment for the 1990 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that DSF is entitled, in computing its taxable income, to an ABIL of $46,657,499. As counsel for DSF has asked to make submissions before I rule on the matter of costs, I shall render my decision on this question after hearing the parties.
+
+Signed at Ottawa, Canada, this 6th day of June 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 20th day of July 2001.
+
+Stephen Balogh, Revisor
+
+1 A corporation previously known as Donohue St-Félicien Inc.
+
+[2] Fifty percent of these shares were to be purchased by Donohue in 1999 if DMI were unable to redeem them.
+
+[3] The Class A, B and C preferred shares are no-par-value shares with a six percent non-cumulative dividend redeemable by payment of the amount paid. The Class A shares were redeemable not later than 10 years after all the shares were issued, that is in 1999. The Class C shares were retractable.
+
+[4] According to its tax return for 1990, DSF's taxable income was $93,408,639.
+
+[5] The adjusted cost base (ACB) of the common shares held by Donohue was $62,210,000. That ACB comprises the amounts subscribed for the common shares ($62,150,000) and the costs incurred at the time of the initial investment.
+
+[6] Rexfor did not write off its investment represented by the common shares of DMI until March 31, 1993. A portion of the investment consisting of the preferred shares was apparently written off as well since the total amount of the write-off was $87,735,000. According to Jean-Marie Rodrigue, who was President and CEO of Rexfor from 1992 to 1995, Rexfor should have written off its entire investment in the common shares earlier. However, Quebec's Ministère des Finances objected to its doing so.
+
+[7] In 1992, DSF apparently acquired 1,500,000 new shares of DMI.
+
+[8] The TSFMAs are cutting rights granted by the Minister of Natural Resources (MNR) and are not transferable by the company that holds them. Mr. Garneau stated that the golden rule for determining the value of a sawmill is to multiply every cubic metre of timber to be supplied under the TSFMA by $100. Since, he said, the TSFMAs provided for 250,000 cubic metres of timber for the two valley sawmills, their market value by that valuation method was $2,500,000. In actual fact, DMI's TSFMAs for the valley sawmills authorized the cutting of 200,000 cubic metres. It should be added that there is one TSFMA per sawmill. Without a TSFMA, it is difficult to operate a sawmill since it is the TSFMA that ensures the supply of timber necessary for its operation.
+
+[9] In November 1993, DSF held 64,050,000 common shares, the paid-up capital of which amounted to $64,050,000. The fact that the ACB of the shares had remained at $62,210,000 is a mystery (see paragraphs (u) and (cc) of the Reply to the Notice of Appeal, which were admitted by DSF).
+
+[10] Mr. Rodrigue and Yvon Lévesque (initially assistant to the vice-president for finance and subsequently vice-president for finance at Rexfor from 1990 to 1996) acknowledged that the MNR and the Ministère des Finances du Québec had been informed of the restructuring and had authorized it. In its order of November 17, 1993, the government of Quebec, as Rexfor's shareholder, gave its approval for the restructuring provided that Donohue assumed all costs. Mr. Gingras estimated those costs at approximately $500,000.
+
+Rexfor and the SDI are Quebec Crown corporations and non-taxable entities. As a result, only DSF could benefit from the ABIL in respect of the common shares of DMI. Rexfor did attempt to obtain a portion of that tax benefit, but DSF refused to share it since it resulted from the loss of its own investment in DMI. However, the restructuring made it possible to reduce DMI's capital, which had the consequence of lowering DMI's capital tax. Rexfor thus derived an indirect benefit.
+
+[11] As a result of the application of subsection 85(5.1) of the Act, DMI did not incur any loss in respect of those of its assets that were transferred to DMI 1993, and DMI 1993 was placed in the same situation as DMI from a tax standpoint; in particular, the undepreciated capital cost (UCC) of the depreciable property acquired by DMI 1993 was adjusted by $56,153,504.
+
+[12] In subparagraph 24(o)(iii) of the Amended Reply to the Notice of Appeal, which was admitted by DSF, the value of the assets transferred by DMI to DMI 1993 are itemized as follows:
+
+Cash $ 1,776,518
+
+Accounts receivable $ 6,410,331
+
+Inventory $ 4,124,294
+
+Capital property $152,613,740
+
+Total $165,124,883*
+
+* Note: However, the actual total value of these assets was $164,924,883. The difference of $200,000 was not explained.
+
+[13] The following calculations clearly illustrate this result:
+
+Prior to transfer After transfer
+
+Value of assets 167,624,883 165,124,883
+
+Liabilities - 134,158,933 - 131,658,933
+
+Preferred A - 25,000,000 - 25,000,000
+
+Preferred B - 35,600,000 - 35,600,000
+
+Preferred C - 1,033,972 - 1,033,972
+
+(28,168,022) (28,168,022)
+
+When examined as to any hope that DSF and Rexfor might have had of recovering all or part of the value of their investment when the pulp plant resumed operations in more favourable circumstances, Mr. Rodrigue and Mr. Lévesque appeared to me to be highly doubtful of such a possibility. In Mr. Rodrigue's view, they would have had to be extremely lucky to obtain a positive value for the common shares. It should be kept in mind that the cost to DMI of producing pulp was more than double the market price in 1993.
+
+BCTM pulp is a low-grade pulp, ranking sixth in terms of quality, whereas kraft pulp ranks first. When economic conditions become difficult and the price of pulp falls sharply, thus resulting in a decline in the price of kraft pulp, kraft pulp becomes more popular, which makes it much harder to sell BCTM pulp. This explains why prices for BCTM pulp collapsed so dramatically in 1991 and 1992.
+
+Mr. Rodrigue added that there should have been a newsprint plant near the pulp mill, which would have required additional investments of $345,000,000. In his view, construction of the Matane pulp mill was a poor business decision.
+
+As a result, there would have had to be a spectacular reversal of the situation for the value of the common shares in DMI held by DSF and Rexfor to recover.
+
+[14] The minutes of the October 21, 1993, meeting of Donohue's executive committee indicate that there was an intention to resume operations at the valley sawmills [TRANSLATION] "in order to qualify as an active business and thus to enjoy a significant tax benefit".
+
+[15] The amount of $167,625,000 equals the total of $157,625,000 for the pulp mill, $7.5 million for the two shore sawmills and $2.5 million for the two valley sawmills.
+
+[16] Paragraph 109 of the respondent's notes.
+
+[17] Paragraph 114 of the respondent's notes.
+
+[18] 85(5.1) Where a person or a partnership (in this subsection referred to as the "taxpayer") has disposed of any depreciable property of a prescribed class of the taxpayer to a transferee that was
+
+(a) a corporation that, immediately after the disposition, was controlled, directly or indirectly in any manner whatever, by the taxpayer, by the spouse of the taxpayer or by a person, group of persons or partnership by whom or which the taxpayer was controlled, directly or indirectly in any manner whatever,
+
+(b) a person, spouse of a person, member of a group of persons or partnership who or that immediately after the disposition controlled the taxpayer, directly or indirectly in any manner whatever, or
+
+(c) a partnership and, immediately after the disposition, the taxpayer's interest in the partnership as a member thereof is as described in paragraph 97(3.1)(a) or (b),
+
+and the fair market value of the property at the time of the disposition is less than both the cost to the taxpayer of the property and the amount (in this subsection referred to as the "proportionate amount") that is the proportion of the undepreciated capital cost to the taxpayer of all property of that class immediately before the disposition that the fair market value of the property at the time of the disposition is of the fair market value of all property of that class at the time of disposition, the following rules apply:
+
+(d) subsections (1) and (2) and section 97 are not applicable with respect to the disposition,
+
+(e) the lesser of the cost to the taxpayer of the property and the proportionate amount in respect of the property shall be deemed to be the taxpayer's proceeds of disposition and the transferee's cost of the property,
+
+(f) where two or more depreciable properties of a prescribed class of the taxpayer are disposed of at the same time, paragraph (e) applies as if each property so disposed of had been separately disposed of in the order designated by the taxpayer or, if the taxpayer does not so designate any such order, in the order designated by the Minister, and
+
+(g) the cost to the taxpayer of any particular property received by the taxpayer as consideration for the disposition shall be deemed to be an amount equal to the lesser of
+
+(i) the fair market value of the particular property at the time of the disposition, and
+
+(ii) that proportion of the fair market value, at the time of the disposition, of the property disposed of by the taxpayer that
+
+(A) the amount determined under subparagraph (i)
+
+is of
+
+(B) the fair market value, at the time of the disposition, of all properties received by the taxpayer as consideration for the disposition.
+
+[Emphasis added.]
+
+19 In support of this argument, counsel cites the decision of my colleague, Judge Bowie, in OSFC Holdings Ltd v. The Queen, 99 DTC 1044 ([1999] T.C.J. No. 378). As I have no intention of addressing this aspect of the respondent's argument in my analysis, I wish to comment on it here. In my view, that decision does not support the respondent's position. In that case, subsection 18(13) of the Act had been used to enable an insolvent corporation to "sell" a potential tax loss on certain loans to third parties (with whom the corporation was dealing at arm's length). The purpose was clearly inconsistent with the scheme established by the Act, which is intended to permit the transfer of such losses only within the same group of corporations (see paragraphs 58 and 59 of the decision). In the case at bar, as will be seen below, the loss deducted by the taxpayer is its own (or that of the Donohue Group). It is not a loss "purchased" from a third party.
+
+Furthermore, even if it were found that subsection 85(5.1) of the Act was misused (which I need not and will not decide), the consequence would be to cancel the effects of the "tax rollover", which, for DMI 1993 (not DMI), would have the effect of reducing the UCC of the various classes of depreciable property acquired by DMI 1993 and, where applicable, any terminal loss, but would have no effect on the amount of the loss incurred in respect of the shares of DMI. In other words, I fail to see the relevance of any possible misuse of subsection 85(5.1) of the Act for the purposes of DSF's appeal.
+
+[20] The following is the list of those provisions:
+
+Loss from the disposition of depreciable property
+
+Subsection 85(5.1)
+
+Subsection 13(21.2) (after April 26, 1995)
+
+Subsection 13(21.1) - loss from disposition of a building (after April 26, 1995)
+
+Loss from the disposition of capital property
+
+Subsection 85(4) - loss from disposition to controlled corporation
+
+Paragraph 40(2)(e) - loss from disposition to a controlling entity or an entity controlled by a controlling entity
+
+Subsections 40(3.3) and (3.4) - loss from disposition of capital property in the hands of an affiliated person (after April 26, 1995)
+
+Subsection 40(3.6) - loss from disposition of a share to an affiliated corporation (after April 26, 1995)
+
+Loss from the disposition of eligible capital property (ECP)
+
+Subsection 85(4)
+
+Subsection 14(12) (after April 26, 1995)
+
+Loss from the disposition of property to a corporation by a majority interest partner
+
+Subsection 97(3)
+
+Provisions respecting (after April 26, 1995) transfers to partnerships:
+
+subsections 13(21.2), 14(12) and 40(3.3) and (3.4) and paragraph 40(2)(g)
+
+Loss from the disposition of property used in a lending business
+
+Subsection 18(13)
+
+Subsection 18(15) (after April 26, 1995)
+
+Loss from the disposition of property used in a business that is an adventure or concern in the nature of trade
+
+Subsections 18(14) and (15) (after April 26, 1995)
+
+Superficial loss
+
+Subparagraph 40(2)(g)(i)
+
+Loss from the disposition of a debt
+
+Subparagraph 40(2)(g)(ii)
+
+Disposition of an obligation
+
+Paragraph 40(2)(e.1) (after July 12, 1994)
+
+Disposition by a corporation of shares of a controlled corporation
+
+Paragraph 40(2)(h)
+
+Disposition for proceeds less than the FMV to obtain the benefit of a tax deduction on a subsequent disposition
+
+Subsection 69(11)
+
+Refusal to consider a loss a BIL where the ACB has been increased by virtue of the application of subsection 85(4)
+
+Subparagraph 39(1)(c)(v)
+
+[21] Subsection 85(4) reads as follows:
+
+Loss from disposition to controlled corporation. Where a taxpayer or a partnership (in this subsection referred to as the "taxpayer") has disposed of any capital property (other than depreciable property of a prescribed class) of the taxpayer or eligible capital property in respect of a business of the taxpayer in respect of which the taxpayer would, but for this subsection, be permitted a deduction under paragraph 24(1)(a), to a corporation that immediately after the disposition was controlled, directly or indirectly in any manner whatever, by the taxpayer, by the spouse of the taxpayer or by a person or group of persons by whom the taxpayer was controlled, directly or indirectly in any manner whatever, the following rules apply:
+
+(a) notwithstanding any other provision of this Act,
+
+(i) the capital loss therefrom, and
+
+(ii) any deduction under paragraph 24(1)(a) in respect of the business in computing the taxpayer's income for the taxation year in which the taxpayer ceased to carry on the business
+
+shall be deemed to be nil; and
+
+(b) in computing the adjusted cost base to the taxpayer of all shares of any particular class of the capital stock of the corporation owned by him immediately after the disposition, there shall be added, in the case of capital property, the amount that is equal to, and in the case of eligible capital property, 4/3 of the amount that is equal to, that proportion of the amount, if any, by which
+
+(i) the cost amount to him immediately before the disposition of the property so disposed of,
+
+exceeds the total of
+
+(ii) the taxpayer's proceeds of disposition of the property or, where the property was an eligible capital property, the taxpayer's eligible capital amount resulting from the disposition of the property, and
+
+(ii.1) where the property disposed of by the taxpayer was a share of the capital stock of a corporation, the total of all amounts each of which is an amount that, but for paragraph 40(2)(e) and paragraph (a), would be deducted
+
+(A) under subsection 93(2) or 112(3) or (3.2) in computing a loss of the taxpayer from the disposition, or
+
+(B) where the taxpayer is a partnership, by a corporation that is a member of the partnership under subsection 112(3.1) in computing its share of the loss of the partnership from the disposition,
+
+that
+
+(iii) the fair market value, immediately after the disposition, of all shares of that class so owned by him,
+
+is of
+
+(iv) the fair market value, immediately after the disposition, of all shares of the capital stock of the corporation so owned by him.
+
+[22] Paragraph 40(2)(e) provides as follows:
+
+(e) where the taxpayer is a corporation, its loss otherwise determined from the disposition of any property disposed of by it to
+
+(i) a person by whom it was controlled, directly or indirectly in any manner whatever, or
+
+(ii) a corporation that was controlled, directly or indirectly in any manner whatever, by a person described in subparagraph (i),
+
+is nil . . . .
+
+[23] It should be noted that the shares of DMI 1993 are shares of a corporation separate from DMI. In the view of counsel for DSF, those shares are not substituted property.
+
+[24] For an illustration of this rule, see The Queen v. MerBan Capital Corporation Limited, 89 DTC 5404. At page 5409, Iacobucci C.J. wrote:
+
+SEPARATE EXISTENCE
+
+The issue of separate existence of MerBan from its subsidiaries is important because of the basic rule that a taxpayer can deduct only expenses that it incurred to earn its income. If, as counsel for the Minister contends, MerBan is to be treated as a separate legal entity from its subsidiaries, then MerBan has considerable difficulty in arguing that the payment to the Bank was incurred to earn MerBan's income because the source of the income — primarily dividends to be paid on the Kaps shares held by Holdings — was that of its subsidiary, Holdings. Moreover, if the separate existence of the corporations is recognized, then it is also more difficult, as will be discussed later, for MerBan to maintain it can deduct the payments made to the Bank under paragraph 20(1)(c) of the Act because the payments to the Bank were not interest in respect of indebtedness incurred by MerBan in that the money borrowed was effected by MKH not by MerBan.
+
+[25] For another illustration of this double deduction "of a loss", see the decision I recently rendered in Jacques St-Onge Inc., 98-1750(IT)G.
+
+[26] See, for example, sections 52 and 53 of the Act.
+
+[27] In support of this analysis, it would be possible to add the example of the recent collapse in the value of the securities of one of the major Canadian corporations, whose share price fell from $120 to $20 over a six-month period, representing a [TRANSLATION] "$300 billion decline in its market capitalization" (according to Le Devoir, May 3, 2001, p. B1). The collapse occurred in the context of a significant correction in the prices of new-technology and telecommunications securities. In that case, it would in all likelihood be difficult to establish a correlation between the ACB of the shares of that corporation and the ACB of its underlying assets.
+
+[28] This scenario was of course less advantageous for the Donohue Group and Rexfor since DMI would then have increased its losses, which would not have been available to reduce future taxable income.
+
+[29] Subsection 69(5) reads as follows:
+
+(5) Idem. Where in a taxation year of a corporation property of the corporation has been appropriated in any manner whatever to, or for the benefit of, a shareholder, on the winding-up of the corporation, the following rules apply:
+
+(a) for the purpose of computing the corporation's income for the year,
+
+(i) it shall be deemed to have sold each such property immediately before the winding-up and to have received therefor the fair market value thereof at that time, and
+
+(ii) paragraph 40(2)(e) shall not apply in computing the loss, if any, from the sale of any such property;
+
+(b) the shareholder shall be deemed to have acquired the property at a cost equal to its fair market value immediately before the winding-up;
+
+(c) subsections 52(1), (1.1) and (2) are not applicable for the purposes of determining the cost to the shareholder of the property;
+
+(d) subsections 85(4) and (5.1) shall not apply in respect of the winding-up; and
+
+(e) paragraph 40(2)(e) shall not apply in computing the loss, if any, of the shareholder from the disposition of a share of the capital stock of the corporation to the corporation on the winding-up.
+
+[30] Provisions adopted after 1993 should not be taken into account in determining whether the series of transactions resulted, in 1993, in a misuse of the Act read as a whole.
+
+[31] According to the CCH Tax Reporter, paragraph 6065, "The apparent intention of this provision is to prevent capital losses on property other than shares to be converted into an allowable business investment loss by transferring the capital property with an accrued loss to a Canadian-controlled private corporation."
+

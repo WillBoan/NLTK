@@ -1,0 +1,498 @@
+Date: 20011115
+
+Docket: 1999-2166-IT-G
+
+BETWEEN:
+
+JABIN INVESTMENTS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Hamlyn, J.T.C.C.
+
+[1] These are appeals from the Minister of National Revenue's (the "Minister") reassessments for the 1992 and 1993 taxation years where the Minister applied the General Anti-Avoidance Rules section 245 of the Income Tax Act (the "Act").
+
+INTRODUCTORY FACTS
+
+[2] The Minister and the Appellant agree that as of October 1989 the Appellant was indebted to the Bank of Montreal (the "Bank") for a debt in the amount of $2,278,990 (the "Debt"). On October 17, 1990 the Bank sold the Debt to W720 Holdings Ltd. ("W720") for $50,406. W720 was incorporated for the purpose of "parking" the Debt. Between certain shareholders and the Appellant it was understood that the Debt would not be collected, although it would remain legally enforceable. The purpose of transferring the Appellant's indebtedness from the Bank to W720 was to avoid the settlement or extinguishment of the Debt and prevent the application of section 80, as it then read, of the Act, thereby preserving the Appellant's accumulated non-capital losses for future use in reducing its tax payable. In 1992 and 1993 the Appellant deducted non-capital losses in the amounts of $445,037 and $545,695 respectively in computing its taxable income. The Minister issued Notices of Reassessment dated March 27, 1997 for the Appellant's 1992 and 1993 taxation years pursuant to section 245 of the Act, denying the deduction of the non-capital losses.
+
+ISSUES
+
+[3] At issue is whether section 245 of the Act applies to the transfer of the Appellant's Debt from the Bank to W720 such that the tax benefit to the Appellant may be denied. To determine whether section 245 of the Act applies I will examine the following questions:
+
+1. Did the transfer of the Debt from the Bank to W720 result in a tax benefit?
+
+2. What was the primary purpose of the transfer of the Debt from the Bank to W720?
+
+3. Did the transfer of the Debt from the Bank to W720 result in a misuse of any specific provisions of the Act? and
+
+4. Did the transfer of the Debt from the Bank to W720 result in an abuse of the Act read as a whole?
+
+AGREED STATEMENT OF FACTS
+
+[4] At trial the Appellant and the Minister filed and relied on the following agreed facts:
+
+1. The Appellant is a corporation with its registered and records office located at 147 Park Road, Kelowna, British Columbia. The Appellant is in the business of real estate development.
+
+2. In 1982 the Appellant's main creditor, the Bank of Montreal (the "Bank") placed the Appellant into receivership. At that time the Appellant owed the Bank $2.2 million plus accrued interest.
+
+3. The receiver-manager operated the Appellant's business until 1988 at which point the Bank instructed the receiver-manager to sell all remaining land held by the Appellant. The receiver-manager remained in place until September 19, 1990.
+
+4. Prior to April 6, 1988, the sole shareholder of the Appellant was Mr. Walter Leong.
+
+5. As of April 6, 1988, the shares of the Appellant were owned as follows:
+
+a) 51% - Wally Leong
+
+b) 24.5% - Fort Borough Inc., all of the shares of which were owned by Anson Chan, a business associate of Mr. Leong's brother-in-law, Mr. Leon Tuey
+
+c) 24.5% - 342101 Ontario, Ltd., all shares of which are owned by Fay Tuey, Mr. Leong's sister
+
+6. On April 21, 1988 Oracle Investments Ltd. ("Oracle") was incorporated. Its shareholders were as follows:
+
+a) 25% - Canyon Falls Investments Inc., all of the shares of which are owned by Terry Winnick, Mr. Leong's wife
+
+b) 25% - Interval Investments Ltd., (the shares of which are owned 25% by each of Mr. Leong's three Children and 25% by Canyon Falls Investment Inc.
+
+c) 25% - Fort Borough Inc.
+
+d) 25% - 342101 Ontario Ltd.
+
+7. In July 1988, the Appellant transferred its real estate to Oracle, which proceeded over the next years to develop and sell it as part of a joint venture with the Appellant, as referred to in paragraph 17 below.
+
+8. By October 1989 the Appellant was indebted to the Bank in the amount of $2,278,990, of which Mr. Leong had personally guaranteed $1,224,114.
+
+9. By the end of 1989 the Appellant had accumulated large non-capital losses.
+
+10. Beginning in early 1990 Mr. Leong attempted to find a way by which these tax losses of the Appellant could be preserved, it being understood that the party seeking to utilize the losses would acquire the indebtedness of the Appellant from the Bank and that Mr. Leong would be released from his personal guarantee to the Bank.
+
+11. In July of 1990, W720 Holdings Ltd. ("W720") was incorporated in furtherance of Mr. Leong's attempt to find a way to preserve the Appellant's tax losses. Its shareholders were as follows:
+
+a) 25% Fort Borough, Inc.
+
+b) 25% 342101 Ontario Ltd.
+
+c) 50% Terry Winnick
+
+12. W720 was incorporated for the sole purpose of purchasing the Appellant's indebtedness from the Bank and "parking" it. The reference to "parking" the debt means that W720, a corporation having certain shareholders in common with the Appellant, would not attempt to collect any amount owing by the Appellant on the debt although the debt would remain legally enforceable.
+
+13. The efforts of Mr. Leong to find a way in which to utilize the Appellant's tax losses culminated in an agreement entered into on October 17, 1990 (a copy of which is attached as Exhibit A) whereby the Appellant's indebtedness to the Bank was sold for $50,406 to W720.
+
+14. Had the Bank merely forgiven the Appellant's indebtedness, the Appellant's non-capital losses would have no longer been available for future use because the debt would have been "settled or extinguished" within the meaning of section 80 of the Income Tax Act (the "Act").
+
+15. The purpose of transferring the Appellant's indebtedness from the Bank to W720 was to avoid there being a settlement or extinguishment of the debt and thereby to preserve the Appellant's accumulated non-capital losses for future use in reducing its tax payable.
+
+16. Under the agreement of October 17, 1990, Mr. Leong was also relieved of his obligation under his guarantee of the Appellant's indebtedness. As a precondition to releasing Mr. Leong from his guarantee, the Bank required that Mr. Leong provide a statutory declaration setting out his assets and liabilities. In his statutory declaration (appended to the October 17, 1990 agreement) Mr. Leong disclosed assets of $3,000 and liabilities in excess of $2.3 million.
+
+17. By an agreement dated for reference May 15, 1991 but effective as of April 6, 1988 (attached as Exhibit B), the Appellant and Oracle entered into a joint venture for the development of the real estate transferred by the Appellant to Oracle in July 1988. Under the agreement the Appellant was entitled to 75% of the profits from the joint venture. The joint venture had the following profits in the years ended June 30:
+
+1989 $151,784
+
+
+
+1990 $312,823
+
+1991 $545, 873
+
+1992 $1,032,617
+
+18. The Appellant received income from the joint venture of $312,823 in 1991, $445,037 in 1992 and $774,463 in 1993. It purported to deduct non-capital losses of $445,037 in 1992 and $545,695 in 1993 in determining its taxable income.
+
+19. The Appellant has not paid any amount under the debenture to W720. W720 has not taken any steps to collect any amount owing by the Appellant under the debenture and has forgiven all interest on the indebtedness.
+
+20. In reassessing the Appellant, the Minister assumed that section 80 of the Act, as it then read, was inapplicable to the sale of the Appellant's indebtedness by the Bank to W720 Holdings Ltd. and, accordingly, issued reassessments relying wholly on section 245 of the Act.
+
+EVIDENCE AT TRIAL
+
+[5] At the outset, counsel for the Appellant stated that his submissions would focus on the narrow issue of whether or not the sale of the Debt from the Bank to W720 resulted in a misuse of the provisions of the Act or an abuse of the Act taken as a whole.
+
+[6] The Appellant conceded that the transaction in question resulted in a "tax benefit" pursuant to section 245 of the Act. The Appellant chose not to present any argument on the issue of whether or not the sale of the Debt from the Bank to W720 was an avoidance transaction. It was open to the Appellant to argue that the "primary purpose" of the transaction was not to obtain a tax benefit. However, both the Appellant and the Respondent took the opportunity to read in portions of examinations for discoveries that in essence provided evidence to support their positions on the "primary purpose" aspect of the section 245 analysis.
+
+The Appellant read in from the examination for discovery of Mark Marichuk, a Crown officer:
+
+[7] Mr. Marichuk testified that there was no debate that W720 purchased the Debt from the Bank. Further, that there was no argument that the documents transferring the Debt were ineffective or the transaction could be considered a sham. He confirmed that Mr. Leong had a personal guarantee to the Bank in the neighbourhood of $2 million and that as a result of a series of transactions Mr. Leong was absolved of his personal guarantee. Finally, counsel for the Respondent conceded in discovery that the release of a personal guarantee could have a business purpose, and that the Minister was not asserting that there was no business purpose in the present case.
+
+The Minister read in from the examination for discovery of Walter Leong, principle shareholder of the Appellant:
+
+[8] Mr. Leong testified in his examination for discovery that he was authorized to provide answers that were binding on the Appellant in these proceedings. He confirmed that the funds W720 used to purchase the Debt from the Bank came from the joint venture between Oracle and the Appellant. He confirmed that income reported in the Appellant's 1990 tax return from the sale of land was in fact income from the joint venture between Oracle and the Appellant, as all of the Appellant's lands had already been sold to Oracle in 1988. He was unable to confirm whether or not the receiver that had been appointed to manage the Appellant was aware of the joint venture project between Oracle and the Appellant. The Minister sought explanation in the discovery for the discrepancy between the allocation of income shown on the Appellant's financial statements and that called for under the joint venture agreement. During the discovery counsel for the Appellant objected to the relevance of the questions being asked of Mr. Leong. The Minister stated that the evidence sought was relevant to the Appellant's purpose in carrying out the transaction. In response, counsel for the Appellant stated:
+
+We admit the purpose. We admit the purpose in doing the transaction: this was to circumvent the provisions of section 80.
+
+[9] Counsel for the Respondent responded that it was his understanding that the Appellant was also asserting that the purpose of the transaction was to have Mr. Leong released from his personal guarantee to the Bank and that at the time Mr. Leong did not have sufficient funds to obtain a release of his personal guarantee. Counsel for the Respondent stated that the purpose of the questions being posed was to determine whether or not Mr. Leong had funds available to obtain a release of his personal guarantee from the Bank. Counsel for the Appellant offered to obtain answers regarding the discrepancy in the allocation of income shown on the Appellant's financial statement and that called for in the joint venture agreement between Oracle and the Appellant.
+
+[10] During the examination for discovery it was admitted that the Appellant had not made any payments on the Debt to W720 and that no demand for payment had been made.
+
+[11] Mr. Leong stated that he had arranged the sale of the lands from the Appellant to Oracle and that the sale of the lands was his first and only business dealing with his brother-in-law, Leon Tuey and another individual named Anson Chan, that after 1988 when the Appellant had sold its remaining undeveloped land to Oracle, it had no other assets and that under the joint venture agreement it was the Appellant's responsibility to develop the lands and it did in fact develop the lands.
+
+[12] In answer to the question why the Appellant became entitled to a larger share of the income from the joint venture, Mr. Leong responded that the joint venture would be worthless if the lands were not developed and that development of the lands was the responsibility of the Appellant.
+
+The following are answers to the undertakings given by the Appellant which were read in at trial:
+
+[13] The discrepancy in the income reported on the Appellant's tax returns and that called for in the joint venture agreement was explained to be an offset of a previous year's unequal division of income. The Appellant stated that by the end of 1991 the historical allocation of the joint venture income was equal to the allocation called for in the joint venture agreement.
+
+[14] It was admitted that prior to the settlement agreement being entered into the Appellant had received income in excess of $312,000 from the joint venture.
+
+RELEVANT LEGISLATION
+
+Section 245:
+
+245. [General Anti-Avoidance Rule — GAAR] — (1) Definitions — In this section, "tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+"transaction" includes an arrangement or event.
+
+(2) General anti-avoidance provision [GAAR] — Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+(3) Avoidance transaction — An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+(4) Where subsection (2) does not apply — For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+(5) Determination of tax consequences — Without restricting the generality of subsection (2),
+
+(a) any deduction in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+
+(b) any such deduction, any income, loss or other amount or part thereof may be allocated to any person,
+
+(c) the nature of any payment or other amount may be recharacterized, and
+
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+
+Section 80, as it then read:
+
+History for ITA subsection 80(1)
+
+[15] History: Subsection 80(1) was amended by S.C. 1995, c. 21, s. 27(1). For its application, see S.C. 1995, c. 21, s. 27(2), reproduced after section 80.
+
+[16] Subsection 80(1) formerly read:
+
+80. Debtor's gain on settlement of debts —
+
+(1) Where at any time in a taxation year a debt or other obligation of a taxpayer to pay an amount is settled or extinguished after 1971 without any payment by the taxpayer or by the payment of an amount less than the principal amount of the debt or obligation, as the case may be, the amount by which the lesser of the principal amount thereof and the amount for which the obligation was issued by the taxpayer exceeds the amount so paid, if any, shall be applied
+
+(a) to reduce, in the following order, the taxpayer's
+
+(i) non-capital losses,
+
+(i.1) farm losses,
+
+(ii) net capital losses, and
+
+(iii) restricted farm losses,
+
+for preceding taxation years, to the extent of the amount of those losses that would otherwise be deductible in computing the taxpayer's taxable income for the year or a subsequent year, and
+
+(b) to the extent that the excess exceeds the portion thereof required to be applied as provided in paragraph (a), to reduce in prescribed manner the capital cost to the taxpayer of any depreciable property and the adjusted cost base to the taxpayer of any capital property,
+
+unless
+
+(c) the taxpayer is, at that time, a bankrupt within the meaning of section 128,
+
+(d) the debt or obligation was such that
+
+(i) where interest was paid or payable by the taxpayer in respect of it pursuant to a legal obligation, or
+
+(ii) if interest had been paid or payable by the taxpayer in respect of it pursuant to a legal obligation,
+
+no amount in respect of the interest was or would have been deductible under this Part in computing the taxpayer's income if this Act were read without reference to subsections 18(2), (3.1) and (4) and section 21,
+
+(e) section 79 is applicable in respect of the debt or obligation,
+
+(f) the excess is otherwise required to be included in computing the taxpayer's income for the year or a preceding taxation year or to be deducted in computing the capital cost to the taxpayer of any depreciable property, the adjusted cost base to the taxpayer of any capital property or the cost amount to the taxpayer of any other property,
+
+(g) the excess would be deemed by subsection 39(3) to be a capital gain of the taxpayer for the year from the disposition of a capital property if this Act were read without reference to this subsection, or
+
+(h) the debt or obligation is settled or extinguished by way of bequest or inheritance.
+
+RECENT JURISPRUDENCE
+
+[17] In determining whether section 245 of the Act is applicable this Court has reviewed the recent decision of the Federal Court of Appeal in OSFC Holdings Ltd. v. Her Majesty The Queen, [2001] F.C.J. No. 1381 (Q.L.), ("OSFC").
+
+[18] According to Rothstein J.A., speaking for the majority of the Federal Court of Appeal, the proper manner to apply section 245 of the Act is as follows:
+
+1. Determine whether section 245 applies:
+
+To determine whether section 245 of the Act applies you must first look at subsection 245(2), the charging provision. It provides that section 245 will only apply where a tax benefit would result from a transaction that is an "avoidance transaction" or from a "series" of transactions that includes an "avoidance transaction". I will briefly discuss each of these preconditions.
+
+a. Benefit: Whether or not there is a benefit is a question of fact. There are no words in section 245 that express or imply that the person who obtains the "tax benefit" must necessarily have been the person that undertook or arranged the transaction in question, in other words it does not matter who obtained the benefit.
+
+b. Series: A transaction is part of a "series" under subsection 245(2) if:
+
+i. a series of transactions within the common law meaning exists,
+
+ii. the particular transaction is "related" to the common law series; and
+
+iii. the related transaction is completed in contemplation of the series.
+
+The common law definition of a "series of transactions" adopted by the Federal Court of Appeal is found in Furniss v. Dawson, [1984] A.C. 474 (H.L.). At paragraph 24, Rothstein J.A. summarized the test as follows:
+
+... for there to be a series of transactions, each transaction in the series must be pre-ordained to produce a final result. Pre-ordination means that when the first transaction of the series is implemented all the essential features of the subsequent transactions are determined by persons who have a firm intention and ability to implement them. That is, there must be no practical likelihood that the subsequent transaction or transactions will not take place.
+
+This common law definition is broadened by subsection 248(10), which reads:
+
+248(10) For the purposes of this Act, where there is a reference to a series of transactions or events, the series shall be deemed to include any related transactions or events completed in contemplation of the series.
+
+The related transaction does not need to be pre-ordained and there is no restriction on when the transaction needs to be completed. As long as the transaction has some connection with the common law series, it will, if it was completed in contemplation of the common law series, be included in the series by operation of the deeming provision in subsection 248(10).
+
+A related transaction will be considered to be completed in contemplation of the common law series if the parties to the related transaction knew of the common law series, such that it could be said that they took it into account when deciding to complete the related transaction.
+
+c. Avoidance Transaction: Once it is determined that a series of transactions results in a tax benefit, any of the transactions that is part of that series may be found to be an "avoidance transaction". The question is the primary purpose of each of the transactions in the series. If the primary purpose of any transaction is to obtain a tax benefit it is considered an "avoidance transaction". Determining the primary purpose of a transaction is an objective test, assessed at the time the transaction in question was undertaken.
+
+The primary purpose of a transaction will be determined on the facts of each case. Rothstein J.A. stated at paragraph 58:
+
+... I would stress that the primary purpose of a transaction will be determined on the facts of each case. In particular, a comparison of the amount of the estimated "tax benefit" to the estimated business earnings may not be determinative, especially where the estimates of each are close. Further, the nature of the business aspect of the transaction must be carefully considered. The business purpose being primary can not be ruled out simply because the tax benefit is significant.
+
+Once it is determined that there is a tax benefit resulting from an avoidance transaction or from a series of transactions that include an avoidance transaction then section 245 will apply unless, the avoidance transactions does not result in a misuse of a specific provision or an abuse of the Act read as a whole. Subsection 245(4) of the Act is a relieving provision that will prevent the application of section 245 of the Act where it can be shown that the impugned transaction is not a misuse of a particular provision or an abuse of the Act read as a whole.
+
+According to Rothstein J.A., determining whether or not a transaction results in a misuse of a particular provision or an abuse of the Act, read as a whole is a two-step process, he stated at paragraph 67:
+
+Determining whether there has been misuse or abuse is a two-stage analytical process. The first stage involves identifying the relevant policy of the provisions or the Act as a whole. The second is the assessment of the facts to determine whether the avoidance transaction constituted a misuse or abuse having regard to the identified policy.
+
+The inquiry should proceed as follows:
+
+2. Determine whether any of the avoidance transactions result in a misuse or abuse:
+
+a. Whether it may reasonably be considered that an avoidance transaction results in a misuse of a specific provision:
+
+
+
+i. first, determine what the policy of the specific provision is; and
+
+ii. second, assess the facts to determine whether the avoidance transaction constituted a misuse having regard to the identified policy.
+
+b. Whether it may reasonably be considered that any of the avoidance transactions would result in an abuse of the Act?
+
+i. first, determine the relevant policy of the Act as a whole; and
+
+ii. second, assess the facts to determine whether the avoidance transaction constituted an abuse having regard to the identified policy.
+
+Generally the Minister will set out the policy by reference to the provisions of the Act or extrinsic aids. However, ultimately it is a question of interpretation and it is the duty of the Court to determine what the relevant policy is. Once the policy is determined the onus remains on the taxpayer to prove the necessary facts to refute the Minister's assumption of fact that the avoidance transaction in question results in a misuse of a specific provision or an abuse of the Act read as a whole.
+
+If it is found that the avoidance transaction does result in a misuse or abuse of the Act then the tax benefit will be denied under subsection 245(5).
+
+SUBMISSIONS
+
+Appellant:
+
+[19] At the outset of the Appellant's submissions, counsel stated that in light of the recent decision by the Federal Court of Appeal in OSFC, supra the Appellant would be focusing his argument on the issues of whether or not the sale of the Debt from the Bank to W720 resulted in a misuse of any specific provisions of the Act or an abuse of the Act, read as a whole. Counsel contended that in order for the Court to apply section 245 of the Act, the Minister must first show a cogent policy behind the specific provision or the Act read as a whole.
+
+[20] The Appellant conceded that the transaction resulted in a "tax benefit", and further that he was not debating the avoidance transaction issue. Argument was limited to the assertion that the transaction did not result in a misuse of a specific provision or an abuse of the Act read as a whole.
+
+[21] Counsel's argument on the issue of whether the transaction resulted in a misuse was extremely brief. Asserting that since section 80 of the Act, as it read then, did not apply, it was never used and could therefore not have been misused.
+
+[22] The focus of counsel's argument was whether or not the transaction resulted in an abuse of the Act read as a whole. Counsel stated that where borrowed monies are used to purchase property, the Act allows for the cost of that property to be deducted. The purpose behind section 80 of the Act, as it read then, was to disallow deductions related to the cost of property purchased with borrowed funds where the debt associated with the purchase of property was legally forgiven. Counsel pointed out that there is a distinction between the policy behind the pre-1994 section 80 and the post-1994 section 80. Under the new provision the transfer of a debt to a non-arm's length creditor would result in a deemed settlement, however if a debt that was deemed to be settled is subsequently repaid the provision provides relief in the form of a deduction available at the time the debt is repaid. The old provision only applied to legally extinguished debts, and thus there was no relieving provision. Counsel for the Appellant summarized that the relevant policy before 1994 was that for section 80 of the Act to apply there had to be a legal extinguishment.
+
+[23] According to the Appellant the Minister was asserting that although the Debt remained legally enforceable, because it was in the hands of a friendly creditor the economic effect was the same as if it were settled or extinguished. However, ignoring the legal effect of the transaction, the possibility that at some future time a debt may be enforced was overlooked. Counsel submitted that if in the present case W720 went into receivership, the receiver would attempt to collect this legally enforceable Debt.
+
+[24] Counsel submitted that the GAAR analysis should be limited to the examination of the actual transactions, not the economic consequences resulting from the transactions. In support of this principle counsel directed the Court to the words of Bonner T.C.J. in Canadian Pacific Ltd. v. Her Majesty The Queen, 2000 DTC 2428 at page 2431:
+
+[10] At this point I will note that I do not agree with the Respondent's assertion that "issuing the debt in A$ rather than the needed C$ ... converted non-deductible Canadian principal repayments to a deductible expense thereby inflating the cost of borrowing solely for tax purposes". While that statement may be accurate as a condensed description of overall economic effect it is not what happened at all and it is important for purposes of the s. 245 analysis to be clear on what did happen. What the Appellant did was choose to satisfy its need for capital for use in its business by borrowing money. It made a second choice, namely, to achieve its objective by means of a borrowing of A$. That second choice carried with it a burden and a benefit. The burden was the obligation to pay interest on the borrowed money at 16.125%, the market rate for A$ borrowings. That rate was substantially higher than the rate which the Appellant would have been obliged to pay had it borrowed C$ directly. The benefit was the opportunity to engage in a profitable foreign exchange transaction. The Appellant was able to sell for immediate delivery the A$ which it had borrowed. It was able to buy in 1989 for delivery in 1994 the A$ required to retire the debentures at maturity. The difference between the exchange rate applicable to 1989 sales of A$ for immediate delivery and the rate applicable to purchases in 1989 of A$ for delivery in 1994 yielded the Appellant an enormous foreign exchange profit. There can be no doubt that the high interest rate on A$ borrowings was linked to the inflationary conditions which made the A$ delivered in 1994 worth less than the A$ delivered in 1989 but that economic linkage does not support a conclusion that the principal repayments on the debentures were in some way "converted" into a deductible expense. S. 245 does not permit the recharacterization of an event for purposes of determining whether s. 245(2) applies. Recharacterization is permissible under s. 245(5)(c) only where it can be found that s. 245(2) applies on the basis of transactions which have not been subjected to recharacterization.
+
+[25] Counsel submitted that in the present case the Minister was attempting to use section 245 of the Act to retroactively apply the broadened policy, encompassing deemed extinguishments, found in the post-1994 provision. Counsel submitted that attempting to retroactively apply the new section 80 was an improper use of section 245, relying on the words on Bowman, A.C.J.T.C. in Geransky v. The Queen, 2001 DTC 243 where he stated at page 250:
+
+[42] Simply put, using the specific provisions of the Income Tax Act in the course of a commercial transaction, and applying them in accordance with their terms is not a misuse or an abuse. The Income Tax Act is a statute that is remarkable for its specificity and replete with anti-avoidance provisions designed to counteract specific perceived abuses. Where a taxpayer applies those provisions and manages to avoid the pitfalls the Minister cannot say "Because you have avoided the shoals and traps of the Act and have not carried out your commercial transaction in a manner that maximizes your tax, I will use GAAR to fill in any gaps not covered by the multitude of specific anti-avoidance provisions".
+
+[43] That is not what GAAR is all about.
+
+Respondent:
+
+[26] Counsel for the Respondent submitted that the policy behind section 80 of the Act was to deal with the economic substance of debt forgiveness. Counsel submitted that the rationale behind section 80 of the Act can be traced to the recommendations of the Carter Commission, which preceded the tax reform of 1972. Prior to 1972 there was no specific provision dealing with the tax consequences resulting from the forgiveness of debt. In 1966 the Carter Commission recommended that the cancellation or forgiveness of debt should be treated as income. Counsel referred the Court to the following statement of the Commission:
+
+We believe that when a debt is cancelled the debtor has, in effect, received income. For, as the cancellation of liabilities increases a person's net assets, his economic power is increased by the amount of the debt cancelled. Where a debtor who is in business has one or more of his debts cancelled, he has claimed expenses or has recorded assets which in fact will cost him nothing. Income in prior years has, therefore, been understated, and it appears only reasonable to require an offsetting adjustment in the current year. Because as an adjustment will usually only arise when there is a loss, it will serve to reduce the loss rather than to create taxable income. [1]
+
+[27] Counsel conceded that Parliament did not accept the recommendation for a straight income inclusion, but instead accepted the Carter Commission's secondary proposal, which was to reduce the non-capital losses and the capital losses of the taxpayer's property at the time the debt was forgiven. Counsel submitted that this approach still reflected the recognition of an economic gain to a taxpayer on a settlement of debt, that the underlying rationale for section 80 was to determine the tax consequences of the debt relief, whether it was a legal or de facto settlement or extinguishment.
+
+[28] Counsel contended that Parliament did not intend to just address legal extinguishment. On this point counsel referred the Court to the fact that the Carter Commission had initially recommended that the Act address deemed debt forgiveness, where they stated:
+
+The debt should be deemed to be cancelled at the earliest of the following times: the time of acknowledgement of the cancellation of the debt by the debtor; the time the court approved the arrangement under the Bankruptcy Act; or the expiry of the limitation period. (page 535)
+
+[29] Counsel asserted that a debt being deemed extinguished at the expiration of the limitation period would be analogous to the present case, in that it would not be legally extinguished. If a taxpayer made a payment subsequently there would have been no relief under the Act. The fact that Parliament did not provide a relieving provision in section 80 prior to 1994 is not indicative of a policy to only deal with legally extinguished debts. The proposed inclusion of a provision to deem extinguished debts that were statute barred is, according to counsel for the Respondent, indication that Parliament's intention in enacting section 80 was not simply to address legally forgiven debts.
+
+[30] Counsel for the Respondent asserted that in the present case it is clear that the Appellant has an economic gain from the sale of the Debt to W720 because it is admitted in the Agreed Statement of Facts that there would be no attempt to collect the Debt. The Debt, while legally enforceable, has, from an economic perspective, been extinguished.
+
+[31] Counsel for the Respondent stated that the Crown was not attempting to re-characterize the transactions, as was the case in Geransky, supra and Canadian Pacific, supra. Rather, given the intention of the parties in the present case, the transaction on its face amounts to a de facto extinguishment.
+
+[32] Counsel for the Respondent asserted that it was not open for this Court to look at the 1994 amendments to section 80 as illuminating in any way the intention of Parliament with respect to the earlier provision. The Court was referred to United States v. Dynar, [1997] 2 S.C.R. 462 where the Supreme Court of Canada stated at page 484:
+
+What legal commentators call "subsequent legislative history" can cast no light on the intention of the enacting Parliament or Legislature. At most, subsequent enactments reveal the interpretation that the present Parliament places upon the work of a predecessor. And, in matters of legal interpretation, it is the judgment of the courts and not the lawmakers that matters. It is for judges to determine what the intention of the enacting Parliament was...
+
+Moreover, to consult "subsequent legislative history" as an aid to the interpretation of prior enactments would be to give the subsequent enactments retroactive effect; and, as this Court has often observed, statutes are not to be given retroactive effect except in the clearest of cases.
+
+ANALYSIS
+
+[33] Issue 1: Did the transfer of the Debt from the Bank to W720 result in a tax benefit? The Appellant has conceded that the sale of the Debt from the Bank to W720 has resulted in a tax benefit. In any case, given the broad definition ascribed to "tax benefit" in subsection 245(1) of the Act, I would conclude that the preservation of the Appellant's non-capital losses through the sale of the Debt to W720 and the deduction of these non-capital losses in the 1992 and 1993 taxation years was a "tax benefit" within the meaning of section 245 of the Act.
+
+[34] Issue 2: What was the primary purpose of the transfer of the Debt from the Bank to W720? Neither the Appellant nor the Minister presented argument at trial regarding the primary purpose of the sale of the Debt from the Bank to W720. However, both read in evidence from examinations for discoveries, which was relevant to the issue of whether the primary purpose of the transaction was to obtain a tax benefit.
+
+What can be gleaned from the evidence presented is that aside from the preservation of the Appellant's non-capital losses the sale of the Debt from the Bank to W720 resulted in the Appellant's principle shareholder being released from personal guarantees to the Bank on the debt instrument.
+
+Whether the release of the personal guarantee could be considered to be the primary purpose of the transaction need not be dealt with in this decision. Despite presenting evidence that would lead the Court to believe the Appellant would be asserting that the primary purpose of the transaction was to relieve Mr. Leong of his personal guarantee to the Bank, counsel for the Appellant conceded during discovery (exhibit R-2) that the purpose of the transaction was to circumvent section 80 of the Act. Circumventing section 80 of the Act was necessary for the Appellant to preserve its significant non-capital losses. Preservation of these non-capital losses was a "tax benefit", therefore the primary purpose of the transaction was to obtain a tax benefit.
+
+[35] Issue 3: Did the transfer of the Debt from the Bank to W720 result in a misuse of any specific provisions of the Act? On the issue of whether the sale of the Debt from the Bank to W720 resulted in a misuse of a specific provision of the Act, I accept the Appellant's contention that to avoid the application of a specific provision does not result in a misuse. The word "misuse" is defined in the Concise Oxford Dictionary as follows:
+
+misuse v. & n. - v. tr. /misju:z/ 1. use wrongly; apply to the wrong purpose. 2. ill-treat. -n. /mis'ju:s/ wrong or improper use or application.
+
+By "parking" the Debt the Appellant avoided the application of section 80 of the Act, as it read then. Avoiding the application of a specific provision of the Act does not logically fall within the ambit of the word "misuse". It is self-evident that if section 80 was not used it could not be misused.
+
+[36] Issue 4: Did the Transfer of the Debt from the Bank to W720 result in an abuse of the Act read as a whole? While evidence relevant to other aspects of the application of section 245 was filed by consent of the parties, the Court was asked to focus its attention on the misuse and abuse portion of the section 245 analysis. Having determined that the avoidance of a particular section of the Act does not constitute a misuse, the primary question to be resolved in this appeal is whether or not the transaction in question results in an abuse of the Act read as a whole.
+
+[37] In OSFC, supra Rothstein J.A., speaking for the majority of the Federal Court of Appeal, addressed the test to be applied in determining whether there has been an abuse of the Act, stating:
+
+[67] Determining whether there has been misuse or abuse is a two-stage analytical process. The first stage involves identifying the relevant policy of the provisions or the Act as a whole. The second is the assessment of the facts to determine whether the avoidance transaction constituted a misuse or abuse having regard to the identified policy.
+
+[68] Ascertaining the relevant policy is a question of interpretation. As such it is ultimately the duty of the Court to make this determination. There is no onus to be satisfied by either party at this stage of the analysis. However, from a practical perspective, the Minister should do more than simply recite the words of subsection 245(4), and allege that there has been misuse or abuse. The Minister should set out the policy with reference to the provisions of the Act or extrinsic aids upon which he relies. Otherwise he places the taxpayer and the Court in the difficult position of trying to guess the relevant policy at issue. Trying to ascertain the policy of a specific provision or of an Act as a whole, in the case of an Act as complex as the Income Tax Act, is a difficult exercise, particularly when the transaction in question conforms to the letter of the Act. Therefore, the Court requires the assistance of the parties to enable it to reach a correct conclusion. Nonetheless, with or without that assistance, the Court must attempt to determine the relevant policy. Of course, at the next stage, once the policy is determined, the onus remains on the taxpayer to prove the necessary facts to refute the Minister's assumptions of fact that the avoidance transaction in question results in a misuse or an abuse.
+
+[69] It is also necessary to bear in mind the context in which the misuse and abuse analysis is conducted. The avoidance transaction has complied with the letter of the applicable provisions of the Act. Nonetheless, the tax benefit will be denied if there has been a misuse or abuse. This is not an exercise of trying to divine Parliament's intention by using a purposive analysis where the words used in a statute are ambiguous. Rather, it is an invoking of a policy to override the words Parliament has used. I think, therefore, that to deny a tax benefit where there has been strict compliance with the Act, on the grounds that the avoidance transaction constitutes a misuse or abuse, requires that the relevant policy be clear and unambiguous. The Court will proceed cautiously in carrying out the unusual duty imposed upon it under subsection 245(4). The Court must be confident that although the words used by Parliament allow the avoidance transaction, the policy of relevant provisions or the Act as a whole is sufficiently clear that the Court may safely conclude that the use made of the provision or provisions by the taxpayer constituted a misuse or abuse.
+
+[70] In answer to the argument that such an approach will make the GAAR difficult to apply, I would say that where the policy is clear, it will not be difficult to apply. Where the policy is ambiguous, it should be difficult to apply. This is because subsection 245(4) cannot be viewed as an abdication by Parliament of its role as lawmaker in favour of the subjective judgment of the Court or particular judges. In enacting subsection 245(4), Parliament has placed the duty on the Court to ascertain Parliament's policy, as the basis for denying a tax benefit from a transaction that otherwise would meet the requirements of the statute. Where Parliament has not been clear and unambiguous as to its intended policy, the Court cannot make a finding of misuse or abuse, and compliance with the statute must govern.
+
+[38] Both counsel for the Appellant and the Respondent submitted arguments regarding the relevant policy of the Act with respect to the settlement of debts. The Appellant asserted that in order for section 80 of the Act, as it read then, to apply there had to be a legal settlement of the Debt, whereas the Minister stated that the intention of Parliament in enacting section 80 of the Act was to tax the economic gain to a taxpayer that resulted from a debt forgiveness. The Minister's assertion encompassed more than just legally extinguished debts.
+
+[39] I agree with counsel for the Respondent that this is not a case where the Minister has attempted to re-characterize the transactions. Had the Minister argued that section 80 applied, or even that the Debt was legally extinguished, that would amount to a re-characterization of the transaction.
+
+[40] In this case the issue of whether or not there has been an abuse of the Act read as a whole can be resolved by simply determining whether the policy behind section 80 of the Act, as it then read, was to apply tax consequences where a debt was legally forgiven or whether the policy was broader, broad enough to catch de facto extinguishment.
+
+[41] The Minister asserted that the policy behind section 80 could be gleaned from the Carter Commission's report, which preceded the enactment of section 80 in 1972. I accept that the Carter Commission's report, on the whole, was directed at taxing economic effects. The often quoted phrase "a buck is a buck is a buck" is an accurate reflection of the Report's contention that taxes should be allocated based on changes in economic power. However, the sweeping changes proposed by the Carter Commission in 1966 were not adopted by Parliament in the new Income Tax Act that was introduced in 1972.[2] With respect to the Commission's recommendations regarding debt cancellation, Parliament rejected the primary recommendation for a straight income inclusion where a debt was cancelled. Instead, Parliament enacted a mechanical provision that reduced tax pools, such as non-capital losses, where there had been a debt forgiveness. The question remains whether Parliament intended this provision to apply only where there was a legal extinguishment or whether it was intended to apply where a taxpayer obtained an "economic gain" as a result of the debt forgiveness.
+
+[42] Even if it is accepted that Parliament's intention can be determined from the Carter Commission's recommendations, I would surmise that the Commission itself only intended the specific provisions to apply where there was a legally forgiven debt. At page 528 of the Commission's report they state:
+
+Cancellation of a debt occurs when there is no longer any legal obligation binding upon a debtor to pay all or some part of his debts. Examples are court-approved or voluntary arrangements by which a liability is reduced or cancelled or the involuntary cancellation that occurs by the operation of the Statute of the Limitations under which the right to enforce collection is lost.
+
+The Commission went on to acknowledge that there was a problem in determining when a debt was cancelled, stating at pages 529-530:
+
+There is a problem in determining when cancellation should give rise to a deemed receipt of income. Cancellation of a debt usually requires some overt act on the part of the creditor. Debts may, however, become unenforceable by reason of the Statute of Limitations. We believe it reasonable to deem that income has arisen upon the expiry of the limitation period. Therefore income should arise at the earliest of: the time of the acknowledgement of the cancellation of the debt by the debtor; the time the court approved an arrangement under the Bankruptcy Act; or the expiry of the limitation period. It should be noted that, because the limitation period does not bar the right but only the remedy, it would not prevent collection unless specifically pleaded in the action to collect the debt. Furthermore, the limitation might cease to apply because of a subsequent acknowledgment of the debt or part payment by the debtor. Nevertheless, because the limitation period is fixed, we think that it should be the latest time to which the recording of income should be deferred by the debtor. In any case, whenever the debtor pays an amount which he had previously included in income on the ground that his indebtedness to pay the amount was cancelled, he should be allowed a deduction from income. This should effectively prevent any hardship arising from the inclusion in income of the cancelled debt
+
+[43] Here the Commission was recommending a deemed extinguishment of debts under a given set of circumstances. This indicates that where the Commission refers to "cancelled", they are referring to legally cancelled debts. It is noted that these deemed cancellations were not adopted by Parliament in the 1972 reforms. Neither was the Commission's recommendation to allow for a deduction in the event that a taxpayer later paid a debt that had previously been included in income by operation of a deemed cancellation. The exclusion of a relieving provision indicates that when Parliament enacted section 80 in 1972, they intended that it would only apply to legally extinguished debts, as such a relieving provision was not necessary.
+
+[44] While it is not open to the Court to look at the amendments made to section 80 in 1995 to interpret the intention of the Parliament in 1972, because this would merely reveal the interpretation that the Parliament of 1995 placed upon the work of its predecessor. It is open to this Court to draw logical inferences both from what was and what was not included in the legislation in determining Parliament's intention. Counsel for the Appellant's lengthy submissions on the distinction between the policy behind the pre-1994 section 80 and the post-1994 section 80 directed that in not providing a relieving provision in the earlier legislation it is logical to infer that Parliament only intended the provision to apply to legally extinguished debts. I accept this inference, and note that where the Carter Commission refers to "deemed extinguishments", they too would have provided a relieving provision. It is logical that if Parliament in 1972 had chosen to tax the broad economic gain, they would have provided a relieving provision.
+
+[45] I also accept the argument that although at the present time the Debt is not being enforced, it is possible in the future the Debt could be collected; as long as the Debt remains legally enforceable, a change in the control of W720 or the appointment of a receiver could result in the Debt being enforced.
+
+CONCLUSION
+
+[46] I conclude that from 1972 through 1994, when the major revisions to section 80 of the Act took effect, the policy intended by Parliament was to impose tax consequences where a debt was legally extinguished. In the present case:
+
+(i) the transfer of the Debt from the Bank to W720 did result in a tax benefit;
+
+(ii) the primary purpose of the transfer was to obtain a tax benefit;
+
+(iii) the "parking" of the Debt avoided the application of section 80, therefore section 80 was not being used, it was not therefore misused; and
+
+(iv) the Debt in question was not legally extinguished and the policy behind the Act with respect to settlement of debts has not been abused. Therefore, the transfer of the Debt from the Bank to W720 does not result in an abuse of the Act, so as to invoke the application of section 245 of the Act.
+
+DECISION
+
+[47] From the foregoing the appeals are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the application of section 245 of the Act does not apply to the transfer of the debt in issue .
+
+[48] The Appellant is entitled to costs.
+
+Signed at Ottawa, Canada, this 15th day of November 2001.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-2166(IT)G
+
+STYLE OF CAUSE: Jabin Investments Ltd. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: September 17, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge D. Hamlyn
+
+DATE OF JUDGMENT: November 15, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Warren J.A. Mitchell, Q.C.,
+
+Douglas H. Mathew, Terry Gill
+
+Counsel for the Respondent: Robert Carvalho, Brent Paris,
+
+Eric A. Douglas
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Warren J.A. Mitchell, Q.C.,
+
+Douglas H. Mathew, Terry Gill
+
+Firm: Thorsteinssons
+
+Vancouver, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-2166(IT)G
+
+BETWEEN:
+
+JABIN INVESTMENTS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on September 17, 2001 at Vancouver, British Columbia, by
+
+the Honourable Judge D. Hamlyn
+
+Appearances
+
+Counsel for the Appellant: Warren J.A. Mitchell, Q.C., Douglas H. Mathew, Terry Gill
+
+Counsel for the Respondent: Robert Carvalho, Brent Paris,
+
+Eric A. Douglas
+
+JUDGMENT
+
+The appeals from the assessments made under the Income Tax Act (the "Act") for the 1992 and 1993 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the transfer of the transaction in question does not result in an abuse of the Act read as a whole such as to invoke the application of section 245 of the Act.
+
+The Appellant is entitled to costs.
+
+Signed at Ottawa, Canada, this 15th day of November 2001.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+[1] Canada, Report of the Royal Commission on Taxation, vol. 3 (Ottawa Queen's Printer, 1966), p. 529.
+
+[2] The Quest for Tax Reform, W. Neil Brooks, Carswell, 1988, containing article by Anthony F. Sheppard citing The Hon. E.J. Benson, Minister of Finance, Proposals for Tax Reform (Ottawa: Queen's Printer, 1969):
+
+(e) Tax Reform, 1972: Meeting Carter Less Than Half-Way
+
+Responding to the Carter Report, the federal Liberal government issued a White Paper rejecting both the full inclusion of capital gains in income and the comprehensive tax base as a goal of tax reform:
+
+The government rejects the proposition that every increase in economic power, no matter what its source, should be treated the same for tax purposes. This proposition, put forward forcefully by the Royal Commission on Taxation, has often been summarized rather inelegantly as "a buck is a buck is a buck." But although the government does not accept this theory in all its splendid simplicity, neither does it believe that the distinction between a so-called "capital gain" and an income receipt is either great enough or clear enough to warrant the tremendous difference between being completely exempt and being completely taxable.
+

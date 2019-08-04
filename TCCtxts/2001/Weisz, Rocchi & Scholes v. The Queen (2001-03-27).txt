@@ -1,0 +1,118 @@
+Date: 20010327
+
+Docket: 2000-4221-IT-I
+
+BETWEEN:
+
+WEISZ, ROCCHI & SCHOLES,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] In this appeal the law firm of Weisz Rocchi & Scholes challenges an assessment whereby the Minister of National Revenue has imposed a penalty of $745.29 under subsection 227(9) of the Income Tax Act based upon an alleged late remittance of payroll source deductions in the amount of $7,952.90.
+
+[2] Subsection 227(9) of the Act reads:
+
+Subject to subsection (9.5), every person who in a calendar year has failed to remit or pay as and when required by this Act or a regulation an amount deducted or withheld as required by this Act or a regulation or an amount of tax that the person is, by section 116 or by a regulation made under subsection 215(4), required to pay is liable to a penalty of
+
+(a) 10% of that amount; or
+
+(b) where at the time of the failure a penalty under this subsection was payable by the person in respect of an amount that should have been remitted or paid during the year and the failure was made knowingly or under circumstances amounting to gross negligence, 20% of that amount.
+
+[3] This obligation to deduct and withhold prescribed amounts from salary, wages or remuneration and to remit such amounts to the Receiver General at prescribed times is found in subsection 153(1) of the Act and section 108 of the Regulations. The appellant is not a prescribed person for the purposes of section 153 and therefore was not required to make the remittance to a financial institution.
+
+[4] There is no need to reproduce section 153 of the Act or section 108 of the Regulations. It is sufficient to say that the due date for making the November 1999 remittance was December 15, 1999.
+
+[5] Subsection 248(7) reads:
+
+For the purposes of this Act,
+
+(a) anything (other than a remittance or payment described in paragraph (b)) sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed; and
+
+(b) the remittance or payment of an amount
+
+(i) deducted or withheld, or
+
+(ii) payable by a corporation,
+
+as required by this Act or a regulation shall be deemed to have been made on the day on which it is received by the Receiver General.
+
+[6] The remittance of payroll deductions with which we are concerned here falls under paragraph (b) of that provision.
+
+[7] It is admitted that the remittance was mailed to the CCRA on December 8, 1999 in the window envelope together with a self-addressed remittance stub provided by the CCRA. The address was
+
+Revenue Canada
+
+875 Heron Rd
+
+Ottawa ON K1A 1B1
+
+[8] This is the practice that had been followed for 20 years by the appellant and this is the first time a penalty has been imposed.
+
+[9] The respondent alleges that the payment was not received until December 20, 1999, five days after the date required by section 108 of the Regulations.
+
+[10] The only evidence I have is the deposit stamp on the back of the cheque indicating that the cheque was deposited to the government's bank account on December 21, 1999.
+
+[11] The respondent has pleaded that the Minister made an assumption of fact that
+
+the Appellant submitted the source deductions withheld in respect of November 1999 late on December 21, 1999.
+
+This was corrected at trial to December 20.
+
+[12] In fact the payment was submitted on December 8, 1999. I presume that the wording in paragraph 248(7)(b) is the basis of the allegation.
+
+[13] The pleading of such an assumption is in my view insufficient to justify the imposition of the penalty. I say this for several reasons. In the first place there is no evidence before me of the date of receipt. The cheque and the remittance form have no stamp on them indicating when they were received. Ms. Fletcher, an employee of CCRA in the Hamilton District office, testified that the practice in the Hamilton office was to date stamp material when it was received. I accept what she says with respect to the practice in Hamilton, but this tells me nothing about the practice in Ottawa.
+
+[14] Second, the onus is upon the respondent to justify the penalty. Ever since the case of Johnston v. Canada, [1948] S.C.R. 486, the practice has been to plead "assumptions" upon which the Minister based his assessment of tax. The premise upon which Rand J. based his well-known observation goes back to well before Johnston, to Anderson Logging Co. v. British Columbia, [1925] S.C.R. 45, where the onus was put on a taxpayer challenging an assessment because the taxpayer is presumed to have a much better knowledge of the facts than the Minister.
+
+[15] If that is the justification for putting the onus upon the taxpayer in income tax appeals, where the amount of tax is in issue, it is not a justification where the Minister imposes a penalty.
+
+[16] It is contrary to the most fundamental precepts of the law and of ordinary procedural fairness that a government should be entitled to impose a penalty and then sit back and say to a subject: "Show why you should not be penalized". It is particularly indefensible where the facts upon which the penalty is imposed — in this case the alleged late receipt of a remittance — are entirely within the Minister's possession. If the onus is cast upon the taxpayer to prove timely receipt how could he or she ever satisfy it?
+
+[17] The Act contains a large array of evidentiary provisions, of which subsection 248(7) is only one example, which stack the cards unfairly in favour of the Crown. For example in The Queen v. Schafer, 2000 DTC 6542, the Federal Court of Appeal held that a taxpayer's time for objecting to an assessment started to run when the notice of assessment was sent, even though the taxpayer did not receive the notice and knew nothing about it. I see no reason for adding to an already onerous evidentiary régime.
+
+[18] Here the Crown has simply not proved the late receipt of the remittance.
+
+[19] In 897366 Ontario Ltd. v. R., [2000] G.S.T.C. 13, I held that in GST cases the onus was on the Crown to establish the ingredients justifying the penalty even though unlike the Income Tax Act the onus is not specifically imposed on the Crown. At pages 13-5 and 13-6 I said:
+
+13 The penalty of $12,585.98 is imposed under section 285. This requires that an omission or false statement in a return be made knowingly or in circumstances amounting to gross negligence. The onus is upon the Crown to establish these elements and this the Crown has failed completely to do. Subsection 163(3) of the Income Tax Act specifically places the burden of proof on the Crown in appeals from penalties imposed under subsection 163(2). There is no provision in the Excise Tax Act that corresponds to subsection 163(3) with respect to section 285 penalties, although the wording in section 285 is virtually identical to that in subsection 163(2). It would be a remarkable result if the onus of proof lay on the Crown in one case and on the taxpayers in another. In A. Pashovitz v. Minister of National Revenue, [1961] C.T.C. 288, 61 D.T.C. 1167, (Can.Ex.Ct.) Thurlow J. held that in an appeal under old section 51A which imposed a penalty for wilfully ... evading or attempting to evade tax payable..., since the penalty is "civil", the onus lay on the taxpayer. Such a conclusion is surprising, even by 1961 standards. Thurlow J.'s conclusion is based solely on the observations of Rand J. and Kellock J. in Johnston v. Minister of National Revenue, [1948] S.C.R. 486 (S.C.C.). That case is, of course, the leading case on onus of proof in appeals from assessments of tax. It is silent on the onus where penalties are involved. Thurlow J. observed the proceedings relating to penalty are of a civil nature, but he could "see no sufficient reason for making any distinction as to the onus of proof..." [between appeals from assessments of tax and assessment of penalties.] Well, I can see plenty of reasons for making such a distinction. If someone not only accuses me of the reprehensible and indeed criminal act of tax evasion but also seeks to punish me for it I would expect my accuser to substantiate the allegation regardless of how many mollifying epithets, such as "civil" or "administrative" are used to cushion the blow. A punishment for dishonest or reckless behaviour is still a punishment. The same is true of a penalty imposed to punish conduct described in section 285 of the Excise Tax Act. It appears axiomatic that where a government imposes a penalty upon a subject for conduct in which a necessary ingredient is mens rea of intent or recklessness, it is incumbent upon that government to justify its action.
+
+14 I am fortified in my view that in an appeal from a penalty under section 285, the onus is on the Minister to establish the elements justifying the penalty by a decision of Rip J. in Alex Excavating Inc. v. R., [1995] G.S.T.C. 57 (T.C.C.) at page 57-13:
+
+The question whether the Crown had the burden of establishing the facts justifying the assessment of the s. 285 penalty was not raised at trial. Counsel for the respondent produced Mrs. Dickson to give evidence establishing the facts justifying the penalty. Counsel was correct in doing so.
+
+Both the Excise Tax Act and the Income Tax Act were enacted to raise revenue for the Government of Canada. They are not strictly speaking different statutes in pari materia since the taxes are different. However, s. 285 of the Act and subsec. 163(2) of the ITA both touch on the same subject, that is, penalizing a person who knowingly, or under circumstances amounting to gross negligence, in the carrying out of a statutory duty, makes a false statement in a return from which a tax is calculated. The language of s. 285 and subsec. 163(2) of the ITA are similar and they target the same mischief. I cannot imagine that in this situation Parliament intended that the Minister have the burden of establishing the facts justifying a penalty assessed by the Income Tax Act and shift the burden of establishing the facts vacating the penalty on the taxpayer in the Excise Tax Act. It is implicit in s. 285 that the burden of establishing the facts justifying the assessment of the penalty issued pursuant to that section is on the Minister.
+
+(footnotes omitted)
+
+15 I am in complete and respectful agreement with the observations of Rip J.
+
+16 Further support for this position is found in the statement of Robertson J.A. in Consolidated Canadian Contractors Inc. v. R., (F.C.A.), [1998] G.S.T.C. 91 (Fed.C.A.) at page 91-16 where he said:
+
+[50] In my view, the Minister's argument is really two-sided. First, it suggests that the aforementioned provisions demonstrate Parliament's intention to establish absolute liability with respect to the penalty provision in s. 280. This is a reasonable inference which assists the Minister in discharging his onus to rebut the presumption in favour of strict liability: see Nassau Walnut Investments, supra, at p.299. But it is not dispositive of the issue. I say this because ss. 285, 323 and 327 are distinguishable on the basis that they place a duty on the Minister to establish that a registrant's conduct falls within those provisions. By contrast, an implied due diligence defence with respect to s. 280 places the onus on the registrant to establish that he or she had exercised reasonable care in remitting the correct amount of GST. With respect to s. 323, it does not necessarily follow that because an Act expressly provides for a defence in one instance, it is not available in others: see Nassau Walnut, supra.
+
+(emphasis added)
+
+[20] Here we are not dealing with reprehensible conduct but we are dealing with the imposition of a punishment. Nonetheless the principle is the same. If the state seeks to punish a subject the state should justify its action.
+
+[21] I need not deal with the point that in cases of late remittance there may be available a defence of due diligence as in Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, as confirmed in the Federal Court of Appeal in Consolidated Cdn. Contractors v. Canada [1998] G.S.T.C. 91.
+
+[22] Whether that defence is available in cases of late remittance is a matter for another day. Certainly had it been necessary for me to consider the point I would have found due diligence. Here, however, it is sufficient for me to base my decision on the failure of the Crown to establish late receipt.
+
+[23] The appeal is allowed with costs and the assessment of the penalty is vacated.
+
+Signed at Ottawa, Canada, this 27th day of March 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

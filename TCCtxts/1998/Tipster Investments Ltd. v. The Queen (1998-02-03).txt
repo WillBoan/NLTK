@@ -1,0 +1,278 @@
+Date: 19980203
+
+Docket: 96-3721-IT-I
+
+BETWEEN:
+
+TIPSTER INVESTMENTS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Sarchuk, J.T.C.C.
+
+[1] This is an appeal by Tipster Investments Ltd. (Tipster) from assessment no. 8649272 dated February 8, 1995.
+
+[2] The essential facts are not in dispute. Tipster is a Canadian-controlled private corporation. At all relevant times, Gordon F. Roper (Roper) was its President, sole shareholder and director. In its T2 corporate income tax return for the fiscal year ending December 30, 1991, Tipster claimed and was allowed an allowable business investment loss (ABIL) in the amount of $10,540.12. This amount was based on a business investment loss (BIL) in the amount of $14,053.50 calculated pursuant to subsection 38(c) of the Income Tax Act (the Act) as follows:
+
+Business Investment Loss (BIL) $14,053.50
+
+x .75
+
+Allowable Business Investment Loss $10,540.12
+
+The difference being $3,513 (rounded off)[1] represents the non-allowable portion of the business investment loss.
+
+[3] On December 28, 1993, by the resolution of the director, Tipster declared a capital dividend[2] payable in the amount of $45,543.95 on December 30, 1993 on its Class A common shares, representing the balance of its capital dividend account. In accordance with the requirements of the Act, Tipster filed with the Minister of National Revenue (the Minister), a T2054 - Election in Respect of a Capital Dividend under subsection 83(2), a certified copy of the resolution, and a schedule illustrating the computation of Tipster’s capital dividend account.[3]
+
+[4] The Respondent and the Appellant do not disagree with respect to the items which form the balance of the capital dividend account (CDA) on December 30, 1993. However, it is the Respondent’s position that the 1991 non-ABIL amount should have been subtracted from that balance.[4] Failure to do so meant that the capital dividend declared by Tipster was greater than its CDA balance in the amount of $3,512.83. Accordingly, the Minister assessed net federal tax in the amount of $2,634.62 calculated pursuant to subsection 184(2) of the Act as the excess amount of the dividend declared subject to Part III tax.
+
+[5] It is Tipster’s position that the capital dividend which it declared equals the balance of its CDA on December 30, 1993, thus, there was no excess amount subject to Part III tax. This submission is based on its interpretation of the definitions of business investment loss and capital dividend account which is that:
+
+The Act clearly excludes a ‘business investment loss’ (as defined in paragraph 39(1)(c) of the Act) from a ‘capital loss’ (as defined in paragraph 39(1)(b) of the Act). The ‘capital dividend account’ as defined in subsection 89(1) of the Act makes no reference to a ‘business investment loss’ or paragraph 39(1)(c).
+
+[6] Tipster’s representative argues inter alia that:
+
+Based on the principle that in reading a statute, one must presume that each word, phrase, clause and subsection has been drafted deliberately in order to produce a particular result (Qit-Fer et Titane Inc. v. Canada (1992) 1 CTC 39, and (1996) 2 CTC 30 FCA), and in view of the extensive detail of the definition of the capital dividend account in subsection 89(1), one can presume that Parliament deliberately excluded any reference to business investment loss from the capital dividend account definition.[5]
+
+... Paragraph 39(1)(c) contains a definition of business investment loss which specifically carves out from capital loss as defined in 39(1)(b) a loss arising in certain specified circumstances. Accordingly, considering the entirety of section 39, it is clear that a capital loss does not include a business investment loss.[6]
+
+... Paragraph 39(1)(c) carves out a business investment loss from a capital loss; there is no similar carve-out of an allowable business investment loss from an allowable capital loss. In order for section 38 to operate correctly, a capital loss must be determined after considering section 39 in its entirety i.e. after carving out a business investments loss.[7]
+
+... the Appellant’s position is that the ‘carving out’ of a ‘business investment loss’ from a ‘capital loss’ that occurs in section 39 is permanent.[8]
+
+and submits that the interpretation advanced is consistent with the modern interpretative rules of tax law[9] and supports the conclusion that the definition of capital loss in subsection 248(1) and section 39 excludes a BIL with the result that a BIL has no bearing on the calculation of the CDA.
+
+[7] The Respondent’s position is that a BIL is a capital loss and therefore must be considered in the calculation of the Appellant’s CDA (defined by subsection 89(1) of the Act). With respect thereto, the Respondent submits the following:
+
+The BIL must first qualify as a capital loss (“in order to qualify within paragraph 39(1)(c) [definition of BIL] you must also come under paragraph 39(1)(b) [definition of capital loss]”) and is not excluded from the definition of a capital loss.
+
+The definition of “capital dividend account” in subsection 89(1) does not specifically refer to BIL’s but does refer to the amount of the capital loss of the corporation realized in that period exceeding the total of the part of the capital loss above that is the corporation’s allowable capital loss.
+
+An ABIL is not like an ordinary allowable capital loss. An ABIL can be deducted from all sources of income. The unused portion of the ABIL can be carried forward 7 years and carried back 3 years. If the ABIL has not been used after 7 years, it is carried forward indefinitely as a net capital loss.[10]
+
+The purpose of the BIL scheme was to encourage small business corporation investment by giving such losses more generous tax treatments than for ordinary capital losses.
+
+The CDA keeps track of “various tax-free surpluses accumulated by private corporations”. These surpluses can be distributed as tax-free dividends to Canadian resident shareholders.
+
+The rules for determining the balance in the CDA are set out in subsection 89(1) of the Act. The CDA is calculated (in part) by subtracting the amount of the non-allowable portion (25%) of capital losses from the amount of the non-taxable portion (25%) of the capital gains.
+
+Since an ABIL is a capital loss, a non-ABIL is a non-allowable capital loss which must be subtracted from the non-taxable portion of the capital gains. Therefore, Tipster’s non-ABIL of $3,513.00 of December 30, 1991 must be included in the calculation to decrease Tipster’s CDA balance of December 30, 1993. Furthermore, the Respondent’s contends that the capital dividend declared in the amount of $45,543.95 was in excess of the balance of the CDA on December 29, 1993 in the amount of $3,512.83. Accordingly, the Respondent’s properly calculated the Part III tax in the amount of $2,634.62 (75% of the excess).
+
+Conclusion
+
+[8] The submissions made on behalf of Tipster are based on the premise that a proper reading of section 39 of the Act establishes that “a capital loss does not include a business investment loss”. This premise is not correct. Considering the provisions of sections 38 and 39 in the context of the statute, its objective and legislative intent, it is evident that a BIL is not “carved out” from the definition of a capital loss for all purposes of the Act by paragraph 39(1)(c) as contended. The legislation in issue is clear that in order to qualify as a BIL an amount must first be a capital loss. If a transaction does not give rise to a capital loss, or if a capital loss is deemed to be nil, for example pursuant to paragraph 40(2)(g) of the Act, no BIL can result. Paragraph 39(1)(c) does nothing more than create a subcategory of a capital loss for certain types of property with the specific intention of encouraging investment in small business corporations by giving such losses more generous tax treatment than that available for ordinary capital losses.[11]
+
+[9] I turn next to subsection 89(1) of the Act. Capital gains are only partially taxable. Only 75% of capital gains are included in income as taxable capital gains and only 75% of capital losses are allowed as a deduction from taxable capital gains. The non-taxable portion of such capital gains goes into an account called the capital dividend account. The purpose of the CDA is to account for this non-taxable portion of a corporation’s value. As contrasted to other types, a dividend paid out of the CDA is tax-free to its Canadian resident shareholders. Such capital dividend may not exceed the corporation’s CDA immediately before the dividend becomes payable pursuant to paragraph 83(2)(a) of the Act. This restriction exists because the CDA is a notional account which represents the amount of the corporation’s tax free value.
+
+[10] Applying the Appellant’s interpretation to the facts in this case would negate the purpose of the CDA provisions in the Act because the disposition of certain types of property which result in a non-ABIL would not be represented in the balance of the CDA. However, the CDA formula was specifically drafted to include the non-allowable portion of all types of capital losses to reduce the amount of a corporation’s non-taxable value. If the non-allowable portion was excluded from the calculation of the CDA as the Appellant appears to suggest, how would this portion of the loss be taken into account with respect to the corporation’s overall tax-free value? For the purposes of the CDA, calculation losses which fall within the definition of a BIL are not distinguishable from other losses.
+
+[11] With respect to the submission made on behalf of Tipster regarding the legislative intent underlying sections 38 and 39, I observe only that no identification or elaboration has been made of what Tipster perceives to be the purpose or objective of the relevant provisions. While Notre-Dame de Bon-Secours[12] clearly states that in interpreting tax statutes the ordinary rules of interpretation are to be followed that is to be done within the context of the statute and its legislative intent. The inclusion of the amount of the non-ABIL in the calculation of the balance of the CDA is in accordance with the purpose of the CDA notional account and is not in conflict with the purpose of the BIL scheme (which concerns the application of an ABIL to all types of income). As was observed by Counsel for the Respondent, the rules for determining the balance in the CDA are specifically set out in subsection 89(1) of the Act which provides that the CDA is calculated (in part) by subtracting the amount of the non-allowable portion (25%) of capital losses from the amount of the non-taxable portion (25%) of the capital gains. Contrary to the Appellant’s position, in order to subtract the non-ABIL from the balance of the CDA, it was unnecessary for the drafters to specifically refer to either an ABIL or a BIL. The inclusion of capital losses and allowable capital losses in the CDA definition is sufficient. In my view, the Respondent’s assessment is consistent with the object and purpose of the relevant sections. The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 3rd day of February, 1998.
+
+"A.A. Sarchuk"
+
+J.T.C.C.
+
+SCHEDULE “A
+
+Tipster Investments Ltd.
+
+Capital Dividend Account: December 30, 1993
+
+# shares
+
+P.O.D.
+
+ACB
+
+Gain (loss)
+
+Southernera Res. Ltd.
+
+5,000.00
+
+25,750.00
+
+7,635.00
+
+18,115.00
+
+Truax Res. Corp.
+
+20,000.00
+
+15,760.50
+
+10,000.00
+
+5,760.50
+
+Paloma Petroleum Ltd.
+
+5,000.00
+
+29,500.00
+
+19,600.00
+
+9,900.00
+
+Alberta Energy Co. Ltd.
+
+2,000.00
+
+20,300.00
+
+19,000.00
+
+1,300.00
+
+Dangerfield Resources Inc.
+
+10,000.00
+
+11,661.00
+
+11,098.66
+
+562.34
+
+Saxon Petroleum Ltd.
+
+Dorset Exploration Ltd.
+
+Pipestone Petes Inc.
+
+Oiltec Resources Ltd.
+
+Atcor Resources Ltd. CIA
+
+30,000.00
+
+8,000.00
+
+10,000.00
+
+1,000.00
+
+3,030.00
+
+11,200.00
+
+127,185.00
+
+7,477.10
+
+1,237.72
+
+14,716.10
+
+10,798.50
+
+53,000.00
+
+10,220.00
+
+1,000.00
+
+11,710.00
+
+401.50
+
+74,185.00
+
+(2,742.90)
+
+237.72
+
+3,006.10
+
+Vero Resources Ltd.
+
+Paragon Petroleum Corp.
+
+Clarinet Resources Ltd.
+
+Non-taxable 25%
+
+CDA dividend received 289872 Alberta Ltd. - June 7, 1993[13]
+
+Carry forward from 1992 and previous years
+
+Balance December 30, 1993
+
+10,000.00
+
+5,000.00
+
+50,000.00
+
+37,660.00
+
+15,796.25
+
+18,057.00
+
+18,130.00
+
+1.00
+
+1.00
+
+19,530.00
+
+15,795.25
+
+18,056.00
+
+164,106.51
+
+41,026.62
+
+2,739.00
+
+$1,778.33
+
+$45,543.95
+
+[1] The precise amount of the non-allowable ABIL varies in the Minister’s pleadings due to rounding of the figures. This lack of precision leads to minor variations in the Minister’s calculations.
+
+[2] Capital dividend is defined by subsection 83(2) of the Act.
+
+[3] Tipster’s calculation is found at Schedule 1 attached to the Reply to the Notice of Appeal, a copy of which is appended hereto as Schedule “A”.
+
+[4] According to the Minister, the proper balance of the CDA on December 30, 1993 is $42,031.12.
+
+[5] Paragraph 1, page 2 of the Written Submission of the Appellant.
+
+[6] Ibid, paragraph 3.
+
+[7] Ibid, paragraph 6.
+
+[8] Paragraph 1, page 1, Response of the Appellant to the Written Submissions of the Respondent.
+
+[9] Corporation Notre-Dame de Bon-Secours v. Commaunauté Urbaine de Quebec and City of Quebec, Bureau de Revision de l’Evaluation Fonciere du Quebec and the Attorney General of Quebec, 95 DTC 5017 (S.C.C.).
+
+[10] This rule is found in the definition of “net capital loss” in subsection 111(8) of the Act.
+
+[11] Interpretation Bulletin IT-484R2. This bulletin correctly describes a BIL as:
+
+... basically a capital loss from a disposition to which subsection 50(1) applies, or to an arm’s length person, of shares or debt of a small business corporation. Three-quarters of this loss is an allowable business investment loss.
+
+Unlike ordinary allowable capital losses, an allowable business investment loss for a taxation year may be deducted from all sources of income for that year. Generally, an allowable business investment loss that cannot be deducted in the year it arises is treated as a non-capital loss which may be carried back three years and forward seven years to be deducted in calculating taxable income of such other years. Any such loss that is not deducted by the end of the seven-year carry-forward period is then treated as a net capital loss so that it can be carried forward indefinitely to be deducted against taxable capital gains.
+
+Ordinary allowable capital losses for a taxation year may be deducted only from taxable capital gains realized in the year. If the allowable capital losses exceed the taxable capital gains, the difference is a net capital loss which may be carried back three years and forward indefinitely to be deducted only against taxable capital gains.
+
+[12] supra.
+
+[13] 100% non-taxable.
+

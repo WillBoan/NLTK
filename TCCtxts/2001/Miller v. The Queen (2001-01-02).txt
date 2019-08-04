@@ -1,0 +1,394 @@
+Date: 20010102
+
+Docket: 97-1632-IT-G; 97-1633-IT-G
+
+BETWEEN:
+
+RONALD JAMES MILLER, R.J. MILLER & ASSOCIATES (1986) LTD.,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur J.T.C.C.
+
+[1] These appeals were heard together on common evidence. Ronald James Miller ("Miller") appeals his 1992, 1993 and 1994 taxation years and R.J. Miller & Associates (1986) Ltd. (the "Corporation") appeals the taxation years ending February 28, 1993 and 1994. The Corporation also appealed its taxation year ending February 29, 1992 but, since no issue was brought forward with respect to 1992, I will deal only with its 1993 and 1994 taxation years. The single issue to be determined for Miller is whether he received a taxable benefit pursuant to subsections 6(1) or 15(1) of the Income Tax Act (the "Act"). The issues concerning the Corporation include:
+
+(a) is $100,000 the fair market value of a 50% interest in the software which was purchased by the Corporation from Miller?
+
+(b) did the Corporation's Firearms Division have a reasonable expectation of profit and if so, was it therefore a business? and
+
+(c) did the Corporation incur scientific research and experimental development (SRED) expenditures?
+
+[2] The Minister of National Revenue (the "Minister") reduced the capital cost allowance claimed by the Corporation in 1993 and 1994 in respect of computer software stating that at the time of acquisition, the software's value was no more than $100. The Minister disallowed the Corporation's claim for net expenditures in its 1993 and 1994 taxation years in the amounts of $39,347 and $51,034, respectively, in connection with its Firearms Division. And lastly, the Minister disallowed the Corporation's claim for investment tax credits arising from its SRED expenditure claims in respect of the Shotgun Development Project in its 1993 and 1994 taxation years. The investment tax credits claimed in 1993 and 1994 were based on SRED expenditures of $26,943.47 and $36,115.97, respectively. In reassessing Miller for his 1992, 1993 and 1994 taxation years, the Minister added $39,350, $44,515 and $6,519, respectively, to his income as shareholder benefits or, in the alternative, as employee benefits, conferred upon him by the Corporation.
+
+[3] Miller is the sole director and shareholder of the Corporation. He is a determined, self-confident business consultant. He is an accountant who was employed by the Corporation to give clients business and tax advice. He has no track record in the field of innovated inventions in the software field and in fact, he did not own a computer until 1990. The Corporation's major client was his wife's law firm which it billed $100,000 annually.
+
+[4] Throughout his life, Miller has shown an extraordinary interest in the sport of skeet and trap shooting which led to his directing the Corporation to enter the firearms business.
+
+Software Facts
+
+[5] I will first deal with the software issue. To advance the efficiency of his wife's law practice and his own corporation, Miller co-developed custom-made software motivated by a need to track billable hours. He conceived software for which he had computer programmer James Webber ("Webber"), develop. He had tried several ready-made programs that did not suit his needs in the management of the law firm. Prior to his introduction of the computer software to his wife's law firm, she had three associate lawyers. The associates left just prior to the introduction of the program mainly because they were not prepared to track their time and billings through the new computer system. A recap of the software project prepared by Miller reads as follows:[1]
+
+1. Original version written in Pascal substantially completed by September, 1992.
+
+2. Disposition of Rights to R.J. Miller & Associates (1986) Ltd. by Appellant Ron Miller on December 12, 1992.
+
+3. Acquired Database Programming Software from Borland January 21, 1993.
+
+4. Development Vehicle Incorporated May 17, 1993.
+
+5. Database Version 1.0 for Law Offices substantially completed by December 4, 1993.
+
+6. Acquired Database Programming Software Upgrade from Borland January 21, 1994.
+
+7. Database Version 2.0 for Law Offices substantially completed by March 1994.
+
+8. Database Version 2.0 for Accounting Offices substantially completed by June 1994.
+
+9. US & Canadian Copy Rights & Trademark Rg. Version 2.0 completed by December 28, 1994.
+
+10. User Manuals (all Version 2.0 Applications) completed by March 1996.
+
+[6] In 1990, Miller reviewed various marketed software programs before commencing his own project. He was not a computer programmer and had never created a software program. The Corporation paid Webber to write a customized computer program developed on a product named Pascal and the software was named "RJs Law". It was designed to track billable hours, work-in-progress, disbursements and assist in file management. The Corporation purchased the necessary hardware and the software was tested over a two-year period. It was primarily used in Miller's wife's legal practice. By December 1992, the Pascal base program had developed problems, in particular, the problem of crashing, which rendered its intended use unfeasible.
+
+[7] At the same time, on December 12, 1992, Miller sold his 50% interest[2] in the rights to the software program to the Corporation for $100,000. The Corporation was not at this time in the business of producing and marketing software. The Corporation capitalized its acquisition and claimed depreciation as provided for in the Act for Class 12 assets.
+
+[8] After the December 1992 sale, Miller and Webber converted the software to a database format on behalf of the Corporation. Webber rewrote the program using Borland Paradox programming. It was completed and available to be marketed in late 1994, two years after the Corporation had acquired its 50% interest in the Pascal version. By 1995, the $100,000 capital cost had been completely depreciated by the Corporation. Simplexity Software Solutions Inc. ("Simplexity") was incorporated as a vehicle to own the enhanced database version of the RJs Law software.
+
+[9] On February17, 1994, the Corporation and Webber assigned their rights in the enhanced database version of RJs Law Database to Simplexity at a nominal value of $100 in consideration for common shares of Simplexity. The $100 value was the undepreciated balance of the original software carried on the books of the Corporation at the date of the rollover in 1994. In 1994, copyright to the name RJs Law was registered in the US and Canada to Simplexity. Trademark registration in RJs Law was later registered in Canada and the US. In December 1994, the Corporation and Webber assigned their rights to a second version of the enhanced database version of RJs Law software to Simplexity as well. Apparently, to date the RJs Law software, as marketed by Simplexity, has been sold to five or six law firms in Kelowna and area.[3] Miller and Webber were the only witnesses with respect to the software issue. Miller's wife was not called on to give evidence and no independent evidence of value was offered.
+
+Appellant's position
+
+[10] The $100,000 was a reasonable valuation of Miller's 50% interest in the RJs Law software in December 1992. At that time, the software was to be used by the Corporation primarily for the management of his wife's law office. In arriving at the value, Miller stated he invested 443.7 hours into developing the software and at $100 per hour, this amounted to $44,370. He further incurred costs of $22,447 for equipment. The Appellants submitted, through Miller's testimony only, that the Corporation and his wife's law firm enjoyed financial benefits from their use of the software. Miller also submitted that Webber used the $100,000 acquisition cost in his income tax returns as well, the reassessment of which is statute-barred.[4]
+
+Respondent's position
+
+[11] The Respondent's position is that:
+
+(a) The software was not in marketable condition when transferred.
+
+(b) Its fair market value was not more than $100.[5]
+
+(c) No independent evidence of value was submitted.
+
+(d) The evidence was not consistent to the effect that the software benefited the Corporation.
+
+(e) In the alternative, the Respondent submitted that paragraph 13(7)(e) of the Act would apply to reduce the Corporation's capital cost allowance.
+
+(f) Miller had been paid, through his management fees, for a substantial portion of the hours he claimed to be part of the costs.
+
+(g) Much of the recorded time by Miller related to the management services that he provided his wife's law firm and, therefore, his capital cost on sale was zero.
+
+Software Conclusion
+
+[12] I have no difficulty concluding that the Corporation did not satisfy its onus to demolish the assumptions of the Minister. The evidence of the accountant was of little assistance as to value. The self-serving testimony of Miller as to the value is not sufficient. The Appellants had the onus of proving that the fair market value and cost of the software in December 1992 was $100,000 and not $100. It appears that Miller prevented the Minister from examining the software on the Minister's terms. The Corporation was using the software without a $100,000 expenditure many months before the transfer to it of Miller's 50% interest.
+
+[13] Webber testified he accepted the one-half interest value at $100,000. He was not an independent witness nor could he be considered an expert witness for the purposes of evaluating his own software. He testified that he worked on establishing the software and was paid by the Corporation for his time.
+
+[14] There was no expert evidence to establish the value and Miller's explanation was unconvincing. He relied on the time he spent and other expenses which totalled $66,817. He relied further on general statements to the effect that the software benefited his Corporation financially. The evidence in this regard pertained to the benefit enjoyed by his wife and her law practice. I draw an adverse inference from the fact that Miller's wife did not testify nor did anyone who might qualify as an expert computer software appraiser. Miller's claim that he spent $66,817 was not corroborated in any way nor does it establish the value of the software. Also, I am satisfied that for the most part, the costs incurred by Miller were paid to him by the Corporation prior to the transfer. The evidence was insufficient and unclear.
+
+[15] Miller was overly aggressive in his tax planning. There is nothing wrong in minimizing tax and a taxpayer may obtain substantial benefits from so doing, but Miller, on behalf of the Corporation, went well beyond the scope permitted by the Act when he transferred his software to the Corporation at an inflated value. Even if I accept that the value of the software was $100,000, I agree with the Respondent that paragraph 13(7)(e) of the Act would apply to reduce the Corporation's capital cost on the software and, therefore, the available capital cost allowance. This reduction would have been such that the Corporation would not have received the huge capital cost allowance benefit that Miller had tried to orchestrate.
+
+[16] In conclusion, the Minister correctly and properly reassessed the Corporation to reduce the allowable capital cost allowance claimed by the Corporation in respect of the RJs Law computer software program on the basis that the cost of the program to the Corporation was equal to its fair market value which was not more than $100.
+
+Firearms Facts
+
+[17] Miller and his son were immersed in skeet and trap shooting activities including competitions. It was obviously a passion for them. By Resolution dated March 1, 1992, the Corporation purported to set up a Firearms Division directed towards developing a world-class competition shotgun.
+
+[18] In the Corporation's 1993 and 1994 taxation years, the net expenses in respect of its Firearms Division were reported as follows:[6]
+
+28 Feb 1993
+
+28 Feb 1994
+
+28 Feb 1995
+
+Net Losses:
+
+($39,349.57)
+
+($51,034.48)
+
+($16,988.97)
+
+The Corporation came within $8,000 of breaking even in the year ending February 28, 1996. The stand-alone products, designed to be incorporated in the new shotgun were starting to bring in modest income on their own.[7] There were other sources of income within the Firearms Division such as Calcutta[8] and revenue from the prize monies.
+
+[19] Miller and his son attended and participated in the Grand American Trials in Vandalia, Ohio in August 1992.[9] His then 16-year old son won 13 of 16 events and earned the reputation as a world class shooter. Miller who also competed, spent time educating himself with regard to the construction of shotguns. He acquired Ljutic guns to be used as prototypes. An accomplished gunsmith, Chris Weber[10] of Kelowna was retained by the Corporation to construct stand-alone components to be incorporated in the final prototype. As of the date of the hearing, no custom shotgun had been completed. The Corporation records indicate no payment to Weber until December 1994, which of course is in the Corporation's 1995 taxation year.
+
+[20] The "Miller Kwik Change Stocks", a stand-alone innovation, was conceptualized in August 1992 in Ohio because of the difficulties competitors were incurring due to the climate. Because of the wet weather, some of the gun parts rusted and did not function effectively. The design was completed and the prototype conversion of existing stocks on the test pieces commenced by the end of February 1993. The unfitted prototypes were completed and installed in early June 1993 with completion being October 1994. Final modifications occurred in November 1994. Initial product sale occurred in February 1996.
+
+[21] Another innovation developed by the Corporation was the "Convertible Trigger" which is a shotgun trigger that offers both 'pull' and 'release' firing options. It came about through Miller's personal problem with flinching. The flinch reaction by a shooter adversely affects shooting scores. Flinching is the body's automatic reaction immediately before pulling the trigger. Ones body anticipates the violent kick back after the shell explodes. Discussion for the work began in June 1993 and an initial prototype was commissioned in August 1993. The work was substantially completed by October 1993. From the flinching came the idea of changing the recoil system.
+
+[22] There were recoil mechanisms on the market that Miller was going to use for his custom shotgun, however, it was not until he incurred his personal problems with flinching that he decided to improve the design. The "KIKOFF Recoil System", another stand-alone innovation, was finalized after the Corporation's 1994 year end. The test background studies included looking at score data before and after the receiver-trigger work was done. Development of the prototype began in December 1995 and sales of some component parts were made in February 1996. Eventually, trademark registration for "KIKOFF" and design was received in 1997.[11]
+
+[23] By Order dated June 26, 2000, I granted the Appellants' motion to the effect that additional evidence of the Corporation be admitted. This was evidence was set out in an affidavit of Miller with exhibits attached thereto and the evidence included that since the hearing of these appeals (October 1999): (i) a prototype shotgun has been completed (colour photographs attached to the affidavit); (ii) prototypes of three gun cases were developed; (iii) an advertising and marketing campaign was commenced for the shotgun and the cases; and (iv) an application for a firearms manufacturer's license and a trademark have been made. Pursuant to the June 26 Order, the parties made submissions with respect to whether these additional facts assist in deciding if the Corporation commenced the shotgun business at an earlier date. I have found the additional facts relevant and have taken them into consideration in arriving at a decision.
+
+[24] In November 1996, the Business Development Bank loaned the Firearms Division of the Corporation $30,000 to finance the custom shotgun project in part. Up until that time, the Corporation had been financing the development process alone.
+
+Appellant's Position
+
+[25] The Appellants submitted that the business commenced in March 1992 and that it had a reasonable expectation of profit from the development and sales of custom-made shotguns. Numerous steps had been taken and funds expended. Prior to the corporate Resolution, Miller had accumulated research and experience at his own expense. He established the need within the marketplace for a "breakdown proof" competition shotgun that would sell in excess of US$20,000. Given the nature of the gun manufacturing industry, counsel for the Appellants argued that it was reasonable that there would be a start-up period during which it would sustain losses prior to substantial sale revenues. There was a two-year delay in completing a prototype. The question is whether the expenses claimed were incurred for the purpose of gaining or producing income from a business or property pursuant to paragraph 18(1)(a) of the Act.
+
+Respondent's Position
+
+[26] At the end of the Corporation's 1993 taxation year, it was simply in the concept stage and not the operational stage. Among the preliminary steps was the product evaluation done by Miller in 1992 on his own guns. In addition, the event in August 1992 in Ohio was simply a fact-finding mission before which he had no clear idea of exactly how he was going to set up his manufacturing business. Therefore, all the expenses incurred in the Corporation's 1993 taxation year were not business expenses as there was no business. Furthermore, the guns purchased and traded were capital expenditures.
+
+[27] The business may have commenced in the Corporation's 1994 taxation year with the work done with respect to the quick change stocks (i.e. the "Miller Kwik Change Stocks") as arguably it was an essential preliminary step in the development of the prototype shotgun. However, the Respondent submitted that the convertible trigger mechanism (i.e. the "Convertible Trigger") was actually a personal expenditure to deal with Miller's flinch problem.
+
+Analysis
+
+[28] I permitted Miller, on behalf of the Corporation, to voice his complaints of the Minister's approach and lack of expertise which of course is not relevant and has not been taken into consideration. What is relevant is what was presented in evidence during the trial. The issue narrows down to whether the Corporation was in the business of manufacturing custom shotguns or shotgun parts in its 1993 and 1994 taxation years. To have a business, a taxpayer must have a reasonable expectation of profit. A reasonable expectation of profit is an objective test and involves more than just a hope or a dream. As stated by Hamlyn J. in Watt Estate v. The Queen[12]at page 425:
+
+The purpose of an expectation of profit determines whether income from a particular source is income from a business. The expectation of profit is central to the concept of a business and distinguishes it from the pursuit of a hobby. The determination of a reasonable expectation of profit is a finding of fact.
+
+Thus, if as a matter of fact a taxpayer is found not to have a reasonable expectation of profit, then there is no business and the taxpayer cannot claim any expenses in connection with that activity.
+
+[29] When reviewing whether there is an expectation of profit and there is determined to be a personal element involved, Linden J.A. of the Federal Court of Appeal stated in Tonn v. The Queen[13] at page 6013 that:
+
+... where circumstances suggest that a personal or other-than-business motivation existed, or where the expectation of profit was so unreasonable as to raise a suspicion, the taxpayer will be called upon to justify objectively that the operation was in fact a business. Suspicious circumstances, therefore, will more often lead to closer scrutiny than those that are in no way suspect.
+
+[30] The involvement of a personal element is not the determining factor as to whether there is a business. Linden J.A. in Tonn, supra, after examining the jurisprudence, stated at page 6010:
+
+It is not that the impugned activities in these cases are in themselves any more or less prone to being run like a business. Rather, it is the simple fact of how they are run which is decisive: though the taxpayer might well desire to profit from the activity, the profit motivation is not the main reason for the activity. Rather, the element of personal enjoyment is the dominant, motivating force.
+
+[31] In these appeals, there is without question, a strong personal element. Guns, shooting and competitions are obviously an expensive passion for Miller. He is an accountant and business tax consultant. There is, no doubt, an inference or strong suspicion that he created a plan to have the Corporation and Revenue Canada support his and his son's hobby. These suspicious circumstances must be closely scrutinized. The Corporation's Resolution was passed shortly before the costly trip of Miller and his son to the US World Championship in Vandalia, Ohio. Other than information gathering and the acquisition of a Ljudic gun, no development work was commenced at the Championship. The expenditures claimed from March 1, 1992 to February 28, 1993 do not appear to be any different from the type of expenditures that Miller and his son, as very active shooters, would have incurred, business or no business. While one should not be penalized because he enjoys a business activity,[14] the facts must be carefully examined. It is obvious that Miller would want to perfect his shotguns to improve his personal performance and that of his son.
+
+[32] Where a personal element is involved, the question may arise as to when an activity changes from being a hobby, with no expectation of profit, to a business, with an expectation of profit. The determination is a question of fact. The comment of Bowman J. in Gartry v. The Queen[15] is helpful in determining whether a business has commenced. He stated at page 1949:
+
+... In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed. Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. ...
+
+[33] After commenting that "[i]nterpretation bulletins are of course not the law and they should be referred to with some caution", Bowman J. in Gartry, supra, went on to say at page 1949 that the observations in Interpretation Bulletin IT-364,[16] "make eminently good sense both as a matter of law and as a matter of business reality". Paragraph 2 of that Bulletin states that:
+
+... In order that there be a finding that a business has commenced, it is necessary that there be a fairly specific concept of the type of activity to be carried on and a sufficient organizational structure assembled to undertake at least the essential preliminaries. ... Where an activity consists merely of a review of various business possibilities in the expectation or hope that information will be obtained to justify going into a business of some kind, such an activity does not represent the commencement of a business. A business would be reviewed as being merely contemplated for the future if no serious or reasonably continuous efforts are being made to begin normal business operations. ...
+
+[34] On March 1, 1992, Miller as director of the Corporation resolved to set up a separate operating division to be known as the Firearms Division. He also resolved to proceed immediately with such research and development to facilitate the venture. A Resolution on its own is in no way sufficient proof that a taxpayer has taken "significant and essential steps that are necessary to the carrying on of the business." The taxpayer must prove that there was sufficient activity that went beyond the mere gathering of information.
+
+[35] During the Corporation's 1993 taxation year, Miller was gathering information about the possibility that there was a market and a need for an improved custom competition shotgun. As Miller's counsel submitted, it was at the Vandalia Championship that Miller confirmed that there was a market and that there was a need for an improved shotgun. In addition, Miller stated on page 392 of his original submissions that one of the business reasons to create the Firearms Division of the Corporation was "that my son had achieved sufficient status as a world class competitor, setting a new world record at Vandalia, Ohio's Grand American, and winning 13 out of 16 events in the process, in August of 1992". It was after the competition that Miller had gathered enough information to justify the Corporation commencing to design and market improvements to a shotgun. Prior to the conclusion of the Vandalia Championship, Miller was only reviewing possibilities with a hope of finding a financially viable venture.
+
+[36] During the Corporation's 1994 taxation year, actual work commenced on modifications that were intended to be incorporated in the prototype. These modifications included the Convertible Trigger and the Miller Kwik Change Stocks. The prototype for the Convertible Trigger was substantially completed by October 1993. The Miller Kwik Change Stock was installed in June 1993 and was last modified in November 1994.
+
+[37] Miller may have had a desire or idea to have the Corporation construct custom shotguns prior to the Vandalia, Ohio competition, but aspiration alone is not enough. I find that the Corporation commenced a firearms business after the Vandalia, Ohio competition in August 1992 and, therefore, all expenses that were incurred prior to and during Vandalia are not deductible.
+
+[38] Having found that a business commenced after the Vandalia competition, what expenses, if any, are allowable from those claimed? During the hearing, the Respondent amended the Reply to the Notice of Appeal to include section 67 of the Act which limits deduction of expenses to those that are "reasonable in the circumstances". The Corporation's gun business did little else but the aforementioned modifications that were made by Weber. I find that the travel and competition costs of the claimed expenses were personal and not for the purpose of earning income from a business and in any event were unreasonable in the circumstances. The evidence with respect to the need for testing was somewhat ambiguous. Again, there was no expert evidence to support the need for the testing expenses. The evidence of Miller alone is insufficient and unsatisfactory and Weber was not qualified in Court nor introduced as an expert witness. I find that the Corporation has not satisfied its burden of proving the need to travel and shoot at various competitions to advance its business.
+
+[39] The Respondent's counsel submitted that only a portion of the ammunition costs should be deductible since a portion of the costs were incurred for personal purposes. The Respondent submitted that the appropriate percentage is the amount allowed in respect of testing the gun for research purposes and that amount should be 50% of the amounts expended. I agree with this position since no further evidence was presented to assist the Court in determining what portion of the ammunition costs and practice targets should be disallowed, I find, applying section 67 of the Act, that 50% of the costs claimed for ammunition and practice targets are deductible.
+
+[40] The Respondent submitted that the equipment repairs and maintenance expenditures in 1994 could possibly qualify as a business expense but not as a SRED expenditure. Counsel for the Corporation did not address the equipment repairs and maintenance expenditures in his submissions. There was no clear evidence as to what equipment was repaired and maintained. Since it is probable that the repairs and maintenance expenses were with respect to the guns, I find that 50% of the repairs and maintenance expenses is deductible as reasonable in the circumstances.
+
+[41] I also find that the cost of the guns to be used in the research and development were not capital expenditures since the guns were used in whole or in part as the base for the stand-alone additions. As such, the cost of each of the guns is deductible as a business expense.
+
+[42] The Respondent submitted that costs incurred to purchase the skeet traps were personal expenditures. The Respondent submitted that the skeet traps were donated to the North Okanagan Gun Club by the Corporation because the Club did not own skeet traps and Miller's son was interested in taking up skeet shooting. Counsel for the Corporation did not address this issue in his submissions. I find that the Corporation did not meet its onus to prove that the amount was not a personal expenditure. I find that the costs incurred to purchase the skeet traps were personal expenditures.
+
+Firearms Conclusion
+
+[43] All the expenses incurred prior to and during Vandalia were personal expenses and therefore not deductible.
+
+[44] With respect to expenses incurred after Vandalia, I find that the airfare, vehicle operating, hotels and meals, entry fees, and skeet trap (including duty) expenses are not deductible since they were personal and not incurred for the purpose of earning business income. I also find that 50% of the ammunition costs, practice target costs and repairs and maintenance were personal and not incurred for the purpose of earning business income. The ammunition costs, practice target costs and repairs and maintenance were unreasonable in the circumstances and that 50% of the claimed amounts are reasonable and deductible. All other expenses claimed are allowed.
+
+SRED Facts
+
+[45] It is clear that an Appellant has the burden of proof to show that the Minister's assumptions are incorrect. Usually in situations dealing with a specialized and technical area, the Court looks to be instructed by experts. In this case the use of experts was badly lacking on both sides. The Corporation's evidence was presented primarily by Miller who certainly is knowledgeable but far from independent. The evidence of Weber, while an impressive gunsmith, was limited to producing shotgun parts designed and directed by Miller. Weber is a skilled craftsman and has his own shop. He was not the inventor and driving force behind the creation of the custom shotgun. He was not called on to give expert testimony. The Minister's expert, Mr. M. Bapty, P. Eng. was a highly qualified mineralogist but he did not have experience with competition shotguns. It is the position of the expert witness to provide a comprehensive analysis of the matter that would permit the Court to arrive at an opinion. No such analysis was given.
+
+[46] The Corporation deducted investment tax credits in respect of qualified expenditures for SRED in connection with its 1993 and 1994 taxation years. In order to calculate the amount of qualified expenditures, the Corporation broke down the expenditures between direct, apportioned and overhead costs. The Corporation allocated a portion of these costs to SRED. The Corporation claimed 100% of the direct costs, 50% of the apportioned costs and 5% of the overhead costs. Based on this calculation, the Corporation claimed investment tax credits in connection with $26,943.47 and $36,115.97 of qualified expenditures for its 1993 and 1994 taxation years respectively.
+
+[47] After several reviews of the Corporation's claim, the Minister disallowed the Corporation's 1993 and 1994 investment tax credits based on the determination that the Corporation's expenditures did not qualify as SRED expenditures.
+
+Appellant's position
+
+[48] As I understand it, essentially the Corporation's position is that: (i) the Minister's expert report is faulty and should not be relied on; (ii) the expenses claimed with respect to the Corporation's research projects qualify as SRED expenditures; and (iii) the percentages for apportioned costs and overhead are reasonable.
+
+Respondent's position
+
+[49] Counsel for the Respondent relied on the report prepared by Mr. Bapty. Based on that report, the Respondent divided the Corporation's research into two projects for the years in question: (a) the Custom Stock (1993 and 1994) (also referred to as the Miller Kwik Change Stocks); and (b) the Receiver-Trigger (1994) (also referred to as the Convertible Trigger). Mr. Bapty concluded that there was no eligible activity with respect to the Custom Stock in 1993 but there was in 1994 and all of the Receiver-Trigger activity was ineligible.
+
+[50] Mr. Bapty also submitted the following: (a) not all of the direct costs were incurred for research purposes; (b) many of the apportioned costs were not attributable to eligible work under any circumstance; and (c) some of the overhead was appropriate. The only guidance provided by Mr. Bapty in his report with respect to the amount of costs that he considered eligible was the following statement:
+
+If the project is demonstrated to qualify, some costs are expected to substantiate the technical improvement. ... I would accept a limit of $10,000 for all work and testing ....
+
+The Respondent submitted that the equipment repairs and maintenance costs were appropriate business expenses, if there was a business, but were not eligible SRED expenditures.
+
+Analysis
+
+[51] As previously stated, the specifics regarding the SRED claims were sorely lacking. Counsel for the Corporation based his submissions on the activities of the Minister and the quality of the Minister's expert report and not on the requirements for the eligibility of SRED claims. The Respondent's submissions were based on the question of whether there was a business or not and on Mr. Bapty's the report. These submissions, with the exception of Mr. Bapty's report, did not address the requirements for expenditures to qualify as SRED expenditures.
+
+[52] In Northwest Hydraulic Consultants Limited v. The Queen,[17] Bowman J. set out a number of useful criteria in determining whether a particular activity constitutes SRED. The criteria set out are as follows:
+
+1. Is there a technical risk or uncertainty?
+
+(a) Implicit in the term “technological risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+
+(a) the observation of the subject matter of the problem;
+
+(b) the formulation of a clear objective;
+
+(c) the identification and articulation of the technological uncertainty;
+
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+
+(e) the methodical and systematic testing of the hypotheses.
+
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+
+In a very brief summary, Mr. Bapty concluded that the work on the Custom Stock met all the above requirements except he found that there was no eligible expenditure made in the Corporation's 1993 taxation year. He also concluded that the work on the Receiver-Trigger did not qualify since there was no technical advancement or technological uncertainty. This opinion was offered without a comprehensive analysis.
+
+[53] Generally SRED is established by the Court with the assistance of expert evidence. When all is said, the trial judge chooses one expert over the other after evaluating their technical evidence. Here we have a Corporate Appellant who presented no one who qualified as an expert in the field of competition shotguns. Miller testified at length. Without doubt he is a skilled shooter as is his son, who strangely, was not called on to give evidence. Miller knows shotguns and formulated in his mind what he wanted in a custom shotgun. He hired Weber, a gunsmith, to carry out his technical innovations. Together they created the Custom Stock. I find that this project qualified as SRED and Mr. Bapty also arrived at this conclusion in his report.
+
+[54] In the same manner the Corporation caused a technologically advanced Receiver-Trigger and Recoil system to be built. All were eventually incorporated in a custom shotgun for which the Corporation has secured a patent in Canada and the U.S. This technologically advanced shotgun is presently being marketed.
+
+[55] Although he described the Receiver-Trigger as a "good piece of technology", Mr. Bapty concluded that it did not meet the definition of SRED under Regulation 2900 (1). In reporting on the Receiver-Trigger, he stated on page 7 of his report:
+
+Receiver-Trigger
+
+Technical Advancement. Two features are claimed, an exchangeable module which can be quickly replaced if a change or service is required, a "pull" (standard) or "release" (the gun fires when the trigger is released) selection feature. While the work is more complex than the stock mounting technology, there is no indication of "technological advancement for the purpose of creating a new or improving an existing...device, ... including incremental improvements thereto."
+
+The criterion is not satisfied.
+
+Technical Content. The work advanced from concept to working prototype to production model in a well defined program, using a qualified tradesman.
+
+The criterion is satisfied.
+
+Technological Uncertainty. Is not evident in the work described. In June of 1993 the first Ljutic shotgun was examined for fitting. The prototype was in service by August of 1993. It worked from the first firing and did not require a single modification since the initial installation. In the words of the gunsmith, "We started with one gun. I look at the parts, I designed the piece; I built it and tested it. It worked from the first go. No changes were required."
+
+The criterion is not satisfied.
+
+Going back to the 2900(1) definition, I saw evidence of "investigation in a field of technology by means of experiment" but I did not see evidence of "systematic investigation". The work is indistinguishable from a well crafted application of known technology.
+
+Passing to the second definition under 2900(1), the technological advancement required for experimental development as defined in ss (c) is addressed under Advancement Criterion above. The incremental improvement in the underlying technology is not demonstrated, and the work again does not meet the definition.
+
+I conclude the project does not meet the definition of SR & ED under the Regulation.
+
+[56] The evidence presented on behalf of the Corporation has not been rebutted.. Weber, an impressive gunsmith, demonstrated at the hearing how he built a Receiver-Trigger from scratch commencing with a block of steel. I accept Mr. Weber's evidence over that of Mr. Bapty. Mr. Bapty concluded that the criterion was met with respect to the Recoil system. While both Miller and Weber could not be considered expert witnesses and they were far from being independent, I have no difficulty in concluding that the Corporation made a prima facie case that was not rebutted by Mr. Bapty who unfortunately knew very little about competition shotguns.
+
+[57] The Respondent submitted that the equipment repairs and maintenance expenditures in 1994 did not qualify as a SRED expenditure. Counsel for the Corporation did not address the equipment repairs and maintenance expenditures in his submission. Since it is probable that the repairs and maintenance expenses were with respect to the guns, I find that the deductible amount (i.e 50% of the amount claimed) of repairs and maintenance expenses qualify as SRED expenditures at their apportioned amount.
+
+SRED Conclusion
+
+[58] I find that the Corporation did conduct SRED during its 1993 and 1994 taxation years. However, the amount of the Corporation's SRED claims should be adjusted to exclude the expenses that I have found to be personal and not incurred for the purpose of earning business income. I find that a reasonable apportionment of the expenditures to SRED is 50% of apportioned costs and 5% of overhead costs.
+
+Facts of Miller's Reassessments
+
+[59] When Miller transferred his 50% interest in the software to the Corporation, he took compensation in the form of relief of his shareholder loan and relief of his drawings account during the 1992 calendar year. In other words, Miller received compensation in the form of a credit to his shareholder loan account.
+
+[60] In reassessing Miller for his 1992, 1993 and 1994 taxation years, the Minister added $39,350, $44,515 and $6,519, respectively, to Miller's income as shareholder benefits pursuant to subsection 15(1). The Minister allocated the amount of disallowed net expenses of the Corporation's Firearms Division as follows:
+
+Miller's taxation year
+
+Corporation's 1993 taxation year
+
+Corporation's 1994 taxation year
+
+1992
+
+$39,350
+
+1993
+
+$44,515
+
+1994
+
+6,519
+
+Disallowed net expenses
+
+39,350
+
+51,034
+
+Appellant's position
+
+[61] Miller's position appears to be that the Corporation's Firearms Division net expenditures were not personal and that the application of subsection 15(1) is punitive and not applicable in this situation.
+
+Respondent's position
+
+[62] The Respondent's position is that the Corporation paid Miller's personal expenses with respect to his skeet and trap shooting activities and in so doing, conferred benefits on Miller in his capacity as a shareholder. In the alternative, the Respondent submits that the Corporation conferred benefits on Miller in his capacity as an employee.
+
+Analysis
+
+[63] It is unfortunate that the parties did not address in their submissions the effect on Miller of a finding that the value of the software was less than the reported $100,000. It is logical, based on my finding that the value of the software was no more than $100, that the credit to Miller's shareholder loan account be adjusted to reflect this. Given the lack of details available, it is unclear what the effect of this adjustment will be.
+
+[64] Neither the Respondent nor Miller made submissions, other than passing comments, on the applicability of subsection 15(1) which states:
+
+15(1) Where at any time in a taxation year a benefit is conferred on a shareholder ... by a corporation ...
+
+the amount or value thereof shall ... be included in computing the income of the shareholder for the year.
+
+The scope of subsection 15(1) is very broad and is applicable when a benefit is conferred by a corporation on a shareholder qua shareholder.
+
+[65] Miller submitted that the expenses paid by the Corporation were with respect to a business purpose and not personal. I have found under the Firearms Division issue that some of the expenses paid by the Corporation were personal.
+
+[66] The Minister relied on the assumption that the Corporation conferred a benefit on Miller in his capacity as shareholder. Miller did not meet his onus in disproving the Minister's assumption. I find that the personal expenses paid by the Corporation (the disallowed expenses as determined under the Firearms Division issue) are a benefit conferred on Miller as shareholder and are to be included in his income pursuant to subsection 15(1). Consequently, the appeals of Miller are dismissed.
+
+Conclusion
+
+[67] In light of the manner in which the amounts were presented, I will not begin to get into the accounting in this case. I rely on both parties to work out the amounts based on my reasons and if the parties cannot come to an agreement, the parties may make submissions for my determination.
+
+[68] In summary, the appeals of Miller from reassessments of tax for the 1992, 1993 and 1994 taxation years are allowed on the basis that in computing income, Miller is entitled to deduct those business expenses set out under the Firearms Conclusion. The appeal of the Corporation from the reassessment for the year ending February 29, 1992 is dismissed because no issue was brought forward with respect to 1992, and the appeal of the Corporation from the reassessment for the years ending February 28, 1993 and 1994 is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the foregoing reasons.
+
+[69] The Respondent is entitled to costs in these appeals as if there were only one Appellant.
+
+Signed at Ottawa, Canada, this 2nd day of January, 2001.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Exhibit A-6 – Firearms & Software Project Recaps.
+
+[2] Webber owned the remaining 50% interest.
+
+[3] It would appear that total income did not exceed $10,000 and the sales were made after 1992.
+
+[4] The inference is if he can use it, so can I.
+
+[5] The Reply to the Notice of Appeal stated $100 but in the submissions of counsel for the Respondent, she acknowledged it had a maximum value when operative of $1,000.
+
+[6] Exhibit A-1, page 82.
+
+[7] Exhibit A-1, pages 91-97 - invoices of sales of component parts.
+
+[8] A form of gambling.
+
+[9] A large amount of the travel and entry fees is for this activity and other competitions.
+
+[10] No relation to James Webber.
+
+[11] Formal Design Rights Agreements were entered into on November 30, 1995 and June 20, 1996 by the Appellants and craftsmen Weber to build the components for the custom shotgun project.
+
+[12] 95 DTC 423 (T.C.C.), affirmed 97 DTC 5459 (F.C.A.).
+
+[13] 96 DTC 6001 (F.C.A.).
+
+[14] Kuhlmann et al v. The Queen, 98 DTC 6652 (F.C.A.).
+
+[15] 94 DTC 1947 (T.C.C.).
+
+[16] Commencement of Business Operations dated March 14, 1977.
+
+[17] 98 DTC 1839 at pages 1841-1852 (T.C.C.).
+

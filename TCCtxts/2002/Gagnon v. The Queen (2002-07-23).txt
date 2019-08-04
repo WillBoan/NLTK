@@ -1,0 +1,144 @@
+[OFFICIAL ENGLISH TRANSLATION]
+
+2000-3753(IT)I
+
+BETWEEN:
+
+JOHANNE R. GAGNON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on June 4, 2002, at Toronto, Ontario, by
+
+the Honourable Associate Chief Judge D. G. H. Bowman
+
+Appearances
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Arnold Bornstein
+
+JUDGMENT
+
+It is ordered that the appeals from the assessments made under the Income Tax Act for the 1996 and 1997 taxation years be dismissed.
+
+Signed at Ottawa, Canada, this 23rd day of July 2002.
+
+"D. G. H. Bowman"
+
+A.C.J.
+
+Translation certified true
+
+on this 6th day of November 2003.
+
+Sophie Debbané, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Date: 20020723
+
+Docket: 2000-3753(IT)I
+
+BETWEEN:
+
+JOHANNE R. GAGNON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+REASONS FOR JUDGMENT
+
+Bowman, A.C.J.
+
+[1] At issue in these appeals is whether, in computing her income for the 1996 and 1997 taxation years, the appellant was required to include the amounts of $18,078 and of $18,728 that she received during those years under a separation agreement as support payments for her children.
+
+[2] The divorce between the appellant and Thomas Alexander Crossgrove was granted by the Ontario Court of Justice on January 16, 1993. The former spouses are the parents of two children, Michel and Zakari. They signed a separation agreement dated May 25, 1990, which was varied by an agreement dated August 20, 1992. The judgment of divorce, rendered following these two agreements, was silent concerning the obligations of the appellant's spouse to make support payments to her.
+
+[3] Under the varied agreement, the appellant's spouse was required to make monthly support payments to her, which were to be increased annually in accordance with the consumer price index.
+
+[4] The agreement was varied again only in 2000, that is, after the taxation years at issue.
+
+[5] On April 13, 2000, the appellant and her former spouse signed a joint election (form T1157), agreeing that after January 1, 2000, the payments provided for in the separation agreement were neither deductible nor taxable. Unfortunately, at issue are the 1996 and 1997 taxation years.
+
+[6] The appellant relied on the Supreme Court of Canada decision in Thibaudeau v. Canada, [1995] 2 S.C.R. 627. The decision in Thibaudeau is certainly important and probably resulted in amendments to the Income Tax Act ("the Act"), but in my view, it is not of assistance to the appellant. Before the amendments concerning support payments received after 1996 were made to the Act, support payments were usually deductible by the payor and taxable in the hands of the recipient. In Thibaudeau, it was argued that this inclusion/deduction system infringed the right to equality guaranteed by section 15 of the Canadian Charter of Rights and Freedoms. The Supreme Court of Canada dismissed that argument, but nonetheless, its decision in Thibaudeau resulted in amendments to the Act that I shall try briefly to describe.
+
+[7] Support payments made under agreements or orders made before May 1997 were usually deductible by the payor and taxable in the hands of the recipient, unless an event occurred that gave the agreement or order a "commencement day" that was later than April 1997.
+
+[8] The relevant provisions of section 56 of the Act that were in force in 1996 read as follows:
+
+(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+...
+
+(b) an amount received by the taxpayer in the year as alimony or other allowance payable on a periodic basis for the maintenance of the taxpayer, children of the taxpayer or both the taxpayer and the children if the taxpayer, because of the breakdown of the taxpayer's marriage, was living separate and apart from the spouse or former spouse who was required to make the payment at the time the payment was received and throughout the remainder of the year and the amount was received under a decree, order or judgment of a competent tribunal or under a written agreement;
+
+[9] Clearly, the amounts received by the appellant in 1996 were taxable.
+
+[10] In 1997, matters became much more complicated.
+
+[11] Paragraph 56(1)(b) was amended to read as follows:
+
+(b) the total of all amounts each of which is an amount determined by the formula
+
+A - (B + C)
+
+where
+
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year.
+
+[12] In other words (and I acknowledge the risk of oversimplification), child support amounts received under an agreement or an order after the "commencement day" should not be included in the recipient's income.
+
+[13] What was the commencement day of the agreement in this case?
+
+[14] "Commencement day" is defined in subsection 56.1(4) as follows:
+
+"Commencement day" at any time of an agreement or order means
+
+(a) where the agreement or order is made after April 1997, the day it is made; and
+
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+
+[15] Clearly, paragraph (a) is not applicable in this case because the agreement was made before April 1997. Concerning paragraph (b), subparagraphs (ii) and (iii) are not applicable because the agreement was not varied to change the amount of the support payments, and there was no subsequent agreement changing the support amounts. Subparagraph (iv) is not applicable because no day was specified in the agreement for the purposes of the Act.
+
+[16] The only subparagraph that can apply is subparagraph (i). On the joint election (form T1157), Ms. Gagnon and her former spouse specified a day; the day they specified was January 1, 2002. This day is therefore the commencement day.
+
+[17] Two other points should be noted. The separation agreement and the varied separation agreement were signed before the divorce. In my view, this fact does not render the separation agreement null and void because a prior separation agreement survives a judgment of divorce unless the divorce judgment provides otherwise. The other point is that the annual increases to the support payments in accordance with the consumer price index do not constitute a variation of the agreement within the meaning of subparagraph 56.1(4)(b)(ii). These increases are in accordance with the agreement; they do not change the agreement.
+
+[18] I have a great deal of sympathy for the appellant. It seems to me that she did not receive good advice concerning the effect of the decision in Thibaudeau. I am nevertheless obliged to dismiss the appeals.
+
+Signed at Ottawa, Canada, this 23rd day of July 2002.
+
+"D. G. H. Bowman"
+
+A.C.J.
+
+Translation certified true
+
+on this 6th day of November 2003.
+
+Sophie Debbané, Revisor
+

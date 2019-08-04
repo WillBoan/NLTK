@@ -1,0 +1,178 @@
+Date: 19980903
+
+Dockets: 97-965-IT-G; 97-966-IT-G
+
+BETWEEN:
+
+SUKHSAGAR K. GILL, IQBAL S. GILL,
+
+Appellants,
+
+and
+
+THE MINISTER OF NATIONAL REVENUE,
+
+Respondent,
+
+Reasons for Judgment
+
+Brulé, J.T.C.C.
+
+[1] These appeals followed a Notice of Reassessment for the 1993 taxation year. The appeals were consolidated and heard on common evidence.
+
+Facts
+
+[2] Both appellants Sukhsagar K. Gill (SG) and Iqbal Gill (IG) are residents of Ontario.
+
+[3] During the 1989 taxation year, SG advanced funds as a family investment totaling $613,448 to Homebank Investments Inc. ("Homebank") and IG advanced $54,448. SG and IG each owned 8% of the issued and outstanding shares of Homebank at the relevant time. SG and IG were unsecured creditors of Homebank.
+
+[4] Homebank was incorporated under the laws of the Province of Ontario on December 2, 1988 and at all material times was controlled by Sampuran S. Benet and his wife Rajinder K. Benet. Mr. Benet also controlled Sampuran Enterprises Ltd. Mr. and Mrs. Benet were Canadian residents at the relevant time. Accordingly, Homebank was at all material times a "Canadian-controlled private corporation" as defined in subsections 248(1) and 125(7) of the Income Tax Act ("the Act").
+
+[5] During 1988, Homebank purchased land located at 930 Upper Paradise Road in Hamilton, Ontario and acted as the prime contractor during construction of a 17 unit strip plaza with approximately 48,000 square feet of gross leasable space. Construction was completed in 1990. The appellants claim that Mr. Benet had expertise in the development of commercial complexes and that Mr. Benet was the driving force behind both Sampuran and Homebank. They claim that Homebank attempted to acquire tenants and negotiate leases with the goal of selling the plaza when it was substantially leased.
+
+[6] The appellants further claim that the property was listed for sale with RE/MAX Dufferin Realty Ltd. but the property was not marketable because it did not have an anchor tenant. With respect to the plaza property, a receiver was appointed on October 22, 1993.
+
+[7] The advances to Homebank were never repaid and were established to have become a bad debt in the 1993 taxation year pursuant to subsection 50(1) of the Act.
+
+[8] The Minister of National Revenue (the "Minister") reassessed the appellants tax returns for the 1993 taxation year on the basis that they had not shown that the amounts claimed as a deduction from income was an "allowable business investment loss" pursuant to paragraph 38(c) of the Act since the funds advanced by them to Homebank did not qualify as a "business investment loss" pursuant to paragraph 39(1)(c) of the Act.
+
+Issue
+
+[9] The sole issue involved is whether Homebank was a "small business corporation" in 1993 within the meaning of the Act, and therefore the appellants incurred an allowable business loss in that year.
+
+Analysis
+
+[10] The Minister claims that Homebank was not carrying on an "active business" but was involved in a "specified investment business" as those phrases are defined in paragraph 125(7)(a) of the Act.
+
+[11] In confirming the reassessment for the 1993 taxation year, the Minister made the following assumptions:
+
+a) at all material times, the appellants were shareholders of the company;
+
+b) during 1993, the company became bankrupt;
+
+c) at the time of the bankruptcy of the company, the appellants had a loan receivable from it of $613,448;
+
+d) at all material times, the principal purpose of the company was to derive income from rents and its only source of income from 1987 though 1992 was rental revenue and interest on rental deposits;
+
+e) the company, at all material times, employed less than six full-time employees;
+
+f) the company's associated corporation, Sampuran Enterprises Ltd., did not, at any time, provide managerial, administrative, financial, maintenance or other similar services.
+
+[12] Despite the well thought argument of counsel for the appellants, Homebank is not a "small business corporation" within the meaning of the Act. To be considered a "small business corporation", Homebank would have to be considered an "active business". An "active business" expressly excludes a "specified investment business" and upon the evidence before the Court, Homebank was a "specified investment business". Therefore, the loss sustained by the appellant with respect to the loan made to Homebank is not a business investment loss within the meaning of paragraph 39(1)(c) of the Act. Therefore, there can not be an allowable business investment loss within the meaning of paragraph 38(c) of the Act. The loss sustained by the appellants is a net capital loss and can be used to offset any capital gains. Pursuant to paragraph 111(1)(b) of the Act, this net capital loss can be applied against capital gains 3 years back and can be carried forward indefinitely.
+
+[13] By way of explanation of how the above was derived, it is important to look at the various provisions of the Act.
+
+[14] A business investment loss is a loss incurred on a disposition of capital property under the conditions set forth in paragraph 39(1)(c). The following conditions must be met. Firstly, the capital property must be a share of a "small business corporation" or a debt owed to the taxpayer by such a corporation. Secondly, the shares or debt are, unless subsection 50(1) applies, disposed of to a person dealing with the taxpayer at arm's length.
+
+[15] In the facts before the Court, the Minister is not disputing whether subsection 50(1) applies. subsection 50(1) applies to the situation where debts are established to be bad debts or shares of a bankrupt corporation. However, the Minister does take issue with the other requirement namely that the capital property is a share of a "small business corporation" or a debt owed to the taxpayer by such a corporation.
+
+A. "Small business corporation"
+
+[16] A small business corporation is defined in subsection 248(1) of the Act. The section sets out:
+
+"'small business corporation', at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a "payer corporation" within the meaning of that subsection), or
+
+(c) assets described in paragraphs (a) and (b), including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;"
+
+[italics mine]
+
+[17] The term "active business" is defined in two different sections of the Act. The general definition section for the Act, namely subsection 248(1), defines "active business" as:
+
+"(1) Definitions
+
+In this Act,
+
+"active business"
+
+"active business", in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;"
+
+[18] "active business" is also defined in paragraph 125(7)(a) of the Act;
+
+"'active business carried on by a corporation' means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;"
+
+[19] The obvious difference between these two definitions is that the definition under paragraph 125(7)(a) includes "an adventure or concern in the nature of trade". For the purpose of the case at bar, this inclusion is of little relevance as both definitions state that if the business is found to be a "specified investment business" then it can not be considered to be an active business. Parliament has expressly stated that if a business is a "specified investment business" then it is not an "active business" for the purpose of subsection 248(1) and paragraph 125(7)(a) of the Act. The issue before this Court is whether Homebank was a "specified investment business". Although the primary and secondary intention of the taxpayer may provide some guidance, it is the "principal purpose" of Homebank that must be considered in determining whether Homebank was conducting a "specified investment business". However, due to the fact that the appellant went to great lengths to establish an adventure or concern in the nature of trade, the Court shall briefly comment upon it.
+
+[20] As far as the Court understands the appellants argument, the appellants submit that the definition of "business" and "active business" in subsection 248(1) of the Act should be read together therefore an adventure or concern in the nature of trade is considered an "active business". It is the Court's opinion that the definition of "active business", read alone, in subsection 248(1) of the Act should be operative with respect to the case at bar and the definition of "active business" in paragraph 125(7)(a) should be read within the framework of the small business deduction. The case at bar deals with an allowable business investment loss and not the small business deduction. Instruction can be taken from the definition of "Canadian controlled private corporation" which is also listed in both subsection 248(1) and paragraph 125(7)(b) of the Act. The definition in subsection 248(1) of the Act states that:
+
+"'Canadian-controlled private corporation'
+
+"Canadian-controlled private corporation" has the meaning assigned by subsection 125(7);"
+
+[21] Paragraph 125(7)(b) of the Act reads:
+
+"'Canadian-controlled private corporation'
+
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation) or by any combination thereof; ..."
+
+[22] In the Court's opinion, the fact that subsection 248(1) refers directly to subsection 125(7) of the Act, suggests that the intent of Parliament was for the definition of Canadian controlled private corporation in paragraph 125(7)(b) to be controlling for the purposes of the Act. This is not the case for the term "active business". Parliament provided two different definitions and the Court believes that the definition in subsection 248(1) should be employed with respect to the whole Act, aside from the sections where a different definition is provided with respect to a specific section as is the case with the small business deduction set out in paragraph 125(7)(a) of the Act.
+
+(The same argument applies for the definition of "specified investment business". Subsection 248(1) of the Act refers to paragraph 125(7)(e) of the Act.)
+
+B. "Active Business"
+
+[23] By using the definition of "active business" set out in subsection 248(1) of the Act, Homebank will qualify as an "active business" if it was carrying on a business that was not a "specified investment business" or a "personal service business". On the facts of this case, it is the Court's opinion that Homebank is not a "personal service business" and will be considered an active business if it does not meet the requirements of a "specified investment business".
+
+C. Specified Investment Business
+
+[24] A "specified investment business" is defined in paragraph 125(7)(e) of the Act and reads:
+
+"specified investment business" carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rents or royalties), unless
+
+(a) the corporation employs in the business throughout the year more than five full-time employees, or
+
+(b) in the course of carrying on an active business, any other corporation associated with it provides managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than five full-time employees if those services had not been provided."
+
+[25] Thus a "specified investment business" includes any business with less than six full-time employees and has a principal purpose of earning income from property or the leasing of property. There was no evidence submitted by the appellants to the fact that Homebank had more than five full-time employees. The Minister relies on the assumption that Homebank at all material times employed less than 6 full-time employees. The Minister submits that based on Mr. Benet's testimony, that in the early years (back in 1988) there were four or five employees. After that date there were even less.
+
+l. Principal Purpose
+
+[26] The definition of "specified investment business" requires an inquiry into the principal purpose of the corporation. Revenue Canada's position on "principal purpose" is set out in Interpretation Bulletin IT-73R5, dated February 5, 1997, at paragraphs 12 and 14:
+
+"12. "Principal purpose" is not a defined term in the Act for the purposes of the definition of "specified investment business" in subsection 125(7), but it is considered to be the main or chief objective for which the business is carried on.
+
+...
+
+14. The principal purpose of a corporation's business must be determined annually after all the facts relating to that business carried on by that corporation in that year have been considered and analyzed. Included in this evaluation should be such things as:
+
+(a) the purpose for which the business was originally commenced;
+
+(b) the history and evolution of its operations, including changes in its mode of operation and purpose of existence; and
+
+(c) the manner in which the business is conducted."
+
+[27] The term "principal purpose" was judicially considered in Mayon Investments Inc. et al. v. M.N.R. [1991] 1 C.T.C. 2245, 91 D.T.C. 364, where Brulé, T.C.J., stated at page 369, that with respect to the definition of "specified investment business" what is meant by "the principal purpose of which is to derive income from property" is " ... when the source of revenue, the nature of the assets held and the purpose of the corporation are to derive income from property, such as interest income.
+
+[28] In Ed Sinclair Construction & Supplies Ltd. et al. v. M.N.R., [1992] 1 C.T.C. 2218, 92 D.T.C. 1163, Bowman T.C.J., considered "principal purpose" in the context of a "specified investment business" as it related to the small business deduction. His Honour stated at page 1165 in the case of Ben Company Limited v. M.N.R., 89 D.T.C. 242, which is set out at page 244:
+
+"In determining the "principal purpose" of a business carried on by a corporation the stated object of the person who carries it on is not necessarily the only, or even the most important, criterion. Of critical importance is what the corporation in fact does and what its sources of income are."
+
+[29] The term "principal purpose" has also been considered in the tax literature. In a cited article by David Phillip Jones, in Reflections on Integration: The Modified Small Business Deduction, Nonqualifying Businesses, Specified Investment Income, Corporate Partnership, and Personal Service Corporations (1982) 30 Can. Tax J. 1 at 5, the author comments on the purpose of the "specified investment income" amendment. At page 5 of his article, Mr. Jones states:
+
+"In a series of cases, however, the courts effectively eliminated the idea of passive business and held that virtually any business constituted an active business. The purpose of the "specified investment income" amendment, therefore, was to make certain that income from the business of renting property did not generally constitute active business income, but rather was assimilated to investment income, thereby effectively reversing the jurisprudence on this point."
+
+[30] The only income earned by Homebank was the rental income from the tenants in the shopping plaza, interests on the rental deposits and a management fee. The rental income from the Unaudited Financial Statements of Homebank for the taxation years of 1990, 1991 and 1992 was $5, $404,065 and $484,728 respectively. Interest on rental income for the above years was $1,198, $7,669 and $0, respectively. A management fee of $180,000 was received in 1991. Thus, Homebank had a net revenue for the above years of $1,131,277. Furthermore, the financial statements of Homebank listed the property as a fixed capital asset and the according depreciation (amortization) was deducted.
+
+[31] The plaza was completed in 1990. From the evidence provided the first lease commenced July 1, 1990 and by January 13, 1991, 13 of the 17 units had been leased to various tenants. These 13 units represented 78% of the floor space. However, the plaza was not listed for sale until February of 1992.
+
+[32] Therefore, on the evidence before the Court, it is the Court's opinion that the "principal purpose" of Homebank was to derive income from property. I believe that Homebank is a "specified investment business" which would remove it from the definition of a "small business corporation". Therefore, the appellant is not entitled to the business investment loss as set out in paragraph 39(1)(c) of the Act.
+
+[33] As an aside, the Court feels that a few comments with respect to "principal purpose" are in order. It believes that it is the "principal purpose" of the business and not necessarily the "principal purpose" of the individual taxpayer that must be considered in determining whether a corporation is a "specified investment business". SG and IG had a 16% interest in the operations of Homebank. Mr. Benet and his wife held the controlling interest of 52% of the issued and outstanding shares. Any inquiry into the "principal purpose" of the corporation would have to consider the intention of Mr. and Mrs. Benet. Mr. Benet was the driving force behind his own corporation, Sampuran, as well as Homebank. The "principal purpose" of Homebank, as an entire entity, must be considered. The Minister did not make any inquiries into the intention of Mr. Benet with respect to Homebank. The Court believes that the profit made on Sampuran's sale of a previous shopping development is relevant to the case at hand. The Minister, through the examination for discovery of Lorraine Brugaletta, an auditor for Revenue Canada, did not feel that the $1,924,024 gain of Sampuran, an associated company, was relevant to the review of Homebank.
+
+[34] In Geropoulos v. Canada [1998] T.C.C.J. No. 339, the Tax Court of Canada considered whether the appellant could deduct a business investment loss for a loan made to a bankrupt corporation in which he was one of the shareholders. The corporation was involved in the development of a shopping centre on a vacant piece of property. In considering whether the corporation was a "specified investment business" and finding for the appellant, Sarchuk, T.C.J. stated:
+
+"On the evidence, it is clear that Woodstock's intention was as Butcher said: "to develop, to get some money, and to go on and do something else, develop another property" and that any potential that this development had to provide Woodstock with rental income was entirely subordinate."
+
+[35] However, in the present case, the Court does not feel that the rental income received by Homebank was subordinate. The plaza was substantially leased at the beginning of 1991 yet not put up for sale until February of 1992. Although Mr. Benet and the associated corporation, Sampuran, were not considered by the Minister when determining the "principal purpose" of Homebank, the Court feels that this would not change the determination that Homebank was a "specified investment business".
+
+[36] Accordingly, these appeals are dismissed.
+
+Signed at Ottawa, Canada, this 3rd day of September 1998.
+
+"J.A. Brulé"
+
+J.T.C.C.
+

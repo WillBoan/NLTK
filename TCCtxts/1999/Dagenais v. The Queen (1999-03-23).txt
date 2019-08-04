@@ -1,0 +1,92 @@
+Date: 19990322
+
+Docket: 97-2882-IT-I
+
+BETWEEN:
+
+JACQUES DAGENAIS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal under the informal procedure from the assessment by the Minister of National Revenue (the “Minister”) concerning the 1995 taxation year.
+
+[2] The issue is whether, under subsection 126(1) of the Income Tax Act (the “Act”), the appellant may deduct from the income tax payable by him the tax he has paid on capital gains from lotteries in the United States, which gains are not subject to Canadian income tax by virtue of paragraph 40(2)(f) of the Act.
+
+[3] The facts on which the Minister relied in making his assessment are set out in paragraph 4 of the Reply to the Notice of Appeal (the “Reply”) as follows:
+
+[TRANSLATION]
+
+(a) for the 1995 taxation year, the appellant was resident in Canada for the purposes of the Income Tax Act;
+
+(b) during the 1995 taxation year, the appellant had capital gains from lotteries in the United States in the amount of $112,346 in American money;
+
+(c) amounts totalling $36,770 in American money were allegedly withheld for federal and state income tax in the United States;
+
+(d) under paragraph 40(2)(f) of the Income Tax Act (the “Act”), capital gains from lotteries cannot be considered in computing the capital gain from the United States;
+
+(e) consequently, the appellant is not entitled to a federal foreign tax credit since the said lottery gains are not taxable in Canada.
+
+[4] The appellant admitted paragraphs 4(a) to (d) of the Reply. With regard to paragraph 4(b) of the Reply, he added that he had made a $45,000 capital gain on securities in the United States in addition to his lottery gains. That $45,000 gain was not taxed in the United States, but the lottery gains were. As regards paragraph 4(c) of the Reply, the appellant said that he claimed a credit for the lesser amount of $8,485.56, which was equal to the income tax payable under the Act on his capital gains made in the United States and taxable in Canada.
+
+[5] The appellant argued that subsection 126(1) of the Act does not classify the various capital gains made in the United States according to how those gains are treated for tax purposes in Canada, but rather deals with them as a whole. The Act sets out only one rule: that the credit is the lower of the tax paid to a foreign country and the tax payable in Canada.
+
+[6] In addition, at the hearing, the appellant argued in the alternative that he should be able to use the deduction provided for in subsection 20(12) of the Act. On this point, he referred to two decisions of this Court: Gidwani v. Canada, [1992] T.C.J. No. 522 and Harmsen v. Canada, [1992] T.C.J. No. 471.
+
+[7] Counsel for the respondent relied primarily on logic. She argued that under paragraph 40(2)(f) of the Act lottery gains are not considered to be capital gains in Canada and so are not taxable. The purpose of subsection 126(1) of the Act, which allows the deduction of the tax paid in the United States, is to prevent double taxation, and so it cannot be applied in a case where there is no double taxation.
+
+[8] The logic in question must, however, be found in the wording of the Act itself, and it is. The relevant portion of subsection 126(1) of the Act reads as follows:
+
+126(1) Foreign tax deduction — A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada . . . as the taxpayer may claim;
+
+not exceeding, however,
+
+(b) that proportion of the tax for the year otherwise payable under this Part by the taxpayer that
+
+(i) the total of the taxpayer’s incomes from sources in that country, excluding any portion thereof that was deductible by the taxpayer under subparagraph 110(1)(f)(i) or in respect of which an amount was deducted by the taxpayer under section 110.6,
+
+. . .
+
+is of
+
+. . .
+
+Subsection 20(12) reads as follows:
+
+(12) Foreign non-business income tax — In computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such amount as the taxpayer claims not exceeding the non-business income tax paid by the taxpayer for the year to the government of a country other than Canada (within the meaning assigned by subsection 126(7) read without reference to paragraphs (c) and (e) of the definition “non-business-income tax” in that subsection) in respect of that income, other than any such tax, or part thereof, that can reasonably be regarded as having been paid by a corporation in respect of income from a share of the capital stock of a foreign affiliate of the corporation.
+
+(Emphasis mine.)
+
+[9] The first amount to be determined in order to apply the foreign tax deduction under section 126 of the Act is the amount of the tax for the year otherwise payable . . . by the taxpayer. The amount of the tax depends on income as computed under the Act. That income does not include lottery gains. No other income may be taken into account, since no tax was payable on such other income.
+
+[10] Paragraph 126(1)(a) of the Act provides that a taxpayer may deduct such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada. Here again, the word “income” can have only the meaning of income within the meaning of the Act. Lottery gains are not included in income. A foreign tax paid on income from a source that is not included in computing income under the Act is not an income tax within the meaning of that paragraph. The same applies to the meaning of the word “incomes” used in subparagraph 126(1)(b)(i) of the Act.
+
+[11] The same reasoning applies to subsection 20(12) of the Act. The decision of Judge Kempo in Gidwani, supra, to which the appellant referred, does not say otherwise. I quote the next to last paragraph of that decision, entitled “Conclusion”:
+
+The subsection 20(12) deduction is not of general import. It has its nexus to and is limited to the purpose of computing income from a source which is business or property: viz Kaiser v. M.N.R., 91 DTC 1057 (TCC) at 1058 and it is further limited to there being income as determined under Canadian law from a U.S. source: viz The Queen v. Hoffman, 85 DTC 5508 (FCTD) at 5512.
+
+(Emphasis mine.)
+
+[12] The appellant therefore cannot deduct from the income tax payable by him the tax that he paid in the United States on the lottery gains. Since those gains are not included in computing income, no income tax was paid by him on those gains within the meaning of paragraph 126(1)(a) of the Act.
+
+[13] The appeal is accordingly dismissed.
+
+Signed at Ottawa, Canada, this 22nd day of March 1999.
+
+“Louise Lamarre Proulx”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

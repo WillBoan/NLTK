@@ -1,0 +1,170 @@
+Date: 20001030
+
+Docket: 1999-3477(IT)I
+
+BETWEEN:
+
+VINCE CIRILLO,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+____________________________________________________________________
+
+Agent for the Appellant: Richard Adelman
+
+Counsel for the Respondent: Sherry Darvish
+
+____________________________________________________________________
+
+REASONS FOR JUDGMENT
+
+(Delivered orally from the Bench at
+
+Toronto, Ontario, on September 5, 2000)
+
+Mogan J.T.C.C.
+
+[1] This is an appeal with respect to the 1993, 1994 and 1995 taxation years. In each of those years, the Minister of National Revenue added to the reported income of the Appellant certain amounts which have been identified as shareholder benefits under subsection 15(2) of the Income Tax Act. The shareholder benefits are in the form of interest on a debt under section 80.4 of the Act and an automobile stand-by charge under section 6 of the Act. The Appellant has appealed against those assessments contesting mainly the shareholder benefit provision. His Notice of Appeal did not specifically challenge the automobile stand-by charge but that question arose in a peripheral matter and will have to be dealt with. The Appellant has elected the informal procedure.
+
+[2] Exhibit A-1 is a purchase and sale agreement dated May 6, 1991 in which the Appellant along with Michele Miceli and Frank Talarico agreed to buy all the shares of a company identified as Pane Vittoria Bakery Limited for a price of $500,000. The vendors were four particular individuals whose identity is not relevant to this appeal but, to the extent that I have to refer to them, I will simply call them "the four vending shareholders". The only important term of that purchase agreement for the purpose of this appeal is paragraph 1 which describes the purchase price as being paid by a $30,000 deposit and $100,000 to be secured by a chattel mortgage on certain assets. The balance of the purchase price was to be paid by cash or certified cheque on closing and it appears that the closing actually occurred on or about October 28, 1991.
+
+[3] The Appellant and his original two partners paid a significant amount of money to acquire the shares of Pane Vittoria Bakery Limited. As soon as they acquired those shares, they determined that they did not want to carry on the bakery business within the corporation they had just purchased. Apparently, there was a problem with regard to the Workers' Compensation Board and Pane Vittoria. It was not referred to in any detail but I accept the business judgment of the Appellant and his two colleagues that they were going to form their own company to carry on the bakery business. They incorporated a company called 961533 Ontario Limited ("533") and immediately after the closing of the purchase from the four vending shareholders, the remaining assets of Pane Vittoria (the "operating assets") were transferred to 533.
+
+[4] The issue in this case is whether there was a shareholder loan from 533 to the Appellant and his fellow shareholders of 533. That leads to the question of how the transactions were recorded when the shares of Pane Vittoria were purchased from the four vending shareholders; and the operating assets were later transferred from Pane Vittoria to 533. Exhibit A-4 is a copy of the hand-written journal entries made by the accountant for 533 after the Appellant and his two partners acquired all the shares of that company. That document is approximately five pages long with the first three pages showing the closing journal entries as at June 30, 1992 and the last two pages showing the closing journal entries as at June 30, 1993. It appears that at all relevant times the fiscal period of both 533 and Pane Vittoria was June 30. The journal entries as photocopied and entered as Exhibit A-4 are not complete because the debit side of the entries is recorded but in many cases, the credit entries either have been totally or partially eliminated in the photocopying. Indeed, I notice that on a couple of the pages even the debit entries have been perhaps not completely recorded. Exhibit A-5 is a printed copy of the first journal entry for June 30, 1992 and the first journal entry for June 30, 1993. Those entries had to be typed because the journal entries in Exhibit A-4 are not included in their entirety in the photocopying. The parties are in agreement that the printed journal entries in Exhibit A-5 are an exact replica of the journal entries as they existed in the original version of Exhibit A-4.
+
+[5] I will set out the journal entries made in Exhibit A-5 as of June 30, 1992. It does not state what the purpose is, but it shows a number of debit and credit entries which, of course, both add up to $500,000 as follows:
+
+Debit
+
+Credit
+
+Truck
+
+$24,071
+
+Equipment
+
+11,565
+
+Sign
+
+355
+
+Inventory
+
+32,186
+
+Lawyers fees
+
+4,761
+
+Corporate costs
+
+1,132
+
+Goodwill
+
+425,927
+
+Mortgage Payable
+
+132,186
+
+Capital
+
+150
+
+Shareholder
+
+_______
+
+367,663
+
+$500,000
+
+$500,000
+
+The above exhibit was commented on by the agent for the Appellant and both witnesses for the Respondent. Relying on that evidence, I have to conclude that the entries are accurate from an accounting point of view in the sense that they balance. That, however, is an amalgamation of two different concepts.
+
+[6] What really happened in the transaction was that the Appellant and his partners purchased shares for $500,000. There was a provision in paragraph 1(b) of Exhibit A-1 which provided for an inventory adjustment. The inventory adjustment (inventory valuation) which was performed on the closing date caused an adjustment to be made in the vendors' favour of $32,186. Therefore, the purchase price was increased from $500,000 to $532,186 and, in accordance with the agreement, that inventory adjustment was added to the sum of $100,000 and secured as payable to the four vending shareholders by the chattel mortgage on certain assets.
+
+[7] Exhibit A-1 (the purchase agreement) is not complete because there is a reference to the assets in Schedule C which schedule is not included in the exhibit. Therefore, I cannot determine what the precise assets were which were intended to be charged with the chattel mortgage. By inference from all the surrounding circumstances in this case, I conclude that the balance of $132,186 was to be secured by a chattel mortgage on all of the business assets of Pane Vittoria because those would be the logical assets to secure the residue of the purchase price. There is no evidence that there would be any other assets by which the price might be secured.
+
+[8] I turn to the second part of the transaction which is the decision made by the Appellant and his partners to transfer the operating assets out of Pane Vittoria and into their operating company, 533. That was the primary purpose of the first journal entry at June 30, 1992 because it shows the transfer of business assets having a value of approximately $74,000, being all of the assets, excluding goodwill. I have concluded that the person who did that journal entry performed it in error because two very separate transactions are mixed up. That person started out by recording on the books of 533 the purchase of the operating assets from Pane Vittoria, all the assets listed ahead of the item "goodwill". At that point, if the person doing the journal entry had stopped, he or she would have then made a credit entry of $74,000 as an inter-company loan being the amount owing by 533 to Pane Vittoria. That might very well have been the end of the transaction. But that is not the way the journal entry reads. For some reason, the person has mixed up the purchase of the assets by 533 from Pane Vittoria with the purchase of the shares by the Appellant and his two partners from the vending shareholders. Also, that person seems to have felt compelled to make the aggregate amount of the journal entry add up to $500,000. Therefore, that person put in what I would call a "plugged" amount and identified it as goodwill of $425,927 to ensure that the total would be $500,000.
+
+[9] On the credit side, there was some truly imaginative and erroneous bookkeeping. For example, the first credit entry is a mortgage payable for $132,186. That is obviously the chattel mortgage contemplated by paragraph 1(b) of the purchase and sale agreement. Exhibit R-1 is the chattel mortgage from Pane Vittoria to the four vending shareholders dated October 28, 1991, in the amount of $132,186. The first credit entry is mortgage payable and it is clearly targeting the chattel mortgage given by Pane Vittoria to the vending shareholders to secure the amount owing for their shares and securing it on the assets of Pane Vittoria. The person doing the journal entry probably concluded that, because the operating assets of Pane Vittoria were being transferred into 533 and because those assets were charged with the mortgage, the liability for the mortgage should also be transferred into 533. That explains, in my view, why the first credit entry is $132,186. To show the confusion in the mind of the person making the journal entry, by that time (around June 1992), he knew that the additional $32,186 was the inventory adjustment running in favour of the vending shareholders. If he was going to record the transaction as being the total purchase price, he should have been aiming at a target amount of $532,186 instead of the $500,000 established in the original agreement. That is just a further indication of how ill-thought-out this journal entry was. I do think the person making the entries was justified in thinking that since 533 was taking over the assets of Pane Vittoria and those assets were charged with a mortgage, then 533 should assume the liability. That is the first credit item in the journal entry.
+
+[10] The journal entry shows capital of $150, whatever that means. There is other evidence to indicate that the paid-up capital of 533 was only $3 for three shares. I do not know whether the word "capital" in the mind of the person, the bookkeeper, making up the journal entry was intended to convey paid-up capital but for whatever reason, it is there. I might add that there was not entered in evidence by either party at any time in this hearing a financial statement of 533. I never saw the balance sheet for the corporation for the years under appeal, and so I do not know whether the paid-up capital in the mind of the person who made the journal entry was either $3 or $150. That is one of many things I would like to have seen had I had an opportunity to look at the balance sheet of 533.
+
+[11] The person making this journal entry has to find another credit entry to make the journal entry balance. The third credit entry is recorded as a shareholder advance to the company in the amount of $367,663 even though, as far as I know, the Appellant and his colleagues never advanced that amount to the company. On the other hand, if they had not agreed that the goodwill was worth approximately $426,000 ($500,000 less $74,000), both items may be a bit fanciful.
+
+[12] One year later, apparently the same person was doing the bookkeeping for the company because on the second part of Exhibit A-5 there is another journal entry at June 30, 1993. The purpose of that journal entry is stated as follows: "To record goodwill wrongly posted at the beginning". This journal entry is very simple. It debits the shareholder loan account $425,928 and credits goodwill with $425,928. The effect of that, of course, satisfies the purpose as stated by the bookkeeper and it eliminates the goodwill. Also in the shareholder loan/shareholder advance account, it reverses the balance from being a credit balance in favour of the shareholders to being a debit balance of about $58,000 in favour of the company. On the basis of the second journal entry at June 30, 1993, apart from any transactions in the intervening 12 months, the shareholders account would have gone in the books of the company from a credit balance of $367,663 which of course is in the shareholders' favour, to a debit balance of $58,000 indicating the shareholders have an obligation to their company in that amount.
+
+[13] It is difficult to speculate what was in the mind of the person making the journal entry but the price paid for the shares in the range of $500,000 indicates to me that there must have been a significant amount of goodwill in the business. That price is so much higher than the apparent book value of the operating assets as they came across from Pane Vittoria to 533 that the goodwill must have been worth about $400,000. I am not in a position to know but, when a group of individuals agrees to buy the shares of a corporation for $500,000 when the underlying book value of the assets of the corporation is significantly less than $500,000, the goodwill of the corporation's business may very well represent at least part of the purchase price. In a share purchase transaction as opposed to an asset transaction, the goodwill is usually an unrecorded item. That was the result in this case after the correcting journal entries were made on June 30, 1993. The goodwill was eliminated but I question whether the debit charge should have been all against the shareholder loan account.
+
+[14] Having regard to the two journal entries in Exhibit A-5, if the correction at June 30, 1993 had been made a minute or two after the journal entry of June 30, 1992, the goodwill would have disappeared; there would have been a $58,000 debit entry for loan to shareholders; and the credit entry would have been almost exactly $132,000. That would have explained the chattel mortgage taken on by 533 but it still would not have made a lot of sense because there was no evidence that the shareholders had borrowed $58,000 at that time from 533. What happened in the assessments under appeal flows from these two journal entries which I have taken some time to describe.
+
+[15] I return now to Exhibit R-1 which is the first page of the chattel mortgage. It shows Pane Vittoria as the mortgagor and the four vending shareholders as the mortgagees. The chattel mortgage is in the amount of $132,186, with interest at 10% per annum and provides for monthly payments of $1,385.82 over a five-year period and amortized over 15 years. Exhibit R-2 is a ledger sheet from 533 entitled "mortgage payable" and it shows monthly payments in the precise amount of $1,385.82 as prescribed in the chattel mortgage. It shows monthly payments being made throughout the calendar years 1992, 1993, 1994, 1995 and the first 10 months of 1996 which would bring the monthly payments up to the five-year term because the chattel mortgage was given in October 1991. Apparently, all payments on that chattel mortgage were made by 533. I conclude that 533 did assume the burden of the mortgage when it took over the operating assets from Pane Vittoria which were the assets underlying and providing security to the chattel mortgage.
+
+[16] In argument, the agent for the Appellant asked the question: Did the Appellant transfer a debt to the corporation? I think that the Appellant alone did not transfer any debt to the corporation, but I do conclude that the Appellant and his two founding shareholders in 533 caused 533 to assume part of their obligation to the four vending shareholders. 533 made all the payments on that chattel mortgage of $132,186.
+
+[17] Was there an accounting error in the journal entries and, if so, is the Appellant responsible for the accounting error? Whether a shareholder of a corporation is responsible for a bookkeeping error depends upon the circumstances of the error. In a decision that I rendered in Chopp v. The Queen, 95 DTC 527, I found that a bookkeeping error had been made without the knowledge or intention of the dominant shareholder. I was able to make that decision because I heard extensive evidence from four significant witnesses: the dominant shareholder; his daughter who was an amateur bookkeeper; the outside chartered accountant who did an actual audit of the corporation because of its size and the corporations it did business with; and the internal chartered accountant who was hired by the corporation after the bookkeeping error was discovered and the dominant shareholder realized that he had to have more competent bookkeeping. It was proven to me in Chopp that the error was made innocently without knowledge and was corrected as soon as it was discovered.
+
+[18] I would be the first person to acknowledge that a shareholder is not necessarily bound by the bookkeeping errors of someone who keeps the books of his corporation. If the recording of the chattel mortgage on the books of 533 was an accounting error, and if that error had been corrected along the way, I would be able to find that the Appellant, who is a baker and not a bookkeeper, was not bound by the error. I assume from the Appellant's evidence that he never looked at the financial statements. He may not feel comfortable trying to understand a financial statement of a corporation. If the corporation had reneged on this chattel mortgage and thrown it back in the laps of the shareholders, and if the shareholders had corrected the bookkeeping error when it came to their attention, I could have granted relief.
+
+[19] When the Appellant's agent asked if the Appellant was bound by the accountant's errors, I have no hesitation in stating that a shareholder is not bound by the errors of his accountant or bookkeeper, per se, but shareholders are bound by the conduct of the corporation they control. When the conduct of the corporation shows that month after month, year after year, over a period exceeding four years the corporation keeps grinding out payments on a mortgage as if it were the mortgagor, then I say that the shareholder is bound not by the error of his bookkeeper but by what his corporation in fact did month by month and year by year in the way that it processed its business and discharged obligations, whether they are the particular obligations of the corporation itself or the obligations of a shareholder. If a shareholder's obligation is discharged over a long period of time by his corporation making regular monthly payments, any objective third party could easily conclude that the corporation had taken over the shareholder's obligation.
+
+[20] On the main issue, if I decide against the Appellant, there were two other arguments put forward. Should the whole amount of the debt be added from the beginning or should the shareholder benefit be computed month by month as the payments are made? If there was any evidence that during the term of this chattel mortgage, which was five years or 60 months, the shareholders had realized that their corporation was paying off their debt, and they had terminated the payments by the corporation and taken over the debt payments themselves, then I would have no difficulty in concluding that the shareholder benefit ought to be measured only month by month as the corporation made each payment for the benefit of its shareholders. But when there is no indication that the transaction was detected or the error, if it was an error, was adjusted during the course of the indebtedness, then I think it is reasonable to conclude that there was an implicit arrangement between the shareholders of 533 and 533 itself that 533 would indeed take on this debt as of October 1991 and pay it off. That is what happened.
+
+[21] On the measurement of the quantum of the shareholder benefit, I conclude that it is reasonable to measure the benefit as if the debt had been assumed around October, November or December 1991. The benefit being the face value of the debt or some lesser amount, was conferred at that time. Any advances made by the Appellant to the corporation at any time during the years under appeal ought to be construed as repayments by the shareholder to reduce what otherwise would be the shareholder benefit under subsection 15(2). Therefore, any payments made by the Appellant to 533 ought to reduce the shareholder benefit otherwise assessed against him. I conclude from the evidence of the auditor and the appeals assessor who testified, and from looking at Exhibits A-8 and R-5, that the advances made by the Appellant to 533 were in fact regarded as a reduction of the amount otherwise included in his income as a shareholder benefit.
+
+[22] Another collateral item was whether the right portion of the shareholder benefit has been allocated to the particular taxpayer, Mr. Cirillo. On that matter, I rely on the evidence of the field assessor, Mr. Nefsky, who said that he had traced the shareholder register of the corporation and, in March 1993, the Appellant and Mr. Miceli had bought out the one-third interest of the third shareholder, Mr. Talarico. Therefore, as of March 1993, the Appellant and Mr. Miceli had become 50/50 shareholders. And then in July 1994, the Appellant purchased the half interest of Mr. Miceli and, later in 1994, the Appellant sold a one-half interest in 533 to two other persons.
+
+[23] On June 30, 1993, the Appellant was a 50/50 shareholder of 533. Therefore, I hold that the allocation of the shareholder benefit to the Appellant on a 50/50 basis was an appropriate one for 1993 and 1994 and 1995 because, when he bought out Miceli in July 1994, he then sold to the other two. 50/50 is not an unreasonable allocation with regard to the Appellant.
+
+[24] The last item is an automobile stand-by charge which was not directly pleaded in this case but comes up by way of Exhibit A-7 which is the schedule prepared by the appeals assessor to explain how the amounts were computed for assessment purposes. Also Exhibit A-8 is a schedule prepared by the appeals assessor showing the adjustments made from the audit at the appeals level. In a nutshell, it turns out that for 1993, the automobile stand-by charge was taxed twice. It crept into the shareholder loan account as appears in Exhibit A-8 through an item identified on June 30, 1993 as "adjusting entry cars" and it appears specifically as a separate item for 1993 in Exhibit A-7 as $6,143. Therefore, I allow the appeal for 1993 for the purpose of eliminating from the Appellant's income the sum of $6,143 as that item appears in Exhibit A-7. I am not persuaded that there is any similar relief available for 1994 and 1995 because as I look at Exhibit A-8, which is the reconciliation of the shareholder loan account prepared by the appeals auditor, there is no other item identified as "cars" like the one for June 30, 1993. Because there was no submission from the agent for the Appellant or counsel for the Respondent, I have concluded from the evidence before me that it is only 1993 in which the Appellant has been double taxed on automobile. On that basis, the appeal for 1993 is allowed only for the purpose of eliminating an amount of $6,143 as an automobile stand-by charge. The appeals for 1994 and 1995 are dismissed.
+
+Signed at Ottawa, Canada, this 30th day of October, 2000.
+
+"M.A. Mogan"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-3477(IT)I
+
+STYLE OF CAUSE: Vince Cirillo and Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: September 5, 2000
+
+REASONS FOR JUDGMENT BY: The Honourable Judge M.A. Mogan
+
+DATE OF JUDGMENT: September 12, 2000
+
+APPEARANCES:
+
+Agent for the Appellant: Richard Adelman
+
+Counsel for the Respondent: Sherry Darvish
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+

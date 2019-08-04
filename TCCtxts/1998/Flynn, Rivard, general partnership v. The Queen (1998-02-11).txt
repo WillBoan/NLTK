@@ -1,0 +1,218 @@
+Date: 19980211
+
+Docket: 96-733-GST-I
+
+BETWEEN:
+
+FLYNN, RIVARD,
+
+GENERAL PARTNERSHIP,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Counsel for the Appellant: Mario Jacob
+
+Counsel for the Respondent: Michel Morel
+
+Reasons for Judgment
+
+(Read from the bench at Québec, Quebec on October 17, 1997)
+
+PIERRE ARCHAMBAULT J.T.C.C.
+
+[1] This is an appeal under the informal procedure from an assessment made pursuant to Part IX of the Excise Tax Act ("the Act"). The assessment, No. 0212439, was made by the Minister of National Revenue ("the Minister") for the period from January 1, 1991 to July 31, 1994. By that assessment the Minister increased the amount of the goods and services tax ("GST") owed by Flynn, Rivard ("FR") to $44,598.55. The Minister also imposed interest and penalties amounting to $4,573.62 and $4,950.42 respectively.
+
+[2] Counsel for FR told the Court he was not disputing the amount of the GST or the interest. At the same time, he argued that the penalty should be cancelled because FR demonstrated due diligence in performing its obligations under the Act.
+
+Facts
+
+[3] The facts on which the Minister relied in making the assessment are set out as follows in paragraph 6 of the Reply to the Notice of Appeal:
+
+[TRANSLATION]
+
+In assessing the appellant the Minister relied inter alia on the following conclusions and assumptions of fact:
+
+(a) the appellant is a registrant for purposes of the GST;
+
+(b) the appellant was audited for the period from January 1, 1991 to July 31, 1994;
+
+(c) the audit indicated, inter alia, that the appellant had:
+
+(i) failed to pay GST to the respondent;
+
+(ii) claimed and deducted ineligible input tax credits ("ITCs");
+
+(iii) failed to claim and deduct eligible ITCs;
+
+(d) consequently, the Minister had to make adjustments to the following GST and ITC items:
+
+(i) GST remitted as Quebec sales tax $ 6,106.95
+
+(ii) GST collected but not remitted $ 367.38
+
+(iii) ineligible ITCs for entertainment
+
+expenses $ 402.68
+
+(iv) ITCs claimed twice for long
+
+distance calls $16,497.19
+
+(v) ineligible ITCs for photocopies $30,630.75
+
+(vi) eligible ITCs not claimed $ 9,406.40
+
+(e) these adjustments resulted in an increase in the net tax owed by the appellant in the amount of $44,598.55, broken down as follows:
+
+GST:
+
+$ 6,106.95 +
+
+367.38 $ 6,474.33
+
+ITC:
+
+$30,630.75 +
+
+$16,497.19 +
+
+402.68
+
+$47,530.62 -
+
+9,406.40 38,124.22
+
+Total adjustments $44,598.55
+
+(f) the net adjusted tax for the audited period in the amount of $44,598.55 generated interest of $4,573.62 and penalties of $4,950.42;
+
+(g) the failure to remit the amount of the revised net tax established by audit did not result from an unusual situation beyond the control of the appellant, but from errors committed by it or by its employees.
+
+[4] Louis-Marc Dionne was the only person to testify for FR at the hearing. He explained that, following the enactment of the GST, FR retained the services of its accountants and a computer programmer to modify its computer system so that the system would automatically calculate the amount of the GST and that of the input tax credit ("ITC").
+
+[5] He said its accountants prepared a text of some ten pages describing the procedure to be followed. According to Mr. Dionne, there was confusion and uncertainty regarding the tax treatment of work in progress and the minister’s representatives and publications and even the firm’s tax expert were consulted.
+
+[6] It was found in the Minister's audit that ITCs had been claimed twice for expenses relating to photocopies and long distance calls. As FR billed these two types of disbursements to its clients, the computer system apparently automatically calculated ITCs for both. An ITC was also claimed for expenses incurred for supplies and services purchased to produce photocopies, including charges for paper, charges for renting a photocopier and charges for long distance calls, that is, charges paid to the telephone company. Mr. Dionne of course quickly admitted that FR could only claim one ITC, not two, for these disbursements.
+
+[7] In his testimony the Minister's auditor pointed out to the Court that during the period January to July inclusive in 1991 FR did not make this type of error, even though photocopying and long distance call charges were billed to FR clients.
+
+[8] So far as the changes made to the calculation of ITCs for entertainment expenses are concerned, the Minister reduced the percentage of the price of hockey tickets used to calculate ITCs, lowering it from 100 percent to 80 or 50 percent, depending on what the Act prescribed during the relevant period. No explanation was given by Mr. Dionne of this error by FR.
+
+[9] As regards the question of the amount relating to the GST which was remitted as Quebec sales tax ("QST") and the amount of eligible ITCs not claimed, these were processing errors by FR. There was confusion regarding the GST and QST. The amount which should have been reported as GST was reported as QST and the amount that should have been reported as QST was reported as GST. No explanation was given by Mr. Dionne for these errors.
+
+Analysis
+
+[10] There is disagreement at present regarding the application of s. 280 of the Act, in particular application of the penalty mentioned in s. 280(1)(a) of the Act. The paragraph reads as follows:
+
+280. (1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+
+(a) a penalty of 6% per year, and
+
+(b) interest at the prescribed rate,
+
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+
+[11] Some judges of this Court feel that a taxpayer may set up a defence of due diligence against this penalty. In Pillar Oilfield Projects Ltd. v. The Queen, 94 GTC 1005, Judge Bowman referred to the comments of Dickson J. in The Queen v. Sault Ste-Marie, [1978] 2 S.C.R. 1299, a criminal case, in saying at 1011:
+
+In my opinion the penalties imposed under subsection 280(1) of the Excise Tax Act fall under the second category described by Dickson J. They involve “strict” as opposed to “absolute” liability and are susceptible of being challenged where the taxpayer demonstrates due diligence.
+
+[12] He explained the matter as follows at 1008:
+
+Although Mr. Justice Dickson was dealing with “offences” I can see no reason in principle for not extending his analysis to administratively imposed penalties as well. A penalty, as the name implies, is a form of punishment. It is, I think, contrary to ordinary concepts of fairness that a taxpayer should be penalized for a failure to observe a statutory provision or to calculate tax correctly if that taxpayer demonstrates that even with the exercise of due diligence the mistake was unavoidable.
+
+[Footnote omitted.]
+
+[13] However, there is another school of thought. In particular, Judge Sarchuk in Kornacker v. The Queen, 96 GTC 3057, said he did not think there was a defence of due diligence and stated, at page 3059:
+
+The interest and penalty sections of the Income Tax Act, more specifically subsections 161(1) and 162(1) have been considered by the Courts on a number of occasions. The language used in those sections is quite similar to that found in section 280 of the Excise Tax Act and the Courts have held, with respect to the income tax sections I referred to, that the legislative intent of those sections is obvious. The Courts have concluded that these subsections are substantive in nature and that the word “shall” in each is intended to be mandatory.
+
+. . .
+
+The word “shall” in section 280 of the Excise Tax Act is also intended to be mandatory. Thus when the conditions required are met the penalty and the interest must be imposed.
+
+[14] The Federal Court of Appeal has had at least two opportunities to settle this dispute, first in Locator of Missing Heirs Inc. v. The Queen, 97 GTC 7167, and then in A.G. Canada v. 770373 Ontario Limited, Canadian GST and Commodity Tax Cases 7030. It did not see fit to do so in either case. In the first one, the Court confirmed there had not been due diligence and was careful to note, after setting out the Minister's argument that there was no defence of due diligence in respect of an administrative penalty, that the Court reserved its decision on this point for another appeal. The same approach was taken in the second case, in which the matter was referred back to this Court because there was no evidence supporting the judge's findings that the defence was applicable.
+
+[15] Just recently, in Consolidated Canadian Contractors Inc. v. The Queen, 97 GTC 1074, Judge Bowman again found that the penalty specified in s. 280(1)(a) of the Act should be cancelled on the basis of the defence of due diligence, and I understand the Minister filed an application for judicial review last June in the Federal Court of Appeal. It is thus possible that the issue will finally be resolved by that Court in Consolidated.
+
+[16] For the purposes of the instant appeal no position needs to be taken on this point as, even if there were such a defence in law, I am not satisfied that FR submitted sufficiently persuasive evidence to show that the error of claiming the same ITCs twice could not have been avoided despite FR's due diligence.
+
+[17] It should be noted that the judges of this Court who accepted the defence required a high degree of proof of diligence for them to conclude that the penalty should be cancelled. In Pillar, supra, Judge Bowman said, at page 1010, “Innocent good faith does not, however, amount to due diligence.”
+
+[18] In Stafford, Stafford & Jakeman v. The Queen, 95 GTC 2033, 2035, the same judge said:
+
+Due diligence involves more than merely accepting, without more, some oral advice that an assessor with the Department of National Revenue may have given them. The GST implications of building large apartment complexes form an important part of Part IX of the Excise Tax Act. It is not clear what the context was in which the question was put to the assessor.
+
+[My emphasis.]
+
+[19] In Emily Wong and David Wong v. The Queen, 96 GTC 3188, Judge Bowman added:
+
+Due diligence is nothing more than the degree of care that a reasonable person would take to ensure compliance with the Act. It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department. I have great sympathy for taxpayers struggling with a complex and difficult statute, particularly in the early years. But the words in the penalty section cannot be ignored completely. I do not think that a defence of due diligence has been made, although I accept that Mr. Wong acted honestly and in good faith.
+
+[My emphasis.]
+
+[20] In Locator of Missing Heirs Inc. v. The Queen, 95 GTC 2135, Judge Bowman said:
+
+I do not think however that a due diligence defence has been made out. The appellant did not seek a ruling until October of 1993. That Mr. Howes was aware that there might be a problem is evident from the fact that he consulted counsel in May of 1991. It was not however reasonable for him to rely upon the letter of May 15, 1991 from his lawyer which I quoted above. The very nature of the appellant's business makes it apparent that Mr. Howes would have considerable familiarity with legal matters and with the ways in which lawyers give opinions or avoid giving opinions. The letter of May 15, 1991 is not an opinion. It is a first reaction to a legal problem coupled with a brief outline of some arguments that may be tried on. To rely on such a letter is not in my opinion due diligence.
+
+[My emphasis.]
+
+[21] In his reasons affirming this decision by Judge Bowman, Robertson J. said:
+
+In my respectful view it is unrealistic to take issue with Judge Bowman's findings. Contrary to what the taxpayer asserts in its submissions, the effect of the Tax Court's ruling is not tantamount to requiring the taxpayer, in retrospect, to have incurred excessive fees for a more comprehensive legal opinion. Rather, my understanding of Judge Bowman's reasons simply places on the taxpayer an obligation to have sought a ruling from the Department in a more timely fashion.
+
+[22] In White Rock Management Corp. v. The Queen, [1995] G.S.T.C. 50, Judge Sobier adopted the same approach as Judge Bowman:
+
+What the appellant did here was to talk to officials of Revenue Canada and the head of a real estate board. He did not consult with the Act or a lawyer. As Judge Bowman also said in Stafford, Stafford & Jakeman v. The Queen, [1995] G.S.T.C. 7, due diligence is not met if one merely makes enquiries of public officials.
+
+[My emphasis.]
+
+[23] Finally, Judge Lamarre of this Court said the following in 914115 Ontario Inc. v. The Queen, 97 GTC 1110:
+
+The fact that the appellant did not construe the Act in the same way as the Minister does not constitute a defence of due diligence, to the extent that such a defence may have been available to the appellant. No other evidence was presented on this point.
+
+[24] If I apply this approach to the facts of this appeal I find that the evidence is far from sufficient to show that FR acted diligently to avoid the error that occurred. All that FR asserted was that it hired accountants who prepared a ten-page document to describe what it had to do, and a computer programmer to modify its system so that the GST and ITCs would be calculated automatically.
+
+[25] The evidence did not indicate who was responsible for the errors made by FR. Were the accountants responsible for the error of claiming the ITCs twice, or was the programmer? We do not know, because Mr. Dionne's testimony was very general, not to say evasive, on the point. Neither the accountants, the programmer, the members of the committee to set up GST collection procedures or even the firm's tax lawyer, who was allegedly consulted, were called to testify so as to inform the Court of the circumstances in which the error occurred. Not even the ten-page document prepared by the accountants was filed.
+
+[26] Can the programmer really be held responsible for the error when we see that in the period from January to July 1991 FR did not claim the ITCs twice, although during that period photocopy charges were billed to its clients?
+
+[27] I cannot imagine that the accountants could have told FR it was entitled to claim ITCs twice for the same disbursement. I also cannot imagine how this could have been a source of legal confusion in respect the application of the Act. In any case, none of the accountants who advised FR came to provide the Court with an explanation.
+
+[28] In Boisvert v. The Queen, [1995] E.T.C. 598, Judge Garon of this Court, who had to determine whether directors had acted diligently to ensure that source deductions were remitted to the Minister, in assessing the evidence of one of the parties to the appeal who had not submitted certain testimony which it should have submitted, adopted the following approach by Judge Sarchuk:
+
+Absent any explanation, we are entitled to assume that such testimony would not have been favourable to the appellants. On this point, I would like to refer to a decision of my colleague Judge Sarchuk in Enns v. M.N.R., and specifically to the following passage at page 210 [the reference for this decision is 87 DTC 208]:
+
+In the Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+
+In the case of the plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden.
+
+[29] Here FR had a duty to present evidence that, in the circumstances of the instant case, it acted diligently in performing its obligations under the Act. FR did not show — and here I am using the words of Judge Bowman in Pillar, supra — that even with due diligence the mistake was unavoidable.
+
+[30] For these reasons the appeal is dismissed.
+
+Signed at Drummondville, Canada,
+
+February 11, 1998.
+
+Pierre Archambault
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 16th day of November 1998.
+
+Kathryn Barnard, Revisor
+

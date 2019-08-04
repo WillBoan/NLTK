@@ -1,0 +1,114 @@
+Date: 19981030
+
+Docket: 97-1386-IT-G
+
+BETWEEN:
+
+WILLIAM A. DUDNEY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.T.C.C.
+
+[1] These appeals are from assessments for income tax for the taxation years 1994 and 1995. Their subject matter is the proper interpretation to be given to the words “fixed base” found in Article XIV of the Canada-U.S. Income Tax Convention (1980) (the Convention). It is agreed between the parties that the Appellant was a resident of the United States of America, and not a resident of Canada, during all of the relevant time period. He worked in Calgary, Alberta, under a personal service contract for about 300 days in 1994, and for about 40 days in 1995. What I am required to decide is whether the income that he earned under that contract is to be taxed in Canada under the words of Article XIV, which reads:
+
+Article XIV
+
+Income derived by an individual who is a resident of a Contracting State in respect of independent personal services may be taxed in that State. Such income may also be taxed in the other Contracting State if the individual has or had a fixed base regularly available to him in that other State but only to the extent that the income is attributable to the fixed base.
+
+The only matter in dispute is whether or not the Appellant "had a fixed base regularly available to him". The Appellant says that he did not; the Respondent argues that he did.
+
+[2] The Appellant is a United States citizen. He has a degree in aerospace engineering from a university in the United States. In addition, largely through experience and self-training, he has acquired expertise in a discipline known as object oriented technology (OOT). For the purposes of this appeal, it is sufficient to say that OOT is a relatively new and sophisticated method by which computer systems may be developed.
+
+[3] In February 1993, a company called Object Systems Group Corporation (OSG) was formed. Soon thereafter it entered into its first contract, which was a master services agreement under which it provided certain services to PanCanadian Petroleum Limited (PanCan). This was replaced in 1994 by another master services agreement, under which OSG contracted to provide training to employees of PanCan in the use of OOT to develop computer systems. By the terms of the contract, the OSG personnel were to work with certain of the PanCan personnel, training them in the use of OOT, and in the course of doing so, assisting them in creating a computer system which would reside on a PanCan computer, and which would be owned and used by PanCan. No specific time for completion of the training was spelled out, and either party was free to terminate the contract by giving 30 days notice.
+
+[4] OSG carried out the contract in part through its own employees, and in part through independent contractors hired for that purpose. The nature and the novelty of the technology was such that it was almost impossible to find qualified instructors in Canada. OSG therefore recruited contractors in the United States. Among those that it recruited was the Appellant, whose residence at that time was in Houston, Texas. It was his expectation when he was hired that he would work for OSG for approximately one year, at which time the project was expected to be completed. However, his contract with OSG provided for termination on 30 days notice, mirroring that provision in the PanCan-OSG contract. He understood from the outset that he would be contracted to work at PanCan on the training of its employees.
+
+[5] The work was done on the premises of PanCan in Calgary. The Appellant was at first provided with a small room from which to work. After three months he was moved to a larger room, which he shared with a number of other consultants. Later he was moved to another room in a different building, also occupied by PanCan. For the most part, the actual training, or mentoring, of the PanCan personnel took place in the offices of the people being trained, or in a conference room. Sometimes there would be meetings or consultations in the space provided to the trainers. Their use of that space was strictly limited, however. It was available to them for the purpose of the contract only. They could not conduct any other business from there, they could use the telephone only for business related to the PanCan contract, and their access to the building was controlled by a magnetic card system, and restricted to business hours, on week days only.
+
+[6] The Appellant took no equipment of any kind with him when he went from Houston to Calgary. He had an office in his home in Houston, and from time to time he picked up voice-mail messages from there. He had no letterhead or business cards identifying him as working at PanCan, or elsewhere in Canada. He had no business licence in Calgary, and he was not identified as working in the PanCan premises, either on the directory in the lobby of the building or otherwise. He invoiced OSG on a regular basis for his hours of work. These invoices were prepared by him at home, either in Calgary or in Houston, and sent by fax to OSG. His cheques were sent to Houston to be deposited in his bank account there. He maintained a bank account in Calgary, which was used only for personal items related to daily living.
+
+[7] The Appellant spent 300 days in Canada in 1994, and about 40 days in 1995. He terminated his contract by giving 30 days notice to OSG, for personal reasons which made it desirable for him to return to Houston at that time. When he left the PanCan premises for the last time he took nothing with him, because he had nothing there to take.
+
+[8] The position taken by the Crown is that the Appellant, because he performed his services under the contract at a particular geographic location in Calgary, had a fixed base in Canada during the period in question. It is argued that the expression “fixed base” is of much wider import than the expression “permanent establishment”, which is defined in Article V of the Convention. The provisions of Article VII restrict taxation of the business profits of a non-resident to those profits earned in the foreign state which are attributable to business conducted through a permanent establishment situated there. The definition in Article V reads, in part, as follows:
+
+Permanent Establishment
+
+1. For the purposes of this Convention, the term "permanent establishment" means a fixed place of business through which the business of a resident of a Contracting State is wholly or partly carried on.
+
+2. The term “permanent establishment" shall include especially:
+
+(a) a place of management;
+
+(b) a branch;
+
+(c) an office;
+
+(d) a factory;
+
+(e) a workshop; and
+
+(f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
+
+The Crown’s position finds only some limited support in a treatise entitled Permanent Establishment, by Professor Arvid A. Skaar of the Norwegian School of Management, and the cases cited therein, which deal with much different fact situations from the present case.
+
+[9] The expression “fixed base” is not defined in either the Convention or the Income Tax Act (the Act). I must therefore give it a liberal interpretation, with a view to implementing the true intention of the contracting states, avoiding a literal or legalistic interpretation if that might defeat their intention. In doing so, I may refer to travaux préparatoire, including the OECD Model Convention, and the Commentary on it.[1]
+
+[10] One might at first blush think that the expressions “permanent establishment” and “fixed base” should be given two distinct meanings, the latter being something less substantial than the former. Otherwise, why would the Convention use different words in the two Articles? The use in Article XIV of the verbal phrase "to have ... available to him" seems to import something less than the phrase "to carry on business through ..." which is used in Article VII. Similarly, the noun "base" suggests a place from which one operates, as opposed to an "establishment", which may connote a place at which a business is carried on.[2]
+
+[11] However, I am of the opinion that there is little, if any, real difference in meaning between the two expressions as used in the Convention. I reach this conclusion largely on the basis of the OECD Model Convention, and the Commentary to it. Article 14, and the relevant portion of the Commentary to it, read as follows:
+
+OECD MODEL CONVENTION
+
+Article 14
+
+INDEPENDENT PERSONAL SERVICES
+
+1. Income derived by a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State unless he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities. If he has such a fixed base, the income may be taxed in the other State but only so much of it as is attributable to that fixed base.
+
+2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
+
+COMMENTARY ON ARTICLE 14
+
+CONCERNING THE TAXATION OF INDEPENDENT
+
+PERSONAL SERVICES
+
+...
+
+3. The provisions of the Article are similar to those for business profits and rest in fact on the same principles as those of Article 7. The provisions of Article 7 and the Commentary thereon could therefore be used as guidance for interpreting and applying Article 14. Thus the principles laid down in Article 7 for instance as regards allocation of profits between head office and permanent establishment could be applied also in apportioning income between the State of residence of a person performing independent personal services and the State where such services are performed from a fixed base. Equally, expenses incurred for the purposes of a fixed base, including executive and general expenses, should be allowed as deductions in determining the income attributable to a fixed base in the same way as such expenses incurred for the purposes of a permanent establishment (cf. paragraph 3 of Article 7). Also in other respects Article 7 and the Commentary thereon could be of assistance for the interpretation of Article 14, e.g. in determining whether computer software payments should be classified as commercial income within Articles 7 or 14 or as royalties within Article 12.
+
+(Amended on 23 July 1992; see HISTORY)
+
+4. Even if Articles 7 and 14 are based on the same principles, it was thought that the concept of permanent establishment should be reserved for commercial and industrial activities. The term "fixed base" has therefore been used. It has not been thought appropriate to try to define it, but it would cover, for instance, a physician's consulting room or the office of an architect or a lawyer. A person performing independent personal services would probably not as a rule have premises of this kind in any other State than of his residence. But if there is in another State a centre of activity of a fixed or a permanent character, then that State should be entitled to tax the person's activities.
+
+It can be seen that the Convention does not differ significantly from the wording of the OECD Model. Nor has Canada made any reservation of rights in respect of the relevant Articles of the OECD Model Convention.
+
+[12] Counsel for the Respondent argued vigorously that the Convention should be interpreted and applied so as to find that a non-resident person providing personal services in Canada at any identifiable location, even though it is totally under the control of someone else, has a fixed base available to him, and thus may be subject to tax in Canada on the income from those services.
+
+[13] In my opinion, the Crown's contention cannot succeed when viewed in light of the Commentary quoted above. These paragraphs make it clear that if the expressions "permanent establishment" and "fixed base" do not have identical meanings, then at least they are both intended to convey the sense of a place of business which is controlled by and identified with the enterprise carrying on business there, in the case of Article VII, or the person providing personal services, in the case of Article XIV.
+
+[14] The Appellant had no control over the premises in which he worked, nor was he identified with them in any way. This was not seriously challenged by the Respondent, whose case was simply that by working at a fixed location in Canada, albeit one dictated and totally controlled by PanCan, the Appellant became subject to taxation here. The Appellant had no freedom to come and go from the building where he worked except during normal business hours, and he could not do any work there, except that done under the contract for PanCan. Any other company wishing to use his services would not be able to find him there, as he was not identified anywhere as working at that location. He had no space in the building that was his exclusively, and in fact the location at which he did his work changed from time to time at the sole discretion of the PanCan personnel. He did not, in my opinion, have a fixed base regularly available to him.
+
+[15] I am reinforced in this conclusion by a consideration of the preamble to the Convention, which states that one of its objects is the avoidance of double taxation. The Appellant is a resident of the United States, and, there being no evidence to the contrary, I must assume that he is taxed there on his world income. It is difficult to see how the avoidance of double taxation would be promoted if he were found also to be taxable in Canada on his income earned here under the OSG contract.
+
+[16] The appeals are allowed, and the assessments are vacated. The Appellant is entitled to costs.
+
+Signed at Ottawa, Canada, this 30th day of October, 1998.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Crown Forest Industries Ltd. v. Canada, [1995] 2 S.C.R. 802 at 822.
+
+[2] The Canadian Oxford Dictionary, pp. 108, 476.
+

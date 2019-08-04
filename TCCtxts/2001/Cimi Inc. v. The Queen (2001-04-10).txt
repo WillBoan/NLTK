@@ -1,0 +1,338 @@
+Date: 20010410
+
+Docket: 1999-539-IT-G
+
+BETWEEN:
+
+CIMI INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Tardif, J.T.C.C.
+
+[1] This is an appeal concerning the Appellant's 1994 and 1995 taxation years.
+
+[2] To put the appeal in context, it is appropriate to reproduce a portion of the Notice of Appeal and, more specifically, paragraphs 1 to 6, inclusive, thereof:
+
+[TRANSLATION]
+
+Subject of the appeal
+
+1. An appeal is hereby instituted from reassessments nos. 5855664 and 5855665 issued by the respondent on August 12, 1997, under the Income Tax Act (the "I.T.A." or the "Act") (R.S.C. 1985 (5th Supp.), c.1, as amended) for the 1994 and 1995 taxation years, which reassessments were confirmed by the respondent on August 20, 1998, following notices of objection duly filed.
+
+Statement of Facts
+
+2. The appellant was constituted by a certificate of amalgamation dated February 8, 1994, following the amalgamation of CIMAC Inc. (hereinafter "CIMAC"), CIMI Inc. (hereinafter "CIMI 1"), and its majority shareholder is Yvon Pelchat.
+
+3. CIMAC had been incorporated on November 25, 1991, by Yvon Pelchat and Jacques Bédard, each of whom held 50% of the common shares directly, while Mr. Pelchat held 50% of the preference shares indirectly through CIMI and Mr. Bédard held 50% of the preference shares indirectly through ÉQUIMAC INC. (hereinafter "ÉQUIMAC"). Yvon Pelchat was the majority shareholder of CIMI 1 and Jacques Bédard was the sole shareholder of ÉQUIMAC.
+
+4. There was disagreement between Messrs. Pelchat and Bédard regarding the operations of CIMAC, and an order to wind up CIMAC was made on July 9, 1992, under the terms of which order a liquidator was appointed by the court.
+
+5. As part of the settlement between Yvon Pelchat and Jacques Bédard, Yvon Pelchat purchased, on January 19, 1994, all of the shares of CIMAC's capital stock held by Jacques Bédard and ÉQUIMAC. It was thereupon that CIMAC and CIMI 1, two corporations wholly controlled by Yvon Pelchat, were amalgamated on February 8, 1994.
+
+In its tax returns for the 1994 and 1995 taxation years, the appellant (a corporation resulting from the amalgamation of CIMAC and CIMI 1) claimed a deduction for non-capital losses in the amounts of $125,821 and $50,000 respectively which had earlier been incurred by CIMAC.
+
+[3] In order to justify the validity of the assessments, the respondent indicated in her Reply the facts she had assumed. It is appropriate to reproduce paragraphs 10 to 36 of the Reply to the Notice of Appeal (the "Reply"):
+
+[TRANSLATION]
+
+. . .
+
+10. CIMI Inc. is a corporation whose majority shareholder is Yvon Pelchat.
+
+11. ÉQUIMAC Inc. is a corporation whose sole shareholder is Jacques Bédard.
+
+12. On or about November 25, 1991, Yvon Pelchat and Jacques Bédard decided to operate a business through a new corporation, CIMAC Inc.
+
+13. CIMI Inc. and ÉQUIMAC Inc. became holders of an equal number of preference shares in CIMAC Inc.
+
+14. For their part, Yvon Pelchat and Jacques Bédard each became a holder of 50% of CIMAC Inc.'s common voting shares.
+
+15. On June 22, 1992, one of the shareholders, Jacques Bédard, filed a petition for the winding up of CIMAC Inc.
+
+16. On July 9, 1992, an order to wind up CIMAC Inc. was made and a liquidator was appointed.
+
+17. Pursuant to a judgment of the Superior Court rendered in the fall of 1992, the assets of CIMAC Inc. were sold at auction.
+
+18. In 1993, CIMAC Inc. had no employees.
+
+19. According to the liquidator, his mandate had ended in the fall of 1993, and he was prepared to distribute the remaining property of CIMAC Inc., namely, its cash, to the shareholders.
+
+20. However, the liquidator was unable to proceed with the distribution because of a conflict that pitted him against one or both of the shareholders because of the fact that his mandate and his fees were being challenged.
+
+21. On January 14, 1994, the liquidator was compensated and released from any liability by Yvon Pelchat and Jacques Bédard in respect of his mandate to wind up CIMAC Inc.
+
+22. On January 19, 1994, there was filed with the Superior Court a statement of out-of-court settlement in which Yvon Pelchat and Jacques Bédard consented to the liquidator's filing an application to quash the winding up order.
+
+23. On January 19, 1994, Yvon Pelchat purchased all the common voting shares of CIMAC Inc. owned by Jacques Bédard.
+
+24. With the purchase of those shares, Yvon Pelchat held control of CIMAC Inc.
+
+25. On January 20, 1994, the liquidator presented a petition to discontinue the winding up proceedings and for the discharge of the liquidator, which petition was granted the same day.
+
+26. On February 9, 1994, CIMAC Inc. and CIMI Inc. amalgamated to form the appellant.
+
+27. In the fall of 1992, CIMAC Inc. had no director, no employees and no inventory; at the very most it had a bank account showing its cash on hand, but indicating no subsequent business transactions.
+
+28. From July 9, 1992, to January 1994, CIMAC Inc.'s sole activity consisted in its winding up.
+
+29. From July 1992 on, CIMAC Inc. did not carry on a business for profit or with a reasonable expectation of profit.
+
+30. CIMAC Inc. put the balance of its non-capital losses at $175,821 at November 30, 1992; the appellant claimed a non-capital loss of $125,812 on its tax return for the 1994 taxation year and of $50,000 on its tax return for the 1995 taxation year.
+
+31. The Minister disallowed the non-capital losses thus claimed by the appellant on the grounds that CIMAC Inc. did not carry on a business for profit or with a reasonable expectation of profit in those years.
+
+32. Having sold all its assets, CIMAC Inc. had already ceased carrying on business before Yvon Pelchat acquired control of it on January 19, 1994.
+
+33. Moreover, although he disallowed them, the Minister nonetheless looked at what those non-capital losses consisted of.
+
+34. If the losses had been deductible, the Minister would in any case have revised them downwards.
+
+35. The Minister would thus in any event have disallowed $40,500 of the $175,821 since that portion was referable to a $40,500 inventory purchase in May 1992 that in fact never took place.
+
+36. Furthermore, the Minister would have disallowed an additional amount of $65,607 representing the expense for the liquidator's fees, which were capital in nature.
+
+[4] The respondent stated the questions at issue as follows:
+
+[TRANSLATION]
+
+The issue is whether the appellant is entitled to claim non-capital losses from CIMAC Inc. for 1994 and 1995.
+
+In the alternative, if the appellant is entitled to those losses, it must be determined whether the appellant is entitled to claim more than $69,714.
+
+[5] The appellant admitted paragraphs 10 to 18 inclusive, paragraphs 21 to 26 inclusive and paragraph 30 of the Reply, which have been reproduced above.
+
+[6] The appellant's evidence primarily consisted of the testimony of Yvon Pelchat. The respondent called Johanne Tremblay who was in charge of the appellant's file.
+
+[7] The appeal involves two aspects: first, determining whether CIMAC Inc. was an operating company during the period from 1992 to 1994; second, determining whether the amount of the losses claimed, namely $175,821, should be reduced by an amount of $40,500, corresponding to the purchase of inventory, and by a further amount of $65,607, representing the expense for the liquidator's fees.
+
+[8] Although the answer to the first question could render the second superfluous, I will start with the second.
+
+[9] According to the respondent, the expenses in the amount of $106,107 are not deductible since $40,500 was used for the uncompleted purchase of inventory and $65,607 was used to pay the liquidator's fees. The respondent submitted that such fees were expenses of a capital nature.
+
+[10] In this regard, the evidence adduced by the appellant does not rebut the respondent's arguments; the preponderance of evidence in fact favours and supports the latter's conclusions. What is more, the appellant led no evidence to rebut or contradict the assertion that the amount of $40,500 had not been used for anything other than the uncompleted purchase of an item of inventory, which purchase never actually took place.
+
+[11] The appellant essentially argued that the cheque, which had seemingly been used to pay for the purchase of the inventory item and redeposited in the account more than a year after it was issued, had no cash value because of the time that had passed between the date it was issued and the date it was deposited.
+
+[12] The value or worth of the cheque in the amount of $43,335 (Exhibit I-10) that was issued on May 8, 1992 and redeposited in the account on February 3, 1994 (Exhibit I-11) was of no relevance. The evidence should rather have dealt essentially with the purpose of the cheque or—which would have been even more to the point—with the reality of the expenditure.
+
+[13] Was it or was it not issued for the purchase of an item of inventory? There was no evidence from the appellant in that regard. I therefore rely on the respondent's explanations in finding that it was indeed an expenditure for the purchase of an item that had to be entered in inventory. As to why the cheque was redeposited, the Court's curiosity was left unsatisfied as no explanation was forthcoming. There is reason to assume that the inventory item which the cheque covered was never acquired.
+
+[14] With regard to the fees in the amount of $65,607, here again, the appellant adduced no evidence other than a partial admission that these expenditures were capital in nature. Indeed, the appellant essentially argued that a portion of the amount could have been allowed, but did not specify how much and, above all, did not explain why it should have been allowed.
+
+[15] Consequently, it is appropriate to confirm the respondent's conclusion regarding the total of $106,107, representing $40,500 for an inventory item and $65,607 for the liquidator's fees.
+
+[16] The appellant's evidence, in fact, dealt only with the remainder of the expenses, namely, $69,714, corresponding to the difference between $175,821 and $106,107. The amount of $69,714 was not the subject of any evidence or discussion; the evidence dealt exclusively with the question of whether CIMAC Inc. had always been operating.
+
+[17] The entitlement to claim losses following an amalgamation is governed by the provisions of subsection 111(5) of the Income Tax Act (the "Act"), which reads as follows:
+
+(5) Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that
+
+(a) such portion of the corporation's non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+
+(ii) only to the extent of the total of the corporation's income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+
+such portion of the corporation's non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+
+only to the extent of the corporation's income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+
+[18] Therefore, in order to use CIMAC Inc.'s non-capital losses for the 1994 and 1995 taxation years, the appellant had to prove that CIMAC Inc. had carried on a business for profit both at the time of the acquisition of control and throughout 1994 and 1995.
+
+The appellant's arguments
+
+[19] The appellant maintained that there had always been continuity; in other words, the appellant argued that CIMAC Inc. had never ceased operating. It was first established that CIMAC Inc. had been created and incorporated with assets from ÉQUIMAC Inc., a corporation controlled by a Jacques Bédard, and with assets from CIMI Inc., a corporation controlled by Yvon Pelchat.
+
+[20] After several months of operations, relations between Messrs. Pelchat and Bédard deteriorated to the point of causing considerable harm to the commercial activities of the new business.
+
+[21] Yvon Pelchat testified that he had put maximum effort and all his energy into bringing about a fast and inexpensive outcome, one that would have the least possible impact on the affairs of CIMAC Inc.
+
+[22] Concerned by the very high financial costs of the quarrel and anxious to minimize as much as possible the consequences of the estrangement between himself and Mr. Bédard, Mr. Pelchat had, he said, spared no effort to ensure that CIMAC Inc. would lose as little as possible in the venture and would continue to operate.
+
+[23] He explained that he himself had taken steps to recover a portion of the accounts receivable; he said that he had finalized two sales originating from leasing contracts and that he had also met the purchasers' expectations in respect of honouring the inherent guarantees.
+
+[24] Finally, Mr. Pelchat said he had been directly involved with meeting the various service requirements both after the leasing contracts were signed and after the sales were made.
+
+[25] There is no doubt that all those steps were taken in order to retain those clients who were unaware of the dispute and, ultimately, in order to receive the substantial 65% commission on the profits realized.
+
+[26] Yvon Pelchat also justified his involvement and interest on the basis that the inventories of CIMAC Inc. and CIMI Inc., companies that he controlled, were stored at the same location; their administration and administrative offices were likewise in the same building.
+
+[27] Yvon Pelchat explained that he had been very concerned about the situation; consequently, he said, he had done everything he could to shorten the liquidation process. He indicated that he had accordingly made an informal agreement with Mr. Bédard at a meeting in a restaurant, but that agreement was later repudiated. He also made an offer for the assets that was, according to him, accepted by the liquidator, John P. Buzzetti, but the transaction was never finalized.
+
+[28] Yvon Pelchat failed in his attempts to reach an out-of-court settlement and an auction was ordered by the court on October 22, 1992 (Exhibit I-3). Following the judgment, it would appear that the problems multiplied and that matters were at a standstill for many long months.
+
+[29] It was not until early in 1994 that the matter became active again and it would be appropriate here to set out again the allegations in paragraphs 21 to 26 of the Reply, which describe the sequence of events, especially since those paragraphs were all admitted:
+
+[TRANSLATION]
+
+21. On January 14, 1994, the liquidator was compensated and released from any liability by Yvon Pelchat and Jacques Bédard in respect of his mandate to wind up CIMAC Inc.
+
+22. On January 19, 1994, there was filed with the Superior Court a statement of out-of-court settlement in which Yvon Pelchat and Jacques Bédard consented to the liquidator's filing an application to quash the winding up order.
+
+23. On January 19, 1994, Yvon Pelchat purchased all of the common voting shares of CIMAC Inc. owned by Jacques Bédard.
+
+24. With the purchase of those shares, Yvon Pelchat held control of CIMAC Inc.
+
+25. On January 20, 1994, the liquidator presented a petition to discontinue the winding up proceedings and for the discharge of the liquidator, which petition was granted the same day.
+
+26. On February 9, 1994, CIMAC Inc. and CIMI Inc. amalgamated to form the appellant.
+
+[30] The respondent for her part argued that CIMAC Inc. ceased operations as soon as the Honourable Judge André Desmeules's interim injunction order of July 2, 1992, was issued (Exhibit I-1). That order read in part as follows:
+
+[TRANSLATION]
+
+. . .
+
+ORDERS Yvon Pelchat to draw no cheques on bank accounts belonging to Équipement Cimac Inc. without the express consent of Jacques Bédard;
+
+ORDERS Yvon Pelchat to take no administrative actions in respect of the company without the express consent of Jacques Bédard;
+
+ORDERS Yvon Pelchat not to dispose of any item of equipment from the company's inventory, of any of the company's assets or of any goods currently located on the property of Équipement Cimac Inc., without the express consent of Jacques Bédard;
+
+DISPENSES Jacques Bédard from giving security;
+
+DECLARES that this judgment is enforceable notwithstanding an appeal;
+
+DISPENSES with service of this judgment.
+
+THE WHOLE WITHOUT COSTS.
+
+[31] The injunction was followed on July 9, 1992 (Exhibit I-2) by an order of the Honourable Judge Jacques Blanchard for the winding up of the company, which read in part as follows:
+
+[TRANSLATION]
+
+ORDERS the winding up of Équipement Cimac Inc. in accordance with all the formalities and provisions of the law;
+
+
+
+APPOINTS John Buzzetti to be and act as liquidator with all necessary or useful and permissible powers in law to perform all the duties, functions and obligations associated with such a charge, pursuant to sections 24 et seq. of the Winding-up Act and other applicable statutes and laws;
+
+ORDERS that the liquidator be remunerated from the proceeds of the liquidation and rank over the creditors;
+
+ORDERS the distribution of the assets of the company in question in accordance with the law and that the distribution or ranking be done in accordance with the legal provisions made and provided for in such cases;
+
+ORDERS that all documents, books, minutes, certificates, seals and other things relating to the company in question be handed over to the said liquidator so that they may be dealt with according to the law;
+
+ORDERS that, after the investigation has been completed, the liquidator account for his administration, in accordance with the prescribed formalities;
+
+ORDERS the interim execution of this judgment notwithstanding appeal;
+
+RESERVES to the applicant any other remedies that he may seek against agreements R-1, R-2 and R-3;
+
+DISPENSES the liquidator from giving security;
+
+The whole, without costs.
+
+[32] A few months later, on October 22, 1992 (Exhibit I-3), the Honourable Edouard Martin, a judge of the Superior Court, ordered the liquidator, John P. Buzzetti, to proceed with the sale of the assets. The 22-page judgment provides a good illustration of the seriousness, depth and irreconcilability of the differences.
+
+[33] The respondent maintained that the company's only activities had nothing to do with its basic reasons for existence, that is, the sale, lease and repair of heavy equipment, but were instead directed towards a single objective, that is, a pure and simple winding up.
+
+[34] In support of her arguments, the respondent filed in evidence Exhibits I-5, I-6 and I-7 relating to the following periods:
+
+(a) from 01-12-91 to 30-11-92 (Exhibit I-5);
+
+(b) from 01-12-92 to 30-11-93 (Exhibit I-6); and
+
+(c) from 01-12-93 to 08-02-94 (Exhibit I-7).
+
+[35] In this documentary evidence (Exhibits I-6 and I-7), Mr. Pelchat, a duly qualified person, attested by his signature that the company was indeed a [TRANSLATION] "non-operating company". The question is: What was the principal activity of the corporation?
+
+[36] The three forms were completed by Mr. Pelchat's signature on the same day, that is, on July 27, 1994, and were all also received on the same day (August 30, 1994) by Revenue Canada.
+
+Analysis
+
+[37] The respondent's evidence was supported and reinforced by straightforward but telling documentary evidence; it answers the two basic questions: Were Messrs. Pelchat and Bédard, the only natural persons who could carry on business activities for and on behalf of CIMAC Inc., legally empowered to act?
+
+[38] The answer is obviously negative since both the injunction and the winding up order prevented the two principal shareholders, Messrs. Pelchat and Bédard, from acting.
+
+[39] Did they in fact act in such a way as would allow one to conclude that the company had engaged in activities with the objective of making a profit? Answering this question is a more delicate matter.
+
+[40] The appellant maintained that, while the reality of what was in fact done may not have been strictly legal, tax assessments must be based solely on that reality. Assuming I were tempted to entertain this argument, I would have to answer another question that is most certainly just as relevant, namely: How and why did Mr. Pelchat himself attest and certify by his signature on two occasions that the company was not operating?
+
+[41] Aware of the consequences of such duly signed declarations, the appellant answered that one should not attach too much importance to such signatures because the signing was done as a matter of routine, with the accountants having first prepared everything for signature.
+
+[42] I do not believe that this explanation can be accepted. Certainly, the accountants may have completed the forms but just as certainly they are not the only ones responsible for those declarations. The director of the appellant is accountable for them since his calling is dealing in heavy equipment. As a businessman, his primary calling or mission may not be to fill out forms but he must nonetheless verify and read the contents of what he attests by his signature.
+
+[43] To summarize, things unfolded as follows: after a few weeks of operations, a deep and irreparable breach took place between Messrs. Pelchat and Bédard, the principal players in the new business and the only two truly interested parties.
+
+[44] The assets of CIMAC Inc. were all located on land next to the property occupied and used by the appellant. The administrative offices were the property of IMPEL, a company controlled by the same person who controlled the appellant, namely, Yvon Pelchat.
+
+[45] Mr. Pelchat, who controls and directs the appellant, wanted to preserve its good reputation and also to expand that company, especially since the venture with Mr. Bédard, through CIMAC Inc., turned out to be a total failure.
+
+[46] He thus did everything he could to minimize his losses in the CIMAC Inc. venture while working very hard to ensure that the appellant could eventually resume its activities and indeed become more prosperous than it had been prior to the creation of CIMAC Inc.
+
+[47] The basic evidence submitted by the appellant showed only two acts, of a highly specific nature, and these were performed in the same way and in the following order: there were leases with an option to purchase; the option to purchase was exercised; service was provided, the inherent guarantees were honoured and the commission payable to CIMAC Inc. was recorded.
+
+[48] Certainly, those are two concrete examples but they are of very little significance for such a large business, especially since they were self-serving measures intended solely to serve the interests not of CIMAC Inc. but essentially of the appellant in anticipation of the aftermath of the storm.
+
+[49] These facts therefore confirm the accuracy and consistency of the facts attested through the signature of Mr. Pelchat (Exhibits I-5, I-6 and I-7).
+
+[50] Accordingly, I find that CIMAC Inc. was no longer carrying on a business for profit or with a reasonable expectation of profit in 1994 and 1995.
+
+[51] For these reasons, the appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 10th day of April 2001.
+
+"Alain Tardif"
+
+J.T.C.C.
+
+Translation certified true on this 17th day of August 2001.
+
+Erich Klein, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+1999-539(IT)G
+
+BETWEEN:
+
+CIMI INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on January 16 and 18, 2001, at Québec, Quebec, by
+
+the Honourable Judge Alain Tardif
+
+Appearances
+
+Counsel for the Appellant: Jules Turcotte
+
+Counsel for the Respondent: Sophie-Lyne Lefebvre
+
+JUDGMENT
+
+The appeal from the assessments made under the Income Tax Act for the 1994 and 1995 taxation years is dismissed with costs, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 10th day of April 2001.
+
+"Alain Tardif"
+
+J.T.C.C.
+
+Translation certified true
+
+on this 17th day of August 2001.
+
+Erich Klein, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+

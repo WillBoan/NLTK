@@ -1,0 +1,358 @@
+Date: 19980807
+
+Docket: 96-3585-IT-G
+
+BETWEEN:
+
+GERMAIN PELLETIER LTÉE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] Germain Pelletier Ltée (GPL) is contesting notices of assessment for the 1990, 1991 and 1992 taxation years and an assessment made on June 2, 1995, under subsection 160(1) of the Income Tax Act (Act). The last-mentioned assessment was for $681,251.21, but the Minister of National Revenue (Minister) has acknowledged that this must be reduced to $28,220.38 because the liability of Société immobilière Montbeillard inc. (SIM), the tax debtor that transferred property to GPL, was subsequently reduced to that amount. These appeals raise a number of issues, including:
+
+(i) as regards the 1990 taxation year, whether GPL incurred a $259,776 business investment loss in connection with a bad debt;
+
+(ii) as regards the 1991 taxation year, whether GPL incurred a $646,487 capital loss in connection with certain investments (advances and shares);
+
+(iii) as regards the 1992 taxation year, whether GPL owes interest and penalties on deficient tax instalments; and
+
+(iv) as regards the assessment of June 2, 1995, under section 160 of the Act, the fair market value of the property (Montbeillard land) transferred by SIM to GPL on August 8, 1991 (appraisal date) and the amount of SIM’s tax liability.
+
+[2] On the last point, the Minister argued that the fair market value of the land was $5,700,000, while GPL argued that the land was worth $4,035,000. The respondent acknowledged that if this Court finds that GPL can contest the amount of SIM’s tax liability and that the fair market value of the Montbeillard land was less than $5,632,587, SIM’s tax liability will be reduced to zero and the assessment will have to be vacated.
+
+[3] The resolution of the third issue will depend entirely on how the first two issues are dealt with, which will in turn depend on the amount of tax to be paid for the two taxation years to which those issues relate.
+
+Facts
+
+[4] SIM was incorporated on August 5, 1988, for the purpose of acquiring the Montbeillard land, which is in the city of Ste-Foy adjacent to the Henri IV autoroute between Boulevard Hochelaga and Chemin des Quatre-Bourgeois. SIM intended to build office buildings (commercial project) and residential buildings (residential project) on the land either as a long-term investment or for resale at a profit (Montbeillard Project or Project).
+
+[5] On October 28, 1988, GPL signed a shareholders’ agreement (agreement) with SIM’s other shareholders, 2624-9235 Québec Inc. and 2627-3243 Québec Inc. (these two corporations will be referred to hereinafter as the Wong group), Gestion Donat Flamand Inc. (Gestion Flamand), Paul Martin Inc. (PMI) and Sodéroc Développement Limitée (Sodéroc). SIM’s capital stock was distributed as follows at that time:
+
+Wong group 26 percent
+
+Gestion Flamand 26 percent
+
+Sodéroc 16 percent
+
+PMI 16 percent
+
+GPL 16 percent
+
+Under the agreement, the shareholders also promised to advance the money needed to finance SIM. As of October 31, 1988, GPL owned shares that had cost $18,464 and had advanced $188,576 to SIM.
+
+[6] All the shareholders had some experience in real estate. Since 1975, GPL had been operating a commercial and residential construction business and managing the many buildings it owned, including a number of shopping centres, particularly in the Lower St. Lawrence region. Its involvement in the Montbeillard Project was its first experience in the Québec area real estate market. The Wong group had expertise in home renovation. Sodéroc was a corporation owned by a group of engineers from Québec (Roche group) who worked in real estate. PMI was a real estate developer, while Gestion Flamand was owned by Mr. Flamand, who had previously sold a door and window manufacturing business and was involved in a number of real estate investments in the Québec area.
+
+[7] On October 31, 1988, SIM purchased the Montbeillard land, which had a total area of 1,518,591 square feet, from Centre commercial Côte St-Luc Limitée for $5,429,684. At the time, the land was charged with a servitude limiting its use as follows: 564,540 square feet for residential use and 954,051 square feet for office buildings no more than four stories high. The buildings could not be used for commercial purposes, aside from small premises no larger than 3,000 square feet on the ground floors of the office buildings. A maximum of 35,000 square feet could be used for commercial purposes in all of the buildings to be built.
+
+[8] By participating in the Montbeillard Project, most of SIM’s shareholders hoped to be subcontracted part of the work to be done. For instance, a corporation from the Roche group was to manage the construction work for the commercial project, while PMI was to carry out the residential project. A corporation from the Wong group was to administer and manage the rental of the office and residential buildings. As for GPL, it had no intention of being involved in the development of the Montbeillard land. It acted solely as an investor, having invested in SIM on the recommendation of PMI’s principal shareholder.
+
+[9] The Roche group was leasing an office on Boulevard Laurier in Ste-Foy and wanted to move into new premises belonging to it. To participate in SIM, obtain the right to manage the commercial project and ensure that the Roche group acquired its new premises at cost, Sodéroc promised in the agreement to have the Roche group move its office into a phase one building. It also promised to purchase 60,000 square feet of office space. SIM hoped that this would get the Project off to a quick start.
+
+[10] At a meeting on January 31, 1989, SIM’s board of directors adopted a resolution ordering that interest be paid at prime plus two percent on all the advances made to SIM by its shareholders. The development of the Montbeillard Project was also discussed. Representatives of the Roche group recommended that the initial phases of the Project be rescheduled. In particular, it was suggested that the construction of the Roche group’s building be postponed to the spring of 1990, with delivery in the spring of 1991. The reason given for this was that a large number of new office building projects had been announced in the area in the previous few months, which suggested that it would be more difficult to market new offices in the short term (1989 and 1990).
+
+[11] Over the course of 1989, steps were taken to obtain financing. The CIBC offered to provide SIM with a $5,400,000 bridge loan. A first hypothec was registered on July 7, 1989. The hypothecary loan included the usual giving-in-payment clause.
+
+[12] One year later, relations between Sodéroc and the other shareholders were strained. The other shareholders had learned that the Roche group was postponing its move and had renewed its lease for its offices on Boulevard Laurier. SIM therefore decided to revoke Sodéroc’s management contract at a meeting on January 17, 1990. Sodéroc contested the decision before an arbitrator and even obtained an injunction to prevent SIM from awarding a construction contract to another corporation. The directors considered winding up SIM. However, the parties reached an agreement on April 30, 1990: SIM sold part of the Montbeillard land (180,882 square feet) to the Roche group for $4.94 a square foot. The Roche group promised to begin construction work by June 30, 1990, at the latest and SIM promised to redeem Sodéroc’s shares for $98,464 and to repay the $281,536 that Sodéroc had advanced to it. Two notes for a total of $380,000, which were repayable on May 17, 1991, and bore interest at the rate of 10 percent a year, were secured by a second hypothec on the Montbeillard land.
+
+[13] In the summer of 1990, PMI experienced serious financial problems. SIM reached an agreement with PMI’s bank to redeem PMI’s shares in SIM and repay the advances made to it. A note was issued for $300,000, payable without interest on May 17, 1991. However, it was to bear interest after the maturity date at the National Bank of Canada’s prime rate plus two percent. The note was given to the National Bank of Canada, which was the assignee of the whole of PMI’s claims.
+
+[14] On July 12, 1990, SIM agreed with Entreprises HLP Inc. (Pomerleau group) to form a new corporation to carry out the commercial project. This agreement provided, inter alia, that Hervé Pomerleau Inc. was to obtain the lump-sum construction contracts for each phase of the commercial project. The agreement was cancelled a year later.
+
+[15] On August 22, 1990, SIM reached an agreement with Gestion Denis Beaubien Inc. (Gestion Beaubien) to carry out the residential project. A new company was to be created for that purpose. SIM and Gestion Beaubien were each to have a 50 percent interest in the company. Under this agreement, the new company was to award Construction Debeau Inc. (Debeau) a contract to manage the work required to carry out the project.
+
+[16] On September 30, 1990, at the end of GPL’s fiscal year, the advances it had made to SIM totalled $259,776.
+
+[17] On October 5, 1990, pursuant to its agreement with Gestion Beaubien, SIM sold part of the Montbeillard land to Les Appartements Montbeillard phase I, société en commandite, and Les Appartements Montbeillard phase II, société en commandite (the limited partnerships), to carry out the residential project. The sale price was $5 a square foot.
+
+[18] In November 1990, there was considerable tension between some of SIM’s shareholders, and especially between Gestion Flamand and the Wong group. Those two shareholders had invested together in another real estate project in the Québec area that was experiencing serious financial problems. As well, on April 23, 1991, the CIBC brought court proceedings seeking $2,000,000 from the same two shareholders. A meeting was held on November 29, 1990, that the parties have described as the [TRANSLATION] “night of the long knives” meeting. In the early hours of the morning, a memorandum of understanding (memorandum) was signed. The solution decided on was to separate the various shareholders’ interests in the Montbeillard Project. The Wong group was to take over the residential project, while GPL and Gestion Flamand were to keep the commercial project for SIM.
+
+[19] The memorandum provided that the Wong group would exchange its shares in and advances to SIM for an interest in the limited partnerships. However, for the residential project to be completed, it was essential that GPL and Gestion Flamand maintain their security in order to obtain financing from the Desjardins Mutual Life Assurance Company and the Caisse populaire Les Boulevards of Trois-Rivières. They also had to provide the city of Ste-Foy with a deposit of about $106,286 and bank letters of credit for $956,571 to guarantee payment for the improvements (waterworks and sewers) to be made by the city. However, the limited partnerships agreed to pay an extra $1,000,000 for their land, which represented an additional cost of $2.77 a square foot. That amount was to be secured by a third hypothec.[1]
+
+[20] When GPL and Gestion Flamand went to the CIBC on December 6, 1990, to obtain the bank letters of credit, the bank required security that Gestion Flamand was unable to provide. It should be noted that Mr. Flamand had health problems in addition to his financial problems. GPL realized that it would have to acquire all of SIM’s shares and become its sole shareholder, since it did not want to bear all the risks of financing while owning only about half of SIM’s shares.
+
+[21] On December 21, 1990, Gestion Flamand revoked in writing all of the security it had given the CIBC, the Caisse populaire Les Boulevards and the Desjardins Mutual Life Assurance Company. As a result, the financing for the residential project was frozen.
+
+[22] On January 4, 1991, Debeau informed the limited partnerships, SIM and Germain Pelletier that the continuation of the construction work was in jeopardy because of the freeze on the residential project’s financing. On January 14, 1991, Debeau gave SIM and its shareholders formal notice to advance the money needed to carry out the project.
+
+[23] On January 21, 1991, GPL’s directors met to discuss the Montbeillard Project. At that point, it was stated [TRANSLATION] “that the company will have to take control and make significant investments; however, Germain Pelletier and Marc Pelletier believe that the site in the city of Ste-Foy is very valuable”.
+
+[24] Because of Gestion Flamand’s failure to honour its commitments, GPL was obliged to finance SIM’s activities alone; in particular, it had to deposit $106,286 and provide bank letters of credit so that the limited partnerships’ project could be completed. It also had to (i) deposit a letter of guarantee for $300,000 with the Desjardins Mutual Life Assurance Company; (ii) deposit a bond in the amount of $1,500,000 with the CIBC to guarantee payment of the $1,100,000 cost of the waterworks and sewer services and absorb the $400,000 that had been overspent on the line of credit; and (iii) pay the CIBC $197,603 in interest on the hypothecary loan made to SIM.
+
+[25] On February 7, 1991, GPL acquired the $1 million hypothecary claim against the phase I limited partnership from SIM and, in return, promised to pay the $1,062,857 cost of municipal services and absorb the amounts overspent on the lines of credit provided by SIM’s bankers. The same day, the Wong group sold GPL all of its shares in SIM for $25,000 together with its claim for the $475,000 it had advanced to SIM. Out of the total price of $500,000, $100,000 was payable in cash, while the balance was secured by a partial assignment of the $1 million hypothecary claim.
+
+[26] Because of all the problems that had arisen between the shareholders, the CIBC lost interest in financing the Project. On February 4, 1991, it adjusted its financing offer by lowering the credit limit to $3,200,000 while maintaining the same requirements for outlays of capital by the shareholders.
+
+[27] The CIBC’s financing terms were such that GPL no longer saw any benefit to keeping SIM in existence. SIM had also accumulated a substantial deficit of about $1 million.[2] GPL decided to complete the Montbeillard Project itself. To acquire the rest of the Montbeillard land, which had an area of 603,110 square feet, GPL decided to repay all the money SIM owed the CIBC, which totalled $3,429,070.65. On April 29, 1991, the CIBC assigned its hypothecary claim to GPL with a right of subrogation.
+
+[28] On May 17, 1991, GPL registered a 60-day notice in accordance with articles 1040a et seq. of the Civil Code. The notice set out SIM’s omissions and breaches and stated that SIM could prevent the exercise of the giving-in-payment clause by remedying the omissions mentioned in the notice.
+
+[29] By letters dated January 10 and February 19, 1991, GPL had given Gestion Flamand formal notice to remedy its contractual fault or sell GPL its shares for a price equal to 75 percent of their fair value, as was provided for in the shareholders’ agreement. GPL estimated that value at $1. To arrive at that value, GPL assumed that the average cost of the remaining 608,000 square feet was $8.68 a square foot, that the fair value of the land (according to an appraisal dated October 1990) was $9.50 a square foot and that the deficit (even taking into account a hypothetical sale at $9.50 a square foot) was $510,195.[3] On June 12, 1991, after GPL applied for arbitration, Gestion Flamand agreed to assign all of its shares in SIM to GPL for $1. From that date on, GPL was SIM’s sole shareholder.
+
+[30] A demand letter was sent by Sodéroc on May 23, 1991, a few days after GPL sent the 60-day notice. As a result, GPL acquired Sodéroc’s claim against SIM (the two notes for a total of $380,000) from Sodéroc for $375,000 on July 16, 1991. GPL thus became subrogated to Sodéroc’s rights in the second hypothecary claim.
+
+[31] Shortly thereafter, on August 8, 1991, SIM, which had not remedied the contractual fault mentioned in the 60-day notice, transferred its remaining portion of the Montbeillard land to GPL pursuant to the giving-in-payment clause. Following that transfer, SIM no longer had any assets that would have enabled it to continue carrying on business. It ceased operations and eventually declared bankruptcy on April 15, 1994.
+
+[32] SIM’s gain on the transfer of the Montbeillard land to GPL was added as business income by the Minister. He first estimated the fair market value of the land at $7.2 million, which meant that SIM owed $681,251 in tax. SIM did not pay this amount, since it no longer had the financial resources to do so. The Minister therefore assessed GPL for the amount under section 160 of the Act on June 2, 1995.
+
+[33] Subsequently, on June 24, 1996, the Minister reduced the fair market value of the Montbeillard land to $5.7 million. In support of that value, the Minister called Yvon Ouellet, a chartered appraiser in his employ, as a witness. The appraiser’s opinion was that the Montbeillard land was worth $6,564,000 on August 8, 1991. To determine that value, he used the direct comparison approach, which involves reviewing recent sales of similar properties in the same district as the land to be appraised and extracting data therefrom that can be used as a basis for determining the value of the immovable under consideration.
+
+[34] The appraiser identified 21 transactions in the city of Ste-Foy (Haute-ville district). Some of the sales were excluded because they involved land on Boulevard Laurier, an area with a higher use potential than the Montbeillard land. Other transactions were eliminated because they involved sales of land for residential use only and the appraiser considered their use potential to be lower than that of the land he was appraising.
+
+[35] Mr. Ouellet selected three sales that he considered the most representative. The price per square foot ranged from $9.79 to $11. The sale at $11 involved 180,882 square feet of land that the Roche group purchased from SIM at $4.94 a square foot and transferred to a corporation in which it had a majority interest. That sale occurred on September 12, 1990. It was on that site that the Roche group built its new premises. The site is at the northern end of the Montbeillard land and fronts on Chemin des Quatre-Bourgeois.
+
+[36] The other two pieces of land selected by Mr. Ouellet are also on Chemin des Quatre-Bourgeois. Unlike the Roche group’s land, they have direct access to that road. One has an area of 76,114 square feet and was sold for $9.79 a square foot, while the other has an area of 92,644 square feet and was sold for $10.25 a square foot. The second was zoned CC/4, which was less restrictive than the zoning of the Montbeillard land. It authorized class I, II and III commercial use. The floor­-area ratio was 3.0, whereas the floor-area ratio of the Montbeillard land could not exceed 2.0.
+
+[37] Mr. Ouellet also took into account a piece of land that SIM sold to Bell Cellular in 1992. It is at the southern end of the Montbeillard land and fronts on Chemin Hochelaga. Bell Cellular purchased not only the land, which has an area of 42,481 square feet, but also a building built by SIM. In breaking down the purchase price between the land and the building, the parties assigned a value of $6.60 a square foot to the land. According to the Minister’s appraiser, the value assigned to the building did not include the profit margin that a contractor is normally entitled to demand. He therefore added $153,900 to the construction cost, which raised the unit price of the land to $13.30 a square foot.
+
+[38] Mr. Ouellet consulted a study by Racine, Larochelle et Associés, a Québec area firm of consulting appraisers, which had been summarized in an article in the Les Affaires newspaper on November 9, 1991. The article noted that the average absorption rate for new office space was 350,000 square feet over the previous 10 years, whereas the rate for the previous 18 months was 723,000 square feet. The vacancy rate was nearly 10 percent in the city of Québec in October 1991, but it was lower (6.2 percent) in the Haute-ville district of Ste-Foy. The author of the study, Mr. Larochelle, said he was confident that the surplus of office space could be absorbed over a period of two years.
+
+[39] Mr. Ouellet therefore concluded that SIM would be able to dispose of its 603,110 square feet over a period of four years at a rate of about 150,000 square feet a year. After analysing the sales, he concluded that the unit price applicable to sites with an average area of about 150,000 square feet was $12 a square foot. He estimated that the net cost of retaining the land during that period was five percent per annum. He determined the net market value of the land as follows:
+
+Year 1 150,000 sq. ft. X $12 = 1,800,000 X 0.97561 = $1,756,000
+
+Year 2 150,000 sq. ft. X $12 = 1,800,000 X 0.92860 = $1,671,500
+
+Year 3 150,000 sq. ft. X $12 = 1,800,000 X 0.88385 = $1,590,900
+
+Year 4 153,110 sq. ft. X $12 = 1,837,000 X 0.84126 = $1,545,700
+
+Total: $6,564,100
+
+Value rounded off to $6,564,000
+
+[40] Martin Isabel, a chartered appraiser, also produced an appraisal report at GPL's request. The report states that, according to the municipal assessment, the value of the land on July 1, 1990, was $2,905,340, or $4.95 a square foot. Mr. Isabel also used the direct comparison approach to determine the value of the land. After studying the market, he identified 14 sales of sites earmarked for residential and commercial construction.
+
+[41] Like Mr. Ouellet, Mr. Isabel attached more importance to vacant commercial land. Basically, he considered the same four sales as Mr. Ouellet: the three sales of land on Chemin des Quatre-Bourgeois and the sale to Bell Cellular. However, Mr. Isabel felt that the three sites on Chemin des Quatre-Bourgeois had a higher value than the Montbeillard land, which fronts on a side street. Consideration had to be given not only to the lower commercial potential of land on such a street, but also to the restrictions on the commercial use of the ground floors of any buildings built on the Montbeillard land. In Mr. Isabel’s view, this justified a lower unit value of around $8.50 a square foot.
+
+[42] Like Mr. Ouellet, Mr. Isabel felt that it would take some time to sell all the Montbeillard land. In his opinion, six years would be needed. He based that conclusion on his assessment of the market for office space in the Québec metropolitan area. There was a great deal of construction of new buildings from 1986 to 1990, mainly in the Lebourneuf district and in the Haute-ville district of Québec. The supply of office space increased by 1.5 million square feet. An upward trend in vacancy rates began in 1989, as the negative effects of the recession were felt. According to a study by Desjarlais Prévost et Associés Inc., the vacancy rate for the Québec metropolitan area rose from 6.6 percent in 1988 to 12 percent in 1991.
+
+[43] On the appraisal date, the market for office space in the Québec metropolitan area was already in an extremely difficult phase. Rising vacancy rates resulted in a significant increase in rental incentives. The study submitted by Mr. Isabel in support of his report is dated April 1994. It shows that the demand for offices had been declining since 1989 in the private sector and since 1990 in the public sector. There was almost no private sector demand in 1992 and 1993.
+
+[44] Mr. Isabel also took account of the fact that it takes a long time to develop a very large piece of land, which means that the owner incurs significant costs to retain the land. On the appraisal date, the return on risk-free investments was 10 percent and the historical inflation rate was about 5 percent. He therefore estimated that the net annual retention cost would be 5 percent. He adopted a discount rate of 10 percent, to which he added 1 percent for the yearly taxes to be paid. Mr. Isabel determined the fair market value of the Montbeillard land on August 8, 1991, as follows:
+
+Revenue Discounted at
+
+11%
+
+Year 1 100,000 sq. ft. @ $8.50 $850,000 $765,800
+
+Year 2 100,000 sq. ft. @ $8.92 $892,500 $724,400
+
+Year 3 100,000 sq. ft. @ $9.37 $937,000 $685,100
+
+Year 4 100,000 sq. ft. @ $9.84 $984,000 $648,200
+
+Year 5 100,000 sq. ft. @ $10.33 $1,033,000 $613,000
+
+Year 6 103,110 sq. ft. @ $10.85 $1,119,000 $598,300
+
+603,110 sq. ft. $4,034,800
+
+Rounded off to $4,035,000
+
+Or: $6.69/sq. ft.
+
+Analysis
+
+Section 160 of the Act
+
+[45] It will be helpful to reproduce subsection 160(1) of the Act, which is the provision under which the Minister made his assessment:
+
+160(1) Where a person has, on or after the 1st day of May, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+
+(a) his spouse or a person who has since become his spouse,
+
+(b) a person who was under 18 years of age, or
+
+(c) a person with whom he was not dealing at arm’s length,
+
+the following rules apply:
+
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74 to 75.1, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+
+(ii) the aggregate of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+
+Under this section, where a taxpayer acquires property from a person (the tax debtor) with whom he or she is not dealing at arm’s length and the tax debtor owes tax (tax liability) to the Minister, the taxpayer becomes liable to pay the tax debtor’s tax in an amount equal to the amount by which the fair market value of the property exceeds the fair market value of the consideration given, up to the amount of the tax liability. To determine whether the Minister’s assessment is correct, three amounts must be considered: the fair market value of the property, the fair market value of the consideration and the amount of the tax liability.
+
+[46] Before considering the issue of fair market value, it should be noted that fair market value is important not only for the purposes of section 160 but also in determining the tax liability. The circumstances before the Court are quite exceptional. The tax liability results primarily, if not entirely, from SIM’s gain on the transfer of the Montbeillard land to GPL. Counsel for the Minister has acknowledged that SIM would owe no tax if the fair market value of the land were less than $5,632,587.
+
+[47] The first issue that must be resolved is therefore the fair market value of the Montbeillard land. Much of the argument at the hearing dealt with this issue. The direct comparison approach used by both of the chartered appraisers must be used as a basis for determining the fair market value as of the appraisal date. The appraisers not only used the same appraisal approach, but also relied on the same real estate transactions to determine the unit price of the land.
+
+[48] In my opinion, two of those transactions must be excluded, namely the sale by the Roche group to a related corporation at $11 a square foot and the sale by SIM to Bell Cellular, both of which involved land that was originally part of the Montbeillard land. These two sales do not provide the best assurances for the determination of a fair market value. The first was a transaction between related parties. In the second, the contract between the parties does not make it possible to determine the price of the land with any certainty.
+
+[49] In all likelihood, GPL and Bell Cellular had the same interests when they determined the price to assign to the land. It is generally to a purchaser's advantage to assign a higher value to the building, since the cost of the land cannot be amortized. Generally speaking, it does not matter to the seller whether the price is allocated to the land or the building. In this case, it might even have been to GPL's advantage to set the value of the land as low as possible, as this would put it in a better position to defend itself against a tax assessment resulting from its acquisition of land from SIM at a price that may have been below the fair market value.
+
+[50] The adjustments made by the Minister’s appraiser to the price breakdown by Bell Cellular and GPL do not provide any better assurances as regards the determination of the value of the land. It is instead necessary to rely on the other two transactions involving land on Chemin des Quatre-Bourgeois. The prices for those transactions were $9.79 and $10.25 a square foot.
+
+[51] I agree with Mr. Isabel that the commercial potential of the Montbeillard land was not as high as that of the other two pieces of land. The pieces of land on Chemin des Quatre-Bourgeois are more visible and accessible than the Montbeillard land. To reach the Montbeillard land, it is necessary to take a residential road off of either Chemin des Quatre-Bourgeois or Chemin Hochelaga. The servitude charging the Montbeillard land must also be considered. The very limited commercial use potential of the ground floors justifies a lower unit value than the values determined for the two pieces of land on Chemin des Quatre-Bourgeois. However, I feel that $9.25 a square foot would be a more reasonable value to take account of these constraints than $8.50 a square foot.[4]
+
+[52] The holding period for this large piece of land must still be determined. I believe that Mr. Isabel was overly influenced by events in 1992 and 1993, when the real estate market was at its lowest point in the Québec metropolitan area. His study was based on a study of April 1994. However, August 8, 1991, is the relevant date for assessing the state of the real estate market in the district where the Montbeillard land is located.
+
+[53] As shown by the article in the Les Affaires newspaper on November 9, 1991 — which was quite close to the appraisal date — people had not yet realized the scope of the problems that would be experienced in the market for office space in the Québec area. For example, Mr. Lachapelle was confident that the surplus of new space could be absorbed over a period of two years.
+
+[54] It should also be noted that the data used by Mr. Isabel to form a picture of the real estate situation in the city of Ste-Foy were based on the Québec metropolitan area as a whole. As shown by the article in Les Affaires, the Haute-ville district of Ste-Foy differed from the rest of the Québec metropolitan area in that it had a lower vacancy rate: 6.2 percent rather than 10 percent. Since the decline in the real estate market was just starting on the appraisal date and since its full scope was not yet understood, I consider it more reasonable to adopt a holding period of four years, as the Minister’s expert did.
+
+[55] If I incorporate the changes referred to above into Mr. Isabel’s calculations, I arrive at a fair market value rounded off to $4,630,000, or $7.68 a square foot, determined as follows:
+
+Revenue Discounted at
+
+11%
+
+Year 1 150,000 sq. ft. @ $9.25 $1,387,500 $1,250,000
+
+Year 2 150,000 sq. ft. @ $9.71 $1,456,875 $1,182,432
+
+Year 3 150,000 sq. ft. @ $10.20 $1,529,719 $1,118,517
+
+Year 4 153,100 sq. ft. @ $10.71 $1,639,507 $1,079,994
+
+Total $4,630,943
+
+Rounded off to $4,630,000
+
+or: $7.68[5]
+
+[56] If the Minister had used a fair market value of $4,630,000 for the Montbeillard land when he assessed SIM for 1991, SIM would have owed no tax. Counsel was reluctant to acknowledge that the assessment of June 2, 1995, should be vacated, since he was not sure that this Court has jurisdiction to consider the amount of SIM’s tax liability.
+
+[57] His uncertainty probably stemmed from the recent decision in Schafer v. The Queen, 95-1730(GST)G, in which my colleague Judge Mogan found that a taxpayer assessed under a section analogous to section 160 could not contest the amount of tax owed by the tax debtor. He relied on a section analogous to subsection 152(8) of the Act, which establishes a presumption that the Minister's assessment is valid. However, that decision goes against a certain line of judgments by this Court according to which a taxpayer can contest the amount of the tax liability. See, inter alia, Kraychy v. The Queen, 96 DTC 1479 (Judge Sobier); Route Canada Real Estate Inc. v. Canada (No. 1), [1995] 2 C.T.C. 2421 (Judge Bell); Route Canada Real Estate Inc. v. Canada (No. 2), [1995] 2 C.T.C. 2430 (Judge Sarchuk); Acton v. The Queen, 95 DTC 107 (Judge Bowman); Sarraf et al. v. M.N.R., [1994] 1 C.T.C. 2519, 94 DTC 1506 (Judge Bowman); Ramey v. The Queen, [1993] 2 C.T.C. 2119, 93 DTC 791 (Judge Bowman), and Thorsteinson v. M.N.R., [1980] C.T.C. 2415, 80 DTC 1369 (Tax Review Board Member D. E. Taylor). To my knowledge, the Federal Court of Appeal has not yet had to consider this question.
+
+[58] In the case at bar, it would be totally unfair to conclude that GPL cannot contest the amount of the tax debtor’s tax liability. SIM was bankrupt when it was assessed, and it was the trustee who had to decide whether to contest the Minister’s assessment. It is easy to imagine that the trustee’s interests could have differed from those of GPL when he decided not to appeal the assessment in respect of SIM.
+
+[59] The context in which the Minister makes assessments under section 160 of the Act should also be borne in mind. Strictly speaking, what is involved is not an assessment for tax owed by a taxpayer, but a procedure for collecting from a third party amounts owed by another taxpayer. It is a kind of Paulian action brought by the Minister. In my view, it is essential that the third party against whom such an action is brought be able to contest the amount of the debtor’s liability. I do not think that the presumption of validity set out in subsection 152(8) of the Act applies to a third party.
+
+[60] It is hard to imagine a better example than the circumstances of this appeal to illustrate the need for a taxpayer who is assessed under section 160 to be able to contest the amount of the tax liability. It might even be asked whether it would not be fairer for the burden of proof to be on the Minister and for him to have to show that the tax liability is in fact payable. However, it is not necessary to rule on this here, since the Minister has acknowledged that the tax liability is nil if the fair market value is below $5,632,587. The value I have determined is well below that amount.
+
+[61] Even if this Court did not have jurisdiction to verify the legitimacy of SIM’s tax liability, I would still reach the conclusion that the assessment must be vacated, since the fair market value of the Montbeillard land does not exceed the value of the consideration received by SIM. When the Montbeillard land was transferred on August 8, 1991, SIM owed GPL $4,641,727, the components of which were as follows:
+
+Advances by GPL as of 30-9-90 $259,776
+
+Advances by GPL in 1991 $102,880
+
+Claim acquired from the Wong group on 7-2-91 $475,000
+
+Claim acquired from the CIBC on 29-4-91 $3,429,071
+
+Claim acquired from Sodéroc on 16-7-91 $375,000
+
+TOTAL $4,641,727
+
+[62] If GPL and SIM had been dealing with each other at arm’s length on August 8, 1991, I am convinced that SIM would have required that the land be transferred in exchange for the forgiveness of a debt of at least $4,630,000, which was the value of the land, and that GPL would have agreed to this demand. I see no reason to adopt a different interpretation in a case like this one where the parties were not dealing with each other at arm’s length. In the circumstances, it was not essential that SIM obtain a written release. Once the land was transferred, SIM became insolvent and it was well aware that GPL would not come back and claim what it was owed.
+
+[63] To acquire the land, GPL began purchasing all the other shareholders’ shares and the advances that some of them had made to SIM. To gain control of SIM, GPL purchased the shares of and advances made by the Wong group. It then acquired the CIBC’s hypothecary claim, which would enable it to acquire the Montbeillard land without becoming involved in the proceedings brought by some of SIM’s other creditors, including the National Bank, which SIM owed $300,000 for PMI’s shares and advances, and Gestion Flamand, whose advances appear never to have been repaid. Finally, to acquire the right to keep the land, GPL had to pay off Sodéroc, which had a $380,000 hypothec on the land.
+
+[64] In my view, all these preliminary steps were essential for GPL to take control of the Montbeillard land. When SIM transferred the land to GPL, this was paid for by means of a set-off equivalent to payment of the amounts owed by SIM to GPL up to $3,630,000. The assessment under section 160 of the Act must therefore be vacated.
+
+Business investment loss of $259,776
+
+[65] The next issue that must be addressed is whether GPL is entitled to deduct a business investment loss for the $259,776 it had advanced to SIM as of September 30, 1990. For a loss under paragraph 39(1)(c) of the Act to exist, a disposition must have occurred on that date. GPL argued that the advance was a bad debt on September 30, 1990, and that it was deemed to have disposed of it under paragraph 50(1)(a) of the Act, which reads as follows:
+
+50(1) For the purposes of this subdivision, where
+
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to him in respect of the disposition of personal-use property) is established by him to have become a bad debt in the year, or
+
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+
+(iii) at the end of the year, the corporation is insolvent and neither the corporation nor a corporation controlled by it carries on business, and
+
+(A) at the end of the year, the fair market value of the share is nil and it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business, and
+
+(B) in the taxpayer’s return of income under this Part for the year the taxpayer elects to have this subsection apply in respect of the share,
+
+the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately thereafter at a cost equal to nil.
+
+[66] GPL argued that its advance was uncollectable as a result of SIM’s very precarious financial situation. Two of the other shareholders, PMI and Sodéroc, had withdrawn. The board of directors had even decided to wind up and dissolve SIM. Had they done so, the hypothecary creditors would have repossessed the immovables and the shareholders could not have been repaid their advances.
+
+[67] I do not consider GPL’s argument valid. While section 50 does provide that it is up to the taxpayer to establish that a debt owing to the taxpayer has become a bad debt, the taxpayer’s decision as to whether a debt has become a bad debt must be reasonable. In Hogan v. M.N.R., 56 DTC 183, at page 193, Tax Appeal Board member W. S. Fisher stated that the taxpayer must consider the relevant factors “honestly and reasonably” in making that decision:
+
+For the purposes of the Income Tax Act, therefore, a bad debt may be designated as the whole or a portion of a debt which the creditor, after having personally considered the relevant factors mentioned above in so far as they are applicable to each particular debt, honestly and reasonably determines to be uncollectable at the end of the fiscal year when the determination is required to be made, notwithstanding that subsequent events may transpire under which the debt, or any portion of it, may in fact be collected. The person making the determination should be the creditor himself . . . .
+
+[68] In the case at bar, I have not been persuaded by GPL's evidence that it acted reasonably in determining that its $259,776 advance had become uncollectable. First of all, no representative of GPL came to explain how this conclusion was reached. Only the lawyer who looks after business matters for GPL came to describe the events that could have led GPL to conclude that the debt had become uncollectable. However, he himself was not involved in making that decision.
+
+[69] Nor do I consider it reasonable, in the circumstances shown by the evidence in this appeal, to conclude that the advance was uncollectable. First of all, we are not dealing with a claim for property sold or a service provided by GPL. We are dealing with advances that were used to meet SIM’s capital needs in order to finance the development of the Montbeillard land. I believe that the comments made by Judge Rip in Business Art Inc. v. M.N.R., 86 DTC 1842, at page 1848, which were cited by counsel for GPL in his written arguments, provide a good description of this situation:
+
+It is not unusual for a person to invest in a corporation by subscribing for share capital and lending money without interest; as far as he is concerned the shares and his loans constitute a single investment and if later on, he is called on to advance further funds without interest he is only increasing his investment.
+
+[70] In this case, there was no term for repayment of the advances. Initially, no interest even accrued on them. It was not until the meeting on January 31, 1989, that the shareholders adopted a resolution providing for interest on the advances. What was involved was therefore basically long-term financing. The shareholders knew full well that their advances could not be repaid quickly and that further advances would be necessary to meet SIM’s future financial needs.
+
+[71] In addition, no evidence was adduced showing that on September 30, 1990, GPL intended to withdraw from SIM as PMI and Sodéroc already had. No evidence was adduced showing that GPL asked for its $259,776 advance to be repaid before October 1, 1990. Not only did GPL remain a shareholder in SIM, it also advanced additional amounts thereafter. Although GPL was a passive investor at first, over the months that followed it became SIM’s only shareholder to continue carrying out the Montbeillard commercial project. Even though setbacks kept occurring, the other shareholders were withdrawing and ever larger amounts had to be invested to carry out the Montbeillard Project, GPL provided the funds needed to do so. Why? Partly because it believed that the land was “very valuable” (meeting of January 21, 1991). It is therefore difficult to conclude that the $259,776 advance would not have been repaid. In any event, the amount in question would have had to be payable. How could the advance be uncollectable if it was not yet payable?
+
+[72] It is true that the directors were considering asking the shareholders to approve SIM’s dissolution. However, it is important to put that proposal in context. Sodéroc had obtained an interlocutory injunction preventing SIM from awarding the contract to manage the commercial project to other contractors. At that point, SIM was looking for a way to circumvent the injunction. SIM had to resign itself quickly to agreeing with Sodéroc, and after that it was business as usual for SIM. Before September 30, 1990, SIM negotiated an agreement with Gestion Beaubien to carry out the residential project and reached a similar agreement with the Pomerleau group for the commercial project. Those agreements clearly show that SIM was going forward even after agreeing to repay the advances owed to PMI and Sodéroc.
+
+[73] In conclusion, I have not been persuaded that the taxpayer acted reasonably in determining that the $259,776 advance had become uncollectable as of September 30, 1990. On the contrary, I believe that GPL could expect to be repaid, since the land was very valuable.
+
+Loss on advances and shares in 1991
+
+[74] In computing its income for 1991, GPL deducted capital losses for advances it had made to SIM and shares it owned in SIM. Those losses totalled $646,487, of which $484,865 was an allowable capital loss. The deducted losses related to the following claims and shares:
+
+Claim acquired from the Wong group $475,000
+
+Advance by GPL in 1991 $102,880
+
+GPL’s shares (acquired at the outset) $18,464
+
+GPL’s shares (acquired from the Wong group) $25,000
+
+Advance to the phase I limited partnership $25,143
+
+Total $646,487
+
+[75] In my view, two amounts must be added to this. First, there is the $259,776 advanced by GPL during the 1990 fiscal year, in respect of which it deducted a loss in computing its income for 1990. Since I have concluded that the advance had not become uncollectable in 1990, I consider it perfectly fair to consider whether it became uncollectable in 1991. GPL cannot be criticized for not deducting it in 1991, since it thought that it was entitled to the deduction in 1990.
+
+[76] The other claim that must be added is the $375,000 claim acquired from Sodéroc. GPL’s reason for not deducting it as a loss was not explained at the hearing. I see no reason for treating this claim differently from the others. The total capital loss would therefore be $1,237,799 ($646,487 + $259,776 + $375,000) rather than $646,487.
+
+[77] I will now consider the extent to which GPL may have suffered a loss on these claims. First of all, the admissions made at the start of the hearing and the testimony then heard do not indicate the circumstances in which the $25,143 advance was made to the limited partnership. Nor is there any evidence before me that would enable me to determine whether it became a bad debt. Absent such evidence, I cannot conclude that GPL is entitled to deduct a loss for that claim.
+
+[78] As regards the other $1,212,656 in claims in respect of which a capital loss might be deducted, I believe that the only loss incurred by GPL was an amount of $11,727. As I have already noted, the claims in question were part of the consideration given to SIM to acquire the Montbeillard land. If the $3,429,071 hypothecary claim acquired from the CIBC is subtracted from the fair market value of the land ($4,630,000), $1,200,929 remains to be paid to SIM for the Montbeillard land. That amount was paid through the $1,212,656 claim, which left an unpaid claim of $11,727.[6] Since I have concluded that GPL received the land in exchange for claims totalling $4,630,000 ($3,429,071 + $1,200,929), it is self-evident that GPL cannot deduct a loss in respect of those claims.
+
+[79] It remains to be determined whether the unpaid balance of $11,727 is a capital loss. First of all, the evidence does not show which claim it relates to. I think it is reasonable to attribute it to a claim in respect of which a loss could clearly be deductible. In light of the fact that part of the $259,776 advanced as of September 30, 1990, was not repaid when the Montbeillard land was acquired, the unpaid balance of $11,727 could entitle GPL to claim a capital loss.
+
+[80] That debt bore interest and was therefore held for the purpose of producing income; it is not deemed to be nil under subparagraph 40(2)(g)(ii) of the Act. It was also a bad debt. According to the evidence I have heard, SIM had ceased carrying on business by September 30, 1991. Since it no longer had any assets and had significant liabilities, including $300,000 owed to the National Bank for the shares owned and advances made by PMI, it is reasonable to conclude that SIM had become insolvent. GPL accordingly incurred a loss of $11,727 and is entitled to claim a deduction for an allowable capital loss of $8,795.
+
+[81] As for the loss deducted in respect of the shares originally acquired by GPL for $18,464 and those purchased from the Wong group for $25,000, have the conditions set out in section 50 been met? In addition to SIM’s financial situation, which has already been described in analysing the $11,727 loss, it should be noted that it was reasonable to believe that SIM would be dissolved and would not commence carrying on business again. After the Montbeillard land was transferred, SIM no longer had any assets that would have enabled it to continue carrying on business. It had a substantial deficit, and it declared bankruptcy in 1994. After transferring the Montbeillard land, there was no longer any reason for SIM to exist. Its shares therefore no longer had any value. In conclusion, the conditions of paragraph 50(1)(b) of the Act have all been met, and all of GPL’s shares in SIM are deemed to have been disposed of at the end of the year for proceeds equal to nil. Accordingly, GPL incurred a loss of $43,464, of which $32,598 was an allowable capital loss.
+
+[82] For these reasons, GPL’s appeal from the assessment for 1990 is dismissed. Its appeal from the assessment of June 2, 1995, is allowed and the assessment is vacated. The appeals for the 1991 and 1992 taxation years are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that GPL is entitled to deduct an allowable capital loss of $41,393 ($8,795 + $32,598). The whole without costs.
+
+Signed at Ottawa, Canada, this 7th day of August 1998.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 12th day of March 1999.
+
+Stephen Balogh, Revisor
+
+[1] In actual fact, only the phase I limited partnership agreed to pay the $1 million on January 15, 1991, which increased the unit price to $9.61 a square foot.
+
+[2] See the factum (Deblois factum) of May 24, 1991, prepared by Deblois, Samson, Thivierge, which GPL was to submit to the arbitrator (filed as Exhibit I-3). The factum contains the facts and reasons that GPL intended to submit to the arbitrator to justify a value of $1 for Gestion Flamand’s shares. See paragraph 29 below.
+
+[3] According to the Deblois factum.
+
+[4] This value is below the fair market value of $9.50 a square foot obtained by SIM in October 1990, which it used to convince the arbitrator that the shares owned by Gestion Flamand were worth only $1. (See the Deblois factum.)
+
+[5] This value is lower than the unit cost of $8.68 estimated in the Deblois factum. It is almost the same as the price of $7.77 negotiated with the Wong group in November 1990 for the residential land. (See paragraph 19.)
+
+[6] $1,212,656 - $1,200,929 = $11,727.
+

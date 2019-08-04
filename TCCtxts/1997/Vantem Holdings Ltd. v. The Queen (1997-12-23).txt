@@ -1,0 +1,270 @@
+Date: 19971223
+
+Dockets: 95-2137-IT-G; 95-2142-IT-G
+
+BETWEEN:
+
+VANTEM HOLDINGS LTD. (formerlyPraxis Group Ltd.), 352139 B.C. LTD.,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+[1] The term "Appellant" herein refers to Vantem Holdings Ltd.
+
+[2] The Appellant's appeal was heard together with the appeal of 352139 B.C. Ltd. on common evidence. The only evidence was contained in an Statement of Agreed Facts.
+
+ISSUE:
+
+[3] The issue is whether the transfer, by the Appellant, of assets to The Praxis Real Estate Partnership ("Partnership")[1] constituted a tax deferred transfer ("rollover") within the meaning of subsection 97(2) of the Income Tax Act ("Act") or whether, as the Respondent contends, the Appellant will be deemed under that subsection and under paragraph 85(1)(b) to have received proceeds of disposition in excess of the Agreed Amount giving rise to capital gain and recaptured capital cost allowance. The "Agreed Amount" in form T2059[2] signed by the Appellant and the Partnership was $17,667,342 and the fair market value of the consideration received shown in that document was $17,087,117. The Respondent, in effect, has taken the position that the proceeds of disposition deemed to have been received by the Appellant were $24,799,738, giving rise to a taxable capital gain of $6,909,630 and recaptured capital cost allowance in the amount of $3,705,167 being added to income.
+
+FACTS:
+
+[4] The parties filed a Statement of Agreed Facts which I shall distill as follows:
+
+(1) The Appellant, under an agreement made February 25, 1986, formed a general partnership " with 303799 B.C. Ltd. under the Partnership Act of British Columbia. Pursuant to the February 25, 1986 agreement, "the Appellant agreed to sell and the Partnership agreed to purchase a shopping centre and cash in the sum of $10,500,000". The purchase price was $35,871,000 allocated by the parties as follows:
+
+Asset Purchase Price
+
+Land (the "Land") $ 5,423,700
+
+Buildings (the "Buildings") 19,796,000
+
+Class 8 depreciables 101,300
+
+Goodwill 50,000
+
+Cash 10,500,000
+
+$ 35,871,000
+
+[5] By letter of June 11, 1986 the Royal Bank of Canada agreed to advance $10,500,000 to the Appellant, the stated reason in such letter for this advance being,
+
+Because the mortgage on the shopping centre to be assumed by the partnership exceeds your tax cost of the shopping centre, in order to avoid tax liability you must contribute other assets to the partnership which have a tax cost to you at least equal to that excess. You have advised us that the excess is approximately $10,500,000.
+
+The Bank advanced that sum to the Appellant on June 13, 1986.
+
+[6] On that day, Pension Funds Realty Limited ("Pension Fund") acquired an 85 percent interest in the Partnership for a capital contribution of $850,000, the Appellant and a nominee company then having a 15 percent interest. The Appellant's $150,000 obligation for that interest was satisfied as set out below.
+
+[7] On June 13, 1986 the Partnership purchased the shopping centre and cash from the Appellant and satisfied the purchase price by assuming certain indebtedness of the Appellant, issuing a promissory note to the Appellant and crediting the Appellant's capital account in the Partnership, allocating such consideration as follows,
+
+Assumption of Debt/
+
+Promissory Note
+
+Credit to
+
+Capital Account
+
+Land
+
+$ 627,793
+
+$ 4,795,907
+
+Buildings
+
+5,959,324
+
+13,836,676
+
+Class 8
+
+101,300
+
+Goodwill
+
+50,000
+
+Cash
+
+10,500,000
+
+0
+
+$17,098,117
+
+$18,783,883
+
+That agreement provided that the figures contained in the following schedule "are not binding upon them but are for illustration purposes only". The schedule reads as follows:
+
+SCHEDULE "A"
+
+PLACE ROSEMERE SHOPPING CENTRE
+
+June 12, 1986
+
+The following is the sequence of steps to occur at the closing of the sale of the shopping centre from Praxis to the Partnership and the purchase of an interest in the Partnership by Pensionfund Realty Limited:
+
+1. Praxis borrows $10,500,000 from the Royal Bank.
+
+2. Praxis sells the shopping centre to the Partnership for $25,371,000 and contributes cash of $10,500,000 to the Partnership. The Partnership pays for the shopping centre as follows:
+
+(a) It assumes existing liabilities of approximately $14,800,000;
+
+(b) it issues mortgage bonds for approximately $2,000,000;
+
+(c) it issues a note payable for $225,000;
+
+(d) it credits the rest to the Praxis capital account.
+
+At this point the capital account will be approximately $18,000,000. A pro forma balance sheet is attached as Schedule A.
+
+3. Praxis withdraws $10,500,000 from the Partnership and repays the Royal Bank loan. Its capital account is reduced by this amount.
+
+4. Pensionfund contributes $850,000 to the capital of the Partnership and purchases approximately $11,000,000 of partnership bonds. A pro forma balance sheet at this stage is attached as Schedule B.
+
+5. The Partnership issues a $1,500,000 mortgage in favour of Praxis. In return the promissory note is cancelled and the Praxis capital account is reduced by a further $1,275,000.
+
+6. The Partnership buys a $5,000,000 term debt obligation.
+
+7. Subject to finalizing the letter of credit arrangements, Praxis withdraws the balance of the monies in its partnership account necessary to reduce its partnership capital to $150,000. The amount of the reduction will be approximately $6,500,000. A pro forma balance sheet at this stage is attached as Schedule C.
+
+Schedule A shows the Appellant's capital account as being $18,815,000[3]. Schedule B shows that account at $9,165,000 and Schedule C shows the account at $1,000,000. Pension Fund purchased approximately $11,000,000 of Partnership bonds, the purchase being financed, in part, in this manner.
+
+[8] The Statement of Agreed Facts used the word "then" to describe the timing of the first three following events. This appears to have been at the time of sale and purchase, those events creating reductions in the Appellant's capital account as follows:
+
+1. $10,500,000 by the Partnership paying the Appellant who repaid the Royal Bank loan.
+
+2. $1,275,000 by the Partnership issuing a mortgage to the Appellant for $1,500,000 and cancelling Appellant's promissory note in the sum of $225,000.
+
+3. $808,617 by the Partnership paying mortgage discharge penalties.[4]
+
+4. $6,018,871 by the Appellant, on July 21, 1966, withdrawing this sum thereby reducing its capital account to $150,000, being the amount of its obligation for the 15 percent partnership interest.
+
+The total of these four amounts is $18,633,883 which, when subtracted from the amount of $18,783,883 credited to the capital account, leaves $150,000.
+
+[9] The Appellant and all Partnership members jointly elected in prescribed form within the prescribed time to have the rules in subsection 97(2) of the Act apply to the transfer of assets on the basis that
+
+... each Asset would be deemed to be transferred to the Partnership at an agreed amount equal to its cost amount for tax purposes so that no tax liability would arise on the transfer. [5]
+
+The amounts agreed on in respect of the assets in that election form were,
+
+Asset
+
+Agreed Amounts
+
+Land
+
+$ 627,793.00
+
+Buildings
+
+6,472,837.00
+
+Class 8
+
+66,711.00
+
+Goodwill
+
+1.00
+
+Cash
+
+10,500,000.00
+
+$17,667,342.00
+
+[10] The Respondent in the Reply to the Notice of Appeal says,
+
+that the Minister of National Revenue did not accept the Appellant's "Agreed Amounts" and upon reassessing, the Minister revised the amount to $24,799,738.
+
+(emphasis added)
+
+The constitution of that amount is shown as follows,
+
+Cash
+
+6,018,871[6]
+
+Debts assumed by partnership
+
+17,0988,117
+
+Vendor Take-Back Mortgage
+
+1,500,000[7]
+
+Hudsons Bay Co. Mortgage buyout
+
+418,750[8]
+
+Less Promissory Note
+
+(225,000)
+
+$24,799,738
+
+[11] Appellant's counsel submitted that the amount agreed in the prescribed election form was $17,667,342 and cannot be changed by the Minister. I agree. It appears that the Respondent was actually seeking to apply paragraph 85(1)(b) and chose this incorrect manner of expressing same. Counsel also stated that the fair market value of the consideration received by the Appellant was $17,087,117 as stated on that form.
+
+[12] The Respondent appears to have treated the amounts set out above totalling $24,799,738 as payment to the Appellant for assets[9] [10] Counsel for both parties appeared to acknowledge that the capital account was an interest in the Partnership, no issue in that regard having been raised. Respondent's counsel, in effect, took the position that
+
+(1) within the meaning of paragraph 85(1)(b), as adjusted to apply to transfers to a partnership, the amount agreed upon in the election form was less than the fair market value of the consideration received by the Appellant for the property, and
+
+(2) that the amount agreed upon should be deemed to be an amount equal to that fair market value.
+
+[13] All steps taken by the Appellant and by the partnership were made in accordance with and pursuant to agreements and documents which set forth in detail the steps that were to be taken. Such documentation expressed specifically the objective of having the transaction take place on a tax-free basis. The agreements were concluded on that basis and the prescribed election form was completed on that basis.
+
+[14] Paragraph 85(1)(b) of the Income Tax Act, as modified to apply to a partnership, reads as follows,
+
+... subject to paragraph (c), where the amount that the taxpayer and the partnership have agreed on in their election in respect of the property is less than the fair market value, at the time of disposition, of the consideration therefor (other than an interest in the partnership) received by the taxpayer, the amount so agreed on shall, irrespective of the amount actually so agreed on by them, be deemed to be an amount equal to that fair market value.
+
+The question is whether the debts of the Appellant assumed by the Partnership and amounts paid to the Appellant by the Partnership were on account of the purchase price of assets transferred or whether, as alleged by the Appellant, they were in part for that purpose and in part to reduce its capital account.
+
+[15] Respondent's counsel referred to several cases as support for the proposition that the above sum of $24,799,738 was deemed proceeds of disposition. The first case was Haro Pacific Enterprises Limited v. The Queen, 90 DTC 6583. In that case the taxpayer transferred properties worth $1.9 million to a limited partnership and filed an election with respect to same under subsection 97(2) of the Act agreeing that the properties were being transferred in return for a partnership interest. The other partner contributed $950,000 to the Partnership. Five days later, that taxpayer was paid $950,000 by the partnership, the partnership agreement having provided that Haro would
+
+"be entitled to demand and receive forthwith out of the property of the Partnership a capital repayment in cash for an amount equal to the amount contributed by B.C. Ltd."
+
+The trial judge found that the evidence made it clear that there was no other reason for this transfer except as payment in consideration of the plaintiff's transferring of the properties to the partnership. Reed, J. in her oral judgment said at 6586,
+
+I agree that properties belonging to the plaintiff were transferred to the partnership, and this triggers the possibility of a section 97(2) election. The consideration received for that transfer was, however, as counsel for the defendant argues, both a partnership interest, and the $950,000 paid as a cash payment a few days after the transfer. To characterize the facts in any other fashion would be artificial in the extreme. Accordingly, section 85(1)(b) applies. The amount received by the taxpayer on transfer of the property to the partnership was greater than the amount agreed upon by the plaintiff and the partnership in their section 97(2) election. Thus, the Minister was correct in deeming the plaintiff's proceeds of disposition of the property.
+
+[16] Respondent's counsel also referred the Court to Stursberg v. The Queen, 91 DTC 5607 (Trial Division) and 93 DTC 5271, (Federal Court of Appeal). I do not find it to be of assistance in this situation.
+
+[17] As above stated, the question is whether the payments made by the Partnership in reduction of the Appellant's capital account were payments on account of capital or whether they were payments to the Appellant in respect of the transfer of assets. The evidence indicates that a capital account showing $18,783,883 owing to the Appellant was established. The Statement of Agreed Facts also set forth that payments totalling $12,615,012 were made to the Appellant on its partnership capital account at the time the sale of assets took place and that a payment of $6,018,871 was made to the Appellant in the reduction of that account 38 days later, namely July 21, 1986[11]. The Appellant intended to convey its assets to the Partnership on a basis that did not attract tax. In the circumstances it is logical to infer that the capital account was created to permit distributions which would be regarded as distributions from it as capital. However, the sale transaction was structured, as evidenced by Schedule A to the June 13, 1986 agreement reproduced above, to effect a distribution of the entire purchase price of $35,871,000 other than the sum of $150,000. The withdrawal of approximately 2/3 of the capital account at the time of asset transfer followed 38 days later by the withdrawal of the balance[12] is inconsistent with the concept of a true capital account.
+
+[18] The form of the entire transaction does not conceal its substance. I find that the amounts paid or credited to the Appellant in reduction of its "capital account" were, in reality, proceeds of disposition of the assets transferred by it to the Partnership. This results, under paragraph 85(1)(b), in the total amount agreed on in the election being less than the fair market value of the consideration for the property transferred to the Partnership. The Appellant has not demonstrated that the reassessment was incorrect.
+
+[19] Accordingly, the Appellant's appeal is dismissed. Costs will be awarded to the Respondent.
+
+[20] The appeal of 352139 B.C. Ltd., being dependent upon the outcome of the Appellant's appeal, is also dismissed. Costs will be awarded to the Respondent.
+
+Signed at Ottawa, Canada this 23rd day of December, 1997.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] This was a Canadian partnership within the meaning of section 102 of the Income Tax Act.
+
+[2] Election on disposition of property by a taxpayer to a Canadian partnership.
+
+[3] Note that the figures were estimates.
+
+[4] The Court was advised at the hearing that this sum should be $840,012, which figure is used below in totalling the four amounts.
+
+[5] From the Statement of Agreed Facts.
+
+[6] The payment of this sum by the Partnership reduced the capital account to $150,000, representing a 15 percent interest therein.
+
+[7] This was achieved by the Partnership issuing a mortgage to the Appellant in the amount of $1,500,000 in exchange for cancellation of its promissory note in the sum of $225,000 and a further payment on account of the Appellant's capital in the sum of $1,275,000.
+
+[8] This is part of the $840,012 of mortgage discharge penalties paid on behalf of the Appellant and treated as payments on capital account.
+
+[9] The total of (a)$10,500,000, (b)$421,262 being part of the $840,012 in mortgage penalties assumed by the Partnership in excess of the $418,750 described above and (c)$150,000 is $11,071,262. This amount added to $24,799,738 totals $35,871,000, the total sale price.
+
+[10] The Notice of Reassessment gave no details whatever respecting the Respondent's computations. This, a common failure of the Department of National Revenue, leaves the Court wholly unable, without the introduction of evidence to that effect, to comprehend the basis of an assessment. It is a practise that should be changed. It is not sufficient for Respondent's counsel simply to state that the Appellant had been informed of and was aware of changes made. Subsection 170(2) requiring the forwarding of "all returns, notices of assessment, notices of objection and notifications" to this Court obviously has as its main purpose providing all appropriate information to the Court.
+
+[11] This totals $18,633,083 which with the addition of $150,000 retained by the Partnership for the Appellant's interest totals $18,783,083, the amount of the capital account.
+
+[12] except for $150,000
+

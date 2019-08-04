@@ -1,0 +1,384 @@
+Date: 20010824
+
+Docket: 2000-4443-GST-I
+
+BETWEEN:
+
+LA BRASSERIE LABATT LIMITÉE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Teskey, J.
+
+[1] The Appellant appeals an assessment of excise tax pursuant to the goods and services provisions ("GST") of the Excise Tax Act (the "Act"), where the Minister of National Revenue (the "Minister") denied the Appellant's claim for the remaining fifty percent of the reimbursement of input tax credits ("ITCs") on the basis that section 236 of the Act effectively limited the Appellant's entitlement to ITCs to fifty percent, in respect of the Appellant's reporting period of May 1, 1998 to May 31, 1998.
+
+Issue
+
+[2] The issue in this appeal is whether subsection 236(1) of the Act applies to input tax credits for the period of May 1, 1994 to May 31, 1998 and claimed by the Appellant in its return, for the reporting period May 1, 1998 to May 31, 1998, in respect of reimbursements paid to certain of its employees for supplies of food, beverages and entertainment contracted for, paid for and received by these employees.
+
+[3] It is common ground that section 236 of the Act applies expenses incurred for food, beverages and entertainment contracted for by the Appellant directly and those contracted for by employees who are given an allowance by the Appellant. This appeal deals with the expenses reimbursed to employees who had contracted for food, beverages and entertainment.
+
+Facts
+
+[4] The parties agreed to a statement of facts that was filed as Exhibit A-1. There are four exhibits to the statement that I am not reproducing herein. This statement has 17 paragraphs which read as follows:
+
+1. The Appellant carries on the business of brewing and selling beer (the "Business") in the province of Quebec and its principal place of business is 50 Avenue Labatt, Lasalle, Quebec.
+
+2. During the period May 1, 1994 to May 31, 1998 (the "Relevant Period"), in the ordinary course of its Business, the Appellant contracted for, paid for and received supplies of food, beverages and entertainment to which subsection 67.1(1) of the Income Tax Act (Canada) (the "ITA") applied.
+
+3. During the Relevant Period, the Appellant's employees in carrying out their employment duties also contracted for, paid for and received supplies of food, beverages and entertainment to which subsection 67.1(1) of the ITA applied.
+
+4. The Appellant either paid allowances to or reimbursed its employees for the food, beverage and entertainment expenses incurred by its employees as described in paragraph 3, above. Attached hereto as Exhibit "A" is a blank sample expense claim form used by the Appellant's employees to claim reimbursement for, inter alia, food, beverage and entertainment expenses.
+
+5. Pursuant to section 169 of the Excise Tax Act (the "ETA"), the Appellant was entitled to claim input tax credits for GST it paid on supplies of food, beverages and entertainment for which it contracted (the "Employer ITCs").
+
+6. By operation of section 169 together with section 174 and 175 of the ETA, the Appellant was also entitled to claim input tax credits in respect of the GST paid by its employees on meals, beverages and entertainment expenses in respect of which the Appellant paid an allowance (the "Allowance ITCs") or a reimbursement (the "Reimbursement ITCs"), respectively.
+
+7. Pursuant to section 236 of the ETA, as it read for the Relevant Period, following the end of each fiscal year a registrant was required to add back to its net tax 50% of the total of all amounts, each of which is an ITC claimed in a return for a reporting period in the fiscal year, in respect of a supply of food, beverages and entertainment for which the registrant was the recipient or for which it paid an allowance.
+
+8. Pursuant to an administrative policy (the "Policy") of Revenue Canada (now the Canada Customs and Revenue Agency) as set out in GST Memorandum 400-3-3, in lieu of registrants claiming through the year 100% of eligible ITCs in respect of food, beverages and entertainment and adding back 50% of the ITCs claimed after the end of their fiscal year, a registrant could claim only 50% of the eligible ITCs through the year with no requirement of recapture or claw-back after year end.
+
+9. During the relevant period the Appellant, on the basis of the Policy, claimed only 50% of the Employer ITCs, Allowance ITCs and Reimbursement ITCs (which amounts have not been audited) that the Appellant believed itself to be otherwise entitled to through each year.
+
+10. There is no dispute that section 236 of the ETA applied to in effect limit the Appellant's Employer ITCs and Allowance ITCs entitlement to 50%.
+
+11. While the Appellant initially thought that section 236 of the ETA also applied to the Reimbursement ITCs, it subsequently concluded that during the Relevant Period section 236 of the ETA had no application to the Reimbursement ITCs.
+
+12. Accordingly, in its GST return for the reporting period May 1, 1998 to May 31, 1998 the Appellant claimed an input tax credit in the amount of $210,442.99 (which amount has not been audited), being an amount equal to the remaining 50% of the Reimbursement ITCs in respect of the Relevant Period to which the Appellant believed it was entitled if section 236 of the ETA was not applicable to the Reimbursement ITCs. The Appellant's GST/QST return for the reporting period May 1, 1998 to May 31 1998 together with the Appellant's covering letter dated June 30, 1998 are attached hereto as Exhibit "B".
+
+13. By Notice of Assessment No. DGMET-885 dated October 26, 1998 (the "Assessment"), the Appellant was assessed the sum of $210,442.99 for the May 1, 1998 to May 31, 1998 reporting period. A copy of the Assessment is attached hereto as Exhibit "C".
+
+14. In making the Assessment, the Minister of National Revenue (the "Minister") denied the Appellant's claim for the input tax credits in the amount of $210,442.99 (being the Appellant's determination of the remaining 50% of the Reimbursement ITCs) on the basis that section 236 of the ETA effectively limited the Appellant's ITC entitlement to the Reimbursement ITCs to the 50% originally claimed, as it did for the Employer ITCs and the Allowance ITCs.
+
+15. The Appellant objected to the Assessment by Notice of Objection dated January 25, 1999.
+
+16. By Notice of Decision dated July 28, 2000 (the "Decision"), the Minister confirmed the Assessment. A copy of the Decision is attached hereto as Exhibit "D".
+
+17. The Parties agree that the input tax credits claimed by the Appellant in this appeal are not the subject of any admission, the parties having agreed that, before complying with any final judgement that may eventually be rendered in the Appellant's favour, the Minister will have the opportunity to audit, within a reasonable time, each and every application for input tax credits in order to assess the accuracy of the amounts claimed by the Appellant.
+
+[5] Counsel for the Appellant began his argument by summarizing the three possible situations which involve the payment of GST for food, beverages and entertainment. They are as follows:
+
+(1) The Appellant incurs expenses for food, beverages and entertainment and pays for them. In this situation, the parties agree that section 67.1 of the Income Tax Act ("ITA") applies and section 236 of the Act reduces the ITCs claimed to fifty percent (the fifty percent claw back);
+
+(2) The Appellant pays an allowance to its employees who then incur expenses for food, beverages and entertainment. In this situation, the parties agree that section 67.1 of the ITA again applies and section 236 of the Act reduces the ITCs claimed to fifty percent (the fifty percent claw back); and
+
+(3) The Appellant's employees incur expenses for food, beverages and entertainment after which they are reimbursed by the Appellant for such expenses. The Appellant submits that section 67.1 of the ITA does not apply to this situation.
+
+[6] The dispute in the present appeal arises with the third situation. The Appellant's counsel submitted that section 236 of the Act, as it then read, is not applicable to reimbursements. As a result, the Appellant claimed the remaining fifty percent balance that it had not claimed with respect to reimbursements for the relevant period of May 1, 1994 to May 31, 1998.
+
+[7] It is worth mentioning that one hundred percent of ITCs will normally be claimed pursuant to sections 169, 174 and 175 of the Act and that fifty percent of expenses for food, beverages and entertainment is repaid at the end of the fiscal year pursuant to subsection 236(1). However, pursuant to an administrative policy, taxpayers are given the option of claiming only fifty percent of the food, beverages and entertainment expenses initially and, as a result, removing the need for a claw back at the end of the year. The Appellant acted on this policy and, when it believed that subsection 236(1) did not apply to the reimbursements, claimed the balance of the other fifty percent in relation to these amounts.
+
+[8] Counsel for the Appellant submitted that when interpreting taxing statutes, regard must be had for the plain and ordinary meaning. For this proposition, counsel referred to three cases of the Supreme Court of Canada dealing with the ITA: Canada v. Antosko, 94 DTC 6314, Friesen v. The Queen, 95 DTC 5551 and Shell Canada Ltd. v. Canada, 99 DTC 5669.
+
+[9] In the most recent of these three decisions, McLachlin J. stated in Shell, at page 5676:
+
+Second, it is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied. ...
+
+She further stated, at p. 5676:
+
+Second, it is my respectful view that the Federal Court of Appeal's misplaced reliance on "economic realities" caused it to stray from the express terms of s. 20(1)(c)(i) and supplement the provision with extraneous policy concerns that were said to form part of its purpose. The Act is a complex statute through which Parliament seeks to balance a myriad of principles. This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention. ...
+
+And then, at p. 5677:
+
+... The courts' role is to interpret and apply the Act as it was adopted by Parliament. Obiter statements in earlier cases that might be said to support a broader and less certain interpretive principle have therefore been overtaken by our developing tax jurisprudence. ...
+
+[10] Counsel also referred to The Queen v. MacMillan Bloedel Limited, 3 TCT 5359 (F.C.T.D) and The Queen v. The Maritime Life Assurance Company, 2000 G.T.C. 4157 (F.C.A.), for the proposition that the plain and ordinary meaning rule applies to the Act. In the Maritime Life case, Maritime Life is an insurer and the issue was whether investment administration fees which it charged in respect of segregated funds maintained by it under the deferred annuity life insurance contracts where subject to GST.
+
+[11] In section 131 of the Act, the segregated fund was deemed to be a separate person for purposes of the Act, but nothing more. The Minister took the position that certain conclusions could be drawn or extensions could be made under the Act because of that provision, namely that there was a supply between the segregated fund and the insurance company and that there was a fee charged for the supply, namely the IAF, and thus it would be subject to GST.
+
+[12] Sharlow J.A. concluded that section 131 of the Act did not deem as much as was advanced by the Minister and that the wording had to be interpreted as it was found. Paragraph 29 of Maritime Life reads:
+
+Thus, I do not accept that there is any legal basis for reading section 131 as necessarily implying that an insurer that creates a segregated fund must be deemed to receive fees from the fund for managing the segregated fund. I see nothing in section 131 that requires or permits the Crown to treat the investment administration fees as anything other than what they are in fact, which as explained above is the portion of Maritime Life's premium revenues that is not retained in the segregated funds.
+
+[13] Counsel for the Appellant alleged that subsection 236(1) applies to situations where the registrant is a recipient of food, beverages or entertainment or where the registrant pays an allowance in respect of the food, beverages or entertainment. Counsel then referred to the definition of "recipient" in subsection 123(1) of the Act. It provides:
+
+"recipient" of a supply of property or a service means
+
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+(c) where no consideration is payable for the supply,
+
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+
+[14] Counsel asserted that the Appellant is the recipient in the first category where it receives the food, beverages and entertainment directly. Moving on to the second category, where the Appellant pays an allowance to its employees for food, beverages and entertainment which the employee contracted for, counsel stated that the Appellant is not the recipient. In his opinion, the employee is the recipient of the supply. However, the allowance is, in his opinion, brought in pursuant to subsection 236(1). For the third category, being the reimbursements by the Appellant to its employees, counsel again stated that the Appellant is not the recipient. Subsection 236(1) does not provide for the situation of reimbursements and in counsel for the Appellant's view, this is fatal to the Respondent's position.
+
+[15] Counsel for the Appellant then referred to subsection 175(1) of the Act, which was amended in 1997. For all intents and purposes, the provision is essentially the same and reads as follows:
+
+175(1) Where an employee of an employer, a member of a partnership or a volunteer who gives service to a charity or public institution acquires or import property or a service or brings it into a participating province for consumption or use in relation to activities of the employer, partnership, charity or public institution (each of which is referred to in this subsection as the "person"), the employee, member or volunteer paid the tax payable in respect of that acquisition, importation or bringing in and the person pays an amount to the employee, member or volunteer as a reimbursement in respect of the property or service, for the purposes of this Part,
+
+(a) the person is deemed to have received a supply of the property or service;
+
+(b) any consumption or use of the property or service by the employee, member or volunteer in relation to activities of the person is deemed to be consumption or use by the person and not by the employee, member or volunteer; and
+
+(c) the person is deemed to have paid, at the time the reimbursement is paid, tax in respect of the supply equal to the amount determined by the formula
+
+A X B
+
+where
+
+A is the tax paid by the employee, member or volunteer in respect of the acquisition, importation or bringing into a particular province of the property or service by the employee, member or volunteer, and
+
+B is the lesser of
+
+(i) the percentage of the cost to the employee, member or volunteer of the property or service that is reimbursed, and
+
+(ii) the extent (expressed as a percentage) to which the property or service was acquired, imported or brought into the province, as the case may be, by the employee, member or volunteer for consumption or use in relation to activities of the person.
+
+[16] Counsel for the Appellant asserted that section 175 deems three things:
+
+· That the employer paying the reimbursement has received a supply;
+
+· The consumption of the employee is the consumption of the employer; and
+
+· The employer has paid tax calculated according to a formula.
+
+[17] The purpose of section 175, in his opinion, and which he stated is confirmed by the Explanatory Notes, is to allow the employer to claim ITCs in accordance with subsection 169(1). He referred to the words "where ... tax is payable ... or is paid by the person" in subsection 169(1) which go on to say that in those circumstances you may claim an ITC based on the formula provided, to the extent that the property was used in commercial activities. Accordingly, counsel submitted that sections 174 and 175, which are worded similarly, were solely intended to permit a person to claim ITCs pursuant to subsection 169(1). He also reasoned that were it not for section 174 and 175, the Appellant could only have claimed ITCs on the food, beverages and entertainment expenses incurred by it directly.
+
+[18] Further, counsel for the Appellant stated that subsection 236(1) will apply where subsection 67.1(1) of the ITA applies. He submitted that the deeming transactions resulting from sections 174 and 175 of the Act do not exist for purposes of section 67.1 of the ITA. Moreover, reimbursements are not included in subsection 236(1). Counsel then referred the Court to subsection 236(1), as amended by S.C. 2000, c. 30, s. 64, applicable after October 8, 1998, which now refers to an allowance and a reimbursement.
+
+[19] Returning to the definition of "recipient" in subsection 123(1), counsel referred to the Respondent's argument that the closing words broaden the scope of the definition. In the Minister's view, recipient includes any person who is deemed to have received the supply or to whom a supply is made. Counsel for the Appellant stated that this contention is untenable as it replaces paragraphs (a) through (c) and renders them useless. In other words, the Respondent's position is that a mere reference to a person who is receiving a supply deems that person to be a recipient. Counsel stated that the Respondent's argument has been rejected in Commission Scolaire des Chênes v. The Queen, [2000] T.C.J. No. 71 (T.C.C.), under appeal (hearing date set for September 12, 2001). In his opinion, the Court concluded that the closing words of the definition do not deem who a recipient is and that one must still look to paragraphs (a) through (c) to arrive at a determination. Counsel also referred to the Explanatory Notes to support his contention that the closing words do not displace paragraphs (a) through (c).
+
+[20] Counsel states that subsection 175(1) of the Act does not deem the Appellant to be a recipient or to have paid consideration for any supply. He contends that it is solely and clearly directed to the claiming of ITCs and only deems the elements necessary for subsection 169(1). This interpretation, he states, is clearly supported by the Explanatory Notes for subsection 175(1).
+
+[21] Appellant's counsel referred to the Minister's argument that it is a logical necessity that the Appellant is a recipient because subsection 175(1) deems him to have received a supply. Counsel again referred the Court to the Maritime Life case which dealt with section 131 of the Act and in his opinion, the Court concluded that that section could not be found to deem more than the language permitted. Sharlow J.A. stated at paragraphs 21 and 23:
+
+The Crown says that this provision creates a statutory fiction solely for purposes of the GST. That is undoubtedly so. The issue is how far this statutory fiction extends. The Crown is reading a number of consequences into section 131 that are not stated. Whether those consequences are necessarily implied by section 131 is the principal dispute in this case.
+
+...
+
+It would seem that the combined effect of these two provisions is that if Maritime Life receives anything that might be construed as consideration for acting as trustee of the deemed trust, GST would be payable on that consideration. However, the Crown is not arguing, and could not argue, that subsection 267.1(5) has any application to the facts of this case, because the deemed trust exists only for purposes of the GST. There is no contractual or other arrangement that could possibly be construed as an arrangement by which Maritime Life is receiving consideration for acting as a trustee. Nor is there any provision of the Excise Tax Act that deems Maritime Life to have received consideration from its segregated funds that would fit within subsection 267.1(5). Certainly the deeming rule in section 131 cannot be read as extending that far.
+
+Counsel for the Appellant stated that such a conclusion should apply to the present appeal and that section 175 should be taken at face value. He submitted that the section should only have the effect of deeming what the language found in it expressly deems.
+
+[22] Additionally, counsel argued that there can only be one recipient per supply. In this case, there is no supply of which the Appellant was the recipient other than the supplies it received directly itself.
+
+[23] He further submitted that the Minister agrees in his argument that section 236 includes reimbursements, thus rendering the mention of allowance redundant. Counsel then cited Morguard Properties Ltd. et al. v. City of Winnipeg, [1983] 2 S.C.R. 493, for the proposition that Courts must strive to attribute meaning to every word employed by the Legislature in a statute. At page 504, Estey J. stated:
+
+... Some meaning must be attributed to the word "level" as otherwise it is mere surplusage, and courts in the application of the principles of statutory construction endeavour, where possible, to attribute meaning to each word employed by the Legislature in the statute. ...
+
+[24] Counsel for the Appellant advanced that "recipient" is used in section 165 in order to determine who must pay the tax. Sections 175 and 169 do nothing to change that and they rather direct one to another purpose, namely, who can claim an ITC since another person actually paid the tax.
+
+[25] Counsel for the Respondent stated that his argument is simple and that the appeal can be resolved by determining whether a person who is deemed to have received a supply is a person to whom a supply has been made and, therefore, a recipient.
+
+[26] Counsel stated that the closing words of the definition of "recipient" are to be applied throughout the Act. He stated that regardless, if you fit within one of paragraphs (a), (b) or (c), wherever you see a reference to a person to whom a supply is made in the Act, you are to consider that person to be a recipient. Moreover, he suggested that the words are not limited to the specific combination of words found in the closing words and that any similar combination will suffice. He alleges that "to a person to whom a supply is made" is a concept and that any broad reference to a person to whom a supply is made or a person who received the supply is enough to qualify one as a recipient. Counsel for the Respondent agreed, however, that the Explanatory Notes provides that the closing words only refer to paragraph (c).
+
+[27] Counsel then referred the Court to the French definition of "recipient" being "acquéreur". Firstly, he noted that a period separates paragraph (c) from the closing words and, secondly, he noted that the closing words begin with "par ailleurs" which means: moreover or otherwise.
+
+[28] Counsel for the Respondent advanced that the wording of subsection 169(1) is a reference to a recipient. Accordingly, he stated that if you are not a recipient, you cannot claim an ITC under section 169. Counsel then submitted that section 175 of the Act does not deem the employer to be the recipient but in his opinion, such a deeming is not necessary. By deeming a person to have received a supply, section 175 makes reference to a person to whom a supply is made and, as such, he is a recipient. He stated that even if section 175 does not deem the employer to be a recipient, the Minister still wins because the Appellant could not have claimed an input tax credit to begin with if it was not a recipient.
+
+[29] After undertaking to evaluate other sections of the Act in the light of the Appellant's argument that when Parliament wishes to deem recipients it does so in express terms, counsel for the Respondent states that this conflicts with the way the Act works.
+
+[30] Counsel then tried to explain why section 236 contains the redundant terms "or pays an allowance" since sections 174 and 175 deem the Appellant to be a recipient. Counsel suggested that although sections 174 and 175 may be worded similarly now, that was not always the case. He stated that the initial wording of section 174 required the inclusion of "allowance" in section 236. This initial wording was, however, amended retroactively to the introduction of the GST. Numerous amendments were then made to sections 174 and 175 and the reference to "allowance" in section 236 was retained.
+
+[31] He stated that in the ideal world, it would be nice to give meaning to every word. However, he says that doing so in the present appeal might do violence to the intent of Parliament. Referring to Ruth Sullivan's text on Construction of Statutes, counsel distinguished between legislative gaps and drafting errors. He stated that the Court can do nothing if it finds a legislative gap whereas if a simple drafting error exists, the removal of the meaningless phrase or word is acceptable.
+
+[32] Counsel for the Respondent admitted that the Commission Scolaire Des Chênes case runs counter to his position. He states, however, that those statements were made in obiter. Counsel then advanced that he had not located the reasons in French and that the judge had perhaps not looked at the French version of the definition of "recipient", in which the closing words are separated from paragraph (c) by a period. (It is noted that the original reasons for judgment were in French and the English version is the translation.)
+
+[33] Counsel then stated that the Appellant's argument that sections 174 and 175 create artificial supplies that are not caught by section 67.1 of the ITA and, therefore, section 236 could not apply to reimbursements only, is nonsensical and that Parliament could not have intended that result.
+
+[34] Counsel for the Appellant stated that no contortions are necessary and that the Court should simply read section 236 and apply it as it reads. He stated that unless the Respondent has successfully established that the Appellant is the recipient, the Appellant must succeed under section 236.
+
+[35] Counsel submitted that the Respondent's argument that the closing words of the definition of "recipient" are very flexible and apply to a number of phrases and not just the phrase found in the closing words is untenable. He stated that one cannot look at a provision of the Act and automatically assume that a person is a recipient as soon as certain words are present. He stated that this Court has rejected that view in the Des Chênes case and that the statement was not made in obiter.
+
+[36] Counsel submitted that it is up to Parliament to correct the perceived problem and, moreover, he stated that they have amended section 236 to include a reference to reimbursements.
+
+[37] The main issue in the present appeal is whether the Appellant is caught by section 236 of the Act, as it then read, with regards to amounts it reimbursed to its employees for food, beverages and entertainment and claimed full ITCs.
+
+[38] Subsection 236(1) read as follows during the relevant period:
+
+236(1) Where a registrant is the recipient of, or pays an allowance in respect of, a supply of food, beverages or entertainment and subsection 67.1(1) of the Income Tax Act applies, or would apply if the registrant were a taxpayer under that Act, in respect of the supply or allowance, 50% of the total of all amounts, each of which is an input tax credit claimed in a return for a reporting period in a fiscal year of the registrant in respect of the supply or allowance, shall be added in determining the net tax
+
+(a) where the registrant ceases in or at the end of that fiscal year to be registered under Subdivision d, for the last reporting period of the registrant in that fiscal year;
+
+(b) where the reporting period of the registrant in that fiscal year is that fiscal year, for that reporting period; and
+
+(c) in any other case, for the reporting period of the registrant that begins immediately after the end of that fiscal year.
+
+This appeal arises from the omission to include "reimbursement" in the above provision or, in the alternative, from the redundant terms "or pays an allowance".
+
+[39] This problem flows from the third of three possible situations which arise:
+
+(1) the Appellant incurs expenses for food, beverages and entertainment directly;
+
+(2) the Appellant pays an allowance to employees who then incur expenses for food, beverages and entertainment; and
+
+(3) the Appellant's employees incur expenses for food, beverages and entertainment after which they are reimbursed by the Appellant.
+
+[40] The Appellant could not claim ITCs pursuant to subsection 169(1) of the Act in the second and third situations if it were not for sections 174 and 175 of the Act. Sections 174 and 175 are very similar although the former deals with allowances while the latter with reimbursements. The Technical Notes (July 1997) to these sections help enlighten us on their purpose:
+
+The purpose of section 174 is to enable a person who is an employer, partnership, charity or public institution to claim an input tax credit or rebate in respect of allowances paid for certain expenses to the same extent as would have been the case had the person incurred the expense directly. ...
+
+And for section 175:
+
+... The purpose of the provision is to enable the person to claim an input tax credit or rebate in respect of the reimbursed expense to the same extent as would have been the case had the person incurred the expense directly. ...
+
+[41] These provisions essentially deem three things to happen:
+
+(1) the employer is deemed to have received a supply;
+
+(2) the consumption of the employee is deemed to be the employer's consumption; and
+
+(3) the employer is deemed to have paid tax according to a specific formula.
+
+What this Court must determine, however, is whether sections 174 and 175, together with the definition of "recipient" in subsection 123(1), have the effect of deeming the Appellant to be a recipient. The definition of recipient provides:
+
+"recipient" of a supply of property or a service means
+
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+(c) where no consideration is payable for the supply,
+
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+
+Counsel for both parties have debated the significance to be attributed to the closing words of the definition. It is important to note that the closing words of the French version "acquéreur" provide:
+
+(iii) personne à qui un service est rendu.
+
+Par ailleurs, la mention d'une personne au profit de laquelle une fourniture est effectuée vaut mention de l'acquéreur de la fourniture.
+
+[42] Although the words "person to whom a supply is made" seem to refer to the concepts dealt with in subparagraphs 123(1)(c)(i) through (iii), the period in the French version would seem to indicate that the closing words encompass the definition as a whole. It is interesting to note that the Technical Notes (February 1993) indicate that the closing words refer to paragraph (c) of the definition:
+
+... Further, the definition in the case where there is no consideration for the supply is clarified by specifying what is meant by the words "the person to whom a supply is made" in the existing definition. As well, it clarifies that where the latter phrase is used elsewhere in Part IX of the Act or in Schedule V, VI or VII, it is a reference only to the recipient of the supply as defined in subsection 123(1).
+
+[43] In Commission Scolaire Des Chênes, Lamarre Proulx J. gave a similar interpretation to the closing words in paragraph 28 of her Reasons for Judgment, and this notwithstanding the period separating those words from paragraph (c) in the French version of the definition:
+
+The last clause of the definition is somewhat ambiguous. Does it amend the definition of "recipient" to mean a person to whom a supply is made, when these words appear in the Act, or does it merely refer to the definition of "recipient"? It should be noted that the description of a service of transporting students in section 5, Part III, Schedule V of the Act uses precisely this same expression: A supply made by a school authority to [...] students. According to the explanatory notes to Bill C-112 of February 1993, this expression, where used elsewhere in Part IX of the Act or in Schedules V, VI or VII, refers solely to the recipient of the supply as that term is defined in subsection 123(1) of the Act. I believe this is how this clause must be interpreted because, in order for it to be considered as being broad enough in scope to amend, as it were, the definition of "recipient", it would have to be contained in a paragraph dealing specifically with the definition of "recipient", not in the paragraph concerning cases in which no consideration is payable in respect of the supply. It therefore remains to be determined whether a consideration was paid to the appellant for the transportation service.
+
+[44] Counsel for the Respondent argued that the closing words not only refer to the entire definition but that any mention of the words "person to whom a supply is made" or similar wording in the Act is replaced by the word recipient. To accede to this interpretation would distort the Act and render paragraphs (a) through (c) of the definition completely useless and redundant. Anyone coming within one of the sections of the Act would automatically become a recipient for the purposes of the Act and, as a result, liable for tax pursuant to section 165. This cannot be the result that Parliament intended in drafting the definition of recipient in subsection 123(1) of the Act.
+
+[45] The "recipient" concept is relevant for determining who is liable to pay tax pursuant to subsection 165(1) of the Act and has no bearing on the claiming of ITCs pursuant to subsection 169(1). Subsection 169(1) in no way necessitates the claimant of an ITC to be a "recipient". Although, this may have been assumed by this Court in other decisions[1], the Court has never pronounced itself on this specific point. This recognizes that the person claiming the ITC may, in some circumstances, not be the person who actually paid the tax on the supply. Moreover, in Les Immeubles Sansfaçon Inc. (supra), my colleague, Tardif J., concluded that there could not be two recipients pursuant to the definition of "recipient".
+
+[46] In the present appeal, the recipient of the supply in the second and third situations dealing with allowances and reimbursements are clearly the employees. Not only have they paid for the supply, they have received it and they have used it up. Only then does one go to sections 174 and 175 and see that Parliament intended that the employer be able to claim ITCs in relation to those supplies by deeming three specific things to happen, all the while never deeming the employer to be the recipient. To deem the employer to be the recipient would also have the absurd effect of making the employer liable for tax pursuant to subsection 165(1), being tax which the employees have already paid.
+
+[47] Having concluded that the Appellant is not the recipient under either of sections 174 and 175 or the definition of "recipient" in subsection 123(1), we must lastly look to section 236. Counsel for the Respondent spent a great deal of time explaining why section 236 reads as it does and that main reason is because sections 174 and 175 initially had different wording. Regardless of the past wording of those provisions, they were subsequently amended and subsection 236(1) could have been amended in consequence. I should add that the section was amended by S.C. 2000, c. 30, s. 64, applicable for reporting periods ending after October 8, 1998. Oddly enough, and this is not determinative[2], but rather than amending the provision by deleting the redundant mention of allowance, as the Minister's argument goes, Parliament chose to leave allowance in and include an additional reference to "reimbursement".
+
+[48] The clear and plain meaning of this section, as it then read, provides that "where a registrant is the recipient of, or pays an allowance in respect of". This language clearly limits ITCs for food, beverages and entertainment to fifty percent in respect of recipients and allowances paid.
+
+[49] In GST Memorandum 400-3-11 - Allowances and Reimbursements (February 7, 1992), allowances and reimbursements are defined and distinguished as follows, in paragraph 7:
+
+An allowance is any periodic or other payment that an employee or partner receives from an employer or partnership, in addition to salary or wages, without having to account for how it is spent. This is in contrast to a reimbursement of actual expenses incurred by an employee or partner.
+
+[50] It is trite law that allowance and reimbursement do not have the same meaning. One is not the synonym of the other. In The Queen v. Pascoe, 75 DTC 5427 (F.C.A.), Pratte J. distinguished allowance and reimbursement as follows, at page 5428:
+
+... An allowance is, in our view, a limited predetermined sum of money paid to enable the recipient to provide for certain kinds of expense; its amount is determined in advance and, once paid, it is at the complete disposition of the recipient who is not required to account for it. A payment in satisfaction of an obligation to indemnify or reimburse someone or to defray his or her actual expenses is not an allowance; it is not a sum allowed to the recipient to be applied in his or her discretion to certain kinds of expense.
+
+[51] In the present appeal, reimbursements, either by accident or intentionally were not included and to read in the intention to include them would not be in accord with the clear and plain meaning of this provision. I would adopt the comments of Major J., in Friesen, at p. 5553:
+
+I accept the following comments on the Antosko case in P.W. Hogg and J.E. Magee, Principles of Income Tax Law (1995), Section 22.3(c) ‘Strict and purposive interpretation', at p. 453-454:
+
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision...[The Antosko case] is simply a recognition that "object and purpose" can play only a limited role in the interpretation of a statute that is as precise and detailed as the Income Tax Act. When a provision is couched in specific language that admits of no doubt or ambiguity in its application to the facts, then the provision must be applied regardless of its object and purpose. Only when the statutory language admits of some doubt or ambiguity in its application to the facts is it useful to resort to the object and purpose of the provision.
+
+Decision
+
+[52] For the above reasons, the appeal is allowed with costs and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to one hundred percent of the ITCs in respect of food, beverages and entertainment contracted for by its employees who were reimbursed for the actual expense, provided that the Minister shall have the opportunity to audit, within a reasonable time, each and every application for these types of input tax credit in order to assess the accuracy of the amount claimed by the Appellant.
+
+Signed at Edmonton, Alberta, this 24th day of August, 2001.
+
+"Gordon Teskey"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-4443(GST)I
+
+STYLE OF CAUSE: La Brasserie Labatt Limitée and The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: June 21, 2001
+
+REASONS FOR JUDGMENT BY: The Honorable Judge Gordon Teskey
+
+DATE OF JUDGMENT: August 24, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Thomas B. Akin
+
+Jason Vincze
+
+Counsel for the Respondent: Michael Ezri
+
+Harry Erlichman
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Thomas B. Akin
+
+Firm: McCarthy Tétrault
+
+Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-4443(GST)I
+
+BETWEEN:
+
+LA BRASSERIE LABATT LIMITÉE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on June 21, 2001 at Toronto, Ontario by
+
+the Honourable Judge Gordon Teskey
+
+Appearances
+
+Counsel for the Appellant: Thomas B. Akin
+
+Jason Vincze
+
+Counsel for the Respondent: Michael Ezri
+
+Harry Erlichman
+
+JUDGMENT
+
+The appeal from the assessment made under the Excise Tax Act, notice of which bears number DGMET-885 and is dated October 26, 1998 is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to one hundred percent of the ITCs in respect of food, beverages and entertainment contracted for by its employees who were reimbursed for the actual expense, provided that the Minister shall have the opportunity to audit, within a reasonable time, each and every application for these types of input tax credit in order to assess the accuracy of the amount claimed by the Appellant, in accordance with the attached Reasons for Judgment.
+
+Signed at Edmonton, Alberta, on the 24th day of August, 2001.
+
+"Gordon Teskey"
+
+J.T.C.C.
+
+[1] 163410 Canada Inc. v. Canada, [1999] G.S.T.C. 44 (T.C.C.), Les Immeubles Sansfaçon Inc. v. The Queen, 2001 G.T.C. 279.
+
+[2] United States of America v.Dymar, [1997] 2 S.C.R. 462 (S.C.C.).
+

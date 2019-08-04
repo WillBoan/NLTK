@@ -1,0 +1,434 @@
+Date: 20010822
+
+Docket: 98-2960-IT-G
+
+BETWEEN:
+
+GRAPHIC PACKAGING CANADA CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+(delivered orally from the bench on
+
+April 19, 2001, at Ottawa, Ontario,
+
+and amended for greater clarity)
+
+Archambault, J.T.C.C.
+
+[1] Graphic Packaging Canada Corporation (GPC) is appealing an assessment issued by the Minister of National Revenue (Minister) under the Income Tax Act (Act) with respect to the 1988 taxation year. In computing the capital gain resulting from the sale of all of GPC's shares in Gravure Graphics of Minnesota Inc. (GGM) to American Can Company (American) on April 7, 1988, the Minister disallowed a deduction of $2,618,529 (payments) claimed by GPC as costs of disposition. This figure represents amounts paid under an Equity Appreciation Bonus Plan (Bonus Plan) to certain senior executives of Color-Ad Packaging Inc. (CAPI), a wholly owned subsidiary of GGM. The Minister claims that GPC did not have any legal obligation to make the payments to the CAPI executives.
+
+[2] The Minister also disallowed a portion of a capital loss claimed by GPC on the sale on August 25, 1988 of 1,002,666 shares (CNR shares) that it owned in Canadian Natural Resources Limited (CNR). The loss was thus reduced from $18,096,405 to $25,859. This reduction of the capital loss is substantially attributable to three adjustments. First, the Minister reduced the adjusted cost base (ACB) of GPC's CNR shares by $17,985,328 to $180,926. Then, he disallowed the following deductions (CNR disposition expenses) claimed by GPC in respect of the disposition of the CNR shares: a) an amount of $85,000 paid to Peters & Co. Ltd. (Peters), and b) an amount of $959 paid on account of legal fees.
+
+[3] According to counsel for GPC, the only issues left to be decided are the following: i) whether the payments to the CAPI executives are deductible in computing the capital gain of GPC realized on the disposition of its GGM shares, or alternatively, whether those payments could be treated as a deduction from income in computing GPC's income for its 1988 taxation year; ii) with respect to the capital loss claimed on the CNR shares, the matter of the computation of the ACB of the CNR shares. GPC does not contest the disallowance by the Minister of the CNR disposition expenses.
+
+Facts
+
+[4] At the beginning of the hearing, counsel for GPC filed Exhibit A-2, a request made by counsel for the Minister to have the appellant admit the truth of certain facts outlined in paragraphs 1 to 51 of that document. Here are those facts:
+
+I. SALES OF SHARES OF GRAVURE GRAPHICS MINNESOTA INC.
+
+1. On March 14, 1998 the Appellant [GPC] acquired a 100% interest in a U.S. company known as Gravure Graphics Minnesota, Inc. ("GGM") from J.K. May Investments Ltd. ("JKMay") and Maynaki Holdings Ltd. ("Maynaki").
+
+2. GGM owned 100% of the shares of a U.S. operating company known as Color-Ad Packaging Inc. ("CAPI").
+
+3. Subsequent to its acquisition of GGM, the Appellant sold its shares of GGM to an arms-length company ("American") and reported a capital gain of $25,146,457.
+
+4. Included in the disposition expenses reported by the Appellant were payments made by the Appellant to certain employees of CAPI pursuant to agreements ("the agreements") made between the former shareholders of GGM (JKMay and Maynaki) and the employees of CAPI, totaling $2,618,529.00 ("the payments"), agreements to which the Appellant was not a party.
+
+5. The agreements provided for a commitment by JKMay and Maynaki to certain employees of CAPI to share in the increase in share values of CAPI in the event that the shares were sold.
+
+6. The agreements did not stipulate that this commitment was to become the obligation of a subsequent purchaser and in fact specified that any modifications had to be in writing, agreed to by all parties. No such written modifications were made.
+
+7. The Appellant was under no legal obligation to make the payments to the employees of CAPI.
+
+8. Any obligations by JKMay and Maynaki to the employees of CAPI were not transferred to the Appellant upon its acquisition of GGM.
+
+9. These obligations were not a condition of the sale of the GGM shares to the Appellant; rather they were made to satisfy separate agreements to compensate the employees in the event of such a sale, agreements to which the Appellant was not a party.
+
+II. DISALLOWANCE OF LOSSES RESULTING FROM SALE OF SHARES OF CANADIAN NATURAL RESOURCES LIMITED:
+
+10. A determination made under section 55 of the British Columbia Securities Act was issued March 31, 1981, whereby Drummond Petroleum Ltd. ("Drummond"), (name subsequently changed to Excel Energy Inc. ("Excel") on May 29, 1987) acquired 2,787,300 common shares in the capital stock of Canadian Natural Resources Limited ("CNR"). In connection with this determination, Drummond gave an undertaking dated March 27, 1981 to the Superintendent of Brokers whereby Drummond agreed that it would not dispose of CNR shares without first applying for a ruling under section 55, or qualifying the CNR shares by way of a prospectus or statement of material facts.
+
+11. In the next few years the market value of the CNR shares dropped drastically and Drummond ultimately wrote down its investment in CNR to $1.00 from an original value of $68,347,347 as at October 31, 1982.
+
+12. Cease trade orders were issued in or about July, 1986 by several provincial securities commissions (British Columbia, Alberta, Manitoba and Ontario) concerning CNR shares, due to the failure to file required information.
+
+13. During the latter part of 1986 and early 1987 Drummond undertook to sell its CNR holdings, following a prescribed pattern. It entered into an exclusive marketing arrangement with the brokerage firm Peters & Co. Limited ("Peters") whereby Peters would use its best efforts to arrange for the sale of one or more subsidiaries of Drummond, such subsidiaries having no assets other than common shares of CNR.
+
+14. A waiver letter dated February 27, 1987 provided to Drummond from the British Columbia Superintendent of Brokers waiving the conditions agreed to in the March 27, 1981 undertaking, provided that Drummond seek the express written consent of the Superintendent to any disposition of CNR shares other than for the purpose of establishing a capital loss under the Income Tax Act.
+
+15. Drummond applied on or about April 1, 1987 to the British Columbia Securities Commission for an order of partial revocation of its cease trade order with respect to the common shares of CNR. In this application, the following statements were made by Drummond:
+
+i) "Drummond has entered into a further arm's length arrangement whereby two Federal corporations will ultimately acquire the CNR shares in order to realize a capital loss. In order for the adjusted cost base to follow the CNR shares, Drummond must transfer the CNR shares to a wholly-owned subsidiary of a wholly-owned subsidiary."
+
+ii) Under the heading "Nature of the Application", the following is stated: "In view of the fact the transaction is being entered into to trigger a tax loss, the Waiver of Undertaking issued February 27, 1987 by the Superintendent of Brokers would apply such that Drummond need take no further steps in this regard.
+
+However, it is recognized that the CNRL shares are still subject to a cease-trade Order issued July 31, 1986 and extended August 15, 1986 such that trading in the securities of CNRL is prohibited. It is submitted that the granting of a Partial Revocation of Cease-Trade Order to allow Drummond to carry out the transactions previously set forth would in no way be prejudicial to the public interest, since the shares are being acquired by a private corporation for the purpose of realizing a tax loss and therefore, no distribution to the public is contemplated".
+
+16. On or about June 16, 1987 156655 Canada Inc. ("156655") was incorporated under the Canada Business Corporations Act ("CBCA") by a lawyer with the Calgary law firm Code Hunter. 156655 was a wholly owned subsidiary of Excel.
+
+17. On or about April 7, 1988 the Appellant sold its interest in GGM to American, and reported in its 1988 income tax return a capital gain of $25,146,457 from this disposition.
+
+18. On or about April 13, 1988 at 12:53 p.m. Calgary time 156655 acquired 1,002,666 shares of CNR at $0.17 per share on the Toronto Stock Exchange ("TSE") for a gross price of $170,453. Commission charges amounted to $1,000.00. The shares were acquired, in a preordained transaction, in two lots of 502,666 and 500,000 from individuals A & B, respectively, who sold the shares "short" i.e. they did not personally own the shares at the time of sale.
+
+19. At all material times hereto, Jeff Bergeson and Bernie Katchen, described in paragraph 18 as individuals "A" and "B", and Jim Grenon, were acting as agents, nominees or trustees of Peters, or were employees of Peters, who in turn were acting as trustees, nominees or agents for one or both of Excel and 156655.
+
+20. Jeff Bergeson, Jim Grenon and Bernie Katchen all had contacts to either or both of Peters & Co. and Code Hunter.
+
+21. On or about April 13, 1988 at 1:03 pm Calgary time Excel sold 1,002,666 shares of CNR for 0.17 per share on the TSE for a gross price of $172,453. These shares were sold, in a preordained transaction, in lots of 502,666 and 500,000 to the same individuals A & B respectively, permitting them to cover their short positions.
+
+22. As Excel was of the view that it controlled 156655 at the time the latter purchased the shares of CNR, Excel took the position in reporting the transaction referred to in paragraph 21 above that subparagraph 40(2)(g)(i) and subsection 54(i) of the ITA were applicable, viz that its capital loss of $17,995,354, as calculated below, was denied:
+
+Proceeds
+
+$ 172,953
+
+ACB of shares
+
+18,168,307
+
+Capital loss
+
+$17,995,354
+
+23. On or about April 13, 1988 at 1:44 p.m. Calgary time 156655 sold 1,002,666 shares of CNR for $0.18 per share on the TSE for a gross price of $180,480 which were purchased on the Toronto Stock Exchange by Jim Grenon in a preordainted [sic] transaction. Commission charges amounted to $500.00. As a result 156655 claimed a capital loss of $17,985,328, calculated as follows:
+
+Proceeds
+
+$ 180,479
+
+ACB
+
+18,165,807
+
+Capital Loss
+
+17,985,328
+
+* By the supposed operation of subparagraph 53(1)(f), 156655 added to the ACB of the CNR shares acquired by it as noted in paragraph 18 above the loss supposedly denied to Excel:
+
+Cost of shares
+
+$ 170,453
+
+Add: 53(1)(f) amount
+
+17,995,354
+
+ACB to 156655
+
+18,165,807
+
+This loss, however, was reported as nil as a result of the supposed application of the superficial loss rules, specifically subparagraph 54(i) since 156655 had subsequently re-acquired [sic] 1,002,366 shares of CNR on or about May 6, 1988 (see paragraph 26 below).
+
+24. On or about April 13, 1988 at approximately 2:20 p.m. a purchase and sale agreement was executed between the Appellant and Excel whereby Excel sold all of the one hundred (100) issued and outstanding shares [of] 156655 to the Appellant for $2,470,000 payable as follows:
+
+i) immediate payment of $ 70,000.00
+
+ii) promissory note for $2,400,000.00
+
+Excel warranted to the Appellant at the time of closing of this transaction that the ACB of the CNR shares owned by 156655 was $18.12 per share.
+
+25. The price negotiated between the Appellant and Excel for the shares in 156655 was based on the amount of cash 156655 had on hand at the time of the transaction and also the potential tax loss associated with the CNR shares which 156655 held at that time. Cash on hand in 156655 at the time of the acquisition of the 100 shares of 156655 by the Appellant was $181,400.
+
+26. On or about May 6, 1988 156655 purchased 1,002,366 shares of CNR on the TSE for a price of $0.18 per share for a gross price of $180,926. Commission charges amounted to $500.00. As a result of the supposed application of the superficial loss rules, specifically subparagraph 40(2)(g) and paragraphs 54(i) and 53(1)(f), the adjusted cost base of these shares was increased by the amount of the loss denied to 156655 resulting from the transaction noted in paragraph 18 above:
+
+Cost
+
+$ 180,426
+
+Add: amount supposedly
+
+denied as capital loss
+
+17,985,328
+
+Revised ACB to 156655
+
+18,165,753
+
+27. On or about May 9, 1988 an Escrow Agreement was made among the Appellant, Excel and Code Hunter (Trustee) whereby the sum of $2,400,000.00 (Escrow Amount) would be held by the Escrow Agent (Code Hunter) in trust until such time (Release Date) as set out in the Escrow Agreement. The Release Date is stipulated to be "The date on which Revenue Canada is barred from lawfully serving a notice of assessment or reassessment pursuant to the terms of the Income Tax Act (as amended from time to time) relative to the fiscal year of the purchaser commencing on December 31, 1987 and the fiscal year of its subsidiary 156655 Canada Inc. commencing immediately before April 12, 1988 and relative to the new fiscal year end of the subsidiary 156655 Canada Inc. created as a result of the purchase by the purchaser of the shares in 156655 Canada Inc. pursuant to the purchase and sale agreement; ...".
+
+28. On or about May 9, 1988 a Guaranteed Investment Certificate in the amount of $2,400,000 was taken out by the Appellant with the T.D. Mortgage Corporation. The registered holder on the certificate is shown as Code Hunter. This certificate has been renewed on a yearly basis with Code Hunter as the registered holder.
+
+29. On or about August 1, 1988 156655 and the Appellant executed an agreement wherein it was intended to terminate the existence of 156655.
+
+30. On or about August 1, 1988 the shareholders of 156655 passed a special resolution resolving to dissolve 156655 voluntarily pursuant to section 203 of the CBCA.
+
+31. On or about August 19, 1988 a Certificate of Dissolution was issued pursuant to the CBCA advising that 156655 had been dissolved as of August 19, 1988.
+
+32. From its inception to the date of its dissolution 156655 carried on no active business other than the activity of trading in CNR shares.
+
+33. On or about August 19, 1988 156655 was wound up into the Appellant pursuant to section 88 of the Act.
+
+34. On or about August 25, 1988 the Appellant sold 1,002,366 shares of CNR on the TSE for $0.155 per share for a gross price of $155,366. Commission charges amounted to $300.00. As a result the Appellant believes it is entitled to the following capital loss in its 1988 corporate tax return from the disposition of these shares:
+
+Proceeds
+
+$ 155,366
+
+ACB
+
+$18,165,754
+
+Capital Loss
+
+$18,010,388
+
+35. Also deducted by the Appellant from the Proceeds noted in paragraph 34 above were the amounts of $85,000, purportedly paid to "Peters & Co. Limited" and $959 claimed as legal fees, outlays for which no supporting documentation has been provided, yielding a supposed capital loss totaling $18,096,347.*
+
+* The amount of the capital loss actually claimed by the Appellant in its 1988 tax return was $18,096,405.
+
+36. At all material times Jeff Bergeson and Jim Grenon were friends as well as business associates.
+
+37. At all material times Bernie Katchen and Jim Grenon were friends as well as business associates.
+
+38. At all material times Jim Grenon and Bernie Katchen have done business deals together through the years.
+
+39. Jim Grenon and Jeff Bergeson have done business deals over the years.
+
+40. Jim Grenon was associated with Peters & Co. from 1984 to 1992. In April of 1988 Jim Grenon had an association with Peters & Co. working in a corporate finance capacity, and in particular, one of the things he did was putting together creative tax deals.
+
+41. Jim Grenon was involved in actively marketing transactions involving the sale of shares of Canadian Natural Resources that had a high adjusted cost base and low fair market value in order to realize their tax loss potential.
+
+42. The proposal from Peters & Co. Limited outlined in a letter dated January 7, 1997 to Drummond was motivated by the fact that the CNR shares had a high cost base with a low fair market value which would allow the possibility to transfer the unrealized loss to a third party.
+
+43. Jim Grenon approached the B.C. Securities Commission to obtain an exemption from the cease trading order in order to carry out the plan to transfer the unrealized tax loss potential of the CNR shares from Drummond/Excel to a third party.
+
+44. In the event that the Appellant's appeal is allowed, Jim Grenon will receive a fee in the hundreds of thousands of dollars for his services in developing and facilitating the transfer of the CNR shares from Excel to the Appellant.
+
+45. Jim Grenon contacted Bernie Katchen as part of the overall plan to transfer the CNR shares from Excel to the Appellant and advised Bernie Katchen to make the transactions of the CNR shares on April 13th, 1988 which are outlined in paragraphs 5(t) and 5(u) of the Reply to Notice of Appeal.
+
+46. The transactions by Jeff Bergeson and Bernie Katchen relating to the sale of the CNR shares on April 13, 1988 outlined in paragraphs 5(t) and 5(u) of the Reply to Notice of Appeal were part and parcel of the preordained plan to facilitate the transfer of the CNR shares from Excel to the Appellant.
+
+47. Jim Grenon agrees that the document entitled "Disposal of CNR Shares" and listed as production 29 of the Respondent's List of Documents appears to be an outline of the plan that he was involved in that resulted in the CNR shares belonging to Excel eventually being transferred to the Appellant.
+
+48. The transactions involving the CNR shares made by Jeff Bergeson and Bernie Katchen on April 13, 1988 outlined in the Reply to Notice of Appeal at paragraphs 5(t) and 5(u) were part of the overall plan that saw the acquisition of the CNR shares by the Appellant.
+
+49. In 1985, Bernie Katchen worked with Jim Grenon in putting together the tax loss purchase schemes.
+
+50. Bernie Katchen trusted Jim Grenon and would perform a transaction at his direction on simply his say so [sic].
+
+51. Bernie Katchen and Jeff Bergeson do not know each other.
+
+[5] Counsel for GPC admitted all of these facts, except those set out in paragraphs 4 to 9, 18, 19, 23, 35, 44, 45, 46, 48, 49 and 50. He did not deny the facts described in paragraphs 4 to 9; he only stated that the agreements referred to in those paragraphs spoke for themselves. He also admitted paragraph 18, except for the words "in a preordained transaction". He admitted paragraph 23, except for the portion relating to the shares having been purchased by Jim Grenon in a preordained transaction and the use of the word "supposed". He admitted as well paragraph 35, except for the statement that there were no supporting documents provided. He admitted the first clause of the sentence in paragraph 50 but not the second.
+
+[6] Counsel for GPC denied paragraphs 19 and 49, and stated that paragraph 44 was irrelevant. With respect to paragraphs 45, 46, and 48, he admitted that Mr. Grenon had discussed with Mr. Katchen the transactions eventually carried out by Mr. Katchen as outlined in paragraphs 5(t) and 5(u) of the Reply to Notice of Appeal. However, he stated that the transactions carried out by Messrs. Bergeson and Katchen were carried out by them on their own behalf and on their own account. Finally, those transactions were not part and parcel of preordained transactions.
+
+[7] Mr. Robert May testified by video conference. He controlled Maynaki, one of the shareholders that sold the GGM shares to GPC. According to him, the Bonus Plan, which was only set up in January 1988 by JKMay, Maynaki and the CAPI executives, reflected prior verbal commitments made by JKMay and Maynaki to those executives. It was to the benefit of GGM's shareholders to retain those key executives. That benefit materialized when the GGM shares were sold to American at a substantial profit in April 1988. Mr. May described the circumstances surrounding the sale of the GGM shares by JKMay and Maynaki to GPC on March 14, 1988 and he confirmed that it was made on a section 85 rollover basis in contemplation of the resale of the shares on April 7, 1988 to American. It seems that this intermediary transaction took place in order to enable certain shareholders (Venture Capitalists) of GPC to participate in the capital gain realized on the sale of the GGM shares to American. Prior to this intermediary transaction, the Venture Capitalists had an economic interest in GGM without having actual shares in that corporation. I take it for granted that the rollover (rollover agreement) took place in order to afford the said shareholders the same tax benefit as the other Canadian shareholders of GGM.[1]
+
+[8] Mr. May could not explain why the rollover agreement, which was drafted by lawyers, did not stipulate that GPC was to make the payments to the CAPI executives under the Bonus Plan. The intention, as expressed by Mr. May, was that GPC should assume those obligations of Maynaki and JKMay and, indeed, it was GPC that made the payments to the CAPI executives. Prior to the rollover agreement, JKMay and Maynaki each owned 50 percent of the common shares of GGM and two thirds of the shares of GPC; the Venture Capitalists held the other third of GPC's shares.
+
+Analysis
+
+[9] This appeal raises two separate issues: the first has to do with the deductibility of the payments made by GPC to the CAPI executives; the second relates to the computation of the ACB of the CNR shares disposed of on August 25, 1988. I shall deal with the latter issue first.
+
+ACB of the CNR shares
+
+[10] As can be seen from the facts described above, the loss claimed by GPC on the disposition of the CNR shares on August 25, 1988 was essentially a loss that it had "purchased" from Excel in order to offset the capital gain that it realized on the disposition of its GGM shares to American on April 7, 1988. For this aggressive scheme — which was implemented before the introduction of the general anti-avoidance rule in section 245 of the Act — to work, it was crucial that the loss realized by Excel on the disposition of its CNR shares (1:03 CNR shares) at 1:03 p.m. on April 13, 1988 on the Toronto Stock Exchange be disallowed as a superficial loss pursuant to subparagraph 40(2)(g)(i)[2] of the Act and that such loss be added pursuant to paragraph 53(1)(f) of the Act[3] to the ACB of the CNR shares (12:53 CNR shares) acquired by 156655 at 12:53 p.m. on April 13, 1988. Pursuant to subparagraph 40(2)(g)(i) of the Act, a taxpayer's superficial loss is nil. A superficial loss is defined in paragraph 54(i) of the Act, which read as follows:
+
+54(i) "Superficial loss". — "superficial loss" of a taxpayer means his loss from the disposition of a property in any case where
+
+(i) the same or identical property (in this paragraph referred to as "substituted property") was acquired, during the period beginning 30 days before the disposition and ending 30 days after the disposition, by the taxpayer, his spouse or a corporation controlled, whether directly or indirectly in any manner whatever, by him, and
+
+(ii) at the end of the period referred to in subparagraph (i) the taxpayer, his spouse or the corporation, as the case may be, owned, in any manner whatever, the substituted property,
+
+except that a loss otherwise described in this paragraph shall be deemed not to be a superficial loss if the disposition giving rise to the loss
+
+(iii) was a disposition deemed by paragraph 33.1(11)(a), subsection 45(1), section 48, 50 or 70 or subsection 104(4), 138(11.3), 144(4.1) or (4.2) or 149(10) to have been made,
+
+(iv) was the expiry of an option, or
+
+(v) was a disposition of property by the taxpayer to which subsection 85(4) applies,
+
+(vi) (Repealed by 1986, c. 6, S. 27(4).)
+
+[My emphasis.]
+
+[11] In my view, the scheme adopted by GPC was flawed. The series of transactions implemented to effect a disposition in favour of GPC of Excel's "pregnant capital loss" with respect to the CNR shares failed because Excel did not realize a superficial loss when it disposed of its 1:03 CNR shares. This is so for basically two reasons. Although the 12:53 CNR shares acquired by 156655 could have constituted substituted property within the meaning of paragraph 54(i) because they were property the same as or identical to the 1:03 CNR shares disposed of by Excel and were acquired by 156655 while it was controlled by Excel, they do not meet the second condition described in subparagraph 54(i)(ii) that must be met in order for the loss to be a superficial loss. The shares in question were not owned by 156655 at the end of the relevant period, that is, on May 13, 1988. That period started on March 14, 1988, 30 days prior to the disposition of the 1:03 CNR shares by Excel on April 13, 1988, and ended on May 13, 1988, 30 days after the disposition of those shares. The 12:53 CNR shares were disposed of at 1:44 p.m. on April 13, 1988.
+
+[12] Furthermore, there are no other CNR shares of 156655 that meet the second condition set out in subparagraph 54(i)(ii) of the Act. It is true that 156655 acquired on May 6, 1988 (that is, during the relevant period) CNR shares (May CNR shares) which were property the same as or identical to the 1:03 CNR shares and that it still owned them on May 13, 1988. However, those shares did not constitute, in my view, "substituted property" as defined in subparagraph 54(i)(i) because they were not acquired by 156655 when it was controlled by Excel. Indeed, on April 13, 1988, at 2:20 p.m., control of 156655 had been given up by Excel and acquired by GPC.
+
+[13] In my view, this literal application of paragraph 54(i) to the facts of this case is sufficient to dispose of the issue regarding the computation of the ACB of the CNR shares disposed of by GPC. Such application raises no issue as to the interpretation of that paragraph. To my surprise, however, that is not the approach argued for by counsel for the respondent. Instead, he took a slightly different view. He focused mainly on the interpretation of the expression "the corporation" found in subparagraph 54(i)(ii) of the Act. He expressed his point of view as follows in his written argument:
+
+15. The Appellant's argument on this aspect of the case is that while "the corporation" in ss. 54(i)(ii) refers to the same corporation specified in 54(i)(ii) [I think he meant 54(i)(i).], it does not require that the corporation be "controlled, whether directly or indirectly in any manner whatever, by him," since although these words appear in 54(i)(i), they are not repeated in 54(i)(ii). To this, the respondent submits that repeating all of the words in the second provision is not necessary and that the words "the corporation" mean precisely the same corporation, with the same control features, as is mentioned in the previous provision.
+
+[14] On that interpretation, the loss on the disposition of the 1:03 CNR shares by Excel would not be a superficial loss because the May CNR shares were not owned by a corporation controlled by Excel. To come to that conclusion, counsel for the respondent analyzed the distinction between "a" corporation in subparagraph 54(i)(i) and "the" corporation in subparagraph 54(i)(ii). He referred to the definition of the words "a" and "the" provided in The Concise Oxford Dictionary, 10th edition: "a . . . used when mentioning someone or something for the first time; the indefinite article"; "the . . . denoting one or more people or things already mentioned or assumed to be common knowledge". The corporation referred to in subparagraph 54(i)(ii) is thus the corporation referred to in subparagraph (i), i.e. a corporation controlled by the taxpayer, here Excel.
+
+[15] I agree with this conclusion of counsel for the respondent and with his contention that the text of subparagraph 54(i)(ii) is clear and unambiguous. His interpretation is in conformity with the classic principles of interpretation, in particular, the principle enunciated by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, at page 17, where it is stated:
+
+In light of this passage there is no longer any doubt that the interpretation of tax legislation should be subject to the ordinary rules of construction. At page 87 of his text Construction of Statutes (2nd ed. 1983), Driedger fittingly summarizes the basic principles: ". . . the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament".
+
+[My emphasis.]
+
+[16] Counsel for GPC also argues that the wording of subparagraph 54(i)(ii) is clear but he adopts the contrary interpretation to the Minister's! He basically states that once you have identified a corporation in subparagraph 54(i)(i), here 156655, you do not have to determine whether that corporation is still controlled by the taxpayer (here Excel) at the end of the relevant period. I obviously disagree with this interpretation. But even if I were to give him the benefit of the doubt and conclude that the wording of subparagraph 54(i)(ii) is ambiguous, I would still adopt the respondent's interpretation. If one takes into account the purpose of paragraph 54(i) and of subparagraph 40(2)(g)(i) of the Act, it is clear that it is to prevent a taxpayer from deducting a capital loss on property that has been disposed of when the taxpayer or someone who is part of the same economic unit, such as the taxpayer's spouse or a corporation controlled by the taxpayer, acquired the same or identical property during the relevant period and still held it at the end of that period. If the taxpayer's spouse divorced him or if the corporation ceased to be controlled by him during the relevant period, the taxpayer, if I were to adopt the interpretation of counsel for GPC, could be prevented from deducting his loss. I do not see any valid reason for such a result: why should the " stop-loss rule " in subparagraph 40(2)(g)(i) apply when the "substituted property" is no longer owned by someone in the same economic unit at the end of the relevant period? There is in that case a true economic disposition of the property. That property is no longer subject to the control of the taxpayer. Given two diverging interpretations of subparagraph 54(i)(ii), one achieving the purpose of the legislation and the other not, the choice is clear.
+
+[17] Since no superficial loss was suffered by Excel on the disposition of its 1:03 CNR shares, its loss of $17,995,354 was not nullified pursuant to subparagraph 40(2)(g)(i) of the Act, and no adjustment pursuant to paragraph 53(1)(f) could be made in computing the ACB of the 12:53 CNR shares. Therefore, when 156655 disposed of the 12:53 CNR shares at 1:44 p.m. on April 13, 1988, it actually realized a capital gain and not a capital loss. Accordingly, no consequential adjustment has to be made to the ACB of the May CNR shares pursuant to paragraph 53(1)(f) of the Act. GPC therefore failed to establish that the Minister made an error in computing its loss on the disposition of the May CNR shares on August 25, 1988.
+
+[18] Most of the testimony given during the hearing centred around the role played by Messrs. Grenon, Bergeson and Katchen. The Minister tried to establish that these three persons "were acting as agents, nominees or trustees of Peters, or were employees of Peters, who in turn were acting as trustees, nominees or agents to one or both of Excel and 156655".[4] For the reasons I have given, it should not be necessary to decide in what capacity these persons were acting. However, in case it should prove necessary to do so, I would conclude that the Minister failed to meet his onus of establishing those facts. The burden was on him because when he issued the assessment to GPC, he did do not assume those particular facts.
+
+[19] In their testimony, both Mr. Katchen and Mr. Bergeson indicated that not only did they not recall the circumstances surrounding the short sales of the CNR shares but they did not even remember having entered into those transactions. Mr. Bergeson even acknowledged that it is possible that they could have taken place without his personal knowledge. However, Messrs. Bergeson and Katchen both incurred losses of $1,350 as a result of their transactions involving the CNR shares and they both deducted those losses in computing their income for tax purposes. Furthermore — and this is crucial — they were not reimbursed by anyone for the losses.
+
+[20] It should be added that they did not complain to their stockbroker that the transactions in question were carried out illegally, without their knowledge. By their conduct, they have either agreed to them or ratified them. Mr. Katchen was even able to file at the hearing the original transaction slips issued by Peters with respect to his short sale, having found them attached to his tax returns. Mr. Grenon also testified that both Mr. Katchen and Mr. Bergeson had acted on their own behalf. There is no document or agreement that would establish any agency relationship. I am convinced that they did not act on behalf of Excel or 156655 with respect to those transactions. Rather, they acted as principals.
+
+Bonus Plan Payments
+
+[21] Based on the testimony of Mr. May, I am satisfied that it was due to an oversight that the undertaking to pay the CAPI executives was not properly stipulated in the rollover agreements between JKMay and Maynaki on the one hand and GPC on the other hand. It should be stressed that JKMay and Maynaki owned all the shares of GGM and controlled GPC with two thirds of its common shares. Given this situation, it was not as critical that the rollover agreements properly reflect the obligation of GPC to make the payments to the CAPI executives. Had it been a sale to an arm's-length purchaser, I am convinced that the vendors would have been more careful to ensure that the written documentation reflected all of GPC's undertakings. During argument, I asked counsel for the Minister if he was aware of any reason (including tax reasons) why the parties to the rollover agreements may have intended not to have GPC assume the obligation to make the payments to the CAPI executives. He did not know of any. I do not see any either. Had there been any such reasons, it would have been more difficult to conclude that the omission was due to a mere oversight.
+
+[22] I should add that it made sense that GPC should bear the financial costs of the Bonus Plan payments because the GGM shares were rolled over to GPC in order to allow the Venture Capitalists to participate indirectly in the capital gain realized on the disposition of the GGM shares to American. It was only fitting that they should also participate indirectly in the expenses incurred to realize that gain.
+
+[23] In these circumstances, I come to the conclusion that the intent of the parties was to have GPC undertake to make the payments to the CAPI executives when it acquired the GGM shares from Maynaki and JKMay. In my view, the payments made to those executives are part of GPC's cost of the GGM shares.
+
+[24] For these reasons, the appeal of GPC is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that GPC is entitled to deduct, in computing its capital gain on the GGM shares, the payments made to the CAPI executives.
+
+Signed at Magog, Quebec, this 22nd day of August 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+COURT FILE NO.: 98-2960(IT)G
+
+STYLE OF CAUSE: GRAPHIC PACKAGING CANADA CORPORATION
+
+and Her Majesty the Queen
+
+PLACES OF HEARING: Montreal, Quebec
+
+Ottawa, Ontario
+
+DATES OF HEARING: February 19 and 20, 2001 (Montreal)
+
+April 19, 2001 (Ottawa)
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Pierre Archambault
+
+DATE OF JUDGMENT: April 20, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Wilfrid Lefebvre
+
+Counsel for the Respondent: Robert Gosman
+
+Gérald L. Chartier
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Wilfrid Lefebvre
+
+Firm: Ogilvy Renault
+
+Montreal, Quebec
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-591(GST)I
+
+BETWEEN:
+
+ROBERT D. PARTRIDGE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on August 8, 2001, at Kingston, Ontario, by
+
+the Honourable Judge Gerald J. Rip
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Rosemary Fincham
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period from January 1, 1997 to December 31, 1999, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in order to delete the penalty assessed pursuant to section 275 of that statute.
+
+The appellant is entitled to no further relief.
+
+Signed at Ottawa, Canada, this 24th day of August 2001.
+
+J.T.C.C.
+
+2001-590(IT)I
+
+BETWEEN:
+
+ROBERT D. PARTRIDGE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on August 8, 2001, at Kingston, Ontario, by
+
+the Honourable Judge Gerald J. Rip
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Rosemary Fincham
+
+JUDGMENT
+
+The appeals from the assessments made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed.
+
+Signed at Ottawa, Canada, this 24th day of August 2001.
+
+J.T.C.C.
+
+[1] It should be noted that both GGM and CAPI are US corporations.
+
+[2] This subparagraph read as follows:
+
+(2) Limitations. Notwithstanding subsection (1),
+
+. . .
+
+(g) a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+
+(i) a superficial loss,
+
+. . .
+
+is nil. . . .
+
+[3] This paragraph read as follows:
+
+53: Adjustments to cost base.
+
+(1) In computing the adjusted cost base to a taxpayer of property at any time, there shall be added to the cost to him of the property such of the following amounts in respect of the property as are applicable:
+
+. . .
+
+(f) where the property is substituted property of the taxpayer within the meaning of paragraph 54(i), the amount of the loss that was, by virtue of the acquisition by the taxpayer of the property, a superficial loss of any taxpayer. . . .
+
+[4] Paragraph 5 t.1) of the Amended Reply to Notice of Appeal.
+

@@ -1,0 +1,220 @@
+Date: 20000328
+
+Dockets: 1999-4356-IT-I; 1999-4471-IT-I
+
+BETWEEN:
+
+JONG WOOK CHO, HYUNG BUN SHIN,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent,
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These cases were heard together. They involve a pure question of statutory interpretation.
+
+[2] Mr. Cho carried on the grocery business in partnership as 5th Ave Grocery. Ms. Shin carried on business in partnership as Sevenoaks Shoe Service.
+
+[3] In both cases the taxation year involved is 1997. At trial Ms. Shin abandoned her appeal for 1996 because she had not filed a notice of objection.
+
+[4] Both businesses had a fiscal period that ended on March 31.
+
+[5] The problem in both cases stems from section 34.1. This provision was introduced in the 1995 budget, applicable after 1994. In broad terms the purpose of the amendments to the Income Tax Act in sections 34.1, 34.2 and 249.1 was to bring to an end the practice of individuals, partnerships and professional corporations having a fiscal period end after the end of the calendar year, thereby achieving in effect a deferral of income earned in a fiscal period to the calendar year in which the fiscal period ends (subsections 11(1), 96(1)). The solution was simply to change the definition of "fiscal period" and this is what section 249.1 does. Section 249.1, which applies to fiscal periods that begin after 1994, provides that in the case of individuals, partnerships and professional corporations no fiscal period may end after the end of the calendar year in which it began.
+
+[6] Without some means of alleviating the effect in the first year the result of the definition of fiscal period in section 249.1 could be that in 1995 an individual, partnership or professional corporation could be taxed on up to almost two years income in one year. If an individual proprietor of a business had a fiscal period ending January 31, he or she could be taxed in 1995 on income from the fiscal period February 1, 1994 to January 31, 1995 and for the fiscal period February 1, 1995 to December 31, 1995.
+
+[7] As a result, subsection 249.1(4) permits under some circumstances individuals to elect in prescribed form not to have paragraph 249.1(1)(b) apply ("the alternative method"), that is to say, to keep a fiscal period that does not end on December 31.
+
+[8] Both appellants elected the alternative method for 1997 and calculated their business income under Part 2 of the prescribed form T1139. The result of the election is that the provisions of subsection 34.1(1) apply. That subsection reads:
+
+Where
+
+(a) an individual (other than a testamentary trust) carries on a business in a taxation year,
+
+(b) a fiscal period of the business begins in the year and ends after the end of the year (in this subsection referred to as the "particular period"), and
+
+(c) the individual has elected under subsection 249.1(4) in respect of the business and the election has not been revoked,
+
+there shall be included in computing the individual's income for the year from the business, the amount determined by the formula
+
+C
+
+(A – B) x —
+
+D
+
+where
+
+A is the total of the individual's income from the business for the fiscal periods of the business that end in the year,
+
+B is the lesser of
+
+(i) the total of all amounts each of which is an amount included in the value of A in respect of the business and that is deemed to be a taxable capital gain for the purpose of section 110.6, and
+
+(ii) the total of all amounts deducted under section 110.6 in computing the individual's taxable income for the year,
+
+C is the number of days on which the individual carries on the business that are both in the year and in the particular period, and
+
+D is the number of days on which the individual carries on the business that are in fiscal periods of the business that end in the year.
+
+[9] The formula (A-B) x in subsection 34.1(1) works as follows:
+
+Assume a fiscal period ending on March 31, 1997. In addition to the income for the period ending on March 31, 1997 (say $100,000) additional business income ("ABI") calculated in accordance with the above formula must be included. Assume zero for B.
+
+The number of days from the end
+
+of the March 31, 1997 fiscal period to the end of the 1997 calendar year
+
+$100,000
+
+The number of days in the
+
+March 31, 1997 fiscal period
+
+i.e. $100,000 x = $75,342
+
+[10] The income inclusion is $175,342 (rounded to $175,000). If one stops at that point, the anomaly is apparent because the ABI for the stub period ending on December 31, 1997 is based not on what is in fact earned in that period (or even a proportion of what is earned in the fiscal period ending March 31, 1998 (which might not be known when the 1997 return is being prepared)), but rather on the income of a preceding fiscal period. This is a notional figure. The result is however alleviated by the fact that a reserve is allowed.
+
+[11] The system came into effect in 1995. Therefore, assuming an election under subsection 249.1(4) in that year, and assuming a taxpayer's income for the March 31 fiscal periods ending in 1995, 1996 and 1997 remains constant at $100,000, his income for 1995 would be
+
+$100,000 + $75,000 (ABI) (34.1(1)) = $175,000
+
+less reserve (95% of $75,000 = $71,250) = $103,750
+
+[12] In 1996 his income would be
+
+$100,000 + 1996 ABI ($75,000) = $175,000
+
+less 1995 ABI ($75,000) = $100,000
+
+plus 1995 reserve ($71,250) = $171,250
+
+less 1996 reserve (85% of $75,000 (1995 ABI) = $63,750) = $107,500
+
+[13] For 1997, the calculation would be
+
+$100,000 + $75,000 ABI = $175,000
+
+less 1996 ABI $75,000 = $100,000
+
+plus 1996 reserve $71,250 = $171,250
+
+less 1997 reserve (75% of 1995 ABI = $56,250) = $115,000
+
+[14] The basic difference between the appellant's representative, Mr. Sunwoo, and the respondent is that Mr. Sunwoo believes that section 34.1 has no application to a taxpayer whose business started before 1995 (as is the case with both appellants here). For this reason he submits that no additional business income should be included in 1995. The difference between the two may be seen by a comparison of the calculations made by Mr. Sunwoo and by Mr. Edward Blair, the appeals officer in respect of Mr. Cho's 1997 taxation year for the purposes of the form T1139.
+
+Mr. Sunwoo's
+
+calculation
+
+Mr. Blair's
+
+calculation
+
+Net income (loss) for fiscal period ending in 1997
+
+$24,939
+
+$24,939
+
+Additional business income
+
+----
+
+$18,789
+
+($24,939 x )
+
+Reserve deducted last year
+
+$9,968.50
+
+(In fact this figure comes from Mr. Cho's 1996 return. It is not clear where Mr. Blair's figure comes from.)
+
+$9,004
+
+Sub-total (M+N+O)
+
+$34,907.50
+
+$52,732
+
+Last year's additional
+
+business income
+
+--
+
+$10,594
+
+(this tallies with the 1996 return)
+
+Sub-total (P-Q)
+
+$34,907
+
+$42,138
+
+Calculation of reserve
+
+December 31, 1995 income
+
+$11,862.50
+
+$10,594
+
+In 1995 Mr. Sunwoo calculated the
+
+1995 ABI at $11,862.50 for each partner
+
+75% of S
+
+$8,896
+
+$7,945
+
+Last year's reserve
+
+$9,968
+
+$9,004
+
+Income for the year
+
+$34,907
+
+$42,138
+
+Reserve (not exceeding the least of T, U and V)
+
+$8,888.50
+
+$7,945
+
+Income
+
+$26,019
+
+$34,193
+
+[15] Although the figures differ somewhat the calculations are, in principle, the same for Ms. Shin.
+
+[16] The difference between Mr. Sunwoo and Mr. Blair is that in 1996 and 1997 Mr. Sunwoo added no additional business income under subsection 34.1(1), nor did he deduct the previous year's additional business income. This ignores the plain words of section 34.1. Subsection 34.1(3) contemplates the deduction in the following year of the additional income added under subsection 34.1(1) in the preceding year.
+
+[17] Mr. Sunwoo's basic premise is that section 34.1 does not operate to require the inclusion in income of the additional income because the business of the two appellants started before the end of 1994. With respect, I can see no such limitation in subsection 34.1(1).
+
+[18] The appeals are dismissed.
+
+Signed at Ottawa, Canada, this 28th day of March 2000.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

@@ -1,0 +1,70 @@
+Date: 19980213
+
+Docket: 96-1699-IT-I
+
+BETWEEN:
+
+AYAD S. KAMIL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan, J.T.C.C.
+
+[1] The Appellant is an electrical projects engineer who resides near the City of Windsor, Ontario, but is employed in the State of Michigan. In 1992, the Appellant commenced employment with Fabricating Engineers Inc. (the “Employer”), a corporation carrying on business in Michigan. In 1992, the Employer did not have a pension plan but, in February 1994, it offered a form of pension plan identified in the USA as a “401K” plan. Apparently, the 401K plan is flexible in the sense that, in certain situations, both the employer and the employee will contribute to the plan but, in other situations, it is only the employee who will contribute.
+
+[2] The Appellant testified that in the special circumstances of his employment, it was only the employees who contributed to the 401K plan. He decided to contribute at the rate of $200 per month. The result was that in the remaining 11 months of 1994, the Appellant contributed $2,200 (US funds) to the 401K plan operated by his Employer. According to the Appellant’s unchallenged testimony, the $2,200 contribution to the plan is deductible for US income tax purposes.
+
+[3] Because the Appellant resides in Canada, he is taxable in Canada on his world income. When reporting his 1994 income for Canadian income tax purposes, he reported his gross earnings from his Employer and then deducted the amount of $2,200, assuming that that amount was deductible in Canada. There is a small discrepancy in the circumstances of this appeal because, although the Appellant reported his income for Canadian income tax purposes in Canadian dollars, he apparently deducted $2,200 as a contribution to his 401K pension plan as if that amount were in Canadian dollars.
+
+[4] When the Minister of National Revenue issued a reassessment to the Appellant for 1994, the Minister added back to the Appellant’s reported income the amount of $2,200 again assuming that that amount was Canadian funds. The Appellant has brought an appeal from that assessment. The only issue is whether the Appellant is required to include in the computation of his 1994 income the amount of $2,200. The Appellant has elected the informal procedure.
+
+[5] There is no evidence that the 401K plan adopted by the Employer in Michigan was registered with the Minister of National Revenue. I therefore conclude that the 401K plan is not a “registered pension plan” within the meaning of section 248 of the Income Tax Act. Income from employment is governed by section 6 of the Income Tax Act, which states in part:
+
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+
+(i) derived from the contributions of the taxpayer’s employer to or under a registered pension plan, group sickness or accident insurance plan, private health services plan, supplementary unemployment benefit plan, deferred profit sharing plan or group term life insurance policy,
+
+(ii) under a retirement compensation arrangement, an employee benefit plan or an employee trust,
+
+...
+
+The following words in paragraph (a) “the value of ... other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment ...” have been interpreted by the Courts in a very broad manner over the past 40 years. Notwithstanding that broad interpretation, there was a specific exemption for a contribution to a “registered pension plan” within the meaning of subparagraph 6(1)(a)(i). A registered pension plan, however, is one that is registered with the Minister according to its definition in section 248:
+
+248(1) In this Act,
+
+“registered pension plan” means a pension plan that has been registered by the Minister for the purposes of this Act, which registration has not been revoked;
+
+In the absence of any evidence that the 401K plan to which the Appellant belonged was registered with the Minister, I have to conclude that it was not registered and, therefore, would not be a “registered pension plan” within the meaning of the Canadian Income Tax Act. That being the case, a contribution to the plan would not fall within the exempting provisions of subparagraph 6(1)(a)(i).
+
+[6] Deductions in the computation of employment income are permitted under section 8 but they have significant limitations. Paragraph 8(1)(m) contains the following provision which would permit the deduction of a contribution to a registered pension plan:
+
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+
+(m) the amount in respect of contributions to registered pension plans that, by reason of subsection 147.2(4), is deductible in computing the taxpayer’s income for the year;
+
+As already noted, if the 401K plan is not a registered pension plan, then paragraph 8(1)(m) will not provide any relief to the Appellant. And finally, subsection 8(2) provides the real limitation as to the Appellant’s right for claiming a deduction:
+
+8(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+
+[7] The Appellant argued that he would be subject to double taxation if he were not permitted to deduct his contribution to the 401K plan. He pointed out that in 1994, his contribution to the 401K plan would be permitted as a deduction for US income tax purposes but, if it were not permitted as a deduction in Canada, he would end up paying tax on that $2,200 in Canada. In the future, upon his retirement, payments to the Appellant out of the 401K plan would be subject to tax in the USA but there is a chance that such payments would not be subject to tax in Canada because the contributions would have been taxed on a year-by-year basis as they were paid. I cannot determine what position the taxpayer will be in upon his retirement in the future; and there may indeed be an element of double taxation at that time. That fact, by itself, would not permit me to depart from the application of what I regard as the plain meaning of the Income Tax Act. There may be some provision in the Canada-US Tax Treaty which would offer relief to the Appellant because one of the main purposes of that treaty is to avoid double taxation.
+
+[8] Having regard to the circumstances of this case, I am obliged to dismiss the appeal because the specific deduction of $2,200 with respect to the 401K plan is not permitted under the Canadian Income Tax Act.
+
+[9] In the Reply to the Notice of Appeal, the Respondent states in paragraph 7 that the Appellant’s Canadian dollar equivalent of the $2,200 (US funds) contributed to the 401K plan was $3,004.98 (Canadian funds). The Respondent goes on to state that the amount $3,004.98 is the correct amount of income which should have been added to the Appellant’s reported income for 1994 and not the amount of $2,200 which the Minister erroneously assumed was Canadian funds. Notwithstanding that error, the Respondent does not seek to increase the Appellant’s income by the difference between the Canadian dollar equivalent and the actual amount of $2,200 which is the amount in Canadian funds that was added to the Appellant’s reported income. It is only the amount of $2,200 which is in dipute. If those statements are accurate, there is a benefit of approximately $1,000 flowing to the advantage of the Appellant. Otherwise, the Appellant cannot get any benefit from this appeal because under the relevant provision of the Income Tax Act, the Appellant is not permitted to deduct the amount of $2,200. The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 13th day of February, 1998.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

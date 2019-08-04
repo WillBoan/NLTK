@@ -1,0 +1,230 @@
+Date: 20000331
+
+Dockets: 98-881-IT-G; 98-882-IT-G; 98-883-IT-G; 98-884-IT-G
+
+BETWEEN:
+
+MUNICH REINSURANCE COMPANY (CANADA BRANCH),
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments made under the Income Tax Act for the appellant’s 1990, 1991, 1992 and 1993 taxation years.
+
+[2] The appellant is incorporated under the laws of Germany and is a non-resident of Canada. It carries on a reinsurance business throughout the world, including through a branch in Canada.
+
+[3] In the four years in question the appellant received from the Government of Canada $95,000, $341,000, $216,000 and $784,000 respectively as interest on overpayments of tax.
+
+[4] The issue is whether these amounts are taxable under Part I of the Income Tax Act as income from a business or under Part XIII.
+
+[5] The appellant treated the value of the capitalized interest earned on income tax credit balances as forming part of the property used by it in the year in, or held in the course of, carrying on an insurance business in Canada, for purposes of subsection 138(9) of the Income Tax Act and Part XXIV of the Income Tax Regulations.
+
+[6] As a non-resident insurer carrying on an insurance business in Canada, the appellant must compute its income in accordance with subsection 138(9) of the Act, which read in the years in question:
+
+(9) Where in a taxation year an insurer (other than a resident of Canada that does not carry on a life insurance business) carried on an insurance business in Canada and in a country other than Canada, there shall be included in computing its income for the year from carrying on its insurance businesses in Canada the aggregate of:
+
+(a) that part of its gross investment revenue for the year that is gross investment revenue from property used by it in the year in, or held by it in the year in the course of, carrying on those insurance businesses in Canada, and
+
+(b) such additional amount as is prescribed in respect of the insurer of the year by regulation.
+
+[7] In French, the subsection read:
+
+(9) L’assureur (sauf une personne résidant au Canada et qui n’exploite pas d’entreprise d’assurance-vie) qui, au cours d’une année d’imposition, exploite une entreprise d’assurance au Canada et à l’étranger doit inclure le total des montants suivants dans le calcul de son revenu pour l’année tiré de l’exploitation de ses entreprises d’assurance au Canada :
+
+(a) la partie de ses revenus bruts de placements pour l’année tirés de biens utilisés ou détenus par lui pendant l’année dans le cadre de l’exploitation de ces entreprises d'assurance au Canada;
+
+(b) le montant supplémentaire prescrit et applicable à l’assureur pour l’année.
+
+[8] Gross investment revenue is defined in paragraph 138(12)(e) as follows:
+
+(e) “gross investment revenue” of an insurer for a taxation year means the aggregate of
+
+(i) all taxable dividends and amounts received or receivable as, on account of, in lieu of or in satisfaction of, interest, rentals or royalties included in its gross revenue for the year,
+
+(ii) its income for the year from each trust of which it is a beneficiary,
+
+(iii) its income for the year from each partnership of which it is a member,
+
+(iv) all amounts required by subsection 16(1) to be included in computing its income for the year,
+
+(v) all amounts required by subsection 12(3) or 20(14) to be included in computing its income for the year except to the extent that such amounts are amounts included in computing its gross investment revenue by virtue of subparagraph (i), and
+
+(vi) the amount, if any, by which the total of all amounts included by reason of paragraph 56(1)(d) in computing its income for the year exceeds the total of all amounts deducted under paragraph 60(a) in computing its income for the year.
+
+[9] The only part of that section that seems relevant is (i).
+
+[10] Property used by it in the year in, or held by it in the year in the course of, is defined in paragraph 138(12)(l) as follows:
+
+(l) “property used by it in the year in, or held by it in the year in the course of” carrying on an insurance business in Canada means, in the case of an insurer (other than a resident of Canada that does not carry on a life insurance business) that carried on an insurance business in Canada and in a country other than Canada, property determined in accordance with prescribed rules.
+
+[11] The prescribed rules are found in section 2400 of the Regulations. The opening words of subsection 2400(1) and paragraphs (e) and (f) read:
+
+2400(1) For the purposes of paragraph 138(12)(l) ... of the Act, "property used by it in the year in, or held by it in the year in the course of" carrying on an insurance business in Canada (in this Part referred to as the "particular insurance business") means the property (in this Part referred to as "insurance property") of an insurer that is designated or required to be designated by the insurer in respect of a taxation year, and for that purpose the following rules apply:
+
+...
+
+(e) such non-segregated property or portion thereof (other than investment property) owned by the insurer at any time in the year and used by it in the year in, or held by it in the year in the course of (determined without reference to this subsection), carrying on an insurance business in Canada shall be deemed to have been designated by the insurer for the year; and
+
+(f) where the insurer has failed to designate property required to be designated for the year under any of paragraphs (a) to (d), such property owned by the insurer at any time in the year may, notwithstanding subsection (5), be designated by the Minister on behalf of the insurer for the purposes of those paragraphs, and the property designated by the Minister shall be deemed to have been designated by the insurer for the year, except that the aggregate value for the year of the designated property shall not exceed that required to be designated by the insurer under those paragraphs.
+
+[12] The fact that is central to the appeals is that in or prior to the years in question, the appellant overpaid its taxes, that is to say it paid more as instalments of tax than would have been necessary to meet the requirements of section 157. The purpose of this evidently was to ensure that it was not charged interest on underpayments of tax, such interest being non-deductible. After it filed its return of income for the particular year it would receive, in the following year, a notice of assessment and at that point an overpayment of tax would arise and be paid in due course to the appellant. Interest on the overpayment at the prescribed rates would be calculated and paid to the appellant. It is the interest so received by the appellant on the overpayments of tax that is in issue here.
+
+[13] As noted above, the appellant took the capitalized value of the interest and added it to the value of property used by it in the year, or held by it in the year in the course of carrying on an insurance business in Canada ("designated property"). It also included that interest in computing its income under Part I of the Act.
+
+[14] The Minister on assessing excluded the capitalized interest from the appellant's designated property and substituted other property. The appellant accepts the Minister's right to do this. What it takes exception to, however, is the failure of the Minister to remove the interest on overpayments of tax from the appellant's income under Part I.
+
+[15] A certain amount of time and attention was devoted in argument and in the pleadings to the question of the inclusion in or exclusion from the appellant's designated property of the capitalized interest on the overpayments of tax. This question is, in my view, not germane to the issue to be decided here. The real question is: should the interest on overpayments of tax form part of the appellant's income under Part I or should it be treated as income from property and subject to tax, if at all, under Part XIII?
+
+[16] In considering this question, it is useful to summarize briefly the scheme of the Act as it applies to non-residents. Under Part I, non-residents who are employed in Canada, dispose of taxable Canadian property or carry on business in Canada are taxable on their taxable income determined in accordance with Division D. Section 115 in that Division requires that there be included in a non-resident's taxable income earned in Canada income from businesses carried on in Canada.
+
+[17] Part XIII of the Act taxes non-residents on what may, perhaps inaccurately, be described as "passive" income from Canadian sources, such as management fees, dividends, interest, estate or trust income and rents and royalties, to mention only a few. Many of the heads of taxation under Part XIII are subject to important and complex conditions and exceptions.
+
+[18] Paragraph 214(13)(c) reads:
+
+(13) The Governor in Council may make general or special regulations, for the purposes of this Part, prescribing
+
+...
+
+(c) where a non-resident person carried on business in Canada, what amounts are taxable under this Part or what portion of the tax under this Part is payable by that person.
+
+[19] Section 802 of the Regulations reads:
+
+For the purposes of paragraph 214(13)(c) of the Act, the amounts taxable under Part XIII of the Act in a relevant taxation year of a taxpayer are amounts paid or credited to the taxpayer in the relevant taxation year other than amounts included pursuant to Part I of the Act in computing the taxpayer's income from a business carried on by it in Canada.
+
+[20] I have not referred to sections 801, 803, 804 or 805 of the Regulations. They deal in part with non-resident insurers registered to carry on business in Canada under the Canadian and British Insurance Companies Act or the Foreign Insurance Companies Act (now replaced by the Insurance Companies Act). Neither counsel referred to these provisions and I think that for me to attempt to fit them into this case would serve no useful purpose.
+
+[21] It is implicit in section 802 of the Regulations that interest or rents, which are traditionally income from property, can also constitute income from a business and where they do they are removed from Part XIII and taxed under Part I (cf. Goldstein v. The Queen, 96 DTC 1029 at page 1032).
+
+[22] The appellant's case is based upon the following premises:
+
+(a) Interest on income tax credit balances is not income from a business since it relates to the requirement that the appellant pay taxes. The appellant did not contend, however, that if the interest is not income from a business it necessarily followed that it was income from property.
+
+(b) Since the interest is not income from a business it falls under Part XIII by reason of section 802 of the Regulations.
+
+(c) Such interest is not caught by subsection 138(9) because, although it is gross investment revenue within paragraph 138(12)(e), it is not "from property used by it in the year in, or held by it in the year in the course of" carrying on those insurance businesses in Canada.
+
+(d) Since it is not caught by subsection 138(9) it falls within Part XIII but it is excluded from paragraph 212(1)(b) by subclause 212(1)(b)(ii)(C)(I) which makes an exception for "bonds, debentures, notes, mortgages, hypothecs or similar obligations of or guaranteed by the Government of Canada."
+
+(e) Section 138 of the Act provides a complete code for the computation of the business income of a non-resident insurer, and it is not permissible to look to other more general provisions, such as paragraph 12(1)(c).
+
+[23] The respondent's position is:
+
+(a) The interest on the refund of tax to which the appellant became entitled after its tax for the year was assessed was not "investment property", i.e. property acquired by the appellant for the purpose of earning gross investment revenue. This view was confirmed by Rip J. of this court in an appeal by this appellant for earlier years (91 DTC 1137). While I do not question this conclusion, which is accepted as well by the appellant, it is not really germane to what has to be decided here.
+
+(b) Both the appellant and the respondent agree that section 138 is a specific provision that takes precedence over a more general provision. The appellant says that it excludes the operation of section 9 and paragraph 12(1)(c). The respondent says that it excludes section 115. Such a conclusion is one of law and, although counsel agree on the principle but not its application, such an agreement is not binding on the court. L.I.U.N.A. Local 527 Members' Training Trust Fund v. The Queen, 92 DTC 2365 at pages 2368-9.
+
+(c) The interest received by the appellant is included in gross investment revenue as an amount received or receivable as, on account of or in lieu of or in satisfaction of interest. This proposition is unassailable.
+
+(d) The respondent's next point is somewhat subtle: although the interest forms part of "gross investment revenue" the appellant's tax credit balances, and its right to receive the interest, are not property acquired by the appellant for the purpose of earning gross investment revenue and are therefore not "investment property" within the meaning of subsection 2405(3) of the Regulations. The Crown's point is specifically accepted by Rip J. in the earlier decision (91 DTC 1137) and not questioned by Richard J. (as he then was) when the matter was appealed by way of trial de novo to the Federal Court—Trial Division (96 DTC 6185).
+
+(e) Notwithstanding its position in (d) above, the Crown contends that the right to receive interest on the overpayments of tax is "property" as defined in subsection 248(1) as "a right of any kind whatever." I think this proposition is reasonably solid. It is equally true that the right to be refunded the overpayments of tax itself is property in the sense that upon the assessment of tax for the year crystallizing the right to be paid the amount of the overpayment a right comes into existence. I doubt that prior to the assessment it can be said that a right exists.
+
+[24] Are the overpayments, which, once an assessment is made, become rights, and therefore properties, "property used by [the appellant] in the year in, or held by it in the year in the course of" carrying on an insurance business in Canada?
+
+[25] To fall within the definition in subsection 2400(1) of the Regulations that property must be designated by the insurer or required to be designated by the insurer. The overpayments were not designated or required to be designated. They are however deemed to be designated under paragraph 2400(1)(e) if they are "non-segregated property or portion thereof (other than investment property)". As discussed in (d) above they are not investment property. The only other condition is that they be "owned by the insurer at any time in the year and used by it in the year in, or held by it in the year in the course of (determined without reference to this subsection), carrying on an insurance business in Canada..."
+
+[26] I do not think it can fairly be said that the right to receive a refund of an overpayment of tax that arises upon assessment is "used by the insurer." It would be straining language to say that a right to be paid an overpayment of tax by the Government of Canada is "used."
+
+[27] However, the words "held by it in the year in the course of (determined without reference to this subsection) carrying on an insurance business in Canada" must be considered. If it is accepted that a right to a refund of tax is property owned by the taxpayer, is it property that is "held" ("détenu") by the insurer? If someone owns property or has an interest in it or has a right to it, that person holds that property or the interest in that property or that right within the normal and ordinary meaning of the word hold. "Hold" is not a term of art.
+
+[28] I turn then to the question whether a right to a refund of tax from the Government of Canada is held:
+
+in the course of ... carrying on an insurance business in Canada (dans le cadre de l’exploitation d’une entreprise d’assurance au Canada).
+
+[29] It is necessary to consider how this right arose. The instalments of tax were made to ensure that when tax for the year was assessed there would be no deficiency upon which interest would be assessed by the Minister of National Revenue. Such interest would not be deductible in computing the appellant’s income for the purposes of the Canadian Income Tax Act.
+
+[30] Nonetheless, the payments were made to fulfil an obligation that arose directly out of the fact that the appellant, a non-resident of Canada, was carrying on business in Canada.
+
+[31] Counsel for the appellant referred to a number of cases that stand broadly for the proposition that a reduction of tax is not a business activity (Moloney v. The Queen, 92 DTC 6570) and that a notional profit that arises not from a commercial activity but from the taxing statute itself is not a trading profit. See First Pioneer Petroleums Ltd. v. M.N.R., 74 DTC 6109; Roenisch v. The Minister of National Revenue, [1931] Ex. C.R. 1 at page 4. The matter was analysed and discussed at some length by Cattanach J. in Quemont Mining Corp. Ltd. et al. v. M.N.R., 66 DTC 5376 at pages 5392 to 5396. See also Continental Bank of Canada et al. v. The Queen, 94 DTC 1858 at page 1873, footnote 3.
+
+[32] The propositions for which those cases were cited are probably unassailable as far as they go. Payments made to reduce taxes are not laid out "for the purpose of gaining or producing income." (But see Premium Iron Ores Ltd. v. M.N.R., 66 DTC 5280 (S.C.C.)). Nonetheless they may have a very valid business purpose (Mark Resources Inc. v. The Queen, 93 DTC 1004 at page 1016).
+
+[33] The payment of tax instalments which gave rise to the refund of overpayments as well as interest thereon was a direct result of the appellant's intention to avoid paying non-deductible interest on deficient instalments and a consequent erosion of its income.
+
+[34] In Ensite Ltd. v. R., [1986] 2 S.C.R. 509, the taxpayer was denied a dividend refund in respect of interest received from foreign deposits on the basis that it was not "foreign investment income" because it was "income from property used or held by the corporation in the year in the course of carrying on a business." The funds in question were held in the Philippines to comply with Philippine law, where Ensite Ltd. wished to invest in a manufacturing plant. In holding that the property was used or held in the course of carrying on a business, Wilson J., speaking for the Supreme Court of Canada, approved the interpretation of these words by LeDain J. as "employed or risked" in the business. At pages 519 to 521 she said:
+
+Counsel for the appellant argued that in this case the dollar deposits could be said to be "risked" in the sense that if the business failed they could be seized. He submitted that this demonstrated that the test is too wide. If "risked" was the right test, then all property would meet the test since ultimately all property is available to the creditors of a corporation. But "risked" means more than a remote risk. A business purpose for the use of the property is not enough. The threshold of the test is met when the withdrawal of the property would "have a decidedly destabilizing effect on the corporate operations themselves": March Shipping Ltd. v. Minister of National Revenue, supra, at p. 374. This would distinguish the investment of profits from trade in order to achieve some collateral purpose such as the replacement of a capital asset in the long term (see, for example, Bank Line Ltd. v. Commissioner of Inland Revenue (1974), 49 T.C. 307 (Scot. Ct. of Session)) from an investment made in order to fulfil a mandatory condition precedent to trade (see, for example, Liverpool and London and Globe Insurance Co. v. Bennett, [1913] A.C. 610 (H.L.), and Owen v. Sassoon (1951), 32 T.C. 101 (Eng. H.C.J.) Only in the latter case would the withdrawal of the property from that use significantly affect the operation of the business. The same can be said for a condition that is not mandatory but is nevertheless vitally associated with that trade such as the need to meet certain recurring claims from that trade: see, for example, The Queen v. Marsh & McLennan, Ltd., supra, and The Queen v. Brown Bovery Howden Inc., 83 D.T.C. 5319 (F.C.A.).
+
+It is true that in this case the taxpayer could have done business and fulfilled the Philippine requirement that foreign currency be brought into the country by a means not involving the use of property. It could have borrowed the U.S. currency abroad and brought it into the Philippines. But this consideration is irrelevant to our inquiry. The test is not whether the taxpayer was forced to use a particular property to do business; the test is whether the property was used to fulfil a requirement which had to be met in order to do business. Such property is then truly employed and risked in the business. Here the property was used to fulfil a mandatory condition precedent to trade; it is not collateral, but is employed and risked in the business of the taxpayer in the most intimate way. It is property used or held in the business.
+
+[35] I do not think that the amounts of overpayment of tax to which the appellant became entitled on assessment can be said to be employed or risked in the appellant's insurance business in Canada in the sense used by Wilson J.
+
+[36] I conclude therefore that the interest on overpayments of tax is not caught by subsection 138(9). From this conclusion the appellant contends that the interest income must fall within Part XIII and since it is income from property it is under that part of the Act that it is to be taxed, if at all, and it is excluded from tax under Part XIII because of clause 212(1)(b)(ii)(C). The reasoning whereby the appellant gets from not falling into subsection 138(9) to falling into Part XIII and then falling back out under clause 212(1)(b)(ii)(C) needs to be scrutinized carefully.
+
+[37] To begin at the last link in the appellant's chain of reasoning, I do not think that even assuming that the refund interest was in Part XIII and was not removed from it by section 802 of the Regulations, the appellant can take any comfort from clause 212(1)(b)(ii)(C). That exception is for interest on
+
+(C) bonds, debentures, notes, mortgages, hypothecs or similar obligations
+
+(I) of or guaranteed by the Government of Canada.
+
+"Similar obligation" is ejusdem generis with the types of negotiable and transferable securities and commercial instruments issued by the government. The obligation imposed on the government under the Act to pay a refund of an overpayment of tax is not within that genus. This is the conclusion reached by Richard J. (as he then was) in an appeal by this appellant from assessments for earlier years. The decisions of the Newfoundland Supreme Court [Court of Appeal] in Re Prov. Refining Co. and Nfld Refining Co., 6 B.L.R. 270; of Anderson J. of the Supreme Court of Ontario in Re Hillstead Ltd., 26 O.R.(2d) 289, which gave to the word "debenture" a fairly broad meaning, do not go far enough to assist the appellant. However broadly one may wish to construe "debenture", I know of no authority, definition or linguistic usage that would justify calling a statutory obligation to refund tax a debenture.
+
+[38] I revert, then, to the question whether the appellant, having escaped subsection 138(9), automatically falls into Part XIII or remains in Part I for some other reason. We may start from the obvious premise that quite apart from section 138 the appellant is carrying on an insurance business in Canada through a permanent establishment. It may also be accepted that generally speaking interest income earned by an insurance company is sufficiently closely connected with its business that it forms part of its business income (Liverpool and London and Globe Insurance Company v. Bennett [1913] A.C. 610; Great Eastern Life Assurance Co. Ltd. v. Director General of Inland Revenue [1986] S.T.C. 447.
+
+[39] I do not accept that subsection 138(9) is a complete code relating to the computation of non-resident insurer's income. It is an explicit provision requiring the inclusion in such insurer's income of certain specific defined items of revenue. I am aware of no rule of statutory construction that would require subsection 138(9) to displace the general provisions of subsection 138(1), and in particular paragraph (1)(d). Subsection 138(1) reads:
+
+It is hereby declared that a corporation, whether or not it is a mutual corporation, that has, in a taxation year, been a party to insurance contracts or other arrangements or relationships of a particular class whereby it can reasonably be regarded as undertaking
+
+(a) to insure other persons against loss, damage or expense of any kind, or
+
+(b) to pay insurance moneys to other persons
+
+(i) on the death of any person,
+
+(ii) on the happening of an event or contingency dependent on human life,
+
+(iii) for a term dependent on human life, or
+
+(iv) at a fixed or determinable future time,
+
+whether or not such persons are members or shareholders of the corporation, shall, regardless of the form or legal effect of those contracts, arrangements or relationships, be deemed, for the purposes of this Act, to have been carrying on an insurance business of that class in the year for profit, and in any such case, for the purpose of computing the income of the corporation the following rules apply:
+
+(c) every amount received by the corporation under, in consideration of, in respect of or on account of such a contract, arrangement or relationship shall be deemed to have been received by it in the course of that business;
+
+(d) the income shall, except as otherwise provided in this section, be computed in accordance with the rules applicable in computing income for the purposes of this Part;
+
+(e) all income from property vested in the corporation shall be deemed to be income of the corporation; and
+
+(f) all taxable capital gains and allowable capital losses form dispositions of property vested in the corporation shall be deemed to be taxable capital gains or allowable capital losses, as the case may be, of the corporation.
+
+[40] The theory that a non-life, non-resident insurer carrying on business in Canada is taxable in Canada only on the amounts specified in subsection 138(9) ignores the other provisions of section 138 and indeed section 115. Counsel for the respondent argues that section 138, which is specific, prevails over the more general section 115. The proposition is probably correct if there were a conflict but since there is no conflict the "implied exception" principle (generalia specialibus non derogant) referred to in Driedger on the Construction of Statutes, Third Edition, page 186, need not be invoked.
+
+[41] This leads then to the broader question: is the interest on overpayments of tax income from a business carried on in Canada? It is certainly income. Paragraph 12(1)(c) requires that there be included in a taxpayer's income from business or property
+
+(c) any amount received by the taxpayer in the year or receivable by him in the year (depending upon the method regularly followed by the taxpayer in computing his profit) as, on account or in lieu of payment of, or in satisfaction of, interest to the extent that such interest was not included in computing his income for a preceding taxation year.
+
+[42] That paragraph does not specify whether such interest is income from property or business. As noted above the two are not mutually exclusive. The immediate source of interest income is usually property, but it may at the same time be received in the course of a business.
+
+[43] In the earlier decision relating to this appellant, 96 DTC 6185, the Federal Court—Trial Division held at page 6189 that since paragraph 12(1)(c) required the inclusion in income of interest
+
+... the income from interest is taxable under Part I, and therefore excluded from calculation under Part XIII.
+
+[44] The court went on to say that even if the [interest] income were taxable under Part XIII, it would not be excluded by clause 212(1)(b)(ii)(C),
+
+[t]herefore, the income in question falls within the scope of Part I of the Act, and is therefore removed from consideration for purposes of Part XIII. The interest generated from the tax credit balances is income in satisfaction of interest within the meaning of paragraph 12(1)(c) of the Act.
+
+[45] It is desirable that in the interests of comity and consistency I reach the same conclusion. I think it is also possible to do so on the basis of slightly different reasoning.
+
+[46] Neither paragraph 212(1)(b) in Part XIII nor paragraph 12(1)(c) in Part I state that interest is income from a business as opposed to property, or vice versa. This is left to be determined on general principles. If it is earned by a non-resident and is income from property but not from a business it is taxable under paragraph 212(1)(b) (unless excluded by a specific exception under that paragraph) simply because it is not excluded by section 802 of the Regulations. If it is income from a business carried on in Canada by a non-resident (even though it may also be from property) it is excluded from Part XIII by section 802 of the Regulations and is taxable under Part I because of paragraph 2(3)(b) and subparagraph 115(1)(a)(ii). If it happens to be income from a business of a non-resident that is not carried on in Canada it would be taxable under Part XIII and not Part I. This was precisely the situation dealt with in Pullman v. The Queen, 83 DTC 5080.
+
+[47] The conclusion that the interest falls under paragraph 12(1)(c) is not, in itself, a complete answer because that paragraph does not assist in determining whether the income is from a business or property. For business income of a non-resident to be taxable under Part I it has to be from a business carried on in Canada (and, in the case of a resident of a treaty country, generally, attributable to a permanent establishment).
+
+[48] I think that quite apart from paragraph 12(1)(c) and subsection 138(9) the interest income earned on overpayments of tax to the Government of Canada is income from a business carried on in Canada. Its genesis is the income earned from the appellant's business in Canada upon which the appellant has an obligation to pay tax and in respect of which it must make instalment payments. It is not from casual investments made independently of its business. The reason for instalment payments is that the appellant has a business here which requires it to make such payments even though for business reasons the appellant decided to make larger instalment payments than were necessary.
+
+[49] The appeals are dismissed with costs.
+
+Signed at Ottawa, Canada, this 31st day of March 2000.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

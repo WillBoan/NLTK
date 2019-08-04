@@ -1,0 +1,258 @@
+Date: 20020301
+
+Docket: 2001-567-IT-I
+
+BETWEEN:
+
+ESTATE OF PETER A. BAAK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+McArthur, J.
+
+[1] The issue in this appeal is whether the proceeds of registered retirement savings plans were properly included in the terminal return of the Appellant in the 1998 taxation year on the basis that RRSPs were deemed to have been received by the deceased immediately prior to his death pursuant to subsection 146(8.8) of the Income Tax Act and are not be a right or thing within the meaning of subsection 70(2) of the Act. Mr. Audries K. Baak, a retired chartered accountant and the father of the deceased, represented the Appellant as estate executor.
+
+[2] The parties agreed to the following Statement of Facts:
+
+1. Peter A. Baak (the "Deceased") was single and had no dependents.
+
+2. The Deceased passed away on September 25, 1998.
+
+3. The administration of the Deceased's estate was granted by the Supreme Court of British Columbia to Audries K. Baak, the executor of the Deceased's estate, (the "Executor") on November 26, 1998.
+
+4. The Registered Retirement Savings Plan of which the Deceased was the annuitant (the "RRSP's") were unmatured plans.
+
+5. T4RSP forms in the amounts of $1,003.49 and $46,416.86 were issued to the Appellant by CIBC for the 1998 taxation year.
+
+6. The fair market value of the RRSPs at the time of death of the Deceased was $47,420.35.
+
+7. In computing income for the 1998 taxation year the Executor included $47,420.35 as RRSP income (the "RRSP Income") in a return of income return filed pursuant to section 70(2) of the Income Tax Act (the "70(2) Rights and Things Return").
+
+8. The Executor also filed a section 70(1) return of income (the "70(1) Terminal Return") for the 1998 taxation year in respect of the Deceased.
+
+9. The Minister of National Revenue (the "Minister") assessed both the Deceased's section 70(1) final return for the year of death (the "Terminal Return") as well as the Deceased's section 70(2) return (the "Rights and Things Return") in which the Minister;
+
+a) Deleted the RRSP Income from the Rights and Things Return;
+
+b) Included the RRSP Income in the Terminal Return;
+
+c) With respect to the Terminal Return, allowed a deduction of $1,362.90 from income for the repayment of employment insurance benefits (the "Benefits");
+
+d) With respect to the Terminal Return, requested a repayment of the Benefits.
+
+[3] The position of the Appellant is summarized in the Notice of Appeal, which reads:
+
+1. The $47,420.35 of RRSP amounts which were owned by my son at date of his death, should be included as income under Section 70(2) of the Income Tax Act as "Rights or Things". RRSPs fall within the definition of "Rights or Things" and their inclusion in income under Section 70(2) is clearly consistent with the intent for which this section was created as opposed to the inclusion under section 70(1).
+
+2. Section 146(8) was relied by the Minister of National Revenue to include the RRSP amount in the income under Section 70(1). I disagree with this for the following reasons:
+
+a. It should not be read in conjunction with or applied to Section 70(2).
+
+b. It does not reflect the will of Parliament as expressed in Section 70(2).
+
+c. It subverts the intent of Section 70(2).
+
+d. Exceptions to Section 70(2) would have normally been dealt with within the section, consistent with the treatment of exceptions in other Sections of the Act.
+
+e. It is the only section in the Income Tax Act to contain the phrase "immediately before his death". It is recognized that the end of life is not clearly established and to attribute the characteristic "immediately" to an ambiguous state i.e. death, creates a concept that is meaningless and is a nullity. There is only life before death. Hence, the use of "at the time of his death" in Section 70(2) should prevail.
+
+f. When alive my son had no intention to collapse his RRSP and clearly not in this case.
+
+g. All technical notes, Interpretation Bulletins and MNR literature/tax guidelines, etc. acknowledge this by an absence to any reference to the phrase "immediately before his death" and generally refer to "at the time of death".
+
+3. Under the Canadian Charter of Rights and Freedoms, Section 15, every individual is equal before and under the law. Section 146(9) when read with Section 146(8) violates this principle and should be considered as an unenumerated ground for discrimination.
+
+Section 146(9), Interpretation Bulletins and MNR literature/tax guidelines, etc. explain that for the spouse of a deceased the rules are different than for a single person. My son was single and had no dependents. The effect of Section 146(9) in this regard is to exclude RRSP amounts from income under Section 70(1).
+
+4. The clawback of employment insurance benefits is also the result of discrimination. The tax return for a deceased who had a spouse at the time of his death will not reflect a clawback since the RRSP amounts are excluded.
+
+Mr. Baak expanded on this outline in a 15-page written "Outline and Highlights of Arguments", as well as orally during the hearing.
+
+[4] The issues to be decided in this appeal include: (i) if a taxpayer dies with RRSPs, can they be claimed as rights and things pursuant to a subsection 70(2) tax return; (ii) whether subsections 70(2) or 146(8.8) of the Act (essentially the RRSP legislation) violate section 15 of the Charter of Rights and Freedoms and if they do, can they be justified under section 1; (iii) whether the Minister was correct in determining that the Appellant was required to repay an amount of benefits pursuant to subsection 145(1) of the Employment Insurance Act; and (iv) whether subsection 145(1) of the EI Act also violates section 15 of the Charter.
+
+Legislation
+
+[5] Subsection 70(1) sets out how a deceased taxpayer's income is to be calculated for the year of death and commonly referred to as the terminal return. Subsection 70(2) reads:
+
+70(2) Where a taxpayer who has died had at the time of death rights or things (other than any capital property or any amount included in computing the taxpayer's income by virtue of subsection (1)), the amount of which when realized or disposed of would have been included in computing the taxpayer's income, the value thereof at the time of death shall be included in computing the taxpayer's income for the taxation year in which the taxpayer died, unless the taxpayer's legal representative has, not later than the day that is one year after the date of death of the taxpayer or the day that is 90 days after the mailing of any notice of assessment in respect of the tax of the taxpayer for the year of death, whichever is the later day, elected otherwise, in which case the legal representative shall file a separate return of income for the year under this Part and pay the tax for the year under this Part as if
+
+(a) the taxpayer were another person;
+
+(b) that other person's only income for the year were the value of the rights or things; and
+
+(c) subject to sections 114.2 and 118.93, that other person were entitled to the deductions to which the taxpayer was entitled under sections 110, 118 to 118.7 and 118.9 for the year in computing the taxpayer's taxable income or tax payable under this Part, as the case may be, for the year.
+
+Other relevant provisions of the Act are as follows:
+
+146(8) There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+
+146(8.8)Where the annuitant under a registered retirement savings plan (other than a plan that had matured before June 30, 1978) dies after June 29, 1978, the annuitant shall be deemed to have received, immediately before the annuitant's death, an amount as a benefit out of or under a registered retirement savings plan equal to the amount, if any, by which
+
+(a) the fair market value of all the property of the plan at the time of death
+
+exceeds
+
+(b) where the annuitant died after the maturity of the plan, the fair market value at the time of the death of the portion of the property described in paragraph (a) that, as a consequence of the death, becomes receivable by a person who was the annuitant's spouse or common-law partner immediately before the death, or would become so receivable should that person survive throughout all guaranteed terms contained in the plan.
+
+[Emphasis added]
+
+[6] The Appellant in his submissions devoted considerable time to defining certain words and phrases, including whether an RRSP was "rights or things", "deem or deemed", "immediately", "death" and "context". The subsection 15(1) Charter submissions appear to be the Appellant's primary argument.
+
+Analysis
+
+[7] I will first deal with whether, upon a taxpayer's death, RRSPs can be claimed as "rights or things" within the meaning of subsection 70(2). Subsection 70(1) sets out how a taxpayer's income shall be calculated for the year of death. Subsection 70(2) permits the taxpayer's legal representative to claim on a separate income return, the value of rights or things that the taxpayer had at the time of his death. Subsection 146(8) applies to this case. It requires the Appellant to include in income for the year, the total amount of benefits received out of his RRSPs during the year. Subsection 146(8.8) deems any amount of the RRSPs held by the taxpayer at the time of his death to have been received immediately before his death.
+
+[8] I agree with the Minister of National Revenue's position that RRSPs are not "rights or things" within the meaning of subsection 70(2).
+
+[9] Counsel for the Respondent referred me to L. Lamash Estate v. M.N.R., [1990] 2 C.T.C. 2534. The facts in Lamash are similar to the present ones. The Minister denied the executor of the Lamash Estate's claim that RRSPs were "rights or things" and not to be included as income. The Tax Court upheld the Minister's decision. I agree with the decision and reasons for it set out by Christie J. I will not review his reasons in detail, but refer to his comments on page 2539:
+
+I regard subsections 70(2) and 146(8.8) as being in the same context for the purposes of statutory interpretation and I agree that the late Lillian Lamash is deemed to have received, immediately before her death, the $19,096.67 in dispute and consequently she could not have had rights, within the meaning attributable to that word in subsection 70(2), in relation to those funds at the time of her death. The subsection speaks of rights the amount whereof when realized or disposed of would have been included in computing the deceased's income. In Cullity, Forbes, Brown, Taxation and Estate Planning, 2d ed. Carswell, Toronto, this is said at pages 68-69:
+
+Registered Retirement Savings Plans, Etc.
+
+17. A taxpayer is not considered to have a right or thing in respect of a registered retirement savings plan, whether matured or not, of which he was, until his death, the annuitant. However, except in the case of a plan that had matured before June 30, 1978, where the annuitant dies after June 29, 1978, the fair market value of all the property of the plan at the time of death (less amounts receivable by the spouse of the deceased or received as a refund of premiums by a child, grandchild or other beneficiary of the deceased, as described in subsections 146(8.8) to (8.91)) must be included in the income of the deceased on his final return by virtue of subsection 146(8.8). Similarly, a taxpayer is not considered to have a right or thing in respect of a registered retirement income fund or a registered home ownership savings plan.
+
+[10] I find the wording of subsections 70(2), 146(8) and 146(8.8) clear and unambiguous. Their plain and ordinary meaning is determinative with respect to their interpretation.[1] I do not find the phrase "immediately before death" ambiguous and do not accept the Appellant's argument. I accept the Respondent's reasons for concluding that Parliament intended that RRSP proceeds are income in the year of death unless they qualify under certain exceptions that do not apply to the present circumstances.
+
+[11] The second question is whether subsections 70(2) or 146(8.8) violate section 15 of the Charter. Subsection 15(1) of the Charter reads as follows:
+
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+
+[12] The Appellant argues that his deceased son is being discriminated against because he was a taxpayer who did not have a surviving spouse or dependent child or grandchild that would qualify for the transfer of his RRSP upon his death. He states that this group is treated differently by the Income Tax Act than those who do have a surviving spouse or qualifying dependent child at the time of death.
+
+[13] The Appellant has the burden of establishing that the legislative provisions are discriminatory.[2]
+
+[14] Counsel for the Respondent referred to the Supreme Court of Canada decision of Law v. Canada (Minister of Employment and Immigration).[3] The Supreme Court states that to determine whether there is a subsection 15(1) violation, the Court must go through a three-step analysis.
+
+[15] I will attempt to apply these steps to the present circumstances. First, is a differential treatment imposed? Clearly, the answer is yes since the Income Tax Act does impose differential treatment on deceased taxpayer's estates who have no surviving spouse or dependent children. Second, is this differential treatment based on an enumerated or analogous ground of distinction? The answer is yes. And third, whether this distinction is discriminatory,. I have no problem in finding that the distinction and the differential treatment is not discriminatory within the meaning of section 15. I agree with counsel for the Respondent who stated:
+
+... it could not be said that persons who do not have surviving spouse or financially dependent children or grandchildren have been socially, politically or historically disadvantaged in Canada, nor would this group be a discreet -- be described as a discreet or insular minority. Nor are they an independently disadvantaged group. This group is not subject to a pre-existing disadvantage, vulnerability or prejudice, and it's my submission that the treatment by the RRSP scheme on this group does not have the effect of demeaning their dignity. All of those factors are set out in Law -- the Law decision, to be taken in consideration in determining whether a particular distinction made by the provision is in fact discriminatory within the meaning of section 15 as it's intended.
+
+... the Supreme Court in Law sets out the purpose of section 15, and specifically I refer to page 39 at the top of the page where it says:
+
+The purpose of section 15(1) is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping or political or social prejudice.
+
+[Transcript, page 20]
+
+[16] The Income Tax Act is filled with distinctions that have been found not to be discriminatory with section 15.[4] Justice Galligan in the decision of Ontario Public Service Employee's Union et al v. The National Citizens Coalition Inc. et al[5] stated:
+
+... I have some difficulty in understanding how tax laws can be said to bestow benefits on taxpayers, but having said that, it's clear that some taxpayers are entitled to certain deductions from their income while others are not. The Income Tax Act is full of examples where one taxpayer for certain reasons has certain deductions which another taxpayer does not have. Also, certain taxpayers are called upon to pay more taxes than others. Some taxpayers are called upon to pay taxes at a higher rate than others.
+
+The Charter, as it has been said in many, many cases too numerous to mention, it's an important piece of legislation which constitutionally protects important rights and freedoms of people who live in this country. ...
+
+I agree with these statements. It is the jurisdiction of the Legislature to determine entitlement to income tax deductions.
+
+[17] I will not comment in detail on the cases cited by the Appellant. I find that they did not deal with relevant discrimination under the Income Tax Act.
+
+[18] The third issue is whether the Appellant is required to repay benefits pursuant to subsections 145(1) of the Employment Insurance Act. This question arises because I have found that the $47,000 of RRSP income is to be included in the Appellant's income for 1998, making his net income approximately $48,000, thus disqualifying him from employment insurance benefits. The Appellant does not dispute that if the RRSPs are included in the 1998 income, then the Appellant's income exceeds the base amount.
+
+[19] The Appellant states that the word "income" in section 145 should not include "deemed income". Section 144 of the Employment Insurance Act refers to the Income Tax Act to define income and the Income Tax Act requires the Appellant to include RRSPs as income in the year of death, pursuant to subsections 146(8) and 146(8.8). I find the value of the RRSPs held by the deceased at the time of death are properly included in the calculation of the Appellant's income for the purposes of section 145 of the Employment Insurance Act.
+
+[20] The fourth and final issue is whether subsection 145(1) violates section 15 of the Charter. Counsel for the Respondent referred me to the decision in Spence v. Canada.[6] In Spence, the Minister assessed the Appellant and required him to repay Family Allowance Benefits on the basis that he had earned income greater than the base amount specified in the relevant provision. The Appellant argued that he was discriminated against mainly because he was unfairly required to repay the benefits only because his wife lived at home, whereas if both the Appellant and his wife had been out in the work force earning income, if they had earned income which were both less than the base amount, they would not be required to repay the benefits, notwithstanding that both of their incomes' total combined would actually exceed the base amount. He felt that section 15 was violated by this particular provision. The court found that, because that particular provision merely made a distinction based on the level of income of a particular taxpayer, that in fact that was not discriminatory within the meaning of section 15. At paragraph 17 of the Spence decision, Archambault J. stated:
+
+The distinction being based on the level of income and not on family status, it remains to be determined whether the level of income of an individual constitutes a personal characteristic. Judge Tremblay in Thomson also dealt with this issue and he concluded on page 12 of his judgment:
+
+In view of these judgments, and many others, George v. Attorney General of Canada, Tanguay v. Minister ... Attorney General for Canada v. Pattinson, my opinion is that the distinction made in Part I.2 of the Income Tax Act is not a distinction based on a personal characteristic. It's a distinction based on economic grounds that does not come within section 15 of the Charter.
+
+I see no reasons in this particular case to adopt a different conclusion. ...
+
+The fact situation in Spence is similar to the present case. I agree with Judge Archambault's reasoning and decision and apply it as my own to this appeal.
+
+[21] For the above reasons, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 1st day of March, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-567(IT)I
+
+STYLE OF CAUSE: Estate of Peter A. Baak and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: January 25, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.H. McArthur
+
+DATE OF JUDGMENT: March 1, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Audries K. Baak
+
+Counsel for the Respondent: Johanna Russell
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-567(IT)I
+
+BETWEEN:
+
+ESTATE OF PETER A. BAAK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on January 25, 2002 at Vancouver, British Columbia by
+
+the Honourable Judge C.H. McArthur
+
+Appearances
+
+Agent for the Appellant: Audries K. Baak
+
+Counsel for the Respondent: Johanna Russell
+
+JUDGMENT
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1998 taxation year is dismissed.
+
+Signed at Ottawa, Canada, this 1st day of March, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Several Supreme Court of Canada cases stand for this proposition, including Shell Canada Ltd. v. The Queen, 99 DTC 5669.
+
+[2] The Queen v. Thibodeau, 95 DTC 5373, at page 5374:
+
+... From the outset, decisions dealing with the equality section have made it clear that, under s. 15, the claimant bears only the burden of proving that the impugned legislation is discriminatory. On the other hand s. 1, it is the government which bears the onus of justifying that discrimination. ...
+
+[3] 170 D.L.R. (4th).
+
+[4] Schachstschneider v. Canada (C.A.), [1994 1 F.C. 40 (Q.L.).]
+
+[5] 87 DTC 5270 at 5272.
+
+[6] [1994] T.C.J. No. 259 (T.C.C.).
+

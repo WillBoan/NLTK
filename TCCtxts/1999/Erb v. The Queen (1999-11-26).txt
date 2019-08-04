@@ -1,0 +1,788 @@
+Date: 19991126
+
+Docket: 97-3216-IT-G; 97-3219-IT-G; 97-3222-IT-G; 97-3221-IT-G
+
+BETWEEN:
+
+ARTHUR EDWARD ERB, GARY ERB, DOUGLAS ERB, T & H HOLDINGS LTD.,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent,
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+Introduction
+
+[1] These appeals were heard together on common evidence.
+
+[2] The appeals of Arthur Edward Erb and T & H Holdings Ltd. are related and involve assessments for 1993. The appeals of Douglas and Gary Erb are from assessments for the 1992, 1993 and 1994 taxation years and involve similar questions of fact and law.
+
+[3] The following is a brief summary of the facts giving rise to the several questions. Arthur Edward Erb ("Arthur") is the father of Douglas Erb ("Douglas"), Gary Erb ("Gary") and Fred Erb ("Fred"). In the years in question, he was married to Hazel Erb ("Hazel"), since deceased. Bradley Erb ("Brad") is the son of Douglas.
+
+[4] All of the Erbs except Brad were shareholders in two family corporations, Erb Enterprises Ltd. ("Enterprises") and T & H Holdings Ltd. ("T & H"). Gary, Douglas and Fred each owned 100 common shares of Enterprises and of T & H. Arthur and Hazel owned 500 and 200 preferred shares respectively of Enterprises and T & H.
+
+[5] Fred, Douglas and Gary and Enterprises were partners in Erb Enterprises Partnership (the "partnership") which carried on two businesses, farming and trucking. The land used in the farming operation was owned by T & H.
+
+[6] In 1993, Brad, who carried on a separate farming operation, needed some land on which to build a house. The family believed, possibly erroneously, that the minimum parcel of land that could be severed from an existing larger parcel was 40 acres. T & H transferred 40 acres of its existing 160 acre parcel to Brad and his wife. Brad has paid nothing to T & H.
+
+[7] The Minister of National Revenue assessed T & H on the basis that under section 69 it received the fair market value of the land, which he determined to be $1,500 per acre or $60,000. Also, he assessed Arthur on $60,000 on the basis that he had directed the transfer of the land to Brad as a benefit that he wished to have conferred on him and that accordingly subsection 56(2) required the inclusion in Arthur's income of the value of the benefit, $60,000.
+
+[8] The appellants contend that:
+
+(a) The parties intended that only two acres were to be conveyed to Brad beneficially and the remaining 38 acres were to be held in trust for T & H. Therefore there was a disposition of only two acres within the meaning of the definition in section 54 of the Income Tax Act, because there was no change in the beneficial ownership.
+
+(b) In any event, the land was worth only $650 per acre.
+
+(c) Subsection 56(2) has no application and if it does, the imputed benefit should be allocated pro rata to all of the shareholders of T & H.
+
+[9] So far as the appeals of Douglas and Gary are concerned, in 1992, 1993 and 1994, these two members of the partnership received as draws amounts that exceeded their allocated share of the partnership income. This excess resulted in a deficit in their respective capital accounts.
+
+[10] The Minister assessed them under subsection 15(2) of the Act on the basis that they became indebted to the partnership of which they were partners along with a corporation (Enterprises) in which they were shareholders, and the amount of that indebtedness for the purpose of subsection 15(2) is to be determined by reference to three factors:
+
+(a) the size of the deficit in their capital account;
+
+(b) the amount of partnership income allocated to the individual partners in the year;
+
+(c) the amount withdrawn from the partnership in the year.
+
+[11] I shall set out in greater detail below the manner in which the Minister calculated the subsection 15(2) benefit.
+
+[12] The appellants' challenge to the assessment is based on two contentions:
+
+(a) They were not "indebted" to the partnership in the years in question because it is legally impossible for a partner to be indebted to a partnership of which he or she is a partner.
+
+(b) In any event, the indebtedness, if it existed at all, has been calculated incorrectly by the Minister because, to the extent that the appellants' capital account is relevant to the calculation, the amount of the capital account should be determined in accordance with generally accepted accounting principles.
+
+[13] A subsidiary issue, which is contingent on the disposition of the subsection 15(2) issue, is that the Minister added to the appellants' income a deemed amount of interest under subsection 80.4(2) of the Act. The disposition of this issue depends on whether there was an indebtedness by the appellants to the partnership.
+
+The appeals of T & H and Arthur
+
+[14] The initial question is whether T & H transferred beneficial ownership to Brad of 40 acres or whether it transferred only two acres and retained beneficial ownership of 38 acres.
+
+[15] The evidence is that Brad needed only two acres on which to build a house, but that the family believed that the chances of obtaining severance would be much better if 40 acres were transferred. This was not based on any legal advice that they received but on what they had been told by an acquaintance and employee, Mr. Jim Moroz, who told them that when he acquired property from his father for the purpose of constructing a residence the minimum size of property that could be severed was 40 acres.
+
+[16] Brad did construct a house on two acres and the remaining 38 acres continued to be used in the farming operation by the partnership. It was argued that there was an oral arrangement that Brad would have beneficial title to only two acres and would hold only legal title to the remaining 38 acres. There was nothing in writing either in the form of an agreement or in the corporate records of T & H to substantiate such an agreement and I do not think the concept of legal as opposed to beneficial ownership was ever articulated, either explicitly or implicitly, in the minds of the family members. No doubt there was a tacit understanding that the remaining 38 acres were to continue to be used by the partnership in its farming business, as indeed they were. In the records of the Canadian Wheat Board, Enterprises continued to be shown as the producer and as the person farming the land in question. I do not regard this as conclusive. T & H was the beneficial owner of the rest of the land and it does not appear in the records of the Canadian Wheat Board. Brad in fact did not operate the 38 acres; neither did T & H nor, strictly speaking, did Enterprises. Rather, the partnership was the producer and the operator.
+
+[17] When Brad applied for a mortgage he stated that he and his wife were the owners of the 40 acres. Indeed he could not have obtained a mortgage for the money needed to build his house ($100,000) had he not been the owner of the land.
+
+[18] The transfer from T & H to Brad and his wife Louise contain a statement that the fair market value of the land was $90,000.
+
+[19] The agricultural representative from the Department of Agriculture of the Province of Manitoba, Mr. Richard Hangh, in a letter of October 7, 1992 to Mr. Richard Gray stated that if only a residence was contemplated on the subdivided land the subdivision should be reduced significantly.
+
+[20] On November 5, 1992 Jane Pickering of the Department of Rural Development wrote to the Rural Municipality of Macdonald and stated:
+
+The applicant, Mr. Brad Erb, wishes to subdivide a 40 acre parcel from the present holding of 160 acres owned by T & H Holdings Ltd. under title no. 1225935. Brad Erb wants to establish a farmyard on the site with room for future expansion.
+
+If approved, variation orders would be necessary for both the proposed parcel and the residual parcel in order to vary the minimum site area requirement of 160 acres as specified for the "A" Rural District in By-Law No. 262, as amended.
+
+The Macdonald-Ritchot Planning District Board has recommended approval of this subdivision application based on Policy No. 1.1.3.8(a) of the Development Plan. Policy No. 1.1.3.9. states "minimum lot size for a farmstead subdivision shall be 2 acres; there shall be no maximum lot size but subdivision should not include cultivated farmland and should normally be confined to the existing shelterbelt or farmyard."
+
+Policies 1.1.3.2 & 3 state "the minimum land parcel size within the Agricultural Zone is 160 acres, Council may grant subdivision approval of less than 160 acres for specialized agricultural uses, if in its opinion, an operating area of less than 160 acres is warranted and another site is not available. Conditions as to use, location and other matters may be determined by Council".
+
+The Department of Agriculture has recommended that the size of the proposed parcel be reduced to only the size required for a residence and accompanying shelterbelt and accessory structures.
+
+We wish to draw to Council's attention that, while the development plan has made provision for one "farmstead" subdivision on a quarter section of land, the intent is to limit the size of the parcel as the above noted policies point out, particularly where cultivated land is concerned. Provision is also made in the development for smaller parcels to accommodate specialized agricultural operations such as apiaries, nurseries, etc. Since the applicant has not indicated that this is a specialized agricultural operation and it is a very large parcel for a farmsite, we would advise Council to carefully examine the viability of this proposal in relation to current planning documents.
+
+In addition, we would like to point out to Council that the creation of a parcel of this size in close proximity to Oak Bluff may be creating a potential conflict of land use particularly if the applicant or any subsequent owners were to raise livestock.
+
+[21] A copy was sent to Brad. He did nothing to dispel the understanding expressed in the letter that he intended to use the entire parcel.
+
+[22] The Department of Agriculture continued to object. In the application for subdivision Brad stated that he wished to establish a residence "with space for expansion on the farmsite proposed".
+
+[23] He also indicated that he was considering a cow-calf operation.
+
+[24] In none of the dealings with the municipality did Brad or anyone else in the family state that 38 acres were to be held in trust for T & H. Indeed, quite the opposite impression was conveyed.
+
+[25] I am not satisfied that the 38 acres were to be held in trust by Brad. Whatever may have been the reasons for conveying 40 acres to Brad and his wife, whether it be to facilitate the obtaining of subdivision approval or the obtaining of a mortgage, there is simply no evidence that Brad and his wife were to be trustees. I should have thought that they would at least have told the lawyers who handled the transaction of an intended trust arrangement. There was at most an unexpressed intention that the partnership would go on farming the property as before. Where there is an unequivocal transfer of title to 40 acres to a person, with no indication that a portion is to be held by the transferee in trust for the transferor and the transferee acts in a manner that is consistent with his being the beneficial owner it would require far more compelling evidence than I have seen here to establish that Brad and his wife held 38 of the 40 acres in trust for T & H. [1]
+
+[26] The determination whether a trust has been established is of course in part a question of law, but it must ultimately rest on a factual and evidentiary footing (see Collins v. The Queen, 96 DTC 1034; aff'd 98 DTC 6281). Even assuming that the absence of consideration may give rise to a slight presumption that the donee holds the land in trust for the donor this presumption, if it exists at all in today's law, must give way to all of the other evidence, including the conduct of the person whom the appellants now say is a trustee. We should be clear that we are talking about a contention not that Brad and his wife owned 40 acres and then made a declaration that 38 were held in trust for T & H. Rather, the assertion is that although 40 acres were conveyed to Brad and his wife, beneficial title to 38 of those acres was retained by the transferor and was never conveyed to the transferee. On the evidence, the assertion has simply not been established. It strikes me that where a person transfers property to someone else by a deed or conveyance that on its face is absolute and does so to achieve a purpose that is premised upon a transfer of beneficial ownership, it would require very cogent evidence to establish that the transferor had no intention of doing what the documentation unequivocally shows that it did do and that it intended to withhold from the grantee beneficial title to the property. See Pallan et al. v. M.N.R., 90 DTC 1102 at page 1107.
+
+[27] In order to create a trust, there must exist what is commonly referred to as a certainty of intention. The following appears in Eileen E. Gillese, The Law of Trusts (Toronto, 1997) at page 39:
+
+To satisfy the certainty of intention requirement, the court must find an intention that the trustee is placed under an imperative obligation to hold property on trust for the benefit of another. Certainty of intention is a question of construction; the intention is inferred from the nature and manner of the disposition considered as a whole. The language employed must convey more than a moral obligation or a mere wish as to what is to be done with certain property. The language used need not be technical, so long as the intention to create a trust can be found or inferred with certainty.
+
+[28] The requisite certainty of intention has not, on the evidence, been established.
+
+[29] I have therefore concluded that both the legal and beneficial title to the 40 acres was conveyed by T & H to Brad and his wife.
+
+[30] The second issue is whether the value of the land is to be treated as a benefit taxable in the hands of Arthur under subsection 56(2) of the Act. That subsection reads:
+
+A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person (other than by an assignment of any portion of a retirement pension pursuant to section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act or of a prescribed provincial pension plan) shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+
+[31] The assessment proceeds on the basis that Arthur, Brad's grandfather and the largest shareholder of T & H, directed or concurred in the transfer of the property to Brad as a benefit that he (Arthur) desired to have conferred on Brad. It is obvious that had the land been conveyed directly to Arthur this would have constituted a conferral of a benefit on him qua shareholder under subsection 15(1) to the extent that the fair market value exceeded any consideration paid. In fact, no consideration was ever paid by Brad although evidently Arthur said that he thought Brad ought to pay $10,000 because that was what another grandchild had paid for a lot. This did not happen and there is no evidence that Brad ever agreed to pay any amount.
+
+[32] Counsel for the appellants referred to a decision of the Federal Court of Appeal in Ascot Enterprises v. R., [1996] 1 C.T.C. 384.
+
+[33] In that case the taxpayer's company sold property to his father at a price that the taxpayer believed was fair market value. The Minister assumed that the fair market value was higher than the price paid and assessed the taxpayer on the difference under subsection 56(2).
+
+[34] The Federal Court of Appeal, in reversing the decision of this Court, held that an essential ingredient in subsection 56(2) is the taxpayer's desire to confer a benefit. Since the taxpayer believed that the property was being sold at fair market value, the requisite element of desire was absent.
+
+[35] At page 388, the Court said:
+
+It becomes evident that the "desire" to confer a benefit is a key element of the provision. On a plain reading, the section will not be applicable where there exists no intention by the taxpayer to avoid receipt of funds in his hands by arranging payments to be made without adequate consideration to third persons.
+
+The use of the word "desire" in the Income Tax Act is exceptional. Its use in subsection 56(2) introduces a requirement of purpose. It carries a step further the requirement that the taxpayer participate in a leading way ("pursuant to the direction of") or in a more passive way ("with the concurrence of") in the decision to make the payment or transfer of property. This Court, in Smith v. Minister of National Revenue, [1993] 2 C.T.C. 257, 93 D.T.C. 5351 at page 261, (D.T.C. 5355) (F.C.A.) referred to "the taxpayer's motive...". It is indeed remarkable that in the other provisions where the phrase "as a benefit that the taxpayer desired to have conferred" is found, i.e. in paragraphs 51(2)(c), 85(1)(e.2) and 86(2)(b), it is preceded by the words "it is reasonable to regard any part [or portion] of such excess as...", which indicates, in my view, that the test to be applied under these paragraphs is different from, and less subjective than, that applicable under subsection 56(2).
+
+The Court has, therefore, to direct its attention to what it is that the taxpayer wanted to achieve. The test is subjective, but as always when assessing a subjective state of mind after the fact one may resort to inferences. It is not what the taxpayer says now but what he did then that counts. As noted in Smith, at page 262 (D.T.C. 5356), a judge most certainly can conclude that, on a balance of probabilities, a taxpayer has not disproved the assumptions upon which the Minister assessed him when the taxpayer relied solely on his ignorance. It is up to the taxpayer to explain why the transactions were made and why they have been handled as they were. There will be cases — some were enumerated in Smith, at page 261 (D.T.C. 5355) — where the nature of the benefit conferred or the circumstances of a transaction will speak for themselves and be such as to render obvious the purpose of the taxpayer.
+
+[36] I cannot reach the same conclusion here as the Federal Court of Appeal did in Ascot. In that case the taxpayer evidently believed that the price paid represented fair market value and so there was no subjective desire to confer a benefit. Where nothing is paid or agreed to be paid for the property the only reasonable inference possible is that the persons who directed the transfer of the property desired to confer a benefit.
+
+[37] Thus the essential ingredient that was lacking in Ascot is present here.
+
+[38] This leads to the next question: why just Arthur? The evidence was clear that all of the shareholders were involved in the decision to transfer the property to Brad and his wife. Just because Arthur was the president and held the greatest number of shares is no reason to attribute the entire benefit to him under subsection 56(2). The whole family was in on it.
+
+[39] Essentially the same question came before the Exchequer Court in Minister of National Revenue v. Bronfman, [1966] Ex. C.R. 172. Dumoulin J. said at pages 179-80:
+
+One final question now comes to the fore, as it did in the decision of Mr. Fisher, Q.C., with whom, this time, I agree. Why were the five Brintcan directors the sole parties taxed for the $97,000 paid during the material years, exclusive of the shareholders? The learned member of the Tax Appeal Board expressed his opinion as follows (at p. 462):
+
+And why the directors of X Company Limited (the case being heard in camera) should be singled out for taxation under the provisions of that subsection—as has been done in the present instance—when they are very minor shareholders in so far as the common shares of X Company Limited are concerned, (and indeed are only minority shareholders when all the common shares of the five directors and the non-cumulative preferred shares held by three of the directors hereinbefore set forth, both types of shares having full voting rights, are added together and taken into consideration), is a question which raises the further query as to why, since all of the shareholders eventually approved and concurred in the various gifts in question over the years at the annual meetings of X Company Limited, all of the shareholders should not have been taxed on their proportionate shares of the gifts.
+
+Shareholders possessing voting rights could have, had they so wished, objected to and voted down at annual or specially convened meetings their directors' generosities. And, of course, they also might have resorted to the radical remedy of voting out of office the entire Board and elected a more thrifty slate of directors. Their abstention or indifference, unbrokenly maintained, becomes tantamount to an approval of their administrators' gift distributing policies, and they should, with the latter, have shared proportionately to their individual holdings, the burden of taxation decreed by s. 16(1). Since the shareholders were not impleaded no conclusion can affect them nor their eventual right of full defence. Whether or not due to lapse of time, the Minister of National Revenue would be estopped by s. 46(4)(b) of the Act from legal recourse against the shareholders is of no interest presently.
+
+For the reasons above, this appeal is allowed as follows: The Respondent will be assessed for a portion of the income tax attaching to the $97,000 donated, rateably with the number of shares he owned, during the material years, of the total capital stock of Brintcan Holdings (Canada) Limited. In consequence, the record will be referred to the Minister for revision accordingly.
+
+[40] I agree with the disposition made by Dumoulin J. and I believe it to be appropriate here. Arthur should be assessed in 1993 on one half (500/1000) of the fair market value of the 40 acres transferred to Brad by T & H. I am aware that Arthur and Hazel's shares are preferred and those of Gary, Fred and Douglas are common, but there is no evidence before me that would justify a different treatment.
+
+[41] Obviously, the Minister would not be entitled to reopen the 1993 taxation years of Gary and Douglas, the other two individual appellants, or the other shareholders. Those years are statute-barred except to the extent necessary to give effect to any relief that this Court may give with respect to the other issues raised in the appeals (see, for example, Harris v. M.N.R., 64 DTC 5332 at page 5337, (aff'd) 66 DTC 5189 (S.C.C.); The Queen v. Continental Bank of Canada, 98 DTC 6505).
+
+[42] What, then, was the fair market value of the 40 acres on July 6, 1993? The appellants say $26,000 or $650 per acre. The respondent says $60,000, or $1,500 per acre.
+
+[43] Both parties called expert appraisers as witnesses. Both experts are experienced, well qualified and knowledgeable. I find it rather surprising that they should be so far apart. They both agreed on the method of appraisal — the direct comparison approach. Both agreed that the highest and best use is the continued use of the property for agricultural purposes with a home site. Both agreed that the price of agricultural land in this part of Manitoba was flat between 1989 and 1995. However they did not have a single comparable in common.[2]
+
+[44] The property is located near the town of Oak Bluff with 660' frontage on Provincial Trunk Highway No. 2 in the Rural Municipality of Macdonald and 2,640' along a gravel municipal road. It lies outside the perimeter highway that goes around Winnipeg. It is roughly a mile from that highway, and about three miles from the boundary of Winnipeg. It is flat agricultural land and at the date of the appraisal had no buildings on it.
+
+[45] The expert called by the appellants, Mr. Lindsay K. Henderson, referred to 12 sales of agricultural land all occurring in 1993. The following is his sales analysis chart:
+
+SALES ANALYSIS CHART – AGRICULTURAL
+
+R.M. of MacDonald, Manitoba
+
+SALE
+
+NO.
+
+LEGAL DESCRIPTION
+
+AREA
+
+SALE DATE
+
+SALE PRICE
+
+SALE PRICE PER ACRE
+
+1.
+
+SE 28-7-2E
+
+137 acres
+
+April 1993
+
+$82,362
+
+$566
+
+2.
+
+PtE ½ 8-8-2E
+
+311 acres
+
+April 1993
+
+$180,478
+
+$580
+
+3.
+
+NW 8-8-2E
+
+131 acres
+
+April 1993
+
+$76,183
+
+$577
+
+4.
+
+PT N ½ 16-8-2E
+
+244 acres
+
+May 1993
+
+$135,677
+
+$556
+
+5.
+
+SW 16-8-2E
+
+169 acres
+
+April 1993
+
+$94,323
+
+$558
+
+6.
+
+S ½ 22-8-2E
+
+128 acres
+
+June 1993
+
+$67,000
+
+$523
+
+7.
+
+N ½ 27-9-2E
+
+120 acres
+
+June 1993
+
+$63,250
+
+$527
+
+8.
+
+NE 12-8-1W
+
+160 acres
+
+December 1993
+
+$100,000
+
+$633
+
+9.
+
+NE-19-8-1W
+
+80 acres
+
+January 1993
+
+$47,200
+
+$590
+
+10.
+
+NE-19-8-1W
+
+80 acres
+
+January 1993
+
+$47,200
+
+$590
+
+11.
+
+SE 30-8-1W
+
+80 acres
+
+January 1993
+
+$47,200
+
+$590
+
+12.
+
+SE 35-8-1W
+
+80 acres
+
+January 1993
+
+$49,000
+
+$612
+
+Subject
+
+Property
+
+Pt SW 25-9-1E
+
+R.M. of MacDonald
+
+40 acres
+
+[46] With the exception of sale no. 7 all of Mr. Henderson's comparables were outside the perimeter road and were anywhere between 10 and 20 miles from the subject property. They ranged from 80 acres to 311 acres. Mr. Henderson proceeded on the assumption that the size of the parcel made no difference to the per acre price and that proximity to the city of Winnipeg was equally irrelevant. Therefore he treated his comparables as indicative of the fair market value of the subject property without adjustment. He concluded therefore that the subject property had a fair market value of $600 per acre, based on a range of $550-$600 per acre or a total of $24,000 for the 40 acres.
+
+[47] He then took some very small building sites in Oak Bluff, all less than one half acre, and concluded that building sites had a value of between $28,000 and $33,000. He took the lower figure of $28,000 and picked a figure in between $28,000 and $24,000 to arrive at a value of $26,000 for the 40 acres.
+
+[48] Mr. F.G. Sneesby, called by the respondent, chose 9 comparables, as set out in his sales chart:
+
+SUBJECT
+
+LOCATION
+
+N S IDE HWY2
+
+S SIDE MCGILVRAY
+
+S SIDE MCGILVRAY
+
+S PART SALE NO 2
+
+W OF SALE NO 2
+
+LEGAL
+
+W 660'
+
+SW 25-9-2E
+
+L1, P23978-2-10-2E
+
+L2, P23978 & L2, P17659
+
+L2, P17659
+
+L5, B2, & B3,
+
+PT SEC 2-10-2E
+
+PT SEC 2-10-2E
+
+P17491, S3-10-2E
+
+ACREAGE
+
+40
+
+46.35
+
+133.98
+
+58.11
+
+45.92
+
+ARABLE
+
+ACREAGE
+
+40
+
+46.35
+
+133.98
+
+58.11
+
+45.92
+
+ASSESSMENT
+
+$24,300
+
+$76,700
+
+$187,500
+
+$110,800
+
+$117,700
+
+ASSESSMENT
+
+PER / ACRE
+
+$608
+
+$1,655
+
+$1,399
+
+$1,907
+
+$2,563
+
+DATE
+
+July 1993
+
+June 1989
+
+July 1989
+
+May 1991
+
+August 1990
+
+PRICE
+
+$45,800
+
+$160,000
+
+$89,000
+
+$115,000
+
+RATE/ACRE
+
+$988
+
+$1,194
+
+$1,532
+
+$2,504
+
+REMARKS
+
+BETTER
+
+BETTER
+
+BETTER
+
+BETTER
+
+LOCATION
+
+LOCATION
+
+LOCATION
+
+LOCATION
+
+SUBJECT
+
+LOCATION
+
+N S IDE HWY 2
+
+N OF MCGILVRAY
+
+N OF SALE 5
+
+S HWY 100
+
+N SIDE HWY 100
+
+W OF HWY 100
+
+LEGAL
+
+W 660'
+
+SW 25-9-2E
+
+PCLF, P16222
+
+PCLS D & E,
+
+P1622
+
+W1/2 NE 23-9-2E
+
+SW1/4 28-9-2E
+
+PTS E ½ OF SW 1/
+
+SEC4-10-2-E
+
+SEC4-10-2E
+
+NW ¼ 2-10-1E
+
+ACREAGE
+
+40
+
+206.55
+
+98.17
+
+74.54
+
+160
+
+158.42
+
+ARABLE
+
+ACREAGE
+
+40
+
+206.55
+
+98.17
+
+75.54
+
+160
+
+158.42
+
+ASSESSMENT
+
+$24,300
+
+$141,200
+
+$64,500
+
+$55,400
+
+$125,800
+
+$79,400
+
+ASSESSMENT
+
+PER / ACRE
+
+$608
+
+$684
+
+$657
+
+$743
+
+$786
+
+$501
+
+DATE
+
+July 1993
+
+July 1994
+
+January 1994
+
+October 1990
+
+May 1989
+
+April 1992
+
+PRICE
+
+$156,600
+
+$64,600
+
+$100,000
+
+$94,000
+
+$115,934.75
+
+RATE/ACRE
+
+$758
+
+$658
+
+$1,342
+
+$588
+
+$732
+
+REMARKS
+
+LARGE ACREAGE
+
+LARGER ACREAGE
+
+SIMILAR
+
+LARGE ACREAGE
+
+LARGER ACREAGE
+
+LOCATION
+
+[49] His comparables are all much closer to Winnipeg and many of them are closer to the size of the subject property. All but two of them are within the perimeter road.
+
+[50] His conclusion was as follows:
+
+The nine preceding sales show a range in value from $588 to $2,504 per acre.
+
+Sale Nos 1 to 4 inclusive are all located with access off McGilvray Blvd., are all close to the City of Winnipeg and are less than one quarter section in size (160 acres). Sales 5 and 6, at $758 and $652 per acre, respectively are also close to the City of Winnipeg and are larger acreage parcels, which have a tendency to sell at lower rate per acre than smaller parcels. Full quarter sections, or larger, located outside the Perimeter Highway, with no major road or highway frontage and, not next to a town or village, have been selling in the range of $500 to $650 per acre. These sales were researched but not included in the preceding sales chart as they are not considered as comparable to subject property. Sales No. 8 and 9, at $588 and $732 per, respectively, are also larger acreage parcels in outer lying areas.
+
+Sale No. 7, at $1,342 per acre, is considered most comparable to subject property, having frontage on a major route, close proximity to the Perimeter Highway and, less than half of a quarter section in size. However, as it is 74.15 per acres, as compared to subject property at 40 acres, an upward adjustment per acre to approximately $1,500 per acre, seems justified.
+
+It is therefore this appraiser's opinion that the market value of subject as of the effective date of this appraisal was worth $1,500 per acre.
+
+Therefore, 40 acres at $1,500 equals $60,000.00
+
+Estimate of value of subject property from the Direct Market Comparison Approach, at the effective date of July 6th, 1993 is:
+
+SIXTY THOUSAND ($60,000.00) DOLLARS
+
+[51] I do not find the sales within the perimeter to be sufficiently comparable to be useful. Sale no. 1 was for a garden centre. Sale no. 2 was for a trucking operation. Sales no. 1, 2, 3 and 4 were all on or near McGilvray Blvd., an important thoroughfare on which various businesses were located. Sales no. 5 and 6, although within the perimeter road, were sold to farmers for agricultural purposes. Sale no. 7, which seems to be the main comparable relied on by Mr. Sneesby, has access from two directions to the perimeter highway and appears not to be sold or used for agricultural purposes. In cross-examination, Mr. Sneesby agreed that it is not really comparable to the subject property.
+
+[52] Comparable no. 8 sold in 1989 for $588 per acre. Although within the perimeter road it was sold and used for agricultural purposes. Comparable no. 9 is closer to Winnipeg. It appears to be used and sold for agricultural purposes.
+
+[53] I think Mr. Sneesby's sales no. 6, 8 and 9 are the best indicators of value of all of those that he has chosen.
+
+[54] The best comparable that has surfaced in this entire case is one that Mr. Sneesby was aware of, but for some reason did not use. It was sold by Lagace to Cormier, according to Exhibit A-21, for $25,000 for 35.18 acres, or $711 per acre, on August 10, 1992. Mr. Henderson did not use it because it was a 1992 sale. It has about the same frontage on Highway 247 as the subject property has on Highway 2. No one was able to tell me why it was not used as a comparable or why it was not the best indicator of value of all of the properties considered.
+
+[55] Were it not for the Lagace/Cormier sale, I would probably have considered Mr. Sneesby's sales no. 6 and 9 as the best indicators of a range between $658 and $732 or about $700. Since we have the Lagace sale at $711 per acre, this comparable provides at least some confirmation of the reasonableness of the per acre value of $700.
+
+[56] I have not accepted either expert report in its entirety. I do not agree with Mr. Henderson that size or distance from the city does not make a difference. Moreover, given the view of both appraisers that agricultural real estate prices in this case remained flat from 1989 to 1995, I see no reason for Mr. Henderson's confining his search for comparables to 1993. On the other hand, many of Mr. Sneesby's comparables appear to be very close to the city and to have been sold and used for commercial rather than agricultural purposes.
+
+[57] In arriving at a value that differs from that reached by both appraisers, I based my approach on what I said in Western Securities (supra) at page 979:
+
+One further problem arises in valuation cases of this type. Typically both parties call expert witnesses. In many cases, these witnesses are not divided on any serious question of principle, although occasionally they may differ on the highest and best use of the property being appraised. The major difference usually lies in the choice of comparables used and the positive or negative adjustments to be made to particular comparables based on such factors as location, the timing of the sale, or other physical characteristics of the property. It frequently happens that the judge determines a value somewhere between the opposing positions of the experts, not because of any desire to reach a Solomonic compromise, but because of a recognition that the positions adopted by the experts represent the polarized extreme ends of value. There is a danger that experts, albeit in good faith, may become advocates and their positions may become adversarial. For this reason a disinterested arbiter must often conclude that it is unwise to adopt entirely the position of one or the other and that it is more likely that a fair -- I hesitate to use words such as “right” or “correct” in the necessarily imprecise area of valuation -- value is likely to be somewhere between the two extremes.1
+
+_________________________________
+
+1 See Bibby Estate v. The Queen, 83 DTC 5148 at 5157.
+
+[58] I find the fair market value of the subject property on July 6, 1993 to be $700 per acre, or $28,000. This is the figure that in my opinion should be used in determining the capital gain realized by T & H and one-half of this amount should be included in Arthur's income pursuant to subsection 56(2).
+
+[59] I turn now to the second major issue in these appeals, the benefit taxed in the hands of Douglas and Gary under subsection 15(2). As noted in the introductory summary above, Gary, Douglas, Fred and Enterprises were partners in the partnership (Erb Enterprises Partnership). Gary and Douglas withdrew from the partnership in the years in question more than the income that was allocated to them. The excess of their withdrawals over the allocated income was treated as an indebtedness giving rise to a benefit under subsection 15(2).
+
+[60] Subsection 15(2) has since 1990 been amended on a number of occasions and many of the exceptions that used to be in the subsection itself have been put in separate subsections. Essentially subsection 15(2) in its original form dealt with loans by corporations to shareholders. Such loans were taxed as appropriations in the shareholder's hands, unless they were repaid within a specific time and the repayments were not part of a series of loans and repayments. Means of avoiding subsection 15(2) were devised such as having the shareholder form a partnership with the corporation and having the loan made by the partnership to the shareholder.
+
+[61] Subsection 15(2) as it applied to the years in question, after taking into account a series of retroactive amendments, reads as follows:
+
+Where a person (other than a corporation resident in Canada) or a partnership (other than a partnership each member of which is a corporation resident in Canada) is
+
+(a) a shareholder of a particular corporation,
+
+(b) connected with a shareholder of a particular corporation, or
+
+(c) a member of a partnership, or a beneficiary of a trust, that is a shareholder of a particular corporation and the person or partnership has in a taxation year received a loan from or has become indebted to the particular corporation, any other corporation related to the particular corporation or partnership of which the particular corporation or a corporation related to the particular corporation is a member, the amount of the loan or indebtedness is included in computing the income for the year of the person or partnership.
+
+[62] If I delete the portions of the subsection that are irrelevant to this case it would read as follows:
+
+Where a person is .... a shareholder of a particular corporation ... and the person ... has in a taxation year ... become indebted to ... a partnership of which the particular corporation is a member ... the amount of the ... indebtedness is included in computing the income for the year of the person ...
+
+[63] Mr. Kroft's contention is that a partner cannot be indebted to a partnership of which he or she is a partner. He compares two situations:
+
+(a) Assume A, B and C are shareholders of a corporation and the corporation is a member of a partnership of which the corporation and E, F and G are partners. If the partnership loans money to A subsection 15(2) could apply.
+
+(b) Assume A, B and C are shareholders of a corporation and the corporation and A, B and C are members of a partnership. Mr. Kroft restricts his broad statement that a partner cannot be indebted to the partnership of which he is a member and confines it to draws made to A, B or C from the partnership.
+
+[64] In other words, subsection 15(2) could apply to an indebtedness to a partnership in example (a) but not (b).
+
+[65] Before I examine this interesting point of law, which is based on a decision of the Chancery Division rendered in 1838, we should at least get the figures straight.
+
+[66] I shall use Douglas as representative. The principle in Gary's case is the same, but the figures are slightly different.
+
+[67] In 1991, Douglas' share of the income of the partnership was $720. He withdrew $43,683. In 1990, he had withdrawn $41,655 from the partnership even though his allocated loss for the year was $2,773. His "deficit" at the end of 1990 was therefore $52,613. This, added to his withdrawals in 1991 in excess of allocated income, resulted in a "deficit" at the end of 1991 of $95,576.
+
+[68] The Minister's first assumption then was that Douglas was "indebted" to the partnership at the end of 1991 in the amount of $95,576.
+
+[69] The second assumption was that the earnings allocated to Douglas in each of the taxation years 1992, 1993 and 1994 were applied against the oldest "debt" by crediting his share of the partnership profits against the debt as follows:
+
+1992 $45,886
+
+1993 $33,000
+
+1994 $30,000
+
+[70] There is a discrepancy between the Minister's figures as set out above, which are taken from the reply, and those disclosed in the partnership's financial statements in the statements of partners' equity. The reason for this is that the partnership paid amounts as salary or wages to Douglas and Gary, and deducted them in computing the partnership income. Gary and Douglas treated the amounts as employment income. The revenue assessor, Mr. Nuessler, took the position that a partner cannot as a matter of law be an employee of the partnership. He therefore recharacterized the amounts as additional drawings in the hands of the partners and as non-deductible by the partnership, resulting in increased profits for allocation to the partners. This affects the drawings, the income of the partners, the calculation of the partners' deficit and ultimately the presumed indebtedness. The amounts are not large and they do not impinge on the principle involved in this case. Counsel for the appellants did not challenge the assessor's view that a partner cannot be an employee of the partnership presumably because it was consistent in some degree with the appellants' position that a partner cannot be indebted to the partnership of which he is a partner.
+
+[71] The next assumption upon which the Minister proceeded was that, as income was earned, allocated to the partners and credited against the partners' deficit, the amount of income so credited was to be applied against the oldest indebtedness, in accordance with the rule in Clayton's case (1816) 35 E.R. 781; 1 Mer. 572; [1814-23] All E.R. Reprint 1. The rule is discussed at some length, and the numerous Canadian cases in which it has been cited, in Sargent v. M.N.R., 83 DTC 572. Essentially, the rule is that the debtor in paying a debt can designate the indebtedness against which it is to be applied. If the debtor fails to do so, the creditor may make the appropriation. If neither does, the presumption is that the payment is applied to the oldest indebtedness.
+
+[72] The application of this factual presumption depends upon the existence of an indebtedness.
+
+[73] Mr. Kroft's contention that a partner cannot as a matter of law be indebted to a partnership of which he is a partner is in my view unnecessarily broad for the purposes of this case. It is based upon a decision in the Chancery Division, Richardson v. The Bank of England, 4 MY. & CR. 165; (1838), 41 E.R. 65; 8 L.J. Ch. (N.S.) 1.
+
+[74] At page 68, (MY. & CR.), (41 E.R. 67) The Lord Chancellor, (Cottenham) said:
+
+But though these terms "creditor" and "debtor" are so used, and sufficiently explain what is meant by [172] the use of them, nothing can be more inconsistent with the known law of partnership than to consider the situation of either party as in any degree resembling the situation of those whose appellation has been so borrowed. The supposed creditor has no means of compelling payment of his debt; and the supposed debtor is liable to no proceedings either at law or in equity — assuming always that no separate security has been taken or given. The supposed creditor's debt is due from the firm of which he is a partner; and the supposed debtor owes the money to himself in common with his partners; and, pending the partnership, equity will not interfere to set right the balance between the partners. Indeed it could not do so with effect, inasmuch as immediately after a decree has enforced payment of the money supposed to be due, the party paying might, in exercise of his power of a partner, repossess himself of the same sum.
+
+But if, pending the partnership, neither law nor equity will treat such advances as debts, will it be so after the partnership has determined, before any settlement of account, and before the payment of the joint debts or the realisation of the partnership estate? Nothing is more settled than that, under such circumstances, what may have been advanced by one partner, or received by another, can only constitute items in the account. There may be losses, the particular partner's share of which may be more than sufficient to exhaust what he has advanced, or profits more than equal to what the other has received; and until the amount of such profit and loss be ascertained by the winding up of the partnership affairs, neither partner has any remedy against, or liability to, the other for payment from one to the other, of what may have been advanced or received. In Crawshay v. Collins (2 Russ. 325; see p. 347). And see also West v. Skip, 1 Ves. sen. at p. 242), Lord Eldon says, "Where a sum is [173] advanced as a loan to an individual partner, his profits are first answerable for that sum; and if his profits shall not be sufficient to answer it, the deficiency shall be made good out of his capital; and if both his profits and his capital are not sufficient to make it good, he is considered as a debtor for the excess." The money drawn out by any partner ceases to be part of the joint stock, so that, upon bankruptcy, the joint creditor cannot recall it, unless there had been a fraudulent abstraction; Ex part Yonge (3 Ves. & B. 31). Again, in Foster v. Donald (1 Jac. & W. 252), Lord Eldon says, "If a partner, as partner, receives money belonging to the firm, and, admitting that he has received it, insists that there is a balance in his favour, there is no pretence for making him pay it in."
+
+[75] Despite its antiquity, the case is still good law. It was quoted with approval by Christie A.C.J. in Valo et al. v. M.N.R., 89 DTC 223 at 225, footnote 2, where he referred to this passage in the course of observing:
+
+2 The point was underscored at trial that Milman being a member of the partnership at this time the deficiency in his capital account was not properly speaking a debt.
+
+[76] In Lindley & Banks on Partnership, 17th Ed (1995), the author quotes the passage from Richardson with approval as indicating the difficulty of treating partners as debtors or creditors of the partnership.
+
+[77] In Halsbury's Laws of England, 4th Ed., Vol. 35, page 96, paragraph 147, the following appears:
+
+147. No indebtedness between partners. Partners are not, as regards partnership dealings, considered as debtor and creditor between themselves until the concern is wound up or until there is a binding settlement of the accounts1 ; but, where exceptionally a partner has repeatedly requested the taking of an account but this has been refused, that partner may be entitled to sue his co-partners in respect of a specific debt owed to him qua partner without such an account having been taken2. Subject thereto, it follows that one partner has no right of action against another for the balance owing to him until after final settlement of the accounts3; and money lent to a partnership by a partner cannot be recovered in a common law action for money lent4. This rule applies only in relation to persons who are currently partners; and, once a partner has left the partnership leaving the other partners to continue the firm's business on their own account, as, for example, where the outgoing partner has retired or has been expelled, his former partners are creditors to him in respect of any part of his partnership share or other agreed entitlement as has not been paid out to him5.
+
+[78] The footnotes have been omitted but in one of the footnotes the Richardson case is cited.
+
+[79] It is not necessary for me to determine whether there can never be an indebtedness between partners and the partnership. It is sufficient for me to say that the law is clear that where a partner's capital account falls into a deficit position, or, to use the current colloquial expression, "goes negative", this does not create an indebtedness. I am not prepared to say that the concept of an indebtedness by a partner to a partnership of which he or she is a member upon which subsection 15(2) is premised is based on a legal impossibility or that subsection 15(2) could apply only to example (a) in paragraph 63 above. It is sufficient to say that the amounts of $34,717, $31,617 and $56,485 which Douglas withdrew from the partnership in excess of his allocated income in the years in question did not constitute an indebtedness to the partnership for the purposes of subsection 15(2).
+
+[80] Even if I were to conclude that one could find in the excess of the drawings over the allocated income an "indebtedness", it would seem that as a matter of statutory construction the specific provisions relating to withdrawals from a partnership would override the more general provisions of subsection 15(2), which deal broadly with a variety of types of indebtedness to corporations and partnerships. Generalia specialibus non derogant.
+
+[81] The effect of withdrawals of cash from a partnership in excess of earnings and in excess of the positive balance in the capital account is specifically dealt with in subsections 53(1), 53(2), 40(3), 98(1) and 100(2).
+
+[82] Without reproducing those provisions it is sufficient to summarize their effect:
+
+(a) Paragraph 53(1)(e) requires, in determining a taxpayer's adjusted cost base ("ACB") of a partnership interest, that there be added, inter alia, the partner's allocated share of the partnership income.
+
+(b) Paragraph 53(2)(c) requires that, in computing a taxpayer's ACB of a partnership interest, there be deducted, inter alia, any distributions of capital or profits received by the partner.
+
+(c) Subsection 40(3) requires that, where the amounts deductible under subsection 53(2) in computing the ACB exceed the cost amount of property plus the amounts required to be added to the ACB under subsection 53(1), (i.e. where the ACB "goes negative") the excess is deemed to be a capital gain. There is a specific exception to this rule and that is the case of partnership interests. Paragraph 40(3)(a) excises from the statutory formula [essentially subsection 53(2) deductions minus ACB] deductions made under paragraph 53(2)(c). Under subsections 100(2) and 98(1), what would otherwise be a deemed capital gain under subsection 40(3) as soon as the ACB of the partnership interest goes into a negative position is not recognized until the partnership ceases to exist or the partnership interest is disposed of.
+
+[83] The provisions that I have summarized contain a specific and complete code on one relatively narrow aspect of the fiscal consequences of being a partner. To import into the Act a presumption of indebtedness whenever a partner's capital account falls into a deficit provision, with the consequent application of subsection 15(2), is in my view contrary to the scheme of the Act and the explicit provisions of subsections 53(1) and (2), 40(3), 98(1) and 100(2). As Cartwright J. said in Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116 at page 5120:
+
+The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conforms to the apparent scheme of the legislation.
+
+[84] In Shannon Realties, Limited v. Ville de St. Michel, [1924] A.C. 185 at pages 192-3, Lord Shaw of Dunfermline, speaking for the Judicial Committee of the Privy Council, said:
+
+How shall such a wide difference be settled ? Where the words of a statute are clear they must, of course, be followed ; but, in their Lordships' opinion, where alternative constructions are equally open, that alternative is to be chosen which will be consistent with the smooth working of the system which the statute purports to be regulating; and that alternative is to be rejected which will introduce uncertainty, friction or confusion into the working of the system.
+
+[85] The observation is particularly apposite here. If, as the Crown contends, whenever a partner's drawings exceed the aggregate of his or her capital account and allocated earnings, so that the ACB of the partnership interest is put in a negative position, an indebtedness arises to which subsection 15(2) may apply, depending on the composition of the partnership, it would drive a coach-and-four through the carefully balanced code relating to such matters set out in the Act.
+
+[86] The position taken by the Minister on assessing would result in taxation under subsection 15(2) and again under subsections 98(1) or 100(2). Such double taxation is prohibited by subsection 4(4). Since, as a practical matter, subsections 98(1) or 100(2) would apply later than subsection 15(2) (if it applied at all), it would mean that by assuming an indebtedness and consequent taxation under 15(2) in circumstances where paragraph 40(3) would otherwise apply, the Minister could render the provisions of subsections 53(1), 53(2), 40(3), 98(1) and 100(2) inoperative. Such a result could not have been in accordance with the intention of Parliament. A result that is more consonant with the intent of Parliament would be to allow those provisions to operate according to their terms without having that operation interfered with by what seems to me to be a highly questionable application of subsection 15(2).
+
+[87] I should mention briefly the appellants' alternative contention that since the partnership carried on both a trucking and a farming business, and the trucking business income was computed on the accrual basis and the farming business income was computed, as the Act permits, on a modified cash basis, the result is a hybrid computation of income and a skewed calculation of the deficit of the partners. I quite agree. The state of the partners' deficit in the books of the partnership is altogether too fluid and uncertain a concept on which to warrant the basing of any fiscal consequences however it may be computed. Many methods might be used, each with different tax consequences if the calculation of the deficit is relevant:
+
+a) the mixed cash and accrual method;
+
+b) a full accrual method, but using the specific rules of the Act, such as capital cost allowance as opposed to accounting depreciation;
+
+c) generally accepted accounting principles using only the rules sanctioned by the CICA;
+
+d) a mixture of any of the above.
+
+[88] Each would yield a different income and, on the Crown's basis of applying subsection 15(2), a different result under that subsection. It is unnecessary for me to consider this alternative argument because I do not think subsection 15(2) applies at all.
+
+[89] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+[90] The appellants are entitled to one set of counsel fees, with one senior and one junior counsel fee for each day or part day of trial.
+
+Signed at Montréal, Canada, this 26th day of November 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+
+[1] The Manitoba Statute of Frauds, which would have required that a declaration of a trust of land be in writing, was repealed prior to the years in question.
+
+[2] Cf. Grove Crest Farms Limited et al. v. The Queen, 96 DTC 1167; Western Securities Limited v. The Queen, 97 DTC 977.
+

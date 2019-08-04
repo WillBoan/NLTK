@@ -1,0 +1,616 @@
+Date: 20020418
+
+Dockets: 1999-3945-IT-G,
+
+1999-4010-IT-G
+
+BETWEEN:
+
+W. ANDREW McLAUCHLIN,
+
+KENNETH G. HOOD
+
+Appellant,
+
+And
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals were heard together and are from assessments for the appellants' 1997 taxation year. In 1997 the appellants were partners in the same law firm. The facts do not appear to be in dispute and the legal issues are identical although the numbers differ. In Mr. McLauchlin's appeal the respondent concedes that the late filing penalty should be deleted.
+
+[2] The issue can be stated briefly. In 1995 the Income Tax Act was amended to bring to an end the practice of individuals, partnerships and professional corporations having a fiscal period end after the end of the calendar year. To alleviate the severe consequences of bringing into income in one year the income for more than 12 months and in some cases up to almost two years a somewhat complex set of provisions was introduced the purpose of which was to spread the effect of the transition over a period of years. This involved a number of formulae for the calculation of income inclusions and reserves in 1995 and subsequent years.
+
+[3] The appellants contend that the formula as applied by the Minister of National Revenue results in double taxation.
+
+[4] I propose in these reasons to set out the facts and the manner in which the formula works and the way it was applied to the appellants and then to consider whether the formula as applied results in either double taxation or an inclusion in income of amounts that should not be included. Ideally only the timing of the recognition of income during the period of transition should be affected. If there is double taxation or if there are amounts included that ought not to be, there is obviously something wrong. Essentially what the legislation is aiming at is to take the income earned in 1995 from the end of the fiscal period (in this case, January 31, 1995) to the end of the calendar year 1995 and give the taxpayer who so elects the right to spread that income over a period of years. Since the fiscal period ending January 31, 1996 is not completed at the end of December 1995 a projection or, more accurately, an estimate must be made. The following year, when the financial results are known for the whole final period an adjustment must be made.
+
+[5] I think part of the problem lies in the appellants' use of gross income for A in the formula which I shall discuss below.
+
+[6] I begin by observing that the figures in the assessments are those in the income tax returns prepared by the appellants' accountants KPMG and filed by the appellants. If the accountants' calculations are wrong based upon a misapplication of a statutory provision this does not of course bind the appellants. A mistake of law does not give rise to an estoppel.
+
+[7] In the case of Cho v. R., [2000] 2 C.T.C. 2714, I had to work my way through the terminology of sections 34.1 and 249.1 of the Act. I set out my understanding of the way these provisions worked as follows:
+
+5 The problem in both cases stems from section 34.1. This provision was introduced in the 1995 budget, applicable after 1994. In broad terms the purpose of the amendments to the Income Tax Act in sections 34.1, 34.2 and 249.1 was to bring to an end the practice of individuals, partnerships and professional corporations having a fiscal period end after the end of the calendar year, thereby achieving in effect a deferral of income earned in a fiscal period to the calendar year in which the fiscal period ends (subsections 11(1), 96(1)). The solution was simply to change the definition of "fiscal period" and this is what section 249.1 does. Section 249.1, which applies to fiscal periods that begin after 1994, provides that in the case of individuals, partnerships and professional corporations no fiscal period may end after the end of the calendar year in which it began.
+
+6 Without some means of alleviating the effect in the first year the result of the definition of fiscal period in section 249.1 could be that in 1995 an individual, partnership or professional corporation could be taxed on up to almost two years income in one year. If an individual proprietor of a business had a fiscal period ending January 31, he or she could be taxed in 1995 on income from the fiscal period February 1, 1994 to January 31, 1995 and for the fiscal period February 1, 1995 to December 31, 1995.
+
+7 As a result, subsection 249.1(4) permits under some circumstances individuals to elect in prescribed form not to have paragraph 249.1(1)(b) apply ("the alternative method"), that is to say, to keep a fiscal period that does not end on December 31.
+
+8 Both appellants elected the alternative method for 1997 and calculated their business income under Part 2 of the prescribed form T1139. The result of the election is that the provisions of subsection 34.1(1) apply. That subsection reads:
+
+Where
+
+(a) an individual (other than a testamentary trust) carries on a business in a taxation year,
+
+(b) a fiscal period of the business begins in the year and ends after the end of the year (in this subsection referred to as the "particular period"), and
+
+(c) the individual has elected under subsection 249.1(4) in respect of the business and the election has not been revoked,
+
+there shall be included in computing the individual's income for the year from the business, the amount determined by the formula
+
+(A - B) X C/D
+
+where
+
+A is the total of the individual's income from the business for the fiscal periods of the business that end in the year,
+
+B is the lesser of
+
+(i) the total of all amounts each of which is an amount included in the value of A in respect of the business and that is deemed to be a taxable capital gain for the purpose of section 110.6, and
+
+(ii) the total of all amounts deducted under section 110.6 in computing the individual's taxable income for the year,
+
+C is the number of days on which the individual carries on the business that are both in the year and in the particular period, and
+
+D is the number of days on which the individual carries on the business that are in fiscal periods of the business that end in the year.
+
+9 The formula (A-B) X C/D in subsection 34.1(1) works as follows:
+
+Assume a fiscal period ending on March 31, 1997. In addition to the income for the period ending on March 31, 1997 (say $100,000) additional business income ("ABI") calculated in accordance with the above formula must be included. Assume zero for B.
+
+$100,000 X The number of days from the end of the March 31, 1997 fiscal period to the end of the 1997 calendar year/The number of days in the March 31, 1997 fiscal period
+
+i.e. $100,000 X 275/365 = $75,342
+
+10 The income inclusion is $175,342 (rounded to $175,000). If one stops at that point, the anomaly is apparent because the ABI for the stub period ending on December 31, 1997 is based not on what is in fact earned in that period (or even a proportion of what is earned in the fiscal period ending March 31, 1998 (which might not be known when the 1997 return is being prepared)), but rather on the income of a preceding fiscal period. This is a notional figure. The result is however alleviated by the fact that a reserve is allowed.
+
+11 The system came into effect in 1995. Therefore, assuming an election under subsection 249.1(4) in that year, and assuming a taxpayer's income for the March 31 fiscal periods ending in 1995, 1996 and 1997 remains constant at $100,000, his income for 1995 would be
+
+$100,000 + $75,000 (ABI) (34.1(1)) = $175,000
+
+less reserve (95% of $75,000 = $71,250) = $103,750
+
+12 In 1996 his income would be
+
+$100,000 + 1996 ABI ($75,000) = $175,000
+
+less 1995 ABI ($75,000) = $100,000
+
+plus 1995 reserve ($71,250) = $171,250
+
+less 1996 reserve (85% of $75,000 (1995 ABI) = $63,750) = $107,500
+
+13 For 1997, the calculation would be
+
+$100,000 + $75,000 ABI = $175,000
+
+less 1996 ABI $75,000 = $100,000
+
+plus 1996 reserve $71,250 = $171,250
+
+less 1997 reserve (75% of 1995 ABI = $56,250) = $115,000
+
+[8] I shall take Mr. McLauchlin's case as illustrative. The fiscal year end of the partnership was January 31. In filing his return of income for 1995 he declared net professional income of $153,256.16. With his return he filed form T1139 electing to keep a fiscal period that does not end on December 31. The same election was made by Mr. Hood.
+
+[9] The $153,256.16 was arrived at as follows:
+
+Income from businesses whose fiscal period ended in 1995:
+
+Business 1 Business 2
+
+-$13,885 $158,846.98
+
+Additional business income ("ABI"): $165,883.62
+
+Total income from Business 2 $324,730.60
+
+Allowable reserve 95% of ABI = $157,589.44
+
+Therefore $158,846.98 + $165,883.62 (ABI) - $157,589.44 (reserve) - $13,885 (loss) = $153,256.16
+
+[10] This is the amount that the appellant declared in his return and the amount on which he was assessed.
+
+[11] The ABI was calculated in accordance with the formula in subsection 34.1(1):
+
+(A - B) X C/D
+
+($181,280 - 0) X 334/365 = $165,883.62
+
+[12] The problem with this calculation is that for A in the formula the gross income of $181,280 (professional fees) is used.
+
+[13] If we use as A in the formula in 1995 the net income rather than the gross income the calculation looks like this:
+
+The net income at the year end January 31, 1995 was $158,846.98
+
+Under subsection 34.1(1) of the Act the ABI in 1995 is
+
+$158,846.98 X 334/365 = $145,355.85 (1995 ABI)
+
+Under subsection 34.1(4) of the Act the December 31, 1995 income is
+
+$158,846.98 X 334/365 = $145,355.85 (December 31, 1995)
+
+Reserve for 1995 = 95% of $145,355.85 = $138,088.05
+
+1995 Income = $158,846.98 + 1995 ABI ($145,355.85) = $304,202.83
+
+less reserve ($138,088.05) = $166,114.78 (net income for 1995)
+
+less loss from business $13,885 = $152,229.78
+
+[14] Notwithstanding the substantial difference in the ABI resulting from the use of gross as opposed to net income in the formula, the 95% reserve results in an insignificant difference in the final number.
+
+The gross income at year end January 31, 1996 was $61,853.79
+
+(excluding prior year's GST rebate of $93.24)
+
+(The appellant in calculating his ABI appears to have used the income amount of $61,597.18, although it is unclear where exactly this amount is taken from. It appears to be an extrapolation from $56,365.00 multiplied by 365/334.)
+
+1996 ABI = $61,853.79 X 334/365 = $56,600.00 (the appellant used the amount $56,365)
+
+Under subsection 34.1(7) where the amount under 34.1(4) ($165,883.62) exceeds
+
+b) $61,853.79 X 334/365 = $56,600.00
+
+b) is deemed to be the December 31, 1995 income for the purpose of calculating the reserve (34.2(4)) for 1996 and subsequent years.
+
+1996 reserve 85% of $56,600.00 = $48,110.00
+
+1996 income = $43,673.57 + 1996 ABI ($56,600.00) = $100,273.57
+
+less 1995 ABI ($165,883.62) =-$65,610.05
+
+plus 1995 reserve ($157,589.44) = $91,979.39
+
+less 1996 reserve ($48,110.00) = $43,869.39
+
+___________________________________________________________________
+
+The net income at year end January 31, 1996 was $43,673.57
+
+1996 ABI = $43,673.57 X 334/365 = $39,964.30
+
+Under subsection 34.1(7) where the amount determined under 34.1(4) ($145,355.85) exceeds
+
+b) $43,673.57 X 334/365 = $39,964.30
+
+b) is deemed to be the December 31, 1995 income for the purpose of calculating the reserve (34.2(4)) for 1996 and subsequent years.
+
+1996 reserve 85% of $39,964.30 = $33,969.66
+
+1996 income = $43,673.57 + 1996 ABI ($39,964.30) = $83,637.87
+
+less 1995 ABI ($145,355.85) = - $61,717.98
+
+plus 1995 reserve ($138,088.05) = $76,370.07
+
+less 1996 reserve ($33,969.66) = $42,400.41 (net income for 1996)
+
+____________________________________________________________________
+
+The gross income at year end January 31, 1997 was $252,671.33 (based on first return).
+
+(excluding prior year's GST rebate of $12.87)
+
+1997 ABI = $252,671.33 X 334/365 = $231,211.54 (the appellant used the amount of $227,757.00)
+
+(The appellant in calculating his ABI appears to have used the income amount of $248,896.17, although it is unclear where exactly this amount is taken from. It does not appear in the return. It is simply an extrapolation from $227,757.00 used by the appellant which I multiplied by 365/334.)
+
+December 31, 1995 income = $56,600.00
+
+1997 reserve = 75% of $56,600.00 = $42,450.00
+
+1997 income = $237,106.82 + 1997 ABI ($231,211.54) = $468,318.36
+
+less 1996 ABI ($56,600.00) = $411,718.36
+
+plus 1996 reserve ($48,110.00) = $459,828.36
+
+less 1997 reserve ($42,450.00) = $417,378.36
+
+____________________________________________________________________
+
+The gross income at year end January 31, 1997 was $224,680.93 (based on latest return)
+
+(excluding prior year's GST rebate of $12.87)
+
+1997 ABI = $224,680.93 X 334/365 = $205,598.41 (the appellant used the amount of $227,757.00)
+
+December 31, 1995 income = $56,600.00
+
+1997 reserve = 75% of $56,600.00 = $42,450.00
+
+1997 income = $209,116.42 + 1997 ABI ($205,598.41) = $414,714.83
+
+less 1996 ABI ($56,600.00) = $358,114.83
+
+plus 1996 reserve ($48,110.00) = $406,224.83
+
+less 1997 reserve ($42,450.00) = $363,774.83
+
+____________________________________________________________________
+
+The net income for the year end January 31, 1997 was $237,106.82 (according to the first tax return filed for the 1997 year).
+
+1997 ABI = $237,106.82 X 334/365 = $216,968.95
+
+December 31, 1995 income = $39,964.30
+
+1997 reserve = 75% of $39,964.30 = $29,973.23
+
+1997 income = $237,106.82 + 1997 ABI ($216,968.95) = $454,075.77
+
+less 1996 ABI ($39,964.30) = $414,111.47
+
+plus 1996 reserve ($33,969.66) = $448,081.13
+
+less 1997 reserve ($29,973.23) = $418,107.90 (net income for 1997)
+
+____________________________________________________________________
+
+The net income for the year end January 31, 1997 was $209,116.42 (according to the second return filed for 1997 year).
+
+1997 ABI = $209,116.42 X 334/365 = $191,355.84
+
+December 31, 1995 income = $39,964.30
+
+1997 reserve = 75% of $39,964.30 = $29,973.23
+
+1997 income = $209,116.42 + 1997 ABI ($191,355.84) = $400,472.26
+
+less 1996 ABI ($39,964.30) = $360,507.96
+
+plus 1996 reserve ($33,969.66) = $394,477.62
+
+less 1997 reserve ($29,973.23) = $364,504.39 (net income for 1997)
+
+____________________________________________________________________
+
+As of 1998, the appellant switched to a December 31 year end, so that paragraph 249.1(1)(b) of the Act now applies.
+
+The net income at year end January 31, 1998 was $104,620.49
+
+Net income at December 31, 1998 was $189,827.30 (this replaces what would have been the 1998 ABI).
+
+1998 reserve = 65% of $39,964.30 = $25,976.80
+
+January 31, 1998 income ($104,620.49) + December 31, 1998 income ($189,827.30) = $294,447.79
+
+less 1997 ABI (based on first 1997 return) ($216,968.95) = $77,478.84
+
+plus 1997 reserve ($29,973.23) = $107,452.07
+
+less 1998 reserve ($25,976.80) = $81,475.27 (net income for 1998)
+
+____________________________________________________________________
+
+January 31, 1998 income ($104,620.49) + December 31, 1998 income ($189,827.30) = $294,447.79
+
+less 1997 ABI (based on latest 1997 return) ($191,355.84) = $103,091.95
+
+plus 1997 reserve ($29,973.23) = $133,065.18
+
+less 1998 reserve ($25,976.80) = $107,088.38 (net income for 1998)
+
+____________________________________________________________________
+
+The net income in 1999 (December 31 year end) was $66,065.58
+
+1999 reserve = 55% of $39,964.30 = $21,980.37
+
+1999 income ($66,065.58)
+
+plus 1998 reserve ($25,976.80) = $92,042.38
+
+less 1999 reserve ($21,980.37) = $70,062.01 (net income for 1999)
+
+[15] It was necessary for me to work through these figures to determine whether the result of the application of the formula was that there was an artificial distortion of the appellants' income in 1997. To put the matter in what is possibly an overly simplistic way, to switch from an off calendar year to a calendar year involves a change in timing, not amount.
+
+[16] The above calculations illustrate that somewhat different results flow from using net income as opposed to gross income as A in the formula for calculating the ABI.
+
+[17] I can see no reason for using gross income for A in the formula. The net income on January 31, 1995 was $158,846. The ABI of $145,355 for 1995 is based on an assumption that income for the remaining 11 months is earned at the same rate as in the period ending January 31, 1995. As it turns out that assumption was wrong. The net income for the period ending January 31, 1996 was $43,673.57. Therefore the adjustment calculated under subsection 34.1(7) is made. That calculation is premised on the assumption that the income earned in the period February 1, 1995 to December 31, 1995 is 334/365 of the net income for the period ending January 1, 1996 and not 334/365 of the income earned in the period ending January 31, 1995. This is obviously a more realistic assumption.
+
+[18] We now move to 1997, the only year under appeal. The matter is complicated by reason of the fact that two returns for 1997 were filed in both Mr. McLauchlin's case and Mr. Hood's case. Evidently the second return was not verified or assessed by the CCRA pending the disposition of these appeals.
+
+[19] The simplest way of determining whether there is any artificial inclusion in income or double taxation is to postulate a hypothetical four-year fiscal period.
+
+[20] In order to determine whether there was any double taxation in the treatment of the appellants' income for the taxation years of 1995 to 1998, I made the following calculations, which show that using either one of the following methods of calculating Mr. McLauchlin's taxable income for the years in question, the total income is the same:
+
+1) the formula applied based on a calculation of the ABI according to net income;
+
+2) the income of the appellant for the taxation years in question without applying the formula (hence without taking into account a reserve);
+
+3) the income of the appellant as reported in the appellant's income tax returns processed for the years in question.
+
+Income based on formula using net income to determine the ABI
+
+Net income for 1995
+
+(taking into account $13,885 loss from other business) = $152,229.78
+
+Net income for 1996 = $42,400.41
+
+Net income for 1997 (based on first return) = $418,107.90
+
+Net income for 1998 = $81,475.29
+
+plus remaining balance of reserve = $25,976.80
+
+TOTAL...................................................................................................................................................... $720,190.18
+
+Income calculated without using the formula
+
+Net income at year end January 31,1995
+
+(- $13,885 loss) = $144,961.98
+
+Net income at year end January 31, 1996 = $43,673.57
+
+Net income at year end January 31, 1997
+
+(using first return) = $237,106.82
+
+Net income at year end January 31, 1998 = $104,620.49
+
+Net income at year end December 31, 1998 = $189,827.30
+
+TOTAL...................................................................................................................................................... $720,190.16
+
+Income as reported in the appellant's income tax return
+
+Net income for 1995 (- $13,885 loss) = $153,256.16
+
+Net income for 1996 = $43,834.24
+
+Net income for 1997 = $414,134.78
+
+Net income for 1998 = $72,327.35
+
+plus remaining balance of reserve = $36,637.67
+
+TOTAL...................................................................................................................................................... $720,190.20
+
+[21] The result of these calculations is that the total income over the entire period up to and including 1998, where the appellant adopted a calendar year fiscal period, is the same. If there were any double taxation or artificial inclusion of amounts in income it would have shown up. The same observation holds true for both Mr. McLauchlin and Mr. Hood.
+
+[22] As noted above, the appellants stopped using the formula in 1998 and used the calendar year basis. If they had done so in 1997, after they had the benefit of comparing the formula method with the calendar year basis they would have realized that what appears to be a distortion could have been avoided. To put it in a nutshell, the problem is this. If the actual income on a calendar year basis turns out to be significantly lower than the projected income using the formula in section 34.1, it is clearly advantageous to switch to the calendar year basis in that year. By not switching until 1998 there is a temporary distortion in the 1997 income which is not corrected until 1998.
+
+[23] I am allowing the appeals because the use of gross income in the formula is inappropriate. The 1997 assessment should be referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+
+(a) The second returns for 1997 should be processed and verified.
+
+(b) The figure for A in the formula used for determining the ABI should be net income not gross income.
+
+(c) Since the 1997 income is changed by reason of using net income in calculating the ABI for 1995 and 1996 the calculation should be made for those years as well even though obviously no reassessment can be made for 1995 and 1996. The recalculation for those years will affect the 1997 taxation year.
+
+(d) If such a recalculation were to result in higher income for 1997 the Minister could not of course reassess to increase the amount of tax for 1997.
+
+(e) The late filing penalty imposed against Mr. McLauchlin should be deleted.
+
+[24] The above recalculation might very well result in no or a minimal reduction in the appellants' income for 1997. However I am awarding the appellants their costs. In preparing the reasons for judgment a number of technical questions arose in connection with the calculation of the appellants' ABI. I requested the trial co-ordinator to write to counsel for the parties raising these questions which I considered essential to the proper determination of the appeals. The letter read as follows:
+
+March 14, 2002 FAX AND MAIL
+
+William Dingwall, Q.C.
+
+...
+
+Eric Noble
+
+...
+
+Dear Sirs:
+
+RE: W. Andrew McLauchlin v. Her Majesty the Queen,
+
+1999-3945(IT)G
+
+Kenneth G. Hood v. Her Majesty the Queen,
+
+1999-4010(IT)G
+
+Dear Sirs:
+
+The Associate Chief Judge Bowman has asked me to write to you for clarification of a point that was not raised in argument.
+
+In computing the Additional Business Income for 1995 Mr. McLaughlin used as A in the formula the amount of $181,280. This is his gross income rather than the net income.
+
+If the net income of $158,846 is used the ABI becomes $145,355 rather than $165,883.
+
+Similarly, the gross income was used in the formula for 1996.
+
+For 1997, two returns were filed. The first showed net income of $237,106 and ABI of $227,757. It is unclear where this latter figure comes from but it seems certain that it could not have been the result of using $237,106 as A in the formula.
+
+The second return showed net income of $209,116. The ABI however remains at $227,757 — an even more improbable result.
+
+Associate Chief Judge Bowman has asked me to inform you that it is impossible to determine whether there is in fact double taxation or a misapplication of the formula without knowing where the figures come from.
+
+It would be appreciated if you could advise him of the manner in which the ABI in each year was calculated. Moreover, please advise why in 1995, 1996 and possibly 1997 gross rather than net income was used as A in the formula.
+
+The same information should be provided with respect to Mr. Hood.
+
+Associate Chief Judge Bowman will be sitting in Toronto next week and would be able to make time to see counsel if they should wish.
+
+Yours truly,
+
+[signed]
+
+Chantal Boulet
+
+Hearings Coordinator
+
+[25] Mr. Dingwall wrote back and endeavoured to answer the questions.
+
+[26] Counsel for the respondent's answer was essentially a refusal to respond on the basis that the court should not have raised the questions.
+
+[27] I regard this conduct on the part of counsel for the Crown as wholly unacceptable. In L.I.U.N.A. Local 527 Members' Training Trust Fund v. The Queen, 92 DTC 2365, I encountered the same conduct from another Crown counsel in response to a question that I raised after the case was argued.
+
+[28] At pages 2368-9, I said, after quoting the letter that was sent to the parties:
+
+Counsel for the Respondent advanced the startling proposition that I should not have recalled counsel and that I should not even consider the validity of the trust or raise the possible effect of section 16 of the Perpetuities Act of Ontario because it had been admitted in the pleadings that the Appellant was a trust. He also argued that the validity of the trust was a question of fact or a mixed question of fact and law. The propositions are wholly without merit. Counsel for the Appellant did not associate themselves with Mr. Gibson's position on this point.
+
+Mr. Gibson argued that the court should not of its own motion raise issues of law that are not raised by the parties, even where such issues have to do with the existence of one of the parties, or are essential to the determination of the very question before the court. His position was that the court should confine itself to a consideration of the narrow issues formulated and articulated by the parties. As will be evident from the rest of these reasons had I accepted the issues for determination in the manner in which they were stated by the parties, I would have been unable to reach any conclusion. The court cannot be forced to base its decisions upon faulty legal premises.
+
+...
+
+Parties to an action may agree on certain facts and this agreement may form the basis for a judicial admission by which the presiding judge will be bound. Parties cannot, however, make a judicial admission on a point of law, because "the Court may not be bound by error in an admission by the parties as to the law..."5 The court is not bound by concessions on points of law. In C.(G.) v. V.F.(T.),6 Beetz, J., delivering the unanimous judgment of the Supreme Court of Canada, stated:
+
+At the hearing, counsel for the appellants conceded that the award of custody to a third person would amount to a declaration of partial deprivation and that it was therefore necessary to establish the existence of serious cause within the meaning of art. 654 C.C.Q. for giving custody to someone other than the person having parental authority. This concession on a point of law is not binding on the Court.
+
+The issue of the validity of this trust is a question of law because it must be determined in accordance with principles of law and because it is an issue of standing which, in itself, is a question of law. Despite submissions made by counsel for the Respondent, parties to an action cannot make a judicial admission on a point of law. They cannot agree on a matter of standing and thereby confer jurisdiction upon a court. While it is accepted that a judge should not regularly intervene in a cross-examination or overly involve himself in the dispute between the parties, he or she must nonetheless be satisfied that the court has jurisdiction to deal with a matter, and a consensus between the parties cannot confer such jurisdiction. Moreover, even where an issue does not go to the court's jurisdiction or the standing of one of the parties, the court must still decided the case on the basis of the law. It cannot fulfil that obligation if it is forced to accept without question doubtful propositions of law, or to base its determinations on flawed legal premises or an ill-conceived articulation of the issues merely because of some agreement between the parties. The Tax Court of Canada has original jurisdiction over areas governed by public statutes of wide application. The effect of its judgments in many instances goes beyond the narrow dispute between the Minister and the particular taxpayer. Its judgments bear upon the interpretation of fiscal statutes and their application to taxpayers generally. Moreover, a decision in favour of a particular appellant will result in a payment out of the Consolidated Revenue Fund not otherwise authorized by Parliament.7 This court is a court of law; it is not a private arbitration tribunal to which the parties can dictate the law.
+
+Where a question of standing or indeed any other significant question of law that has not been raised by counsel and that is important to a proper determination of a case arises the court has an obligation to counsel and to the parties to recall counsel and invite further argument. It should not have had to be stated that counsel have an obligation to deal with the issues so raised by the court.
+
+_____________________
+
+5 Custom Glass Ltd. v. M.N.R., 67 DTC 5207 (Ex. Ct.) at 5210.
+
+6 [1987] 2 S.C.R. 244 at 257-258. See also Sport Maska Inc. v. Zittrer, [1988] 1 S.C.R. 564 at 612.
+
+7 Cf. The Clarkson Company Limited v. Her Majesty the Queen, 79 DTC 5150 at 5151, footnote 3.
+
+[29] The interpretation of section 34.1 of the Act is a question of law and the answers to the questions asked were essential to a proper disposition of the appeals. For counsel for the respondent to refuse to deal with the questions on the basis that the questions are irrelevant is in my view inappropriate. In a complex and technical area of income tax law the Crown has an obligation to the court to respond to questions raised by the court. This was clearly a case where the respondent should have called an assessor to explain the calculations rather than relying on vague and unhelpful generalizations. The enquiry sent by the court gave the Crown an opportunity of correcting the deficiencies in its argument that
+
+necessitated the further enquiry. That opportunity was rejected. I considered awarding costs against the Crown on a solicitor and client basis and, while this might have been justified, I decided not to do so. In L.I.U.N.A. I was asked by the appellant to award costs on a solicitor and client basis and I declined to do so. I think the same conclusion is justified here.
+
+Signed at Ottawa, Canada, this 18th day of April 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NOS.: 1999-3945(IT)G, 1999-4010(IT)G
+
+STYLE OF CAUSE: Between W. Andrew McLauchlin and
+
+Her Majesty The Queen AND
+
+Between Kenneth G. Hood and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: February 25, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: April 18, 2002
+
+APPEARANCES:
+
+Counsel for the Appellants: William G. Dingwall Q.C.
+
+Counsel for the Respondent: Eric Noble, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: William G. Dingwall, Q.C.
+
+Firm: Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-3945(IT)G
+
+BETWEEN:
+
+W. ANDREW McLAUCHLIN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard with the appeal of Kenneth G. Hood (1999-4010(IT)G)
+
+on February 25, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: William G. Dingwall, Q.C.
+
+Counsel for the Respondent: Eric Noble, Esq.
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1997 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+
+The appellant is entitled to his costs, on the basis of one counsel fee at trial for the appellant and Kenneth G. Hood.
+
+Signed at Ottawa, Canada, this 18th day of April 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+1999-4010(IT)G
+
+BETWEEN:
+
+KENNETH G. HOOD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard with the appeal of W. Andrew McLauchlin (1999-3945(IT)G)
+
+on February 25, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: William G. Dingwall, Q.C.
+
+Counsel for the Respondent: Eric Noble, Esq.
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1997 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+
+The appellant is entitled to his costs, on the basis of one counsel fee at trial for the appellant and W. Andrew McLauchlin.
+
+Signed at Ottawa, Canada, this 18th day of April 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

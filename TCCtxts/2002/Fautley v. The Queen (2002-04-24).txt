@@ -1,0 +1,272 @@
+Date: 20020424
+
+Docket: 2001-742-IT-I
+
+BETWEEN:
+
+RAYMOND A. FAUTLEY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+O'Connor, J.T.C.C.
+
+ISSUES
+
+[1] The issues in these appeals are whether the Appellant is entitled to certain Allowable Business Investment Losses (ABIL) in respect of advances to Fautley Towers Ltd. ("Company"). The Appellant will succeed if the advances can be established as a bad debt, if the advances were used for the earning of active business income by the Company and were not personal to the Appellant and if the Company was a Canadian-controlled private corporation that was a small business corporation and which did not carry on a specified investment business.
+
+[2] The relevant provisions of the Income Tax Act ("Act"), so far as material are the following:
+
+Section 38:
+
+For the purposes of this Act,
+
+(a) a taxpayer's taxable capital gain for a taxation year from the disposition of any property is 3/4 of the taxpayer's capital gain for the year from the disposition of that property;
+
+(b) a taxpayer's allowable capital loss for a taxation year from the disposition of any property is 3/4 of the taxpayer's capital loss for the year from the disposition of that property; and
+
+(c) a taxpayer's allowable business investment loss for a taxation year from the disposition of any property is 3/4 of the taxpayer's business investment loss for the year from the disposition of that property.
+
+Section 39:
+
+(1) For the purposes of this Act,
+
+...
+
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+
+(i) to which subsection 50(1) applies, or
+
+(ii) to a person with whom the taxpayer was dealing at arm's length
+
+of any property that is
+
+(iii) a share of the capital stock of a small business corporation, or
+
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+
+(A) a small business corporation,
+
+...
+
+Section 50:
+
+(1) For the purposes of this subdivision, where
+
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+
+(iii) at the end of the year,
+
+(A) the corporation is insolvent,
+
+(B) neither the corporation nor a corporation controlled by its carries on business,
+
+(C) the fair market value of the share is nil, and
+
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+
+...
+
+Section 248:
+
+(1) Definitions. In this Act,
+
+"active business", in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+
+...
+
+"small business corporation", at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a "payer corporation" within the meaning of that subsection), or,
+
+(c) assets described in paragraphs (a) and (b),
+
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil;
+
+...
+
+"specified investment business" has the meaning assigned by subsection 125(7)
+
+...
+
+125(7) Definitions In this section,
+
+"active business carried on by a corporation" - "active business carried on by a corporation" means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;
+
+"Canadian-controlled private corporation" - "Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation) or by any combination thereof;
+
+"income of the corporation for the year from an active business" - "income of the corporation for the year from an active business" means the total of
+
+(a) the corporation's income for the year from an active business carried on by it including any income for the year pertaining to or incident to that business, other than income for the year from a source in Canada that is a property (within the meaning assigned by subsection 129(4)), and
+
+(b) the amount, if any, included under subsection 12(10.2) in computing the corporation's income for the year;
+
+"personal services business" - [ not applicable]
+
+"specified investment business" - "specified investment business" carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rents or royalties), unless
+
+(a) the corporation employs in the business throughout the year more than five full-time employees, or
+
+(b) in the course of carrying on an active business, any other corporation associated with it provides managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than five full-time employees if those services had not been provided;
+
+[3] Further paragraph 14 of Interpretation Bulletin IT-73R5 provides as follows:
+
+The principal purpose of the corporation's business must be determined annually after the facts relating to that business carried on by that corporation in that year have been considered and analyzed. Included in this evaluation should be such things as:
+
+(a) the purpose for which the business was originally commenced;
+
+(b) the history and evolution of operations, including changes in its mode of operation and purpose of existence; and
+
+(c) the manner in which the business is conducted.
+
+FACTS
+
+[4] The basic facts are as follows:
+
+1. The Company was incorporated in Saskatchewan on September 10, 1986. It was removed from the Registry of Saskatchewan Corporations for a short period of time and was restored to the Registry on October 11, 1994.
+
+2. The Company had assets including building land and equipment. In November, 1985 the Appellant purchased a property described as 2633-1st Avenue East, Prince Albert, Saskatchewan (the "Property") for $52,000. The Property was the Appellant's principal residence until 1990. From 1990 to 1996 the Property was sporadically rented.
+
+3. In November, 1996 the ownership of the Property was transferred by the Appellant to the Company for a deemed value of $90,000. In August, 1997 and November, 1997 the Company entered into agreements with a Mr. Peel ("Peel") the effect of which was to grant Peel an option to acquire the Property. Peel could not raise the necessary monies. Over a period of time Peel, although not being able to come up with the monies, was permitted to keep possession of the Property on the basis of paying $700 per month. The Minister of National Revenue takes the position that the Company was, because of the rent received, carrying on a specified investment business. The Appellant takes the position that the principal purpose of entering into the arrangement with Peel was the ultimate sale to him and the receipt of rent was a subordinate activity.
+
+4. The Appellant was well educated in the fields of surveying, architecture, and possessed other construction and planning skills, including abilities to obtain zoning changes and necessary licenses. The Company's main thrust from an activity point of view was to build various buildings including a senior citizens' residence and a condominium project. For various reasons, mainly a lack of financing, these projects did not proceed.
+
+5. The Property was repossessed from Peel and was sold for $83,000 on or about July 9, 1999 whereupon any activities of the Company ceased. The Respondent acknowledges that the Company is a Canadian-controlled private corporation, that the Appellant was a shareholder, director and president of the Company and that the Company did not employ in the relevant years more than five full-time employees. From 1986 to 1988 the Appellant advanced a total of $95,500 (the "advances") to the Company. The Minister contends that most of the advances were not used for earning business income and the Minister contends further that the Company claimed travel and vehicle expenses between 1994 and 1999 that were personal expenses of the Appellant. The Appellant denies both of these assertions as well as the assertion that the telephone utilities, computer and internet costs claimed by the Company were also personal and living expenses. The bottom line of the Minister's position is that the advances were not used for the purpose of earning income from an active business.
+
+6. The Appellant claimed certain ABILs in respect of the Company.
+
+7. The Minister contends that any purported appeals with respect to the 1996 and 1999 taxation years are not properly before this Court because the Appellant did not file valid Notices of Objection for those years as required by section 169 of the Act. The Appellant requests the Court to examine these years as well as 1997 and 1998 by reason of section 26 of the Tax Court of Canada Rules - General Procedure, which provides as follows:
+
+26. Where two or more proceedings are pending in the Court and
+
+(a) they have in common a question of law or fact or mixed law and fact arising out of one and the same transaction or occurrence or series of transactions or occurrences, or
+
+(b) for any other reason, a direction ought to be made under this section,
+
+the Court may direct that,
+
+(c) the proceedings be consolidated or heard at the same time or one immediately after the other, or
+
+(d) any of the proceedings be stayed until the determination of any other of them.
+
+8. The business investment losses claimed with respect to the Company in 1997 and 1998 were $31,500 and $34,000 respectively. The allowable business investment losses would be 3/4 of these amounts, namely $23,625 and $25,500.
+
+9. There is some confusion as to whether the advances totalling $95,500 are related to the ABILs claimed in 1997 and 1998. In this connection the Notification of Confirmation by the Minister dated January 2, 2001 reads as follows:
+
+NOTIFICATION OF CONFIRMATION BY THE MINISTER
+
+Your Notice of Objection to the income tax reassessments for the 1997 and 1998 taxation years has been carefully reviewed under subsection 165(3) of the Income Tax Act.
+
+The Minister of National Revenue has considered the reasons set out in your objection and all the relevant facts. It is hereby confirmed that the reassessments have been made in accordance with the provisions of the Income Tax Act on the basis that:
+
+the amount of $95,500 loaned by you to Fautley Towers Ltd. was not a business investment loss within the meaning of paragraph 39(1)(c) of the Act; accordingly the amounts of $23,625 you claimed as a deduction from income in 1997 and the $25,500 you claimed as a deduction from income in 1998 were not allowable business investment losses within the meaning of paragraph 38(c) of the Act deductible in computing your income under the provisions of paragraph 3(d).
+
+you have not shown that the amounts of $31,500 in 1997 and $34,000 in 1998 were debts owing to you by Fautley Towers Ltd. that became bad debts in the years under paragraph 50(1)(a); accordingly, you did not have business investment losses under subparagraph 39(1)(c)(i).
+
+you have not shown that Fautley Towers Ltd. is a small business corporation within the meaning of subsection 248(1) of the Act; accordingly the debt in the amount of $95,500 owing to you by Fautley Towers Ltd. is not a debt owing to you by a small business corporation under clause 39(1)(c)(iv)(A) of the Act.
+
+you have not shown that the business carried on by Fautley Towers Ltd. is not a specified investment business within the meaning of subsection 125(7) of the Act; accordingly the debt in the amount of $95,500 owing to you by Fautley Towers Ltd. is not a debt owing to you by a small business corporation under clause 39(1)(c)(iv)(A) of the Act.
+
+Moreover the pleadings do not clarify the matter.
+
+ANALYSIS AND DECISION
+
+[5] I have concluded that the years 1996 and 1999 are not properly before this Court as there were no notices of objection and in my opinion Rule 26 is not applicable.
+
+[6] The main issue is whether the Company in 1997 and 1998 was carrying on an active business and was not a specified investment business. The Appellant contends that it was not the intention of the Company to derive rent from the Property during the years in question, that its whole focus was to develop the Property, that he contributed greatly to the endeavours of the Company with his background and knowledge of surveying, etc. and that the activities of the Company in preparing plans and obtaining approvals from municipalities and other authorities and dealing with architects and others constituted the carrying on of an active business. The Minister contends that there was no active business and moreover that the earning of rents from the Property is an indicator that the Company was operating a specified investment business. The Appellant, as mentioned, contends that the rent receipts were merely part of the deal with Peel and the main thrust of that agreement was to sell the Property and moreover that the overall activities of the Company were to develop properties and not to hold same for rental. Even paragraph 8k) of the Reply states "the Company's activity was to buy and sell the Property".
+
+[7] I found the Appellant to be credible and I am prepared to accept his version of the facts. I find therefore that the Company was carrying on an active business in 1997 and 1998 and was not, in those years, a specified investment business nor a personal services business. I also find, based on the evidence of the Appellant and the exhibits, that the various travel and other expenses claimed were legitimate expenses of the Company and were not personal expenditures of the Appellant. Consequently the appeal is allowed and the ABILs claimed by the Appellant in 1997 and 1998 are accepted. There shall be no costs.
+
+Signed at Ottawa, Canada, this 24th day of April, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-742(IT)I
+
+STYLE OF CAUSE: Raymond A. Fautley v. The Queen
+
+PLACE OF HEARING: Regina, Saskatchewan
+
+DATE OF HEARING: January 22, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Terrence O'Connor
+
+DATE OF JUDGMENT: April 24, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Tracey Harwood-Jones and
+
+Crystal McLeod, (Student-at-law)
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-742(IT)I
+
+BETWEEN:
+
+RAYMOND A. FAUTLEY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on January 22, 2002 at Regina, Saskatchewan, by
+
+the Honourable Judge Terrence O'Connor
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Tracey Harwood-Jones
+
+Crystal McLeod, (Student-at-law)
+
+JUDGMENT
+
+The appeals from the reassessments made under the Income Tax Act for the 1997 and 1998 taxation years are allowed, without costs, and the matters are referred to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 24th day of April, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+

@@ -1,0 +1,88 @@
+Date: 19980116
+
+Docket: 97-443-IT-I
+
+BETWEEN:
+
+STEPHEN D. ROGERS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.T.C.C.
+
+[1] The Appellant lost his job in 1994. He realized that his best course to secure employment was to take a course to upgrade his skills, and so he enrolled as a student in a course given by Memorex Telex Inc. (Memorex), to become a Novell Certified Netware Engineer. Before doing so, however, he consulted Kim Knox, an employment counsellor at his Canada Employment Centre, which is part of Human Resources Development Canada (HRDC). He did this for two reasons. First, he wanted HRDC to contribute to the fees for his course; second, he wanted to be sure that his portion of the fees would qualify for the credits under sections 118.5 and 118.6 of the Income Tax Act (the Act). She agreed that HRDC would pay half of the fees, and she assured him that the portion to be paid by him would be eligible for credits under the Act. In due course, he filed his return for 1994, claiming both credits. He has since been reassessed to deny him the credits claimed, and he now appeals against that reassessment.
+
+[2] The relevant parts of sections 118.5 and 118.6 read as follows:
+
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+
+(a) where the individual was during the year a student enrolled at an educational institution in Canada that is
+
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+
+(ii) certified by the Minister of Employment and Immigration to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person's skills in, an occupation,
+
+an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the educational institution if the total of those fees exceeds $100, except to the extent that those fees
+
+...
+
+118.6(1) For the purposes of this subdivision, “designated educational institution” means
+
+(a) an educational institution in Canada that is
+
+...
+
+(ii) certified by the Minister of Employment and Immigration to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person's skills in, an occupation,
+
+...
+
+(2) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+
+...
+
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition “designated educational institution” in subsection (1), the student is enrolled in the program to obtain skills for, or improve the student's skills in, an occupation.
+
+[3] There is no dispute about the facts. The Minister accepts that the Appellant enrolled in the course to improve his skills, that he paid fees in the amount of $3,328.51 over and above the portion paid by HRDC, and that he attended and completed the course between September 5, 1994 and January 27, 1995. It is not disputed, either, that Ms. Knox gave him the advice to which I have referred above, and that he relied upon it when he decided to enroll at Memorex.
+
+[4] The Minister’s disallowance is based on two reasons. First, it is said that Memorex is not an educational institution that is certified by the Minister of Human Resources Development.
+
+[5] The second reason is found in the only assumption pleaded in the Respondent’s Reply to the Notice of Appeal:
+
+6.(a) for the 1994 taxation year, the Appellant failed to provide an official tax receipt or a form T2202A issued by the educational institution to attest to the amount of tuition fees paid.
+
+[6] There is no doubt that Memorex furnishes its students with skills for an occupation. That is demonstrated by the fact that the Appellant was able to secure an excellent position as a Novell Network Engineer upon completion of the course. Exhibit A-1 at the trial includes a receipt from Memorex for the amount claimed by him, but it is not on the Minister’s form T2202A, only because Memorex did not have a supply of these forms. The dates of the Appellant’s attendance are established by a letter from Ms. Knox.
+
+[7] It appears that there is no published list of the educational institutions which are certified by the Minister of Human Resources Development. Absent such a list, the Appellant did the sensible thing; he asked an officer of that Minister’s Department, and he relied on the advice that she gave him. As matters turned out, he relied on it to his detriment.
+
+[8] In these circumstances, the Crown is estopped from denying that Memorex is a certified institution. It is trite that no estoppel can override the law, and that the Minister is not bound to misapply the law simply because officials have given incorrect advice.[1] But estoppel in pais has always applied against the Crown in a proper case.[2] The classic statement of the requirements to raise an estoppel in pais is found in the judgment of the House of Lords in Greenwood v. Martins Bank,[3] and was adopted by the Supreme Court of Canada in Canadian Superior Oil v. Hambly.[4] There must be a representation of fact which was intended to induce the party asserting estoppel to act in a particular way, and that party must have acted upon it, to his subsequent detriment. In this case a Minister of the Crown, through the employment counsellor, represented that the institution was one for which the credits under the Act would be given. The Appellant was intended to, and did, act on this representation. It is a representation as to a matter of fact, because all that was in doubt when the Appellant asked Ms. Knox about the income tax treatment of his portion of the fees was whether or not Memorex was an institution which had been certified. The advice given by Ms. Knox amounted to a statement that her Minister had certified Memorex to be an institution of the kind described in subparagraphs 118.5(1)(a)(ii) and 118.6(1)(a)(ii) of the Act. Vital though it is to the operation of the statute, the certification itself is a matter of fact, not of law. But for this representation, the Appellant would have chosen another institution which was certified. His detriment, of course, lies in the reassessment from which this appeal is brought.
+
+[9] The Minister’s reassessment, and the confirmation of it, were based on his assertion that Memorex was not a certified educational institution. Before the Court, the emphasis shifted to the absence of a receipt in prescribed form.[5] The Appellant testified that he was unable to obtain this receipt, and he provided the only receipt that the institution had given him. I am aware that the Federal Court of Appeal has recently held that the failure to file a prescribed form was a fatal omission.[6] In that case, the purpose of the prescribed form was to record an election made by the taxpayer under subsection 26(7) of the Income Tax Application Rules. In the present case, the only purpose of the form is to prove matters which are not in dispute. In these circumstances, where the Appellant has tried unsuccessfully to obtain the receipt in prescribed form, its absence cannot be considered fatal to his otherwise undisputed right to the credit.
+
+[10] The appeal is allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to the credits under sections 118.5 and 118.6 of the Act as claimed.
+
+Signed at Ottawa, Canada, this 16th day of January, 1998.
+
+"E.A Bowie"
+
+J.T.C.C.
+
+[1] M.N.R. v. Inland Industries, [1972] C.T.C. 27 at 31.
+
+[2] Robertson v. Minister of Pensions, [1949] 1 K.B. 227; Queen Victoria Niagara Falls Park Commissioners v. International Railway Co., (1928) 63 O.L.A. 49, per Grant J.A at 68.
+
+[3] [1933] A.C. 51.
+
+[4] [1970] S.C.R. 932 at 939-40.
+
+[5] The prescribed form of receipt is referred to in section 118.6, but not in section 118.5.
+
+[6] Adelman v. The Queen, unreported decision dated November 5, 1997 (File # A-517-93).
+

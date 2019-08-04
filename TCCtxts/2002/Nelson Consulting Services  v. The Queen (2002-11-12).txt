@@ -1,0 +1,132 @@
+Date: 20021112
+
+Docket: 2002-201-GST-I
+
+BETWEEN:
+
+NELSON CONSULTING SERVICES LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.
+
+[1] This appeal is from an assessment under Part IX of the Excise Tax Act (the Act) for harmonized sales tax (HST). The Appellant is a small family business built up over a period of about twenty years by Mr. and Mrs. Blinn of Lunenburg, Nova Scotia. In April 2000 they found themselves confronted with an assessment for outstanding HST in the amount of $70,500, to which were added interest and penalties to make a debt in excess of $75,000. It is no exaggeration to say that what was a modestly successful retirement business has been turned into a nightmare for them. Much, although certainly not all, of their problem arises from a little-publicized amendment to an obscure definition in one of the many schedules that form part of the Act, which is the statute that imposes the HST in Atlantic Canada and the GST in the rest of the country.
+
+[2] The facts are not in dispute. Mr. Blinn retired in about 1980 from a position in which he had gained knowledge and experience relating to the application of information systems. He began a small consulting business in the field. In time it developed into the areas of sales and service of computer hardware and software, and later still into teaching computer skills. It is important, and not disputed by the Appellant, that teaching was neither the original purpose for which the Appellant company was founded, nor did it ever become its principal activity. Most of the students who enrolled for courses were there by virtue of a retraining program established and financed by the department of the federal government known as Human Resources Development Canada. Their tuition was paid for by that department, either directly to the school, or indirectly by reimbursing the students for the amounts that they paid to the school. It is also important, and not disputed, that the school was careful to ensure that at all times it remained qualified as an institution approved by the Minister of Human Resources Development for the purposes of the tax credit afforded to students by section 118.5 of the Income Tax Act.
+
+[3] At this point I must refer to the applicable provisions of the Act which govern the incidence of GST and HST on tuition fees. Section 165 provides for the imposition of tax on commercial transactions; that is the general rule. Many goods and services are made exempt from this general rule, however. It is well known that most tuition falls into the exempt category of services. This is found in Schedule V, part III section 8, which reads:
+
+A supply, other than a zero-rated supply, made by a school authority, vocational school, public college or university of a service of instructing individuals in, or administering examinations in respect of, courses leading to certificates, diplomas, licences or similar documents, or classes or ratings in respect of licences, that attest to the competence of individuals to practise or perform a trade or vocation where
+
+(a) the document, class or rating is prescribed by federal or provincial regulation;
+
+(b) the supplier is governed by federal or provincial legislation respecting vocational schools; or
+
+(c) the supplier is a non-profit organization or a charity.
+
+This exemption must be read in conjunction with the definition of the expression "vocational school" which appears in section 1, Schedule V part III. As it was originally enacted that definition read:
+
+"vocational school' means an organization that is established and operated primarily to provide students with
+
+(a) correspondence courses, or
+
+(b) instruction in courses
+
+that develop or enhance students' occupational skills and includes an educational institution that is certified by the Minister of Employment and Immigration for the purposes of subsection 118.5(1) of the Income Tax Act.
+
+It remained in that form until it was amended by S.C. 1997, c. 10 s. 97 to delete the words "... and includes an educational institution that is certified by the Minister of Employment and Immigration for the purposes of subsection 118.5(1) of the Income Tax Act". Although the amending statute did not receive royal assent until March 20, 1997, and was not published in Part III of the Canada Gazette until May 9, 1997, it was made applicable to supplies made after 1996. Beginning in January 1997, therefore, the Appellant no longer qualified as a "vocational school", and so HST became exigible on the tuition that it provided.
+
+[4] Mrs. Blinn acted as the administrator of the school at the relevant time. She testified that she inquired frequently, in fact at the beginning of each course, through the telephone inquiry line of Revenue Canada (or more recently the Canada Customs and Revenue Agency) whether the school should be collecting HST along with its tuition fees; unfailingly the answer was "no". An audit was conducted by Revenue Canada in 1995, and of course, no issue arose with respect to GST (as it then was), as the Appellant at that time qualified as a vocational school by reason of its certification by the Minister of Human Resources Development. Not until another audit was carried out in 2000 did Mr. and Mrs. Blinn learn that they should have begun to collect and remit HST at the beginning of 1997. By this time the Appellant's liability arising out of uncollected HST in respect of tuition fees amounted to $24,417.40. Penalties and interest were initially assessed along with the uncollected tax; these have since been waived by the Respondent, and so are not in issue now. Nor are the other aspects of the assessment contested.
+
+[5] Mr. and Mrs. Blinn, understandably, feel that they did everything that they could to comply with the law. This case certainly demonstrates the danger inherent in operating even a modest business in this country without the benefit of ongoing professional advice. I have no doubt that the Blinns had every intention of complying with the Act, and felt that they were being careful to do so. Unfortunately, their frequent inquiries of Revenue Canada are to no avail; I am bound by the decision of the Supreme Court of Canada in Inland Industries,[1] which held that having relied upon bad advice from agents of the Minister cannot relieve a taxpayer from the application of the law. There is no ambiguity in the legislation; HST was exigible, and the Appellant failed to collect and remit it. The appeal must be dismissed.
+
+[6] The Minister has already recognized that this is a case of peculiar hardship; in May 2000, he exercised his power under section 281.1 of the Act to waive the penalties and interest pertaining to the tax on the tuition fees. Considering that the Blinns sought advice from Revenue Canada's officials, and that 34 of the 39 students whose fees give rise to the uncollected tax were attending the school at the expense of the Government of Canada, I would suggest that this is a case in which the Minister should consider recommending to the Governor-in-Council that the HST on the fees, or at least that proportion of it that is attributable to fees paid by the government of Canada, should be remitted under section 23 of the Financial Administration Act. Section 224 of the Excise Tax Act[2] entitles a supplier, in some circumstances, to bring an action for tax that it has failed to collect, but it is doubtful that the Appellant in this case could meet the preconditions in that section. Even if it could, it should not have to sue the government to recover tax that it should have collected from that government for the purpose of remitting it to the same government. It is not entirely irrelevant that if the Appellant had collected the tax along with the tuition fees then to the extent that they were paid by a department of the federal government that tax would have been remitted, for the benefit of that department's operating budget, by the operation of the GST Federal Government Departments Remission Order, P.C. 1990-2854 which reads as follows:
+
+His Excellency the Governor General in Council, considering that it is in the public interest to do so, on the recommendation of the Treasury Board, pursuant to section 23 of the Financial Administration Act, is pleased hereby to remit the tax that is paid or payable by a department under Part IX of the Excise Tax Act.
+
+Signed at Ottawa, Canada, this 12th day of November, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2002-201(GST)I
+
+STYLE OF CAUSE: Nelson Consulting Services Limited and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Halifax, Nova Scotia
+
+DATE OF HEARING: October 31, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: November 12, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Thelma Blinn
+
+Counsel for the Respondent: Christa Mackinnon
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2002-201(GST)I
+
+BETWEEN:
+
+NELSON CONSULTING SERVICES LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 31, 2002, at Halifax, Nova Scotia, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Agent for the Appellant: Thelma Blinn
+
+Counsel for the Respondent: Christa Mackinnon
+
+JUDGMENT
+
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 1, 2000, and bears number 01CB0304852, for the period from June 1, 1997 to August 31, 1999 is dismissed.
+
+Signed at Ottawa, Canada, this 12th day of November, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] M.N.R. v. Inland Industries Ltd., 72 DTC 6013 at 6017.
+
+[2] 224 Where a supplier has made a taxable supply to a recipient, is required under this Part to collect tax from the recipient in respect of the supply, has complied with subsection 223(1) in respect of the supply and has accounted for or remitted the tax payable by the recipient in respect of the supply to the Receiver General but has not collected the tax from the recipient, the supplier may bring an action in a court of competent jurisdiction to recover the tax from the recipient as though it were a debt due by the recipient to the supplier.
+

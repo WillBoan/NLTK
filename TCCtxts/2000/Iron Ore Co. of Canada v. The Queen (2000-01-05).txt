@@ -1,0 +1,168 @@
+Date: 20000105
+
+Docket: 98-1517-IT-G
+
+BETWEEN:
+
+IRON ORE COMPANY OF CANADA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal concerning the Appellant's 1994 taxation year. The question at issue is whether a refund of sales tax should be included in the calculation of the Appellant's income in the year of the refund or in the years where the taxes were erroneously paid. The provision of the Income Tax Act (the "Act") that is particularly of application is subparagraph 12(1)(x)(iv).
+
+[2] The facts and the parties' submissions are described in the Agreed Statement of Facts that was produced before the hearing. It reads as follows:
+
+1. The parties agree that the issue to be decided is whether the Minister of National Revenue (hereinafter the "Minister") erred in including the refunded provincial sales tax in the amount of $950,000.00 in the computation of Appellant's income for its 1994 taxation year.
+
+2. Appellant is a corporation formed and existing under the laws of the United States of America. At all relevant times, Appellant's business was the mining of iron ore in Canada.
+
+3. On 31 March 1982, the Deputy Minister of Revenue of Quebec (hereinafter "Revenue Quebec") issued two (2) notices of assessment which determined the taxes allegedly payable by the Appellant pursuant to the Retail Sales Tax Act, R.S.Q. 1977 and c. I-1 (hereinafter "R.S.T.A.") for the period extending from 1 April 1978 to 30 September 1981.
+
+4. On 19 April 1984, Appellant filed a Motion for Appeal in the Quebec Provincial Court alleging, inter alia, the ultra vires nature of the Regulation, the whole as more fully appears from copy of the Motion for Appeal dated 19 April 1984 attached hereto under tab 1.
+
+5. On 10 October 1986, Appellant filed a Motion for Appeal in the Quebec Provincial Court contesting a reassessment issued by Revenue Quebec pursuant to the R.S.T.A. for the period extending from 1 October 1981 to 31 May 1985 on the same grounds as those alleged in the Motion for Appeal attached under tab 1, the whole as more fully appears from copy of the Motion for Appeal dated 10 October 1986 attached hereto under tab 2.
+
+6. The parties agreed to stay the appeal referred to in paragraph 5, supra, until the resolution of the appeal referred to in paragraph 4, supra.
+
+7. The trial Judge of the Provincial Court delivered a judgment on 21 August 1987 on the appeal referred to in paragraph 4, supra, whereby he held, inter alia, that the exclusion of all "rolling stock" as defined in the Regulation from the expression "production equipment" was not authorised by the power to "define" that expression, and therefore the Regulation was, ultra vires, of the power of the Government by section 31 of the R.S.T.A., the whole as more fully appears from the decision of the Provincial Court attached hereto under tab 3.
+
+8. On 4 September 1987, Revenue Quebec appealed the judgment of the Provincial Court to the Quebec Court of Appeal.
+
+9. On 19 May 1988, 22 May 1988 and 21 March 1989, Revenue Quebec, the Attorney General of Quebec and Appellant respectively filed their factums before the Quebec Court of Appeal.
+
+10. On 6 April 1989, the Government of Quebec enacted An Act to amend the Taxation Act and other legislation and to make certain provisions respecting Retail Sales Tax, L.Q. 1989, chap. 5 (hereinafter "Bill 60"), to, inter alia, retroactively impose Quebec retail sales tax on rolling stock and the said legislation was stated to apply to cases pending before the Courts, as more fully appears from copy of sections 9 to 18 of Bill 60 attached hereto under tab 4.
+
+11. Bill 60 also stated that the Courts could not grant costs to any party which would contest the retroactive application of Bill 60, as more fully appears from copy of sections 266 to 272 of Bill 60 attached hereto under tab 5.
+
+12. As the parties had filed their factums before the Quebec Court of Appeal before Bill 60 was enacted, the parties filed additional factums relating to the application of the retroactive legislation to the pending appeal and the Appellants alleged in their additional factum, inter alia, that Bill 60 was unconstitutional.
+
+13. On 19 October 1993, the parties executed a Declaration of settlement out of court (hereinafter the "Settlement"), which was ratified by the Quebec Court of Appeal on 25 October 1993, the whole as more fully appears from the Settlement and the judgment of the Quebec Court of Appeal attached en liasse hereto under tab 6.
+
+14. Pursuant to the terms and conditions of the Settlement, Appellant received during the 1994 calendar year five (5) monthly payments totalling $4,416,666.66 from Revenue Quebec.
+
+15. This amount consisted of the following:
+
+(a) refunded provincial sales tax paid in error by Appellant during the period extending from 1 April 1978 to 31 May 1985 in the amount of $950,000.00; and
+
+(b) accrued interest in the amount of $3,466,666.66.
+
+16. For its 31 December 1994 taxation year, Appellant included the accrued interest in the amount of $3,466,666.66 in computing its income.
+
+17. By way of reassessment dated 20 August 1996, the Minister reassessed Appellant's 1994 taxation year by, inter alia, adding to Appellant's income the refunded provincial sales tax in the amount of $950,000.00 and in so doing, assessed Appellant for arrears interest and "refund interest" previously paid, the whole as more fully appears from copy of the reassessment dated 20 August 1996 attached hereto under tab 7.
+
+18. By notice of reassessment dated 23 May 1997, the Minister reassessed Appellant for its 1994 taxation year in order to make some adjustments not related to the question at issue and in so doing, maintained the taxation of the amount of $950,000.00, the whole as more fully appears from copy of the reassessment attached hereto under tab 8.
+
+19. The Minister relies on subparagraph 12(1)(x)(iv) of the Income Tax Act, R.S.C. 1985 (5th supp.) c. 1, as amended, to include the refunded provincial sales tax in the computation of Appellant's income for its 1994 taxation year, while Appellant maintains that such amount should not come within the meaning of the said paragraph and was taxable during the years when the respective deductions were claimed, in accordance with the decision of the Federal Court of Appeal in The Queen v. Johnson & Johnson Inc., 94 DTC 6125.
+
+[3] Paragraph 12(1)(x) of the Act reads as follows:
+
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+
+...
+
+(x) any particular amount (other than a prescribed amount) received by the taxpayer in the year, in the course of earning income from a business or property, from
+
+(i) a person (in this paragraph referred to as “the payer”) who pays the particular amount in the course of earning income from a business or property or in order to achieve a benefit or advantage for the payer or for persons with whom the payer does not deal at arm's length, or
+
+(ii) a government, municipality or other public authority
+
+where the particular amount can reasonably be considered to have been received
+
+(iii) as an inducement, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of inducement, or
+
+(iv) as a refund, reimbursement, contribution or allowance or as assistance, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of assistance, in respect of
+
+(A) an amount included in, or deducted as, the cost of property, or
+
+(B) an outlay or expense,
+
+to the extent that the amount
+
+(v) was not otherwise included in computing the taxpayer's income, or deducted in computing, for the purposes of this Act, any balance of undeducted outlays, expenses or other amounts, for the year or a preceding taxation year,
+
+(vi) except as provided by subsection 127(11.1), does not reduce, for the purposes of this Act, the cost or capital cost of the property or the amount of the outlay or expense, as the case may be,
+
+(vii) does not reduce, under subsection (2.2) or 13(7.4) or paragraph 53(2)(s), the cost or capital cost of the property or the amount of the outlay or expense, as the case may be, and
+
+(viii) may not reasonably be considered to be a payment made in respect of the acquisition by the payer or the public authority of an interest in the taxpayer, his business or his property;
+
+(Emphasis added)
+
+[4] Counsel for the Appellant had argued the case of Bois Aisé de Roberval Inc. c. La Reine, 99 DTC 380, where this Court decided that the amount of export taxes which had been refunded to the taxpayer in 1993 should have been included in the year of refund and not in the years where the taxes were erroneously paid, pursuant to subparagraph 12(1)(x)(iv) of the Act. That decision was not appealed.
+
+[5] In paragraphs 29, 30 and 31 of this decision, McArthur J. stated as follows:
+
+Moreover, the language used in paragraph 12(1)(x) of the Act provides for two types of payments: inducements and refunds. Subparagraph 12(1)(x)(iii) of the Act provides for inducements. This is where there is a positive element. In subparagraph 12(1)(x)(iv) of the Act, Parliament lists amounts that relate to refunds. The nature of this provision is thus neutral. For convenience I reproduce the relevant provision:
+
+(iv) as a refund, reimbursement, contribution or allowance or as assistance, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of assistance, in respect of
+
+(A) an amount included in, or deducted as, the cost of property, or
+
+(B) an outlay or expense,
+
+This provision refers to precisely the situation in which there was an outlay or expense and a refund was subsequently made. The effect is neutral, as it merely restores the party to the situation it was in prior to any amount having been paid. As well, we see from the expression "or any other form of assistance" that Parliament did not intend to create an exhaustive list.
+
+Lastly, Professor Côté noted the danger in the noscitur a sociis rule. At page 242 of his text, he wrote:
+
+Concerning the rule noscitur a sociis, Mr. Justice Anglin [referring to A.G. for B.C. v. The King] wrote [at page 638]:
+
+"Without belittling the rule of construction invoked on behalf of the respondent - noscitur a sociis - care must always be taken that its application does not defeat the true intention of the legislature."
+
+(Emphasis added)
+
+[6] Counsel for the Appellant submitted that the Bois-Aisé decision was the first one of this Court to conclude that the rule noscitur a sociis did not apply to the terms used in subparagraph 12(1)(x)iv) of the Act. In other decisions of this Court, it had been found that the term "reimbursement" was to be interpreted in the context of this provision, a provision concerning amounts received and qualified as any other form of assistance. The other decisions to which counsel for the Appellant referred are Canada Safeway Limited v. The Queen, 97 DTC 187, confirmed by the Federal Court of Appeal: 98 DTC 6060, and Hill v. The Queen, 94 DTC 1078. Counsel for the Appellant submitted that I could follow these other decisions rather than the one of this Court in Bois Aisé.
+
+[7] Counsel for the Respondent submitted that the words "as a refund, reimbursement, contribution, or allowance or as assistance" found in subparagraph 12(1)(x)(iv) of the Act were to be taken distinctively and each be given their entire meaning without being associated and narrowed to the meaning of payments of assistance.
+
+[8] At paragraph 4 of these Reasons, I quoted an excerpt of the Bois-Aisé decision. The judgment was rendered in French and the French version of subparagraph 12(1)(x)(iv) differs slightly from the English version cited at paragraph 3 of these Reasons. The French version of 12(1)(x)(iv) of the Act reads as follows:
+
+(iv) soit à titre de remboursement, de contribution ou d'indemnité ou à titre d'aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme, à l'égard, selon le cas :
+
+(A) d'une somme incluse dans le coût d'un bien ou déduite au titre de ce coût,
+
+(B) d'une dépense engagée ou effectuée,
+
+(Emphasis added)
+
+[9] The relevant extract from the Bois-Aisé decision rendered in French is as follows:
+
+Cette disposition prévoit précisément la situation où une dépense a été engagée ou effectuée et qu'un remboursement a eu lieu subséquemment. L'effet est neutre puisqu'il ne fait que remettre la partie dans l'état où elle se trouvait avant le paiement de quelque somme que ce soit. De même, par l'expression “ou sous toute autre forme”, le législateur n'a pas voulu créer une liste exhaustive.
+
+(Emphasis added)
+
+[10] We see that the last part refers only to "sous toute autre forme", which has a broader meaning than "on any other form of assistance".
+
+[11] As a few other judges who have interpreted this provision, I would say that it is a provision that is not without ambiguity. I would have been inclined to find that the meaning of the terms "form of assistance" being a meaning common to both versions was to be the applicable meaning in accordance with the rule of interpretation of official bilingual statutes. I would also have been inclined to interpret the terms of the said provision in its context in using the rule noscitur a sociis. However, a reading of the decision of the Federal Court of Appeal in Canada Safeway (supra) brings me to believe that it has been essentially decided on the distinction to be brought in the English language between a reimbursement and a refund and not on the noscitur a sociis rule, although that rule was the basis of that decision in our Court. I therefore find it indicative that in the Federal Court of Appeal's view, that rule may not have been of application.
+
+[12] The decision of the Federal Court of Appeal in Canada Safeway, which confirmed a distinction in the English legal language between a reimbursement and a refund, was rendered on November 26, 1997. Subparagraph 12(1)(x)(iv) of the Act was amended in 1998 to include in the English version the word refund to be applicable to amounts received after 1990. This amendment was an important element of the decision of our Court in Bois-Aisé. Another one, as previously mentioned, was that the noscitur a sociis rule did not apply.
+
+[13] For the above reasons, it is my view that the decision of our Court in Bois-Aisé followed the decision of the Federal Court of Appeal in Canada Safeway and therefore should also be followed by me according to the rule of the stare decisis.
+
+[14] If I had found that the refund in question was not within the meaning of subparagraph 12(1)(x)(iv) of the Act, counsel for the Appellant had submitted that the refund should have been included in the years when the payment of taxes had been erroneously made according to the decision of the Federal Court of Appeal in The Queen v. Johnson & Johnson Inc., 94 DTC 6125.
+
+[15] In Canada Safeway (supra) the Federal Court of Appeal, having found that the receipt in question was not a reimbursement but a refund, followed the Johnson & Johnson decision. In that decision, the Federal Court of Appeal had determined that refunds of Federal Sales Taxes were receipts of an income nature. However, it also determined that these receipts should be included in the calculation of income in the years where the amounts were erroneously paid. I quote at page 6130:
+
+In short, it is my view that the refund of taxes, which have been charged as expenses in the year of payment but which should never have been paid at all, must be brought into the computation of income for the years in which they were paid and charged.
+
+[16] That case was not decided on subparagraph 12(1)(x) of the Act since the refunds were made in 1982 or 1983. Subparagraph 12(1)(x) of the Act came into existence in 1986 and was applicable to amounts received after May 22, 1985.
+
+[17] Even if hypothetically, the refunds were not within the meaning of subparagraph 12(1)(x)(iv) of the Act, as submitted by counsel for the Appellant, I have the greatest doubt that they should be included in the taxation years where the payments were made erroneously. It seems to me that the recent decisions of the Supreme Court of Canada in Ikea Ltd. v. Canada [1998] 1 S.C.R. 196 and Canderel [1998] 1 S.C.R. 147 have modified that part of the decision having to do with the timing of the inclusion of refunds or reimbursements in the calculation of income. The Ikea and Canderel decisions are to the effect that the calculation of income for a taxation year shall reflect the true picture of the taxpayer's income for that taxation year. It would thus appear that refunds or reimbursements would have in any event be taken into account in the year in which this amount is ascertained. Paragraph 12(1)(x) of the Act requires these amounts to be included in the year where they are received.
+
+[18] The appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 5th day of January 2000.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+

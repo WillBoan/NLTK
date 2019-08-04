@@ -1,0 +1,252 @@
+Date: 19990305
+
+Docket: 96-4343-IT-G
+
+BETWEEN:
+
+COM DEV LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Hamlyn, J.T.C.C.
+
+[1] The Appellant, Com Dev Ltd. ("Com Dev") is a Canadian controlled private corporation and is involved in the manufacturing of components for spacecraft. The design and manufacture of the components involved extensive research and development activities. The parties agree that the Appellant incurred expenditures that qualify as scientific research and experimental development ("SRED") within the meaning of section 37 of the Income Tax Act (the "Act"). The parties also agree that these expenditures are "qualified expenditures" within the meaning of subsection 127(9) of the Act.[1] Com Dev claimed investment tax credits ("ITCs") on the qualified expenditures.
+
+[2] These appeals are under the General Procedure and concern the Appellant's 1989, 1990, 1991 and 1992 taxation years. The Minister of National Revenue (the "Minister") reassessed Com Dev for the taxation years in question by concurrent Notices of Reassessment dated December 16, 1994. In reassessing Com Dev, the Minister denied the ITCs that were claimed by the Appellant.
+
+FACTS
+
+[3] At the beginning of trial, the parties filed a Partial Agreed Statement of Facts. The relevant agreed upon facts are as follows:
+
+3. At all relevant times, the Appellant was a corporation duly incorporated under the laws of Canada and was a Canadian-controlled private corporation within the meaning of the Income Tax Act (Canada) (the "Act").
+
+4. The Appellant carries on active business as a designer and manufacturer of satellite components.
+
+5. Spar Aerospace Limited ("Spar") was awarded a contract by the Canadian government to design and manufacture a satellite ("Radarsat") which was scheduled to be launched in 1994. The contract between the two parties was signed on January 26, 1990.
+
+...
+
+6. Spar issued a Request for Proposal to various subcontractors in respect of the design and manufacture of the calibration system, receiver system, the low power transmitter and the phase shifters for the spacecraft (collectively the "Components").
+
+...
+
+7. In 1989, the Appellant was selected as the subcontractor for the design and manufacture of the components subject to the conditions indicated in a letter of intent and the contract with Spar dated July 6, 1990 the "Spar-Com Dev Contract".
+
+...
+
+8. The Spar-Com Dev Contract was amended 6 times in writing. There were no other written amendments to that contract.
+
+...
+
+9. The Appellant delivered the last components required under the contract in September 1994.
+
+10. In total, the Appellant had received a total amount of $28,350,000 (collectively the Spar Payments) arising from the Spar-Com Dev Contract.
+
+EVIDENCE AT TRIAL
+
+[4] The Appellant called four witnesses. Those witnesses gave their evidence in a straightforward credible manner and through their evidence identified and commented upon the documents filed as exhibits.
+
+[5] The first witness was Ms. Anita Carol Davis, a Vice President of Com Dev, who, for the period in question, was the contract administrator for the Appellant responsible for the contract that developed between Spar Aerospace Limited ("Spar") and Com Dev.
+
+[6] She outlined the events leading to the involvement of Com Dev with Spar. Spar entered into a contract with Her Majesty The Queen ("Her Majesty") in January of 1990 to build a Radarsat Satellite to allow an enhanced monitoring of changes in the environment by way of radar images of the earth's surface. Towards this end, after preliminary proposals, Spar asked Com Dev to manufacture and deliver four components for the satellite. The contract between Spar and Com Dev was on a firm fixed price basis that provided for risk management, a performance guarantee and payment on a milestone result oriented basis. The witness distinguished this contract from one that was structured on a cost plus basis, where risk was borne by the contractor not the subcontractor, payments were not based on results and profits were protected within a cost plus structure. She further explained a cost plus contract was usually the vehicle applied in a research and development retainer as opposed to the contract before the Court being that of manufacturing and supplying a product.
+
+[7] From Com Dev's point of view what they were asked to do was to research and develop their heritage technology[2] to complete a commercial product contract. Spar bought a product with sufficient accompanying information supplied by Com Dev to use the product and to provide a historical outline to track the product from design to flight model, that is, the information that was transferred was to ensure the functionality and reliability of the components.
+
+[8] The second witness, Mr. Bill Chisholm, was the hardware programmer for Radarsat employed by Spar. This individual was directly involved with the development of the contract with Com Dev on behalf of Spar. His evidence indicated that Spar believed that Com Dev had sufficient heritage technology, intellectual property and knowledge acquired prior to the contract to allow Spar to conclude the Appellant had the capability to perform the contract in its entirety. He confirmed the relationship between Spar and Com Dev was at arm's length and at times was not always cordial as the cost controls imposed by the Government of Canada on Spar affected the relationship that Spar had with Com Dev.
+
+[9] Both witnesses described and discussed their respective focus and conduct in relation to the two contracts: the first between Her Majesty and Spar and the second between Spar and Com Dev. There was no direct contractual relationship between Her Majesty and Com Dev. The ultimate or originating funding of the project as between Her Majesty and Spar was from the Government of Canada. As between Spar and Com Dev payments on the contract came from Spar. The project was phased by Spar to Com Dev to meet Her Majesty's requirements with Spar, that is, to protect the integrity of the project against risk failure.
+
+[10] The Government of Canada in its contractual arrangement with Spar insisted that the following inclusion be in contracts between subcontractors and Spar:
+
+12.3 All Technical Information and Inventions conceived or developed or first actually reduced to practice in performing the Work under this Contract shall be the property of Her Majesty, and the Contractor shall have no rights in and to the same except as may be provided by Her Majesty. The Contractor shall not, without the express written permission of Her Majesty, divulge or use such Technical Information and Inventions, other than in performing the Work under this Contract, and shall not sell other than to SPAR under this Contract, any articles or things embodying such Technical Information and Inventions.[3]
+
+[11] Spar included the foregoing clause in its contract with Com Dev, but also included the following diminution modification clause:
+
+12.7 The information detailed in the Contractor's letter dated April 19, 1990 is considered proprietary to the Contractor or its Subcontractors as the case may be.[4]
+
+[12] The letter referred to in clause 12.7 and filed as an exhibit in this proceeding reads as follows:
+
+April 19, 1990
+
+File: 5050
+
+Ref.: JB-1578
+
+SPAR Aerospace
+
+Satellite and Communications System Division
+
+21025 Trans Canada Highway
+
+Ste. Anne de Bellevue, Quebec
+
+H9X 3R2
+
+Attention: Mr. Terry Littlewood
+
+Subcontracts Manager
+
+Subject: Letter to be referenced in Contract S-700014
+
+Article 12.7
+
+Dear Mr. Littlewood:
+
+The following Statement of Proprietary Information is to be referenced as per the above subject.
+
+Statement of Proprietary Information
+
+In accordance with the conditions of the RADARSAT Contract between SPAR Aerospace and COM DEV, S-700014, Article 12 – Intellectual Properties – this will certify that all equipments, associated Technical Information and Technical Documentation to be generated in performance of the Work and considered deliverable under the contract will utilize computer software, processes, methods, techniques and know-how in existence or residence with COM DEV prior to effective date of the Contract. Consequently, the intellectual property for any deliverable computer software, processes, methods, techniques and know-how in existence or residence within COM DEV prior to effective date of the Contract is proprietary to COM DEV and can solely be used for the purposes of the RADARSAT programme.
+
+Yours truly
+
+[signature]
+
+JOHN BERRY
+
+Contract Administrator[5]
+
+[13] The witness from Spar indicated Spar's full approval of this modification inclusion in the contract between Spar and Com Dev and indeed the witness was the one who recommended its inclusion.
+
+[14] This witness stated from his point of view what Com Dev did in the production of the components was to take the known technologies of Com Dev that were part of its internal heritage and rearrange them into the contractual product components for Spar. He stated at no time through the rearrangement process did Com Dev deliver research and development results to Spar nor were any research or development results expected.
+
+[15] The next witness was Dr. Bertram Blevis, qualified as an expert in the space industry including expertise in aerospace and telecommunications. His evidence was confined to what were normal contractual practices in the space industry and how these practices related to the activities of Com Dev. Further, his evidence was tendered to assist in the understanding of the Appellant's voluminous documentation.
+
+[16] He stated the component products provided by the Appellant under the contract were unique and had to be developed from the Appellant's technology to meet specifications not previously achieved, to interface with other equipment whose own specifications were changing and to serve applications not previously addressed and to be space qualified.
+
+[17] The witness distinguished within the industry two types of contracts, one for the sale of goods and the other for research and development.
+
+[18] The expert witness reviewed in detail several distinguishing contractual factors including firm fixed pricing, payment schedules, performance guarantees and technology protection. Dr. Blevis found in this case the components delivered and the accompanying supporting documentation supplied were consistent in the space industry with a contract for the sale of a product.
+
+[19] He further commented that the information supplied (the supporting documents) to Spar by Com Dev were not consistent with the reporting of results normally expected in a research and development contract.
+
+[20] The last witness was the Chief Financial Officer of Com Dev, Mr. David Belbeck, who advised the Court that Com Dev suffered a $4,283,000 loss on the contract. He also identified documentation that demonstrated after the expiration of the contract that Spar proposed to buy the technology from Com Dev to allow Spar to build Radarsat II, that is, to perform the precise function that Com Dev performed for Spar in Radarsat I. The witness also confirmed the Appellant's attempt to seek other means to reduce its losses by claiming compensation from the Government of Canada but was unable to do so because there was no contractual relationship between Com Dev and the Government of Canada.
+
+THE APPELLANT'S POSITION
+
+[21] Com Dev states that the Spar-Com Dev contract was for the delivery of a product, namely the components. Com Dev did not perform SRED for Spar nor did they deliver any SRED information to Spar. The Component Information that was delivered to Spar would not be sufficient for Spar or anyone retained by Spar to duplicate the components. The delivery of the Component Information is typically required by a purchaser of components in the aerospace industry and is not the delivery of SRED.
+
+[22] The Appellant further states that any clauses in the contract that appear to vest a proprietary interest in research or development to Her Majesty were modified and diminished by other clauses.
+
+[23] The contract payments made to Com Dev by Spar were not contract payments made by a Canadian government and were not amounts paid to Com Dev for SRED.
+
+[24] The Appellant concludes the amounts paid by Spar under the subcontract with Com Dev did not constitute contract payments within the meaning of subsection 127(9) of the Act and the Appellant is entitled to an ITC claim for the years in question in the full amount of the qualified expenditures without deduction.
+
+THE RESPONDENT'S POSITION
+
+[25] The Respondent pleads that with respect to the Spar-Com Dev contract, the contract speaks for itself. The Respondent also asserts that under the Spar-Com Dev contract, the Appellant became a subcontractor of Spar for the research, design, development, analysis, testing, verification and delivery of subsystems that were to be integrated to Radarsat and that pursuant to the Spar-Com Dev contract, the Appellant was required to perform SRED in order to design, development, analyse, test, verify and deliver subsystems to Spar. The intention was to transfer to the Government of Canada the intellectual property arising from the entire performance of the Spar-Com Dev contract. In accordance with the agreement, the Appellant received payments from Spar in the aggregate amount of $28,350,000 in respect of the expenditures incurred for the research, design, development, analysis, testing, verification and delivery of the subsystems to Spar. The Respondent further submits that the Appellant's qualified expenditures incurred pursuant to the Spar-Com Dev contract were properly reduced by the aggregate amount received from Spar as the overall project was funded by the Government of Canada. The reduction of the qualified expenditures had the effect of reducing the ITCs claimed by the Appellant.
+
+[26] The Respondent also asserts the project was fully funded by the Government of Canada and this funding was directly related to Com Dev through Spar.
+
+ISSUE
+
+[27] The issue is whether the amounts received by the Appellant from Spar under the Spar-Com Dev contract represent contract payments within the meaning of paragraph (b) of the definition of "contract payment" in subsection 127(9) of the Act.
+
+ANALYSIS
+
+[28] Section 37 of the Act is designed to encourage scientific research in Canada (Consoltex Inc. v. The Queen, 97 DTC 724, T.C.C.). The tax incentive of performing SRED in Canada is twofold. First, SRED expenditures are given preferential treatment under section 37. Expenditures that qualify under section 37 are fully deductible in the year they are incurred or can be pooled and deducted in later years. Secondly, an ITC is available under subsection 127(5) of the Act.
+
+[29] Subsection 127(5) of the Act allows a taxpayer to claim a deduction for an amount that is based on the taxpayer's ITC for the year. The ITC for the year is defined under subsection 127(9) of the Act. The definition of an ITC under subsection 127(9) of the Act includes, among others, a percentage of a taxpayer's "qualified expenditures" made in the year. The term "qualified expenditure" is also defined under subsection 127(9) of the Act. The Respondent admits that the amounts in question are "qualified expenditures" of the Appellant within the meaning of subsection 127(9) and would qualify for the ITC under subsection 127(9) if that definition was read without reference to subsection 127(11.1)(c) of the Act.
+
+[30] With respect to the definition of ITC in subsection 127(9) of the Act, paragraph 127(11.1)(c) reads as follows:
+
+(11.1) For the purposes of the definition "investment tax credit" in subsection (9),
+
+...
+
+(c) the amount of a qualified expenditure made by a taxpayer shall be deemed to be the amount of the qualified expenditure, determined without reference to subsections 13(7.1) and (7.4), less the amount of any government assistance, non-government assistance or contract payment in respect of the expenditure that, at the time of the filing of the return of income for the taxation year in which the expenditure was made, the taxpayer has received, is entitled to receive or can reasonably be expected to receive.
+
+(emphasis added)
+
+[31] "Contract payment" is defined in subsection 127(9) of the Act. For amounts that became payable on or before December 20, 1991, the definition of "contract payment" reads as follows:[6]
+
+"contract payment" means
+
+(a) an amount payable by a person resident in Canada for scientific research and experimental development related to the business of that person,
+
+(b) an amount, other than a prescribed amount, payable by a Canadian government, municipality or other Canadian public authority or by a person exempt from tax under Part I by virtue of section 149 for scientific research and experimental development to be performed for it or on its behalf, or
+
+(c) an amount payable by a person not resident in Canada if he is entitled to a deduction under clause 37(1)(a)(ii)(D) in respect of the amount.
+
+[32] In the Partial Agreed Statement of Facts, the parties agreed that paragraph (c) of the definition of contract payment in subsection 127(9) did not apply. At the submission stage of the trial, the Respondent stated that he would not make an argument under paragraph (a) of the definition of contract payment in subsection 127(9). As a consequence, the Appellant's and the Respondent's submissions were based upon paragraph (b) of the definition of contract payment. The difference between the wording of paragraph (b) for amounts payable after December 20, 1991 and the wording of paragraph (b) for amounts that became payable on or before December 20, 1991, is minimal and does not affect the determination to be made in this case.
+
+[33] To qualify as a contract payment under paragraph (b) in subsection 127(9), an amount must:
+
+1) be payable by a Canadian government, municipality or other Canadian public authority or by a person exempt from tax under Part I by virtue of section 149; and
+
+2) be payable for SRED be performed for it or on its behalf.
+
+WAS THERE A CONTRACT PAYMENT PAYABLE BY
+
+A CANADIAN GOVERNMENT, MUNICIPALITY OR
+
+OTHER CANADIAN PUBLIC AUTHORITY
+
+[34] The Respondent submits that the $28,350,000 was paid by the Government of Canada. The Respondent claims that Spar was merely a general contractor and that all payments flowed through Spar and the Respondent also places emphasis on the fact that Her Majesty is mentioned in numerous provisions of the Spar-Com Dev contract.
+
+[35] The Appellant takes the position that Her Majesty and Spar entered into a particular contract while Spar engaged Com Dev by way of a separate contract. The Appellant further claims that Her Majesty was not a party to the Spar-Com Dev contract and that Spar paid Com Dev all of the amounts owing to the Appellant under the Spar-Com Dev contract. The Appellant states that the definition of contract payment as set out in paragraph (b) in subsection 127(9) of the Act should be given its plain and ordinary meaning and should not be expanded to deal with indirect arrangements.
+
+[36] While the Radarsat project was ultimately funded by the Government of Canada the Appellant did not have any direct contractual relationship with the Government of Canada. The Appellant's contractual arrangements were with Spar. The evidence establishes that Spar bought components that were designed, manufactured and delivered by the Appellant. The contract was a firm fixed price contract, with milestone payments linked to production results. At all times risk was in the hands of the Appellant.
+
+[37] Although Her Majesty was mentioned in the contract, this does not change the commercial reality of the relationship between the parties. Her Majesty had the right to monitor the progress of the components but the evidence has shown that this arrangement is common in the aerospace industry when the ultimate success of the overall project is dependant in part on products produced by subcontractors. The right of Her Majesty to monitor the progress of the components does not change the fact that there was no direct contractual relationship between Com Dev and Her Majesty. Moreover, there was no evidence that Spar, in engaging Com Dev under the Spar-Com Dev Contract, acted merely as Her Majesty's agent. Spar had a contract with Her Majesty to act as the general contractor for the Radarsat project. It was Spar, not Her Majesty, who paid all of the amounts owing to Com Dev under the Spar-Com Dev contract.
+
+[38] When Com Dev realized it was going to incur a loss on the Spar contract, Com Dev attempted to claim compensation from the Government of Canada in order to minimize its losses. Com Dev however, was unable to do so because there was no contractual relationship between Com Dev and the Government of Canada. Any request for financial compensation would have to be presented to Spar who had the option of submitting the request to the Government of Canada. Spar chose not to submit the request for financial compensation. It is the Court's conclusion that the payments received by Com Dev from Spar arose from the rights and obligations established under the Spar-Com Dev contract and were not contract payments from Her Majesty.
+
+[39] The Respondent also makes the argument that with respect to paragraph 127(11.1)(c) of the Act, the words "in respect of" are to be read in their widest possible scope.[7]
+
+[40] As a matter of legislative interpretation, the plain and ordinary meaning of words should be applied to the definition of a "contract payment". The words "in respect of" are used to link the terms government assistance, non-government assistance and contract payments to the qualified expenditures. The expansive language of paragraph 127(11.1)(c) was not used in paragraph (b) in the definition of contract payment in subsection 127(9) and that such expansive language cannot be read into the provision.
+
+WAS THERE A CONTRACT PAYMENT PAYABLE FOR SRED
+
+ON BEHALF OF A CANADIAN GOVERNMENT
+
+[41] Although the Court has found that the payments received by Com Dev were not payable by a Canadian government, the Court shall also consider whether the payments received by Com Dev were payable for SRED.
+
+[42] The evidence indicates that the clause that related to the rights Her Majesty received as to "Technical Information and Inventions conceived or developed or first actually reduced to practice in performing the Work" (clause 12.3) was modified by clause 12.7. The effect of this clause at a minimum severely restricted Her Majesty's right to a proprietary interest in technical information and inventions under the contract. It is these potentially conflicting clauses that do not allow the Spar-Com Dev contract to simply speak for itself. Therefore, the Court is not constrained by the parol evidence rule and may look beyond the contract and examine the collateral evidence surrounding the contract.
+
+[43] Under the contract between Spar and Com Dev, Com Dev retained rights to technology that Com Dev had at the inception of the contract. The work done in this retained technology was as previously reviewed a rearrangement of the proprietary interests of the Appellant to meet the component demands of Spar. The actions of the parties under the contract supports the stated intention of the parties given in evidence, that is, Spar showed no interest in the technology and indeed did attempt later to buy the technology from Com Dev for the Radarsat II project. There was no evidence that Her Majesty asserted or attempted to obtain any of the intellectual property that the Respondent now maintains is the property of Her Majesty. In support of the argument that the intellectual property in question belonged to Her Majesty, the Respondent produced an annotation on some technical documentation (see Exhibit A-1, tabs 28 to 34), an acknowledgement at the end of a paper presented by Com Dev to a space conference (Exhibit A-1 Supplemental, tab 9, page 130), and an internal correspondence from Com Dev warning Com Dev employees about using information that rightfully belongs to other companies in documents submitted to Spar (Exhibit A-1, tab 37). It is the Court's finding that this evidence does not change this Court's review of the evidence in relation to the contractual relationship and intention of the parties.
+
+[44] Clearly, the evidence indicates that there were no patentable results from the work performed by the Appellant in the production of the components. Com Dev retained all rights to the technology previously developed. Com Dev had the heritage and ability to further rearrange, research and develop their existing technology to meet the contractual component purchase of Spar. All the witnesses confirmed the position that Spar did not intend to buy nor did it buy on behalf of the Government of Canada the research and development with respect to the purchased components. I conclude, in this case, the contractual relationship based on a fixed firm price for the purchase of the components did not include the purchase of SRED.
+
+CONCLUSION
+
+[45] The amounts in question are "qualified expenditures" within the meaning of subsection 127(9).
+
+[46] The amounts paid by Spar to Com Dev do not constitute contract payments within the meaning of paragraph (b) in subsection 127(9) of the Act.
+
+[47] The Appellant is entitled to claim a deduction for ITCs for the years in question as calculated in accordance with subsection 127(5) without reduction pursuant to paragraph 127(11.1)(c) of the Act.
+
+DECISION
+
+[48] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to investment tax credits without a reduction pursuant to paragraph 127(11.1)(c) of the Act.
+
+[49] The Appellant is entitled to its costs.
+
+Signed at Ottawa, Canada, this 5th day of March 1999.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+[1] See paragraphs 14 and 15 of the Partial Agreed Statement of Facts.
+
+[2] Technology that resided with and was in the proprietorship of Com Dev prior to the contract with Spar.
+
+[3] Exhibit A-1, tab 21.
+
+[4] Ibid.
+
+[5] Exhibit A-1 Supplemental, tab 8.
+
+[6] "Contract payment" in subsection 127(9) was amended in 1994 for amounts that became payable after December 20, 1991.
+
+[7] See Nowegijick v. The Queen, [1983] 1 S.C.R. 29 at page 39 and The Queen v. Fording Coal Limited, 95 DTC 5672 (F.C.A.) at page 5674.
+

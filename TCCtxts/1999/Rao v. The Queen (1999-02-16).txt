@@ -1,0 +1,310 @@
+Date: 19990212
+
+Docket: 90-842-IT-O
+
+BETWEEN:
+
+DR. KRIS RAO,
+
+Appellant,
+
+and
+
+THE MINISTER OF NATIONAL REVENUE,
+
+Respondent.
+
+Reasons for judgment
+
+O'Connor, J.T.C.C.
+
+[1] These appeals were heard at Saskatoon, Saskatchewan on January 21, 1999.
+
+Issues
+
+[2] Originally there were two issues in dispute between the parties. The first was whether the Minister was correct in including in the Appellant's income in his 1987 taxation year a capital gain in the amount of $86,000 (taxable amount $43,000). At the hearing counsel for both parties acknowledged that there was no longer any dispute concerning this issue and that the said capital gain had been properly included in the 1987 taxation year of the Appellant.
+
+[3] The second issue which is common to these appeals and to the appeals of Dr. Richard H.D. Sykes (90-340(IT)O), Dr. Paul Korol (89-659(IT)O) and Dr. Dextor Ator (90-2810(IT)O) is whether the Minister was correct in reallocating certain dividend income to the Appellant pursuant to subsection 56(2) of the Income Tax Act ("Act") in the 1985, 1986 and 1987 years. On this second issue, the parties proceeded principally on the basis of an Agreed Statement as to Facts which statement reads as follows:
+
+AGREED STATEMENT AS TO FACTS
+
+The Appellant and the Respondent do hereby agree with each other in connection with the truth and accuracy of the following facts and statements:
+
+1. The Appellant, Dr. Kris Rao, (having social insurance no. 613 486 083) is an individual resident in the City of Saskatoon, in the Province of Saskatchewan.
+
+2. The Appellant is a shareholder in Raos Enterprises Ltd. (the "Company"), a body corporate incorporated under The Business Corporations Act (Saskatchewan).
+
+3. The Articles of Incorporation authorized the Company to issue the following shares in 1985 and 1986:
+
+unlimited number of Common Voting Shares
+
+unlimited number of Class "A" Preferred Voting Shares
+
+unlimited number of Class "B" Preferred Nonvoting Shares
+
+Schedule "1" annexed hereto is a true copy of the Certificate and Articles of Incorporation of the Company.
+
+4. The Company's Articles of Incorporation provided the following with respect to the rights to dividends in 1985 and 1986:
+
+"3. The holders of Common and Preferred Shares shall be entitled to receive dividends out of the surplus or net profits of the Company when and as declared by the Directors.
+
+4. No dividends shall be paid in any fiscal year of the Company on the Common Voting Shares and Class "B" Preferred Nonvoting Shares until dividends for the year or period have been declared and paid on the Class "A" Preferred Voting Shares.
+
+5. No dividends shall be paid in any fiscal year of the company on the Common Voting Shares until dividends for the year or period shall have been declared and paid on the Class "B" Preferred Nonvoting Shares."
+
+5. The Articles of Incorporation (as amended) authorized the Company to issue the following shares in 1987:
+
+unlimited number of Class "A" Common Voting Shares
+
+unlimited number of Class "B" Common Nonvoting Shares
+
+unlimited number of Class "A" Preferred Voting Shares
+
+unlimited number of Class "B" Preferred Nonvoting Shares
+
+Schedule "2" annexed hereto is a true copy of the Certificate and Articles of Amendment thereto applicable to the 1987 taxation year.
+
+6. The Company's Articles of Incorporation (as amended) provided the following with respect to the rights to dividends in 1987:
+
+"4. The holders of Common and Preferred Shares shall be entitled to receive dividends out of the surplus or net profits of the Company when and as declared by the Directors.
+
+5. No dividends shall be paid in any fiscal year of the company on the Class "B" Common Nonvoting Shares and Class "B" Preferred Nonvoting Shares until dividends for the year or period have been declared and paid on the Class "A" Common Voting Shares and Class "A" Preferred Voting Shares.
+
+6. No dividends shall be paid in any fiscal year of the company on the Class "A" Common Voting Shares until dividends for the year or period shall have been declared and paid on the Class "A" Preferred Nonvoting Shares.
+
+7. No dividends shall be paid in any fiscal year of the Company on the Class "B" Common Nonvoting Shares until dividends for the year or period shall have been declared and paid on the Class "B" Preferred Nonvoting Shares."
+
+7. The Following shares of the Company were issued and outstanding during 1985, 1986 and 1987 (the "relevant taxation years"):
+
+Name
+
+Class of Shares
+
+1985
+
+1986
+
+1987
+
+Kris Rao
+
+Common Voting
+
+143,988
+
+143,988
+
+143,988
+
+(Class "A" Common)
+
+Kris Rao
+
+Class "A" Preferred Voting
+
+500,333
+
+580,333
+
+480,833
+
+Leela Rao
+
+Class "B" preferred Nonvoting
+
+1,000
+
+1,000
+
+1,000
+
+Leela Rao
+
+Class "B" Common Nonvoting
+
+1,000
+
+8. The following dividends were declared and paid during the relevant taxation years:
+
+Name
+
+Class of Shares
+
+1985
+
+1986
+
+1987
+
+Leela Rao
+
+Class "B" preferred Nonvoting
+
+38,000
+
+50,000
+
+35,000
+
+Schedule "3" annexed hereto is a true copy of the Directors' Resolutions from the corporate minute book of the company indicating that dividends were declared and paid on the Class "B" Preferred Nonvoting Shares held by Leela Rao, the same being dated September 9, 1985, October 17, 1986, and October 28, 1987.
+
+9. On or about October 2, 1989, the Respondent reassessed the Appellant (the "Reassessments") with respect to each of the relevant taxation years and included in his income, pursuant to Subsection 56(2) of the Income Tax Act (Canada), the following dividend income which had been paid by the Company pursuant to paragraph 8 above:
+
+Taxation Year
+
+Amount of Dividend Income
+
+Reallocated to the Appellant
+
+(before gross up)
+
+1985
+
+$37,886
+
+1986
+
+$49,850
+
+1987
+
+$34,985
+
+10. Notices of Objection to the Reassessments were prepared and filed with the Respondent in prescribed form and in a timely manner. The Respondent confirmed the Reassessments, and the Appellant appealed the decision of the Respondent to this Honourable Court.
+
+[4] In addition to the Agreed Statement as to Facts the Appellant testified as follows: he was a diagnostic radiologist carrying on practice in partnership in Saskatoon, Saskatchewan; he had the vast majority of the shares of Raos Enterprises Ltd. (the "Company"), a holding company incorporated in 1980; he had a solicitor named Muzyka and an accountant named Birney and he relied on the advice of Birney as to the payment of dividends by the Company; the setting up of the Company and the payment of dividends were part of a tax plan to allocate as much dividend income as possible to his wife. In this regard he followed the advice of his accountant. He stated further that, had the accountant so advised, the Company would have declared dividends in minimal amounts, say $1.00 on the shares having dividend priority in accordance with the Articles of Incorporation ("Articles"), so that there would have been conformity with the Articles.
+
+Appellant's Submissions
+
+[5] Counsel for the Appellant submits that, as was determined by the Supreme Court of Canada in Neuman v. Minister of National Revenue [1998] 1 S.C.R. 770 and McClurg v. Minister of National Revenue [1990] 1 S.C.R. 1020, dividend income generally cannot be the subject of a reallocation pursuant to subsection 56(2) of the Act. In Neuman the Supreme Court of Canada stated as follows at page 782:
+
+In order for s. 56(2) to apply, four preconditions, each of which is detailed in the language of the s. 56(2) itself, must be present:
+
+(1) the payment must be to a person other than the reassessed taxpayer;
+
+(2) the allocation must be at the direction or with the concurrence of the reassessed taxpayer;
+
+(3) the payment must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+
+(4) the payment would have been included in the reassessed taxpayer's income if it had been received by him or her.
+
+...
+
+Because I conclude that s. 56(2) does not apply to dividend income since dividend income, by its very nature, cannot satisfy the fourth precondition absent a sham or other subterfuge, it is not necessary to discuss the other three prerequisites to the application of s. 56(2).
+
+...
+
+... First, s. 56(2) strives to prevent tax avoidance through income splitting; however, it is a specific tax avoidance provision and not a general provision against income splitting. In fact, "there is no general scheme to prevent income splitting" in the ITA. ... Section 56(2) can only operate to prevent income splitting where the four preconditions to its application are specifically met.
+
+...
+
+... it is important to remember that this Court held unanimously in Stubart, ... that a transaction should not be disregarded for tax purposes because it has no independent or bona fide business purpose ... Thus, taxpayers can arrange their affairs in a particular way for the sole purpose of deliberately availing themselves of tax reduction devices in the ITA.
+
+[6] Further, counsel argues that since there is no amount fixed for the amount of dividends that had to be declared on the priority shares, any amount such as $1.00, or other nominal amount, could have been paid thereon and the Articles would then have been complied with. This was the uncontradicted testimony of the Appellant and consequently if subsection 56(2) were applicable the quantum of any reallocation should only be $1.00 or other nominal amount.
+
+[7] He submits further that in any event the failure to follow the priority of dividends stipulated in the Articles does not result in the amount of the dividend (or as was done in the present appeals, 99.7% thereof) being allocated to the Appellant. He states there is no authority for the quantum allocation used by the Minister which is based on the percentage of all the shares in the Company owned by the Appellant.
+
+[8] He points further to The Business Corporations Act of Saskatchewan ("B.C.A.S.") which states as follows:
+
+15(1) A corporation has the capacity and, subject to this Act, the rights, powers and privileges of an individual.
+
+16(3) No act of a corporation, including any transfer of property to or by a corporation, is invalid by reason only that the act or transfer is contrary to its articles or this Act.
+
+He refers further to what are known as the oppression provisions in the said B.C.A.S., namely:
+
+234(1) A complainant may apply to a court for an order under this section.
+
+(2) If, upon an application under subsection (1), the court is satisfied that in respect of a corporation or any of its affiliates:
+
+(a) any act or omission of the corporation or any of its affiliates affects a result;
+
+(b) the business or affairs of the corporation or any of its affiliates are or have been carried on or conducted in a manner; or
+
+(c) the powers of the directors of the corporation or any of its affiliates are or have been exercised in a manner;
+
+that is oppressive or unfairly prejudicial to or that unfairly disregards the interests of any security holder, creditor, director or officer, the court may make an order to rectify the matters complained of.
+
+(3) In connection with an application under this section, the court may make any interim or final order it thinks fit including, without limiting the generality of the foregoing:
+
+(a) an order restraining the conduct complained of;
+
+(b) an order appointing a receiver or receiver-manager;
+
+(c) an order to regulate a corporation's affairs by amending the articles or bylaws or creating or amending a unanimous shareholder agreement;
+
+(d) an order directing an issue or exchange of securities;
+
+(e) an order appointing directors in place of or in addition to all or any of the directors in office;
+
+(f) an order directing a corporation, subject to subsection (6), or any other person, to purchase securities of a security holder;
+
+(g) an order directing a corporation, subject to subsection (6), or any other person, to pay to a security holder any part of the moneys paid by him for securities;
+
+(h) an order varying or setting aside a transaction or contract to which a corporation is a party and compensating the corporation or any other party to the transaction or contract;
+
+(i) an order requiring a corporation, within a time specified by the court, to produce to the court or an interested person financial statements in the form required by section 149 or an accounting in such other form as the court may determine;
+
+(j) an order compensating an aggrieved person;
+
+(k) an order directing rectification of the registers or other records of a corporation under section 236;
+
+(l) an order liquidating and dissolving the corporation;
+
+(m) an order directing an investigation under Division XVII to be made;
+
+(n) an order requiring the trial of any issue.
+
+(4) If an order made under this section directs amendment of the articles or bylaws of a corporation:
+
+(a) the directors shall forthwith comply with subsection (4) of section 185; and
+
+(b) no other amendment to the articles or bylaws shall be made without the consent of the court, until a court otherwise orders.
+
+(5) A shareholder is not entitled to dissent under section 184 if an amendment to the articles is effected under this section.
+
+(6) A corporation shall not make a payment to a shareholder under clause (f) or (g) of subsection (3) of there are reasonable grounds for believing that:
+
+(a) the corporation is or would after that payment be unable to pay its liabilities as they become due; or
+
+(b) the realizable value of the corporation's assets would thereby be less than the aggregate of its liabilities.
+
+(7) An applicant under this section may apply in the alternative for an order under section 207.
+
+Counsel concluded that these oppression provisions provide the remedy of an aggrieved shareholder â€“ for example, a shareholder who did not receive dividends in the priority established by the Articles. If the aggrieved shareholder foregoes this remedy the dividends declared should stand and remain valid.
+
+[9] Counsel refers also to the decision of the Supreme Court of Canada in Continental Bank Leasing Corporation v. Her Majesty the Queen [1998] 2 S.C.R. 298 where a bank contravened section 174 of the Bank Act which prohibited the bank from holding an interest in a partnership. The bank held shares in a subsidiary which was a partner in a partnership. It was therefore argued that the partnership was void with the result that the rollover of asserts into the partnership under subsection 97(2) of the Act was also void. The majority of the Court held otherwise. Thus the desired tax treatment was allowed, notwithstanding the bank had contravened an element in its charter.
+
+Respondent's Submissions
+
+[10] Counsel for the Respondent declined to offer any comments on what should be the quantum of the dividends the Minister could allocate to the Appellant. He submitted that form counts in income tax matters (The Queen v. Friedberg, 92 DTC 6031) and since the Company did not follow the priorities set forth in the Articles when declaring dividends there must be a reallocation of dividends to the Appellant under subsection 56(2) of the Act. He referred also to Champ v. The Queen [1983] C.T.C. 1 where the Federal Court held that where under its Articles dividends could not be paid selectively the plaintiff with full control of a corporation was subject to subsection 56(2) with respect to dividends paid to his wife. He also referred to the dissenting opinion of La Forest, J. in the McClurg case. Counsel also alluded to the doctrine of "ultra vires" with the apparent conclusion that sections 15(1) and 16(3) of the B.C.A.S. could not be relied upon by the Appellant.
+
+Analysis and Decision
+
+[11] In my opinion the decision of the Supreme Court in Neuman is the last word on the issue in these appeals and the only distinction between these appeals and that decision is that the Articles with respect to priority of dividends were not followed. I do not believe that this alters the situation. The failure to follow the priority for dividends in the Articles in my opinion is not sufficient to cause subsection 56(2) to be applicable.
+
+[12] Subsections 15(1) and 16(3) of the B.C.A.S. make it clear that the Company could validly declare dividends without complying with its Articles and even if these sections were only there to protect third parties, shareholders are third parties. In any event, the following statements of Bastarache, J. (dissenting) in Continental Bank are helpful in considering the theory of "ultra vires":
+
+(a) Ultra Vires
+
+175 The ultra vires doctrine was developed by the courts in the mid-19th century to restrict the legal capacity of corporations created under the Companies Act and its successor statutes. The doctrine provided that a corporation had the legal capacity to perform only those acts authorized by its articles. Any acts not authorized by the articles were void for want of legal capacity ...
+
+176 The doctrine was meant to limit the scope of activities of a corporation in order to protect the interests of its creditors and shareholders. It came to be recognized that the doctrine produced inconvenience and occasional hardship for the public who were expected to take notice of all limitations on the corporation's capacity as revealed through public documents. ...
+
+177 In 1974, the Canada Business Corporations Act, S.C. 1974-75-76, c. 33 ("CBCA"), abolished the ultra vires doctrine in the context of Canadian corporations by attributing to corporations the capacity of a natural person. Section 15(1) of the CBCA provided that "a corporation has the capacity and, subject to this Act, the rights, powers and privileges of a natural person". The CBCA also provides at s. 16(3) that "[n]o act of a corporation, including any transfer of property to or by a corporation, is invalid by reason only that the act or transfer is contrary to its articles or this Act".
+
+... Legal rights and duties created in transactions prohibited to banks by the Act and conferred on third parties are valid and no longer subject to disturbance by judicial avoidance of the original prohibited transaction. Rather, the bank is subject to the penalties set out in the Bank Act, and probably also those existing in the general law, for engaging in prohibited actions.
+
+181 In Canadian Pickles, supra, this Court held that the doctrine of ultra vires has been abolished for corporations incorporated under most business corporations legislation.
+
+[13] Further, I accept the submission of Appellant's counsel with respect to the effects of the sections quoted from the B.C.A.S and the principles established in Continental Bank.
+
+[14] Moreover, it is clear that since no amount of dividends on the priority shares was fixed in the Articles, the allocation under subsection 56(2), if it were applicable, could have been simply $1.00 or some other nominal amount.
+
+[15] For all of these reasons, with the exception of the inclusion of the capital gain in 1987 mentioned at the beginning of these reasons, the appeals are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on this basis.
+
+Signed at Ottawa, Canada this 12th day of February 1999.
+
+"T.P. O'Connor"
+
+J.T.C.C.
+

@@ -1,0 +1,184 @@
+Date: 20010511
+
+Docket: 2000-2732-IT-I
+
+BETWEEN:
+
+ERIKA GAMUS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments for the appellant's 1990, 1991 and 1993 taxation years. The assessment for 1992 was for nil tax. Therefore there is no appeal for that year.
+
+[2] The issue is whether the appellant sustained an allowable business investment loss (ABIL) in 1992. She claimed that she sustained a business investment loss in respect of a loan which she says that she and her husband made to BIMP Enterprises Ltd. ("BEL").
+
+[3] She claimed that she sustained the ABIL of $55,003.16 in 1992. She claimed $24,360.49 against income in 1992 and carried $20,937.52 back to 1990, $9,114.15 back to 1991 and $561 forward to 1993.
+
+[4] The Minister initially allowed the claim of $24,360.49 in 1992. When he decided that the appellant was not entitled to an ABIL he apparently found according to counsel that 1992 was statute-barred (i.e. beyond the three-year limit in subsection 152(4)) of the Income Tax Act.
+
+[5] For that reason he did not disallow the $24,360.49 claimed for that year. However for 1990, 1991 and 1993, the years to which the remainder of the ABIL was carried forward and back, he evidently did not regard himself similarly restricted under subsection 152(4). However I find the reply to the notice of appeal singularly confusing. Paragraphs 5, 6, 7 and 8 of the reply read as follows.
+
+5. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 1990, 1991 and 1993 taxation years by Notices of Assessment dated May 15, 1991, July 7, 1992 and June 9, 1994 respectively.
+
+6. In computing income for the 1992 taxation year, the Appellant carried back and carried forward non-capital losses from that year and applied them to the years in issue as follows: $20,937.52 to 1990, $9,144.15 to 1991 and $561.00 to the 1993 taxation year. The Minister reassessed the Appellant by concurrent Notices of Reassessment dated July 13, 1993 to give effect to the Appellant's non-capital losses applied to the 1990, 1991 and 1993 taxation years.
+
+7. The Minister reassessed the Appellant for the 1992 taxation year, by Notice of Reassessment dated April 14, 1997 and in so doing, the Minister disallowed the non-capital loss in the amount of $30,643.00 which the Appellant applied to the 1990, 1991 and 1993 taxation years.
+
+8. The Minister reassessed the Appellant for the 1990, 1991 and 1993 taxation years, by concurrent Notices of Reassessment dated April 14, 1997 and in so doing, the Minister disallowed the non-capital losses carried back and carried forward from the 1992 taxation year.
+
+[6] Dealing first with paragraph 7 it is true that in Exhibit A-3 there is a nil assessment for 1992 and a computation of the appellant's income at nil as follows.
+
+Total Income previously assessed $27,941
+
+Less: Deductions from Total Income
+
+as previously assessed (58,584)
+
+Add: Allowable business investment loss disallowed 30,643
+
+Revised Net Income & Taxable Income NIL
+
+[7] Now this is rather peculiar. If the Minister thought that 1992 was statute-barred what was he doing assessing 1992 on April 14, 1997? If he thought he could assess 1992 on April 14, 1997 why did he allow enough of the ABIL to reduce the appellant's 1992 income to nil?
+
+[8] The 1990, 1991 and 1993 taxation years were also assessed on April 14, 1997. If 1992 was statute-barred why were 1990, 1991 and 1993 not as well? I do not have the evidence on which I could make a finding on this point, but I think it is at least possible that 1990, 1991 and 1993 are also statute-barred. The evidence does not however permit me to decide whether the period for reassessing is extended by reason of subparagraph 152(4)(b)(i) and subsection 152(6). The Minister appears to have proceeded on the assumption that the "normal reassessment period" (as defined in subsection 152(3.1)) applied to the assessment for 1992 by reason of paragraph 152(4)(a) but that paragraph 152(4)(b) and subsection 152(4.01) applied to the assessments for 1990, 1991 and 1993. One thing seems reasonably certain: if the Minister reassessed 1992 on April 14, 1997 he did not disallow that portion of the ABIL needed to reduce the appellant's income to nil.
+
+[9] I shall not pursue this point further because I have concluded that the appellant was entitled to claim as an ABIL the sum of $55,003.16 in 1992 and to carry the unused balance back to 1990 and 1991 and forward to 1993. The amounts are not in dispute. Only the entitlement is.
+
+[10] I need not review the various provisions of the Income Tax Act required to give rise to an ABIL. That has been done elsewhere (Klassen v. R., [1997] 3 C.T.C. 2497). It involves a somewhat complex interaction of paragraphs 3(d), 38(c), 39(1)(c), section 50, subparagraph 40(2)(g)(ii) and the definition of "small business corporation" in section 248.
+
+[11] Here, four elements must converge if the appellant is to succeed:
+
+(a) BEL must have been indebted to the appellant in 1992
+
+(b) the debt must have become a bad debt in that year (section 50)
+
+(c) BEL must have been a small business corporation ("SBC") (paragraph 39(1)(c))
+
+(d) the debt must have been acquired for the purpose of gaining or producing income from a business or property (subparagraph (40(2)(g)(ii))
+
+[12] The facts are relatively straightforward. The appellant and her husband owned all of the issued shares of BEL which was incorporated in 1984. The evidence is not as clear on this point as it might be, but according to Abraham Gamus the ownership of BEL was split 3/5:2/5 between him and his wife.
+
+[13] Oerus Corporation Ltd. ("Oerus") was incorporated under the Business Corporations Act of Ontario in 1985. The appellant and her husband owned 5,010 of the voting common shares out of 10,000 issued common shares of Oerus. BEL owned 1,750 of the 3,900 Class A shares. The remaining 2,150 were owned by other individuals.
+
+[14] Mr. Gamus stated that the Class A shares were non-voting. This is not clear from the documents before me, but his unrebutted testimony seems to be the only evidence I have. Since we are in the informal procedure the best evidence rule need not be invoked. It follows therefore that the appellant and her husband controlled Oerus.
+
+[15] From 1985 to 1992 Oerus carried on the active business of manufacturing and repairing computer disk memories in Canada. It prospered and had a large number of employees. In 1992 the bank and other creditors called their loans and Oerus was forced to cease operations.
+
+[16] On November 8, 1984 the appellant and her husband, the sole shareholders of BEL passed the following resolution.
+
+RESOLVED THAT:
+
+The Shareholders pay into BIMP Enterprises Ltd. the sum of $175,000.00
+
+RESOLVED THAT:
+
+BIMP Enterprises Ltd. is instructed to purchase 1750 Class A shares of Oerus Corporation Ltd. for $175,000.00
+
+[17] The financial statements of BEL show shareholders' loans that grew from $77,666 in 1985 to $126,100 in 1986 to $177,335 in 1987 to $195,021 in 1991 and $204,054 in 1992. The notes to the financial statements in each year state:
+
+The loans are non-interest bearing and have no specific repayment terms.
+
+[18] The letter of May 29, 1986 from Fogler, Rubinoff reporting on the incorporation of Oerus states that all of the 3,900 Class A shares had been issued as of the date of the letter, including the 1,750 issued to BEL for $175,000. It seems, according to the financial statements that the shareholders' loan by the end of 1986 was only $126,100 and did not reach $177,335 until 1987. This is not critical to what has to be decided here. The funds were clearly advanced by the appellant and her husband out of their joint bank account over a period of about two years. The funds advanced to BEL were paid to Oerus for the shares and were used in Oerus' business.
+
+[19] I come now to the four points that are essential in this case to the appellant's entitlement to an ABIL. The case was presented by her husband, Abraham Gamus. He would have had an appeal as well were it not for the fact that when the bank and another creditor called their loans he was called on to fulfil his guarantee. In the result he declared bankruptcy.
+
+[20] Mr. Gamus is an engineer. I think the appellant's position could have been presented in a more favourable light if she had been represented by an experienced tax litigator. We are concerned here with a rather technical group of statutory provisions. Unfortunately, as is frequently the case where an appellant is not represented by a lawyer, relevant evidence is not put forward and there is a limit to how much help the court should endeavour to give the litigant.
+
+[21] Notwithstanding the deficiencies in the way the case was presented I think the appellant is entitled to succeed.
+
+[22] The four questions that must be asked and answered are:
+
+1. Did the appellant lend money to BEL so that there was an indebtedness to her by BEL?
+
+2. Did the debt become a bad debt in 1992?
+
+3. Was the debt acquired by the appellant for the purposes of gaining or producing income from a business or property?
+
+4. Was BEL a small business corporation?
+
+[23] For reasons that follow I think the answer to each of those questions is yes.
+
+1. Was there an indebtedness by BEL to the appellant?
+
+[24] The Crown argues that the resolution of November 8, 1984 does not use the word "lend". The financial statements consistently treat the amounts as a shareholders' loan. I think this is an unequivocal acknowledgement by the debtor of an indebtedness and as such is an admission upon which the creditors could rely and act: Wigmore on Evidence, § 1460; Phipson on Evidence (14th Ed.) § 24-12. Obviously a non-indebtedness does not become an indebtedness by an alleged debtor's acknowledgement, but where we have an advance of money to a person in circumstances that would normally give rise to an indebtedness, and that person acknowledges the indebtedness to the alleged creditors it is prima facie evidence of the indebtedness. Where no time is specified for repayment the debt becomes payable on demand, after reasonable notice: R.E. Lister Limited v. Dunlop Canada, [1982] 1 S.C.R. 726 at 746-7.
+
+2. Did the debt become bad in 1992?
+
+[25] Clearly it did. Indeed, counsel very fairly and properly admitted that if I found that the amounts in issue were debts they became bad in 1992.
+
+3. Was the indebtedness acquired for the purpose of gaining or producing income from a business or property?
+
+[26] Counsel argued that the purpose was the earning of management fees. Leaving aside the question whether management fees are income from a business or from employment (I think the better view is that they are income from a business) it is now well settled that where a shareholder makes a loan to a company in which he or she has shares the absence of a requirement to pay interest is not fatal to the deductibility of a loss. In other words subparagraph 40(2)(c)(ii) cannot prohibit the deductibility of a loss on a debt owing by a corporation to a shareholder merely because the debt is not interest bearing. Obviously it is implicit in the ownership of shares of a company that the shareholder is looking to receive dividends. This is true notwithstanding that the shareholder may also expect to receive management fees. The receipt of management fees does not necessarily depend on the recipient being a shareholder.
+
+[27] This was discussed in The Cadillac Fairview Corporation Limited v. The Queen, 97 DTC 405 at 412 (aff'd F.C.A. 99 DTC 5121).
+
+In light of this conclusion, I need not deal at length with Ms. Van Der Hout's argument that the guarantees were not given for the purpose of gaining or producing income. If the guarantees were not given for the purpose of gaining or producing income from a business or property of the appellant, I have difficulty in conceiving of any other basis on which they could have been given. The respondent's argument seems to be that if the appellant had charged a fee for giving the guarantees it would have met the "for the purpose of gaining or producing income" test but that because it charged no fee it had no such purpose. The ultimate purpose of any parent company of a corporate organization is to earn income from its subsidiaries, generally in the form of dividends. To have the treatment of capital losses that it sustains in respect of shares or debts of its subsidiaries depend upon whether interest or guarantee fees are charged is, in today's world of business, simply not an acceptable criterion to apply. That theory has been laid to rest in such cases as Charles A. Brown v. The Queen, FCTD, No. T-2712-91, January 15, 1996, [96 DTC 6091] Byram v. The Queen, 95 DTC 5069, Business Art Inc. v. M.N.R., 86 DTC 1842 and National Developments Ltd. v. The Queen, 94 DTC 1061.
+
+[28] The Byram decision was affirmed in the Federal Court of Appeal, 99 DTC 5117.
+
+[29] In light of these authorities it is clear that the purpose of the acquisition of the debt by the appellant was the gaining or producing of income from the shares.
+
+4. Was BEL a SBC?
+
+[30] Small business corporation is defined in section 248 as follows:
+
+"small business corporation", at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a "payer corporation" within the meaning of that subsection), or
+
+(c) assets described in paragraphs (a) and (b),
+
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil.
+
+[31] Both BEL and Oerus are Canadian-controlled private corporations.
+
+[32] Oerus is a small business corporation within the definition because substantially all of the fair market value of its assets is attributable to assets used principally in an active business carried on primarily in Canada by it.
+
+[33] BEL does not fall within (a) of the definition. All or substantially all of its assets consist of the shares of Oerus. To fall within (b) it must be determined whether Oerus and BEL are connected within the meaning of subsection 186(4) which reads
+
+For the purposes of this Part, a payer corporation is connected with a particular corporation at any time in a taxation year (in this subsection referred to as the "particular year") of the particular corporation if
+
+(a) the payer corporation is controlled (otherwise than by virtue of a right referred to in paragraph 251(5)(b)) by the particular corporation at that time; or
+
+(b) the particular corporation owned, at that time,
+
+(i) more than 10% of the issued share capital (having full voting rights under all circumstances) of the payer corporation, and
+
+(ii) shares of the capital stock of the payer corporation having a fair market value of more than 10% of the fair market value of all of the issued shares of the capital stock of the payer corporation.
+
+[34] Counsel argues that Oerus was not "controlled" by BEL because it was controlled by Mr. and Mrs. Gamus and the Class A shares are not voting shares. I would agree with this somewhat technical point were it not for subsection 186(2) which reads
+
+For the purposes of this Part, other than for the purpose of determining whether a corporation is a subject corporation, one corporation is controlled by another corporation if more than 50% of its issued share capital (having full voting rights under all circumstances) belongs to the other corporation, to persons with whom the other corporation does not deal at arm's length, or to the other corporation and persons with whom the other corporation does not deal at arm's length.
+
+[35] The voting shares of Oerus belonged to Mr. and Mrs. Gamus and BEL did not deal at arm's length with them.
+
+[36] The four constituent elements necessary to the appellant's entitlement to an ABIL have been established and I am pleased to be able to allow these most deserving appeals.
+
+[37] The appeals from assessments for 1990, 1991 and 1993 are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant sustained an allowable business investment loss of $55,003.16 in 1992 and that of that amount the appellant is entitled to apply under section 111 of the Income Tax Act as non-capital losses against taxable income in other years the following amounts
+
+1990 $20,937.52
+
+1991 $9,144.15
+
+1993 $561.00
+
+[38] The appellant is entitled to her costs, if any, in accordance with the tariff applicable under the informal procedure rules.
+
+Signed at Ottawa, Canada, this 11th day of May 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

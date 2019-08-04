@@ -1,0 +1,580 @@
+Date: 20010424
+
+Docket: 98-1052-IT-G
+
+BETWEEN:
+
+AINSWORTH LUMBER CO. LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+[1] This appeal is in respect of the Appellant's 1993 taxation year.
+
+ISSUES:
+
+[2]
+
+1. Was the Appellant required to deduct investment tax credits ("ITC's")[1] it may have had arising out of expenditures incurred in its 1993 taxation year ("1993 ITC's") from tax otherwise payable before deducting ITC's arising in a subsequent taxation year?[2]
+
+2. Were the expenditures of $123,937,347, or any part thereof, by the Appellant in its 1995 taxation year, in respect of a wood processing plant,[3] expenditures for "certified property"[4] thereby giving rise to ITC's ("1995 ITC's")?
+
+[3] The Respondent says, with respect to the first issue that the Appellant:
+
+(a) has 1993 ITC's; and
+
+(b) is required to deduct them for its 1993 taxation year before deducting any carried back 1995 ITC's.
+
+[4] The Respondent says further that this Court is, therefore, not entitled to make a determination of the second issue because:
+
+(a) 1993 ITC's, which exceed the amount of tax otherwise payable for the 1993 taxation year, must be deducted before deducting the carried back 1995 ITC's, and
+
+(b) the 1995 taxation year, not having been appealed, the second issue is not before the Court.
+
+[5] The Appellant says, with respect to the first issue, that it is not required to "order" the deduction of its 1993 ITC's, if any, from tax otherwise payable for its 1993 taxation year before deducting 1995 ITC's. It also says that the amount deducted for the 1993 taxation year cannot be categorized as 1993 ITC's unless so elected by the Appellant.
+
+[6] The Appellant says further that this Court is entitled to determine the second issue because:
+
+(a) the Appellant can specify which ITC's it is deducting, and
+
+(b) the Court must, therefore, determine the amount of 1995 ITC's.
+
+[7] In order to resolve the first issue respecting the ordering of ITC deductions, subsection 127(5) must be interpreted. If ordering is required then the Court must decide whether the Appellant has any 1993 ITC's. That subsection reads, in part, as follows:
+
+127(5) There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount not exceeding the least of
+
+(a) the taxpayer's annual investment tax credit limit for the year,
+
+(b) the total of
+
+(i) the taxpayer's investment tax credit at the end of the year in respect of property acquired, or an expenditure made, before the end of the year, and
+
+(ii) the lesser of
+
+(A) the taxpayer's investment tax credit at the end of the year in respect of property acquired, or an expenditure made, in a subsequent taxation year, to the extent that the investment tax credit was not deductible under this subsection or subsection 180.1(1.2) for the taxation year in which the property was acquired, or the expenditure was made, as the case may be, and
+
+the amount, if any, by which the taxpayer's tax otherwise payable by the taxpayer under this Part for the year exceeds the amount, if any, determined under subparagraph (i), and
+
+...
+
+(emphasis added)
+
+[8] "annual investment tax credit limit" is defined in subsection 127(9), the pertinent portion being:
+
+"annual investment tax credit limit" of a taxpayer for a taxation year means
+
+(a) in the case of a corporation, the aggregate of
+
+(i) ¾ of the corporation's tax otherwise payable under this Part for the year, and
+
+...
+
+[9] "investment tax credit" is defined in subsection 127(9), the pertinent portion being:
+
+"investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the aggregate of
+
+(a) the aggregate of all amounts each of which is the specified percentage of
+
+(i) the capital cost to him of a qualified property, qualified transportation equipment, qualified construction equipment, approved project property or certified property acquired by him in the year,
+
+(ii) a qualified expenditure made by him in the year,
+
+...
+
+(c) the aggregate of all amounts each of which is
+
+...
+
+(ii) an amount determined under paragraph (a) ... in respect of the taxpayer for any of the 10 taxation years immediately preceding or the 3 taxation years immediately following the year, where the property was acquired, or the qualified expenditure was made, after April 19, 1983 or the qualified Canadian exploration expenditure was for a taxation year ending after November 30, 1985,
+
+...
+
+exceeds the aggregate of
+
+(f) the aggregate of all amounts each of which is an amount deducted under subsection (5) from the tax otherwise payable under this Part by the taxpayer for a preceding taxation year in respect of
+
+...
+
+(ii) property acquired, or an expenditure made, in the year or in any of the 10 taxation years immediately preceding or the 2 taxation years immediately following the year, where the property was acquired, or the expenditure was made, after April 19, 1983,
+
+(emphasis added)
+
+[10] "certified property" is defined in subsection 127(9), the pertinent portion being:
+
+"certified property" of a taxpayer means any property (other than an approved project property) described in paragraph (a) or (b) of the definition "qualified property" in this subsection
+
+(a) that was acquired by the taxpayer
+
+...
+
+(iv) after 1994 and before 1996 where
+
+(A) the property is acquired by the taxpayer for use in a project that was substantially advanced by or on behalf of the taxpayer, as evidenced in writing, before February 22, 1994, and
+
+(B) construction of the project by or on behalf of the taxpayer begins before 1995, or
+
+(v) after 1994 where the property
+
+(A) is acquired by the taxpayer under a written agreement of purchase and sale entered into by the taxpayer before February 22, 1994,
+
+(B) was under construction by or on behalf of the taxpayer on February 22, 1994, or
+
+(C) is machinery or equipment that will be a fixed and integral part of property under construction by or on behalf of the taxpayer on February 22, 1994,
+
+and that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer, ...
+
+[11] "qualified property" is defined in subsection 127(9) the pertinent portion of which reads:
+
+"qualified property" of a taxpayer means property (other than an approved project property or a certified property) that is
+
+(a) a prescribed building to the extent that it is acquired by the taxpayer after June 23, 1975, or
+
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+
+that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer and that is
+
+(c) to be used by him in Canada primarily for the purpose of
+
+(i) manufacturing or processing goods for sale or lease,
+
+...
+
+[12] “qualified expenditure” is defined in subsection 127(9) the pertinent portion of which reads:
+
+“qualified expenditure” means an expenditure in respect of scientific research and experimental development incurred by a taxpayer that is an expenditure in respect of first term shared-use-equipment or second term shared-use-equipment or an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i) and includes an amount that is a prescribed proxy amount of a taxpayer, but does not include
+
+...
+
+FACTS:
+
+[13] Allen Ainsworth ("Ainsworth"), a principal and officer of the Appellant, gave evidence on behalf of it. The Appellant was formed by his parents in the 1950’s and Ainsworth has been with the company for 39 years. The Appellant's business has always consisted of activities in the lumber industry.
+
+[14] This case relates to the construction of an OSB plant in Grande Prairie, Alberta. The Appellant had previously opened a plant for this purpose in 100 Mile House, British Columbia. Ainsworth said that it has been a very successful operation.
+
+[15] The proposed plant would, as was the case in 100 Mile House, use hardwood only. Ainsworth was aware that the Province of Alberta ("Alberta") wanted its lumber industry expanded and was particularly interested in a plant of the type the Appellant had opened at 100 Mile House.
+
+[16] The Appellant referred to a document dated July 18, 1988 entitled FINAL REPORT dealing with mixed species of timber presented to the Alberta Research Council. Its expressed objective was to investigate processes and to develop procedures for the use of black poplar along with aspen in the manufacture of structural panel products. This was updated by another voluminous document dealing with the same material and dated July 31, 1989. The report concluded that work done by the Alberta Forest Products Laboratory suggested that laboratory manufacture of OSB from most Alberta species including aspen, black poplar, mixtures of aspen/black poplar, lodge-pole pine and spruce was technically feasible. It stated further that work remained to be done with respect to the commercial and economic feasibility in the production environment. Ainsworth said that the Appellant relied on this conclusion. Two other reports prepared for Forestry Lands & Wildlife on April 29, 1991 and October 27, 1992 concluded with very encouraging results respecting the use of black poplar.
+
+[17] The Appellant then produced a presentation document for financing purposes dated January 11, 1993 respecting OSB and the financial aspects associated with it. He said that OSB was "being made all around us", in Alberta, Ontario, Quebec and the eastern seaboard. He also said that this presentation had been made to 25 different companies. He produced other documents respecting financing and attempts to raise money for the 100 Mile House project.
+
+[18] Ainsworth testified that Alberta was proposing the development of uncommitted parts of its forests in three different areas, including High Prairie and Grande Prairie. He stated that the province wished to develop timber harvest, to have a facility built and to employ people. A document dated May 10, 1993 with regard to High Prairie set forth the terms of reference for a review committee respecting OSB development of hardwood at the High Prairie timber development area ("TDA"). The Appellant also presented copies of vouchers and tickets respecting trips to Alberta for a number of purposes including a visit with the cabinet minister dealing with environmental protection. Also presented to the Court was the Alberta Request for Proposals ("RFP") respecting the High Prairie timber supply and dated August 17, 1993.
+
+[19] The next document presented was a memorandum from the director of financial and economic analysis in the Alberta Economic Development & Tourism Branch to Dave Walker ("Walker"), Executive Director, Forestry Industry Division, dated September 16, 1993. This memorandum dealt exclusively with the Grande Prairie TDA and expressed the view that the approach taken would be similar to the High Prairie TDA. The memorandum reveals that two other substantial lumber companies, Weyerhaeuser & Louisiana-Pacific of Canada Ltd. had indicated a desire to build an OSB mill which would utilize approximately 552,000 cubic metres of uncommitted wood supply in the Grande Prairie TDA. Ainsworth stated that he was aware of the contents of that document at that date.
+
+[20] A number of ensuing documents presented to the Court related to various financing proposals.
+
+[21] Ainsworth said that he had attended a meeting on September 29, 1993 with Craig Quintilio from the Ministry of Finance and with Walker. He said that the Alberta officials were telling them what they would have to include in their bid respecting High Prairie. He said that Grande Prairie was also discussed at this meeting.
+
+[22] Also entered in evidence was the log book of a personal aircraft, the Appellant testifying that they flew over forest lands to cruise the timber stands. He described this as common practice. He said that they were experienced and could tell the quality and volumes by such low level flights. Ainsworth also testified that the Appellant had hired one David Wright, a very experienced man, as project manager.
+
+[23] Another document establishes that Ainsworth's son, Michael, who was also with the Appellant, sought information from an environmental consulting firm as to what was "involved in permitting OSB in Alberta". A bill from that environmental consultant for services respecting Grande Prairie prior to January 21, 1994 was introduced in evidence. The Appellant also sought information on the timing to obtain a permit and whether it had to go through the Natural Resources Conservation Board. That report, dated October 15, 1993, was produced to the Court outlining a summary including, inter alia, the permitting process and requirements for an OSB plant in Alberta.
+
+[24] An information document prepared by a competitor, Weyerhaeuser of Canada as an employee update, dated November 2, 1993, announced the location for its proposed $125 million dollar OSB plant at Grande Prairie.
+
+[25] An internal memorandum from Jack Muir ("Muir") of Nova Bancorp Group stated that in November, 1993 the chairman of that group and others including Ainsworth, Dave Walker and other economic development officials, met. At that meeting they discussed forthcoming RFP’s for High Prairie and Grande Prairie.
+
+[26] Ainsworth testified that on November 23, 1993 Nova Bancorp made a proposal respecting the High Prairie plant on behalf of the Appellant. He stated that the Appellant did not want to be named because it was concluding its financing arrangements with respect to 100 Mile House. That proposal was withdrawn on December 1, 1993 because the Appellant would have been obliged to disclose its name were it to proceed.
+
+[27] The Appellant also produced a substantial document dated January 5, 1994, being draft number 6 of Request for Proposals Grande Prairie Timber Supply. It stated that the remaining deciduous (hardwood) volume available for development was 414,000 cubic metres. This report was available to the public.
+
+[28] Ainsworth said that the Appellant had weekly meetings between November, 1993 and January 5, 1994 respecting details of the areas and volumes, harvesting, environmental permits, et cetera. He also said that he had discussions with Alberta officials respecting the minimum bid price of $2 per cubic metre for Grande Prairie, which he thought was too low. He said that he suggested to those officials that it be raised because the Alberta public would think the government was giving it away. He also expressed concern that the Americans might consider the low price as a government subsidy accepted by industry. Also produced was a Daily Herald Tribune (Grande Prairie) newspaper article of January 5, 1994 with the headline "GP forest bidding may start soon". The opening sentence read:
+
+The Grande Prairie forest will likely be up for bid by the end of the month, says a government spokesman.
+
+[29] Another intra-Alberta Economic Development & Tourism memorandum from Walker to the Deputy Premier, dated January 7, 1994 stated that the Grande Prairie RFP was delayed because the government and a company known as Grande Alberta Paper Ltd. could not resolve the specifics of a deciduous timber allocation required by that company for its light weight coated paper projects.
+
+[30] A January 10, 1993 memorandum written by Walker read, in part:
+
+RFP for Grande Prairie will be forthcoming January 15-January 30.
+
+[31] Further, a document respecting Grande Prairie, including an Income Statement, Balance Sheet, Capital Cost Summary, Material Flow Balance, Plant Production Costs, Depreciation and Profitability, all respecting OSB, was presented to the Court. These were prepared on January 14, 1994 and were projections for six years which showed that the numbers used were based upon a log input to the mill of 647,000 cubic metres. Ainsworth stated that the Appellant expected about 500,000 cubic metres from the Province of Alberta and that the extra 147,000 cubic metres would be purchased privately.
+
+[32] Another newspaper article mentioned the names of two companies that were interested in an OSB plant and suggested that bids would "be called on the forest" before February 1 and March 15. Ainsworth said that Grande Prairie was impatient to have the plant constructed, that there was no political opposition to it, that there was "lots of public support" and that in January, 1994 he had no doubt that Grande Prairie would be proceeding with its allocation.
+
+[33] Ainsworth said that he attended a meeting at Walker's office on February 10, 1994 where the Appellant announced its intention to bid on Grande Prairie. He said that Walker told him that he wanted the best bid and that "he encouraged us and emphasized that he wanted us to deal with Alberta suppliers and engineers." Walker did not deem the environmental issues to be an impediment. He said that not only was there no public resistance but that there was overwhelming support for the project which would lead to employment and other benefits. Ainsworth also said that he expressed the Appellant's intention to proceed and that he wanted "an RFP to come out".
+
+[34] There followed a number of documents relating to financing negotiations. Also enclosed were vouchers for travel to Alberta which Ainsworth said related to the Grande Prairie project.
+
+[35] The Appellant then produced a copy of the news release and attached "Request for Proposals Grande Prairie Timber Supply" dated March 25, 1994. Ainsworth stated that there were no substantial changes in the terms known to him prior to February 22, 1994. He said that the volume of deciduous timber allocation was 432,900 cubic metres. The RFP reported that the mixed wood stands were a source of deciduous timber and that this was estimated to be 150,900 cubic metres, the total being 583,800 cubic metres. The RFP stated that the minimum price that would be considered was $4 per cubic metre. Ainsworth said that they had decided to make a bid of $10 and that that should be successful.
+
+[36] The Appellant's proposal, submitted on May 31, 1994, the last day for submissions, consisted of several hundred pages. It was substantially in the same form, respecting timber volumes and cost and financial arrangements, as the pre-February 22, 1994 calculations.
+
+[37] The Appellant also produced a letter dated July 20, 1994 to Alberta thanking it for the conditional selection of the Appellant as the successful bidder for the Grande Prairie Deciduous Timber Allocation.
+
+[38] The second witness for the Appellant was Walker, now a management consultant. He is the man who was the Executive Director, Policy & Planning Department of Economic Development. He said that in May, 1993 he was asked to "head" the Forest Industry Division and that he reported to the Assistant Deputy Minister, Technology and the Deputy Minister. He said that his mission was to implement the mandate to the forest industry, the Province of Alberta wanting to develop forestry as well as oil and gas. He stated that this was a priority.
+
+[39] He testified that there was to be "no more government money" and that the timber development had to be competitive and open and transparent. He said that Alberta had a large volume of timber, that the OSB in North America was growing rapidly and that OSB was cost competitive with plywood for construction. He also said that there were two large wood areas in Alberta, namely High Prairie and Grande Prairie, the latter being the larger. He said that volumes of 500,000 to 600,000 cubic metres would support a world size plant.
+
+[40] Walker said that in May, 1993 Alberta decided on RFP's for both High Prairie and Grande Prairie, that there was political pressure to do that, that potential developing companies were enquiring and that the wood was available. He added that it was well known in the industry that both High Prairie and Grande Prairie were available.
+
+[41] He said that in October, 1993 a preliminary draft of the Grande Prairie RFP had been prepared and that a list of potential bidders had been made for the government to contact. He stated that in the first part of November, 1993 he had discussed the Grande Prairie project with Ainsworth. He said that Ainsworth had advised him that the price per cubic metre of timber stands should be more than $2. He said that he had discussed the cubic metre availability with Ainsworth in early February.
+
+[42] In other respects, he confirmed the testimony of Ainsworth.
+
+[43] David Erwin Schalm ("Schalm") testified for the Respondent. He is an income tax auditor with Canada Customs & Revenue Agency ("Agency"). He audited the Appellant. He referred to the Appellant's 1993 income tax return in which the Appellant claimed an investment tax credit ("ITC") of $10,014. He said that it had been disallowed because Revenue Canada had not received sufficient support documentation. He then referred to a Notice of Reassessment of the Appellant's 1993 taxation year, part of which read:
+
+As the information necessary to determine the eligibility of your projects was not submitted, your claim of SR & ED Investment Tax Credit has been disallowed. Upon submission of the required information, it will be reviewed by the Department.
+
+[44] Schalm then referred to an amended return for 1993 in which, he said, the Appellant had amended its claim for SR & ED[5] increasing the claim over its initial filing. It showed that the previous claim of Investment or Expenditure of $50,070 (giving rise to a "Current Year Credit" of $10,014) was increased by an additional amount of $401,332 with a new "Current Year Credit" of $90,280. He then said that because it was an SR & ED claim it would go to the science advisors who review technical data to see whether the projects were eligible as research or experimental development. He said that he asked the Appellant for further documentation on the projects. Schalm then said that during the audits he became aware that the Appellant sought to carry back losses of $18,604,226 from 1995 to 1993. He said that this loss carry-back was allowed and assessed. That loss carry-back was subsequently adjusted slightly because of some "T-5" that had not been reported for the 1995 taxation year. He said that an amended 1995 return by the Appellant was assessed allowing a changed loss in the sum of $18,383,055. He also said that the amended 1995 return calculated an ITC in the amount of $37,181,804. Schalm then referred to the amended return showing that the Appellant had requested a carry-back of the credit the corporation earned in 1995 to be applied as follows:
+
+2nd preceding taxation year 1993 ............... $ 308,012
+
+1st preceding taxation year 1994 ............... $ 3,460,086
+
+Total $ 3,768,098
+
+[45] He stated that they would not allow those ITC’s without further information. He said that he advised the Appellant that Revenue Canada's position was that the ITC's claimed were not allowable. He then said that because the Appellant was expecting a substantial refund of logging taxes from British Columbia, the 1993 amended return was processed without allowing the ITC carry-back of $308,012. The Notice of Reassessment of that return includes the following:
+
+We have adjusted the non-capital loss carried back from 1995 to $18,383,055.00 to agree with the amended return for 1995. Please note that the ITC was not included as discussed with the auditor.
+
+[46] He stated that the above words referred to 1995.
+
+[47] After referring to various documents and memoranda, Schalm said that with respect to the 1993 SR & ED claim first requested by the company in June, 1995
+
+... so we finally resolved them and are going to allow them in the most part.
+
+[48] On cross-examination, Schalm said that the Notice of Reassessment dated July 17, 1997 did not allow any investment tax credit in 1993 "per the taxpayer's instructions". He also said:
+
+... I would note a difference between allowing the investment tax credits and applying them. The final Notice of Assessment indicates that per the T2038 there are investment tax credits in the pool related to '93 available to be taken. However, in 1993 none were taken or applied per the instructions. So they were allowed in the sense that they are there and can be drawn down if they are in a position to do it. It's just that we didn't apply any in 1993.
+
+[49] In addition to the foregoing, the Court was advised that there were at least six Notices of Assessment issued by Revenue Canada in respect of the 1993 taxation year. Respondent's counsel advised that the Respondent did not have information about all reassessments and that there may have been more. In fact, the documents available indicate that there were more than the six assessments described on a chart presented to the Court. The fifth such assessment was that in respect of which the Appellant filed a Notice of Objection. The chart shows only a loss carry back figure from 1995 in the sum of $18,383,055 and Part I tax before ITC of $308,271. By virtue of the sixth assessment increasing the accumulated non-capital loss, the carry back of $20,013,458 to 1993 resulted in tax payable of $123. The Appellant seeks to apply its 1995 ITC’s to the extent of its annual investment tax credit limit, namely $92, to the tax otherwise payable.
+
+ANALYSIS AND CONCLUSIONS:
+
+First Issue:
+
+[50] The Respondent says that subsection 127(5), permitting the deduction of ITC's, requires the deduction of the 1993 ITC’s before the deduction of the 1995 ITC's. I do not agree. That subsection simply provides a formula for determining the amount of ITC’s that may be deducted from the tax otherwise payable for a taxation year. It includes neither direction nor prohibition respecting the order of ITC deduction. If Parliament had intended an "ordering" of deductions it would have so legislated as it did in subsection 80(3).[6] That section provided that a formula determined amount be applied
+
+to reduce, in the following order the taxpayer's
+
+(i) non-capital losses
+
+(i.1) farm losses,
+
+(ii) net capital losses
+
+(iii) restricted farm losses
+
+for preceding years ...
+
+(emphasis added)
+
+[51] "Investment tax credit ... at the end of a taxation year" means, generally, the "specified percentage" of certain expenditures for that year and for the 10 immediately preceding and 3 immediately following taxation years minus the total amount of ITC's claimed. Therefore, a taxpayer may deduct the ITC's arising in respect of any year from the tax payable in the 3 preceding and the 10 following years. It is normal to expect a taxpayer to claim ITC's in chronological order to maximize their usage. It is also normal for the Minister of National Revenue ("Minister") to assume that a taxpayer would follow this pattern. However, it was, and is, open for the Appellant to specify which ITC's it is deducting. That is precisely what the Appellant did when it specified the deduction of its 1995 ITC's that could be carried back to 1993.
+
+[52] The Appellant's deduction of 1993 ITC's was disallowed by the Minister. Indeed, the Minister disputed the eligibility of certain expenditures as SR & ED expenditures. They would be the base upon which ITC's would be computed.[7] The Appellant did not appeal this disallowance. At the hearing, Respondent's counsel assumed the onus of establishing that the Appellant had 1993 ITC's. She presented Schalm to give evidence directed toward so establishing them. In distillation, although he stated that the Minister had finally decided to allow the 1993 SR & ED expenditures, there was no evidence supporting their qualification for ITC's. The definition of "investment tax credit" includes a specified percentage of a "qualified expenditure". The definition of "qualified expenditure" refers to expenditures for SR & ED described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i). Subsection 37(1) describes some SR & ED expenditures, none of which is a "qualified expenditure". The Respondent failed to meet the onus by not demonstrating that the Appellant's 1993 SR & ED expenditures gave rise to 1993 ITC's.
+
+Conclusion respecting "ordering":
+
+[53] Accordingly, subsection 127(5) does not require "ordering" of ITC's and, in any event, it was not established that any 1993 ITC's exist.
+
+Second Issue:
+
+[54] Having decided that the Appellant was not required to deduct 1993 ITC's before the 1995 ITC's, I turn to the second issue, namely whether the expenditures totalling $123,937,347 were for "certified property", thereby giving rise to ITC's.
+
+[55] Appellant's counsel based his submission that the expenditures did so qualify, upon subparagraph 127(9)(a)(iv)[8] of the definition of certified property. A repetition of a portion of those words, set forth earlier in these Reasons follows:
+
+"certified property" ... means any property ... described in paragraphs (a) or (b) of the definition "qualified property" ...
+
+(a) that was acquired by the taxpayer ...
+
+(iv) after 1994 and before 1996 where
+
+(A) the property is acquired by the taxpayer for use in a project that was substantially advanced by or on behalf of the taxpayer, as evidenced in writing, before February 22, 1994, and
+
+(B) construction of the project by or on behalf of the taxpayer begins before 1995, ...
+
+[56] The question of whether the property was described in paragraph (a) or (b) of the definition of "qualified property" is not in dispute. Although some cross-examination seemed to be directed toward whether all expenditures claimed were so qualified, the amounts queried were in respect of minor items with minimal expenditures. Respondent's counsel made no submission challenging the aforesaid amount as having been expended on "qualified property".
+
+[57] Therefore, the questions remaining to be answered are:
+
+(a) was the Appellant's undertaking a project?and, if so,
+
+(b) was it substantially advanced by or on behalf of the taxpayer, as evidenced in writing, before February 22, 1994?
+
+Project:
+
+[58] The word "project" is not defined in the Act. The Concise Oxford Dictionary, 8th Edition, defines project, in part as:
+
+1 a plan; a scheme
+
+2 a planned undertaking
+
+[59] The Oxford English Dictionary, 2nd Edition, defines project in part as:
+
+1. A plan, draft, scheme, or table of something; a tabulated statement; a design or pattern according to which something is made. 5.(a) something projected or proposed for execution; a plan, scheme, purpose; a proposal.
+
+[60] Counsel submitted that the project was a plan to utilize a defined timber resource to produce OSB at Grande Prairie.
+
+[61] Respondent's counsel submitted that the word "project" was the actual construction of the OSB plant. She said that the project had to "be related to the building of the building and the physical plant" and was "not about the acquisition of timber ... to produce oriented strand board". She said that the project starts:
+
+... with what steps you take to get the allocation of the timber. And the problem, the big problem, we submit, that the Appellant has is that the availability of that timber didn't happen until March 25 of 1994.
+
+[62] Appellant's counsel, in reply, submitted that if "project" refers to the construction of the plant itself, then there would be absolutely no need for the rule in (a)(iv)(A) in the definition of "certified property" because construction cannot be substantially advanced unless it is started. He followed this by suggesting that Respondent's counsel was inviting the Court to accept a test that required construction to have been started on or before February 22, 1994. He continued with his submission by saying that if construction had started by February 22, it would be "grandfathered" under (a)(v)(B) which speaks of property that "was under construction ... on February 22, 1994, and that the physical plant cannot, therefore, be the "project".
+
+[63] Counsel also stated that such interpretation of the word "project" is inconsistent with the words in (a)(iv)(B) that "construction of the project by or on behalf of the taxpayer begins before 1995". He added that there would be no purpose to (a)(iv)(B) if construction had commenced on or before February 22, 1994 as required in (a)(v)(B). He then said that the test in (a)(iv)(B) is that construction does not need to start until immediately before 1995 and that the Respondent's submission that the project was the plant could not be correct.
+
+[64] Referring to a definition of "project" which included "a planned undertaking", Appellant's counsel submitted that the project began when the planning began. He argued that a project may include ultimate construction of a building that results from the plan but that the project, within the plain meaning of that word, does not begin at the time of construction. He said:
+
+That's one of the latter steps in the total package that comprises projects. We submit that the project begins when the planning process begins and then you must determine how far that progress was advanced. That process was advanced by February 22, 1994. ...
+
+In a nutshell, our submissions are the project, within the meaning of this definition, commences when you identify your objective, you set out and formulate a process for achieving it and you start marching down the path towards that objective. And we say the Appellant was a long way down that road. There was very little of substance that it had to do ultimately to succeed in achieving its objective.
+
+[65] Counsel also submitted that subparagraph (a)(iv) itself distinguishes between the property which gives rise to an investment tax credit and the project to which it relates. The relevant words in that provision are:
+
+... the property is acquired by the taxpayer for use in a project that was substantially advanced ...
+
+(emphasis added)
+
+[66] He simplified his point by saying that because property must be acquired for use in a project, the project cannot mean "property".
+
+Conclusion respecting "project":
+
+[67] I agree with the Appellant's submissions. In addition, general usage of the word "project" can contemplate something more than buildings and equipment. Accordingly, I conclude that the project was, as described by Appellant's counsel, a plan to utilize a defined timber resource to produce OSB at Grande Prairie.
+
+SUBSTANTIALLY ADVANCED:
+
+[68] I now turn to the question of whether the project was substantially advanced by or on behalf of the taxpayer before February 22, 1994. The phrase "substantially advanced" has been judicially considered in three cases referred to the Court by Appellant's counsel.
+
+First Fund Genesis Corp. v. Her Majesty the Queen, 91 DTC 5361 (F.C.T.D)("First Fund");
+
+Mort v. Her Majesty the Queen, 93 DTC 5058 (F.C.T.D.)("Mort"); and
+
+Arkelian v. Daley, Black & Moriera, 1992 B.C.S.C. in Vancouver Registry No. 900462, [1992] B.C.J. No. 733 ("Arkelian").
+
+[69] Each of these cases interpreted the phrase "substantially advanced" in the context of the transitional relief provided under subparagraph 194(4.2)(b)(ii) in respect of the termination of a scientific research and experimental development tax credit ("SRTC"). This was a tax credit intended to promote investment in scientific research in Canada. It was widely abused and was eliminated on October 10, 1984 subject to transitional relief.
+
+[70] In First Fund, the issue was whether debentures issued to the taxpayer in April 1985 met the requirements of the relevant legislation which read as follows:
+
+Notwithstanding subsection (4) no amount may be designated by a corporation in respect of ...
+
+a share or debt obligation issued or a right granted by the corporation after October 10, 1984, other than a share or debt obligation issued or a right granted before 1986.
+
+under the terms of an agreement in writing entered into by the corporation before October 11, 1984 other than pursuant to an option to acquire the share, debt obligation or right if the option was not exercised before October 11, 1984, or
+
+where arrangements, evidence in writing, for
+
+the issue of the share or debt obligation or the granting of the right where substantially advanced before October 10, 1984;
+
+(emphasis added)
+
+[71] Joyal J. at 5369 referred to the decision of Mr. Justice Deane of the Federal Court of Australia in Tillmanns Butcheries Pty. Ltd. v. Australasian Meat Industry Employees’ Union (1979), 42 F.L.R. 331:
+
+The word "substantial" is not only susceptible of ambiguity: it is a word calculated to conceal a lack of precision. In the phrase "substantial loss or damage", it can, in an appropriate context, mean real or of substance as distinct from ephemeral or nominal. It can also mean large, weighty or big. It can be used in a relative sense or can indicate an absolute significance, quantity or size. The difficulties and uncertainties which the use of the word is liable to cause are well illustrated by the guidance given by Viscount Simon in Palser v. Grinling (21)[9] where, after holding that, in the context there under consideration, the meaning of the word was equivalent to "considerable, solid or big", he said: "Applying the word in this sense, it must be left to the discretion of the judge of fact to decide as best he can according to the circumstances of each case . . . "
+
+[72] Joyal J. said, at 5369:
+
+To my mind, the issue of whether arrangements were “substantially advanced” calls for a determination by this Court of whether the arrangements had been advanced or had progressed to a sufficiently measurable degree. In other words, there must have been more than just nominal or insignificant progress made by the parties towards securing an S.R.T.C. transaction.
+
+[73] At page 5370, he said:
+
+When the totality of the written and oral evidence put before this Court is considered, it indicates that arrangements for the issue of the debentures in question were "substantially advanced" before October 10, 1984.
+
+[74] He then outlined the facts upon which he based his conclusion. The corporation which issued the debenture had prepared an "Executive Summary" in order to find potential investors. It contained a budget for scientific research and SRTC funding. The fact that the amount of the debenture actually issued in 1985 was different in that it was for the sum of $7,500,000 and the SRTC funding was only $2,091,932, was found not to be a material discrepancy. The debenture issuer had identified the type of security and in fact that type of debenture actually was issued in 1985. The fact that no purchaser of the debenture had been identified by October 10, 1984 was not fatal. The fact that no closing date for the issue had been determined by October 10, 1984 was not fatal. The learned Justice said:
+
+All that remained to work out were the finer details of exactly how much money would go where, who the SRTC investor would actually be and which aspects of its research program would be emphasized.
+
+[75] Arkelian was a negligence action in which the defendant solicitors were alleged to have given an incorrect opinion that arrangements for the issue of an SRTC instrument were "grandfathered" under the transitional rule in section 194(4.2)(b)(ii). Mr. Justice Catliff adopted Mr. Justice Joyal's interpretation of the phrase "substantially advanced" in First Fund and, at page 13, said:
+
+In that case it was submitted that the phrase "substantially advanced" could mean "some measurable progress" on the one hand or "arrangements considerably or largely advanced" on the other.
+
+[76] He then said, at page 14:
+
+I agree with these comments.
+
+and found that the transaction was within the exception in the transitional legislation.
+
+[77] In Mort, Mr. Justice Noël (as he then was) adopted the same interpretation of "substantially advanced".
+
+[78] The wording in subparagraph 127(9)(a)(iv)(A) is identical to the wording in the SRTC transitional rule so far as the terms "substantially advanced" and "evidenced in writing" by a certain date are concerned. Appellant's counsel also referred the Court to the third edition of Driedger on the Construction of Statutes at page 163 which says:
+
+It is presumed that the legislature uses language carefully and consistently so that within a statute or other legislative instrument the same words have the same meaning ...
+
+[79] In R. v. Zeolkowski (1989), 61 D.L.R. (4th) 725 at 732 (S.C.C.), Sopinka J. wrote:
+
+Giving the same words the same meaning throughout a statute is a basic principle of statutory interpretation.
+
+[80] Dreidger at page 475 reads:
+
+In preparing an enactment, the legislature is presumed to be aware of existing case law and to take that case law into account in drafting its provisions. Where words have been given a particular meaning in a case or series of cases, and those words are then used in legislation, the obvious inference is that the legislature intended to give the words the same established meaning.
+
+[81] With reference to the interpretation of transitional provisions, Respondent's counsel referred the Court to The Queen v. Trade Investments Shopping Centre Limited, 93 DTC 5486 (F.C.T.D.)(Trade Investments). She submitted that the interpretation of transitional provisions dealing with different subject matters are not binding on the Court. She said that:
+
+... they may be useful but they are not binding. It really calls for focusing on the language in the provision itself, of the transitional provision itself, and on the context of the overall substantive law relating to that transitional provision.
+
+[82] She then said that the comments of the Federal Court Trial Division in that case on the interpretation of transitional provisions are the correct principles because they were adopted by the Federal Court of Appeal in that case. She referred to the Federal Court of Appeal decision reported, at 96 DTC 6570, where the Court said:
+
+At the trial, Noël J. rejected the appellant’s arguments. In our view, he was correct to do so and his analysis of the rules applicable to the interpretation of transitional tax provisions in general and the disputed provision in particular is unimpeachable.
+
+[83] She quoted Noël J. at pages 5488, 5489 and 5491, in part, as follows:
+
+It is worth noting, to begin with, that transitional legislation is remedial in nature. In tax matters, its purpose is generally to protect taxpayers who have made certain dispositions in good faith in accordance with the law applicable at the time, by allowing them to be covered by the former law despite the coming into force of the new law.
+
+...
+
+The scope of these transitional provisions will be more or less restrictive depending on the precise situation contemplated by the legislature in mitigating the effect of the new Act. Sometimes, Parliament will limit the protection of a transitional provision to taxpayers who have entered into firm and binding contracts based on the old law. At other times, Parliament will extend this protection to taxpayers who can show that they had in view a transaction which was substantially advanced at the relevant time, though it had not yet been concluded.
+
+...
+
+Transitional provisions do not lend themselves to the scrutiny of an overly strict interpretation. It should be borne in mind that transitional provisions are secondary and incidental to the provisions of substantive law which they accompany. Unlike taxing provisions, they are not adopted as part of a coherent legislative plan in which the provisions must interrelate with one another in a logical scheme. They are ad hoc provisions the sole purpose of which is to ensure that the particular provision of substantive law which they accompany is introduced in an equitable manner. By their very nature, therefore, they are likely to create discrepancies, and a review of the wording of these provisions in recent years indicates that each budget produces transitional provisions peculiar to it and designed without reference, or at least with little reference, to preceding in pari materia provisions. While a comparative analysis of such provisions remains useful, I do not think it can be conclusive in the case at bar.
+
+In my view, when a question of interpretation arises as to the scope of a transitional provision, it must be answered by reference to the provision of substantive law it accompanies and the specific situation which Parliament sought to alleviate by introducing it.
+
+[84] The learned Justice made these comments in the context of a case where the transitional provision was entirely different from those in First Fund and Mort. Trade Investments dealt with the matter of a taxpayer allocating proceeds of disposition of property entirely to land and claiming a terminal loss in respect of the building. The transitional provision read as follows:
+
+Subsection (3) is applicable with respect to dispositions occurring after May 9, 1985 other than dispositions occurring pursuant to the terms of an agreement in writing entered into on or before that date.
+
+(emphasis added)
+
+[85] However, as set out above, the terms “substantially advanced” and "evidenced in writing" are used in the transitional provisions in the instant case and in the First Fund, Mort and Arkelian cases. The fact that the learned Justice, in Trade Investments, was dealing with an entirely different and more restrictive provision than he had analyzed in Mort may well account for his refinement of the principles enunciated in First Fund.
+
+[86] Respondent counsel's submissions have not persuaded me that, in the circumstances, I should not be guided by the decisions in First Fund and Arkelian and by the material quoted from Driedger.
+
+[87] I turn now to a review of the factors to be considered in determining whether the project was substantially advanced.
+
+[88] Appellant’s counsel submitted that there were three components of the project, namely:
+
+To identify and evaluate the timber resource and determine its suitability for use in OSB manufacturing.
+
+To determine the technical, procedural and financial viability of the manufacturing process.
+
+To commit to proceed in a manner which was likely to be successful.
+
+[89] He submitted that all of these steps in the project were completed on or before February 22 and that, therefore, the project itself was substantially advanced. These steps are described in the foregoing paragraphs.
+
+[90] The timber resource to be exploited was the deciduous standing timber located within the Forest Management Units as shown on a coloured map of a portion of Alberta.[10] The evidence of Ainsworth and Walker and the various documents identified by them established that the location of the timber resource to be allocated at Grande Prairie had been determined no later than September, 1993. That was discussed by Ainsworth and Walker at their meeting of September 29, 1993. A newspaper article filed with the Court confirmed that by September 24, 1993, the Grande Prairie timber allocation was public knowledge. The Weyerhaeuser employee update confirmed that the proposed Grande Prairie allocation was well known by November 2, 1993. The same Forest Management Units were identified in every draft of the Grande Prairie RFP, including the second draft which was produced in October, 1993. Precisely the same timber was ultimately allocated to the Appellant. Ainsworth testified that he had become aware of that proposed allocation as early as 1992 and that the specific Forest Management Units to be exploited were known to him. Prior to February 22, 1994, the Appellant had completed all work necessary to assess the quantity and quality of the timber resource available within those units and had confirmed its suitability for use in an OSB plant. An Alberta inventory of the available volume of each species of timber was described by Walker and is evidenced in each of the draft RFP’s for Grande Prairie, as well as in the final version of the RFP. The contents of that inventory were available to the public. That inventory was reviewed by Ainsworth.
+
+[91] The Appellant’s investigations included numerous efforts to acquire or to become a partner of an Alberta forest products company, discussions with the Ministry of Economic Development regarding the use of deciduous timber for pulp production, reviewing the testing of these species in the manufacture of OSB in 1988, and his aerial and field surveys of timber throughout the region. About 1990, Ainsworth visited the wafer board plant in Edson, Alberta to learn how problems dealing with standing black poplar could be overcome by equipment choices and periodically processing pine to clean the strander blades.
+
+[92] By 1990 the Appellant had obtained a timber supply in British Columbia for the purposes of supporting its planned OSB Mill at 100 Mile House. The mix of timber supply there was similar to that in the Grande Prairie timber supply and the Appellant had determined by 1990 that such supply would be suitable for manufacturing OSB. Ainsworth also confirmed his reliance on the considerable research undertaking by the Alberta Research Council regarding the use of black poplar in the manufacture of OSB[11]. These reports were available to and reviewed by the Appellant's staff prior to 1993. Ainsworth testified that the favourable recommendations resulting from this research were confirmed by his independent testing and observation of the stranding and processing activities at Edson.
+
+[93] By September, 1993 the Alberta Government concluded that the Grande Prairie timber supply was suitable for OSB manufacturing. A September 16, 1993 memorandum shows that the Alberta Government knew that the Grande Prairie fibre would be used for OSB and that the available volume was approximately 552,000 cubic metres of annual cut. A September 23, 1993 memorandum is consistent with this conclusion and shows a revised volume estimate of 550,000 cubic metres. A fax cover sheet was identified as referring to a meeting on September 29, 1993 between Ainsworth, Harry Knutson, Walker and Alberta Government officials. At that meeting, the location, volume and quality of the Grande Prairie timber resource and the timing of its allocation was discussed. Muir testified, as referred to in a written memorandum, that Ainsworth and Knutson met with Walker in November, 1993 to discuss OSB and the Grande Prairie timber resource in detail.
+
+[94] By November 23, 1993 the Appellant's conclusion that the deciduous timber in northern Alberta was suitable for OSB was demonstrated by its bid for the High Prairie timber supply. The timber supplies at High Prairie and Grande Prairie were similar. However, the Grande Prairie supply was considered superior as to quality, volume and security of tenure.
+
+[95] An agreement of December 8, 1993 between the Alberta government and W. R. Dempster and Associates Ltd. reflects a further effort to publish Alberta's knowledge of the characteristics of the timber available at Grande Prairie. Its purpose was to assess the deciduous timber resource in the Grande Prairie area through establishment and measurement of a network of temporary sample lots in predefined strata.
+
+[96] The final RFP estimated 583,800 cubic metres per year of fibre volume available. That amount is virtually the same as the estimates made in September, 1993.
+
+[97] The Appellant's January 14, 1994 financial projections confirm that by that date it had evaluated the Grande Prairie timber supply as suitable and sufficient to support a viable OSB operation.
+
+[98] The projections show that the Appellant had estimated the annual allowable cut from the Grande Prairie allocation to be approximately 500,000 cubic metres. The income statement line for "DTA Commitment" at $3,000,000 per year was based on $6 per cubic metre for 500,000 cubic metres per year.
+
+[99] On January 19, 1994, Ainsworth again confirmed the suitability of black poplar for OSB production by inspecting the stranding operations of Zeidler Forest Products.
+
+[100] A summary of expenses establishes that expenses in excess of $150,000 had been incurred by the appellant prior to February 22, 1994, largely in the process of evaluating the timber supply.
+
+[101] The evidence established that prior to February 22, 1994, the Grande Prairie timber resource was available and suitable, the technology existed to exploit that resource, there would be no regulatory, environmental or political impediment, the proposal was financially viable, and the Appellant had the financial capacity to undertake the project.
+
+[102] The evidence established that by February 22, 1994, the Appellant had identified virtually all elements of the OSB plant design and had evaluated its technological viability. The Appellant had acquired the experience necessary to plan the design, construction and equipping of an OSB plant through its work at 100 Mile House construction of which plant commenced in April, 1993. The Appellant gained experience relating to contracting with equipment and construction suppliers for the construction of an OSB mill from the spring of 1992 to February, 1993. A list of contracts was introduced in evidence.
+
+[103] The critical suppliers to the Grande Prairie project were the same as those used at 100 Mile House. This is corroborated by the Appellant's bid for the Grande Prairie timber supply.
+
+[104] The Appellant had evaluated the stranding requirements for the Grande Prairie plant by inspection of black poplar stranding at Edson and the testing of black poplar OSB production at Dieffenbacher in 1993. A facsimile transmission advised that a strander equipment display would be attended on November 18, 1993 by staff members of the Appellant. In January, 1994, the Appellant researched black poplar peeling at Zeidler Forest Products.
+
+[105] Ainsworth testified that prior to January, 1994 the Appellant had formulated a detailed plan for the particular types of equipment, construction services, and capital costs required to complete construction of an OSB mill at Grande Prairie.
+
+[106] The financial projections include a Capital Cost Summary as of January 14, 1994, detailing all capital costs of the plant totalling $110,000,000, virtually identical to the estimates totalling $108,500,000 contained in the May 31, 1994 bid, the only difference being reduction of consulting fees and financing costs.
+
+[107] The decision to use phenolic resin[12] in producing OSB, set forth in the bid, was made prior to February 22, 1994, as stated by Ainsworth and as indicated in the January 14, 1994 Material Flow Balance. Walker emphasized the importance of this factor.
+
+[108] By the end of October, 1993, the Appellant had identified and evaluated all of the Alberta government requirements for regulatory and environmental approval for construction of an OSB plant, relying on the expertise of its consultants, Norecol Dames & Moore Inc. as evidenced by a number of different documents. Ainsworth stated that based on this advice and his experience with similar procedures in British Columbia, he believed that he fully understood the scope of the requirements in Alberta by November, 1993.
+
+[109] By February 22, 1994, Alberta had supported the allocation of the timber supply. Walker testified that his primary function as an employee of Alberta since 1992 was to develop and implement a plan for exploitation of this resource.
+
+[110] Although the granting of the allocation was delayed until after February 22, 1994, the Province, without interruption, continued its efforts to complete that allocation.
+
+[111] The draft RFP dated January 5, 1994 is virtually identical to the RFP that was ultimately published by the Province.
+
+[112] A briefing note to the Deputy Premier dated January 7, 1994, recommended publication of the RFP no later than January 31, 1994.
+
+[113] Walker testified that by January, 1994, the Province had determined that it was not necessary to have the Grande Prairie allocation reviewed by an independent committee. The allocation had the support of the local community and as noted in his memorandum of January 7, 1994, the MLAs of the constituencies affected had expressed support for the project. A memorandum from Walter Paszkowski, MLA for Grande Prairie Smoky confirmed that political support.
+
+[114] Walker and Ainsworth testified that they met on February 10, 1994, to discuss the anticipated terms of the RFP and Ainsworth assured the government that it would be making a bid in response to the RFP as soon as it was available.
+
+[115] The evidence also shows that prior to February 22, 1994, Ainsworth had, satisfied itself as to the financial viability of the project. The Appellant had established that there was a viable market for the OSB product. A 58-page 5-year business plan for the Pacific Rim and Europe had been prepared exclusively for the Appellant by Balfour Guthrie Forest Products Inc. in September, 1993. An extensive OSB Expert Market Analysis was prepared for the Appellant by Interex[13] in September, 1993 and updated in January, 1994. Ainsworth concluded therefrom that the Grande Prairie operation would enable the diversion of North American orders to Grande Prairie from 100 Mile House and the diverting of more of the 100 Mile House production to Asia.
+
+[116] Ainsworth also testified as to how the Japanese market sought security of supply and that the operation of two plants would do much to satisfy that concern. A further market review completed for the Appellant in October, 1993 describes North American competition and demand and potential export demand.
+
+[117] The January 14, 1994 projections contain a pro forma balance sheet showing the Appellant's anticipated costs for land, plan and equipment for the Grande Prairie OSB mill at $110,000,000 financed by $75,000,000 of long term debt and capital equity of $35,000,000. It attaches a detailed breakdown of the capital costs. The income statement shows detailed projections for a 5-year period, including revenues and production costs. These projections are virtually identical to those used in the May 31, 1994 bid.
+
+[118] The Appellant, prior to February 22, 1994, was exploring financial alternatives and possible distribution agreements with two Japanese companies, Nittetsu Shoji Co. Ltd. and Kanematsu Corporation. Although the efforts focused on the 100 Mile House OSB project initially, the Appellant regarded them as a source of financing for Alberta.
+
+[119] Prior to February 22, 1994, the Appellant established relationships with a number of Alberta forestry companies which Ainsworth viewed as potential partners for its Grande Prairie OSB project. Canfor, a forest products company, which has saw mill operations in Grande Prairie, ultimately provided $30,000,000 of the equity financing. Ainsworth also succeeded in raising the debt financing described in the January 14, 1994 projections.
+
+[120] As reflected in the January 14, 1994 projections, the Appellant had determined to offer a bid price of $10.00 per cubic metre of Allowable Annual Cut, precisely the same price that proved to be successful. Also it had determined to pay a guaranteed minimum stumpage fee of $3,000,000 per year, precisely the same amount as is provided in the successful bid.
+
+[121] The Grande Prairie RFP was issued on March 25, 1994 and by May 31, 1994, only 67 days later, the Appellant had prepared and filed an extensive and extremely detailed bid and confidential information package. Much of the detail contained in these documents had been identified and determined by the Appellant prior to February 22, 1994, the financial terms of the ultimate bid being virtually identical to those contained in the projections dated January 14, 1994.
+
+[122] Respondent's counsel submitted that there were crucial matters which had not been dealt with before February 22, 1994 and that were required by the RFP. She was referring to two of the twelve components described in the RFP, namely, Timber Resource and Environmental Matters.
+
+[123] Appellant's counsel said that the Appellant could have used its own evaluation but that an independent evaluation dressed up the RFP to make it look
+
+as impressive, as complete and as well thought out as possible
+
+[124] He made a similar submission respecting the Environmental Matters component.
+
+Conclusion respecting "substantially advanced":
+
+[125] It is, therefore, clear that, prior to February 22, 1994, both Alberta and Ainsworth had identified and evaluated the quality and quantity of the Grande Prairie timber supply and determined it to be suitable for OSB manufacturing. As of that date, the Appellant clearly had the ability to exploit the timber resource through the operation of an OSB plant having done so at 100 Mile House. Its capability in securing the timber supply is evidenced by the fact that it made the successful bid. In assessing the degree of advancement of the Grande Prairie project, I have concluded that the Appellant's expertise and experience in completing similar projects was of great importance. The Appellant reduced the time for bringing an OSB plant into production from a period in excess of four years at 100 Mile House to only fifteen months at Grande Prairie.
+
+[126] The Appellant had clearly made much more than "just nominal or insignificant progress"[14] in the pursuit of its project. The word "substantially" does not have to be quantified by a percentage. The building of the plant itself had not been commenced before February 22, 1994 because the RFP to which a bid response would be made did not issue until March 25, 1994. The fact that that portion of the project remained to be completed does not, in my view, compromise substantial advancement of that project. It was impossible to acquire rights to the timber until an RFP was issued and a bid made and accepted. No one would build a timber processing plant without having the timber available. Before February 22, 1994 the Appellant had done an immense amount of work, as outlined above, to put itself in a highly informed and highly equipped position to prepare and submit what proved to be a winning bid.
+
+[127] I conclude that, given my finding that the project was not the plant alone but rather, the whole scheme or planned undertaking to utilize a defined timber resource to produce OSB at Grande Prairie, that project was substantially advanced before February 22, 1994.
+
+EVIDENCED IN WRITING
+
+[128] An examination of the voluminous reports, timber availability and quality, financial projections, market analyses, memoranda, newspaper articles, travel vouchers, et cetera described above leaves me in no doubt whatsoever about the substantial advance of the project being evidenced in writing.
+
+SUMMARY
+
+[129] The Appellant was not required to deduct ITC's it may have had arising out of expenditures incurred in its 1993 taxation year from tax otherwise payable before deducting 1995 ITC's. In any event, the existence of 1993 ITC's was not established.
+
+[130] The expenditures of $123,937,347 made by the Appellant in its 1995 taxation year in respect of the OSB plant in Grande Prairie were expenditures for "certified property", thereby giving rise to 1995 ITC's.
+
+[131] Accordingly, the Appellant is entitled to specify and deduct 1995 ITC's from its tax payable for its 1993 taxation year.
+
+[132] The appeal is allowed with costs.
+
+Signed at Ottawa, Canada, this 24th day of April, 2001.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] as defined in subsection 127(9) of the Income Tax Act). All section numbers refer to this Act.
+
+[2] at the hearing both counsel referred to this as the "ordering" of ITC deductions
+
+[3] manufacturing oriented strand board ("OSB") by stranding hard wood and gluing the strands together to form a construction product competitive with plywood
+
+[4] as defined in subsection 127(9) of the Act
+
+[5] Scientific Research and Experimental Development
+
+[6] as it applied to 1993.
+
+[7] if the 1993 expenditures were not qualifying SR & ED there would be no 1993 ITC's
+
+[8] reference to portions of this subsection will hereinafter be referred to in abbreviated form e.g. (a)(iv)
+
+[9] Palser v. Grinling (1948), AC 291
+
+[10] this and all documents subsequently referred to were Exhibits at the hearing
+
+[11] supported by four documents
+
+[12] phenolic resin was described by Ainsworth as more environmentally acceptable than other gluing compounds
+
+[13] Interior Export Lumber Sales Ltd.
+
+[14] First Fund, Joyal, J.
+

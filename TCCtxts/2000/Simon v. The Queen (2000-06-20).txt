@@ -1,0 +1,366 @@
+Date: 20000620
+
+Docket: 1999-4330-GST-I
+
+BETWEEN:
+
+ANDREW P. SIMON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Teskey, J.T.C.C.
+
+[1] The Appellant, Andrew Peter Simon, appeals an assessment under the Excise Tax Act (the "Act") pursuant to the goods and services provisions ("GST") thereof.
+
+Issues
+
+[2] The issue to be decided in this appeal is whether the Appellant is liable under subsection 323(1) of the Act due to the default by Chevrolane Motorcars Ltd. (the "Corporation") to remit to the Receiver General an amount of net tax pursuant to subsection 228(2) of the Act and the interest and penalties relating thereto.
+
+Facts
+
+[3] A great number of facts that the Minister of National Revenue (the "Minister") assumed at the time of the assessment and reproduced in the Reply to the Notice of Appeal (the "Reply") were admitted prior to the start of the hearing. These admitted facts are:
+
+(a) at all material times the Corporation was a valid and subsisting corporation under the Alberta Business Corporations Act;
+
+(b) during the relevant period Jampa Enterprise Ltd. owned 90% to 100% of the Corporation's shares;
+
+(c) the Father and his wife owned all the shares of Jampa Enterprise Ltd.;
+
+(d) the Corporation registered for the purposes of the Act effective April 1, 1992 and was assigned registration number 132856139;
+
+(e) at all material times the Corporation was engaged in commercial activities and made supplies which were taxable at 7%;
+
+(f) the Corporation was required to file returns on a quarterly basis, with a year end of March 31st;
+
+(g) the Corporation filed returns reporting the amounts set out herein as tax collected/collectible, input tax credits and net tax;
+
+Under
+
+Reporting Date Date Tax Input Tax Net Tax Refund Actual Net reported
+
+Period Filed Due Collected Credits Reported Paid Tax Net Tax
+
+92/06/30* 92/08/24 92/07/31 27,748.40 30,743.15 - 2,994.75
+
+92/06/30* 27,748.40 63,412.09 -35,663.69
+
+92/06/30* 27,748.40 65,412.09 -37,663.69 37,668.94 -33,324.50 4,339.19
+
+92/09/30 92/12/14 92/11/02 26,381.60 21,333.78 5,047.82 6,637.54 1,589.72
+
+92/12/31 93/03/01 93/02/01 21,335.70 26,064.23 -4,728.53 4,728.53 -4,728.58 -0.05
+
+93/03/31 93/06/04 93/04/30 43,249.50 49,795.51 -6,546.01 6,547.30 -5,905.26 640.75
+
+93/06/30 93/08/03 93/08/02 54,710.60 53,330.86 1,379.74 3,707.38 2,327.64
+
+93/09/30 93/10/26 93/11/01 42,287.60 46,266.29 -3,978.69 3,995.33 -90.12 3,888.57
+
+93/12/31 94/02/08 94/01/31 28,920.12 30,953.34 -2,033.22 2,033.22 1,580.67 3,613.89
+
+94/03/31 94/04/29 94/05/02 21,474.32 42,318.01 -20,843.69 20,889.09 -9,637.77 11,205.92
+
+94/06/30 94/08/22 94/08/01 24,905.22 44,078.00 -19,172.78 19,172.78 -12,214.08 6,958.70
+
+94/09/30 94/11/01 94/10/31 16,178.55 136,454.63 -120,276.08 120,276.08 -88,218.16 32,057.92
+
+94/12/31 95/02/06 95/01/31 19,368.11 110,446.76 -91,078.65 91,102.94 -48,546.59 42,532.06
+
+95/03/31 95/05/08 95/05/01 12,952.58 113,447.52 -100,494.94 100,514.82 -38,759.21 61,735.73
+
+95/06/30 95/10/19 95/07/31 25,340.94 131,020.32 -105,679.38 0.00 -26,309.28 79,370.10
+
+Subtotal 395,009.10 834,056.26 -439,047.16 406,929.03 -229,498.68 170,890.04
+
+95/09/30 96/06/10 95/10/31 55,662.66 175,378.05 -119,715.39 0.00 8,116.93 127,832.32
+
+95/12/31 96/06/10 96/01/31 26,224.70 72,298.41 -46,073.71 0.00 10,857.30 56,931.01
+
+96/03/31 96/07/02 96/04/30 13,479.51 104,254.30 -90,774.79 0.00 49,594.34 140,369.13
+
+Total 490,375.97 1,185,987.02 -695,611.05 406,929.03 -160,930.11 496,022.50
+
+* an original return plus two amending returns were filed for this period,
+
+- all of the returns were posted to the Corporation's account for this reporting period
+
+- the original return plus one amending return were reversed.
+
+(h) the Minister paid the refunds of net tax set out in subparagraph (g) above to the Corporation;
+
+(i) among other things, the Corporation failed to account for tax on supplies it made during the relevant period to G.S. Wheels Inc.;
+
+(j) G.S. Wheels Inc. claimed input tax credits with respect to the supplies referred to in the previous subparagraphs;
+
+(k) there were many discrepancies in the Corporation's books and records, including its inventory listings;
+
+(l) the Corporation's net tax for the reporting periods ending during the relevant period was as set out above in paragraph (g);
+
+(m) the following Notices of Assessment were received by the Corporation with respect to the net tax that was reported on the returns mentioned in subparagraph 7(i) supra:
+
+Date Total Net Tax
+
+Period Assessed Assessed Adjustments Assessed
+
+92/04/01 to 95/06/30* 96/05/15 250,260.14 -294,466.40
+
+95/07/01 to 95/09/30 96/10/18 127,832.32 8,116.93
+
+95/10/01 to 95/12/31 96/10/18 56,931.01 10,857.30
+
+96/01/01 to 96/03/31 96/10/18 140,369.13 49,594.34
+
+575,392.60 -225,897.83
+
+* net tax assessed should have been a credit of ($225,807.56), but incorrectly included the net tax refunds claimed on the original return and an amending return for the reporting period ending June 30, 1992, which were replaced by another amending return, in the calculation.
+
+(n) for the reporting periods that ended during the relevant period, in which the net tax was a positive amount, the Corporation failed to remit net tax of at least $74,066.60 to the Receiver General of Canada as required by the provisions of the Act;
+
+(o) the Corporation failed to pay penalties and interest relating to the net tax referred to in the previous subparagraphs as required by the provisions of the Act;
+
+(p) the Minister paid the refunds of net tax set out in paragraph (g) above to the Corporation;
+
+(q) among other things, the Corporation failed to account for tax on supplies it made during the relevant period to G.S. Wheels Inc.;
+
+(r) G.S. Wheels Inc. claimed input tax credits with respect to the supplies referred to in the previous subparagraph;
+
+(s) there were a many discrepancies in the Corporation's books and records, including its inventory listings;
+
+(t) the Corporation did not make an assignment under the Bankruptcy and Insolvency Act;
+
+(u) a receiving order was not made against the Corporation under the Bankruptcy and Insolvency Act;
+
+(v) on November 27, 1996, a Certificate was issued and registered at the Federal Court of Canada certifying the Corporation's liability under Part IX of the Act in the amount of $353,658.13, plus the penalty and interest relating thereto;
+
+(w) a Writ of Fieri Facias was issued on November 27, 1996;
+
+(x) execution of the Writ of Fieri Facias was returned unsatisfied in whole;
+
+(y) on June 10, 1997, the Corporation's liability for net tax of at least $74,066.60 and the penalties and interest related thereto remained outstanding;
+
+(z) at all material times Michael Peter Henrick Simon (the "Son") was involved in the management of the Corporation;
+
+(aa) during the relevant period the Father and his wife were the only directors of the Corporation;
+
+(bb) at all material times the Appellant was an accountant;
+
+(cc) during the relevant period the Appellant signed the certification on some of the returns which were filed with the Department;
+
+[4] It was further agreed that the following accurately shows the periods of default, the net tax in default, the interest and penalties thereon and a running balance:
+
+Filing Period Net tax Interest Penalty Balance
+
+92/09/30 $1,589.72 $533.44 $583.12 $2,706.28
+
+93/06/30 2,327.64 605.08 678.48 3,611.20
+
+93/12/31 1,580.67 362.22 401.89 2,344.78
+
+95/09/30 8,116.93 710.49 862.10 9,689.52
+
+95/12/31 10,857.30 749.29 956.32 12,562.91
+
+96/03/31 49,594.34 2,495.87 3,512.19 55,602.40
+
+Totals $74,066.60 $5,456.39 $3,512.19 $86,517.09
+
+[5] There were a number of facts assumed by the Minister that were not consented to, and no evidence was adduced to the contrary or the evidence confirmed the facts so that they stand, namely:
+
+(a) the Corporation and G.S. Wheels Ltd. were related corporations;
+
+(b) during the relevant period some vehicles were removed from the Corporation's inventory without a sale being recorded in the Corporation's books and records;
+
+(c) the Corporation never, during the relevant period, maintained a separate account or separate deposits in respect of GST collected from its customers.
+
+[6] Called to the witness stand were the Appellant, his wife and Son.
+
+[7] The explanation given as to why other witnesses were not called was that they were either dead or could not be found. Without evidence to the contrary, I draw no inference from the fact that these people were not called to testify.
+
+[8] The Son said that he was a grade 11 drop-out and while living at home, he started a small used car business. He bought cheap cars and sold them under the corporate name of Simon Automotive Ltd. which was owned by his father and mother.
+
+[9] When it was decided that a used car lot would be established, Simon Automotive Ltd. changed its name to Jampa Enterprises Ltd. ("Jampa"). Jampa was treated as a holding company by the Appellant and his wife.
+
+[10] While the Son was buying and selling cheap used cars, he had about 20 sales. The Son formed a friendship with a man in his 50s by the name of Bill Clark ("Bill") who had experience in the used car business. Bill took a small equity interest in the Corporation and acted as general manager for about a year and a half, that is until the fall of 1993.
+
+[11] G.S. Wheels ("Wheels") started to operate on January 1st, 1995. Although no supporting documents were produced, the Son alleged that Wheels was held equally between himself, his father and two other gentlemen.
+
+[12] The Consolidated March 31, 1996 Balance Sheet stated: Due to a director, $703,184 as of March 31, 1996. The financial statement for the Corporation dated March 31, 1995 shows: Due to a director $301,684. The Corporation's financial statements as of March 31, 1996 show: Due to a director $286,684. Thus, the Appellant, over the year from March 31, 1995 to March 31, 1996, received $15,000 from the Corporation on his loan.
+
+[13] The March 31, 1996 Consolidated Balance Sheet shows: Due to a director $703,184. The March 31, 1996 Corporation's Balance Sheet read: Due to a director $286,684, the difference is $416,500, the amount shown on G.S. Wheels Balance Sheet as of March 31, 1996. Therefore, the Appellant loaned Wheels $416,500 and the other three shareholders did not put up any money whatsoever. Thus, the Appellant put an additional $416,500 into the used car business managed by his Son between January 1, 1995 and March 31, 1996. (Less the $15,000 he received from the Corporation.)
+
+[14] The Appellant is a very knowledgeable businessman having been five years with Western Avionics, having started as Vice-president of Finance, and prior to that, worked for a high-tech company for 20 years starting as comptroller and then becoming Vice-president of Finance. He can read financial statements and can set up bookkeeping records and accounting procedures for corporations.
+
+[15] When the Corporation commenced business, Bill acted as General Manager, the Son was Assistant Manager and salesman. Henry Metviw ("Henry") was about 60 years of age and did the books for several other companies.
+
+[16] The Appellant purchased, on behalf of the Corporation, a computer and accounting software and set up the accounting procedures to his specifications.
+
+[17] Henry prepared the GST returns and the Appellant signed some of them as a matter of convenience.
+
+[18] The Appellant hired different entities to do the year-end financial statements. These were prepared as follows:
+
+March 31, 1993 prepared by G.J. Meyer & Company,
+
+Chartered Accountants
+
+March 31, 1994 prepared by John D. Hind
+
+a Chartered Accountant
+
+March 31, 1995 prepared by Collins & Barrow
+
+Chartered Accountant
+
+March 31, 1996 prepared by Owen J. Brown & Associates,
+
+calling themselves as management accountants and
+
+who were doing by then the day to day bookkeeping for the Corporation.
+
+All these statements were unaudited.
+
+[19] Henry retired in late summer of 1995. A David Ingram ("Ingram") was hired to take his place with an overlap period. Ingram was fired for drinking on the job and, in any event, the work was being performed by Owen Brown ("Owen"). Owen was then hired to do the bookkeeping and to prepare the year-end statements.
+
+Analysis
+
+[20] The Appellant asks the Court to believe that even though he put his whole life savings on the line for his high school drop-out son that notwithstanding his financial ability and business capabilities, he accepted the financial statements from the Corporation's bookkeepers and that he never went behind their produced figures and never realized there were problems.
+
+[21] I find this not to be credible. I just do not believe that the Appellant, with his background and ability, would not be intimately involved with the financial preparation of all records and the actual running of the business.
+
+[22] On review of the testimony of the Appellant and
+
+(a) a letter from the Appellant to Revenue Canada, dated April 1, 1993 (Exhibit R-3);
+
+(b) a faxed letter from the Appellant to Henry, dated July 14, 1995; and
+
+(c) a letter from the Appellant and his spouse to Revenue Canada, dated March 3, 1997.
+
+only two conclusions can be drawn, that is either the Appellant was
+
+(a) sloppy with the facts; or
+
+(b) he was prepared to mislead Revenue Canada and purposely misstated facts. (This I conclude is what he did.)
+
+[23] Concerning the April 1, 1993 letter, the Appellant states: "The above penalty and interest came about from our changing the name from Simon Automotive to Chevrolane Motorcars Ltd.". This obviously was not true and the Appellant knew it not to be true. The Appellant knew that the Corporation had to buy the inventory of Simon Automotive but tried to slip it by Revenue Canada by claiming it was a change of name.
+
+[24] The faxed letter from the Appellant to Henry, dated July 14, 1995, states:
+
+... We are in business for three years and I still don't get the financial statements every month. ...
+
+This written statement contradicts his oral testimony where he said at page 58:
+
+Every month I went through the financial statement with a fine tooth comb, yes.
+
+Then, at page 76:
+
+Q. So you have actually looked at your company's finances fairly detailed at times so you do know what sort of structure it is?
+
+A. No.
+
+[25] The letter that the Appellant and his spouse sent to Revenue Canada, dated March 3, 1997, stated:
+
+... In July of 1995, Henry Matviw resigned as the company accountant, however, he agreed to do the books until we were able to hire his replacement. ...
+
+I conclude that Henry resigned as a result of the July 14, 1995 fax he received from the Appellant. The Appellant also stated:
+
+... Chevrolane started experiencing financial difficulties in June of 1996 when I found out that the previously received Financial Statement was grossly overstated and that there was no inventory to speak of or any assets.
+
+This is contrary to the Appellant's testimony when, to the question (at page 29):
+
+Q. When was the company shut down?
+
+He answered:
+
+A. Approximately April, March or April.
+
+Q. Of which year?
+
+A. 1996.
+
+[26] In this instance, I believe the date to be the end of March 1996, as that is the last filing period that GST was not remitted. Also, the Collins Barrow's report on the shortcomings of the Corporation records is dated April 19, 1996.
+
+[27] The Appellant also stated (in the letter to Revenue Canada of March 3, 1997):
+
+I was always provided with monthly financial statements prepared by the accountant, ...
+
+This is directly opposite to his statement to Henry in his faxed letter of July 14, 1995. He also stated:
+
+... I visited the car lot every two or three days, ...
+
+[28] In his testimony, he claims he visited the car lot two or three times a month. I believe it is most likely that he did visit the car lot every two or three days and that he did review all documentation that was available.
+
+[29] The Appellant also stated at page 3 of the March 3, 1997 letter:
+
+... I also had two external audits performed during this time for accuracy, one of them being the one that was conducted by Collins, Barrow Chartered Accountants.
+
+This statement is just not true. The only audit ever done on the Corporation was performed by Revenue Canada. The Appellant knows the difference between an unaudited financial statement and an audited financial statement.
+
+[30] I conclude that I cannot rely on the Appellant's testimony. There are too many inconsistencies. He answered all his counsel's questions, but in cross-examination, he answered some 20 times "I can't recall", or "I have no idea", or some such similar answers.
+
+[31] Some other examples of conflict in the Appellant's testimony between what was said in chief and what his son said in his testimony are as follows. The Appellant's testimony concerning Simon Automotive was vague, yet his wife arranged for it to be incorporated and she and the Appellant were the sole shareholders. Simon Automotive became Jampa Enterprise, the holding company of the Corporation. The Appellant knew this. Yet, at pages 36 and 37, when he answered this question:
+
+Q. This document purports to show the existence of another automobile industry or automobile company in existence prior to the existence of Chevrolane Automobiles with your signature on it. Were you involved with that company at the time?
+
+A. No, my son did.
+
+Yet, he was a half-owner
+
+[32] The following is a series of question and answers asked in cross-examination at page 52:
+
+Q. Who actually appointed the accounting firm who was in charge of identifying who was going to do year-end books?
+
+A. I remember one year I had Collins Barrow but the rest of it I honestly don't remember.
+
+Q. And who is the accountant at Collins Barrow?
+
+A. I can't recall right now.
+
+Q. Would it have been your brother?
+
+A. It could have been, yeah ...
+
+[33] I believe the Appellant was deliberately misleading the Court. He obviously knew his brother was a chartered accountant and it was him who he was dealing with. Also, in his examination-in-chief, at page 10 of the transcript, to the question:
+
+Now, who prepared the year-end financial statements and income tax returns for the corporation?
+
+He gave the unequivocal answer:
+
+I hired an accounting firm every year.
+
+[34] When asked about Bill Clark leaving the Corporation, the Appellant talked about periodic fights and that he had enough of the in-fighting, so he settled with Bill Clark. Yet, his son said that the Corporation was not making any money and that he wanted to take the business to the next level against Bill's wishes.
+
+[35] No attempt was made by the Appellant to give a reasonable explanation why he had three different chartered accountants do unaudited financial statements for the first three year-ends, yet he had Owen Brown, David Ingram's assistant, who became the full-time bookkeeper in December of 1995, do the March 31, 1994 financial statements.
+
+[36] There are many other inconsistencies in the Appellant's testimony.
+
+[37] Even if I had accepted the Appellant's testimony that he relied completely on the statements being produced by the Corporation bookkeepers, the faxed letter to Henry from the Appellant, dated July 14, 1995, indicates that he knew things were not right. I think the knowledge that letter exhibits puts the onus on the Appellant to check into all matters and then put into place a system that would have prevented default.
+
+[38] Robertson J.A., in the Federal Court of Appeal decision of Neil Soper v. The Queen, 97 DTC 5407, says there is a positive duty on directors, where information is obtained which might lead one to conclude that there is or could reasonably be, a potential problem with remittance.
+
+[39] I note that the last paragraph of the faxed letter to Henry reads:
+
+3. Jampa Holdings – Same as above. I noticed that the GST return was not done for the last period. Please do this on Monday.
+
+Henry, our company is growing and to make financial decisions the accounting have to move to a higher level. I need your co-operation and help to achieve this. If you have problems with the above I can help, so please do not hesitate to communicate with me. Please call me at 250 2644 for further discussion.
+
+[40] This demonstrates a dissatisfaction on the Appellant's behalf. With the Appellant's knowledge and ability and with his life savings on the line, I do not believe he just sat back and allowed others to mislead him.
+
+[41] Even if I had accepted as factual that until July 1995, he relied upon Henry and did nothing other than look at his statements (which I do not), the knowledge that he had in July 1995 triggered the necessity of taking positive action on his part and then I would have found him liable for only the last three filing periods' default, which is approximately 90% of the assessment.
+
+[42] The June 1995 corporate cheque (Exhibit R-2), on its face, screams sloppiness and mismanagement.
+
+[43] For these reasons, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 20th day of June, 2000.
+
+"Gordon Teskey"
+
+J.T.C.C.
+

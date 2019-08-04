@@ -1,0 +1,206 @@
+Date: 19980624
+
+Docket: 94-1429-IT-G
+
+BETWEEN:
+
+HOLLINGER INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the 1986 and 1987 taxation years. The issue is whether the appellant, having acquired for $4,000,000 a chain of two Canadian corporations and a U.S. corporation, is entitled to a capital loss in 1986 of about $113,000,000 when the two Canadian companies are wound up and the U.S. company is sold for $20.00.
+
+[2] The facts are relatively uncomplicated.
+
+[3] Coseka Resources Limited (“Coseka”) owned all of the shares of Coseka Resources (U.S.A.) Limited (“Coseka U.S.”). It had invested very substantial amounts in Coseka U.S. with the result that its adjusted cost base (“ACB”) of the shares of the U.S. corporation was high. There is some dispute on the exact amount of the ACB of the shares, but it is admitted that the ACB of all the shares of Coseka U.S. that Coseka owned was somewhere between $178,000,000 and $217,000,000.
+
+[4] The Coseka U.S. shares had only a nominal value. If Coseka sold those shares it would have sustained a substantial capital loss equal, roughly, to its ACB. This loss would have been of no value to it because it had no capital gains against which the loss could be offset. Therefore a means had to be found whereby the potential loss could be turned to account.
+
+[5] Hollinger had ample capital gains and so the following series of steps was devised and implemented to enable Hollinger to utilize Coseka’s potential losses. Counsel for the respondent described the steps as “preordained” and indeed they were. They were orchestrated by the appellant’s solicitors.
+
+[6]
+
+1. Coseka caused 346045 Alberta Limited (“346045”) to be incorporated of which it held all the shares.
+
+2. Coseka caused 353380 Alberta Ltd. (“353380”) to be incorporated. Its shares were all owned by 346045.
+
+3. Coseka entered into a written option agreement with an arm’s length company, 341063 Alberta Ltd. (“341063”) whereby in consideration of $15,000 it gave 341063 an option exercisable prior to December 30, 1986 to purchase all of the issued and outstanding 2,050 common, 240 preferred, 150 preferred series B and 1,396 preferred series C shares of Coseka U.S. for a purchase price of $0.01 per share.
+
+4. 341063 was owned by Phelps Drilling International Limited (“Phelps”), which was owned to the extent of 24% by Bramalea Limited. Bramalea was a 68% shareholder of Coseka.
+
+5. By an agreement of purchase and sale dated November 24, 1986, which followed substantially a letter of intent of November 7, 1986, the appellant agreed to purchase from Coseka the 10 issued and outstanding shares of 346045 for $4,000,000 with a closing time of 2:00 p.m. on December 16, 1986.
+
+6. In that agreement, Coseka warranted that at closing the only assets of 346045 were the shares of 353380, and that 353380’s only assets would be 1,068 common, 125 preferred, 79 preferred series B, and 728 preferred series C shares of Coseka U.S. (about 52% of all of its issued and outstanding shares) which were subject to the option to 341063.
+
+7. In the agreement there was a condition that the appellant would satisfy itself that the ACB of the Coseka U.S. shares held by 353380 was at least $100,000,000.
+
+8. The Coseka U.S. shares had been pledged and hypothecated to the Royal Bank of Canada. The bank released them on December 9, 1986 in consideration of Coseka’s agreement to pay it one-half of the net amount received by Coseka for the shares of 346045 as well as one half of the amount received under a similar transaction with Westbridge Capital Corporation relating to the rest of the shares of Coseka U.S.
+
+9. On December 12, 1986 Coseka sold and transferred to 353380 the 1,068 common, 125 preferred, 79 preferred series B and 728 preferred series C, shares of Coseka U.S. referred to in paragraph 6. 353380 acknowledged that the shares were subject to the option to 341063 and entered into a similar option agreement with 341063.
+
+10. On December 18, 1986, 346045 was dissolved and its shares of 353380 were transferred to the appellant. The certificate of dissolution of 346045 is dated December 18, 1986. Following the dissolution of 346045, the Appellant caused 353350 to be dissolved and its assets, which consisted of approximately 52% of the issued shares of Coseka U.S., were transferred to the appellant.
+
+11. On December 19, 1986, 341063 gave notice to the appellant that it was exercising its option to purchase the Coseka U.S. shares and on December 22, 1986, the Appellant sold them to 341063 for $20.00.
+
+12. The subsequent transactions involving the shares of Coseka U.S., through Coseka Acquisition I Inc. and Coseka Acquisition II Inc., are not germane to this case. It is sufficient to say that they appear to have ended up back with Coseka. According to the President of Coseka, the purpose of the option was to ensure that the Coseka U.S. shares would not be sold to just anyone but would come back to Coseka.
+
+[7] The appellant in filing its returns of income claimed a capital loss of $113,723,980 and an allowable capital loss of $56,861,990, on the basis that its ACB of the Coseka U.S. shares was $113,724,000 and its proceeds of disposition were $20.00.
+
+[8] The scheme was executed with precision and without a hitch. It did not involve a great deal of risk ($4,000,000) in comparison to the anticipated huge tax advantage ($56,861,990). It had no commercial purpose, unless one regards the saving of tax, its only objective, as a commercial purpose. Simply put, it involved moving a virtually worthless company with a high ACB down to a second-tier subsidiary, selling the entire three-company chain to a purchaser who could use the loss, collapsing the first two companies in the chain so that the purchaser acquired the shares of the company at the end of the line, with the vendor’s ACB in them, and selling them to realize the loss. The appellant’s true economic loss is $3,999,980, being its real cost of acquisition of the shares less the proceeds of $20.00. The Income Tax Act has since been amended to prevent this sort of transfer of losses.
+
+[9] If the scheme succeeds, its success depends upon the specificity of the Act, both the specificity of the rules relating to the transfer of property among taxpayers and the loss or survival of the ACB and the specificity of the anti-avoidance rules.
+
+[10] I shall, therefore, begin by considering the technical merits of the plan. The appellant contends:
+
+1. The shares of Coseka U.S. were capital property in Coseka’s hands, and for the purposes of this part of the analysis, I shall assume that the shares that the appellant acquired had an ACB to Coseka of $92,000,000.
+
+2. When the Coseka U.S. shares were sold by Coseka to 353380 paragraph 85(4)(b) of the Act did not apply and paragraphs 85(4)(a) and 53(1)(f.1) did apply.
+
+[11] Subsection 85(4) reads:
+
+(4) — Where a taxpayer or a partnership (hereinafter referred to as the taxpayer) has, after May 6, 1974, disposed of any capital property or eligible capital property of the taxpayer to a corporation that, immediately after the disposition, was controlled, directly or indirectly in any manner whatever, by the taxpayer, by the spouse of the taxpayer or by a person or group of persons by whom the taxpayer was controlled, directly or indirectly in any manner whatever, and, but for this subsection, subsection 24(2) and paragraphs 40(2)(e) and (g), the taxpayer would have had a capital loss therefrom or a deduction pursuant to paragraph 24(1)(a) in computing his income for the taxation year in which he ceased to carry on a business, as the case may be, the following rules apply:
+
+(a) notwithstanding section 24 and paragraphs 40(2)(e) and (g), his capital loss therefrom, or his deduction pursuant to paragraph 24(1)(a) in computing his income for the taxation year in which he ceased to carry on the business, as the case may be, otherwise determined shall be deemed to be nil; and
+
+(b) in computing the adjusted cost base to the taxpayer of all shares of any particular class of the capital stock of the corporation owned by him immediately after the disposition, there shall be added, in the case of capital property, the amount that is equal to, and in the case of eligible capital property, twice the amount that is equal to, that proportion of the amount, if any, by which
+
+(i) the cost amount to him, immediately before the disposition, of the property so disposed of,
+
+exceeds
+
+(ii) his proceeds of disposition of the property or where the property was an eligible capital property, his eligible capital amount, within the meaning assigned by section 14, as a result of the disposition of that property
+
+that
+
+(iii) the fair market value, immediately after the disposition, of all shares of that class so owned by him,
+
+is of
+
+(iv) the fair market value, immediately after the disposition, of all shares of the capital stock of the corporation so owned by him.
+
+I have italicized the words that seem to be central to the appellant’s technical position. In more or less plain language what the subsection is saying, so far as is relevant here, is that if a taxpayer disposes of capital property to a corporation that the taxpayer controls directly or indirectly (i.e. immediately or somewhere down a corporate chain) the loss (apart from some other provisions that do not apply) that the taxpayer would otherwise have sustained is deemed to be nil. However, paragraph (b) goes on to say that if the taxpayer owned immediately after the disposition (not just controlled directly or indirectly) shares of the corporation to which the property was disposed there should be added to the taxpayer’s ACB of those shares the amount of the loss otherwise determined. I need not set out the formula where more than one class of shares is owned. It is quite obvious that paragraph 85(4)(b) can have no application because Coseka owned no shares of 353380 and had no ACB in those shares.
+
+3. This leads then to paragraph 53(1)(f.1) which reads:
+
+53.(1) In computing the adjusted cost base to a taxpayer of property at any time, there shall be added to the cost to him of the property such of the following amounts in respect of the property as are applicable:
+
+...
+
+(f.1) where the property has been disposed of by a taxable Canadian corporation to the taxpayer, and the taxpayer is a taxable Canadian corporation, in circumstances such that paragraph 85(4)(b) does not apply so as to increase the adjusted cost base to the corporation of shares of the capital stock of the taxpayer, and the corporation’s capital loss from the disposition has been deemed by paragraph 40(2)(e) or 85(4)(a) to be nil, the amount that would otherwise have been the corporation’s capital loss from the disposition.
+
+The result is that since paragraph 85(4)(b) does not apply to increase Coseka’s ACB of the shares of 353380, Coseka’s loss on the shares of Coseka U.S., which paragraph 85(4)(a) deems to be nil, is added to 353380’s cost of those shares.
+
+4. When 353380 was liquidated into the appellant its ACB of the shares of Coseka U.S. became the ACB of the shares to the appellant by reason of subsection 88(1).
+
+5. Therefore, when the appellant disposed of the shares of Coseka U.S. for $20.00 it sustained a capital loss equal to the difference between the ACB to it of those shares and its proceeds of disposition.
+
+6. Each of the series of transactions culminating in the sale of the shares of Coseka U.S. to 341063 was legally binding and gave rise to genuine legal relationships. None was a sham.
+
+[12] I turn now to the argument under subsection 55(1). That subsection, as it applied in 1986, read as follows:
+
+55.(1) For the purposes of this subdivision, where the result of one or more sales, exchanges, declarations of trust, or other transactions of any kind whatever is that a taxpayer has disposed of property under circumstances such that he may reasonably be considered to have artificially or unduly
+
+(a) reduced the amount of his gain from the disposition,
+
+(b) created a loss from the disposition, or
+
+(c) increased the amount of his loss from the disposition,
+
+the taxpayer’s gain or loss, as the case may be, from the disposition of the property shall be computed as if such reduction, creation or increase, as the case may be, had not occurred.
+
+[13] For the subsection to apply a taxpayer must have disposed of property under circumstances such that he may reasonably be considered to have artificially or unduly created a loss from the disposition or increased the amount of his loss from the disposition.
+
+[14] The meaning of these words was discussed at some length by the Federal Court of Appeal in The Queen v. Nova Corporation of Alberta, 97 DTC 5229. I shall not set out the two series of transactions that culminated in Nova Corporation’s sustaining and claiming capital losses far in excess of its true economic losses, beyond observing that in all material respects they follow the same pattern as in this case. The majority of the Federal Court of Appeal held that Nova did nothing to increase the loss. McDonald J.A. said at page 5236:
+
+It appears to me that the loss on disposition claimed by the taxpayer in this case came about purely by operation of the provisions of the Income Tax Act.
+
+[15] At pages 5236-5237 he said:
+
+Subsection 55(1) is not a broad anti-avoidance provision. Its scope cannot be expanded beyond its plain meaning where there is no ambiguity. A plain reading of the provision indicates that it requires some action on the part of the taxpayer in order for it to apply. That is, the taxpayer must actually do something to affect his loss on disposition of the property. As I have explained, this entails affecting either the ACB or the proceeds of disposition. In this case, the taxpayer did nothing to affect those figures. The ACBs of the shares were inherited by the taxpayer, and the shares were disposed of for their market value, which was nothing. The losses claimed by the taxpayer came about through the inheritance of ACB’s, and this inheritance came about through operation of the Act. The taxpayer did nothing but avail himself of the provisions as they then existed.
+
+[16] Leave to appeal to the Supreme Court of Canada was denied.
+
+[17] A case in which there was somewhat the same sequence of events was The Queen v. Husky Oil Limited, 95 DTC 5244.
+
+[18] The same conclusion is warranted here. Counsel for the respondent sought to distinguish Nova from this case on the basis that the appellant, through its solicitors, was involved from the beginning of the series of transactions, and was instrumental in orchestrating, directing and implementing the transactions. No doubt it was, but this involvement did nothing to create or increase the inherent loss or the loss ultimately sustained. That loss existed independently of the appellant, and its solicitors’ activities were directed to ensuring that the formal steps necessary to implement the specific rules laid down by Parliament were followed.
+
+[19] It was argued that the decision in Nova should be regarded as inconsistent with that in The Queen v. Central Supply Company (1972) Limited et al., 97 DTC 5295 and since Central Supply is more recent than Nova I should follow it.
+
+[20] That case did not deal with section 55 and I should have thought that had the Federal Court of Appeal intended to overrule itself it would have said so. It may well be that the panels in the two cases proceeded from different philosophical premises but this does not mean that the latter case had the effect of overruling the former. The premises upon which the court proceeded in Nova appear to be consistent with the principles enunciated by the Supreme Court of Canada in Mara Properties Ltd. v. The Queen, 96 DTC 6309 and Newman v. R., May 21, 1998, file No. 25565 (S.C.C.) and Duha Printers (Western) Ltd. v. R., file No. 25513, May 28, 1998 (S.C.C.).
+
+[21] As Iacobucci J. said in Newman (supra) at paragraph 63 at page 22:
+
+However, as mentioned above, taxpayers are entitled to arrange their affairs for the sole purpose of achieving a favourable position regarding taxation and no distinction is to be made in the application of this principle between arm’s length and non-arm’s length transactions (see Stubart, supra). The ITA has many specific anti-avoidance provisions and rules governing the treatment of non-arm’s length transactions. We should not be quick to embellish the provision at issue here when it is open for the legislator to be precise and specific with respect to any mischief to be avoided.
+
+[22] In the same vein, Iacobucci J. said in Duha Printers (supra) at paragraph 87 at pages 45 and 46:
+
+It is well established in the jurisprudence of this Court that no “business purpose” is required for a transaction to be considered valid under the Income Tax Act, and that a taxpayer is entitled to take advantage of the Act even where a transaction is motivated solely by the minimization of tax: Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536. Moreover, this Court emphasized in Antosko, supra, at p. 327 that, although various techniques may be employed in interpreting the Act, “such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed”.
+
+[23] Counsel for the respondent argued that there was no “disposition” by Coseka of the shares of Coseka U.S. to 353380 within the meaning of paragraph 85(4)(a), because there was a change in the legal ownership but no change in the beneficial ownership, as required by paragraph 54(c). Essentially this argument is based upon the fact that the shares were subject to an option in favour of 341063 and the beneficial interest was conveyed to Hollinger by the letter of intent of November 7, 1986 and the agreement of purchase and sale of November 24, 1986.
+
+[24] With respect, this argument ignores the transactions that actually occurred and their legal form. The respondent’s argument is based upon the decision of the Federal Court of Appeal in The Queen v. Paxton, 97 DTC 5012. That case involved a contention that a prior agreement to sell property to one party prevented a subsequent sale to the appellant’s children from taking place. Here an option was granted. That option did not need to be exercised. The shares were sold to 353380 subject to the option and the letter of intent and the agreement of purchase and sale between Coseka and Hollinger contemplated the transfer of the Coseka U.S. shares to 353380, a wholly owned subsidiary of 346045. Paxton involved a prior legal impediment to the sale of the property to the children. None exists here.
+
+[25] The respondent contends further that the shares of Coseka U.S. were not, at least at the time they were disposed of, capital property. The position is that by 1986 they had become worthless and incapable of yielding any return. They were, therefore, not an investment and therefore not capital property. Since their only value to Coseka was the potential losses on them that someone else might be able to use, they were not a capital property and the acceptance of the letter of intent by Coseka was a “clear and unequivocal positive act implementing a change of intention” (Roos et al. v. The Queen, 94 DTC 1094 at page 1099) indicating a change of use, which occurred prior to the conveyance of the Coseka U.S. shares to 353380.
+
+[26] I do not regard a decision to sell an unproductive investment on terms that are as favourable as possible as a change of use, giving rise to deemed disposition and a conversion from capital to inventory. There has to be far more than a decision to get rid of the property. The sale of a bad investment, such as shares of a company, would in the normal course give rise to a capital loss.
+
+[27] It was further contended that even if there was a disposition of the Coseka U.S. shares and if they were capital property of Coseka, paragraph 53(1)(f.1) does not apply because only paragraph 53(1)(f.2) applies.
+
+[28] I have quoted paragraph 53(1)(f.1) above. Paragraph 53(1)(f.2) reads:
+
+(f.2) where the property is a share of the capital stock of a corporation, any amount required by paragraph 85(4)(b) to be added in computing the adjusted cost base to him of the share.
+
+[29] Paragraph 53(1)(f.1) was added to the Act by 1977-78. In its original form it provided in essence that where subsection 85(4) did not apply and the corporation’s loss is deemed by paragraph 40(2)(e) to be nil, there should be added to the cost of the property the amount that, but for paragraph 40(2)(e), would have been the loss. Paragraph 53(1)(f.1) was made applicable to dispositions occurring after March 31, 1977.
+
+[30] Former paragraph (f.1) read as follows:
+
+(f.1) where the property has been disposed of by a corporation to the taxpayer in circumstances such that subsection 85(4) does not apply in respect of the disposition, and the corporation’s loss from the disposition has been deemed by paragraph 40(2)(e) to be nil, the amount that, but for that paragraph, would have been the corporation’s loss from the disposition.
+
+[31] In 1979, former (f.1) was repealed and new (f.1) and (f.2) were substituted in the form quoted above.
+
+[32] New (f.1) was made applicable in respect of dispositions after November 16, 1978, and new (f.2) was made applicable in respect of dispositions of property after 1971.
+
+[33] The inference that counsel invites me to draw from the repeal of old paragraph (f.1) and the enactment of the new paragraphs (f.1) and (f.2) is that the increase to the corporate transferee’s ACB contemplated by (f.1) does not apply where the transferred property is shares. The result of this interpretation is as follows:
+
+[34] Assume A Corp. owns B Corp. which owns C Corp. A Corp. transfers shares of X Corp. to B Corp. at a loss.
+
+[35] Paragraph 85(4)(a) deems A Corp.’s loss to be nil. Paragraph 85(4)(b) adds the amount of A Corp.’s loss to its ACB of its shares in B Corp. However if A Corp. were to sell the shares of X Corp. to C Corp. at a loss (and not take back shares, but instead some other form of consideration) A Corp.’s loss would be denied under paragraph 85(4)(a), and the effect of the denial of its loss would not be alleviated under paragraph 85(4)(b) because it owned no shares in C Corp. According to the respondent’s argument C Corp. would get no upward adjustment from paragraph 53(1)(f.1) because that paragraph does not apply to shares of a corporation, and paragraph (f.2) would not assist either because paragraph 85(4)(b) would not apply.
+
+[36] In my view paragraph (f.2) has application only to shares to which paragraph 85(4)(b) applies whereas paragraph (f.1) applies to property (including shares) where paragraph 85(4)(b) does not apply. Any other result would lead to an absurdity in that it would create a lacuna that, evidently, paragraphs 85(4)(b) and 53(1)(f.1) and (f.2) were designed to fill.
+
+[37] Counsel asks me to conclude that paragraph (f.2) excises corporate shares from the operation of paragraph (f.1). An interpretation that is more consonant with the object of these very specific provisions is that paragraph (f.1) provides for an addition of the amount of the loss to the ACB of shares where paragraph 85(4)(b) does not do so, whereas paragraph (f.2) simply picks up the adjustment required by paragraph 85(4)(b). Indeed, a more prosaic explanation of the genesis of paragraph (f.2) is that it has no more extraordinary an object than the routine one of completing the collection in section 53 of all of the ACB adjustments that are found throughout the Act. After all, paragraph (f.2) does nothing that paragraph 85(4)(b) has not already done. Were the purpose of paragraph (f.2) to limit the operation of paragraph (f.1) in the manner suggested by counsel, Parliament would have been capable of saying so in unequivocal language. There may be a temptation to look for a strained interpretation of the Act to avoid what is perceived to be an undesirable result, but the Act applies whether one is dealing with a tax avoidance scheme or not.
+
+[38] The respondent also contends that Hollinger’s cost of the Coseka U.S. shares under paragraphs 88(1)(a) and (c) is 353380’s cost amount, which is a term applicable only to capital property.
+
+[39] It is contended that the Coseka U.S. shares had no cost amount because they had ceased to be capital property. For the reasons set out above I do not accept this contention. The shares remained capital property throughout.
+
+[40] The final question is the ACB of the Coseka U.S. shares. The appellant alleges that the ACB to 346045 of the shares of 353380 was $113,724,000. This is denied by the respondent. It was therefore incumbent upon the appellant to establish what the ACB of the shares was. There was submitted in evidence as Exhibit A-11 an opinion of Peat, Marwick, Mitchell & Co., chartered accountants. The opinion was hedged with a variety of qualifications and is based upon a number of unverified assumptions of fact and is also subject to the correctness of a number of conclusions of law. It was concluded in a somewhat ambivalent way that the shares of Coseka U.S. owned by Coseka had an ACB based on one assumption, of $179,000,000 (Cdn), on another assumption, of $218,700,000 (Cdn) and on yet another assumption, of $192,000,000 (Cdn).
+
+[41] I do not regard the Peat Marwick opinion as providing any reliable evidence of the ACB of the shares of Coseka U.S. The author of the report was not called as a witness and the facts upon which the report is based were not established in evidence. The appropriate method of establishing conclusions of this type is by calling an expert witness whose report should be filed before trial in accordance with the rules of court. This was not done.
+
+[42] What else is there upon which a reliable determination can be made?
+
+[43] From the examinations for discovery it appears that, on assessing, the ACB of the shares was not challenged, presumably on the view that, since the capital loss claimed by Hollinger was to be denied in its entirety, the ACB was irrelevant. It was however admitted that the ACB of all of the shares was in a range that fell between $178,000,000 and $217,000,000. This would put the ACB of the shares of Coseka U.S. owned by 353380 at somewhere between $92,000,000 and $113,000,000, the higher figure being that claimed by the appellant.
+
+[44] Since I do not regard the Peat Marwick opinion as evidence of ACB — it is of course evidence of material upon which the parties proceeded in carrying out the transaction — the only reliable basis upon which I can proceed is the admission of counsel on discovery relating to the range of figures between $178,000,000 and $217,000,000. Since the appellant has put in no evidence to establish a higher figure than $178,000,000 it should stand. Fifty-two percent of this would be about $92,000,000.
+
+[45] The appeals are allowed and the assessments referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+[46] Counsel for the appellant requested an opportunity of speaking to costs. Counsel are invited to communicate as soon as possible with the registry of the court to arrange a conference call for this purpose unless they wish to deal with the matter in open court the next time I am sitting in Toronto.
+
+Signed at Ottawa, Canada, this 24th day of June 1998.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

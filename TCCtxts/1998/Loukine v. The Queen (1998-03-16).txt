@@ -1,0 +1,114 @@
+Date: 19980316
+
+Docket: 97-1601-IT-I
+
+BETWEEN:
+
+NIKOLAI LOUKINE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] The point raised in this appeal is a narrow one, but it is of sufficient novelty and difficulty that I reserved in order to deliver brief written reasons. It involves the interaction of subsections 62(1), 250(1) and section 64.1.
+
+[2] The facts are not disputed. Dr. Loukine is a scientist who, until his arrival in Canada on April 24, 1995 as a landed immigrant, lived in Russia. He had formerly been an employee of the Topchiev Institute of Petro-Chemical Synthesis, in the Russian Academy of Sciences, 29 Lenin Boulevard, Moscow, Russia. He accepted an offer from the University of Toronto to do research in the Department of Chemistry. During 1995, he worked for the University and received employment income. In computing his income for that year he claimed as a deduction the sum of $9,313.09 as moving expenses under subsection 62(1) of the Income Tax Act. Since he lived in Canada for more than 183 days in 1995 he was deemed under subsection 250(1) to have been a resident of Canada throughout the taxation year.
+
+[3] The question is whether his deemed residency in Canada throughout 1995 is sufficient to bring him within subsection 62(1), as modified by section 64.1.
+
+[4] Subsection 62(1) reads:
+
+(1) Where a taxpayer has, at any time, commenced
+
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as his “new work location”), or
+
+(b) to be a student in full-time attendance at an educational institution (in this subsection referred to as his “new work location”) that is a university, college or other educational institution providing courses at a post-secondary school level,
+
+and by reason thereof has moved from the residence in Canada at which, before the move, he ordinarily resided (in this section referred to as his “old residence”) to a residence in Canada at which, after the move, he ordinarily resided (in this section referred to as his “new residence”), so that the distance between his old residence and his new work location is not less than 40 kilometres greater than the distance between his new residence and his new work location, in computing his income for the taxation year in which he moved from his old residence to his new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence, to the extent that...
+
+(The remainder of the subsection is irrelevant to the issue.)
+
+[5] Section 64.1 reads:
+
+In applying sections 62, 63 and 64 in respect of a taxpayer who is, throughout all or part of a taxation year, absent from but resident in Canada, the following rules apply for the year or that part of the year, as the case may be:
+
+(a) subsection 62(1), paragraph 63(3)(a) and section 64 shall be read without reference to the words “in Canada”;
+
+(b) subsection 63(1) and section 64 shall be read without reference to the words “and contains, where the payee is an individual, that individual’s Social Insurance Number”, if the payment referred to in that subsection or section, as the case may be, is made to a person who is not resident in Canada; and
+
+(c) subparagraph 63(3)(a)(ii) shall be read as if the word “person” were substituted for the words “resident of Canada” where they appear therein.
+
+[6] Paragraph 250(1)(a) reads:
+
+(1) For the purposes of this Act, a person shall, subject to subsection (2), be deemed to have been resident in Canada throughout a taxation year if
+
+(a) he sojourned in Canada in the year for a period of, or periods the aggregate of which is, 183 days or more.
+
+[7] It is clear that by itself subsection 62(1) cannot support Dr. Loukine’s claim to deduct his travelling expenses. He commenced to be employed at a location in Canada but he did not move from a residence in Canada at which he ordinarily resided (his “old residence”) to his new residence. His old residence was in Russia, not Canada. Subsection 62(1) by itself contemplates moves from one residence in Canada to another residence in Canada.
+
+[8] The argument is, however, that he is helped by section 64.1, which broadens the reach or subsection 62(1) in the case of a taxpayer who is “throughout all or part of a taxation year, absent from but resident in Canada, ...”.
+
+[9] In the case of such a taxpayer the words “in Canada” are in effect deleted from subsection 62(1). The words “in Canada” appear three times in that subsection. The result of this deletion, in the case of a person to which section 64.1 applies, (a person resident in Canada but absent therefrom) is that he or she could claim moving expenses not only in respect of a move from one residence in Canada to a new residence in Canada, but also in respect of:
+
+(a) a move from a residence outside of Canada to one within Canada; or
+
+(b) a move between two residences neither of which is in Canada, provided the other conditions of subsection 62(1) were met.
+
+[10] The appellant’s argument is that since subsection 250(1) has deemed him to be resident in Canada throughout the taxation year (1995) he meets precisely the test in section 64.1:
+
+(a) he was throughout the taxation year resident in Canada;
+
+(b) he was absent from Canada during that part of the year preceding April 24, 1995.
+
+[11] While there is technical merit in the appellant’s position I do not believe as a matter of statutory interpretation it is correct. I start from what I believe to be a commonsense appreciation of what Parliament was trying to achieve with section 64.1. There are many Canadian residents who are ordinarily resident in Canada (see Fisher v. The Queen, 95 DTC 840) but who absent themselves from this country for a period of time. Section 64.1 is intended to ensure that such persons are not deprived of the benefits of subsection 62(1). I find it difficult to accept that Parliament intended to extend that benefit to persons who in fact were non-residents of Canada until they came here and sojourned 183 days or more in this country in a taxation year. One might usefully compare this with the situation of a person who immigrated to Canada and took up permanent residency on, say, the 184th day of the year. Such a person would be treated as resident here only during the fraction of the year when he or she was actually a resident, by reason of section 114 of the Income Tax Act. Such a person would unquestionably not be entitled to the benefit of subsection 62(1).
+
+[12] I draw some support from the legislative history of section 64.1. That section replaced former section 63.1 applicable to the 1989 and subsequent taxation years. Section 63.1 read, before its repeal:
+
+Where a taxpayer is deemed by section 250 to be resident in Canada throughout all or part of a taxation year, in applying sections 62 and 63 in respect of him for the period when he is so deemed to be resident in Canada, the following rules apply:
+
+(a) [Repealed.]
+
+(b) subsection 62(1) shall be read without reference to the words “in Canada”;
+
+(c) subsection 63(1) shall be read without reference to the words “and contains, where the payee is an individual, the individual’s Social Insurance Number”, if the payment referred to in that subsection is made to a person who is neither resident in Canada nor deemed by section 250 to be resident in Canada;
+
+(d) paragraph 63(3)(a) shall be read without reference to the words “in Canada”; and
+
+(e) subparagraph 63(3)(a)(ii) shall be read as if the word “person” were substituted for the words “resident of Canada” where they appear therein.
+
+[13] Paragraph (a) of section 63.1, which was repealed in 1988, read:
+
+(a) paragraph 60(f) shall be read without reference to the words “in Canada”.
+
+[14] Section 63.1 was apparently too broad and too narrow at the same time. Its application was confined only to persons who were deemed by subsection 250(1) to be resident in Canada, and it evidently extended the ambit of subsection 62(1) to persons who came to Canada and sojourned here for 183 days or more. Section 64.1 appears to be more consonant with the intention of Parliament. It broadens the application of subsection 62(1) to persons other than those deemed by subsection 250(1) to be residents, and at the same time to persons who are (a) resident and (b) absent.
+
+[15] The use of the word “absent” is interesting. In a broad sense it can, no doubt, denote simply the idea of “not present”, as for example in the sentence “Snow is absent from the Sahara desert.” There is, however, a meaning that is somewhat narrower and that, I believe, more effectively achieves the object of Parliament within the context of the regime that the statute seeks to regulate. That meaning is one that carries with it a connotation of being away from a place where one would normally be expected to be. For example, I would not, in ordinary parlance, say “I am absent from Antarctica” — a place where I have never been. I would, however, say, “In July, I was absent from Canada”. This limitation on the meaning of “absent” arises from the context of the legislation and is implicit in definitions contained in a number of standard dictionaries. The first meaning of the word in the Oxford English Dictionary is “Being away, withdrawn from, or not present (at a place)”.
+
+[16] Similarly, the Petit Robert Dictionnaire de la Langue française gives these definitions of “absent”:
+
+1. Qui n’est pas (dans le lieu où il pourrait, devait être), qui est éloigné (de ce lieu). Il est absent de son bureau, de Paris.
+
+...
+
+3. Qui n’est pas là où on s’attendrait à le trouver.
+
+[17] Both of these definitions carry the implication of being away from a customary or expected place.
+
+[18] There is no need to review the numerous principles of statutory interpretation that have been developed over the years. This has been done in other cases (see Glaxo Wellcome Inc. v. The Queen, 96 DTC 1159). This is simply a case of attributing to a word a meaning that appears to be more consonant with the context, the scheme of the Act, and the intention of Parliament.
+
+[19] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 16th day of March 1998
+
+" D.G.H. Bowman "
+
+J.T.C.C.
+

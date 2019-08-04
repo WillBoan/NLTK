@@ -1,0 +1,202 @@
+Date: 19980218
+
+Docket: 97-710-GST-I
+
+BETWEEN:
+
+AUBRETT HOLDINGS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur, J.T.C.C.
+
+[1] The Appellant's company, Aubrett Holdings Ltd, is appealing a decision made by the Minister of National Revenue (“the Minister”) under the Excise Tax Act (the “Act”) which disallowed the Appellant’s request for a rebate of GST pursuant to section 261 in the amount of $14,000.
+
+[2] The parties agreed to the following facts and no further evidence was submitted.
+
+[3] The Appellant is a corporation formed under the Business Corporations Act of Alberta engaged in the business of an insurance agent in the City of Calgary. In 1991, the Appellant purchased the assets of two insurance agencies, Amcan Insurance Services Inc. ("Amcan") and Davidson-Elves Agencies (1982) Ltd. ("Davidson") (collectively the "Vendors"). Both financial institutions were in receivership and they were purchased from Dunwoody Limited (the "Receiver") which was acting as interim manager and receiver.
+
+[4] Prior to the supplies in question, the Vendors' business was that of a broker or salesperson of insurance policies. The purchase price was $200,000 allocated, a) $185,000 for insurance books[1] and $15,000 for furniture, equipment and miscellaneous items. In addition the Appellant paid $14,000 for GST. For the most part, I have accepted the position of the Appellant and have therefore set out counsel's submissions in considerable detail.
+
+The Appellant's Submission
+
+[5] Every recipient of a taxable supply made in Canada is required to pay the 7% GST based on the amount of consideration for the supply[2]. A taxable supply is a supply that is made in the course of a commercial activity, but does not include an exempt supply[3]. A commercial activity generally was defined, at the relevant time, to be any business, adventure in the nature of trade, except to the extent the activity involved the making of an exempt supply.
+
+[6] A financial institution generally includes a person whose primary business is as a broker or salesperson of financial instruments[4]. A financial instrument includes an insurance policy[5]. As a result, an insurance broker or agent is, by definition, a financial institution for purposes of the Act.
+
+Mechanics of GST
+
+[7] The GST is a value added tax. It ultimately is designed to be borne only by the final consumer of the goods or services supplied. This is accomplished by means of the input tax credit mechanism.
+
+[8] In commercial activity, entities throughout the supply chain charge GST on the goods and services supplied by them (outputs) but they are able to recover this GST paid through the input tax credit mechanism.
+
+[9] A significant exception is that no GST is charged on exempt supplies. To keep the system whole, a supplier of exempt supplies generally is not entitled to recover, through the input tax credit mechanism, any GST incurred by it on its purchases (inputs) to the extent those inputs relate to exempt activities. Financial institutions are prime examples of suppliers of exempt supplies.
+
+[10] Generally, a supply of a financial service (including the underwriting of an insurance policy, or the arranging for the underwriting of an insurance policy) is an exempt supply pursuant to Part VII of Schedule V to the Act. Insurance corporations and insurance brokers generally are not required to collect GST. They generally are not entitled to recover GST on purchases (inputs) through the input tax credit mechanism. This is the situation of the Appellant and the Vendors.
+
+Receivers
+
+[11] Pursuant to section 266, the suppliers of the sale of assets in question, for purposes of the Act, are the Vendors and not the receiver-manager (Dunwoody).
+
+Cascading of Tax
+
+[12] One of the benefits of the GST is that it is generally designed to avoid the cascading of tax that sometimes occurs in the context of provincial sales taxes, and the federal sales tax which the GST replaced[6]. Cascading of tax can be described as the imposition of tax at several stages of production which tax cannot be recovered by either the supplier or recipient of the supplied goods or services.
+
+[13] The Respondent's interpretation leads to cascading GST. Because the Appellant is a financial institution, the $14,000 GST on the purchase could not be recovered through the input tax credit mechanism. If the Appellant's business was sold to another insurance broker, those same assets would again be subject to GST (pursuant to the legislation in force as at the time of the original transaction) and no GST could be recovered by it through the input tax credit mechanism. The Appellant submits that his interpretation does not lead to the cascading of tax. The Respondent argues that there are examples of cascading tax in the Act and minimizes the importance of eliminating this effect.
+
+Prerequisite for GST -- Supply Made "in the Course of " a Commercial Activity
+
+[14] The Appellant's primary argument is that the sale of the insurance agency businesses by the Vendors to the Appellant is not subject to GST because it is not a taxable supply. It is not a taxable supply because it is not made in the course of a commercial activity.
+
+[15] In Frankel Corporation [1959] CTC 244 the Supreme Court of Canada held that a supply was not a supply made in the business, but was a supply of the business. Martland, J. stated the following for the Court, at p. 258:
+
+In my opinion the evidence establishes . . . that the sale of the inventory of non-ferrous metals as part of the assets sold by the agreement of December 19, 1951, by the appellant to Federated was not a sale in the business of the appellant, but was made as a part of a sale of a business of the appellant, and consequently the proceeds of that sale were not income from a business within the meaning of Section 4 of the Income Tax Act.
+
+[16] The Appellant therefore submits that the sale by the Vendors was not a supply made in the course of their business but was a supply of the business itself. That supply, in and of itself, cannot comprise a supply made in the course of a business or in the course of an adventure in the nature of trade. This is what directly follows from the Supreme Court's decision in Frankel Corporation.
+
+[17] This conclusion is also consistent with the decision of Bell, J.T.C.C. in Hleck, Kanaka, Thuringer v. The Queen [1994] GSTC 46 decided under the Tax Court of Canada Rules Informal Procedure. Judge Bell stated that the phrase "in the course of commercial activity of a person" is not defined and has not been judicially considered, but that "this phrase does not differ greatly from the phrase 'in the ordinary course of business'" (at p. 46-6). He continues at p. 46-6 to give meaning to the phrase by referring to the comments of Rich, J. in Downs Distributing Co. Pty. Ltd. v. Associated Blue Star Stores Pty. Ltd. (1948), 76 CLR 463, a decision of the High Court of Australia, to the effect that a transaction in the ordinary course of business supposes,
+
+... that according to the ordinary and common flow of transactions in affairs in business there is a course, an ordinary course. It means that the transactions must fall into place as part of the undistinguished common flow of business done, that it should form part of the ordinary business carried on, calling for no remark and arising out of no special or peculiar situation.
+
+[18] The Appellant submits that, based on the interpretation of "in the course of commercial activity" given by Judge Bell, the sale of assets by the Vendors cannot be one that is regarded as being made in the course of a business or adventure in the nature of trade of the Vendors. These sales were not part of the ordinary business carried on by the Vendors. As such, the supplies cannot be taxable supplies that are subject to GST.
+
+[19] The suggestion that the sale of the assets of the business is a business in itself means that the Vendors must have been carrying on two businesses, the first was providing exempt supplies of financial instruments and the second was a business or adventure or concern in the nature of trade involving the supply of the assets of that business.
+
+[20] The Respondent argues that there is no specific provision that exempted the sale of these assets and so they must be subject to tax. The Appellant maintains that there is in fact no provision in the Act which directly results in GST being applicable to the sale of the assets in the first place. There is no applicable charging provision for a sale occurring under these circumstances.
+
+[21] The Respondent argues that there would be no need for section 167 if the Appellant’s position is correct, however this submission ignores subsection 141(5) which states that anything done in the termination or disposition of a business is deemed to be in the course of a commercial activity. It is because of subsection 141(5) that subsection 167(1) is required. If it were not for subsection 141(5) there would not be tax on the sale of a business and section 167 would be unnecessary.
+
+[22] This leads to the Respondent’s position that subsection 141(5) is only applicable with respect to apportioning input tax credits. This position can not be correct because subsection 141(5) begins with “For the purposes of this part....” referring to Part IX of the Act which encompasses the whole of the provisions applicable to the Goods and Services Tax. Further, subsection 141(5) was replaced by section 141.1 which is clearly not only applicable to input tax credits.
+
+Purposive Analysis
+
+[23] The second branch of the Appellant's argument is that the object and spirit of the Act is that supplies by a financial institution of goodwill, or of a business including an element of goodwill, should not be subject to GST.
+
+[24] The authority for this proposition can be found in both paragraph 141.1(1)(b) and section 167.1 of theAct, both of which were introduced into the Act subsequent to the supplies in question. However, it is the Appellant's position that these amendments did not change the law, they merely clarified the applicable law.
+
+[25] In Department of Finance Release 92-064, dated September 14, 1992, the following statement is made with respect to section 141.1, at p.9:
+
+Changes will be proposed to clarify the GST treatment of certain dispositions of personal property -- typically involving extraordinary transactions that do not necessarily occur in the ordinary course of a business or an adventure in the nature of trade. [Emphasis added.]
+
+[26] The Respondent seized on the word “expands” in the following part of the Technical notes:
+
+New subsection 141.1(1) clarifies and expands upon that rule.
+
+[27] The Appellant contends that the portion relevant to the transaction in question was merely a clarification and the expansion referred to had to do with the extention of the rule to property of a person that was manufactured or produced by the person. The relevant portion in this case is paragraph 141.1(1)(b) which is merely a clarification. The Appellant suggests that the words “effectively ensure” as used with regard to the relevant amendment do not imply a change.
+
+[28] The above pronouncements also are consistent with subsection 45(2) of the Interpretation Act, which generally provides that an amendment of an enactment shall not be deemed to be or to involve a declaration that in law under such enactment was or was considered by Parliament or other body or person by whom the enactment was enacted to have been different from the law as it is under the enactment as amended.
+
+[29] In the French Shoes Ltd. v. The Queen [1986] 2 CTC 132 the taxpayer argued that the amendment of the Income Tax Act to include paragraph 12(1)(x) thereof, which expressly includes in income any inducement payments made to a taxpayer, meant that such inducement payments were not subject to income prior to the effective date of the amendment. Teitelbaum, J. of the Federal Court, Trial Division, held that the amendment did not imply a change in the law, and that it merely clarified the law. This is the essence of the Appellant's position in respect of the amendments to the Act to include sections 141.1 and 167.1.
+
+[30] The Respondent also referred to the HSC Research[7] case as support for the submission that amendments should not be used to infer that the law has not changed. This case states that external evidence must be looked at in order to infer that an amendment changes the law rather than merely clarifies it. The Appellant has provided external evidence that the amendments in question clarify rather than change the law. The Appellant submits that this Court should consider the object and spirit of the Act in a respect of a sale of a business by a financial institution (Supreme Court of Canada, viz. - Corporation Notre-Dame de Bon-Secours v. Communaute urbaine de Quebec [1995] 1 CTC 241).
+
+[31] When dealing with supplies of goodwill the legislation was a maze back in the early days of the GST and the Appellant submits that the purposive approach is appropriate in order to resolve uncertainty. There is still a residual presumption in favour of the taxpayer and where there is remaining uncertainty, as in this case, the Appellant should have the benefit of that uncertainty.
+
+Respondent's Submission
+
+The Appellant's Activity is a business or an adventure or concern in the nature of trade
+
+[32] The GST is a transaction based tax and it is submitted that it is incorrect to catagorize the status of the transaction based on who the supplier is or what the supplier generally does. Whether a transaction attracts tax depends on the transaction itself.
+
+[33] The relevant provisions of the Act begin with the definition of commercial activity as “any business carried on by a person” or “any adventure or concern of a person in the nature of trade...”. The making of exempt supplies are specifically excluded from the definition and an exempt supply includes financial instruments. Insurance policies are financial instruments. Exempt supplies are specific supplies as listed in Schedule V.
+
+[34] The definition of “business” as it is defined in the Act and used in the definition of commercial activity is particularly important. “Business” is very broad and the activities that were undertaken by the Vendor in these circumstances, the sale of assets fits into the definition of business as an “undertaking of any kind whatever”.
+
+[35] Commercial activity also includes an adventure or concern in the nature of trade and if the Appellant’s activity is not a business then it is an adventure or concern in the nature of trade. The Frankel case is not appropriate because it dealt with income and “income” is narrower than a “supply”.
+
+[36] The Appellant also relied on the Hleck case which dealt with whether input tax credits could be claimed by the wife of a law firm partner. The circumstances of that case are different and the case dealt with the term “commercial activity” as it relates to eligibility for input tax credits. The case widened the scope of what would be included in commercial activity rather than narrowed it.
+
+[37] It is the Minister’s position that there is no specific provision which relieves the application of tax for the time period in question to this particular transaction. A supply made by a business or by a person in an adventure or concern in the nature of trade is necessarily taxable unless a particular relieving provision is found in the Act.
+
+Intent and Purpose of the Act was to include activities such as the one at issue in this case (Respondent's Position continued)
+
+[38] Subsection 167(a) of the Act deems that where a supplier makes a supply of a business or part of a business the supplier is deemed to have made a separate supply of each property that is supplied under the agreement. The Act deems the supply of a business to be taxable and there would be no need to include a specific section dealing with the supply of a business if the intention was not to tax it. Paragraph (b) deals with an election that a supplier and recipient can make in respect of such a transaction to deem it to be made for no consideration and such a provision is only required if parliaments intention is to tax those supplies in the normal course.
+
+[39] Subsection 200(3) is another provision that refutes the Appellant’s argument that the supply in question was not intended to attract tax. That section states that capital personal property used otherwise than in commercial activity does not attract tax. Although this provision does not apply to financial institutions, according to paragraph 200(1)(a), it shows that capital supplies were contemplated to be taxable.
+
+[40] In this case, the Appellant is a financial institution normally involved in making exempt supplies but the assets of the business were sold and this is not an exempt supply because it is not included in Schedule V. The respondent submits that the Act as a whole indicates that it was parliaments intention to tax such supplies.
+
+[41] Subsection 141(3) does not apply in this situation. In addition subsection 141(5) deals with the apportionment of input tax credit and, as such, has no application to this particular provision. Support for this interpretation is found in the May 1990 “Technical Notes” which dealt with section 141. The Respondent submits that subsection 141(5) deal with the ability to claim input tax credits when it is not clear that it’s a commercial activity because there may not be supplies.
+
+[42] The Respondent further submits that even if subsection 141(5) does apply it is helpful to their position because it deems activities undertaken in connection with a commercial activity, such as to start-up and wind-down the commercial activity, to be part of the commercial activity but it does not refer to exempt supplies which are excluded from the definition of a commercial activity. The words chosen are precise and admit no ambiguity and it is submitted that the plain meaning of the Act must prevail. The “object and purpose” can play only a limited role in the interpretation of precise legislation like the Excise Tax Act. The specific sections that relieve the application of tax are clear in their meaning and no further inference is needed in the face of such specific language. The authority for this approach is The Queen v. Province of Alberta Treasury Branches, 133 DLR (4th) 609 (SCC).
+
+[43] While the legal effect of the transaction may not be clear the words of subsection 141(5) are clear and the Court need look no further than those words.
+
+[44] While cascading tax is distasteful and there are attempts to minimize it in the Act it is not non-existent. In the current situation there is no evidence of a cascading tax because their is unlikely to have been any GST component in the selling price of the customer lists and furniture and section 141.1 was added to the Act so that a resupply of the goods in this case are unlikely to attract tax as long as it took place subsequent to September 1992.
+
+[45] The Appellant argued that section 141.1 which is applicable to supplies made after September 30, 1992, should be used as an aid to interpreting the legislation in effect at the time the transaction took place and in particular as an aid to interpreting subsection 141(5) of the Act. Subsections 45(2) and 45(3) of the Interpretation Act are relevant. These subsections state that an amendment is deemed neither to imply a change in the law nor is it deemed to involve a declaration of the previous state of the law.
+
+[46] Where there is no evidence of the context in which the amendment was adopted and where there is no indication of any declaratory intention, an amendment should not be used to conclude that amendment was meant to clarify, not change, an existing provision[8]. Where there is external evidence to that effect, an amendment can be considered to reflect a change in the legislation, HSC Research (supra). The internal evidence that the amendment was intended as a change is the effective date of the amendment. They could have made it retroactive as they did with many other amendments.
+
+[47] The external evidence is found in the Department of Finance Technical Notes that state that subsection 141.1(1) clarifies and expands upon paragraph 141(5)(b). In addition that Note said:
+
+...New paragraph 141.1(1)(b) is the corollary to new paragraph 141.1(1)(a). Paragraph 141.1(1)(b) provides that supplies of personal property will not be considered to be made in the course of a commercial activity if the property was consumed, used, manufactured or produced exclusively in non-commercial activities and the property was acquired imported, manufactured or produced exclusively for use or consumption in non-commercial activities.
+
+The addition of this corollary rule will obviously effect only those persons who are at least partly engaged in non-commercial activities.... (emphasis added by Respondent)
+
+[48] The internal and external evidence of the legislators' intention suggests a change in the legislation rather than a mere clarification.
+
+[49] The Appellant referred to section 167.1 of the Act, which applies specifically to goodwill, as support for their position. There is somewhat of a maze in trying to determine the treatment of “goodwill” through the first three years of GST. Originally (and at the time relevant to this appeal) goodwill was not mentioned at all and then an amendment excluded tax from supplies of goodwill but specifically excluded financial institutions from the application of the section. A subsequent amendment included financial institutions but at the relevant time it is not accurate to infer that goodwill supplied by a financial institution was intended to be excluded from the application of tax when this amendment specifically excluded financial institutions.
+
+[50] I now attempt to analyze the arguments submitted. It is not disputed that the Receiver is the agent of the Vendors and therefore the analysis of the transaction is based upon the Vendors making a supply to the Appellant[9]. This interpretation is supported by Revenue Canada’s policy statement[10].
+
+In the Course of a Commercial Activity
+
+[51] As stated by the Appellant, in order for this transaction to attract GST the Appellant must be the recipient of a taxable supply. In order for this supply to be a taxable supply it must be made “in the course of a commercial activity”. A commercial activity means (among other things) any business or adventure or concern in the nature of trade. In Hleck, Judge Bell interpreted the term “in the course of a commercial activity” as defined in subsection 123(1) of the Act and compared the term to the similar term “the ordinary course of business”. Hleck dealt with the availability of input tax credits for expenses incurred by a law firm to enable a partner’s wife to attend a conference with the partner. Bell, J.T.C.C. stated at 46-6:
+
+The question becomes whether or not the attendance at a conference of one’s spouse is in the undistinguished common flow of business done.
+
+[52] While this decision is not binding it is persuasive and agrees with the distinction between “in the business” and “of the business” made by Martland J. of the Supreme Court of Canada in Frankel.
+
+[53] Hleck dealt with the same statutory definitions which apply in this case. The supply at issue in this case was clearly not made “in the undistinguished common flow of business done” and was a supply “of the business” rather than “in the business”. Therefore the appeal should succeed because the supply of the business in this case is not a taxable supply and so no relieving provision is required as the Respondent urged.
+
+[54] I do not accept the Respondent’s submission that the Vendors were in one business involving an activity which was an exempt supply and another, separate commercial activity which involved the sale of the assets used in the first activity but which was not exempt. The result of following the Respondent’s argument would be startling: when a person sold an investment asset which it had held as an investment to earn income from business or property, the sale of that investment asset would be itself a business or an adventure in the nature of trade. Indeed, counsel for the Respondent attempted to draw an analogy to capital personal property in her arguments, perhaps suggesting exactly this result. If a business or adventure or concern in the nature of trade could be interpreted in this way there would be no need for a tax on capital gains because such gains would be taxable as income.
+
+[55] While subsection 141(5) achieves a result similar to that suggested by the Respondent, by deeming activities undertaken in starting up and winding down a commercial activity to be part of the commercial activity and therefore subject to GST, that subsection does not state that such activities are deemed to be either businesses or adventures or concerns in the nature of trade independently from the underlying commercial activity.
+
+[56] The Department of Finance has indicated that the elimination of tax cascading is one of two important economic benefits of a value-added tax. The fact that some examples of tax cascading exist does not diminish the importance of the elimination of such effects as a goal. The Respondent’s interpretation of the Act could lead to tax cascading and an interpretation which avoids this result is preferable. The fact that no tax cascading actually occurred in this case does not aid in interpreting the legislation.
+
+[57] The Excise Tax Act has been amended so that there is no longer any doubt that the present transaction would not be taxable if carried out today. Paragraph 141.1(1)(b) deems supplies of personal property to be made otherwise than in the course of commercial activities if the property was acquired or produced in the course of activities which are not commercial activities. In addition, section 167.1 states that goodwill is not included in calculating the tax payable when a business is sold. The bulk of the value of the supply at issue, the customer lists, are considered to be goodwill.
+
+[58] As the Respondent stated, the Act was a maze during the first three years as it related to the treatment of goodwill -- in one twelve month period three different versions of section 167.1 existed. If anything can be drawn from this situation it seems reasonable to conclude that Parliament was “attempting to get it right” and this would support the Appellant’s argument that Parliament was attempting to clarify the existing law[11].
+
+[59] The goal of avoiding tax cascading as well as subsequent amendments to the Act support this conclusion.
+
+[60] The appeal is allowed.
+
+Signed at Ottawa, Canada, this day of February 1998.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Consisting primarily of customers' lists
+
+[2] Subsection 165(1) Excise Tax Act
+
+[3] Subsection 123(1) Excise Tax Act
+
+[4] subparagraph 149(1)(a)(iii) Excise Tax Act
+
+[5] subsection 123(1) Excise Tax Act
+
+[6] The Department of Finance document Towards Replacing the GST, released April 23, 1996
+
+[7] HSC Research Development Corporation v. The Queen, 95 DTC 225 (TCC)
+
+[8] DRG v. Datafile Ltd. et. al. 117 N.R. 308 (FCA)
+
+[9] Subsection 266(1) Excise Tax Act
+
+[10] IT p. 145, May 16, 1994
+
+[11] Release 92-020, dated March 20, 1992, p. 6
+

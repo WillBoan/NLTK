@@ -1,0 +1,494 @@
+Date: 19990329
+
+Docket: 96-2492-GST-G
+
+BETWEEN:
+
+REPUBLIC NATIONAL BANK OF NEW YORK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This appeal is from an assessment under Part IX of the Excise Tax Act (“Act”) notice of which is dated December 17, 1993 and covers the period from January 1, 1991 to October 31, 1991. In assessing the appellant, the Minister of National Revenue ("Minister") denied an input tax credit ("ITC") of $980,833.10 claimed, pursuant to subsection 183(7) of the Act, in relation to the sale of a commercial building.
+
+Facts
+
+[2] In accordance with a Deed of Loan executed on November 17, 1989 and registered on November 20, 1989 (Exhibit A-1), Yarkon Financial Group ("Yarkon") agreed to lend $14,000,000 to Yorkville Bellair Limited ("debtor") for the development of property located at 5915, 5935 and 5965 Côte de Liesse in Ville St-Laurent, Quebec ("property"). This loan of $14,000,000 was made up as follows: the sum of $5,500,000 which was the "amount closed" out of a greater amount of $7,000,000 due by the debtor to Yarkon in virtue of a previous Deed of Loan; and the sum of $8,500,000 which was to be disbursed by way of advances in accordance with the terms and conditions of the Deed of Loan executed on November 17, 1989.
+
+[3] To provide security for the reimbursement of the sum of $14,000,000, the debtor had granted Yarkon a hypothec on the property for the same amount. This loan was also secured by a dation en paiement clause (giving in payment clause) on the property in favour of Yarkon and was personally guaranteed by the president of the debtor, Hugh MacLean. At the time of the Deed of Loan, the property was also subject to a first hypothec in the amount of $945,000 held by Les Entreprises Federet Ltée, which hypothec was transferred to the Toronto-Dominion Bank on December 8, 1987 (Exhibit A-10).
+
+[4] Likewise on November 17, 1989, Yarkon signed a Deed of Loan (Exhibit A-2) with the Republic National Bank of New York ("appellant"), having its head office in the city of Montreal in the province of Quebec. Pursuant to this Deed of Loan (which was registered on November 20, 1989) the appellant was to lend Yarkon the sum of $8,500,000. This sum was to be paid out by way of advances in accordance with terms and conditions which were the same as those set out in the Deed of Loan between Yarkon and the debtor. As a matter of fact, the debtor and its president, Hugh MacLean, intervened in this second Deed of Loan.
+
+[5] As security for this loan, Yarkon assigned to the appellant all its rights under the first Deed of Loan (Exhibit A-1) between Yarkon and the debtor, including the $14,000,000 debt and the right to the dation en paiement.
+
+[6] On August 14, 1990, pursuant to its right under the dation en paiement, Yarkon registered a 60-day notice under article 1040a of the Civil Code of Lower Canada ("CCLC") (Exhibit A-3). According to that notice, the debtor had failed to ensure that all costs for materials, labour and services in respect of the property were paid in a timely manner and consequently had failed to ensure that no liens or privileges were registered against that property. In so doing, the debtor was in default under the Deed of Loan (Exhibit A-1).
+
+[7] The 60-day notice listed all of the liens and privileges that were registered against the property from May 1990 to August 1990. Most of these privileges are found in the summary of liens - totalling $1,111,321.76 - registered against the property (Exhibit A-18), which was filed by the appellant in support of his claim for an ITC.
+
+[8] Furthermore, according to the same 60-day notice (Exhibit A-3), of the $14,000,000 to be advanced to the debtor, only $11,000,000 had actually been loaned by Yarkon to the debtor as of August 6, 1990. This was confirmed by Mr. David Schouela, director and executive vice-president in charge of real estate credit for the appellant.
+
+[9] As Yarkon had transferred its rights, actions, privileges and hypothecs and the effects of the dation en paiement to the appellant pursuant to the Deed of Loan (Exhibit A-2) and as there had been defaults in payment under the Deed of Loan executed by the appellant in favour of Yarkon (Exhibit A-2) since the month of August 1990, the appellant therefore registered its own 60-day notice pursuant to article 1040a of the CCLC on November 14, 1990 (Exhibit A-4). In that notice, the appellant set out the total capital and interest owing as of November 12, 1990 at $11,545,148.59 with interest thereon at the rate of $5,269.20 per day. In the meantime, Les Entreprises Federet Ltée and the Toronto-Dominion Bank also registered a 60-day notice under article 1040a of the CCLC on August 23, 1990 (Exhibit A-10).
+
+[10] On January 31, 1991, after the expiration of the 60-day notice, the appellant filed an action (Exhibit A-5) against the debtor as defendant and Yarkon and Hugh MacLean as mis-en-cause in the Superior Court, District of Montreal, Province of Quebec. By this action, the appellant sought to avail itself of its rights pursuant to the dation en paiement clause and asked to be declared the sole and exclusive owner of the property with effect retroactive to October 31, 1986 -- being the date of registration of a first Deed of Loan between Yarkon and the debtor -- free and clear of all hypothecs, leases and other charges and encumbrances affecting the property posterior to the registration of the said Deed of Loan. In its declaration, the appellant stated that as of the date of its action it had advanced a capital amount of $5,500,000 out of the $8,500,000 that it had undertaken to loan to Yarkon.
+
+[11] On January 31, 1991, the appellant also entered into an agreement (Exhibit A-6) with Yarkon and Belcourt Inc. ("Belcourt"), a corporation which had extensive experience in the area of real estate development and was interested in participating in the completion of the development of the property. The preamble to this agreement stated that the debtor had been obliged to abandon the office development project due to financial difficulties. It also stated that Yarkon had advanced $11,000,000 to the debtor on account of the financing of the project and that the appellant had advanced $5,500,000 to Yarkon in order to assist Yarkon in its financing of the debtor. It also alluded to numerous privileges that had been and continued to be registered against the property.
+
+[12] Under this agreement, Yarkon relinquished its security on the property in return for the appellant's undertaking to pay Yarkon an amount of $5,500,000 plus interest and all additional advances made by Yarkon to cover draws under an additional guarantee given by Yarkon to the appellant. This amount was referred to as the "Yarkon balance". The payment of the Yarkon balance would be made by the appellant upon the sale, refinancing or operation of the property subject though to full and prior recovery by the appellant of all amounts loaned or invested by it (section 6.02 of Exhibit A-6).
+
+[13] In this same agreement (Exhibit A-6), there appears the following:
+
+3.00 PROCEEDINGS
+
+3.01 YARKON agrees that it shall not proceed with its DATION-EN-PAIEMENT ACTION. RNB [the appellant] shall proceed with its own DATION-EN-PAIEMENT ACTION and shall conclude for judgment that RNB be declared owner of the PROPERTY, with effect as of the earliest possible date as provided under the terms of the SECURITY [the different deeds of loan entered into between Yorkville and Yarkon and the one entered into between the appellant and Yarkon], free and clear of all subsequent encumbrances. YARKON undertakes that it will not contest the conclusions of RNB's DATION-EN-PAIEMENT ACTION.
+
+3.02 YARKON has opened discussions with YORKVILLE [the debtor] with a view to obtaining the agreement of YORKVILLE to the voluntary cession ("VOLUNTARY CESSION") of the PROPERTY TO RNB, thus eliminating the necessity of proceeding with the RNB DATION-EN-PAIEMENT ACTION. It is acknowledged that such agreement may involve RNB granting a right or option to redeem or repurchase the PROPERTY ("OPTION TO REDEEM") to an eventual purchaser ("PURCHASER").
+
+3.03 The parties acknowledge that the terms of this Agreement are based upon the assumption that either the RNB DATION-EN-PAIEMENT ACTION or the VOLUNTARY CESSION will result in RNB becoming the owner of the PROPERTY. Should the RNB DATION-EN-PAIEMENT ACTION or VOLUNTARY CESSION fail to achieve this result, then the provisions of this Agreement shall no longer apply. However, each of the parties agrees thereafter to cooperate to the extent possible, each of them acting reasonably but without jeopardizing their own respective positions and, at all times, having regard to the General Objectives referred to above, in pursuing their respective rights and recourses.
+
+3.04 The parties acknowledge that the PROPERTY has not been maintained properly by YORKVILLE and that the continued ownership and possession of the PROPERTY by YORKVILLE will lead to additional deterioration of the PROPERTY and the SECURITY. Accordingly, each of RNB, YARKON and BELCOURT specifically agrees and undertakes that it will not, directly or indirectly, make any payment or take any action which would permit the defaults which form the basis of the DATION-EN-PAIEMENT ACTIONS to be cured prior to judgment or, if the VOLUNTARY CESSION takes place, which would allow or assist the PURCHASER to acquire control of or title to the PROPERTY through the exercise of the RIGHT TO REDEEM.
+
+3.05 If YORKVILLE executes the VOLUNTARY CESSION, and the OPTION TO REDEEM is exercised by the PURCHASER, RNB undertakes to execute such documents as are reasonably required in order to recognize and provide for the reinstatement of YARKON's rights and security in substantially the same manner as same exist as at the date hereof under the terms of the SECURITY and the YARKON ASSIGNMENT.
+
+4.00 OTHER CREDITORS
+
+4.01 It is acknowledged that the charge represented by the FEDERET HYPOTHEC is registered against a significant portion of the PROPERTY and must be dealt with so as not to jeopardize the ability to acquire ownership of the entire PROPERTY. It is understood that the principal amount owing to the creditors under the FEDERET HYPOTHEC is the sum of NINE HUNDRED AND FORTY-FIVE THOUSAND DOLLARS ($945,000.00), that certain interest payments thereon are currently overdue and that the creditors under the FEDERET HYPOTHEC have registered a "60-Day Notice" on August 23, 1990.
+
+4.02 The parties agree to pay to the creditors of the FEDERET HYPOTHEC such amount as is required in order to forestall said creditors from proceeding with any foreclosure action or to obtain full subrogation in favour of RNB in all of the rights of said creditors in and to the FEDERET HYPOTHEC, and the underlying loan, provided that the amount to be paid is not substantially higher than the principal amount described above, plus accrued interest. Should such amount be significantly higher, it is agreed that the parties, acting reasonably, will re-evaluate the situation and consider alternate courses of action, including, without limitation, the abandonment of this portion of the PROPERTY. Any final decision with respect to the matter shall be made by RNB.
+
+4.03 The parties agree to analyze each of the PRIVILEGES and to deal with each of the creditors thereof so as to definitively settle their outstanding claims, if possible, prior to any of said claims proceeding to judgment. BELCOURT and RNB shall cooperate and work together in connection with any such negotiations and settlement, it being understood that any final decision with respect to payment of any such claim shall be made by RNB.
+
+4.04 Any funds required in order to make the payments contemplated by this Article 4.00, and all costs, expenses and fees related thereto, shall be financed by RNB ("TAKE-OUT FINANCING") and, until such time as RNB is declared or otherwise becomes owner of the PROPERTY and sells forty-nine point nine percent (49.9%) of its interest in the PROPERTY to BELCOURT (as provided below), the aggregate of all such payments (as well as the advances described at Section 7.04 below) shall be added to and be deemed to form part of the RNB LOAN.
+
+[14] On February 4, 1991 (the agreement having been executed on February 1, 1991), title to the property was transferred from the debtor to the appellant (Exhibit A-7) by way of a voluntary dation en paiement pursuant to the Giving in Payment Clauses contained in the various Deeds of Loan between Yarkon and Yorkville (registered on October 31, 1986, June 8, 1988 and November 20, 1989), and in the Deed of Loan between the appellant and Yarkon registered on November 20, 1989, and pursuant to the 60-day notice registered on November 14, 1990. In the document of transfer, it is stated that the appellant was a creditor for the sum of $11,545,148.59 plus interest thereon due and owing as and from November 12, 1990, and that the consideration for the transfer was for the same amount. By the same document, the appellant reserved the right to seek the radiation of any and all privileges, hypothecs and other charges and encumbrances registered against the property after the effective date of transfer of ownership.
+
+[15] On February 1, 1991, the appellant also entered into an agreement with Hugh MacLean (Exhibit A-8) granting him an option to repurchase the property at any time prior to May 24, 1991. The price to be paid by MacLean in the event that he did exercise the option was the total of the balance of loans owing to Yarkon and the appellant under the different Deeds of Loan (notwithstanding the deemed payment under the voluntary cession) and the aggregate of the following amounts plus interest:
+
+- the amount paid by the appellant to Entreprise Federet Ltée ($945,0000);
+
+- all amounts paid by the appellant for privileges registered against the property;
+
+- all amounts expended by the appellant to maintain, improve and proceed with the construction or operation of the property;
+
+- all arrears of interest owed by the debtor to Yarkon and the appellant under the different Deeds of Loan;
+
+- all costs, expenses, disbursements and professional fees incurred by the appellant and Yarkon in connection with any of the foregoing payments in order to protect their rights in the property.
+
+[16] Mr. David Schouela testified that the appellant threatened Mr. MacLean with legal proceedings against the debtor for a judicial sale and with an action against Mr. MacLean on his personal guarantee. As Mr. MacLean did not want to be held personally liable and since he had abandoned the property, Mr. Schouela said that Mr. MacLean made the decision to voluntarily transfer the property to the appellant so as to be relieved of his personal guarantee. With respect to the option to purchase given to Mr. MacLean, Mr. Schouela said that it was granted in case Mr. MacLean should put his financial affairs in order. Indeed, the appellant is not in the real estate business and Mr. Schouela stated that they would have been happy to re-sell the project to Mr. MacLean.
+
+[17] On April 8, 1991, a receiving order was granted against the debtor and on April 11, 1991 (Exhibit A-9) a Notice to Suspend Proceedings was filed in the Superior Court in the province of Quebec under the Bankruptcy and Insolvency Act, R.S., 1985, c. B-3.
+
+[18] On June 26, 1991, an Offer to Purchase the property was signed between the appellant and Shoubel Holdings Inc. ("Shoubel") (see Exhibit A-17). The Offer contained a provision that Belcourt might be a co-purchaser with Shoubel. The purchase price payable by the purchaser to the appellant was determined as follows:
+
+4.1 The total purchase price ("PURCHASE PRICE") payable by the PURCHASER [Shoubel and Belcourt] to the VENDOR [the appellant] in respect of the sale and transfer of the PROPERTY shall be the aggregate of:
+
+(a) the sum of FIVE MILLION FIVE HUNDRED THOUSAND DOLLARS ($5,500,000.00), being the original amount of the RNB LOAN; and
+
+(b) all arrears of interest, if any, owing by YARKON to the VENDOR on account of the RNB LOAN as at the CLOSING DATE; and
+
+(c) all amounts advanced by the VENDOR up to the CLOSING DATE in respect of the PROPERTY in order to preserve and protect its interest therein and in the SECURITY, including, without limitation, all amounts advanced in accordance with the terms of the AGREEMENT on account of the "TAKEOUT FINANCING" and the "DEVELOPMENT FINANCING", as defined therein.
+
+It was also stipulated in the offer that the appellant would provide financing to the purchaser in an amount equal to 80 per cent of the purchase price in accordance with the financing arrangements agreed to between the appellant and the purchaser.
+
+[19] The Offer also stated the following at paragraph 4.6 (Exhibit A-17):
+
+4.6 In addition to the payment of the PURCHASE PRICE, the PURCHASER shall be responsible for and assume the payment or settlement of:
+
+(a) the first hypothecary loan existing in favour of Les Entreprises Federet Ltée and registered against a portion of the PROPERTY; and
+
+(b) the PRIVILEGES and the claims of the CREDITORS thereunder,
+
+the whole to the exoneration of the VENDOR. The PURCHASER also undertakes to perform the VENDOR's undertaking in favor of YARKON in respect of the payment of the "YARKON BALANCE" (as defined in the AGREEMENT) pursuant to the terms of the AGREEMENT.
+
+It is further stated in the section on warranties at paragraph 7.3:
+
+7.3 The PURCHASER acknowledges the existence of the PRIVILEGES and that the PURCHASE PRICE includes all amounts paid or which will have been paid by the VENDOR on account thereof up to the CLOSING DATE. The VENDOR agrees that it shall not consent to the settlement or payment of any of the PRIVILEGES without the prior written approval of the PURCHASER.
+
+In section II of the Offer (Exhibit A-17), entitled "Background", it is stated at paragraphs 2.10 through 2.13:
+
+2.10 Legal proceedings ("PRIVILEGE ACTIONS") have been instituted pursuant to the PRIVILEGES by certain of the CREDITORS and, in one case, judgment was rendered against YORKVILLE; and
+
+2.11 The VENDOR has filed Interventions ("INTERVENTIONS") in each of the PRIVILEGE ACTIONS with a view to contesting the validity thereof and, in the case of the action in respect of which judgment has already been obtained, has filed a Motion in Revocation ("MOTION IN REVOCATION") of said judgment; and
+
+2.12 The VENDOR has filed, or is in the process of filing, Motions to Radiate ("MOTIONS TO RADIATE") those of the PRIVILEGES in respect of which legal proceedings have not been instituted; and
+
+2.13 Pursuant to the terms of the AGREEMENT, the VENDOR has engaged BELCOURT to analyze each of the PRIVILEGES and to communicate with each of the CREDITORS with a view to settling each of their claims.
+
+And it is further stated in section III of the Offer, entitled "Closing", at paragraphs 3.5 and 3.6:
+
+3.5 On CLOSING, the VENDOR and the PURCHASER shall execute a Deed of Assignment ("NEW ASSIGNMENT"), whereby the VENDOR transfers and assigns to the PURCHASER all of the VENDOR's rights, title and interest in and to the YARKON LOANS, the RNB LOAN, the SECURITY and the ASSIGNMENT. Concurrently therewith, the VENDOR shall execute all such documentation as is required in order to permit the PURCHASER to continue all proceedings initiated by the VENDOR in respect of the PROPERTY and the PRIVILEGES, including, without limitation, the DATION-EN-PAIEMENT PROCEEDINGS, the INTERVENTIONS, the MOTION IN REVOCATION and the MOTIONS TO RADIATE.
+
+3.6 Effective on the CLOSING DATE, the VENDOR shall transfer and assign to the PURCHASER all of the VENDOR's rights and benefits under the terms of the AGREEMENT, and the PURCHASER shall assume all of the VENDOR's obligations and liabilities thereunder, to the complete exoneration of the VENDOR, the whole as if the PURCHASER had originally executed the AGREEMENT in the place and stead of the VENDOR.
+
+[21] On June 27, 1991, the closing took place between the appellant (the vendor), Shoubel and Belcourt (the purchaser) and the sale was registered on June 28, 1991 (Exhibit R-1). The Sale Agreement stipulated that the sale was made for and in consideration of the total price of $5,915,922.58. Under this Agreement the purchaser agreed to assume all privileges, hypothecs and other encumbrances registered against the property, the whole to the entire exoneration of the appellant.
+
+[22] The parties also acknowledged and agreed that the terms, conditions, representations and warranties contained in the Offer to Purchase dated June 26, 1991 between the appellant and Shoubel were to be deemed to form part of the agreement as if recited at full length therein. They also agreed that no new privileges or hypothecs were created by the sale agreement, the appellant expressly renouncing any such privilege or hypothec or vendor's privilege. Finally, the parties declared that the consideration for the sale was $5,915,922.58 for the purposes of the Act of the Quebec legislature authorizing municipalities to levy and collect a tax on the transfer of immoveable properties.
+
+[23] Mr. Paul Grayson, who held a senior credit administration position with the appellant during the year in issue, also testified. He said that the appellant was presented with an opportunity of selling the property to Shoubel, which organization they knew through Mr. Edouard Schouela (the uncle of David Schouela), who is the president of Shoubel. Mr. Grayson said that it was an opportunity to recover the loan as well as to escape actual and potential liabilities connected with the property, namely liens and prior mortgages.
+
+[24] Mr. Grayson explained that the purchase price offered for the property totalled approximately $14,000,000. This amount was constituted as follows:
+
+- the principal amount owed to the bank ($5,500,000 plus interest);
+
+- the Yarkon balance, which consisted of the monies owed to Yarkon by Yorkville ($5,500,000 plus interest) that the appellant undertook to repay out of the proceeds of the sale of the property when Yarkon assigned all its rights in the property to the appellant (clause 6.02 in Exhibit A-6);
+
+- an initial loan to Les Entreprises Federet Ltée ($945,000);
+
+- all liens and privileges registered against the property (approximately $1,100,000).
+
+[25] It was established by means of documents filed as Exhibit R-3 that three privileges for a total amount of $27,115.38 listed in Exhibit A-18 had been discharged as of June 1991.
+
+[26] On March 17, 1992, Les Entreprises Federet Ltée and the Toronto-Dominion Bank acknowledged having received payment of the principal sum of $945,000 together with all interest owing thereon and granted a full and final release with respect to all such amounts owed to them. They further granted a full and final mainlevée and a complete release and discharge of all their rights in the property (Exhibit A-10).
+
+[27] Throughout his testimony, Mr. David Schouela said that the debtor abandoned the project involving the property around September 1990. According to him, from that moment, there was no more activity involving the building, no more construction and no leasing.
+
+[28] Mr. Antoine Chalhoub, an architect who worked on the development project while the property was still owned by the debtor, was called as a witness by the respondent. He said that he had a mandate from the debtor to provide an architectural overview. He said that there were three buildings in the project. He did not work on the first, which was already under construction. He did some studies concerning the second, which was being demolished. And finally, he did some work to maintain the commercial zoning of the third building, which, according to Mr. Chalhoub, was previously owned by the Commission de transport de la Communauté urbaine de Montréal ("CTCUM") as garages. He was not sure, however, of the address of the third building and it is not clear that this building was part of the property in question.
+
+[29] Mr. Chalhoub worked on the zoning with respect to the third building in 1990. He had to prepare plans with respect to the building in order to obtain permits to begin construction. He said that it was at that moment that the debtor started having financial problems. Mr. Chalhoub said he performed work until he was told by the debtor that the last promise to pay would not be met. This would have happened around the month of February 1991. At that time, according to Mr. Chalhoub, 80 to 90 per cent of the plans had been executed. Mr. Chalhoub said he had registered a privilege for an amount of $38,000 that was due to him at that time. This privilege which is included in the summary of privileges (Exhibit A-18) and of which only $22,000 was approved as representing work actually performed, was later cancelled. This radiation must therefore be added to the other privileges which were discharged according to the documents filed (Exhibit R-3).
+
+[30] Subsequent to the sale of the property, the appellant claimed a notional ITC with respect to the property in accordance with subsection 183(7) of the Act, as it then read. This ITC was denied by the Minister in the assessment dated December 17, 1993, and this is the basis of the present appeal. All the documents filed in evidence as Exhibits A-11 through A-16 show that the Minister denied the ITC on the basis that there was no seizure or repossession of the property by the appellant within the meaning of section 183 of the Act. The Minister was of the opinion that the appellant acquired property by a voluntary deed after the 60-day notice.
+
+[31] The respondent called Mrs. Hélène Couture, a GST auditor for Revenue Canada, to testify. During her audit, she had in hand the financial statements of the debtor for the year ending December 31, 1990 (Exhibit R-4). From these financial statements, she determined that the debtor was associated with other corporations that were registered for GST purposes. She therefore concluded that the debtor, who was not registered, should have been registered. She was consequently of the opinion, based on her own interpretation, that if the debtor was required to register, it was the debtor who was entitled to claim the ITC under subsection 183(7) of the Act. On cross-examination, she could not confirm that this matter was raised by Revenue Canada before the assessment. She left the audit department in October 1992 and the assessment is dated December 17, 1993. Furthermore, she did not know if the debtor was engaged in any commercial activity in 1991.
+
+[32] In re-examination, she said that the information she received during her audit was that the debtor borrowed money to renovate a commercial building in Ville St-Laurent. According to her source, the building in question was formerly a "crèche" owned by nuns and was located at 5935 Côte de Liesse in Ville St-Laurent, Quebec. The construction had started in 1989 and the work on the building had stopped in September 1990.
+
+Analysis
+
+[33] The subsection of the Excise Tax Act at issue in this case is 183(7) which, for the period in question, states:[1]
+
+(7) Sale of property — For the purposes of this Part, where a creditor who has seized or repossessed property from a person in circumstances in which subsection (1) applies makes at any time a particular taxable supply of the property by way of sale (other than a supply deemed, under any provision of this Part other than section 177, to have been made), the creditor was not deemed under subsection (4), (5), (6) or (8) to have made or received a supply of the property at an earlier time and the creditor provides evidence satisfactory to the Minister that the person has not received and is not entitled to claim an input tax credit or a rebate in respect of the property, the creditor shall be deemed
+
+(a) to have received a supply of the property immediately before that time for consideration equal to the consideration for the particular supply; and
+
+(b) to have paid, immediately before that time, tax in respect of the supply deemed under paragraph (a) to have been received equal to the amount determined by the formula
+
+A – B
+
+where
+
+A is tax calculated on that consideration, and
+
+B is the total of all amounts each of which is an input tax credit or a rebate under this Part that the creditor was entitled to claim in respect of the property or an improvement thereto.
+
+[34] The result of this provision is essentially that where a creditor sells seized or repossessed property, he is deemed to have acquired the property for consideration equal to the price of sale and paid the applicable GST. As a result, if this subsection applies, the appellant herein will be deemed to have acquired the property for the price of sale, and to be entitled therefore to a notional input tax credit equal to 7 per cent of that price. However, in order for the statute to apply, the property must have been seized or repossessed. In the case at bar, there was a dation en paiement under the provisions of the CCLC which counsel for the appellant claims was a seizure or repossession while the respondent claims it was not since it was purely voluntary. At the heart of this case, therefore, is the determination of what exactly is a dation en paiement and what constitutes a seizure or repossession.
+
+Dation en paiement: a seizure or repossession
+
+[35] The CCLC provides for dation en paiement or “giving in payment” in both articles 1040a and 1592. The dation en paiement provided for in article 1592 is entirely voluntary, equivalent to a sale and without retroactive effect.[2] Both parties agreed that article 1592 had no relevance to the present case. The dation en paiement used by the appellant is that provided for in article 1040a et seq:
+
+Art. 1040a. Under a contract to guarantee the performance of an obligation, a creditor cannot exercise the right to become the absolute owner of an immoveable or the right to dispose thereof until sixty days after he has given and registered a notice of the omission or breach by reason of which he wishes to do so.
+
+Such notice must be registered with a designation of the immoveable and served on the person whose rights as holder of the immoveable as proprietor thereof are then registered; it takes effect against any other interested person to whom the creditor’s rights are opposable.
+
+The notice may be served on the holder or his heirs in the same manner as a summons under the Code of Civil Procedure.
+
+The registrar must, by registered or certified mail, inform each hypothecary or privileged creditor who has given notice of his address or of his elected domicile, of the registration of the notice and to each beneficiary under a declaration of family residence whose address or elected domicile is the subject of a notice.
+
+Art. 1040b. The debtor or any other interested person may prevent the exercise by the creditor of his right to become the absolute owner of the immoveable or to dispose thereof, by remedying the omission or breach mentioned in the notice and any subsequent omission or breach, and by paying the costs, at any time during the delay for notice and, thereafter, before the creditor has been declared, by deed signed voluntarily or by judgment, absolute owner of the immoveable, or, in the case of a right to dispose of it, before the creditor has exercised such right.
+
+In the case of omission to pay a sum of money or to give security, or in the case of the bankruptcy or insolvency of the debtor, the creditor who has given the notice provided for in the preceding article is entitled to no indemnity except interest and costs.
+
+...
+
+Art. 1040e. The provisions of this section shall apply notwithstanding any agreement to the contrary. Any renunciation of the notice prescribed above is of no effect.
+
+[36] Upon default by the debtor, the creditor may dispossess the debtor of his property after the expiration of the 60-day notice if the debtor has not remedied the breach referred to in the notice before the creditor has been declared, by deed signed voluntarily or by judgment, absolute owner of the property.
+
+[37] The dation en paiement is not automatic. Indeed, a dation en paiement results in dispossession only in two events: if the debtor voluntarily surrenders the property, or if a court order is obtained. Therefore, and as was rightly argued by counsel for the respondent, the creditor does not automatically become the owner of the property upon the expiry of the 60-day period provided for in article 1040a of the CCLC. However, the respondent did not show why the fact that the dation en paiement is not automatic or immediate has any bearing on whether a seizure has taken place. The question is rather whether the surrender of the property by the debtor was purely voluntary so that it cannot be said that there was a seizure or repossession.
+
+[38] The respondent submits that the property in the present case was not seized since the property was turned over voluntarily and the appellant was not forced to obtain a court order. The appellant submits that a seizure is the taking of possession, and that the fact that no court order was obtained is not relevant.
+
+[39] The Oxford English Dictionary (Volume XIII, second edition, Clarendon Press, Oxford, 1989) provides the following definitions:
+
+seize II. To take possession. ... 5.b. To take possession of (goods) in pursuance of a judicial order.
+
+seizure 1. The action or an act of seizing, or the fact of being seized; confiscation or forcible taking possession (of land or goods); a sudden and forcible taking hold.
+
+[40] The Random House Dictionary of the English Language (second edition, 1987) defines those terms as follows:
+
+seize 3. to take possession of by force or at will ... 5. To take possession of by legal authority; confiscate.
+
+seizure 3. a taking possession of an item, property, or person legally or by force.
+
+[41] Black’s Law Dictionary (sixth edition, West Publishing, St. Paul, 1990) provides these definitions:
+
+Seize. ... To “seize” means to take possession of forcibly, to grasp, to snatch or to put in possession.
+
+Seizure. The act of taking possession of property, e.g., for a violation of law or by virtue of an execution of a judgment. Term implies a taking or removal of something from the possession, actual or constructive, of another person or persons.
+
+[42] The above definitions essentially define a seizure as the taking of possession. Still, in most contexts they do indeed imply a forcible taking, or a taking with judicial consent. For instance, articles 733 through 740 of the Quebec Code of Civil Procedure, L.R.Q., c. C-25, describe the circumstances under which property may be seized and indicate that a writ or the authorization of a judge is always necessary.
+
+[43] In Mintzer v. The Queen, 96 DTC 6027, at p. 6033, the Federal Court of Appeal stated what had been said by Cave J. in Johnston & Co. v. Hogg (1882-83), 10 Q.B.D. 432:
+
+Moreover, in its ordinary and natural meaning "seizure" as understood at common law is "a forcible taking possession".
+
+[44] The question is, therefore, whether the debtor's surrender of the property was truly voluntary or whether it was forced. Does the fact that the debtor did not force the appellant to obtain an order indicate that the surrender was voluntary?
+
+[45] In Pople v. Dauphin (1921), 60 D.L.R. 30, Cameron J.A. of the Manitoba Court of Appeal stated at p. 32:
+
+A payment is not considered voluntary when made under threat of a penal action, or of an execution, even though no execution could lawfully issue, nor when illegally demanded and paid under colour of an Act of Parliament or of an office, or under an arbitrator’s award which is ultra vires, nor when one party is in a position to dictate terms to the other; nor is a payment considered voluntary merely because the person making it has not waited to be sued or has been allowed time for payment. There may be "practical" as well as "actual legal" compulsion.
+
+[46] In Riverside Concrete Ltd. v. M.N.R. (1995), 92 F.T.R. 241, the Federal Court Trial Division considered a similar issue with respect to the voluntariness of tax payments. At p. 247, Rothstein, J., as he then was, cited with approval an article by Clifford L. Pannam:[3]
+
+It is apparent from the very nature of the subject that each case must depend on its own peculiar facts. However, there are a few general propositions that may be stated with some confidence. The first is that the expression “voluntary payment” does not necessarily mean a payment which the payer wishes to make. As one Australian judge has put it, “In the case of many persons their payments never are voluntary in that sense!” A payment is clearly voluntary, even though the payer wishes that he did not have to make it, if it is made with free exercise of the will to get rid of some liability. What is critical is whether there was a choice between paying and not paying. Or to put it in the negative, before a payment will be regarded as involuntary, there must be some actual or threatened exercise of power, possessed by the party receiving it, over the person or property of the payer, for which the latter has no other means of immediate relief than by making the payment.
+
+[47] The definitions of "saisir" in the French dictionaries, however, put a much stronger emphasis on the requirement of judicial intervention. The Grand Dictionnaire Encyclopédique Larousse (tome 9, Librairie Larousse, Paris) provides the following definition:
+
+Saisir Dr. Opérer une saisie.
+
+Saisie Dr. 1. Voie d’exécution forcée tendant à faire placer sous main de justice un bien dont la propriété est revendiquée, ou sur lequel un créancier entend se faire payer.
+
+[48] The Dictionnaire de Droit Québécois et Canadien (Hubert Reid, Wilson & Lafleur, 1994) provides similar definitions:
+
+Saisir 1. Mettre des biens sous le contrôle de la justice.
+
+Saisie Mesure de nature conservatoire ou voie d’exécution par laquelle un créancier met sous le contrôle de la justice des biens appartenant à son débiteur dans le but d'assurer la conservation de ses droits ou d’obtenir l’exécution efficace d’un jugement.
+
+[49] These definitions are similar to the English ones but put a stronger emphasis on the judicial aspect by the use of terms such as “sous main de justice” and “sous le contrôle de la justice”. This would tend to indicate that in the absence of an order, there could be no saisie.
+
+[50] The parties did not refer me to any Quebec case law that would clearly establish that a voluntary dation en paiement occurring after the expiration of the 60-day notice would or would not be considered as a seizure.
+
+[51] The respondent also submits that the appellant had not repossessed the property (in French, n'a pas "repris possession") in the present case since the appellant never had prior possession of the property. The Oxford English Dictionary defines repossession as follows:
+
+repossession Recovery; renewed possession. Also spec., the recovery of goods being bought by hire-purchase when a purchaser defaults on his payments; legal proceedings to effect this.
+
+[52] The Random House Dictionary defines the verb repossess as “to possess again; regain possession of, esp. for non-payment of money due”.
+
+[53] The fifth edition of Black’s Law Dictionary (West Publishing, St. Paul, 1979) provides the following definition of repossession:
+
+Repossession. To take back—as when a seller repossesses or takes back an item if the buyer misses an installment payment. To recover goods sold on credit or in installments when the buyer fails to pay for them. ...
+
+Term is commonly understood as act of resuming possession of property when purchaser fails to keep up payments ... The act or process by which goods are recovered by a seller or finance company on the buyer’s failure to pay.
+
+[54] Two of the above definitions use the term “recover”. Two relevant definitions of recover are provided in the Oxford English Dictionary:
+
+recover 1. a. To get (occasionally, to take) back again into one’s hands or possession; to regain possession of (something lost or taken away).
+
+5. Law. a. To get back or gain by judgement in a court of law; to obtain possession of, or a right to, by legal process.
+
+[55] The Random House Dictionary provides much the same definitions. Using this definition of recover, the second paragraph of the Black’s Law Dictionary definition of repossession would seem to apply to the case at bar: a finance company (the appellant) recovered the property upon the buyer’s failure to pay. It should however be noted that this paragraph of the definition was omitted from the sixth edition of Black’s Law Dictionary.
+
+[56] The French version of subsection 183(7) uses the term "repris possession". The Grand Dictionnaire Encyclopédique Larousse defines reprendre as follows:
+
+REPRENDRE 1. Reprendre qqch, le prendre de nouveau ou prendre une autre fois, en plus, davantage... 2. Reprendre qqch, rentrer en possession de ce qu’on a donné, accordé, consenti :
+
+[57] The Grand Robert de la Langue Française, deuxième édition, tome VIII, Le Robert, Paris, defines it as “prendre de nouveau (ce qu’on a cessé d’avoir ou d’utiliser pour une raison ou pour une autre)”. These two definitions apparently require that there be prior possession in order to "reprendre possession”.
+
+[58] An analysis of the courts' use of the term "repossession" shows that on numerous occasions, Canadian courts have used it to refer to the taking possession of property by a bank where the bank had never had possession previously.
+
+[59] In National Bank of Canada v. Houle, [1990] 3 S.C.R. 122, the Supreme Court of Canada referred to "the appellant bank's impulsive and detrimental repossession and sale of the company's assets". The French version of the Supreme Court judgment does not use the word "reprendre" but uses rather the expression "prendre possession". However, in other decisions, by the Quebec Court of Appeal (Bergeron v. Métallurgie Frontenac Ltée, [1992] R.J.Q. 2656; Gamma Properties Inc. v. Montreal (1987), 16 A.Q. no 2200), or by the Superior Court of Quebec (National Trust Co. v. Gilles Bureau Ltée, [1979] C.S. 241) or in comments by the Chambre des Notaires du Québec in the Guide Pratique sur la T.P.S. et l'immeuble (mars 1991), the term "reprise de possession" is commonly used to denote the taking of possession of collateral by banks when a borrower defaults on a loan. In National Trust Co., supra, in particular, Chevalier J. of the Superior Court of Quebec clearly felt that taking possession by dation en paiement meant "reprendre possession".
+
+[60] Judge Lamarre Proulx of this Court arrives at the same conclusion in Les Placements R.I.O. Inc. v. The Queen, 96 DTC 1646, when she says at p. 1650:
+
+... De plus, je ne vois aucune distinction juridique essentielle entre la situation d'une personne qui, après l'avis de 60 jours, passe un acte de rétrocession signé volontairement ou se soumet à l'effet d'un jugement.
+
+[TRANSLATION]
+
+... Furthermore, I see no substantial legal distinction between the situation of a person who, after the 60 days' notice, executes a reconveyance signed voluntarily or submits to the effect of a judgment.
+
+[61] What is the proper way to interpret subsection 183(7) of the Act? As established in Corporation Notre-Dame-de-Bon-Secours v. CommunauteUrbaine de Quebec et al., 95 DTC 5017 (S.C.C.), the ordinary rules of interpretation should be followed. The words “are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (E.A. Driedger, Construction of Statutes, 2nd ed. (1983), at p. 87, cited with approval by the Supreme Court of Canada in Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 578). The “grammatical sense” of a term can be seen as that provided by the dictionaries, while the “ordinary sense” is the common use of the term. As these conflict to some degree in the present case, the object of the Act and the intention of Parliament play a decisive role.
+
+[62] The purpose of subsection 183(7) was stated in the 1990 Technical Notes to subsection 183(5)[4]:
+
+The purpose of this subsection is to provide a notional input tax credit in respect of property seized or repossessed by a registrant who subsequently makes a taxable supply of the property.
+
+...
+
+This ensures that the property is not effectively taxed twice under the GST.
+
+[63] The February 1993 technical notes to subsection 183(7) state explicitly that "the intent of this provision is to allow the creditor a credit for GST embedded in the property".
+
+[64] A strict interpretation of the definitions of the term "seizure" may lead to the conclusion that the dation en paiement by way of a deed signed voluntarily is not a seizure because it lacks judicial authorization. However, I am still of the view that a dation en paiement possesses all the characteristics common to seizure and repossession.
+
+[65] The dation en paiement is a means, provided by the CCLC, of taking possession of property upon a debtor's default. I cannot accept that Parliament intended an interpretation of "seized or repossessed" which would exclude property simply because a court order was not obtained. Indeed, most often, the debtor will voluntarily surrender the property not because he is willing to do so, but because he is faced with no other choice and does not want to incur extra legal costs (see Société canadienne d'hypothèques et de logement, supra note 2, p. 10).
+
+[66] This view is reinforced by the Policy Paper P-102 on seizures and repossessions (November 11, 1993) which states:
+
+Seizure or repossession has occurred at that point in the execution process when the creditor, who has lawful authority to deprive the debtor of control of the property and sufficient lawful authority over the property to transfer rights in the property to a third party, has taken sufficient actions to exercise control over such property, whether real or personal, thereby depriving the debtor of such control.
+
+[67] Furthermore, although one would not characterize a voluntary dation en paiement as a seizure in civil law, I am of the opinion that the creditor repossesses the property when the dation en paiement occurs. In my view, prior possession is not relevant for the purposes of subsection 183(7) of the Act. The common use of the term repossession – and its French equivalent "reprise de possession" – includes the taking of possession by banks upon default on a debt, regardless of whether the bank ever had possession. I believe that such was the meaning intended by Parliament, and it is the one which best furthers the purpose of the statute. I therefore conclude that the expression "seized or repossessed" includes the taking possession of property by dation en paiement.
+
+[68] The respondent further submits that the debtor received consideration in the form of an option to purchase in exchange for foregoing any opposition to the dation en paiement. The option to purchase was in fact granted to the president of the debtor, Hugh MacLean, not the debtor company itself. David Schouela testified that the option to purchase was beneficial to the appellant in that, since the appellant's business was not the sale or development of real estate, it would provide an expedient yet profitable way for the appellant to rid itself of the property. Furthermore, Mr. MacLean had personally guaranteed the loan and faced a threat by the appellant that it would sue him in his personal capacity if he did not cooperate. Had the debtor or Mr. MacLean refused to comply, it is obvious that the appellant, who had already instituted a court action, would have carried out its threat. In that sense, I do not find that the debtor received any consideration in exchange for foregoing any opposition to the dation en paiement.
+
+[69] The last argument raised by counsel for the respondent on the question of whether a dation en paiement by way of a deed signed voluntarily is a seizure or repossession for the purposes of subsection 183(7) of the Act, is that the Excise Tax Act has since been amended to include subsection 183(9) (added by S.C. 1993, c. 27, s. 47(5), applicable to voluntary transfers of property executed after November 4, 1991), which specifically addresses the issue of voluntary transfers.
+
+[70] Subsection 45(2) of the Interpretation Act, R.S.C. 1985, c. I-21 states:
+
+45. (2) The amendment of an enactment shall not be deemed to be or to involve a declaration that the law under that enactment was or was considered by Parliament or other body or person by whom the enactment was enacted to have been different from the law as it is under the enactment as amended.
+
+[71] The fact that the Act was subsequently amended should play no role in the interpretation of the applicable section as it existed at the time relevant to the case at bar (see Association of Radio and Television Employees ofCanada (CUPE-CLC), [1975] 1 S.C.R. 118 at p. 135; Canadian Pacific Limited v. The Queen, [1976] 2 F.C. 563 at pp. 590-91; and French Shoes Ltd. v. The Queen, 86 DTC 6359 at p. 6364 (F.C.T.D.)).
+
+Arguments not raised at the assessment stage
+
+[72] Two new arguments have been raised by the respondent in the Reply to the Notice of Appeal that were not raised by the assessor in making the assessment: these two new arguments relate to the quantum of the ITC and the debtor's entitlement to an ITC. The decision on the objection rendered on April 17, 1996 (Exhibit A-16), states as follows:
+
+In accordance with:
+
+...
+
+[The] Excise Tax Act (R.S.C. 1985, c. E-15, subsection 301(5)).
+
+the assessment(s) involved has(have) been reconsidered and is(are) hereby confirmed for the following reason(s):
+
+the assessment has been established in accordance with the provisions of the law in particular, but without restricting the generality of the foregoing, in that the amount of $980,833.10 cannot be claimed as an input tax credits (sic) since the transfer of the properties provided in the giving in payment deed of February 1st, 1991 does not represent a seizure or repossession according to the provisions of section 183 of the Excise Tax Act.
+
+[73] The documents filed as Exhibits A-11 to A-16 confirm that the appellant was advised only of the argument relating to whether a seizure or repossession had taken place. Ms. Hélène Couture was not able to contradict this fact. The onus is, therefore, on the Minister to prove facts not alleged in the original assessment or in the decision on the objection (see Wise et al. v. The Queen, 86 DTC 6023 (F.C.A.); Craddock and Atkinson v. M.N.R., 68 DTC 5254 (Ex. Ct.)).
+
+[74] Having said this, I will first deal with the question of whether the debtor was entitled to claim an ITC to the detriment of the appellant, and secondly with the question of the consideration.
+
+Was the debtor entitled to claim an ITC?
+
+[75] Subsection 183(7) specifies that the notional ITC is only available to the creditor (the appellant) if the person from whom the property is seized or repossessed (the debtor) "has not received and is not entitled to claim an input tax credit or a rebate in respect of the property". In the present case, the debtor has not received an ITC or a rebate. The respondent claims however that the debtor was "entitled" to claim an ITC.
+
+[76] According to section 169 of the Act, if there is tax payable or paid by a registrant on goods or services used in the course of commercial activities, the registrant is entitled to an ITC. Therefore, the GST, if any, paid or payable by the debtor in the construction of the building constitutes tax on which an ITC could be available.
+
+[77] In the present case, the debtor was not a registrant. Not being a registrant, the debtor was therefore not entitled to an ITC pursuant to section 169. The respondent is however of the opinion that the debtor was required to register under the Act and was consequently entitled to an ITC. This is, in my view, a somewhat strained argument as I am not convinced that the debtor, as a non-registrant, would have succeeded with the Minister if it had claimed an ITC on the property. This being said, I do not find on the evidence before me that the debtor was required to register.
+
+[78] Subsection 240(1) establishes when registration is required:
+
+240. (1) Registration required -- Every person who makes a taxable supply in Canada in the course of a commercial activity engaged in by the person in Canada is required to be registered for the purposes of this Part, except where
+
+(a) the person is a small supplier;
+
+(b) the only commercial activity of the person is the making of supplies of real property by way of sale otherwise than in the course of a business; or
+
+(c) the person is a non-resident person who does not carry on any business in Canada.
+
+[79] The respondent contends that the debtor was not a "small supplier" within the meaning of section 148 which states that to be a small supplier, one must have taxable supplies not exceeding $30,000, including all supplies from associated companies.
+
+[80] Surprisingly, the financial statements for the debtor as at December 31, 1990 provided by the respondent (Exhibit R-4) do not show any taxable supply. What they do show is a schedule of loans to affiliated companies one of which (Hampton Court Hotel), according to Ms. Hélène Couture, had annual taxable supplies amounting to $963,713. The respondent infers from this information that the debtor was associated with registered companies and was therefore required to register.
+
+[81] The evidence provided by the respondent is in my view too limited to enable one to conclude that the debtor was associated with registered companies. However, I do not find it necessary to discuss this point any further as I do not believe that the debtor met the second condition in order for there to be a requirement to register.
+
+[82] Indeed, only a person who makes a taxable supply in the course of a commercial activity engaged in by that same person in Canada is required to register under subsection 240(1). Subsection 123(1) of the Act, as it read during the year in issue, defines a taxable supply as one "that is made in the course of a commercial activity" which in turn is defined as follows:
+
+"commercial activity" means
+
+(a) any business carried on by a person,
+
+(b) any adventure or concern of a person in the nature of trade, and
+
+(c) any activity engaged in by a person that involves the supply of real property or of a right or interest in respect of real property by that person,
+
+but does not include
+
+(d) any activity engaged in by a person to the extent that it involves the making of an exempt supply by the person,
+
+(e) any activity engaged in by an individual without a reasonable expectation of profit, or
+
+(f) the performance of any duty or activity in relation to an office or employment;
+
+[83] In my view, when one has one’s property seized or repossessed, that supply is not made “in the course of a commercial activity”. I do not see how the debtor could have had any “reasonable expectation of profit” when having its property “seized or repossessed” with no consideration deemed to have been given. This opinion is also supported by the Guide Pratique sur la T.P.S. et l'immeuble (mars 1991), "section XII – Financement – saisie – Dation en paiement", issued by the Chambre des Notaires du Québec.
+
+[84] Furthermore, even accepting that the debtor was a "registrant" on the basis that it was required to be registered, it must be established that the debtor was eligible to "claim an input tax credit ... in respect of the property" in accordance with subsection 183(7). Such a credit is available on GST paid in the course of commercial activities. Since the GST only came into effect on January 1, 1991, the question is whether any value (on which GST would have been paid or been payable) was added to the property between the implementation of the GST (January 1, 1991) and the dation en paiement (February 4, 1991).
+
+[85] In my opinion, the evidence is insufficient to conclude that the debtor made a supply in the course of a commercial activity in 1991. Indeed, the evidence is more indicative that all activities on the property were abandoned in September 1990 by the debtor.
+
+[86] The only evidence presented by the respondent of such added value is the testimony of the architect Antoine Chalhoub. Counsel for the appellant disputed this evidence, claiming that Mr. Chalhoub was thinking of the wrong building, since he referred to a building formerly used as CTCUM garages. It should be pointed out here that Ms. Hélène Couture had information that the building located at the address corresponding to the property in question was formerly a "crèche" owned by nuns, not garages owned by the CTCUM. On the other hand, in the summary of liens registered against the property filed by the appellant as Exhibit A-18, Mr. Chalhoub appears as a person who had registered a lien for an approved total amount of $22,000. This document lists the liens that were registered against the property as at May 2, 1991. The evidence does not, however, disclose clearly when Mr. Chalhoub registered his privilege or when the work with respect to the property was performed.
+
+[87] Further, Mr. David Schouela stated in his testimony that no work was performed on the property in 1991. This was confirmed by Ms. Couture herself, who was also informed during her audit that the construction work had stopped in September 1990. I therefore conclude that the Minister has not shown on a balance of probabilities that improvements were made to the property by the debtor in 1991. This means that the debtor made no supply in the course of a commercial activity after 1990 and, consequently, was not entitled to an ITC in respect of the property. The appellant is therefore entitled to a notional ITC pursuant to subsection 183(7) of the Act.
+
+Consideration
+
+[88] Finally, counsel for the respondent disagrees with the appellant as to the consideration on which the appellant is deemed to have paid tax in respect of the property for the purpose of calculating the ITC under subsection 183(7). The respondent claims there was consideration of only $5,915,922.58 and refers to the deed of sale (Exhibit R-1) between Shoubel, Belcourt and the appellant. In that deed of sale, the vendor and the purchaser declared that the consideration was $5,915,922.58 for the purposes of the Act of the Quebec legislature authorizing municipalities to levy and collect a tax on the transfer of immoveable properties (Loi concernant les droits sur les mutations immobilières, L.R.Q., c. D-15.1). It should be pointed out here that the consideration indicated in the Offer to Purchase (Exhibit A-17) for the purpose of this same legislation was $11,545,148.55. Moreover, in the deed of sale (Exhibit R-1), the purchaser assumes all charges registered against the property and all the vendor's obligations as set out in the Offer to Purchase (Exhibit A-17).
+
+[89] It is the appellant's position that as a result of these additional clauses, the true consideration given for the property was $14,011,901.42. This amount includes $5,915,922.58 in cash as well as the assumption of $1,100,000 in liens (with respect to privileges registered against the property and summarized in Exhibit A-18), a mortgage of $945,000 payable to Les Entreprises Federet Ltée and the Yarkon balance of $5,500,000. The remainder of the $14,011,901.42 is apparently interest owed to Yarkon.
+
+[90] For the purposes of section 183, the value of consideration is defined by subsection 153(1), which states:
+
+153. (1) Value of consideration -- Subject to this Division, the value of the consideration, or any part thereof, for a supply shall, for the purposes of this Part, be deemed to be equal to
+
+(a) where the consideration or that part is expressed in money, the amount of the money; and
+
+(b) where the consideration or that part is other than money, the fair market value of the consideration or that part at the time the supply was made.
+
+[91] A common definition used for consideration is that given by Lush J. in Currie v. Misa (1875) L.R. 10 Exch. 153 at p. 162 (affd. 1 App. Cas. 554 H.L.):
+
+A valuable consideration, in the sense of the law, may consist either in some right, interest, profit, or benefit accruing to the one party, or some forbearance, detriment, loss, or responsibility, given, suffered, or undertaken by the other.
+
+This definition was essentially adopted by Black’s Law Dictionary, sixth edition:
+
+Consideration. The inducement to a contract. The cause, motive, price, or impelling influence which induces a contracting party to enter into a contract. ... Some right, interest, profit or benefit accruing to one party, or some forbearance, detriment, loss, or responsibility, given, suffered, or undertaken by the other.
+
+[92]"Consideration" is also defined in subsection 123(1) to include any amount that is payable for a supply by operation of law. In the GST/HST Memoranda Series, Ernst & Young, GST Handbook, Volume 4, Chapter 19.1 on Real Property and the GST/HST, 90,019.1, paragraphs 51 et seq., it states the following:
+
+"Value of consideration" and real property
+
+51. Consideration is defined to include any amount that is payable for a supply by operation of law. It may be money, a thing, a service, forbearance in the exercise of a right or anything else of value which induces the supplier to make the supply.
+
+52. The "value of consideration" for a supply of real property may be an amount that is different from the purchase price of the property. For GST/HST purposes, the value of consideration excludes the GST/HST and prescribed provincial taxes charged in respect of that supply, but may include adjustments for other items that are calculated separately from the purchase price.
+
+53. The value of consideration for real property is the amount to be paid for the property by a purchaser before any calculation of tax and rebate. [Emphasis added.]
+
+54. Where the consideration for a supply, or a portion thereof, is expressed in money (defined to include cash, cheques, promissory notes and other instruments), the value of that consideration is equal to the amount of the money. Where the consideration for a supply, or a portion thereof, is other than money, the value of that consideration is equal to the fair market value of the consideration at the time the supply was made. As a result, property or services given in exchange for other property or services can constitute both a supply and consideration for a supply.
+
+[93] Consideration is therefore quite a broad term. As it includes any responsibility undertaken, it most definitely includes debts and charges assumed by the purchaser, such as those claimed by the appellant.
+
+[94] The respondent further submits that since the deed of sale states the consideration to be $5,915,922.58, the appellant is estopped from claiming any consideration other than that stipulated in the deed of sale. This issue was decided by the Exchequer Court in Salter v. M.N.R. (1946), 2 DTC 918, in which Cameron J. considered the case of an appellant who was seeking to show that the consideration involved in a transaction was different from that indicated in the contract. At page 920, Cameron J. stated:
+
+In the instant case it is necessary, in order to reach a proper conclusion as to appellant's assessability to tax, to know the nature of the transaction and what was the true consideration ...
+
+Basing my finding on the above, I have reached the conclusion that the evidence introduced by the appellant to indicate the true nature of the transaction and to show the real consideration was admissible. I also find that the appellant is not estopped by reason of the terms of the written agreement from proving the real consideration as the agreement was res inter alios, and there is therefore here no mutuality.
+
+In Bell v. M.N.R., 62 DTC 1155 (Ex. Ct.), Thorson P. concluded that Salter did
+
+not apply when the terms of a contract are “clear and it is free from ambiguity”.
+
+[95] In the present case, the deed of sale states a specific price but it also states that the purchaser agrees to assume certain charges which, as mentioned above, comprise part of the consideration. The consideration attributed for the purpose of the Act of the Quebec legislature authorizing municipalities to levy and collect a tax on the transfer of immoveable properties is determined under that legislation and not under the definition of "consideration" in subsections 123(1) and 153(1) of the Act.
+
+[96] I therefore conclude that the appellant is not estopped by reason of the terms of the written agreement from proving the real consideration for the purposes of the Act.
+
+[97] As to the exact quantum of the consideration, the amount disbursed by the appellant is not relevant as subsection 183(1) deems the dation en paiement to have occurred for no consideration and subsection 183(7) only concerns itself with the consideration received on the subsequent sale of the property.
+
+[98] Indeed, the whole purpose of subsection 183(1) as it now reads is to ensure that a person from whom real property is seized or repossessed after March 27, 1991 will be eligible for an ITC or rebate equal to the lesser of 7 per cent of the fair market value of the property at the time of seizure or repossession and the total of the tax payable in respect of the acquisition of the real property and improvements thereto, in excess of ITC and rebates to which the person was previously entitled. This ITC is granted in order to remove tax embedded in the value of the property so that the property is not subject to double taxation, i.e. when the debtor originally purchased it and when the creditor resupplies it on a taxable basis after the seizure or repossession. However, this amendment is only applicable in cases where seizure or repossession of real property occurs after March 27, 1991.
+
+[99] With respect to real property seized or repossessed before March 28, 1991 (as it is the case in the present appeal), any tax on the property that was not previously recovered by the debtor is removed by providing a credit to the seizing party or the repossessor. In such a case, the creditor is deemed to have, immediately before having made a taxable supply of the property seized or repossessed by way of sale or otherwise, acquired the property and paid tax calculated on the consideration for the supply, provided that the person from whom the property was seized or repossessed neither claimed nor is entitled to claim an ITC or rebate in respect of the property. (See Consolidated Explanatory Notes on Legislation Amending the Excise Tax Act, Ernst & Young, GST Handbook, Volume 3, 60,000, S. 183). Therefore, the appellant is entitled by the application of the deeming provisions that were in place before March 28, 1991, to a full ITC on the amount of that consideration. In other words, the appellant (creditor) is treated as having acquired the property for consideration equal to the amount for which it was sold and to have paid tax in respect of that acquisition calculated on that consideration. The notional ITC equals the amount of tax collectible on the resale of the property. This ensures that the property is not effectively taxed twice under the GST. (See the technical notes to subsection 183(5), May 1990.)
+
+[100] The appellant claims that the consideration is set out in the Offer to Purchase (Exhibit A-17). Counsel for the respondent did object to the filing of that document at the hearing. While I took the objection under advisement, I now accept the filing of this document as it is explicitly stated in the deed of sale (Exhibit R-1) that the Offer to Purchase is deemed to form part of the deed of sale as if therein recited at full length.
+
+[101] In my view, the consideration includes the amount of $5,915,922.58 indicated as the purchase price in the deed of sale, the Federet Hypothec of $945,000 that had in fact been paid on March 17, 1992 (Exhibit A-10) and the Yarkon balance of $5,500,000 (the purpose of which was to have Yarkon relinquish its security on the property in exchange for the undertaking by the appellant to pay $5,500,000 plus interest upon the sale, refinancing or operation of the property). Upon the sale, the purchaser undertook to fulfil all of these obligations. I repeat that it is the amount of liability assumed by the purchaser in exchange for the property that is important under the Act for the purpose of determining the consideration, and not the actual amount advanced to the debtor by Yarkon or the appellant.
+
+[102] I would not, however, include in the consideration the value of the liens that was set at $1,111,321.76 by the appellant in Exhibit A-18. The respondent was able to demonstrate by means of the documents filed as Exhibit R-3 that at least three privileges were discharged. Mr. Chalhoub testified that his privilege was also cancelled. This is sufficient evidence for one to infer that the liens and privileges indicated in Exhibit A-18 that were registered after the Deed of Loan between the appellant and Yarkon, and which was secured by the dation en paiement clause, were most probably all discharged without payment. Indeed, upon exercising the dation en paiement, the appellant exercised its right to become owner of the property free of all charges and encumbrances that might have been registered against the property after the registration of the Deed of Loan.
+
+[103] I therefore conclude that the respondent has established on a balance of probabilities that the liens and privileges did not form part of the consideration. No evidence was put before me to show that these liens were in fact paid.
+
+[104] The remainder of the consideration of $14,011,901.42 claimed by the appellant is interest on the Yarkon balance. The amount of this interest ($539,657.08) was never stated exactly either by counsel for the appellant or in any of the documents presented. The Agreement entered into on January 31, 1991 between the appellant, Yarkon and Belcourt (Exhibit A-6) states that the interest rate to be paid on the Yarkon balance is "the prime rate announced, from time to time, by [the appellant] plus three-quarters per cent (3/4%)". Interest was to be paid on the Yarkon balance from January 31, 1991. The sale of the property by the appellant to Shoubel and Belcourt was executed on June 28, 1991. Therefore, five months of interest had accrued on the Yarkon balance at the time of the sale. Although the appellant failed to provide a detailed accounting of these interest amounts, the respondent did not expressly dispute the appellant's claims for these amounts and presented no evidence to contradict them.
+
+[105] I repeat, the burden of proof falls on the respondent with respect to this issue. As was said by McLachlin J. in Hickman Motors Limited v. The Queen, 97 DTC 5363 (S.C.C.) at p. 5377:
+
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the "evidence was not challenged or contradicted and no objection of any kind was taken thereto". See also Waxstein v. M.N.R., 80 DTC 1348 (T.R.B.); Roselawn Investments Ltd. v. M.N.R., 80 DTC 1271 (T.R.B.). Refer also to Zink v. M.N.R., supra, at p. 653, where, even if the evidence contained "gaps in logic, chronology and substance", the taxpayer's appeal was allowed as the Minister failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such "gaps". Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the appellant is entitled to succeed.
+
+...
+
+The respondent chose not to rebut any of the appellant's evidence. Accordingly, the respondent failed to discharge her onus of proof.
+
+[106] The respondent has not submitted evidence on the question of the quantum of interest. The respondent simply argued that such amounts did not constitute consideration. Counsel for the appellant has submitted evidence, in the form of various contracts, that such interest amounts did in fact exist and were assumed by the purchaser. The evidence — meagre though it may be — as to the quantum of these interest amounts is therefore uncontradicted. Accordingly, the respondent failed to discharge the onus of proof.
+
+[107] I would therefore accept the amounts submitted by counsel for the appellant, deducting, however, the entire amount of the liens. The amount of the consideration on which the ITC can be calculated is $12,900,579.66 (that is, $14,011,901.42 less $1,111,321.76).
+
+Decision
+
+[108] The appeal is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to an ITC based on the tax deemed to have been paid on the property which the appellant is deemed to have received for a consideration of $12,900,579.66.
+
+Signed at Ottawa, Canada, this 29th day of March 1999.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[1] The subsection was modified by 1993, c. 27, subsec. 47(3), applicable to properties seized or repossessed after March 27, 1991. Since the appellant took title to the property on February 4, 1991, the former subsection applies.
+
+[2] Société canadienne d’hypothèques et de logement c. La Caisse populaire Saint-Denis et autres, [1981] R.L. 3 (C.S.). Judge Lesyk stated at page 10: “La dation en paiement purement volontaire, qui équivaut à vente (art. 1592 C.C.) n’a pas d’effet rétroactif.”
+
+[3] Pannam, Clifford L., “The Recovery of Unconstitutional Taxes in Australia and in the United States”, (1964), 42 Texas Law Rev. 763.
+
+[4] Subsection 183(5) was renumbered 183(7) in February 1993 by S.C. 1993, c. 27, subsection 47(1).
+

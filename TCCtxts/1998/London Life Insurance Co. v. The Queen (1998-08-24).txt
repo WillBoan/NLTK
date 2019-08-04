@@ -1,0 +1,172 @@
+Date: 19980824
+
+Docket: 96-4239-GST-G
+
+BETWEEN:
+
+LONDON LIFE INSURANCE COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+[1] This is an appeal under the Excise Tax Act (the “Act”)from Notice of Assessment No. 08PD0101464 dated May 3, 1994.
+
+AGREED STATEMENT OF FACTS
+
+[2] London Life Insurance Company (“London Life”) is a Goods and Services Tax (“GST”) registrant and a listed financial institution as defined in the Act.
+
+[3] In Notices of Assessment dated May 3, 1994, the Minister of National Revenue (the “Minister”):
+
+(a) for the filing period, January 1, 1991 to December 31, 1991:
+
+(i) has denied input tax credits (“ITCs”) in the amount of $59,753.08 with respect to GST paid by London Life on goods and services purchased by it to make leasehold improvements; and
+
+(ii) has assessed GST payable in the amount of $55,439.45 on the sale by London Life of used furniture, used exclusively by London Life in GST-exempt activities, to a wholly-owned subsidiary company.
+
+(b) for the filing period January 1, 1992 to December 31, 1992:
+
+(i) has denied ITCs in the amount of $87,180.42 with respect to GST paid by London Life on goods and services purchased by it to make leasehold improvements.
+
+[4] London Life has objected to the assessments.
+
+FACTS RELATED TO THE LEASEHOLD IMPROVEMENT TRANSACTIONS
+
+[5] During 1991 and 1992, London Life entered into several new lease agreements, as lessee, for commercial office space for its regional sales offices.
+
+[6] At the outset of the lease, pursuant to the terms of the lease agreements, London Life received cash inducements (also referred to as tenant improvement allowances) from the landlords to finance construction by London Life of leasehold improvements on the leased premises. The amount of each tenant improvement allowance was based on a specific dollar amount per square foot of leased office space. London Life considered it more efficient to negotiate terms under which the landlord would provide funding to enable London Life to make the necessary leasehold improvements, rather than requiring each landlord to make the appropriate improvements.
+
+[7] The lease agreements generally provide that:
+
+· the tenant improvement allowance is being paid by the landlord as a contribution toward the cost to London Life of the leasehold improvements;
+
+· the leasehold improvements become the property of the landlord immediately upon installation;
+
+· the tenant is required to improve the leased premises to a standard in keeping with the appearance and character of a first class office building;
+
+· the tenant must submit detailed plans for improvements to the landlord for approval;
+
+· the tenant must provide evidence of a work schedule for completion of the improvements and provide a statutory declaration that the tenant’s work has been performed in accordance with the plans submitted; and
+
+· the tenant may be requested to provide details of costs incurred for completion of the tenant’s work.
+
+[8] London Life collected GST on the amount of each tenant improvement allowance paid to it by the landlords. This amount has now been remitted to Revenue Canada. This treatment of the tenant improvement allowance is consistent with Revenue Canada’s position in Technical Information Bulletin B-054 in which Revenue Canada requires tenants who are GST registrants and who receive from landlords amounts such as the tenant improvement allowances to collect and account for GST on such amounts received.
+
+[9] For the years in question, London Life received tenant improvement allowances in the amount of $2,212,701.34 on which it collected and remitted GST of $155,370.96. London Life claimed ITCs in the total amount of $146,933.50 for the GST paid by it on leasehold improvements of approximately $2.1 million made with respect to the leases in question.
+
+Year
+
+Tenant Improvement Allowances
+
+GST Collected
+
+ITC Claimed
+
+1991
+
+914,949.79
+
+64,046.49
+
+59,753.08
+
+1992
+
+1,297,751.55
+
+91,324.47
+
+87,180.42
+
+TOTAL
+
+$2,212,701.34
+
+$155,370.96
+
+$146,933.50
+
+[10] For income tax purposes, under section 13(7.4) of the Income Tax Act, London Life included in class 13 the net cost (excluding the amount of the tenant improvement allowance) of the leasehold improvements.
+
+[11] London Life used the sales offices primarily in its exempt insurance activities.
+
+[12] The Minister has denied the ITCs claimed by London Life in connection with the GST paid by it on supplies purchased to make the leasehold improvements.
+
+FACTS RELATED TO THE SALE OF USED FURNITURE
+
+[13] During 1991, London Life sold used office furniture and equipment (the “Assets”) to its wholly owned subsidiary Royal LePage Mortgage Company (Broker) Inc. (“RLMC”). Prior to the sale, London Life used the office furniture and equipment exclusively in activities involving the making of GST-exempt supplies. London Life did not claim ITCs on its purchase of the Assets.
+
+[14] London Life sold the Assets to RLMC for a total price of $847,431.57.
+
+[15] The cost to London Life of each of the Assets was less than $50,000.
+
+[16] The Minister has assessed GST on the sale in the amount of $55,439.45.
+
+ISSUES
+
+[17] The issues are:
+
+(a) whether London Life is entitled to GST ITCs in respect of the leasehold improvement transactions; and
+
+(b) whether GST is payable in respect of London Life’s sale of used office furniture and equipment to RLMC.
+
+ANALYSIS
+
+LEASEHOLD IMPROVEMENTS
+
+[18] During the 1991 and 1992 taxation years, London Life leased commercial office space for its regional sales offices. London Life received tenant improvement allowances from its landlords under the terms of the leasing agreements. As a supplier of financial services, the Appellant is restricted in its ability to claim ITCs insofar as the services it offers are not commercial activities for the purposes of the GST portions of the Act[1]. Notwithstanding the fact that it makes exempt supplies in the course of its usual business activities, London Life claims that the act of making lease arrangements for its regional sales offices constitutes a taxable supply to its landlord and that this supply is subject to ITCs. I cannot agree with the Appellant’s submissions on this issue.
+
+[19] Paragraph 141.01(2)(b) of the Act deems property acquired for the purpose of making exempt supplies to have been acquired for consumption otherwise than in the course of commercial activities. In my opinion, London Life did not undertake the leasehold improvements for the purpose of making a supply to its landlord. Instead, London Life improved the leasehold interests for the purpose of furthering its business activities. In his Analysis of section 141.01 David M. Sherman wrote:
+
+...A “business” cannot be looked at only from the point of view of the supplies acquired. (Indeed, if someone did nothing but acquire goods and services, and never supplied them, that person would be a consumer and not a business.) The words “to the extent” in the definition of “commercial activity” clearly indicate that, when considering (say) the GST paid on leased premises, the “business” or “activity” in question is not the leasing of the premises (as lessee) but the leasing of the premises combined with the use of those premises to deliver goods and services. Thus, as clearly intended by the drafters of the legislation, overhead costs should be allocated based on the supplies made by the business, so as to determine the extent to which the overhead costs involve the making of exempt supplies.[2]
+
+[20] While David M. Sherman’s opinion is in no way binding authority, I find it persuasive in this matter. Likewise, in Suzy Creamcheese (Canada) Ltd. v. The Queen, 92 DTC 6291 at 6293-4 (F.C.T.D.) Collier J. held that the retailer in that case was not in the business of negotiating leases and that leasing premises was “merely a vehicle for carrying on its business”. Thus, when considering the “purpose” of acquiring property under paragraph 141.01(2)(b) it is the business purpose, which in this case is the provision of financial services, that is decisive.
+
+CONCLUSION
+
+[21] London Life acquired the leasehold improvements for use in the making of supplies in the course of its tax exempt insurance business. Therefore, the improvements were not undertaken in the course of a “commercial activity” and subsection 169(1) is not applicable to GST paid for those improvements.
+
+DECISION
+
+[22] The appeal in relation to leasehold improvements is dismissed.
+
+SALE OF USED FURNITURE AND EQUIPMENT TO RLMC
+
+[23] In 1991, London Life sold office furniture and equipment to RLMC, a wholly-owned subsidiary. The Minister assessed GST payable in the amount of $55,439.45. The used furniture and equipment was used exclusively by London Life in GST exempt supplies.
+
+[24] The Appellant submits that GST should not apply to the sale of used furniture and equipment by London Life to its wholly-owned subsidiary. The sale was not a taxable supply because it was not made in the course of a commercial activity.
+
+[25] The Respondent submits the sale of the used office furniture and equipment was subject to GST because it was not a “financial service” as defined by subsection 123(1) of the Act. As well, it was a “commercial activity” as defined by subsection 123(1). The Respondent agrees that under paragraph 141.1(1)(b) supplies of personal property will not be considered to be made in the course of a commercial activity if the property was exclusively for use or consumption in non-commercial activities. However, the Respondent notes that section 141.1 was added in 1993 and is only effective after October 1, 1992 and notes that the sale of the used furniture and equipment occurred prior to that date. Therefore, the transactions are not directly affected by paragraph 141.1(1)(b).
+
+[26] I conclude the sale of the used furniture and equipment was not made in the course of a commercial activity because it was not part of the normal or common flow of the Appellant’s business which is the provision of a “financial service”[3]. The Appellant is not in the business of selling furniture. Rather, the sale of furniture to its subsidiary was merely incidental to its business of selling insurance.
+
+[27] With regards to the application of paragraph 141.1(1)(b), the Respondent is correct when he states that it is applicable only after October 1992. Prior to October 1992, the applicable provision was subsection 141(5) which stated that supplies made in connection with a commercial activity would be deemed to be in the course of commercial activity. I conclude the introduction of section 141.1 was intended to clarify the law and not change the law as it existed in 1991. Old subsection 141(5), like new section 141.1, was not meant to cover the non-commercial sale of property such as the sale of furniture from a parent to a subsidiary corporation. This interpretation finds support in the Technical Notes which accompanied the introduction of section 141.1 in 1993. This interpretation is also consistent with subsection 45(2) of the Interpretation Act and I can not find nothing to lead to a contrary conclusion.[4]
+
+DECISION
+
+[28] On this issue, the appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that the sale of the used furniture and equipment by the Appellant was not a taxable supply because it was not made in the course of a commercial activity.
+
+[29] The Appellant is entitled to no further relief.
+
+Signed at Ottawa, Canada, this 24th day of August 1998.
+
+“D. Hamlyn”
+
+J.T.C.C.
+
+[1] Subsection 123(1) of the Act specifically includes the supply of insurance policies in the definition of “financial instrument” and includes the issuance of financial instruments in its definition of “financial service”. A financial service is an “exempt supply” by virtue of Schedule V, Part VII of the GST portions of the Act and the definition of “commercial activities” in that subsection 123(1) specifically excludes the making of exempt supplies. Therefore, London Life, as a supplier of insurance policies, is not engaged in commercial activities for the purposes of GST portions of the Act.
+
+[2] David M. Sherman, Canada GST Service, Binder C2 (Scarborough: Carswell, 1998) at 141-211 to 141-212.
+
+[3] See Hleck, Kanuka, Thuringer v. Canada, [1994] G.S.T.C. 46 (T.C.C.).
+
+[4] See also Aubrett Holdings Ltd. v. Canada, [1998] T.C.J. No. 141 (T.C.C.).
+

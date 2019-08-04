@@ -1,0 +1,654 @@
+Date: 20001219
+
+Docket: 1999-1856-IT-G
+
+BETWEEN:
+
+GESTION YVAN DROUIN INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] Gestion Yvan Drouin Inc. (Gestion) is appealing from two assessments made on February 12, 1996, by the Minister of National Revenue (the Minister) under subsection 160(1) of the Income Tax Act (the Act). The Minister held Gestion liable for the amounts of $22,444.81, according to notice of assessment no. 8825, and $352,735.80, according to notice of assessment no. 8826. These amounts allegedly represent part of the tax owed to the Minister by numbered company 2850-0692 Québec Inc. (DPCI) when the company declared dividends in favour of Gestion. The first notice of assessment is in respect of a dividend paid during the 1987 financial year, while the second concerns a dividend paid during the 1991 financial year (the years in question).
+
+[2] There are mainly two questions at issue: the first, whether DPCI had tax liabilities toward the Minister, and the second, whether there was a non-arm’s-length relationship between DPCI and Gestion. Gestion claims that the Minister did not prove that DPCI had tax liabilities. It also maintains that, during the 1991 taxation year, there was an arm’s length relationship between DPCI and Gestion. In respect of the 1987 taxation year, Gestion acknowledges that there was no arm’s length relationship.
+
+Facts
+
+[3] Gestion is a management company incorporated in 1980. During the years in question, its president and sole shareholder was Yvan Drouin. Between 1980 and December 14, 1987, Gestion was the sole shareholder of DPCI, a company incorporated under Part IA of the Quebec Companies Act (Companies Act). DPCI is in the business of building mid-range housing. The company built approximately 3,000 houses from 1970 to 1990, primarily in the Beauport sector, near Quebec City.
+
+[4] On December 14, 1987,[1] Gestion and Gilles Moisan, a chartered accountant who had been DPCI's auditor for a number of years, decided to form a partnership to operate DPCI’s business. There was no familial relationship between Messrs. Moisan and Drouin. Since the intent of Mr. Moisan and Gestion was that they would each hold 50% of DPCI’s voting, participating shares, they reorganized the capital by converting the shares held by Gestion as follows: 6,704 Class A shares into 6,704 Class C preference shares redeemable for a total price of $1,100,797, and 52,925 Class B shares into 52,925 Class D shares redeemable for a total price of $529,250.[2]
+
+[5] On January 1, 1991, DPCI amalgamated with Développement Québec-Métro Inc. (DQM). The new company kept the DPCI company name. Following the amalgamation, the shares of DPCI[3] were held as follows:
+
+Name of shareholder
+
+Class A
+
+Class B
+
+Class C[4]
+
+Gestion
+
+1,100
+
+167,040[5]
+
+52,925[6]
+
+Gilles Moisan
+
+1,100
+
+[6] A few days later, on January 23, 1991, Mr. Moisan gave Mr. Drouin a draft agreement that provided a schedule for the payment of dividends on the Class B and C shares held by Gestion, as well as the redemption of these shares. The negotiations leading to the draft agreement had been initiated a few months earlier, in the fall of 1990. In the draft agreement, dividend arrears for the preference shares were evaluated at $380,000.
+
+[7] Gestion and Mr. Moisan agreed that DPCI would pay the arrears from the net proceeds of the sale of the immovables that would be described in the draft agreement. The draft agreement also provided that, after paying the dividends, DPCI would redeem the preference shares. Those shares were to be redeemed from the net proceeds of the sale of immovables also to be described in the draft agreement. Payment of the dividends, like the redemption of the preference shares, was to take place over a three-year period. Nothing came of this draft agreement.
+
+[8] Another draft agreement, dated February 7, 1991, was prepared. That draft agreement focussed more on share redemption: first, the redemption of the Class C shares and, subsequently, the redemption of the Class B shares, over a three-year period. It describes the procedure to be followed for redeeming the preference shares in accordance with the terms and conditions set out in an agreement document annexed to the articles of amalgamation of January 1, 1991. However, that agreement was not produced as evidence at the hearing. As had been provided in the first draft agreement, the preference shares were to be redeemed from the net proceeds of the disposition of certain buildings but, unlike in the first draft, the immovables were described. Like the first draft, the second draft was unsigned and nothing came of it.
+
+[9] As the negotiations went on and time passed, relations between Messrs Drouin and Moisan became increasingly strained. Mr. Drouin explained the situation as follows: Mr. Moisan and he did not share the same views as to the direction that DPCI should take. Mr. Moisan wanted DPCI to become more involved in high-end residential construction, but Mr. Drouin felt that DPCI only had the expertise for mid-range residential housing construction. As it was becoming increasingly clear that there were two captains on board, it was not surprising that Mr. Moisan suggested that all the shares held by Gestion be redeemed by DPCI.
+
+[10] As DPCI’s external auditor, Gilles Gingras from Samson Bélair had been involved for some time in the negotiations between Messrs Drouin and Moisan. He found it increasingly difficult to participate therein while at the same time maintaining his impartiality. Mr. Gingras accordingly decided to represent the interests of Mr. Drouin and Gestion. Mr. Moisan then told Mr. Gingras that he wanted another partner from Samson Bélair to replace him as the senior partner in charge of the DPCI file. In the ensuing negotiations, each of the two shareholders had his own accountant and legal adviser.
+
+[11] On April 30, 1991, Mr. Moisan gave Mr. Drouin a handwritten document entitled [TRANSLATION] “Basis of discussion”. In this document, it was confirmed that DPCI would redeem all the shares held by Gestion. The Class A shares would be redeemed for an amount equal to their paid capital while the shares in the other classes would be redeemed at their redemption value. The redemption price would be paid by DPCI’s transferring some of its land, the value of which was to be agreed upon.
+
+[12] This document also dealt with the matter of a contract of employment between DPCI and Mr. Drouin for a period to be defined. It included a clause providing for the readjustment of the redemption price should legal proceedings be instituted by DPCI clients. Any settlement with regard to proceedings concerning work performed before November 1, 1987, would entail a reduction in the redemption price of the shares equal to 80% of the amount of the settlement. As for work done between November 1, 1987, and the date the shares were redeemed, a settlement in respect of such work would lead to a reduction in price equal to 50% of the amount of the settlement. In addition, there was provision for a readjustment in the event that tax was assessed as a result of certain personal expenses being disallowed.
+
+[13] Mr. Gingras described the negotiations between Messrs Drouin and Moisan as long and laborious. According to him, the two had diverging interests. Mr. Moisan wanted to have a going concern while Mr. Drouin wanted to have his shares redeemed as quickly as possible and to receive payment of the dividend arrears owed to him. He described the climate between the two parties as frosty but polite. According to him, the negotiations were proceeding in good faith. He confirmed that the first draft agreement for the redemption of the shares submitted to Mr. Drouin did not satisfy him because it would have taken too long to redeem all his preference shares.
+
+[14] Since the redemption of Gestion’s DPCI shares was to be effected through a transfer of land belonging to DPCI, it was important to set a value for this land. DPCI’s internal comptroller, Alain Grenier, prepared a table dated June 5, 1991, showing the value of the land to be transferred to Gestion. The table contains the handwritten annotations of Mr. Moisan increasing the value of the properties: for example, for lot 1773, representing 168,339 sq. ft., the unit value rose from $1.08 per sq. ft. to $1.80 per sq. ft. The same was true for a property located on Bessette Street: the value of the 700,000 sq. ft. property originally estimated at $1.08 per sq. ft. was increased by Mr. Moisan to $1.45 per sq. ft.
+
+[15] The calculation of the value of the land was used not only to determine which properties would be transferred to Gestion in payment of the redemption price of its shares, but also to determine the tax consequences of the land transfer for DPCI and the size of the increase in its surpluses. Mr. Gingras noted that it was important that the payment of the dividends and the redemption of the shares conform with the solvency criteria in the Companies Act and did not negatively affect DPCI’s future prosperity. Since Mr. Moisan was to continue operating DPCI, he wanted it to be a going concern and not a “lame duck”. Mr. Gingras confirmed that, in addition to satisfying the solvency criteria that had to be met in order to be able to declare dividends, it was necessary to ensure that DPCI had sufficient financial resources to obtain the security bonds required to obtain construction contracts.
+
+[16] In the analysis of the tax impact of the land transfer on the redemption of the shares in the table of June 5, 1991, the tax payable was estimated at $393,555. In addition, there was an analysis of profits and cash flow with respect to the properties retained by DPCI. That analysis showed that, if all the properties were sold by DPCI at an estimated price of $2,234,800, the net cash inflow—after payment of $390,745 in tax, loans of $51,909 and other expenses of $485,468—would amount to $506,078, and the amount of the surplus would be $113,123.
+
+[17] An agreement between Gestion and Mr. Moisan was entered into on July 1, 1991, and a 14-page document was signed on July 4, 1991. The price agreed upon was $2,058,000 and was broken down as follows: $1,100 for the Class A shares, $1,221,062 for the Class B shares, $529,250 for the Class C shares and a dividend declared but unpaid of $306,588. This price was to be paid through the transfer of properties described in the agreement.
+
+[18] The July 1, 1991 agreement also made provision for a contract of employment for Yvan Drouin for four and one-half years: from July 1, 1991, to December 31, 1991, his weekly salary was to be calculated based on an annual salary of $170,000. After that, Mr. Drouin was to receive an annual salary of $50,000 for four years.
+
+[19] The agreement also provided for downwards adjustments of the price by reason of tax assessments resulting from the disallowance of personal expenses or by reason of adjustments made as a result of claims by DPCI clients. This agreement also contained a non-competition clause binding on Gestion and Mr. Drouin personally.
+
+[20] Contrary to what was stipulated in the July 1, 1991 agreement, the contract of employment ended in October 1999: Mr. Drouin had the impression that he was in the way. Beginning in January 1992, he took real estate brokerage courses. In addition, $40,000 was paid by Gestion to DPCI in reimbursement of the redemption price on account of the adjustment clauses referred to earlier.
+
+[21] Gestion paid $8,060 in fees to Samson Bélair for services rendered from January 1 to July 31, 1991. Those services were described as [TRANSLATION] “tax and financial planning with respect to the purchase of the land belonging to Drouin et Parent Construction Inc. [DPCI]”. According to Mr. Drouin’s testimony, the fees covered the professional services rendered by Mr. Gingras in the negotiations for the redemption of the DPCI shares held by Gestion.
+
+[22] On April 27, 1994, the Minister sent Gestion a draft assessment under subsection 160(1) of the Act. The notices of assessment were issued two years later on February 12, 1996. Notices of objection were filed on April 2, 1996, and the assessments were not confirmed by the Minister until almost three years after that, on January 13, 1999.
+
+[23] According to notice of assessment no. 8825, DPCI’s tax liability for 1986 and 1987 amounted to $22,176.64 representing $0.50 in tax, a $2,819 penalty and $19,357.14 in interest. In 1987, a $77,087 dividend was paid by DPCI to Gestion.
+
+[24] For 1991, notice of assessment no. 8826 shows DPCI’s tax liability as $560,486.13 representing the total of three amounts: the first, $71,334.77, being tax, penalty and interest for the 1986, 1987, 1988 and 1989 taxation years; the second, $24,636.99, being tax and interest for 1989;[7] and the third, $464,514.37, being for 1991.
+
+[25] On numerous occasions, Gestion asked the Minister for information about DPCI’s tax liabilities but without success. In particular, on November 12, 1998, Gestion’s accountants requested the Minister to give them full details concerning DPCI’s tax liabilities by providing them with the draft assessments, the assessments themselves and DPCI’s notices of objection, if any, as well as any other documents emanating from the Department or from DPCI, such as the financial statements or income tax returns on the basis of which the Minister was able to establish the existence of DPCI's tax liabilities.
+
+[26] In his reply of December 21, 1998, the Minister did not include the documents requested. For 1986 and 1987, the Minister was unable to locate either the files or the notices of assessment for DPCI. Since Gestion was no longer a shareholder of DPCI on December 31, 1991, the Minister refused to provide it with the information relating to that year. Robert Lévesque of the Revenue Canada Appeals Service, Quebec Taxation,testified that he considered that he was under a duty of confidentiality with respect to DPCI’s tax information. Despite repeated requests, at no time prior to the hearing was Gestion able to obtain the notices of assessment of tax made by the Minister with respect to DPCI for the 1986 and 1987 taxation years or those for the 1991 taxation year.
+
+[27] During the hearing, the representatives of the Minister were unable to produce the notices of assessment for 1986 and 1987. The only document provided was a table indicating that entertainment expenses of $21,147.10 and repair and maintenance expenses of $10,008.63 had been disallowed and that there was $45,729 in unreported income from the sale of a triplex. These amounts totalled $76,884.73. According to a memorandum sent to Jean-Charles Boucher of Appeals (Headquarters), by Mr. Lévesque, a reassessment was made in May 1992 in respect of DPCI for 1986 and 1987.
+
+[28] As proof of tax liability in respect of 1991, the respondent produced DPCI’s tax return indicating that net tax of $464,314 was payable. A notice of assessment was also produced on which the amount of tax to be paid established by the Minister corresponded to what had been reported by DPCI in its tax return.
+
+[29] In the December 31, 1991 financial statements prepared by Samson Bélair, an amount of $173,533 was shown under shareholders’ equity, of which $151,274 represented retained earnings. Under short-term liabilities, an amount of $632,482 in income tax was indicated. The value of the assets on that date was $4,509,904.
+
+[30] Stating that he only saw these financial statements at the hearing, Mr. Gingras testified that he had never understood why the Department had been unable to collect the taxes owed by DPCI. He said that the 1991 financial statements showed that this company had sufficient assets to pay its taxes. Furthermore, the statements contradicted the assertion of the Minister’s auditor that DPCI was in a state of bankruptcy when the preference shares were redeemed. According to Mr. Gingras, DPCI was far from bankrupt. He added that the assets were recorded at cost on the company’s balance sheet. Based on his information regarding the value of certain land described on the balance sheet, Mr. Gingras estimated that, as at December 31, 1991, some of the properties had a much higher value than the cost shown on the balance sheet. He referred to two properties that, in his opinion, had increased in value by approximately one million dollars.
+
+[31] In his testimony, the Minister’s auditor explained why he believed that there was a de facto non-arm’s-length relationship between Gestion and DPCI at the time the dividends were paid in July 1991. He confirmed that he had relied on the decision in Fournier v. The Minister of National Revenue, 91 DTC 746, and said that Gestion and Mr. Moisan had acted in concert when the dividends on Gestion’s preference shares were paid in July 1991.
+
+Gestion’s position
+
+[32] Counsel for Gestion submitted that the onus was on the respondent to establish the existence of a tax liability at the time the dividends of $77,087 in 1987 and of $352,735.80 in 1991 were paid. In support of that argument, he cited a passage from Germain Pelletier Limitée v. The Queen, [1998] T.C.J. no. 665 (98 DTC 2159). This was a case that he himself had pleaded and in which I rendered the decision:
+
+[59] The context in which the Minister makes assessments under section 160 of the Act should also be borne in mind. Strictly speaking, what is involved is not an assessment for tax owed by a taxpayer, but a procedure for collecting from a third party amounts owed by another taxpayer. It is a kind of Paulian action brought by the Minister. In my view, it is essential that the third party against whom such an action is brought be able to contest the amount of the debtor's liability. I do not think that the presumption of validity set out in subsection 152(8) of the Act applies to a third party.
+
+[60] It is hard to imagine a better example than the circumstances of this appeal to illustrate the need for a taxpayer who is assessed under section 160 to be able to contest the amount of the tax liability. It might even be asked whether it would not be fairer for the burden of proof to be on the Minister and for him to have to show that the tax liability is in fact payable. However, it is not necessary to rule on this here, since the Minister has acknowledged that the tax liability is nil if the fair market value is below $5,632,587. The value I have determined is well below that amount.
+
+[33] Furthermore, it was in reliance on that decision that the representatives of Gestion asked the Minister, in their letter of November 12, 1998, to provide all relevant documents establishing the amount of the tax liability. As we know, the notices of assessment for 1986 and 1987 and the one for 1991 were not provided to Gestion or its representatives before the hearing. Only the notice for 1991 was produced at the hearing.
+
+[34] Counsel for Gestion maintained that there was no evidence establishing the tax liability for 1986, 1987 and 1991. In addition, he argued, as shown in the memorandum to the Minister’s headquarters, that the assessments for 1986 and 1987 were made in May 1992 and that that date was outside the normal assessment period. As for 1991, Gestion did not have all the information it needed to challenge the assessment. In particular, Schedule T2S(1) accompanying the tax return was not provided. Even if the amount determined by the Minister in his assessment corresponded to that declared by DPCI, one may wonder about the validity of that assessment. Moreover, counsel reminded the court, Gestion had never been given an opportunity to confirm that the amount assessed was indeed owed.
+
+[35] As for the existence of a non-arm’s-length relationship between Gestion and DPCI, Gestion’s counsel acknowledged that, when the $77,087 dividend was paid in 1987, Gestion controlled DPCI and there was thus a non-arm’s-length relationship at that time.
+
+[36] With regard to the non-arm’s-length relationship that existed when the dividends were paid in 1991, Gestion’s counsel pointed out that there was no familial relationship between Messrs. Drouin and Moisan. He challenged the respondent’s position that Messrs. Drouin and Moisan had acted in concert and without separate interests in adopting, in their capacity as directors, the resolution authorizing payment of the dividends. He noted that the dividends were declared and paid only in favour of Gestion on its preference shares and that no other dividend was paid on shares belonging to Mr. Moisan. It is inconceivable that a non-arm’s-length relationship could be held to exist every time that individuals sign an agreement or authorize, in their capacity as directors, the payment of dividends. He stressed that each of the parties had differing interests when they negotiated the dividend payments and the redemption of the preference shares held by Gestion.
+
+Respondent’s position
+
+[37] Counsel for the respondent argued that the existence of the tax liabilities had been clearly established. She did not challenge the position I took in Germain Pelletier Limitée (supra). She acknowledged that no notices of assessment for DPCI's 1986 and 1987 taxation years were produced at the hearing. However, she did emphasize that a penalty had been imposed for 1987.
+
+[38] As for 1991, she noted that all the notice of assessment did was to confirm the amount of tax declared by DPCI in its tax return. The Minister did not conduct any audit for that year. Concerning the existence of a non-arm’s-length relationship between Gestion and DPCI in 1991, she pointed out that the resolutions of the board of directors had been signed by Messrs. Drouin and Moisan. There was a common will to declare the dividends, all in accordance with a plan on which the two parties had agreed. Counsel drew a distinction between the frosty climate that may have existed with respect to the redemption of the preference shares and the atmosphere in which the payment of the dividends took place. She stated that it was to the payment of the dividends that subsection 160(1) of the Act applied. In support of her position, she relied of course on the decisions of my colleague Judge Dussault in Fournier (supra) and Gosselin v. R., 1996 Carswell Nat 2472, [1996] T.C.J. no 206 (QL).
+
+Analysis
+
+[39] The legislative provisions on which the Minister relied in making the assessments are found in subsection 160(1) of the Act. In deciding the issues raised by these appeals, I think it is essential to analyse this subsection in detail. It reads as follows:
+
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+
+(a) the person's spouse or a person who has since become the person's spouse,
+
+(b)a person who was under 18 years of age, or
+
+(c) a person with whom the person was not dealing at arm's length,
+
+the following rules apply:
+
+(d)the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+
+[Emphasis added.]
+
+Was there a transfer without consideration?
+
+[40] The first element that comes out of an analysis of this subsection is that there must first be a transfer of property between one person, the transferor, and another, the transferee. It is obvious that the scope of the word “transfer” is broad enough to include a dividend paid to a shareholder,[8] as one patrimony is impoverished and the other enriched. The term would also be broad enough to cover payment of interest on a loan.
+
+[41] Another element that emerges from the analysis of subsection 160(1) is that the transferee of property does not have unlimited liability with respect to the transferor’s tax owed. The transferee's liability is limited to the lesser of two amounts: (i) the value of the benefit conferred and (ii) the amount of the transferor’s tax liability. Therefore, the transferee cannot be liable beyond the value of the benefit received from the transferor. If the transferor makes a gift of property, the transferee could be liable for an amount up to the value of the gift. If the transferee purchased property for an amount less than the fair market value, he could be liable for the tax owed up to the amount represented by the difference between the fair market value of the property and the consideration given for it.
+
+[42] I mentioned earlier that the word “transfer” is broad enough to include a dividend paid to a shareholder. However, it is not as clear that a dividend constitutes property transferred for no consideration from the transferee. A corporation that wants to carry on a business needs capital to finance its operations and purchase the necessary fixed assets to run the business. One of its sources of funds is the capital stock provided by the shareholders; another is financing through loans. To interest a shareholder, the corporation offers a return in the form of dividends on the shares held by the shareholder. In the case of some preference shares, as here,[9] the return may even have been fixed in advance.
+
+[43] In Neuman v. M.N.R., [1998] 1 S.C.R. 770, at page 791, para. 57, 98 DTC 6297, 6304, Iacobucci J., dealing with the issue of whether a dividend could be declared in consideration of services rendered by a shareholder, stated:
+
+This approach ignores the fundamental nature of dividends; a dividend is a payment which is related by way of entitlement to one's capital or share interest in the corporation and not to any other consideration. Thus, the quantum of one's contribution to a company, and any dividends received from that corporation, are mutually independent of one another. La Forest J. made the same observation in his dissenting reasons in McClurg (at p. 1073):
+
+With respect, this fact is irrelevant to the issue before us. To relate dividend receipts to the amount of effort expended by the recipient on behalf of the payor corporation is to misconstrue the nature of a dividend. As discussed earlier, a dividend is received by virtue of ownership of the capital stock of a corporation. It is a fundamental principle of corporate law that a dividend is a return on capital which attaches to a share, and is in no way dependent on the conduct of a particular shareholder.
+
+[Emphasis added.]
+
+[44] Generally speaking, an investor would not invest his money in a company without having the possibility of sharing in its profits. It is moreover because of this possibility that such an investor can deduct his expenses, including interest expenses, in computing his income. His money is invested for the purpose of earning income from it—in the form of dividends—just like a person who lends money to earn interest on it.
+
+[45] It is therefore somewhat surprising that some people might consider dividends as gifts made by the corporation to the shareholders.[10] Is there really a gift in such a case? It is not in actual fact a gratuitous transfer made by the corporation. The corporation received consideration for the dividend: it was thanks to the capital provided (at least in part) by the shareholder that the corporation can carry on business.[11] It is through dividends that a corporation remunerates that capital. This is even more obvious in the case of so-called financing preference shares entitling the holder to an annual, cumulative dividend, which are redeemable at the option of the holder and are often non-voting. There is very little difference between such financing shares and a loan, so much so, in fact, that accountants in presenting their financial statements equate them with loans.[12] No one, I think, would doubt that the interest represents remuneration of the capital and that the payment of interest represents a transfer of property for which consideration was provided.[13]
+
+[46] It must be acknowledged that there are legal differences between the terms and conditions governing a loan and those governing an investment in shares. In particular, a dividend cannot be paid if this makes the corporation insolvent, whereas interest is payable as soon as it becomes due, regardless, generally speaking, of the debtor’s financial situation. Unless the corporation’s articles of incorporation specify a time, a dividend is not payable until it has been declared by the corporation.
+
+[47] Even if a holder of common shares does not know when he will receive the consideration for the use of his capital (at the latest, it will be when the company is wound up if, of course, there are sufficient assets), he knows that the company’s earnings are accumulating to his benefit. He can even benefit therefrom indirectly if he disposes of his shares, since the proceeds of disposition should normally take retained earnings into account. In the case of financing shares, the holder often has the option of having them redeemed when he wishes and of having the cumulative passed dividends paid at that time.
+
+[48] I do not believe that the Minister applies subsection 160(1) to the payment of reasonable interest on a loan and I have not been able to find any case law that deals with such a case. So why apply this subsection to dividends, especially to cumulative dividends on shares redeemable at the option of the holder? This question is all the more valid since the legislation governing the incorporation of companies already provides a remedy against directors and shareholders if the payment of a dividend threatens the recovery of the claims of the corporation’s creditors, among whom should be included the tax authorities.[14]
+
+[49] It seems to me that it is more correct to view dividends as property transferred in consideration of the use of the capital provided by the shareholder than to maintain that it is a gift. Moreover, the value of the consideration should, unless there are exceptional circumstances, be equal to the amount of the dividend.
+
+[50] On the other hand, there are decisions that have found dividends to be transfers of property for no consideration. In Algoa Trust (supra), at page 409, Judge Rip describes as follows the two arguments advanced by the taxpayer:
+
+A dividend is paid to shareholders for consideration, counsel submitted. When a person subscribes for shares in a corporation a bargain is struck between that person and the corporation that in return for the investment the corporation will pay dividends to the shareholder. The payment of a dividend, if a transfer of property, is made by a corporation to its shareholder for consideration equal to the amount of the dividend paid.
+
+Also, counsel submitted, on declaration of a dividend by directors of a corporation, the shareholder obtains an "action en droit" (right of action) against the corporation to sue for an amount equal to dividend amount if not paid the dividend when it is payable. A shareholder surrenders this right when he or she receives the dividend. This, too, is consideration given to the corporation in return for the dividend.
+
+[51] At page 410, Judge Rip concludes:
+
+When a person subscribes for shares of a corporation he or she is paying theoretically for the acquisition of a share of the ownership of the corporation and receives shares of a class in the capital stock of the corporation. The shareholder gives consideration for the shares and not for what the shares may bring. Ownership of shares gives the shareholder certain rights: right to vote as a shareholder, right to a distribution of capital on the winding-up of the corporation, right to receive dividends. (This list is not meant to be exhaustive.) When the shareholder receives a dividend it is not as a result of any consideration he or she gave the corporation and which the corporation is obliged to pay for investing. When a shareholder purchases shares he is not purchasing an income right. A shareholder receives a dividend solely because the right to a dividend is an attribute of owning shares.
+
+[Emphasis added.]
+
+[52] In Ruffolo v. Canada, 99 DTC 184, [1998] T.C.J. No. 714, the taxpayer advanced an argument similar to that made in Algoa:
+
+[3] The Appellants attack the assessments on two grounds. Firstly, they assert that consideration was given for the dividends. This argument starts with the well-known principle that when a corporation declares a dividend to be payable on a certain date to its shareholders, a debt becomes payable on that date to each shareholder in the amount of the dividend. The Appellants' theory is that the shareholder pays consideration for the dividend equal in value to that dividend by giving up the right to receive which was vested in him as a consequence of the declaration. Thus, so the Appellants assert, the subparagraph 160(1)(e)(i) amount is nil.
+
+That argument by the taxpayer was not any more successful before my colleague Judge Bonner :
+
+[7] . . . When a dividend is paid by a corporation to a shareholder property flows in one direction only. The right of a shareholder to receive payment of a dividend which has been declared flows from his status as shareholder and not from any consideration given by him. Nothing in the decision of the Supreme Court of Canada in Newman v. The Queen supports the Appellants' position.
+
+[53] The Algoa Trust decision has a certain precedential value since it was upheld by the Federal Court of Appeal. However, as that court did not provide reasons with its decision, it is difficult to assess its actual scope. Perhaps the Federal Court of Appeal will one day have an opportunity to explain its thinking on the issue. Since counsel for Gestion did not really question the principles set out in Algoa Trust and as the issue of whether the dividends that were paid represented excessive remuneration of the capital provided by Gestion was not debated, it would be inappropriate to rule on Gestion’s appeal on the basis of an assumption that Gestion had given DPCI adequate consideration for the dividends. It is therefore necessary to continue my analysis of subsection 160(1) of the Act.
+
+Was there a non-arm’s-length relationship in 1991?
+
+[54] Another important factor emerging from the analysis of subsection 160(1) of the Act is that not all transferees who have received a benefit become liable for the transferor’s tax owed. Only three categories of persons are covered by that subsection. Let us start with the last category since it is the one that has more general application. This category is made up of persons with whom the transferor had a non-arm’s-length relationship at the time of the transfer.[15] By virtue of sections 251 and 252 of the Act, this category takes in all related persons, such as the transferor’s spouse, children or parents and any company controlled by the transferor or a related group to which the transferor belongs. There are also persons who, although not related to the transferor, do not deal with him at arm’s length.
+
+[55] The other two categories comprise a smaller group of people. The first consists of the transferor’s spouse or a person who has become the person’s spouse since the transfer. As a person who is the transferor’s spouse at the time of the transfer also falls into the third category, the first category is really meant to cover a person who is not the transferor’s spouse at the time of the transfer but later becomes the transferor's spouse. The second category of taxpayers covered by subsection 160(1) is persons under 18 years of age. In their case, the Act does not require a non-arm’s-length relationship between the minor and the transferor. Whether or not there is a non-arm’s-length relationship, subsection 160(1) of the Act may apply. The Act seems to take it for granted that a minor is necessarily under the influence of, if not dependent on, the transferor.
+
+[56] This analysis shows that, in order for subsection 160(1) to apply, it is not enough that the transfer of property be made without consideration or for inadequate consideration; the transferee must also be a person included in one of the three categories. Therefore, subsection 160(1) does not automatically apply to all dividends paid by a corporation to its shareholders; the dividend must have been paid to a person who falls into one of the three categories, that is, basically, one of the last two, since a person cannot be the spouse of a business corporation. The shareholder must be at least 18 years of age or there must be a non-arm’s-length relationship between him and the corporation.
+
+[57] If Parliament had intended that every transfer made without consideration or for insufficient consideration (that is, for less than the fair market value of the property) be subject to subsection 160(1) of the Act, it would not have added the condition that the transferee must be a person included in one of the three categories described above.
+
+[58] It is clear that, if a shareholder holds more than 50% of a corporation’s voting shares, that shareholder is a related person as defined in subsection 251(2) of the Act. As mentioned earlier, related persons are deemed not to deal with each other at arm’s length.[16] Even if a corporation is not controlled by one person, it may be controlled by a related group. In such a case, a person who is a member of such a group is considered to be a person related to the corporation by virtue of subparagraph 251(2)(b)(ii) of the Act. Paragraph 251(4)(a) of the Act defines a “related group” as a group of persons each member of which is related to every other member of the group.
+
+[59] Paragraph 251(2)(c) of the Act describes certain circumstances in which two corporations are considered related persons. Such is the case in particular if one of the corporations is controlled by one person and that person is related to a person or to any member of a related group that controls the other corporation. The same is true if one of the corporations is controlled by one person and that person is related to each member of an unrelated group that controls the other corporation. According to paragraph 251(4)(b) of the Act, an “unrelated group” means a group of persons that is not a related group. Accordingly, the mere fact that a person is a member of an unrelated group is not in itself enough to establish that two corporations or that person and a corporation are related persons.
+
+[60] Applying these rules to the facts in these appeals, Mr. Drouin controls Gestion and he is a person related to Gestion. In 1991, Gestion did not control DPCI because it only held 50% of its voting shares. The remaining 50% were held by Mr. Moisan who had no familial relationship with Mr. Drouin. Gestion and Mr. Drouin are not persons related to Mr. Moisan. Gestion and Mr. Moisan cannot, therefore, form a related group that controls DPCI. Finally, Mr. Drouin is not related to each member of an unrelated group (Gestion and Mr. Moisan) that controls DPCI. Gestion is therefore not a person related to DPCI nor is it deemed to be a person with whom DPCI was dealing at arm’s length. This appears to be the opinion of the respondent as well since she raised no argument in this regard.
+
+[61] The question remains however whether Gestion and DPCI had a de facto non-arm’s-length relationship. As stated in paragraph 251(1)(b) of the Act, this is a question of fact. Indeed, it was on the basis of that paragraph that the Minister found that subsection 160(1) applied. In reaching that conclusion, the Minister considered that Mr. Drouin—who controlled Gestion—and Mr. Moisan acted in concert without separate interests to ensure that DPCI declared dividends in 1991.
+
+[62] Therefore, if paragraph 251(1)(b) of the Act is disregarded, there would be an arm’s length relationship between Gestion and DPCI. In that case, the dividend paid by DPCI to Gestion in 1991 would not be subject to the application of subsection 160(1) of the Act, and this would be true even if the interpretation was adopted that a dividend is a gratuitous transfer of property.
+
+[63] To determine whether there was a de facto non-arm’s-length relationship between Gestion and DPCI in 1991, the concept of "dealing at arm’s length" must first be defined for the purposes of subsection 160(1). In order to get a better grasp of the scope of this expression, it is useful, if not essential, to consider Parliament’s objective in this subsection. This is a factor that was taken into account by the Supreme Court of Canada in the famous case of Swiss Bank Corporation v. Minister of National Revenue, [1974] S.C.R. 1144, at page 1152, 72 DTC 6470, 6473:
+
+. . . they bring this case within the principle that underlies the disqualification expressed in s. 106(1)(b)(iii)(A), namely, that the payer and payee must not be persons who, effectively, are dealing exclusively with each other through a fund provided by the payee for the benefit of the payee. A sound reason for this that the enactment itself suggests is the assurance that the interest rate will reflect ordinary commercial dealing between parties acting in their separate interests. A lender-borrower relationship which does not offer this assurance because there are, in effect, no separate interests must be held to be outside of the exception that exempts a non-resident from taxation on Canadian interest payments.
+
+[Emphasis added.]
+
+[64] Before considering the matter of the object of subsection 160(1) of the Act, the use of the expression “dealing at arm’s length” in other provisions of the Act and the purpose of those provisions should be looked at. Section 69 creates a presumption that any disposition of property between persons not dealing at arm’s length is at fair market value. The purpose of this rule is to require a taxpayer who disposes of property to include in his income the profit, calculated according to the fair market value of the property, whether that profit is income from business or a taxable capital gain arising from the disposition of a capital asset.
+
+[65] Subparagraph 212(1)(b)(vii) of the Act allows interest to be paid to non-residents without the withholding of 25% at source required under Part XIII of the Act, provided, inter alia, that the borrower and the lender are dealing at arm’s length. The purpose of this provision[17] is to encourage the long-term financing (at least five years) of Canadian businesses by non-residents while preventing the profits of such Canadian businesses from escaping Canadian tax.
+
+[66] As in section 55, the Act allows certain kinds of reorganization to be carried out within the same group of corporations without giving rise to capital gains.
+
+[67] However, subsection 160(1) has a completely different purpose. As I said in Germain Pelletier Limitée, supra, subsection 160(1) provides the Minister with a tool for countering the fraudulent methods that might be employed by a tax debtor to circumvent his duty to pay taxes,[18] methods such as transferring all his property to his spouse, his children or a corporation controlled by him.
+
+[68] As is the case in section 69, it is clear that the use of the arm’s length dealing concept in subsection 160(1) of the Act is aimed at blocking transfers made without consideration or for insufficient consideration. In the area of contracts or gifts, such transfers can be identified with relative ease. In such cases, there are points of comparison and assessment that can be used to determine the value of the property transferred, which makes it easier to recognize problematic transactions. In the case of dividend payments, the matter is not so clear. How does one determine whether the amount of a dividend is reasonable or not and whether payment of the dividend denotes a non-arm’s-length relationship?[19]
+
+[69] At first blush, I find it quite surprising that a corporation that owes large amounts of tax to the tax authorities could use the mechanism of dividends to escape its tax liabilities. By definition, dividends have to be paid from a corporation’s retained earnings, which are after-tax profits. Therefore, when a corporation pays dividends that do not exceed its retained earnings, it should have already paid its taxes on the income that gave rise to such profits, or else it should have set aside sufficient assets to pay those taxes. The retained earnings on the balance sheet generally represent the excess of assets over all liabilities and the paid-up capital of the corporation’s shares. Thus, in normal circumstances, a corporation that pays dividends has the assets required to pay its taxes.
+
+[70] It should immediately be noted that in this case DPCI held sufficient assets to pay its taxes. The financial statements to December 31, 1991, that is, after payment of the dividends in July 1991, show retained earnings of $151,274. The shareholders’ equity amounted to $173,533. Therefore, at first blush, there is nothing to indicate that DPCI paid dividends that made the corporation insolvent. On the contrary, that corporation seems to have had all the assets needed to pay its tax liability of $632,482, which figure in fact appears under its liabilities.
+
+[71] In addition, according to the legislation governing corporations—as was seen earlier—the directors of a corporation cannot declare dividends that would cause the corporation to be unable to meet its debts. If the directors declared and paid a dividend in violation of the corporation's obligation toward its creditors, they would be held liable for the amounts owed to those creditors. Remedies could also be had against the shareholders for reimbursement of the dividends. The Minister, as the creditor of such a corporation, would not need subsection 160(1) in order to avail himself of his remedy against such shareholders.[20]
+
+[72] To determine the circumstances in which the payment of a dividend could indicate a non-arm’s-length relationship covered by subsection 160(1) of the Act, I believe it is quite appropriate to consider the circumstances surrounding the payment of a dividend which results in rendering the corporation unable to meet its liabilities as they become due. Other circumstances might be those surrounding payment of a dividend in excess of that provided for in the corporation’s articles of incorporation: for example, on preference shares whose rate of return is fixed in the articles of incorporation. Obviously, if a transferee, while not a person related to the corporation, has de facto control of it, he will also be subject to the application of subsection 160(1) of the Act.
+
+[73] Having analyzed the legal context in which the arm’s length concept is applied, we shall now examine its interpretation in the case law. My colleague Judge Bonner had to deal with the concept in McNichol v. Canada, [1997] T.C.J. No. 5, para. 16, 97 DTC 111, at pages 117 and 118:
+
+Three criteria or tests are commonly used to determine whether the parties to a transaction are dealing at arm's length. They are:
+
+(a) the existence of a common mind which directs the bargaining for both parties to the transaction,
+
+(b) parties to a transaction acting in concert without separate interests, and
+
+(c) "de facto" control.
+
+The common mind test emerges from two cases. The Supreme Court of Canada dealt first with the matter in M.N.R. v. Sheldon's Engineering Ltd. At pages 1113-14 Locke J., speaking for the Court, said the following:
+
+Where corporations are controlled directly or indirectly by the same person, whether that person be an individual or a corporation, they are not by virtue of that section deemed to be dealing with each other at arm's length. Apart altogether from the provisions of that section, it could not, in my opinion, be fairly contended that, where depreciable assets were sold by a taxpayer to an entity wholly controlled by him or by a corporation controlled by the taxpayer to another corporation controlled by him, the taxpayer as the controlling shareholder dictating the terms of the bargain, the parties were dealing with each other at arm's length and that s. 20(2) was inapplicable.
+
+The decision of Cattanach, J. in M.N.R. v. T R Merritt Estate is also helpful. At pages 5165-66 he said:
+
+In my view, the basic premise on which this analysis is based is that, where the "mind" by which the bargaining is directed on behalf of one party to a contract is the same "mind" that directs the bargaining on behalf of the other party, it cannot be said that the parties were dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.
+
+The acting in concert test illustrates the importance of bargaining between separate parties, each seeking to protect his own independent interest. It is described in the decision of the Exchequer Court in Swiss Bank Corporation v. M.N.R. At page 5241 Thurlow J. (as he then was) said:
+
+To this I would add that where several parties—whether natural persons or corporations or a combination of the two—act in concert, and in the same interest, to direct or dictate the conduct of another, in my opinion the "mind" that directs may be that of the combination as a whole acting in concert or that of any of them in carrying out particular parts or functions of what the common object involves. Moreover as I see it no distinction is to be made for this purpose between persons who act for themselves in exercising control over another and those who, however numerous, act through a representative. On the other hand if one of several parties involved in a transaction acts in or represents a different interest from the others the fact that the common purpose may be to so direct the acts of another as to achieve a particular result will not by itself serve to disqualify the transaction as one between parties dealing at arm's length. The Sheldon's Engineering case [supra], as I see it, is an instance of this.
+
+Finally, it may be noted that the existence of an arm's length relationship is excluded when one of the parties to the transaction under review has de facto control of the other. In this regard reference may be made to the decision of the Federal Court of Appeal in Robson Leather Company Ltd. v. M.N.R., 77 D.T.C. 5106.
+
+[Emphasis added.]
+
+[74] In my opinion, although Judge Bonner (like many others) sets out three separate tests for identifying arm’s length dealing, they constitute essentially just one test that may be summarized succinctly as follows: is there control of one party by the other? What the three tests are intended to determine is the existence of a relationship between persons who are parties to a given transaction where one of the parties exercises over the other an influence such that this other party is no longer free to participate in the transaction in an independent manner.
+
+[75] With respect to the second test—acting in concert without separate interests, which is the one relied on by the Minister in this case—one can say that it will be met where a person merely participates in a transaction, not for his own benefit but for someone else's or, even if he is acting for his own benefit, if he is also acting for someone else in a context of reciprocity. That person is acting without a separate interest and not independently in his own interest.
+
+[76] To illustrate these two situations, we may begin by citing my colleague Judge Bowman's decision in RMM Canadian Enterprises Inc. v. Canada,[1997] T.C.J. No. 302, 97 DTC 302. At page 311 (para. 39), he describes the situation as follows:
+
+We have a corporation that uses another corporation to participate in what is essentially a plan to achieve a particular fiscal result. Does the very act of participation make the relationship non-arm's length? Admittedly there was clearly arm's length bargaining about the return that RMM would realize on the transaction. During those negotiations there was no element of control between EC and RMM, and RMM was separately advised. At that stage EC and RMM were at arm's length. However, once the deal was settled, and as it evolved through the sale, the payment of the funds, the premature payment of the guaranteed amount, the endorsement of the refund cheques by RMM to EC and the virtual disappearance of RMM from the scene once it had served its purpose, it became clear RMM had no independent role.
+
+[Emphasis added.]
+
+[77] Next, there is G. Sayers v. The Minister of National Revenue, 81 DTC 790 (TRB). Since the taxpayer in that case could not borrow from his RRSP because of his non-arm’s-length relationship, he borrowed from the RRSP of an acquaintance. The latter saw no problem with that since he also borrowed from the taxpayer’s RRSP on terms and conditions that were identical to those of the loan he was making to the taxpayer. Member Bonner (as he then was) must not have had much difficulty in concluding as follows at page 792:
+
+. . . Whatever their objective, their agreement to reciprocate made it impossible for either one as lender to freely attempt to exact for his trust the sort of terms which he would otherwise naturally have sought. Each must have been constrained by the thought that what he demanded of the other he also demanded of himself. The agreement freed the Appellant and Mr. McCracken to fix terms without regard to what would otherwise have been acceptable having regard to the mortgage market. [. . .] The mind which dictated the actions of each man was the mind of the two acting in concert.
+
+[Emphasis added.]
+
+[78] In H.T. Hoy Holdings Ltd. v. Canada, [1997] T.C.J. No. 159, para. 11, 97 DTC 1180, 1182, the taxpayer sought to establish the existence of a non-arm’s-length relationship. The taxpayer’s argument was as follows:
+
+Subsection 55(3) provides that subsection 55(2) does not apply to a dividend received by a corporation unless the parties were dealing at arm’s length. Messrs. Hoy and Cloutier acted so interdependently that they did not deal at arm’s length and the corporations they controlled were not dealing at arm’s length with each other. Before the series of transactions started and even after they were meant to have ended factually, they did not deal in relation to Plaza at arm’s length.
+
+[79] My colleague Judge McArthur, in rejecting this argument, stated at page 1185:
+
+While Mr. Hoy may have offered favourable terms to Mr. Cloutier, one cannot conclude from this that Mr. Hoy directed the bargaining of the terms on behalf of both parties. There was no reason for Mr. Cloutier to have agreed to terms which were inopportune to him. Messrs. Hoy and Cloutier are very able businessmen who are not related to each other in a familial way. One was at the end of a successful career and the other beginning one. Mr. Cloutier was under no obligation to accept the terms of the “agreement” which obviously resulted from independent bargaining. They were not acting in concert. The transaction was not unilaterally imposed upon Mr. Cloutier.
+
+In providing concessions and business advice to Mr. Cloutier and Plaza, Mr. Hoy’s course of conduct was not inconsistent with that of a normal arm’s length business relationship. The existence of a common goal should not be equated with having a common interest. Although Mr. Hoy and Mr. Cloutier shared a common goal in seeking to further the success of Plaza in order to finance the redemption of shares, distinct interests were to be served in so doing. Mr. Hoy sought to divest himself of the dealership and Mr. Cloutier sought to attain full ownership.
+
+[Emphasis added.]
+
+[80] I turn now to the two decisions on which counsel for the respondent relied in defending the Minister’s assessment. In Gosselin (supra), my colleague Judge Dussault stated:
+
+12 . . . First, the issue is in fact whether the appellant and Gestion Farrell & Gosselin, and not the appellant and Mr. Farrell, were dealing at arm's length at the time of the transfer. The fact that the appellant and Mr. Farrell acted in concert is clearly relevant, since they were the only two shareholders, in equal proportions, and were also the only two directors of the company. Second, the situation in which the parties were must be analysed in terms of a specific transaction, not in very general terms, since the test refers precisely to "parties to a transaction acting in concert". This transaction, involving the declaration and payment of a cash dividend, resulted in a transfer of property from the company's assets to the shareholders'. As directors acting for the company, the appellant and Mr. Farrell transferred to the shareholders, that is to themselves, and only to themselves, property owned by the company, representing a portion of its undistributed profits. If we consider a company's ultimate interests to be actually the interests of its shareholders or, if you like, of its owners, through the shares in its capital stock that they hold, it is hard to see any separate interests where there are only two shareholders who hold shares of the same class with the same rights and in equal proportions. This is the meaning of the decision which I rendered in Fournier, the facts in which were similar to those of the instant case.
+
+[81] In Fournier (supra), Judge Dussault stated at page 748:
+
+We have here two principal shareholders in a company who are for all practical purposes the only real shareholders and directors and who decide together, on the advice of the company accountant, to withdraw profits made by the company in the form of dividends declared at year-end. . . .
+
+I cannot find a situation more suited to application of the concept of a non-arm's length transaction between unrelated persons, in that the company's two principal directors and shareholders apparently acted in concert and with a common economic interest to decide how they would withdraw the profits made by the company for their personal use. Acting both as directors of the company and its shareholders, they were in a position where the concept of not being at arm's length in fact as established by our courts could hardly be better applied. In this sense, therefore, I consider that Les Évaluateurs Fra-Mic Inc. was not at arm's length with the appellant at the time of the property transfer made during its 1983 taxation year, and that accordingly the respondent was right to apply subsection 160(1) of the Act to this transaction.
+
+[82] With respect, I do not believe that the circumstances related in these two decisions constitute the most suitable situations for applying the concept of non-arm’s-length relationship between unrelated persons. First of all, it should be remembered that these decisions were rendered under the informal procedure and they have no precedential value, as is made clear in section 18.28 of the Tax Court of Canada Act. In addition, the taxpayer in Fournier represented himself.
+
+[83] As for the merits of the issue, I do not believe that, in the absence of other special circumstances, the fact that a taxpayer was at once a shareholder, a director and an officer of a corporation necessarily means that there was a de facto non-arm’s-length relationship between the taxpayer and the corporation. This view seems to be shared by Judge Bowman in Del Grande v. The Queen, [1992] T.C.J. No. 724, 93 DTC 133. Judge Bowman found that a shareholder, director and officer of a corporation holding 25% of the common shares of that corporation with an option to purchase shares entitling him to increase his interest to 50% was not de facto dealing other than at arm’s length immediately after the option was granted. This is how Judge Bowman describes the situation, finding that there was an arm’s length relationship (at page 141):
+
+. . . I would have no hesitation in holding that the appellant, immediately after January 4, 1982, was at arm's length with Rust Check and Lear. He held only 25% of the shares. He was one of four directors. While he was a trusted, respected and influential member of the board, I cannot find on the facts that he controlled these corporations or exercised so great a degree of influence that it could be said he was not at arm's length with the corporations.
+
+A number of cases were cited in connection with the arm's length issue, including Peter Cundill & Associates Limited v. The Queen, 91 D.T.C. 5543, and Beaumont v. The Queen, 86 D.T.C. 6264, where the leading cases were reviewed. Ultimately the question resolves itself into one of fact, whether the relationship between Mr. Del Grande and the two corporations was such that it could be said that he was the directing mind of the corporations or whether he and the McCleery family acted so closely in concert that he exercised a degree of control over the corporations vastly disproportionate to his minority position so as to be able to induce the corporations to confer benefits upon him that they would not otherwise have done. The evidence falls far short of establishing such a relationship. Mr. McCleery appeared to me to be a strong minded man who, while he respected the appellant, was very much in charge of the business and was not likely to be influenced by the appellant if he did not choose to be.
+
+[Emphasis added.]
+
+[84] A comparison of how the “acting in concert” test was applied by Judge Bowman and how it was applied by Judge Dussault shows that the distinction lies in the fact that Judge Bowman asks himself whether a person acting in concert with another exercises control over the corporation by himself,[21] while Judge Dussault seems to be asking whether the two persons acting in concert are together[22] exercising control over the corporation. In my opinion, the first approach is the correct one. If one were to take the second approach and push the reasoning to its limits it would essentially mean adopting an interpretation whereby there would be a non-arm’s-length relationship between a corporation and each member of an unrelated group that controlled it. However, Parliament expressly enacted, in section 251 of the Act, the rule stating that only the members of a related group that controls a corporation are considered to be related to that corporation and deemed not to be dealing with it at arm’s length.
+
+[85] In addition, in my opinion, the fact—in the absence of other special circumstances—that a shareholder of a corporation votes, in his capacity as a director, to declare and pay a dividend to himself (as a shareholder) and to the other shareholders does not necessarily mean that he is not dealing at arm’s length with the corporation. First of all, in corporate law, directors are required to consider the interests of the corporation and not the individual interests of the directors and shareholders when making their decisions.
+
+[86] Moreover, in corporate law, the corporation’s retained earnings belong in the final analysis to the shareholders according to their respective entitlements. When the directors decide that it is appropriate to declare dividends, only the shareholders are entitled thereto, not the directors and not the employees of the corporation. I do not see how the decision to pay dividends to their rightful owners could be viewed as an indication of the existence of a non-arm’s-length relationship. If the dividends are paid in accordance with the relevant statute governing the corporation and with the corporation’s articles of incorporation, there is no improper advantage conferred. Whether or not there is an arm’s length relationship, dividends are declared in favour of the shareholders and paid to them.
+
+[87] With respect, the approach taken in Fournier and Gosselin leads to an unfair and inconsistent application of subsection 160(1) of the Act. For example, how is that subsection to be applied in the following circumstances: the common shares are held in equal parts by five people and three of them make up the board of directors? Let us assume that a dividend is paid. Should subsection 160(1) be applied to all the shareholders? To the three directors only? What happens if one of them voted against declaring the dividend? Would the result be the same if there were, instead, 10, 20 or 50 shareholders?
+
+[88] What happens when the common shares are divided equally among three shareholders and one of these shareholders is a nominee for one of the other two shareholders and, with the other two, acts as a director? In my opinion, the shareholder on whose behalf shares are held has control of the corporation and may, by himself, influence the board’s decision as to whether it is appropriate to declare a dividend. The third shareholder-director, the one who holds, for himself, only a third of the voting shares is not in a position to exercise such influence. Whether or not he votes to declare and pay the dividend, his vote is not essential if the shareholder-director exercising control has decided that a dividend will be paid. I find it completely inappropriate in such circumstances to apply subsection 160(1) to the truly minority shareholder-director when he has merely performed his duties as a director. Yet this is essentially the result in Fournier.
+
+[89] Even if a shareholder-director owning no more than 50% of the voting shares has an economic interest in receiving his share of the dividend, along with the other co-shareholders-directors, that does not necessarily mean that his interest is not separate from that of those persons. As Judge McArthur said in H.T. Hoy Holdings Limited (supra), a distinction must be made between having a common goal and having a common interest. Two parties may well have a common goal of participating in a transaction but still have separate interests. Generally speaking, the parties to a contract become involved because they each find that it is in their interest, but that does not necessarily mean that they do not have separate interests.
+
+[90] In my opinion, the test of “act[ing] in concert, and in the same interest” stated by Thurlow J. in Swiss Bank Corporation, 71 DTC 5235, is to be applied in moderation. Above all it must not be forgotten that the test is not merely “act[ing] in concert” but “act[ing] in concert, and in the same interest”. Thurlow J. was careful to acknowledge that people who act in concert but with a separate interest are dealing with each other at arm’s length. At page 5241, he wrote:
+
+On the other hand if one of several parties involved in a transaction acts in or represents a different interest from the others the fact that the common purpose may be to so direct the acts of another as to achieve a particular result will not by itself serve to disqualify the transaction as one between parties dealing at arm's length. The Sheldon's Engineering case, 1955 S.C.R. 637 [55 DTC 1110], as I see it, is an instance of this.
+
+[Emphasis added.]
+
+[91] It must be noted, moreover, that the Supreme Court of Canada did not use Thurlow J.’s test in upholding his decision. Instead it adopted the test of control (exercised by the managers and trustees over City Park, a captive company, for the benefit of the investors), as shown in the following passage at page 1151, DTC p. 6473:
+
+In my opinion, the interposition of the managing agent and the two depositaries between City Park and the certificate holders does not, despite the regulations, create an arm’s length situation between them, within the exception in s. 106(1)(b)(iii)(A). City Park owes its very existence to the funds provided by the certificate holders, is without support from any other source and those funds are committed to provide a return only to the certificate holders. In short, City Park is completely a captive to the interests of the certificate holders, acting through professional managers and fiduciaries.
+
+[Emphasis added.]
+
+[92] I have repeated a number of times that, in itself, the fact of being a shareholder, director and officer does not necessarily mean that there is a non-arm’s-length relationship, unless there are special circumstances. There are examples of such circumstances in the case law, in particular in Ancaster Development Company Limited v. Minister of National Revenue, 61 DTC 1047. There, the three shareholders of the appellant were also its directors and officers. Messrs. Rolka and Young each held 45% of the shares and the remaining 10% were held by a third party. Lots were transferred to Messrs. Rolka and Young for a consideration below fair market value. At page 1051 of the decision, Cameron J. explained as follows his conclusion that one of the shareholders, Mr. Rolka, controlled the appellant:
+
+. . . In the absence of any other evidence, it seems reasonable to assume that the guiding hand in all these transactions was that of Rolka and that throughout he was acting in concert with Young and according to a plan conceived by Rolka,[23] by which all the lots would eventually become the property of his company; and that in some unexplained way he was enabled to speak for and represent Nelmar Realty.
+
+That inference satisfactorily answers the questions as to why Young made substantial and unexplained gifts to Rolka and why Young, who had sold the lots to the appellant company only a few months earlier, would wish to re-purchase a substantial part of them at cost and without profit to the company of which he was the president. It also serves to explain why the appellant company was willing on September 25, 1952, to sell lots to Young at a price substantially below that at which it sold other lots in the Survey.
+
+[Emphasis added.]
+
+[93] There are in the instant case no special circumstances indicative, inter alia,of collusion, scheming or underhanded dealings as there were in Ancaster Development Company Limited, Sayers and RMM Canadian Enterprises Inc. On the contrary, the circumstances in this case resemble those in Edward Del Grande and H.T. Hoy Holdings Limited. We are dealing with two businessmen who had become associated in a business corporation and who, realizing that this had been a bad decision, negotiated their separation. What we have here, and the evidence is quite clear on this point, is two parties who are negotiating and who have interests that are not only separate but also diverging and opposite. One wants the highest redemption price for his shares and the other wants to pay the lowest possible price. One wants the redemption to take place as soon as possible while it is in the other's interest to put it off as long as possible. Since they finally agreed that the redemption price would be paid through the transfer of land, they also had to agree on the value of the land that was to be transferred to Gestion.
+
+[94] Obviously, the transaction covered by the assessment is the payment of the dividend and not the redemption of the common shares and the preference shares. But the payment of the dividend was an integral part of the redemption of all the shares held by Gestion. The dividends were paid on the Class B and C preference shares that were redeemed. Payment of the cumulative dividends, like the redemption of the shares, was made through the transfer of land belonging to DPCI, and this required the parties’ agreement as to the value of that land.
+
+[95] There is no evidence that the amount of the dividends paid was inconsistent with DPCI’s articles of incorporation.[24] Since the cumulative dividends had to be paid on the redemption of the preference shares by DPCI as a result of Mr. Moisan’s move to become that corporation’s sole shareholder, the directors cannot be criticized for complying with DPCI’s articles of incorporation.
+
+[96] Thus, there is nothing in the evidence that could allow me to conclude that Gestion exercised over DPCI such a degree of influence that the latter was not in a position to act independently. On the contrary, to secure the redemption of the preference shares held by Gestion and payment of the dividends relating to those shares, Mr. Drouin, acting for Gestion, had to carry on laborious negotiations with Mr. Moisan, both he and Mr. Moisan being represented by their own legal and financial advisers. It is clear that Mr. Moisan was not Gestion’s puppet in these negotiations: although it can be affirmed that Gestion and Mr. Moisan acted in concert in the negotiations, they did so with separate and opposing interests and not with common interests. If Gestion had had a dominating influence over DPCI, it would have been able to force the transfer of more land in payment of the $306,588 dividend. However, nothing in the evidence indicates that this happened. Quite the contrary, since Gestion and Mr. Moisan each held 50% of DPCI’s voting shares, Gestion could not exercise any influence over DPCI without Mr. Moisan’s agreement. Its influence was limited to that of a shareholder who did not have control of DPCI. Accordingly, there was an arm’s length relationship between DPCI and Gestion at the time of the payment of the dividends in 1991 and as a consequence assessment no. 8826 should be cancelled.
+
+[97] Before turning to the issue of the existence of the tax liabilities, I should note that neither counsel for the respondent nor the auditor ever argued before me that Gestion, because it held preference shares redeemable at a considerable price, could exercise de facto control of DPCI, and since this issue was not raised, it would have been inappropriate to deal with that question of fact.
+
+Existence of tax liabilities
+
+[98] One of the key elements for the application of subsection 160(1) is the quantum of the tax owed by the tax debtor, DPCI in this case. As seen earlier, the amount for which Gestion may be held liable is limited to the lesser of the benefit conferred by DPCI and the amount of the tax liability. In Germain Pelletier Limitée (supra), I said that a transferee caught by subsection 160(1) of the Act could challenge the quantum of the tax debtor’s tax liability. There are other decisions by this Court along these lines. In Sarraf v. Canada (M.N.R.), [1994] T.C.J. No. 113, Judge Bowman stated:
+
+It is of course open to the transferee to challenge the correctness of the assessment against the transferor even if the transferor has failed to do so, or is, as is the case here, precluded from doing so: Thorsteinson v. M.N.R., 80 D.T.C. 1369; Ramey v. The Queen, 93 D.T.C. 791.
+
+Similar decisions were handed down by Judge Bell in Route Canada Real Estate Inc. (in Receivership) v. The Queen, 95 DTC 502, at page 505, and Judge Sobier in Kraychy v. The Queen, 96 DTC 1479, at page 1482.[25]
+
+[99] To my knowledge, it has still not been decided who has the burden of establishing the existence of such a tax liability. Generally speaking, when a taxpayer challenges a notice of assessment made by the Minister under section 152 of the Act, it is up to him to demolish the facts on which the Minister relied in making the assessment. If this rule applied to an assessment under subsection 160(1) of the Act, the transferee would have the onus of proving there was no tax liability or that the liability was less than the amount determined by the Minister in the assessment. But is it fair and equitable that this onus should fall on the transferee when an assessment made under subsection 160(1) of the Act is involved? In Germain Pelletier Ltée, I wondered about this. However, it was not necessary to resolve the matter.
+
+[100] As stated in that decision, an assessment made under subsection 160(1) of the Act was not strictly speaking an assessment of tax owed by the transferee himself. It is in his capacity as the transferee of a benefit conferred on him that he must pay the tax of another taxpayer, namely the tax debtor. The assessment made under subsection 160(1) provides the Minister with a tool to recover from a third party the tax owed by the tax debtor. This recovery mechanism resembles the “Paulian action” provided for in article 1631 of the new Civil Code of Québec. Article 1631 reads as follows:
+
+A creditor who suffers prejudice through a juridical act made by his debtor in fraud of his rights, in particular and act by which he renders or seeks to render himself insolvent, or by which, being insolvent, he grants preference to another creditor may obtain a declaration that the act may not be set up against him.
+
+[101] When initiating a Paulian action under the Civil Code of Québec, I am sure that a creditor must begin by establishing the amount of the debt owed to him by his debtor.[26] This may be done by producing the loan document or any other instrument creating liability in the debtor toward the creditor. Why should a different interpretation be adopted in the case of an action taken by the Minister under subsection 160(1) of the Act? It is true that the Minister may make his assessment, require payment from the transferee and, in the case of default, obtain a certificate equivalent to a judgment of the Federal Court Trial Division. This procedure—authorized by the Act—requires the transferee to take the initiative in challenging the assessment whereas in a remedy exercised under the Civil Code of Québec, it is the creditor who must take the initiative.
+
+[102] While subsection 160(2) of the Act provides that the rules of Division I (“Returns, Assessments, Payment and Appeals”) apply to such an assessment as though it had been made under section 152, the Act is generally silent with respect to who has the burden of establishing the facts in an appeal before this Court. This statement admits of at least two exceptions that confirm the general rule. Subsection 163(3) of the Act provides that the burden of proving the facts justifying the assessment of a penalty is on the Minister. Subsection 110.6(6) of the Act also places on the Minister the burden of establishing the facts justifying the denial of a deduction for capital gains.
+
+[103] For cases where the Act is silent on the subject, the rules governing the burden of proof have been established by the courts. The Supreme Court of Canada held in Johnston v. M.N.R., 3 DTC 1182,[27] that the burden was on the taxpayer to demolish the facts on which the Minister relied in making his assessment. At page 1183, it is stated:
+
+Every such fact found or assumed by the assessor or the Minister must then be accepted as it was dealt with by these persons unless questioned by the appellant. If the taxpayer here intended to contest the fact that he supported his wife within the meaning of the Rules mentioned he should have raised that issue in his pleading, and the burden would have rested on him as on any appellant to show that the conclusion below was not warranted. For that purpose he might bring evidence before the Court notwithstanding that it had not been placed before the assessor or the Minister, but the onus was his to demolish the basic fact on which the taxation rested.
+
+[Emphasis added.]
+
+[104] In Pollock v. The Queen, 94 DTC 6050, Hugessen J.A. of the Federal Court of Appeal adopted the same rule at page 6053, but explained that the facts relied on must be stated by the respondent in its pleadings:
+
+Where pleaded, however, assumptions have the effect of reversing the burden of proof and of casting on the taxpayer the onus of disproving that which the Minister has assumed.Unpleaded assumptions, of course, cannot have that effect and are therefore, in my view, of no consequence to us here.
+
+[Emphasis added.]
+
+[105] In my opinion, Hugessen J.A., on the same page in his decision, provides the best explanation of the taxpayer’s burden of demolishing the facts set out in the Reply to the Notice of Appeal:
+
+The special position of the assumptions made by the Minister in taxation litigation is another matter altogether. It is founded on the very nature of a self-reporting and self-assessing system in which the authorities are obliged to rely, as a rule, on the disclosures made to them by the taxpayer himself as to facts and matters which are peculiarly within his own knowledge. When assessing, the Minister may have to assume certain matters to be different from or additions to what the taxpayer has disclosed.
+
+[Emphasis added.]
+
+[106] Again at page 6053, Hugessen J.A. explains why he finds this rule quite reasonable:
+
+The burden cast on the taxpayer by assumptions made in the pleadings is by no means an unfair one: the taxpayer, as plaintiff, is contesting an assessment made in relation to his own affairs and he is the person in the best position to produce relevant evidence to show what the facts really were.
+
+[Emphasis added.]
+
+[107] It should be noted as well that Duff J. in Anderson Logging (supra) spoke in similar terms at page 1211 (DTC):
+
+The appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the appellant's cognizance; although this last is a consideration which, for obvious reasons, must not be pressed too far.
+
+[Emphasis added.]
+
+[108] Duff J.’s words inspired one author to write that the burden of proof may fall on the Minister when the taxpayer has no knowledge of the relevant facts. In his article “The Burden of Proof in Income Tax Cases,” Can. Tax J., 1978, vol. XXVI, No. 4, p. 393, at page 410, note 86, Charles MacNab writes:
+
+On the other hand, where a taxpayer can show that he is not in possession of the facts in respect of which the onus of proof would in the ordinary course be on him - that they are in the possession of a third party for example - it may be that the onus would shift to the Minister, in respect of those facts. This would appear to be consistent with the limitation on the extent of the onus on a taxpayer indicated by Mr. Justice Duff in Anderson Logging Company v. M.N.R. supra.
+
+MacNab adds on the same page:
+
+The principle behind the rule which requires a person to prove a matter when he has particular knowledge is, it would seem, that it serves the ends of justice, since otherwise the other party might well be denied in a practical way the opportunity of having a fair hearing of the matter. Which one is more important may well depend on the facts of each case.87
+
+_______________
+
+In a note to his reasons for Judgment in The Queen v. McKay, supra, 5185, Mr. Justice Collier said, ". . . I am not convinced . . . the so-called "onus on the taxpayer" is a rigid rule, capable of no exceptions. . . . Each action should be looked at on its own issues and on its own circumstances. . . . It is not sufficient, in my view, to say that tax cases are somehow different from other civil cases tried in this court."
+
+[109] In First Fund Genesis Corporation v. The Queen, 90 DTC 6337, Joyal J. of the Federal Court Trial Division seems to share Mr. MacNab's opinion that the onus rule must be applied with fairness. At page 6340, he writes:
+
+Numerous have been the comments by the courts on the application of the onus rule to meet the exigencies of particular cases. Counsel for the plaintiff is correct in stating that care should always be taken in its application. Counsel quotes an article by Charles MacNab in the Canadian Tax Journal, Vol. XXVI, No. 4, 1978, p. 393, where, after the author has referred to the general doctrine with respect to the burden of proof in civil matters, he remarks with reference to income tax cases at p. 411:
+
+There will be need for care in each case, however, to ensure that the considerations of policy and fairness which underlie all the rules are fully appreciated before a determination of the onus of proof is made.
+
+[Emphasis added.]
+
+[110] In Bosa Bros. Construction Ltd v. Canada, [1995] F.C.J. No. 1733, 96 DTC 6193, Nadon J. takes an approach similar to that of his colleague Joyal J. One of the issues in that case concerned the application of subsection 85(5.1) of the Act, which application required that it be proved that a building held by the taxpayer (following a winding-up) was purchased from a third-party corporation and that the latter had held the building as a depreciable asset. The plaintiff in that case maintained that the onus was on the Minister to show that the building had not been a depreciable asset for the third-party corporation since it was he who had knowledge of that fact and not the plaintiff.
+
+[111] Nadon J. summarized the issue in paragraph 43 (p. 6203) as follows:
+
+Before examining the merits of the Plaintiff's case, I must address the question of the onus of proof. It is trite law that any tax assessment (or reassessment) is binding on its face, subject to the taxpayer's right to challenge that assessment. The burden of proof in such a case is on the taxpayer to show that the assessment is wrong. The Plaintiff maintains, however, that the burden of proof may shift to the Crown where the interests of justice so require. Specifically, the Minister must "play fair" and, where certain facts are within the Crown's cognizance but not the Plaintiff's, the onus shifts to the Crown to provide those facts. In the case at bar, the Plaintiff maintains, where the Plaintiff is asserting that the Minister allowed Darwai to claim a capital cost allowance in respect of the property, it is the Minister who possesses that information. In such a case, the Plaintiff asserts, the Crown should, in the interests of fairness, provide that information. In other words, the onus of disproving the Plaintiff's allegations lies with the Crown. The Crown, not surprisingly, states that there is no onus shift and that the burden of proof remains with the Plaintiff.
+
+[Emphasis added.]
+
+[112] At an examination for discovery, the Minister’s auditor had acknowledged that the third-party corporation had treated the property as a depreciable asset, but the auditor offered a different version of the facts at the hearing. Nadon J. chose the version given at the examination for discovery. Then, in an obiter dictum, he declared that he would have found that the burden of proof was on the Minister with respect to that aspect if the evidence submitted to him had been ambiguous, because it was the Minister who had knowledge of the relevant facts. In paragraph 56 (page 6206), he wrote:
+
+Had I not been satisfied on the basis of the evidence before me that the property was depreciable in the hands of Darwai, then, in my view, the burden of proof would have shifted to the Crown to prove that the Topaz property was not depreciable capital property in the hands of Darwai. Such information is within the Crown's power to obtain and not the Plaintiff's. The Crown, through his representative, attempted to satisfy an undertaking made at discovery that he would obtain documentation regarding the characterization of the Topaz property by Darwai. He was unable to do so. The production of these documents would have been dispositive of this issue as between the parties to the present litigation. It is not enough for the Minister to assert, as he did in the letter of September 12, 1989, that the Topaz property was Darwai's inventory. There must be some evidence to support that assertion, which the Crown has attempted, but failed, to adduce. In First Fund Genesis Corporation, the Minister had gone so far as to have obtained the consent of a third party to release the relevant documentation. In the case at bar, the Minister has not gone to the same lengths. Given this, it is my view that, had I not been satisfied on the basis of the evidence before me that the Plaintiff had fulfilled the burden of proof, I would have found that the Crown had not disproved the Plaintiff's allegations.
+
+[Emphasis added.]
+
+[113] In the case at bar, Gestion is not in a position to produce, without difficulty, the relevant opposing evidence to attack the validity of the assessment of DPCI since it relates not to its taxes but to those of a third party in which it holds no interest.[28] Gestion does not have access to DPCI’s tax return and notice of assessment, nor to the accounting records, to supporting documents or to other similar documents of DPCI to prove that the assessment is incorrect. To place the burden of proving this on Gestion would put that corporation in a completely unfair situation.
+
+[114] Since it is the Minister who takes measures against a third party to recover the tax owed to him by the tax debtor, it seems entirely reasonable to me that it should be incumbent on the Minister to provide prima facie evidence of the existence of the tax liability. To do this, the Minister usually has in his possession the tax debtor’s tax return and, if he has carried out an audit, he may have copies of the source documents or other relevant documents supporting his assessment. He is therefore the one who is in the best position to establish the quantum of the tax liability. I thus conclude that the onus of providing prima facie evidence of the tax liability where an assessment has been made under subsection 160(1) of the Act generally falls on the Minister.
+
+[115] In my opinion, it is not enough to produce the tax debtor's notice of assessment, unless the amount established by the Minister in the assessment corresponds to that indicated by the tax debtor in his tax return. Here, for the 1991 taxation year, the amount established by the Minister in the assessment corresponds to that determined by DPCI itself. In such circumstances, there is prima facie evidence of the existence of the tax liability: what better evidence than the acknowledgment of the debtor himself!
+
+[116] It is important to stress that I am not saying that it is impossible to challenge the amount of the tax liability quantum in such circumstances. It could turn out that the tax debtor made a mistake in preparing his return and the amount of tax determined by him is incorrect. In such a case, however, it would be up to the transferee to prove it. As soon as the Minister has proved prima facie the existence of the tax liability, the onus is on the transferee to provide evidence to the contrary.
+
+[117] The Minister’s evidence respecting the assessment for the 1986 and 1987 taxation years is clearly insufficient. First, if one is to go by notice of assessment no. 8825 and the Minister’s memorandum, it has not been established with a reasonable degree of certainty that DPCI acknowledged that it owed the amounts determined by the Minister in the assessment. Moreover, not only were DPCI’s notices of assessment for the 1986 and 1987 taxation years not tendered at the hearing, but the Minister’s auditor who made the assessment with regard to DPCI did not testify nor was his audit report presented as evidence.
+
+[118] It should be noted that the need to provide evidence was all the more urgent here because the assessments for DPCI might have been made outside the normal reassessment period and it was incumbent on the Minister to establish that the returns for those taxation years contained a misrepresentation attributable to neglect, carelessness or wilful default or that fraud was committed in filing the returns.[29] In addition, a penalty was apparently assessed under section 163 of the Act with respect to 1987. As stated above, the burden was on the Minister to establish the facts justifying the assessment of that penalty (subsection 163(3) of the Act). Since the tax liability for 1986 and 1987 was not established, assessment no. 8825 must accordingly be cancelled.
+
+Costs
+
+[119] Counsel for Gestion claims solicitor and client costs because of serious mistakes committed by the Minister’s representatives and by reason of the bad faith shown by them in reviewing Gestion’s file. Counsel relies on paragraph 147(5)(c) of the Tax Court of Canada Rules (General Procedure), which provides as follows:
+
+Notwithstanding any other provision in these rules, the Court has the discretionary power,
+
+. . .
+
+(c) to award all or part of the costs on a solicitor and client basis.
+
+[120] Counsel for Gestion described the serious mistakes in a letter dated May 25, 2000 that he sent to me after the hearing of the appeal. Briefly stated, he criticizes the Minister’s representatives for not having provided, before the day of the hearing, DPCI’s notices of assessment for 1987 and 1991.[30] In addition, he imputes bad faith or, at the very least, recklessness or gross negligence on the basis that the Minister communicated certain information concerning DPCI to Gestion for the period during which Gestion was a shareholder of DPCI, in particular with respect to the 1988 and 1989 taxation years, but refused to do so for 1991 on the grounds that, for that period, Gestion had ceased to be a shareholder. In addition, he refers to certain erroneous information that was allegedly communicated by the auditor to the Minister’s headquarters. Lastly, he embarks on some speculation based on the statement by one of the Minister’s representatives at the hearing that there was a sale en bloc by DPCI in 1992 or 1993. Counsel assumes that the quantum of the tax liability could be reduced through the carry-back of certain losses to earlier years under section 111 of the Act.
+
+[121] It must first be determined what rules apply when determining costs on a solicitor and client basis. In Young v. Young, [1993] 4 S.C.R. 3, at page 134, McLachlin J. wrote:
+
+The Court of Appeal's order was based on the following principles, with which I agree. Solicitor-client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties. Accordingly, the fact that an application has little merit is no basis for awarding solicitor-client costs.
+
+[Emphasis added.]
+
+[122] In the decision of the Federal Court of Appeal in Amway Corporation v. The Queen, [1986] 2 C.T.C. 339, it is stated at page 340: “Costs as between solicitor and client are exceptional and generally to be awarded only on the ground of misconduct connected with the litigation.”
+
+[123] The Tax Court of Canada took a similar approach in Bruhm v. Canada, [1994] T.C.J. No. 134, in paragraph 16 :
+
+The rule with regard to an award of costs on a solicitor and client basis is that such an award is exceptional and generally ought to be made only on the ground of misconduct connected with the litigation which in income tax matters commences with the filing of a Notice of Appeal.
+
+[124] On the other hand, in Bland v. National Capital Commission, [1993] 1 F.C. 541, at page 544, Pratte J.A. wrote:
+
+The award of costs on a solicitor and client basis was not justified by any misconduct in the conduct of litigation. That is clear. Moreover, the lengthy reasons of the Judge below fail to disclose any misconduct anterior to the litigation that could be imputed to the Commission and be considered as sufficiently serious and as having a close enough connection with the litigation to warrant such an award.
+
+[Emphasis added.]
+
+[125] In reply, counsel for the respondent pointed out that, under subsection 241(1) of the Act, except as authorized by that section, no official shall knowingly provide, or knowingly allow to be provided, to any person any taxpayer information. The exceptions to this prohibition include the one stated in paragraph 241(5)(b) of the Act :
+
+An official may provide taxpayer information relating to a taxpayer
+
+. . .
+
+(b) with the consent of the taxpayer, to any other person.
+
+[126] There is also the following prohibition in paragraph 241(3)(b) of the Act:
+
+Subsections (1) and (2) do not apply in respect of
+
+. . .
+
+(b) any legal proceedings relating to the administration or enforcement of this Act . . . .
+
+[127] Counsel for the respondent said that, if Gestion’s counsel had wanted to obtain information on DPCI’s tax returns, it could have approached that corporation for permission to have the Minister provide Gestion with information concerning it. Counsel further added: [TRANSLATION] “it must be noted that the agent for the appellant never availed himself of his right to an examination for discovery that would also have allowed him to take cognizance of certain documents.”[31]
+
+[128] When I consider the conduct of the Minister’s representatives, either before the appeal to this Court was instituted or afterwards, I am not satisfied that they engaged in “reprehensible, scandalous or outrageous conduct.” At no time during the testimony of the Minister’s representatives did I feel that they may have acted in bad faith in managing their files. Some mistakes were made, to be sure, but in my opinion they were made in good faith. Finally, I must add that there was no evidence that DPCI was entitled to carry over its losses under section 111 of the Act.
+
+[129] In my opinion, Gestion is only entitled to party and party costs.
+
+[130] For all these reasons, the appeals of Gestion are allowed and notices of assessment nos. 8825 and 8826 are cancelled.
+
+Signed at Ottawa, Canada, this 19th day of December 2000.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 28th day of February 2001.
+
+Erich Klein, Revisor
+
+[1] In its Notice of Appeal, Gestion stated that it was the sole shareholder of DPCI until December 14, 1987, a fact admitted by the respondent in the Reply to the Notice of Appeal, although the respondent also stated that, beginning on December 1, 1987, DPCI’s voting shares were divided equally between Gilles Moisan and Gestion, which Gestion admitted in its Answer. This contradiction in the facts is of no consequence for this case.
+
+[2] According to the notes to DPCI’s financial statements to August 31, 1988, the Class C shares had the following characteristics: [TRANSLATION] “a nominal value of $10 apiece, non-voting, [dividend of] 8% on the redemption value, preferential and cumulative, starting from November 1, 1989, having priority as regards capital over Class A and B shares, redeemable at the option of the company or the holder for $164.20 each”. The Class D shares are [TRANSLATION] “non-voting shares, [dividend of] 8% with preference over Class A and C shares and cumulative beginning on November 1, 1989, having priority as regards capital over Class A, B and C shares, redeemable at the option of the company or the holder at their nominal value of $10 each.”
+
+[3] DPCI’s financial statements to December 31, 1991 describe its authorized capital as follows:
+
+[TRANSLATION]
+
+2,200 Class A shares, no par value, voting and participating
+
+167,040 Class B shares, $1 par value each, non-voting, 8% dividend on the redemption value, preferential and cumulative, having priority with respect to capital over Class A shares, redeemable at the option of the corporation or the holder at $7.31 each [for a total value of $1,221,062]
+
+52,925 Class C shares, $10 par value each, non-voting, 8% dividend on the redemption value with preference over Class A and B shares and cumulative, having priority with respect to capital over Class A and B shares, redeemable at the option of the corporation or the holder at $10 each
+
+unlimited number of Class D shares, non-voting and participating
+
+[4] The evidence does not show who held the Class D shares.
+
+[5] The 167,040 Class B shares, whose total redemption value was $1,221,062, were the result of the conversion of the 6,704 Class C shares held by Gestion before the amalgamation into 150,620 Class B shares of the new corporation resulting from the amalgamation. It appears that Gestion obtained 16,420 additional Class B shares in exchange for the 100,000 Class C shares that it held in DQM.
+
+[6] These 52,925 Class C shares come from the conversion of the 52,925 Class D shares that Gestion held in DPCI before the amalgamation.
+
+[7] There was apparently an amalgamation in 1989, which would explain the duplication for
+
+1989.
+
+[8] See, in particular, Algoa Trust v. Canada, 93 DTC 405, [1993] T.C.J. No. 15 (C.C.I.), aff’d. without reasons by the Federal Court of Appeal, February 4, 1998, No. A-201-93 (unreported); Mario Ruffolo v. The Queen, 99 DTC 184, Davis v. The Queen, [1994] 2 C.T.C. 2033, 94 DTC 1934 (C.C.I.).
+
+[9] 8% cumulative dividend.
+
+[10] See, in particular, B. Welling, Corporate Law in Canada – The Governing Principles, Toronto, Butterworths, 1984, at p. 614.
+
+[11] It is true that a corporation may carry on business while having only a minimum share capital. However, if capital requirements are satisfied through interest-bearing loans, the return on the shares should suffer. In any case, even if the share capital is minimal, the reasoning is still the same: dividends represent the remuneration of capital.
+
+[12] CICA Handbook – Accounting, Recommendations of the Accounting Standards Board of the Canadian Institute of Chartered Accountants (quoted from the Virtual Professional Library of the CICA, update: No. 4 (03/00))
+
+SPECIFIC ITEMS
+
+SECTION 3860
+
+Financial instruments — information to be provided and presentation
+
+.32 The classification of a financial instrument in the balance sheet determines whether interest, dividends, losses and gains relating to that instrument are classified as expenses or income and reported in the income statement. Thus, dividend payments on shares classified as liabilities are classified as expenses in the same way as interest on a bond and reported in the income statement. Similarly, gains and losses associated with redemptions or refinancings of instruments classified as liabilities are reported in the income statement, while redemptions or refinancings of instruments classified as equity are reported as changes in equity.
+
+Preferred shares
+
+A20 Preferred (or preference) shares may be issued with various rights. In classifying a preferred share as a liability or equity, an entity assesses the particular rights attaching to the share to determine whether it exhibits the fundamental characteristics of a financial liability. For example, a preferred share that provides for redemption on a specific date or at the option of the holder meets the definition of a financial liability if the issuer has an obligation to transfer financial assets to the holder of the share. The inability of an issuer to satisfy an obligation to redeem a preferred share when contractually required to do so, whether due to a lack of funds or a statutory restriction, does not negate the obligation. An option of the issuer to redeem the shares does not satisfy the definition of a financial liability because the issuer does not have a present obligation to transfer financial assets to the shareholders. Redemption of the shares is solely at the discretion of the issuer. An obligation may arise, however, when the issuer of the shares exercises its option, usually by formally notifying the shareholders of an intention to redeem the shares.
+
+[13] Obviously, one might ask whether the consideration (the interest) represents a fair return for the use of the capital (the loan).
+
+[14] For example, in the Canada Business Corporations Act, R.S.C. 1985, c. C-44, section 42 provides:
+
+42. A corporation shall not declare or pay a dividend if there are reasonable grounds for believing that
+
+(a) the corporation is, or would after the payment be, unable to pay its liabilities as they become due; or
+
+(b) the realizable value of the corporation's assets would thereby be less than the aggregate of its liabilities and stated capital of all classes.
+
+Section 118 of the Act states:
+
+118(2) Further directors' liabilities
+
+Directors of a corporation who vote for or consent to a resolution authorizing
+
+. . .
+
+(c) a payment of a dividend contrary to section 42,
+
+. . .
+
+are jointly and severally liable to restore to the corporation any amounts so distributed or paid and not otherwise recovered by the corporation.
+
+. . .
+
+118(4) Recovery
+
+A director liable under subsection (2) is entitled to apply to a court for an order compelling a shareholder or other recipient to pay or deliver to the director any money or property that was paid or distributed to the shareholder or other recipient contrary to section 34, 35, 36, 41, 42, 44, 124, 190 or 241.
+
+118(5) Order of court
+
+In connection with an application under subsection (4) a court may, if it is satisfied that it is equitable to do so,
+
+(a) order a shareholder or other recipient to pay or deliver to a director any money or property that was paid or distributed to the shareholder or other recipient contrary to section 34, 35, 36, 41, 42, 44, 124, 190 or 241;
+
+. . .
+
+There are similar provisions in the Companies Act, including sections 123.70 and 123.71. Under the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 101(2)(b), shareholders “related” to the corporation may be required to pay the trustee in bankruptcy the amount of the dividends they received when the corporation was insolvent or for dividends that rendered the corporation insolvent. See M. Martel and P. Martel, La compagnie au Québec, vol. 1, Les aspects juridiques, Montréal, Éditions Wilson & Lafleur, Martel Ltée, 1998, at page 18-62.
+
+[15] This category was added by S.C. 1980-81-82-83, c. 140, s. 107 and has been in force since November 12, 1981.
+
+[16] Paragraph 251(1)(a) of the Act.
+
+[17] Provision similar to the one in issue in Swiss Bank Corporation.
+
+[18] While that is the purpose of this section, its wording does not require that the transferor’s fraudulent intent be proved: see, in particular, Quinton v. The Queen, 2000 DTC 2137, para. 9.
+
+[19] Obviously, if it is believed that a dividend is a gift, the difficulty disappears.
+
+[20] Obviously, there is nothing to prevent Parliament from granting the government an additional and even broader remedy to facilitate the recovery of the amounts owed to it, as it did in fact do by enacting subsection 160(1) of the Act. But it should be remembered that this section covers all forms of transfer and not specifically dividends. If one adopts the interpretation that the payment of a dividend represents a gift, it is clear that subsection 160(1) allows the Minister to recover the tax owed by a corporation that pays a dividend to a transferee that controls the corporation, whether such control be de jure or de facto. In such a case, it is of little importance whether the dividend respects the provisions of the relevant statute governing the corporation.
+
+[21] The relevant passage from Edward Del Grande is as follows:
+
+. . . he and the McCleery family acted so closely in concert that he exercised a degree of control over the corporations vastly disproportionate to his minority position so as to be able to induce the corporations to confer benefits upon him . . .
+
+[Emphasis added.]
+
+[22] The relevant passage in Gosselin is the following:
+
+The fact that the appellant and Mr. Farrell acted in concert is clearly relevant, since they were the only two shareholders, in equal proportions, and were also the only two directors of the company. . . . If we consider a company's ultimate interests to be actually the interests of its shareholders or, if you like, of its owners, through the shares in its capital stock that they hold, it is hard to see any separate interests where there are only two shareholders who hold shares of the same class with the same rights and in equal proportions.
+
+[Emphasis added.]
+
+Judge Dussault could not have expressed himself in these words if he had not considered all of the shareholders: the ultimate interests of the corporation cannot be equated with the interest of a single shareholder. They can only correspond to the interests of all of the shareholders.
+
+[23] I also note that Cameron J's. approach is the same as Judge Bowman's in Edward Del Grande (supra), namely, that he determines which of the persons who are acting in concert with other shareholders-directors exercises control over the corporation by himself.
+
+[24] No copy of these articles was tendered in evidence and it cannot be determined with certainty whether these dividends are in accordance with the nature of the shares. The only available description of these shares is that contained in DPCI’s financial statements. Relying on this evidence, I attempted to determine whether the amount of the dividends seemed to reflect the nature of the shares. Having performed the calculations, I arrive at a dividend amount corresponding to a period of approximately 2.19 years for each of the two share classes, which represents the period of April 1989 to July 1991. Since Gestion held most of these shares before August 31, 1988, this amount does not seem excessive.
+
+[25] But see: Schafer v. The Queen, [1998] G.S.T.C. 7. After the drafting of these reasons but before my decision was rendered, the Federal Court of Appeal held that a taxpayer could challenge the amount of her husband’s tax liability even if the husband’s tax assessment had been confirmed by the Tax Court of Canada. See Gaucher v. The Queen, A-275-00, decision rendered on November 16, 2000, and in particular the reasons of Rothstein J.A. in paragraphs [6] and [9].
+
+[26] According to paragraph 2803(1) C.C.Q., a person wishing to assert a right has the burden of proving the facts on which his claim is based.
+
+[27] See also two other decisions of the Supreme Court of Canada: Anderson Logging Co. v. The King, [1925] S.C.R. 45, 52 DTC 1209 and Hickman Motors Limited v. The Queen, [1997] 2 S.C.R. 336.
+
+[28] Under section 99 of the Tax Court of Canada Rules (General Procedure), it is possible to request permission from the Court to examine a third party. For such a request to be granted, certain conditions must be met.
+
+[29] See para. 152(4)(a) of the Act and Venne v. The Queen,[1984] C.T.C. 223, 84 DTC 6247.
+
+[30] During the hearing, only the 1991 notice of assessment was tendered in evidence. It would appear that the Minister’s files for 1986 and 1987 have been destroyed.
+
+[31] In Canada v. Bassermann, [1994] 114 D.L.R. (4th) 104, 107-108, there had been an order to produce documents in possession of the Minister (tax returns of other taxpayers) under section 17 of the Tax Court of Canada Rules of Procedure (Unemployment Insurance Act, 1971). Mahoney J.A. of the Federal Court of Appeal confirmed that the Tax Court of Canada was empowered to make such an order and that the production of these documents by the Minister was authorized by section 241 of the Act, which imposes a duty of confidentiality on the Minister. (See also M.N.R. v. Huron Steel Fabricators (London) Ltd., [1973] F.C. 808 (FCA) and Slattery v. Slattery, [1993] 3 S.C.R. 430, 93 DTC 5443.)
+

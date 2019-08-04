@@ -1,0 +1,58 @@
+Date: 19981201
+
+Docket: 97-2289-IT-G
+
+BETWEEN:
+
+IAN JONES,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bonner J.T.C.C.
+
+[1] This is an appeal from an assessment of income tax for the Appellant's 1995 taxation year. The assessment was made on the basis that section 79 of the Income Tax Act ("Act") required the inclusion in income of $1,343,384 as the deemed proceeds of disposition of a parcel of land in Milton, Ontario.
+
+[2] The Appellant is a land developer. The land in question was acquired in 1990 by 731418 Ontario Inc. ("731418"). It is common ground that 731418 acted at all relevant times as trustee for the Appellant.
+
+[3] The land was acquired by the Appellant in order to construct condominium apartment units thereon for purposes of resale. In order to finance the purchase and certain development activities 731418 borrowed $2,400,000 from Confederation Trust Company ("CTC") on the security of a first mortgage of the land. The loan was insured by Mortgage Insurance Company of Canada ("MICC") under a policy purchased at the Appellant's expense. The Appellant executed the mortgage as guarantor[1].
+
+[4] In 1992 the loan went into default. In 1993 the insurer, MICC, paid approximately $2,400,000 to CTC being the full amount then owing. CTC then assigned the mortgage to MICC. The assignment read in part:
+
+THE ASSIGNOR HEREBY ASSIGNS AND SETS OVER UNTO THE ASSIGNEE the Assignor's interest as Mortgagee in the aforesaid Mortgage, together with all monies that may hereafter become due or owing in respect to the said Mortgage, the charge upon the lands described herein and the full benefit of all powers and of all covenants contained in the said Mortgage, and also the full power and authority to use the name or names of the Assignor for enforcing the performance of the covenants and other matters and things contained in the said Mortgage.
+
+[5] In 1995 a settlement was reached among MICC, its subsidiary 1108128 Ontario Ltd. ("1108128"), 731418, the Appellant and another corporation which had joined with the Appellant as guarantor of the mortgage. Under the settlement MICC released 731418 and the guarantors (including the Appellant) from all obligations arising out of the mortgage. In exchange 731418 conveyed to 1108128 its equity of redemption in the land.
+
+[6] The assessment under appeal was made on the basis that section 79 of the Act requires the inclusion in the Appellant's income for the 1995 taxation year of deemed proceeds of disposition calculated in accordance with the section 79 formula. The quantum of the inclusion was not in dispute. What was in dispute, was whether, as a result of the settlement, the property was "surrendered" by the Appellant as "debtor" under subsection 79(3) of the Act to a "creditor of the debtor" within the meaning of the subsection.
+
+[7] Section 79 applies where property has been surrendered by a person to a creditor of a debtor. The opening portion of subsection 79(3) reads:
+
+Where a particular property is surrendered at any time by a person (in this subsection referred to as the "debtor") to a creditor of the debtor, the debtor's proceeds of disposition of the particular property shall be deemed to be the amount determined by the formula (A+B+C+D+E-F)x G/H
+
+The word "creditor" is defined in subsection 79(1) as follows:
+
+"creditor" of a particular person includes a person to whom the particular person is obligated to pay an amount under a mortgage or similar obligation and,...
+
+The meaning of "surrender" is found in subsection 79(2) as follows:
+
+For the purposes of this section, a property is surrendered at any time by a person to another person where the beneficial ownership of the property is acquired or reacquired at that time from the person by the other person and the acquisition or reacquisition of the property was in consequence of the person's failure to pay all or part of one or more specified amounts of debts owed by the person to the other person immediately before that time.
+
+It was the Appellant's position that CTC received repayment from MICC of the full amount of the $2,400,000 loan and that no debt could therefore have been forgiven. The insurance premiums (and other consideration as well) had been paid to MICC to ensure total repayment of the loan principal in the event of default. The principal was repaid and no debt was left to forgive. In effect, the Appellant's argument addresses the subsection 79(2) requirement that there be an acquisition of the beneficial ownership of property from a person in consequence of that person's failure to pay debt owed by him to the person acquiring the beneficial ownership.
+
+[8] In my view, the acquisition of beneficial ownership by MICC fulfils the subsection 79(2) requirement. There can be no doubt that the equity of redemption which a mortgagor holds following a conveyance of the legal title to real property as security for payment of a mortgage debt constitutes "beneficial ownership of the property" within the meaning of subsection 79(2). Furthermore the acquisition was plainly the result of the Appellant's failure to pay the mortgage debt. The Appellant's argument ignores the fact that CTC assigned to MICC not only the legal title which had been conveyed to CTC as security for repayment of the mortgage debt, but also the mortgage debt itself. Despite the fact that the Appellant paid the premium for the MICC policy, it is evident that it was CTC and not the Appellant who was the insured. The payment by MICC to CTC did not discharge the debt; it simply brought about a substitution of MICC for CTC as creditor. Accordingly the settlement between the Appellant and MICC effected the surrender of the Appellant's property by him to his creditor MICC within the meaning of subsection 79(3). For the foregoing reasons the appeal will be dismissed with costs.
+
+Signed at Ottawa, Canada, this 2nd day of December 1998.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+[1] 731418 acted throughout as bare trustee or agent of the Appellant. It is therefore hard to imagine that the Appellant was not primarily liable but the point was not explored.
+

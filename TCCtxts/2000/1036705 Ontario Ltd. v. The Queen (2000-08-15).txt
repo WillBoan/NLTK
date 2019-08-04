@@ -1,0 +1,114 @@
+Date: 20000815
+
+Docket: 1999-2532-GST-I
+
+BETWEEN:
+
+1036705 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] This appeal is from an assessment of Goods and Services Tax made under the Excise Tax Act, in respect of the period September 10, 1993 to January 31, 1995.
+
+[2] There are three issues:
+
+(a) what was the fair market value of three houses at the later of the time when construction of the houses was completed and the giving of possession to tenants
+
+(b) whether the appellant exercised due diligence so as to justify the deletion of the penalties imposed under section 280
+
+(c) whether the Input Tax Credits allowed to the appellant were correctly computed.
+
+[3] The appellant was engaged in the business of constructing residential units and renting them to tenants. It constructed three houses that were specifically designed for occupancy by disabled persons. It built two virtually identical houses at 18 Simson Avenue and 36 Turner Drive, Simcoe, Ontario, and a duplex at 264 Queen Street South, Simcoe.
+
+[4] The appellant rented the Simson Avenue and Turner Drive properties to tenants in or about December 1993 and the Queen Street property in or about December 1994.
+
+[5] The appellant did not apply to be registered under Subdivision d of Division V of the Act. Prior to starting the construction of the three houses, Mr. James King, the general manager of the appellant, telephoned someone in the Hamilton District Office of the Department of National Revenue and asked about the GST on rental properties. The evidence of the precise wording of the question was not particularly clear. The answer was also somewhat vague but apparently it was more or less to the effect that rentals on long term lease agreements are not subject to GST and that the builder would not be entitled rebates (by which I take it he meant ITCs).
+
+[6] One thing is reasonably clear: he was not told about subsection 191(1) of the Excise Tax Act, which reads:
+
+For the purposes of this Part, where
+
+(a) the construction or substantial renovation of a residential complex that is a single unit residential complex or a residential condominium unit is substantially completed,
+
+(b) the builder of the complex
+
+(i) gives possession of the complex to a particular person under a lease, licence or similar arrangement (other than an arrangement, under or arising as a consequence of an agreement of purchase and sale of the complex, for the possession or occupancy of the complex until ownership of the complex is transferred to the purchaser under the agreement) entered into for the purpose of its occupancy by an individual as a place of residence,
+
+(ii) gives possession of the complex to a particular person under an agreement for
+
+(A) the supply by way of sale of the building or part thereof in which the residential unit forming part of the complex is located, and
+
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment,
+
+other than an agreement for the supply of a mobile home and a site for the home in a residential trailer park, or
+
+(iii) where the builder is an individual, occupies the complex as a place of residence, and
+
+(c) the builder, the particular person or an individual who is a tenant or licensee of the particular person is the first individual to occupy the complex as a place of residence after substantial completion of the construction or renovation,
+
+the builder shall be deemed
+
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession of the complex is so given to the particular person or the complex is so occupied by the builder, a taxable supply by way of sale of the complex, and
+
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+
+[7] Subsection 191(3) is to the same effect with respect to multiple unit residential complexes.
+
+[8] The result was that when the properties were rented the Minister concluded that there was a deemed taxable supply by way of sale of the properties at fair market value.
+
+[9] It was assumed that the fair market value of the Simson Avenue and Turner Drive properties was $128,000 each and of the duplex on Queen Street, $135,000. These figures were based upon the appellant's financial statements in which it used, for the purpose of the calculation of depreciation and capital cost allowance, an estimate of the fair market value rather than cost. Amended financial statements were filed recording the properties at cost, but this has nothing to do with the issue in this case.
+
+[10] At trial the respondent filed expert witness reports in accordance with section 7 of the rules of this court respecting GST appeals. The expert, Mr. Udvari, was of the view that the duplex had a value of $125,000 and the two single family houses each had a value of $110,000.
+
+[11] Mr. King, who represented the appellant, apparently had a valuation of these properties but he was not prepared to call the valuator and I did not permit him to put the valuation in evidence in light of subsection 7(2) of the rules. This case was heard under the informal procedure. Under subsection 18.15(4) of the Tax Court of Canada Act the court is not bound by technical rules of procedure (Ainsley v. Canada [1997] F.C.J. No. 701 (F.C.A.); Brennan v. R. [1998] 1 C.T.C. 2143). This does not mean, however, that a case in the informal procedure can proceed with no regard to rules of procedural fairness. I did not think it was appropriate that an expert witness report could be adduced unless the author could be cross-examined.
+
+[12] The result is that the appellant adduced no evidence to displace the evidence of Mr. Udvari. Although there were a few minor technical errors in the valuations their substance remained basically unchallenged despite a very thorough cross-examination by Mr. King.
+
+[13] Mr. Udvari's approach was relatively conventional. He chose comparables in the vicinity and made adjustments.
+
+[14] I tend to think Mr. Udvari's values for the subject properties may be a little high. This is based on looking at the pictures of the properties in question and the comparables. The comparables are more attractive and look as if they could command a higher price. Also, the comparables all have basements, some of which are finished and some of the comparables have garages, as well.
+
+[15] Mr. Udvari used the Marshall And Swift costing services to make whatever adjustments he did with respect to the garages and basements, as follows:
+
+single garage $4,000
+
+basement $10 per square foot
+
+finished basement $10 per square foot
+
+Â½ bathroom $1,500
+
+1.5 bathroom $,5000
+
+The subject properties had no basement and no garage.
+
+[16] After the adjustments were made to arrive at an adjusted sale price Mr. Udvari determined a value per square foot and applied it to the subject properties.
+
+[17] I can find no fault with his methodology. Although I think that the downward adjustments for the garages and basements may be somewhat low, I have no evidentiary basis for disagreeing with them.
+
+[18] The result is that the figures in Mr. Udvari's reports must stand.
+
+[19] So far as the ITCs are concerned Mr. Liota, the auditor, gave the appellant ITCs totalling $10,240.29. Mr. King suggested that GST was paid on the building lots when the appellant bought them. That is, I suppose, possible, but no evidence of this was presented.
+
+[20] Finally, there is the question of due diligence. The Department of National Revenue has been forced, with reluctance and, I daresay, some consternation to accept that due diligence is a defence to the imposition of penalties (Pillar Oilfield Projects Ltd. v. The Queen [1993] G.S.T.C. 49; Consolidated Canadian Contractors Inc. v. The Queen [1998] G.S.T.C. 91. I question what policy reason can justify penalizing mistakes made in good faith under the Excise Tax Act when similar mistakes are not penalized under the Income Tax Act. However, in forcing the recognition of the due diligence defence considerable progress has been made. Due diligence is not the same as innocent good faith. I do not think that a phone call to some unnamed official in the tax department with a couple of broad general questions, eliciting equally broad and general answers, amounts to the type of due diligence required to avoid the penalty imposed under section 280. The trouble with the type of enquiry that was evidently made here is that I doubt that Mr. King really knew what questions to ask. Mr. King called some evidence to show that sometimes general answers given by departmental officials to broad questions are less than satisfactory. That is self evident. I doubt that one really needs evidence to support such a proposition. However, due diligence requires more than casual enquiries.
+
+[21] The appeals are allowed to give effect to the valuations of the property in question established by the expert reports.
+
+[22] There will be no order for costs.
+
+Signed at Ottawa, Canada, this 15th day of August 2000.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

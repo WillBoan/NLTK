@@ -1,0 +1,90 @@
+Date: 19991209
+
+Docket: 98-2329-IT-I
+
+BETWEEN:
+
+WAYNE E.A. GETTY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+BOWIE J.T.C.C.
+
+[1] The Appellant was reassessed under the Income Tax Act (the Act) for the 1996 taxation year on January 6, 1998 to include in his income benefits received by him under a group disability insurance plan (the plan) in the amount of $28,298.51. The plan is one arranged by the federal government of Canada for its employees, and is administered by Sun Life of Canada, for the purpose of indemnifying employees of the federal government for lost income resulting from disability. Both the employer and the Appellant made contributions to the plan on the Appellant's behalf.
+
+[2] In assessing the Appellant, the Minister relied upon paragraph 6(1)(f) of the Act, which reads as follows:
+
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+
+...
+
+(f) the aggregate of amounts received by him in the year that were payable to him on a periodic basis in respect of the loss of all or any part of his income from an office or employment, pursuant to
+
+(i) a sickness or accident insurance plan,
+
+(ii) a disability insurance plan, or
+
+(iii) an income maintenance insurance plan
+
+to or under which his employer has made a contribution, not exceeding the amount, if any, by which
+
+(iv) the aggregate of all such amounts received by him pursuant to the plan before the end of the year and
+
+(A) where there was a preceding taxation year ending after 1971 in which any such amount was, by virtue of this paragraph, included in computing his income, after the last such year, and
+
+(B) in any other case, after 1971,
+
+exceeds
+
+(v) the aggregate of the contributions made by the taxpayer under the plan before the end of the year and
+
+(A) where there was a preceding taxation year described in subparagraph (iv), after the last such year, and
+
+(B) in any other case, after 1967;
+
+[3] The Appellant takes issue with the assessment on two separate grounds. First, he argues that the Income Tax Application Rules (ITAR), section 19 has the effect of excluding the payments from his income. Secondly, he argues that paragraph 6(1)(f) of the Act cannot be enforced against him as it is contrary to section 15 of the Canadian Charter of Rights and Freedoms (the Charter).
+
+[4] The Appellant suffers from ankylosing spondylitis. For the sake of simplicity, I shall refer to this as "the disease". The disease is a form of arthritis which affects the Appellant's sacroiliac joints and his lumbosacral and thoracic spine. He was first diagnosed in 1991, but by then the disease apparently was well established. According to a letter written by Dr. J. Karsh for the hearing of this appeal, "... it is possible that the onset of the disease occurred in the early 1960's". The Appellant in his evidence maintained that the disease in fact began as early as his teenage years. He bases this upon the fact that he ceased to participate in competitive running in high school as a result of lower back pain. He admitted on cross-examination, however, that he cannot say with certainty when he was first affected by the disease. In 1994, he had a fall which injured his back and aggravated the disease. After that he received Workers' Compensation benefits, and then subsequently was placed on long-term disability under the plan.
+
+[5] Subsection 19(1) of the ITAR reads as follows:
+
+1. Notwithstanding section 9, paragraph 6(1)(f) of the amended Act, does not apply in respect of amounts received by a taxpayer in a taxation year that were payble to the taxpayer in respect of the loss, in consequence of an event occurring before 1974, of all or any part of the taxpayers income from an office or employment, under a plan, described in that paragraph, that was established before June 19, 1971.
+
+[6] The Appellant's contention is that the loss of income in respect of which he received the benefits in question was in consequence of the onset of his disease, and that the onset of the disease is an event which occurred before 1974. In support of this argument he relied heavily on the following passage which is found in Interpretation Bulletin IT-428, issued by Revenue Canada:
+
+Exemption for Plans Established before June 19, 1971
+
+3. Transitional provisions in section 19 of the Income Tax Application Rules, 1971 stipulate that amounts that would otherwise be included in income under paragraph 6(1)(f) are to be excluded if they were received pursuant to a plan that existed on June 18, 1971 and were in consequence of an event that occurred prior to 1974. Comments on these transitional provisions, particularly with regard to admissible and non-admissible changes in pre-June 19, 1971 plans, appear in IT-54. It is to be noted that, for 1974 and subsequent taxation years, the exemption in section 19 of the ITAR is applicable only if amounts received by a taxpayer are attributable to an event occurring before 1974. In this context, the word "event " has reference to the thing that caused the disability. In the case of an accident, for example, although the effect on the taxpayer's health may not have become noticeable or serious until 1974 or a later year, the "event " would have occurred before 1974 if the accident took place before 1974 and the later disability was directly attributable to the accident. Similarly, in the case of a degenerative disease such as muscular dystrophy, the "event " is the onset of the disease however much later the incapacity occurs. On the other hand, a recurring disease, such as a seasonal allergy or chronic tonsillitis, would qualify as an "event " only for the particular period of one attack.
+
+[7] It is not disputed that the plan was established before June 19, 1971. What is disputed is whether the Appellant can bring his case within the words "in consequence of an event occurring before 1974" within section 19.
+
+[8] The Appellant, relying on Interpretation Bulletin IT-428, argues that the event in his case took place at least as early as the 1960s with the onset of his disease. The interpretation set forth in the Bulletin was adopted by this Court in Phillips v. M.N.R., [1990] 2 CTC 2495. Unfortunately for the Appellant, it was rejected by the Federal Court of Appeal in Jastrebski v. Canada, [1994] 3 F.C. 466. In that case, the Federal Court of Appeal found that the disability and the loss of income must both occur before 1974 in order for the exemption provided in ITAR section 19 to apply.
+
+[9] The judgment of the Federal Court of Appeal in Jastrebski was delivered in the matter of an application for judicial review of a decision of this Court in an informal appeal. Section 18.28 of the Tax Court of Canada Act reads as follows:
+
+A judgment on an appeal referred to in section 18 shall not be treated as a precedent for any other case.
+
+The Appellant argues that this section means that not only am I not bound to follow the Jastrebski judgment, but that I am not permitted to read it. This argument is without merit. There are a number of possible explanations for the inclusion of section 18.28 in the Tax Court of Canada Act, which might lead to a number of different conclusions as to its effect in the context of a judgment of this Court. There is no need to speculate upon that question in the present case, however. The judgment of the Federal Court of Appeal in Jastrebski dismissed a section 28 application, and left the judgment of this Court in the appeal to it under section 18 of the Tax Court of Canada Act undisturbed. The Federal Court of Appeal judgment was not rendered under the Tax Court of Canada Act, but under section 28 of the Federal Court Act. Section 18.28 of the Tax Court of Canada Act therefore has no application to it. The judgment is binding upon me.
+
+[9] The Appellant also argued that the Minister of National Revenue is estopped in the present case from disputing the application of ITAR section 19 by the provisions of the Interpretation Bulletin IT-428 to which I have previously referred. He points out that that Bulletin is dated in July 1972 and has not been amended, although Jastrebski was decided in May 1994. The short answer to this submission is that there can be no estoppel as to something which is a matter of law, as opposed to a matter of fact: see Stickel v. M.N.R. 72 DTC 6178 at 6185; M.N.R. v. Inland Industries Ltd., 72 DTC 6013 at 6017.
+
+[10] Finally, the Appellant argued that the provisions of section 6(1)(f) of the Act and subsection 19(1) of the ITAR combined to create a legal regime which contravenes the equality provisions found in section 15 of the Charter. His thesis was that the legislative framework results in different rules as to taxability of disability benefits, depending upon such things as whether the benefits arise out of Workers' Compensation legislation or a disability insurance plan, or, in the case of a disability insurance plan, whether all the premiums are paid by the employee or whether they are paid in whole or in part by the employer. There are also distinctions as to deductibility of premiums paid between those who receive taxable benefits against which premiums may be set under paragraph 6(1)(f), and those who never receive benefits and so never become entitled to a deduction from income for those premiums. He also pointed to a distinction among recipients of taxable benefits between those who have worked for a number of employers, as has the Appellant, and those who have worked for the same period of time for only one employer; the latter group will be able to set off more of their premiums paid against their benefits.
+
+[11] The Appellant is quite correct that the Act and the ITAR together provide for a number of possible different levels of taxation from non-taxable to fully taxable which may apply to income replacement payments, depending upon the circumstances of the particular taxpayer. However, the statutes are replete with provisions which make distinctions and differences among people subject to them; they are not contrary to section 15 of the Charter unless they have the effect of treating one individual, or group of individuals, to their disadvantage on the basis of one or more of the personal characteristics enumerated in section 15 of the Charter, or a personal characteristic analogous to those enumerated in section 15. The various distinctions and differences upon which the Appellant relies have nothing to do with personal characteristics, enumerated or otherwise, and therefore cannot fuel a section 15 challenge to the legislation: see Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143 and Symes v. The Queen, [1993] 4 S.C.R. 695.
+
+[12] The appeal is dismissed.
+
+Signed at Ottawa, Ontario, this 9th day of December, 1999.
+
+"E.A. Bowie"
+
+J.T.C.C.
+

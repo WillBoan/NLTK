@@ -1,0 +1,250 @@
+Date: 20000107
+
+Docket: 96-3207-IT-G
+
+BETWEEN:
+
+LONDON LIFE INSURANCE COMPANY
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan J.T.C.C.
+
+[1] The Appellant is a life insurance corporation which carries on business in Canada and is, therefore, a "financial institution" within the meaning of subsection 190(1) of the Income Tax Act. Part VI of the Act (sections 190 to 190.24) imposes a tax on the capital of financial institutions in the following words:
+
+190.1(1) Every corporation that is a financial institution at any time during a taxation year shall pay a tax under this Part for the year equal to 1.25% of the amount, if any, by which its taxable capital employed in Canada for the year exceeds its capital deduction for the year.
+
+The only taxation year under appeal is the Appellant's fiscal year ending on December 31, 1990 commonly known as the 1990 taxation year. Certain provisions in Part VI were enacted in 1994 but made retroactive to 1990. Therefore, it is necessary to look at the legislation in years subsequent to 1990 in order to know the law in Part VI as it applied to the 1990 taxation year.
+
+[2] In accordance with subsection 190.1(1) quoted above, the tax of 1.25% is levied on the amount (if any) by which a financial institution's "taxable capital employed in Canada" exceeds its capital deduction. The phrase "taxable capital employed in Canada" is defined in section 190.11 and, in particular, the relevant words of the definition referable to the Appellant are:
+
+190.11 For the purposes of this Part, the taxable capital employed in Canada of a financial institution for a taxation year is,
+
+(a) ...
+
+(b) in the case of a life insurance corporation that was resident in Canada at any time in the year, the total of
+
+(i) ... and
+
+(ii) the amount, if any, by which
+
+(A) the amount of its reserves for the year (other than its reserves in respect of amounts payable out of segregated funds) that may reasonably be regarded as having been established in respect of its insurance businesses carried on in Canada
+
+exceeds the total of
+
+(B) ...
+
+[3] The Appellant is resident in Canada. The Appellant filed a tax return under Part VI of the Act for its 1990 taxation year (Exhibit 17). In that return, the Appellant determined that its taxable capital employed in Canada was $844,364,724. In the reassessment which is under appeal (Exhibit 9), the Minister of National Revenue added to the "taxable capital employed in Canada" as determined by the Appellant the amount of $99,211,822 which the Minister described as "deferred income taxes". The issue in this appeal is the meaning of the following words in subparagraph 190.11(b)(ii)(A):
+
+the amount of its reserves for the year ... that may reasonably be regarded as having been established in respect of its insurance businesses carried on in Canada (emphasis added)
+
+The Appellant claims that those reserves do not include an amount designated as deferred income taxes. The Respondent claims that those reserves do include an amount designated as deferred income taxes.
+
+[4] Rodney J. Lawrence, a senior employee of the Appellant, described in evidence how the Appellant records and reports its deferred income taxes. Exhibit 2 is the Appellant's Annual Report for 1990. Page 4 of Exhibit 2 is a consolidated statement of income which I will summarize as follows:
+
+Revenue $2,598,000,000
+
+Policyowner and Beneficiary Expenses 1,842,000,000
+
+756,000,000
+
+Operating Expenses 346,000,000
+
+Income from Operations 410,000,000
+
+Less:
+
+Income and other taxes 35,000,000
+
+Dividends to policy owners 283,000,000
+
+Undistributed policyowners income 13,000,000
+
+331,000,000
+
+Net Income $79,000,000
+
+In the above summary of consolidated income, the amount of $35 million for income and other taxes includes a future tax charge of $11 million. Pages 5 and 6 of Exhibit 2 are the Appellant's balance sheet as at December 31, 1990 showing as a liability future taxes of $100 million including the $11 million future tax charge with respect to 1990. The income statement shows all taxes (amounts actually payable in 1990 plus the $11 million future tax charge) as an expense in arriving at net income but the balance sheet shows only future taxes as a liability. The Appellant first used deferred income taxes as part of its accounting procedures in 1978.
+
+[5] The consolidated statement of income (Exhibit 2, page 4) shows an expense of $751 million (being part of the greater amount of $1,842 million shown in the summary in paragraph 4 above) which is a net increase in reserves established for future payment of contract liabilities (sometimes called "policy reserves"). The balance sheet (page 6) shows as a liability policy reserves of $6,755 million. Mr. Lawrence explained that the policy reserves on the income statement and the balance sheet do not include any amount with respect to deferred income taxes.
+
+[6] Exhibit 3 is the Appellant's 1990 Report to the Office of the Superintendent of Financial Institutions, commonly referred to as the OSFI Report. Pages 8 and 8A of Exhibit 3 are the balance sheet of the Appellant as at December 31, 1990 prepared in accordance with the requirements of an OSFI Report. Accordingly, the balance sheet in Exhibit 3 is somewhat different from the balance sheet in Exhibit 2. At page 8A, policy reserves are included with other liabilities on the OSFI balance sheet and, at line 18, deferred income taxes of $99,211,000 are shown as a separate item. It is this amount of $99,211,000 which the Minister of National Revenue has added to the Appellant's "taxable capital employed in Canada" in the reassessment under appeal.
+
+[7] Page 8A also shows in line 18 that the deferred income taxes at the end of 1989 were $87,660,000. At page 9, the income statement shows deferred income taxes of $11,552,000 for the year which, when added to the balance at the end of 1989 ($87,660,000) make the same total of $99,211,000. Mr. Lawrence pointed out that in the OSFI balance sheet (page 8A), the deferred income taxes on line 18 appear as a separate item between total liabilities (line 17) and total capital, surplus and reserves (line 27). I doubt that anything turns on this because the balance sheet at pages 8 and 8A is a prescribed OSFI form; the word "reserve" appears on line 1 with other liabilities; and the word "reserves" appears on line 19, 20 and 21 along with capital and surplus.
+
+[8] One of the expert witnesses (described below) who testified in this appeal explained deferred income tax balances as follows:
+
+Deferred tax balances are caused by timing differences. Timing differences occur when expenses or revenues are recognized for tax purposes in a different period than they are recognized for accounting purposes. These differences can make actual taxable income differ sharply from the accounting income recognized for the year. ... The most common example of a timing difference arises with depreciable assets, where a difference can arise between accounting depreciation and the tax equivalent of accounting depreciation, capital cost allowance, referred to as CCA below. As seen below in the example, this timing difference, where part of the CCA is charged against taxable income before it is charged against accounting income (e.g. the CCA is greater than depreciation), will result in a deferred tax credit balance. ...
+
+(Exhibit R-1, Eckel Report, page 2)
+
+[9] As I understand the concept, when the CCA rate (as a percentage of undepreciated capital cost) for income tax purposes is higher than the straight line rate (percentage of cost) for accounting purposes, in the early years after the purchase of an asset, CCA will be higher than accounting depreciation. Therefore, taxable income reported to Revenue Canada will be lower than accounting income reported to shareholders. In later years, when the amount of CCA for tax purposes is less than straight line depreciation for accounting purposes, taxable income reported to Revenue Canada will be higher than the accounting income reported to shareholders. To recognize these timing differences in the early years, generally accepted accounting principles ("GAAP") for corporate income tax in Canada and the USA uses a deferred tax method which requires two distinct accounting entries:
+
+Debit income tax expense $X
+
+Credit income tax actually payable $X
+
+Debit income tax expense $Y
+
+Credit deferred income tax $Y
+
+[10] It is the second entry which creates the deferred tax credit balance which, in turn, will appear as a liability on the balance sheet. In later years, when CCA is less than accounting depreciation and income tax actually payable is higher than the amount of income tax expensed for accounting purposes, the second accounting entry will be reversed to look like this:
+
+Debit deferred income tax $Z
+
+Credit income tax expense $Z
+
+[11] The issue is already stated in paragraph 3 above. It is a question of statutory interpretation. Specifically, the question is whether the word "reserves" in clause 190.11(b)(ii)(A) includes deferred income taxes. In Stubart Investments Limited v. The Queen, 84 DTC 6305, the Supreme Court of Canada quoted with approval at page 6323 the following statement by E.A. Dreidger on statutory interpretation:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+This modern rule of interpretation was restated by the Supreme Court in Friesen v. The Queen, 95 DTC 5551 at 5553. There is no doubt that I am required to read the words in clause 190.11(b)(ii)(A) in their entire context and in their grammatical and ordinary sense.
+
+[12] In argument, counsel for the Respondent put forward the following three dictionary definitions of the word "reserve":
+
+something kept back or held available (as for future use)
+
+Webster's Third New International Dictionary
+
+a thing reserved for future use; an extra stock or amount (a great reserve of strength; huge energy reserves)
+
+The Canadian Oxford Dictionary
+
+Funds which are set aside by an insurance company for the purpose of meeting obligations as they fall due. Such obligations would include liabilities for unearned premiums and the estimated costs of unpaid claims.
+
+Dictionary of Insurance
+
+[13] I accept the above dictionary definitions as representing the "ordinary sense" of the word "reserve". I also conclude that the Income Tax Act, as a whole, uses the word "reserve" in that ordinary sense as illustrated in the following sections:
+
+18(1)(e) ... a reserve, a contingent liability or amount or a sinking fund ...
+
+20(1)(l) a reserve ... in respect of doubtful debts
+
+20(1)(m) ... a reserve in respect of goods that ... will have to be delivered after the end of the year (where a prepayment has been included in computing income)
+
+20(1)(o) ... a reserve for expenses to be incurred ... by reason of ... surveys required under the Canada Shipping Act
+
+20(7) a reserve in respect of ... warranties
+
+138(3)(a)(i) a policy reserve ... for life insurance policies ...
+
+[14] The Appellant called Philip Arthur as an expert accounting witness to express his opinion concerning whether, for accounting purposes and in accounting terminology, deferred income taxes are a "reserve". Mr. Arthur has long experience as an accountant and he was accepted as an expert by the Respondent. Mr. Arthur's report is Exhibit A-1 and he delivered a categorical opinion that deferred income taxes are not a "reserve" for accounting purposes and in accounting terminology. He relied on a passage from the Handbook of the Canadian Institute of Chartered Accountants (commonly known as the "CICA Handbook") which stated in part:
+
+"The use of the term 'reserve' should be limited to an amount which, though not required to meet a liability or contingency known or admitted or a decline in value which has already occurred as at the balance sheet date, has been appropriated from retained earnings or other surplus: ...
+
+Reserves should be created or increased only by appropriations of retained earnings or other surplus. They should not be set up or increased by charges made in arriving at net income for the period.
+
+... " (Exhibit A-1, Arthur Report, page 1)
+
+Mr. Arthur was strong in his opinion because deferred income taxes are not appropriated from retained earnings or other surplus but are considered to be a cost incurred in the process of earning income.
+
+[15] The Respondent called Leonard Eckel as an expert accounting witness to express his opinion concerning (i) whether a deferred income tax credit balance is a "reserve"; and (ii) whether deferred income tax balances are, as a matter of substance, part of a corporation's capital employed in its business. Mr. Eckel has long experience in teaching accounting and he was accepted as an expert by the Appellant. Mr. Eckel's report is Exhibit R-1. He agreed with Mr. Arthur that, under accounting terminology as set out in the CICA Handbook, the term "reserve" should be restricted to appropriations of retained earnings; and pursuant to that terminology, deferred income tax credit balances are not "reserves". Mr. Eckel did state, however, that conceptually it is possible to view deferred income tax credit balances as "reserves" if one thinks in dictionary terms. In conclusion, Mr. Eckel was of the opinion that deferred income tax balances can be viewed as part of the de facto capital of a corporation employed in its business.
+
+[16] Mr. Arthur and Mr. Eckel as two expert witnesses did not disagree on any matter of substance in this case. They reached different conclusions because they were asked different questions. Mr. Arthur was asked for his opinion with respect to accounting purposes and accounting terminology. Accordingly, he based his opinion on the technical meaning of "reserve" or "reserves" under GAAP. Mr. Eckel was asked for his opinion as a matter of substance with respect to a company's capital employed in its business. Therefore, he was not restricted to technical accounting terminology and was able to express his opinions "conceptually" (page 10) and as a "de facto" result (page 11). There are income tax cases in which the expert opinions of qualified accountants are both helpful and relevant. I am thinking of cases like Canderel Limited v. The Queen, 98 DTC 6100 in which the issue was the determination of income from business under section 9 of the Income Tax Act. A similar case is Rainbow Pipeline Company, Ltd. v. The Queen, 99 DTC 1081 which I decided in the past six months.
+
+[17] Other cases like this appeal by London Life are concerned only with the interpretation of a word or phrase in the Act. In this kind of case, expert accounting evidence is helpful in understanding related accounting concepts and terms but, in my view, it has very little relevance or weight in the interpretation of a particular word or phrase. If I am to read the words of the Act in context and in their ordinary sense, I cannot be influenced by the manner in which a particular profession (accounting) imposes a restricted meaning on a particular word (reserve). I propose to interpret the word "reserves" in clause 190.11(b)(ii)(A) first by assuming that it has the ordinary meaning attributed by dictionaries and usage elsewhere in the Act (as indicated in paragraphs 12 and 13 above); and second by examining the word in the context of the immediately surrounding legislation.
+
+[18] The fact that I assume that the word "reserves" in clause 190.11(b)(ii)(A) has the ordinary dictionary meaning (i.e. something kept back or held available) does not necessarily mean that the word includes a deferred income tax credit balance. The shades of meaning imparted to "reserves" in this particular clause will be determined by the context in which the word appears. Part VI of the Income Tax Act as it applied to the 1990 taxation year is like a tiny taxing statute by itself. It comprises sections 190 to 190.24. Subsection 190(1) contains certain definitions but does not define "reserves". Subsection 190.1(1) is the charging provision already set out in paragraph one above. Sections 190.11, 190.12 and 190.13 define respectively by statutory computation the phrases "taxable capital employed in Canada", "taxable capital", and "capital of a financial institution". It is within the context of these sections that I will search for the meaning of "reserves" in clause 190.11(b)(ii)(A).
+
+[19] In my opinion, the most relevant related statutory provisions are paragraphs (a) and (b) of section 190.13 which, because of their importance, I will set out in full:
+
+190.13 For the purposes of this Part, the capital of a financial institution for a taxation year is,
+
+(a) in the case of a financial institution other than a life insurance corporation, the amount, if any, by which the total, computed at the end of the year on a non-consolidated basis, of
+
+(i) the amount of its long-term debt,
+
+(ii) the amount of its capital stock (or, in the case of an institution incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses, and
+
+(iii) the amount of its provisions or reserves (including, for greater certainty, any provision or reserve in respect of deferred taxes), except to the extent that they were deducted in computing its income under Part I for the year,
+
+exceeds the total so computed of
+
+(iv) the amount of its deferred tax debit balance, and
+
+(v) the amount of any deficit deducted in computing its shareholders' equity;
+
+(b) in the case of a life insurance corporation that was resident in Canada at any time in the year, the amount, if any, by which the total, computed at the end of the year on a non-consolidated basis, of
+
+(i) the amount of its long-term debt, and
+
+(ii) the amount of its capital stock (or, in the case of an insurance corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses
+
+exceeds the total so computed of
+
+(iii) the amount of its deferred tax debit balance, and
+
+(iv) the amount of any deficit deducted in computing its shareholders' equity; and
+
+(c) ...
+
+[20] In paragraph (a) of section 190.13 there are three positive elements (i), (ii) plus (iii) and two negative elements (iv) plus (v). In paragraph (b) of section 190.13 there are two positive elements (i) plus (ii) and two negative elements (iii) and (iv). As might be expected, paragraphs (a) and (b) are parallel in structure because each is defining by computation the "capital of a financial institution". For example, the first positive element in (a) is identical to the first positive element in (b). The second positive element in (a) is in substance identical to the second positive element in (b). And finally, the first and second negative elements in (a) are identical to the first and second negative elements in (b). The only difference in the parallel structures of paragraphs (a) and (b) is the presence of a third positive element in (a). That difference is important, however, because the third positive element in (a) is aimed at "provisions or reserves" and refers to "deferred taxes".
+
+[21] The idea of deferred tax is mentioned specifically in the third positive element and the first negative element in paragraph (a) and in the first negative element in paragraph (b). It is obvious to me that the idea of deferred tax was in the mind of the person drafting section 190.13. Also, I conclude that the same person drafted sections 190.11, 190.12 and 190.13 because the definition of "taxable capital employed in Canada" in 190.11 builds upon the definition of "taxable capital" in 190.12 which, in turn, builds upon the definition "capital of a financial institution" in 190.13. The base of the tax in the charging provision (subsection 190.1(1)) is "taxable capital employed in Canada". Therefore, the person or persons drafting this legislation were not only conscious of deferred tax but were cautious enough to identify it "for greater certainty" as an item to be included in "provisions or reserves" in the third positive element of paragraph (a) in section 190.13.
+
+[22] The specific reference to "deferred taxes" as an item to be included in "reserves" in subparagraph 190.13(a)(iii) leads me to conclude that the omission of any reference to deferred taxes in clause 190.11(b)(ii)(A) was intentional and not a slip of the drafting pen. The old Latin maxim may apply here: expressio unius est exclusio alterius. To express one thing is to exclude another. As stated above, subparagraph 190.13(a)(iii) is aimed at "provisions or reserves" and the drafting person thought it was necessary to identify "any provision or reserve in respect of deferred taxes" as an item to be included. Clause 190.11(b)(ii)(A) is also aimed at "reserves" but the same drafting person made no attempt to capture deferred taxes as part of the reserves in that clause.
+
+[23] Having regard to the words-in-context approach which seeks to interpret clause 190.11(b)(ii)(A) in comparison with paragraphs (a) and (b) of section 190.13, counsel for the Respondent made a very forceful argument which I will summarize as follows:
+
+In the computation of "capital" for resident life insurance corporations in paragraph 190.13(b) of the Act, deferred tax debit balances are allowed as deductions in subparagraph 190.13(b)(iii). If "reserves" in clause 190.11(b)(ii)(A) do not include deferred tax credit balances, this would lead to the conclusion that, in the case of life insurers, Parliament intended to exclude deferred tax credit balances as additions to their taxable capital, but to allow deferred tax debit balances as deductions. Such a conclusion would be absurd and should be avoided in favour of a plausible alternative. The Appellant's interpretation of clause 190.11(b)(ii)(A) would result in a different treatment of financial institutions, depending on whether they are life insurance corporations or not, for no discernible reasons.
+
+[24] I find this argument by the Respondent to be logical and reasonable but I am inclined not to adopt it for the following reasons. First, levying a special tax under Part VI on "taxable capital employed in Canada" requires a definition of "capital". Section 190.13 defines by computation the "capital of a financial institution". Defining the capital of any corporation is a technical matter. For example, "paid-up capital" is defined in subsection 89(1) of the Act. and that definition is long. Subparagraph (ii) of paragraphs 190.13(a) and (b) uses the phrase "capital stock" but I do not see that phrase defined in the Act. The Income Tax Act is amended at least once every year. I have to assume that drafting persons, working on this kind of legislation, are technically minded and know what they are doing.
+
+[25] Second, I may think that it is not reasonable in a definition by computation to deduct as a negative element a deferred tax debit balance when a deferred tax credit balance is not added as a positive element. That is the situation in paragraph 190.13(b) when, by contrast, deferred tax is brought in as both a positive and negative element in paragraph 190.13(a). There is a difference, however, between a result which is not reasonable and one which is absurd. I am not satisfied that the Appellant's interpretation of clause 190.11(b)(ii)(A) leads to an absurd result. Accordingly, I will not read fresh words into the positive elements of paragraph 190.13(b) or accept the Respondent's inference that the word "reserves" in clause 190.11(b)(ii)(A) must of necessity include deferred tax credit balances.
+
+[26] There are other reasons for holding that deferred taxes are not included in "reserves" within clause 190.11(b)(ii)(A). Looking at that clause in isolation, but considering that paragraph 190.11(b) is aimed at a life insurance corporation resident in Canada, I question whether deferred taxes (even if they are reserves in the ordinary sense of something kept back for future use) are reserves "that may reasonably be regarded as having been established in respect of its insurance business carried on in Canada". The life insurance business is highly regulated. Specifically, life insurance corporations are required to maintain prescribed reserves to satisfy the claims of policyholders. In my view, when paragraph 190.11(b) is concerned only with a life insurance corporation, its reserves "that may reasonably be regarded as having been established in respect of its insurance business" are its policy reserves or similar reserves which are incidental to its life insurance business.
+
+[27] Deferred taxes are not incidental to any insurance business but are the result of an accounting policy which may have been adopted by a particular corporation whether its principal business in insurance, manufacturing, retailing or other. According to M. Lawrence's evidence, the Appellant did not adopt the accounting policy of accruing or deferring taxes until 1978. Looking at clause 190.11(b)(ii)(A) in isolation, I do not see any reason to infer or conclude that a reserve for deferred taxes is included within the "reserves" described in that clause.
+
+[28] Another reason for supporting the Appellant's interpretation of clause 190.11(b)(ii)(A) is a by-product of Mr. Eckel's evidence. He was asked if a deferred income tax credit was a liability. His answer was lengthy and I will quote only selected passages from his report (Exhibit R-1):
+
+Is a deferred tax credit balance a liability in the ordinary or economic sense of the term? Logically and intuitively, it is not a liability in the ordinary or economic sense because no money is owing at the time that the credit balance is created or reported on the balance sheet. And to be entirely clear: at the balance sheet date, no money is owed to be paid now, and furthermore, at the balance sheet date, no money is owing which is to be paid in the future. The liability at the date of the financial statements is equal to the amount actually payable at the date of the financial statements. The actual liability is reflected in the first journal entry. The second entry, the deferred tax entry, may produce a credit balance, but it cannot reflect a liability because the first entry already reflects the amount payable at that date. ... Page 7
+
+Deferred tax accounting has long been the topic of debate among professional accountants. It is, however, important to note that the debate deals with the issue whether deferred tax accounting is the proper method of accounting for corporate income tax expense for income measurement and reporting purposes in accordance with GAAP. Page 8
+
+Supporters of deferred tax accounting take the position that it is a liability because the timing differences will turn around and become a liability. That position can be challenged because two things must occur in the future period in order for tax differences to "become a liability":
+
+1. the timing differences must actually turn around, and
+
+2. there must be taxable income in the period of the turn around and beyond. Page 9
+
+Experience in the real world does not support the assumption that timing differences will necessarily reverse. And if they do not reverse, then even the claim that these balances will become liabilities is not supported.
+
+In the ordinary course, the CCA/depreciation timing differences do not necessarily reverse. Empirical studies of the actual draw-down experience in the past indicates that deferred tax balances have not turned around to a significant extent in the past. Research has shown, for example, that decreases in deferred tax credit balances caused by depreciation timing differences occurred in less than 3% of company years. Page 10
+
+[29] In oral testimony, Mr. Eckel referred to certain large deferred tax credit balances as embarrassments to the accounting profession. He stated:
+
+If I may, the embarrassment to the profession and to people affected by it has been with deferred tax credit balances, because the empirical evidence shows that they tended not to turn around, and that's quite explainable as to why that would happen. (Transcript page 281)
+
+Mr. Eckel's evidence on this point is supported by the Appellant's own history. From 1978 to 1990, the Appellant's deferred tax credit balance has grown from nil to $99 million with a growth of $11 million in 1990 alone. According to Mr. Eckel, large deferred tax credit balances were common in corporate accounting in the 1980s, and those balances forced the accounting professions in Canada and the USA to reconsider the whole area of deferred taxes. I accept Mr. Eckel's unchallenged evidence on this point.
+
+[30] Life insurance corporations were first brought under Part VI of the Act in 1990. In other words, the 1990 taxation year is the first year when the Appellant is required to pay Part VI tax. Accepting the fact that large deferred tax credit balances were common in the 1980s, I would say that the person drafting Part VI (and in particular sections 190.11, 190.12 and 190.13) would have known or should have know of those large balances. If it was the intention of Parliament (or the drafting person) to include deferred tax credit balances as part of the base for the capital tax in Part VI, it would have been easy to specify those balances in clause 190.11(b)(ii)(A) or as part of a new third positive element in paragraph 190.13(b) just as those balances were specified in subparagraph 190.13(a)(iii). The failure to so specify those balances is fatal to the Respondent's case.
+
+[31] Both counsel brought to my attention the fact that the Act was amended in 1994 to include the following new definition of "reserves" in subsection 190(1):
+
+For the purposes of this Part,
+
+"reserves", in respect of a financial institution for a taxation year, means the amount at the end of the year of all of the institution's reserves, provisions and allowances (other than allowances in respect of depreciation or depletion) and, for greater certainty, includes any provision in respect of deferred taxes.
+
+The new definition is applicable to the 1992 and subsequent taxation years. In Ikea Limited v. The Queen, 98 DTC 6092, the Supreme Court of Canada referred to an amendment to the Act which was made subsequent to Ikea's appeal, and Iacobucci J. stated at page 6096:
+
+It is evident that the T.I.P. paid to Ikea in the instant case would fall squarely within this section, which would render the payment income to Ikea and taxable entirely in the year received. However, because the section was not in force in 1986, when the payment in question was received, the matter remains to be determined for the purposes of this appeal in accordance with the law as it existed then. The new provision, obviously, has no effect on the outcome of the instant case.
+
+I will follow the same practice in this case. The appeal of London Life must be decided in accordance with the law as it applied to 1990.
+
+[32] The appeal is allowed with costs on the basis that the Appellant's deferred income taxes in the amount of $99,211,822 as at December 31, 1990 are not part of the Appellant's "taxable capital employed in Canada" for the purpose of Part VI of the Income Tax Act.
+
+Signed at Ottawa, Canada, this 7th day of January, 2000.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

@@ -1,0 +1,156 @@
+Date: 19990923
+
+Docket: 97-1969-IT-G
+
+BETWEEN:
+
+HARVEY ROLL operating as HARVEY ROLL BUSINESS SERVICES,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.T.C.C.
+
+[1] This appeal is from a reassessment made under section 165(3) of the Income Tax Act (the Act). It replaces a series of earlier assessments made in reliance on sections 153 and 227 of the Act in respect of unremitted source deductions for federal income tax, provincial income tax, Canada Pension Plan contributions and Unemployment Insurance Act premiums (which, for convenience, I will refer to collectively simply as source deductions), together with penalties for both failure to remit and late remitting. The total amount claimed by the Minister of National Revenue (the Minister) by the notice of reassessment for unremitted source deductions, penalties and interest to March 28, 1997, the date of the reassessment, is $57,028.40. This assessment is in respect of amounts which should have been deducted from the payroll of Sea Hornet Marine Industries (Canada) Inc. (Sea Hornet) and remitted to the Receiver General for the period from January 1 to July 15, 1996.[1] It is predicated upon the theory that the Appellant was, in respect of Sea Hornet's employees, a “person paying ... salary or wages or other remuneration”, within the meaning of that expression as it is used in subsection 153(1) of the Act. The Minister also alleges that the Appellant was a trustee within the meaning of that word as it was used in subsection 153(1.3) prior to June 20, 1996, and in paragraph 227(5.1)(a) after that date. The relevant parts of the legislation read as follows:
+
+153(1) Every person paying at any time in a taxation year
+
+(a) salary or wages or other remuneration
+
+...
+
+shall deduct or withhold therefrom such amount as is determined in accordance with prescribed rules and shall, at such time as is prescribed, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part X1.3, as the case may be ...
+
+153(1.3) For the purposes of subsection (1), where a trustee who is administering, managing, distributing, winding up, controlling or otherwise dealing with the property, business, estate or income of another person authorizes or otherwise causes a payment referred to in that subsection to be made on behalf of that other person, the trustee shall be deemed to be a person making the payment and the trustee and that other person shall be jointly and severally liable in respect of the amount required under that subsection to be deducted or withheld and to be remitted on account of the payment.
+
+153(1.4)In subsection (1.3), "trustee" includes a liquidator, receiver, receiver-manager, trustee in bankruptcy, assignee, executor, administrator, sequestrator or any other person performing a function similar to that performed by any such person.
+
+...
+
+227(1) No action lies against any person for deducting or withholding any sum of money in compliance or intended compliance with this Act.
+
+...
+
+(5) Where a specified person in relation to a particular person (in this subsection referred to as the “payer”) has any direct or indirect influence over the disbursements, property, business or estate of the payer and the specified person, alone or together with another person, authorizes or otherwise causes a payment referred to in subsection 135(3) or 153(1), or on which tax is payable under Part XIII, to be made by or on behalf of the payer, the specified person
+
+(a) is, for the purposes of subsections 135(3) and 153(1), section 215 and this section, deemed to be a person who made the payment;
+
+(b) is jointly and severally liable with the payer to pay to the Receiver General
+
+(i) all amounts payable by the payer because of any of subsections 135(3) and 153(1) and section 215 in respect of the payment; and
+
+(5.1) In subsection (5), a “specified person” in relation to a particular person means a person who is, in relation to the particular person or the disbursements, property, business or estate of the particular person,
+
+(a) a trustee;
+
+...
+
+(l) an agent of a specified person referred to in any of paragraphs (a) to (k).
+
+227(8) Subject to subsection (8.5), every person who in a calendar year has failed to deduct or withhold any amount as required by subsection 153(1) or section 215 is liable to a penalty of
+
+(a)10% of the amount that should have been deducted or withheld; or
+
+(b) where at the time of the failure a penalty under this subsection was payable by the person in respect of an amount that should have been deducted or withheld during the year and the failure was made knowingly or under circumstances amount to gross negligence, 20% of that amount.
+
+227(9) Subject to subsection (9.5), every person who in a calendar year has failed to remit or pay as and when required by this Act or a regulation an amount deducted or withheld as required by this Act or a regulation or an amount of tax that the person is, by section 116 or by a regulation made under subsection 215(4), required to pay is liable to a penalty of
+
+(a) 10% of that amount; or
+
+(b) where at the time of the failure a penalty under this subsection was payable by the person in respect of an amount that should have been remitted or paid during the year and the failure was made knowingly or under circumstances amounting to gross negligence, 20% of that amount.
+
+...
+
+227(9.4)A person who has failed to remit as and when required by this Act or a regulation an amount deducted or withheld from a payment to another person as required by this Act or a regulation is liable to pay as tax under this Act on behalf of the other person the amount so deducted or withheld.
+
+Subsections 153(1.3) and (1.4) were repealed and subsections 227(5) and (5.1) were enacted by S.C. 1996, c. 21, 557(1), which took effect on June 20, 1996. Sea Hornet met only two payrolls after that date.
+
+[2] The events giving rise to the assessment under appeal are somewhat unusual, but I did not understand counsel for the Respondent to challenge the Appellant’s version of those facts.
+
+[3] The Appellant is a bookkeeper. He has worked for a number of employers over the years, and in 1992 started his own business, doing bookkeeping for some small businesses, and some income tax preparation for individuals and small businesses. His income from this was not great, and he neither incorporated the business nor opened a separate bank account for it. He operated as a sole proprietor under the name Harvey Roll Business Services (HRBS), and the revenues of that business were deposited to, and the expenses were paid from, the personal joint account which he and his wife maintained at the Hong Kong Bank. One of his sources of work was a certified management accountant for whom he did contract work from time to time. Through this individual he learned of an opportunity for employment as a bookkeeper with Sea Hornet. He applied for and obtained the position, and began to work there in February 1995, at a salary of $2,000.00 per month.
+
+[4] Sea Hornet at this time was a small company which was attempting to develop a marine information recording device similar to those used in aircraft, commonly known as black boxes. The management of the company consisted of Ralph Richey, the president and a director, his brother Clive Richey, vice-president operations, and Ralph Richey’s wife, Carol Richey, who was also a vice-president and a director. Ross McCutcheon, a lawyer, was also a director, and influential in the decision making. The company's capital came from a number of investors. There were some 10 to 15 employees. The Appellant’s duties included processing the bi-weekly payroll, which was computer generated through an off-the-shelf software package, which calculated the gross pay, the various deductions, and the net pay for each employee, and printed the cheques. The Appellant had no cheque signing authority, but delivered the cheques to Mr. Richey for signature. He also maintained the company's books, in particular the accounts receivable and the accounts payable ledgers. He continued, in his spare time, to carry on his business under the name HRBS, and to use the joint bank account for that purpose.
+
+[5] There were a lot more payables than receivables during the period from November 1995 to July 1996. In fact, there was little evidence of any revenues being generated by the company at all. Its only source of funds, for practical purposes, was injections of cash obtained from time to time from the investors. Apart from these, it had two great hopes to solve what was clearly a chronic cash shortage. One was the expectation that it would receive an infusion of cash through scientific research and development tax credits. The other was the hope that it would achieve listing on the NASDAQ exchange, with a substantial influx of investment capital resulting. Neither of these events occurred.
+
+[6] By the middle of 1995, Sea Hornet had serious cash-flow problems. By the fall of that year, trade creditors were refusing to deal with it, collection actions were being taken against it, together with threats of execution and the seizure of its assets. The company was by this time falling into arrears in respect of its obligation to remit source deductions, in addition to its other problems.
+
+[7] There is no doubt that the Appellant was at all times well aware of the financial difficulties which Sea Hornet faced. Throughout much of 1995, and thereafter, his duties included keeping the Richeys advised as to the extent of the liabilities to be met, and as to which of the creditors were most pressing in their demands for payment. He frequently sent messages to Clive or Carol Richey to indicate what the short-term cash needs were in order to meet the payroll, and to pay the creditors who were most insistent in their demands. Typically, he would receive from Ralph Richey a cheque from one of the investors, with instructions to deposit it to the company’s bank account, together with detailed instructions as to what payments were to be made with the funds. He had no discretion as to the priority to be accorded to the various creditors. Generally, the payroll was a first priority, although several employees, including the Appellant, agreed in early 1996 to accept a deferral of their salaries in order to help the company through what, they were told, was a temporary cash shortage.
+
+[8] By October, or early November, 1995, Sea Hornet’s financial situation had deteriorated to the point where any funds deposited to its bank account would either be applied by the bank to reduce the outstanding line of credit, or would be seized by one or more of the other creditors. To circumvent these possibilities, and to keep the company afloat a little longer, in the hope that it would be rescued by the NASDAQ listing, Ralph Richey, knowing that the Appellant was operating his business as HRBS, asked him if he would use his business bank account to assist the company by depositing a cheque for the payroll, and then drawing the cheques for the employees on it. The Appellant agreed to do this, and the November payroll was processed in this way, but through the personal bank account which he maintained jointly with his wife, as he had no separate business bank account at that time. I accept the Appellant’s evidence that the cheque he was given to deposit was for the net payroll only, that is to say the amounts payable to the employees of Sea Hornet, net of all source deductions.
+
+[9] By December 1995 the Appellant had opened a separate bank account at the Hong Kong Bank, in the name Harvey Roll Business Services (the HRBS bank account), and for the next six and one-half months the Sea Hornet net payroll was processed through that account. During this period, the management of Sea Hornet was able to obtain sufficient investment funds to meet the net payroll twice each month, as well as some, but not all, of the source deductions, and some, but not all, of the trade debts of the company. As these cheques were received from the investors, they were turned over by Mr. Richey to the Appellant to be deposited in the HRBS bank account. At the same time, Mr. Richey gave him precise instructions as to the payments he was to make from the account. The Appellant did, of course, have signing authority in respect of this bank account, and in fact was the only person who did.
+
+[10] The precise history of the various failures to remit, and the late remittances, is complex, and not necessary to the decision of the question at issue. Like all the other creditors, Revenue Canada was paid only when funds were available. The source deductions for January 1996 were paid in April, those for February were paid in May, and those for May were paid in June. Those for March, April, June and July were not paid at all. The payments that were made, like the payroll and payments to trade creditors, were made through the HRBS bank account.
+
+[11] When remitting source deductions to Revenue Canada in December, 1995 and in 1996, the Appellant, although drawing the cheques on the HRBS bank account, continued to remit in the name of Sea Hornet. In June 1996, however, Revenue Canada decided that because the cheques were drawn on the account of HRBS, it must be the payor for purposes of sections 153 and 227 of the Act. It opened an account for payroll remittances in the name of HRBS, and it transferred to that account the various debits and credits previously made in the account of Sea Hornet in 1996. Thereafter the Appellant was treated by Revenue Canada as the payor of the employees of Sea Hornet, and the various assessments for failure to remit and penalties and interest were charged to his account, culminating in the reassessment which has given rise to this appeal.
+
+[12] This state of affairs naturally caused the Appellant considerable alarm. Upon being notified from time to time of the extent of his liability by Revenue Canada, he raised the matter with Ralph Richey, and with the CMA through whom he had obtained the job, who continued to act as the accountant for Sea Hornet. They both assured him that the matter would be straightened out, and that he had no reason to be alarmed. He accepted these assurances until the middle of July 1996, at which time he declined to permit the use of the HRBS bank account any further. Sea Hornet soon found itself unable to carry on business any longer, and there were, of course, no assets to which either Revenue Canada or the Appellant could look for payment.
+
+[13] The questions which I must decide are:
+
+1. whether the Appellant, by his conduct, has put himself in such a position that he is properly considered to be a "... person paying ... salary or wages ..." to the employees of Sea Hornet for the purposes of section 153(1) of the Act; and
+
+2. whether the Appellant came within subsection 153(1.3) before June 20, 1996, or subsection 227(5) after that date, and therefore is jointly and severally liable with Sea Hornet for the source deductions during all or part of the period between January and July 1996.
+
+[14] In The Queen v. Coopers & Lybrand Limited[2] Kelly D.J., speaking for a unanimous Court, set out the criteria that must be met in order to give rise to liability under section 153:
+
+(1) payments to employees must have been made;
+
+(2) such payments must have been with respect to wages or salaries due to the employees;
+
+(3) the person sought to be held liable must have made such payments.
+
+In the present case there is no doubt that the first two conditions are met. The payments were made by Mr. Roll from his bank account under the name "Harvey Roll Business Services", and they were made to the employees of Sea Hornet in payment of their wages, net of deductions. It is argued by counsel for the Appellant that Mr. Roll was simply doing his job as the bookkeeper for Sea Hornet, and that the act of paying is not his act, but that of the company. I agree that if the Appellant had done no more than his duties as the company bookkeeper, then section 153 would not reach him. It was never intended to impose liability personally on an employee who is simply carrying out the normal duties of the job.
+
+[15] Mr. Roll, however, stepped outside his job when he took the funds of the company and deposited them in a bank account to which only he had the signing authority, and then disbursed them to the employees and the creditors according to the instructions given to him. He was well aware of the company's financial condition, and he was well aware, too, of the obligation to withhold, and that it was not being complied with when he issued the cheques for the net payroll from his account. Indeed, he knew that the only reason for Sea Hornet to enter into this arrangement with him was to keep its funds away from its creditors, including the bank. It is clear from the judgment in Coopers & Lybrand that section 153 imposes liability on a person who makes payments in these circumstances, even though that person is not the employer of the individuals to whom the payments are made.
+
+[16] The second question which arises is whether the Appellant is jointly and severally liable for the full amount of the withholdings. The Minister assessed him for the full amount, based upon the following assumption of fact, which appears at paragraph 3(l) of the Reply:
+
+The Appellant, through his proprietorship known as Harvey Roll Business Services, provided bookkeeping services to the Corporation, which services included determining the gross wages, insurable earnings, withholding taxes and net wages of the employees of the Corporation, receiving sufficient amounts to cover net wages, withholding taxes and other disbursements and paying of the net wages to the employees of the Corporation;
+
+However the evidence shows that the Appellant did the calculation of the payroll and the withholdings in his capacity as an employee of Sea Hornet, at the offices of Sea Hornet, and not in the capacity of a contractor providing services to Sea Hornet. Moreover, he was not given the amount of the gross payroll by Sea Hornet, nor did he have any discretion as to the application of the funds that were put in his hands. It is quite clear that he was under instructions as to the payments that he was to make from the funds deposited in the HRBS account, and those did not include the withholdings, at least not at the time the net payroll was paid.
+
+[17] I agree with counsel for the Respondent that, in the circumstances, the Appellant was a bare trustee of the funds put in his hands by Sea Hornet. However, to bring him within the ambit of subsection 153(1.3) it must be shown that he was, at the relevant time, "... administering, managing, distributing, winding up, controlling or otherwise dealing with the property, business, estate or income ..." of Sea Hornet. All of these verbs, and the equivalents which appear in the French version of the text,[3] suggest that there must be some degree of control and decision making reposed in the trustee for the subsection to apply; the Appellant had none.
+
+[18] After June 20, 1996, when subsection 227(5) was enacted to replace subsection 153(1.3), the relevant words were:
+
+[w]here a specified person in relation to a particular person ... has any direct or indirect influence over the disbursements, property, business or estate of the payer and the specified person, alone or together with another person, authorizes or otherwise causes a payment ... to be made by or on behalf of the payer, ...
+
+[l]a personne déterminée, quant à une autre personne ... qui a une influence directe ou indirecte sur les décaissements, les biens, l'entreprise ou la succession du payeur et qui, seule ou avec quelqu'un d'autre, fait en sorte qu'un paiement ... soit effectué par le payeur ou pour son compte, ou autorise un tel paiement ...
+
+I do not believe that the Appellant had any direct or indirect influence over the disbursements, the property, the business or the estate of Sea Hornet. The expression "to have an influence"[4] connotes some ability on the part of the person to affect the decision making process in relation to the payments in order to be subject to the subsection.[5] Mr. Roll clearly had no such power. It is true that in his capacity as an employee of the company he supplied management with information which was used in the process of deciding what payments would be made, in what amount, and to whom. Even if this act of furnishing information can be said to amount to an indirect influence on the decision making process, it was not done in his capacity as an individual separate and apart from the company for which he worked. In this separate capacity he did nothing but prepare and sign cheques in accordance with precise directions given to him, and he had no power at all to influence the decision making with respect to the payments, the property, or the business. In my view subsection 227(5) has no application on the facts of this case.
+
+[19] Counsel for the Respondent relied in argument on a number of authorities for the proposition that the Appellant is subject not simply to the penalty imposed by subsection 227(9), but to joint and several liability, along with Sea Hornet, for the full amount of the withholdings which were not remitted. Only two of those cases deal with the statutory language in force during the time period relevant to this appeal. In neither of those cases is there any consideration of the operative part of subsection 153(1.3) which I have set out at paragraph [17] above. I do not believe that there has yet been a decision dealing with the language of the 1996 enactment of subsection 227(5).
+
+[20] 299144 British Columbia Limited v. M.N.R.[6] involved a fact situation similar to the present case. However it was held that the Appellant was not a trustee, even within the expanded definition of that word found in subsection 153(1.4). The result of this conclusion was that it became unnecessary to consider whether the Appellant's conduct fell within the language of subsection 153(1.3). In Soltrac International Inc. v. M.N.R.[7] Judge Tremblay held that the Appellant, which made the payments to employees, was a trustee as defined in subsection 153(1.4). However, he then went on, at page 1905 of his Reasons, to consider whether the Appellant was "acting on behalf of" the employing company, rather than considering the actual words of subsection 153(1.3) to which I have referred above. He found that was, and on that basis he dismissed the appeal. I do not find this case to be helpful, as the test to be applied under subsection 153(1.3) is not whether the Appellant was "acting on behalf of" Sea Hornet, which he clearly was but whether in so doing he was administering, managing, distributing, winding up, controlling or otherwise dealing with Sea Hornet's property. The former does not necessarily involve any decision making; the latter does.
+
+[21] The appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant's liability is only for the penalty assessed under subsection 227(9). The Appellant has achieved substantial success, and is entitled to his costs.
+
+Signed at Ottawa, Ontario, this 23rd day of September, 1999.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] The series of assessments which is replaced by the reassessment covered the month of November 1995. Remittances subsequently made by Sea Hornet have been applied to discharge that liability.
+
+[2] [1981] 2 F.C. 169 at 176.
+
+[3] "... le fiduciaire qui administre, gère, attribue, liquide ou contrôle par ailleurs les biens, l'entreprise, la succession ou le revenu ..."
+
+[4] "avoir une influence" in the French version.
+
+[5] This conclusion is consistent with the Technical Note of March 28, 1996 regarding section 227, which was referred to by counsel for the Respondent in written submissions.
+
+[6] 90 DTC 1883
+
+[7] 94 DTC 1900
+

@@ -1,0 +1,102 @@
+Date: 19990112
+
+Docket: 96-4754-GST-G
+
+BETWEEN:
+
+2626-8045 QUÉBEC INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on May 12, 1998, at Rimouski, Quebec, by the Honourable Judge P.R. Dussault
+
+Reasons for judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] This is an appeal from an assessment dated March 6, 1996 respecting goods and services tax ("GST") for the period from January 1, 1991 to August 31, 1995.
+
+[2] By this assessment, the Minister of National Revenue (the "Minister") set the appellant's net tax at $15,843.38, including an adjustment of $3,609.83. Interest of $2,018.89 and a penalty of $1,948.55 were also assessed. The $3,609.83 adjustment is based on the following factors:
+
+- discrepancy between GST computed and GST reported resulting from tax collected but not remitted from January 1, 1991 to August 31, 1995: $1,751.48;
+
+- sale of gasoline in November 1993: $1,497.54;
+
+- disallowed input tax credits ("ITC") in respect of personal expenses: $360.81.
+
+[3] The appellant operates a service station and convenience store, and Denise St-Gelais is its president.
+
+[4] In her testimony, Ms. St-Gelais said she had hired a certain Roger St-Pierre, who holds a Diploma of Collegial Studies in administration, to do the business's bookkeeping on a monthly basis. In addition, at the end of the year, all relevant documents were sent to an accountant. Ms. St-Gelais said she had acted in good faith and relied on these persons regarding tax matters. She admitted however, that she herself had entered the purchases, sales and ITCs in the computer. The applicable taxes were also entered separately, except the taxes on gasoline sales, which had to be computed separately since the price included the applicable taxes. My understanding of Ms. St-Gelais's testimony is that Mr. St-Pierre was responsible for computing the taxes and helped her prepare the required quarterly returns.
+
+[5] According to the testimony of Éric Nadeau of Revenu Québec, who audited the business's accounts, it was difficult at first to reconcile taxes reported and taxes entered in the books because a number of book entries could not be explained by Ms. St-Gelais, who relied on Mr. St-Pierre.
+
+[6] According to Mr. Nadeau, the difference between tax reported and remitted and tax due was ultimately audited solely on the basis of the amounts previously recorded in the cash register or in the computer, on the assumption that those amounts were accurate.
+
+[7] The amounts of taxes collected were entered in the business's books of account. The audit thus showed that, in 1991, an additional amount of $6,409.05 was collected, but not remitted. In 1992, an amount of $5,492.61 was reported and remitted, resulting in an over-remittance. In 1993, an additional amount of $5,678.29 was collected, but not remitted. In 1994, an additional amount of $421.52 was collected and not remitted. Lastly, in 1995, an additional amount of $5,264.75 was reported and remitted, resulting in an over-remittance (Exhibit I-1, pages 6.6-6.10). Thus, despite these annual variations, which are, all in all, quite significant in relative terms, the total discrepancy for the period in issue, as stated above, amounts to $1,751.48.
+
+[8] The amount of $1,497.54 in respect of gasoline sales in fact relates to a single transaction on November 16, 1993 with Les Pétroles Irving Inc. in which that company bought back gasoline stocks which the appellant owned and applied the purchase amount, including taxes, against amounts owed by the appellant. Ms. St-Gelais said she did not really understand this transaction, which was not entered in the books, but on which tax was also collected but once again not remitted.
+
+[9] In his testimony, Éric Nadeau explained that the amount of $360.81 in respect of ITCs deemed not to be allowable related to invoices for personal, not business purchases. Ms. St-Gelais offered no explanation on this matter.
+
+[10] Only the 6 percent penalty assessed under paragraph 280(1)(a) of the Excise Tax Act (Part IX – Goods and Services Tax) (the "Act") is in dispute. At the end of the hearing, I proposed to await the Federal Court of Appeal's decision in The Attorney General of Canada v. Consolidated Canadian Contractors Inc. (A-445-97) before rendering my judgment.
+
+[11] In that case, Judge Bowman of this Court had held, following his own judgment rendered in 1993 in Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, that a taxpayer could raise a due diligence defence with regard to section 280 of the Act since that provision set a penalty which was applicable in cases of strict rather than absolute liability. The decision in Consolidated Canadian Contractors Inc. (supra) was the subject of an application for judicial review.
+
+[12] By a judgment dated September 29, 1998, the application for judicial review was dismissed by the Federal Court of Appeal. In that judgment the Federal Court of Appeal stated that it was not satisfied that section 280 of the Act gave rise to absolute liability and declared that the presumption of strict liability had not been rebutted.
+
+[13] In light of this decision, the parties to the instant case were invited to make additional representations if they wished, and they did so.
+
+[14] Counsel for the appellant argued that the evidence adduced showed that the appellant [TRANSLATION] "had not committed any fault, negligence or omission in the collection of the taxes". Furthermore, she said, the appellant demonstrated its good faith and credibility throughout the hearing. Thus, in her view, the appellant was a victim of mere errors of calculation. Lastly, she emphasized, [TRANSLATION] "The year for which the most significant corrections were made, even though they were on the whole minor, was 1991, the year the GST was introduced."
+
+[15] In support of the argument that the appellant had shown due diligence, counsel added:
+
+[TRANSLATION]
+
+We submit to you that, as our client did some of its own accounting and also assigned it to a financial management officer, in addition to retaining an accounting firm, it took all the necessary measures and thus displayed due diligence in ensuring that its method and calculations were consistent with the Act. It thus took care to gather useful information relevant to the conduct of its business, in addition to being regularly audited by professionals.
+
+[16] Counsel for the respondent essentially argued that good faith is insufficient to establish due diligence and that entrusting one's affairs to accountants or other agents who may have been negligent does not amount to showing due diligence. On this last point, he relied on Judge Bowman's comments in Roberts (K.) v. Canada, [1997] G.S.T.C. 58:
+
+Here it is true the appellant hired bookkeepers for one of the periods in question and paid them what appears to me to be excessive amounts for their incompetence and inaction. This might justify an action by the appellant against them, but it does not amount to due diligence. The accountants are after all the appellant's agents and the appellant is responsible of what they did or failed to do. In the same way as the exercise of due diligence on the part of a taxpayer's accountants or bookkeepers would be attributed to the taxpayer and would justify the removal of a penalty, so too does the absence of due diligence on the part of the taxpayer's accountants or bookkeepers disentitle him or her to the relief envisaged by the Pillar Oilfield case.
+
+[17] Counsel for the respondent also relied on Judge Bowman's decision in Somnus Enterprises Ltd. v. Canada, [1995] G.S.T.C. 4, in which he writes:
+
+It requires an honest attempt by the taxpayer to comply, to the best of his or her ability, with the requirements of the statute, using the sources of information, facilities and resources available to that taxpayer.
+
+[18] I agree with counsel for the respondent. Proof of good faith falls short of the level required to establish due diligence. The difference was clearly established by Judge Bowman of this Court in his decision in Pillar Oilfield Projects Ltd. (supra), in which he concluded as follows:
+
+As stated above, innocent good faith in the making of unintentional errors is not tantamount to due diligence. That defence requires affirmative proof that all reasonable care was exercised to ensure that errors not be made.
+
+[19] On this point, reference may also be made to recent decisions in the following cases:
+
+- Roberts (K.) (supra);
+
+- SDC Sterling Development Corp. v. Canada, [1997] G.S.T.C. 103;
+
+- Toyota Tsusho America, Inc. v. Canada, [1997] G.S.T.C. 83;
+
+- Lorne Pinel Construction Co. v. Canada, [1998] G.S.T.C. 28.
+
+[20] But that is not all. Apart from principles, the instant case involves factors which render the due diligence defence unacceptable. First, the situation in this case involved no particular difficulties in the application of the Act since the tax was in fact collected. It was simply not remitted. Virtually all of the annual discrepancies uncovered relate to amounts of tax collected but not remitted. Ms. St-Gelais testified that she herself entered the sales and purchases. We also know that she hired someone to do her bookkeeping and also hired an accountant. It was suggested, and counsel for the appellant also relied on this point, that these persons were in fact responsible for the errors detected by the audit. And yet nothing in Ms. St-Gelais's testimony can explain the errors, and neither Mr. St-Pierre nor the accountant were called to testify as to what they did or did not do in performing their duties with respect to the requirements of the Act. It is quite clear that the bookkeeping or accounting system suffered marked deficiencies throughout the period in issue. In the circumstances, sufficient evidence of due diligence is clearly lacking.
+
+[21] As regards the ITCs that were disallowed, the evidence shows that they were claimed in respect of personal purchases, not in the context of the operation of the business. No explanation was provided on this matter. It cannot therefore be said that evidence of due diligence was adduced in this instance.
+
+[22] In view of the foregoing, the appeal is dismissed with costs to the respondent.
+
+Signed at Ottawa, Canada, this 12th day of January 1999.
+
+"P.R. Dussault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 2nd day of September 1999.
+
+Erich Klein, Revisor
+

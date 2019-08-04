@@ -1,0 +1,80 @@
+Date: 19971114
+
+Docket: 97-824-GST-I
+
+BETWEEN:
+
+EQUINOX REALTY LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+(Delivered orally from the Bench at Calgary, Alberta, on October 31, 1997)
+
+Mogan, J.T.C.C.
+
+[1] This appeal concerns the goods and services tax (GST). The Appellant’s business is to develop older buildings. It buys older buildings; renovates them; and then leases them to tenants. In 1992, the Appellant leased certain premises to Jennifer and Anthony Clarke who operated a restaurant known as “Jennifer’s Jamaican Cuisine” (referred to hereafter as “JJC”). In 1993, the Appellant agreed with Jennifer and Anthony Clark to carry out substantial renovations on the premises of JJC. It was the Appellant’s understanding that the Clarkes would pay for the renovations. On or about October 18, 1993, the Appellant hand-delivered to Jennifer Clarke an Interim Statement of Account (Exhibit A-1) listing various contracts and other work which had been performed for JJC. According to Exhibit A-1, the amount owing by JJC was $58,876.45 including GST of $3,851.73.
+
+[2] Soon after the account was delivered, Jennifer Clarke informed the Appellant that she did not owe the money. After a few follow-up discussions with Jennifer and her lawyer, the president of the Appellant (Mr. Lionel Ravvin), was convinced that Jennifer and Anthony Clarke had no intention of paying the $58,876.45 or any part thereof. Mr. Ravvin then had a business decision to make. He could try to force collection of the account and probably lose JJC as a tenant or he could let the account lie dormant and probably keep JJC as a tenant. Mr. Ravvin decided that the Appellant would not make any attempt to collect the account. It was simply held in abeyance. In evidence, Mr. Ravvin stated that he made the decision because he thought that Jennifer and Anthony Clarke did not have the funds or other assets to pay the account, and he thought that it was better to have the regular flow of rent from JJC at the rate of approximately $5,100 per month.
+
+[3] The decision not to force collection of the account was made by the Appellant through Mr. Ravvin in early November 1993, within two or three weeks after the account was first delivered to Jennifer Clarke. Because the decision not to force collection was made so quickly after the account was issued, the account was not entered on the books and records of the Appellant. As I understand the evidence of Mr. Ravvin, it did not become part of the Appellant’s accounts receivable. It was left dormant or in a state of suspension but the Appellant did not forgive the debt or issue a credit note or any other document which would cause Jennifer and Anthony Clarke to think that the debt was not owing.
+
+[4] Although JJC did not at any time pay to the Appellant any part of the $58,876.45, JJC claimed an input tax credit of $3,851.73 with respect to its GST reporting period of October 1, 1993 to December 31, 1993. In January 1995, Revenue Canada performed a GST audit on JJC and learned that the account (Exhibit A-1) from the Appellant had not been paid. Ms. Debra Parkyn, the GST auditor, then contacted by telephone Mr. Ravvin and the Appellant’s bookkeeper, Ester Evin, to find out why the account had not been paid. Mr. Ravvin told Ms. Parkyn that the Appellant had not reported the GST of $3,851.73 connected with the account because it was not collected. Ms. Evin told Ms. Parkyn that the Appellant may write off the account in future if they should decide that it is a bad debt. Ms. Parkyn stated in evidence that she called the Appellant only because she was concerned that the account would never be paid. She also stated that she was sure that she explained to Mr. Ravvin or to Ms. Evin that she would have to allow the input tax credit to JJC because the Appellant did not regard the account as a bad debt.
+
+[5] On January 26, 1995, Ms. Evin sent a letter (Exhibit R-1) to Ms. Parkyn enclosing a copy of the account from the Appellant to Jennifer and Anthony Clarke. The letter from Ms. Evin to Ms. Parkyn reads as follows:
+
+Further to our telephone discussion today, enclosed please find Interim Statement of Account to Jennifer and Anthony Clark dated October 18, 1993.
+
+We were told around the same time that this matter was in dispute, it is still in dispute and has not been paid.
+
+On February 8, 1995, Revenue Canada issued a Notice of Reassessment to the Appellant for the reporting period October 1, 1993 to December 31, 1993 assessing GST of $3,851.73 plus interest of $212.70 plus penalty of $249.67. The Appellant has commenced this appeal from that assessment and has claimed a bad debt deduction under subsection 231(1) of the Excise Tax Act (the GST legislation). There are a number of provisions in the GST legislation which have a bearing on this appeal. Subsection 221(1) states:
+
+221(1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+
+This is the provision which required the Appellant to collect the GST from JJC with respect to the renovations done in the summer and fall of 1993. The GST was part of Exhibit A-1 even though no part of that account was ever paid. Subsection 169(1) commences with the following words:
+
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+
+...
+
+The formula is omitted because it is not relevant. It is important to note, however, that an input tax credit comes into existence where “during a reporting period of the person during which the person is a registrant, tax in respect of the supply ... becomes payable ...”. The tax does not have to be “paid” to produce an input tax credit; it need only be payable. When the account (Exhibit A-1) was delivered, JJC acquired an input tax credit if it owed the amount even if it had no intention of paying the amount.
+
+[6] It is apparent from the evidence of Ms. Parkyn that JJC claimed the input tax credit and that it was allowed after Ms. Parkyn’s audit. The Appellant has now been assessed GST for the last three months of 1993 in the same amount as the input tax credit which JJC claimed in the last three months of 1993. That is the amount of the GST which the Appellant included in its account (Exhibit A-1) for the supply of renovations but which was not reported because the Appellant decided so quickly not to attempt to collect the account. The question is whether the Appellant is entitled to a deduction under subsection 231(1) which states:
+
+231(1) Where a person has made a taxable supply (other than a zero-rated supply) for consideration to a recipient with whom the person was dealing at arm’s length, to the extent that it is established that the consideration and tax payable in respect of the supply have become in whole or in part a bad debt, the person may, in determining the net tax for the person’s reporting period in which the bad debt is written off in the person’s books of account or for a subsequent reporting period, deduct the amount determined by the formula
+
+A x B/C
+
+where
+
+A = the GST in respect of the supply
+
+(adapted wording);
+
+B = the consideration, tax and applicable provincial tax remaining unpaid and written off as a bad debt (adapted wording);
+
+C = the consideration, tax and applicable provincial tax (adapted wording);
+
+provided that the person reports the tax collectible in respect of the supply in the person’s return under this Division for the reporting period in which the tax became collectible and remits all net tax, if any, remittable as reported in that return.
+
+[7] In my opinion, the Appellant cannot succeed in this appeal because the Appellant did not satisfy the basic condition in subsection 231(1) which might otherwise permit the deduction. That basic condition is expressed in the last few lines of the subsection immediately following the formula; and the important words are:
+
+... provided that the person reports the tax collectible in respect of the supply in the person’s return under this Division for the reporting period in which the tax became collectible and remits all net tax, if any, remittable as reported in that return.
+
+Mr. Ravvin was very forthright in stating that the Appellant did not report the tax collectible in respect of Exhibit A-1 for the last three months of 1993 and did not remit the tax because the Appellant had made the business decision to leave the account in abeyance and make no attempt to force collection.
+
+[8] Apart from the Appellant’s failure to report the tax and to remit the tax which prevents the Appellant from relying on subsection 231(1), I am satisfied from the evidence of Ms. Parkyn and Mr. Ravvin that the amount of the account in Exhibit A-1 was not written off by the Appellant in January 1995. Even at the hearing of this appeal, Mr. Ravvin stated that although he was satisfied that Jennifer and Anthony Clarke did not have enough assets to pay the account, he said words like “Perhaps they will win a lottery”. The Clarkes had not received a credit note or any other document forgiving the debt; and the Appellant had not in its own books and records written off the debt because it had so quickly decided in early November 1993 not to enter the amount in Exhibit A-1 as an account receivable.
+
+[9] For these reasons, the appeal is dismissed.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

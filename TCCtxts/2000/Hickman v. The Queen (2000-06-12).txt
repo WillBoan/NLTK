@@ -1,0 +1,88 @@
+Date: 20000927
+
+Docket: 98-2465-IT-G
+
+BETWEEN:
+
+MARGARET HICKMAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+____________________________________________________________________
+
+Counsel for the Appellant: Barrie Heywood
+
+Counsel for the Respondent: John P. Bodurtha and Marcel Prevost
+
+___________________________________________________________________
+
+Reasons for Judgment
+
+(Delivered orally from the Bench at St. John's, Newfoundland, on June 9, 2000)
+
+Bowie J.T.C.C.
+
+[1] The Appellant has been reassessed under the Income Tax Act (the Act) for the 1993 taxation year. By that reassessment the Minister of National Revenue (the Minister) added to her income for the year $425,365 as a dividend which, he says, is deemed to have been paid to her under the provisions of section 84.1 of the Act. She appeals from that assessment. The facts are not in dispute.
+
+[2] On December 1, 1993 the Appellant owned 42 of the 100 issued shares of Marco Management Limited (Marco). CSC Holdings Limited (CSC) owned 48 shares, and the other 10 were owned by David Martin. All the issued shares of CSC were owned by the Hickman Family Trust (the Trust); the trustees were Margaret Hickman, her husband, Thomas Hickman and Randell Earle, who is not related to either of them. The beneficiaries of the trust were the three children of Margaret and Thomas Hickman, all of whom were over the age of majority.
+
+[3] Evidence was led by the Appellant that the trust deed provides that decisions of the trust may be taken by a majority of the trustees. The Appellant and her husband and their three children were, at the material time, directors of CSC: see Exhibit A-1, Document No. 7.
+
+[4] On December 1, 1993 the Appellant sold her 42 shares of Marco to CSC for $425,407, plus one preference share of CSC. It is this amount, less the $42 paid up value of the shares, which the Minister has assessed as a deemed dividend.
+
+[5] Section 84.1 of the Act, so far as it is relevant to the issues in this appeal, reads:
+
+(1) Where ... a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the "subject shares") of any class of the capital stock of a corporation resident in Canada (in this section referred to as the "subject corporation") to another corporation (in this section referred to as the "purchaser corporation") with which the taxpayer does not deal at arm's length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to "payer corporation" and to "particular corporation" were read as "subject corporation" and "purchaser corporation" respectively) with the purchaser corporation,
+
+...
+
+If that preamble to the rest of the section is satisfied, then a dividend is deemed to have been paid.
+
+[6] In broad terms then, three things must be shown for a deemed dividend to be triggered under this section. First, there must be a disposition by the taxpayer of shares of a corporation to another corporation; second, the taxpayer and the purchasing corporation must not be dealing at arm's length; and third, after the transaction, the two corporations must be "connected". The Appellant does not dispute that the first and the third requirements are met here, nor does she dispute the computation of the amount of deemed dividend, if as a matter of law, there is one. The point she takes is that the second requirement has not been met. She says that there is no evidence to establish that in fact she and CSC were not dealing at arm's length, and that she and CSC are not related, or deemed to be related, and so they deal at arm's length. In this, she relies on subsection 251(1) of the Act which provides:
+
+For the purposes of this Act,
+
+(a) related persons shall be deemed not to deal with each other at arm's length; and
+
+(b) it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm's length.
+
+[7] The arguments on both sides seemed to revolve around paragraph 84.1(2)(d) of the Act, which, so far as it is relevant, provides that:
+
+For the purposes of the section,
+
+...
+
+(d) a trust and a beneficiary of the trust or a person related to a beneficiary of the trust shall be deemed not to deal with each other at arm's length;
+
+[8] The Minister's position, as I understood it, was that this paragraph together with subparagraphs 251(2)(b)(i) and (iii) somehow combine to deem the Appellant and CSC to have been related at the time of the transaction. The position taken by the Appellant was that paragraph 84.1(2)(d) should be read in such a way as to restrict its operation to only those trusts of the kind described in subparagraph 84.1(2)(c)(ii), notwithstanding that its words seem plain, because to give it broader effect would somehow render subparagraph 84.1(2)(c)(ii) redundant.
+
+[9] Both of these arguments miss the point. The operation of paragraph 84.1(2)(d), even assuming that it is not limited in the way that Mr. Heywood suggests that it should be, is only to deem the trust and the Appellant to be not dealing with each other at arm's length. It does not deem them to be related and so, it cannot supply the requirement of "relatedness" which subparagraph 251(2)(b)(iii) requires. That subparagraph provides that for the purposes of the Act related persons include "a corporation and ... any person related to a person described in subparagraph (i) or (ii); ...". Subparagraph (i) provides that a corporation is related to "a person who controls the corporation, if it is controlled by one person". It can be seen, therefore, that simply being not at arm's length will not trigger subparagraph 251(2)(b)(iii). For that to happen, the Appellant and the trust must be related to each other.
+
+[10] Mr. Heywood's vigorous argument that the scope of paragraph 84.1(2)(d) should be limited to trusts described in 84.1(2)(c)(ii) is therefore redundant. It is also contrary to recent authority which is binding on me: see Canada v. Antosko [1994] 2 S.C.R. 312 per Iacobucci J. at 327 and LGL Limited v. The Queen 99 DTC 675, affirmed 2000 DTC 6108. The provisions which do operate in relation to the issue of arm's length, in this case are paragraphs 251(1)(a), 251(2)(a), subparagraph 251(2)(b)(ii), subsection 251(4) and paragraph 251(5)(a).
+
+[11] Margaret Hickman and Thomas Hickman are related by marriage. They are two of the three trustees of the trust. On the evidence of Mr. Harris, they can, by a majority vote, control decisions of the trust. They are, therefore, a related group which is in a position to control CSC by reason of paragraph 251(5)(a) which reads
+
+... where a related group is in a position to control a corporation, it shall be deemed to be a related group that controls the corporation whether or not it is part of a larger group by which the corporation is in fact controlled;
+
+Therefore, by the operation of subparagraph 251(2)(b)(ii), the Appellant and CSC are related; therefore, they do not deal at arm's length; that is provided by paragraph 251(1)(a) which says:
+
+For the purposes of this Act,
+
+(a) related persons shall be deemed not to deal with each other at arm's length; ...
+
+[12] The requirements of section 84.1 are therefore all satisfied, and the disposition resulted in a deemed dividend.
+
+[13] The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 28th day of September, 2000.
+
+"E.A. Bowie"
+
+J.T.C.C.
+

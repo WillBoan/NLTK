@@ -1,0 +1,802 @@
+Date: 20030130
+
+Docket: 2001-2224(GST)G
+
+BETWEEN:
+
+STATE FARM MUTUAL AUTO INSURANCE COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+_______________________________________________________________
+
+Appeals heard with the appeals of State Farm Fire & Casualty Company (2001-2226(GST)G) on October 29, 30 and 31, 2002, in Toronto, Ontario.
+
+Before : The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances:
+
+Counsel for the Appellant:
+
+Susan L. Van Der Hout
+
+Sean C. Aylward, Esq.
+
+Valerie-Ann Cherneski
+
+Counsel for the Respondent:
+
+Marilyn Vardy
+
+John McLaughlin, Esq.
+
+_______________________________________________________________
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Excise Tax Act, notices of which bear number 05CP0105470 dated January 6, 2000 and number 05CP0105521 dated February 22, 2000 be allowed and the assessments be vacated.
+
+The appellant and State Farm Fire & Casualty Company are entitled to one set of counsel fees at trial on the basis of one senior counsel and one junior counsel.
+
+Signed at Toronto, Canada, this 30th day of January 2003.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+Date: 20030130
+
+Docket: 2001-2226(GST)G
+
+BETWEEN:
+
+STATE FARM FIRE & CASUALTY COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+_______________________________________________________________
+
+Appeals heard with the appeals of State Farm Mutual Auto Insurance Company (2001-2224(GST)G), on October 29, 30 and 31, 2002, in Toronto, Ontario.
+
+Before : The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances:
+
+Counsel for the Appellant:
+
+Susan L. Van Der Hout
+
+Sean C. Aylward, Esq.
+
+Valerie-Ann Cherneski
+
+Counsel for the Respondent:
+
+Marilyn Vardy
+
+John McLaughlin, Esq.
+
+_______________________________________________________________
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Excise Tax Act, notices of which bear number 05CP0105471 dated January 6, 2000 and number 05CP0105507 dated February 7, 2000 be allowed with costs and the assessments be vacated.
+
+The appellant and State Farm Mutual Auto Insurance Company are entitled to one set of counsel fees at trial on the basis of one senior counsel and one junior counsel.
+
+Signed at Toronto, Canada, this 30th day of January 2003.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+Date: 20030130
+
+Docket: 2001-2224(GST)G
+
+BETWEEN:
+
+STATE FARM MUTUAL AUTO INSURANCE COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent,
+
+AND
+
+Docket: 2001-2226(GST)G
+
+BETWEEN:
+
+STATE FARM FIRE & CASUALTY COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+REASONS FOR JUDGMENT
+
+Bowman, A.C.J.
+
+[1] These appeals were heard together and are from assessments of Goods and Services Tax ("GST") made under the Excise Tax Act ("ETA"). The issue is whether expenses of the appellants' head office in Bloomington, Illinois that were allocated to the Canadian Regional Office ("CRO") are subject to the GST. There are two assessments for each company, one covering the period January 1, 1991 to December 31, 1994 and one covering the period January 1, 1995 to December 31, 1997.
+
+[2] State Farm Mutual Auto Insurance Company and its wholly owned subsidiary State Farm Fire & Casualty Company (collectively referred to as "State Farm") are licensed to carry on business in 50 states of the United States and three provinces of Canada (Ontario, Alberta and New Brunswick). State Farm is the largest automobile, fire and casualty insurer in North America. The insurance operations are carried on through 25 regional offices consolidated into 13 zones. The Canadian operation is a separate zone and the CRO is located in Scarborough, Ontario. Insurance is sold by independent agents ("agents") operating throughout the three provinces in which State Farm carries on business in Canada. The CRO is a permanent establishment of State Farm as defined in subsection 123(1) of the ETA. The agents are not.
+
+[3] Section 220 of the ETA reads
+
+For the purposes of this Division, where a person carries on a business through a permanent establishment of the person in Canada and through another permanent establishment outside Canada,
+
+(a) any transfer of personal property or rendering of a service by one permanent establishment to the other establishment shall be deemed to be a supply of the property or service;
+
+(b) in respect of that supply, the permanent establishments shall be deemed to be separate persons who deal with each other at arm's length;
+
+(c) the value of the consideration for that supply shall be deemed to be the fair market value of the supply at the time the property is so transferred or the service is so rendered; and
+
+(d) the consideration for that supply shall be deemed to have become due and to have been paid, by the permanent establishment (in this paragraph referred to as "the recipient") to which the property was transferred or the service was rendered, to the other permanent establishment at the end of the taxation year of the recipient in which the property was transferred or the service was rendered.
+
+[emphasis added]
+
+Paragraph 220(c) was substituted in 1993, applicable to property transferred and services rendered after September 14, 1992. It formerly read:
+
+(c) the value of the consideration for that supply shall be deemed to be the amount that is, or would be if the person were taxable under the Income Tax Act, determined with respect to that supply for the purpose of calculating the income of the permanent establishments for the purposes of that Act.
+
+[4] The head office of State Farm in Bloomington, Illinois ("head office") does a number of things that are essential to its insurance business. I shall set out later in these reasons for judgment details on just what it does. It allocates to the various regional offices throughout North America, including the CRO, the expenses of these operations on the basis of a mathematical formula. It is the amounts so allocated that the CCRA has subjected to the GST as a deemed supply of a service under section 220.
+
+[5] One may surmise that if the assessing action of the CCRA under section 220 could be upheld it would have to be implicitly based on the following premises:[1]
+
+(a) head office rendered a service to the CRO;
+
+(b) this was deemed to be a supply of a service rendered by a separate arm's length person;
+
+(c) the services were administrative or management services and were accordingly imported taxable supplies as defined in section 217;
+
+(d) they were not exempt financial services;
+
+(e) only 1% of the activity at head office related to underwriting and 5% to claims;
+
+(f) the consideration for the supply deemed to have been paid by the CRO to head office is the amount of the expenses so allocated to the CRO.
+
+[6] The appellants' position is:
+
+(a) if the activities performed by head office are composite supplies, they are a composite supply of exempt financial services;
+
+(b) in the alternative if the supply is a mixed supply it is a supply to which section 139 applies because over 50% of the costs represent financial services;
+
+(c) in the further alternative, if it is a mixed supply to which section 138 applies, the costs allocated to the CRO are incidental to the supply to the customers of an insurance policy;
+
+(d) substantially all of the head office activities are performed by employees and so they are not "services" as defined in subsection 123(1);
+
+(e) the allocation of expenses by head office to the CRO while necessary for regulatory purposes and the determination of profit for Canadian income tax and accounting purposes does not constitute a consideration for a service that is "rendered" to the CRO by head office;
+
+(f) the last argument is taken directly from the appellants' written opening statement. It reads
+
+From neither a plain meaning nor a policy perspective should GST be exigible on these expense allocations.
+
+[7] Since the essence of the appellants' argument is that if head office performed a service for the CRO it was an exempt financial service, I shall set out the relevant statutory provisions upon which the appellants rely.
+
+[8] Subsection 123(1):
+
+"taxable supply" means a supply that is made in the course of a commercial activity;
+
+"commercial activity" of a person means
+
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+
+...
+
+[emphasis added]
+
+Paragraph (a) in the definition of commercial activity was amended in 1997, deemed to have come into force on April 24, 1996. It formerly read:
+
+(a) a business carried on by the person (other than a business carried on by an individual or a partnership, all of the members of which are individuals, without a reasonable expectation of profit), except to the extent to which the business involves the making of exempt supplies by the person.
+
+Paragraph (a) was first substituted in 1993, applicable after September 1992. It formerly read:
+
+(a) any business carried on by a person.
+
+"exempt supply" means a supply included in Schedule V.
+
+[9] Part VII of Schedule V reads in part
+
+1. A supply of a financial service is not included in Part IX of Schedule VI.
+
+2. A supply deemed under subsection 150(1) of the Act to be a supply of a financial service.
+
+[10] Subsection 123(1):
+
+"financial service" means
+
+...
+
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument
+
+...
+
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+
+...
+
+(h) the underwriting of a financial instrument,
+
+...
+
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i)
+
+...
+
+but does not include
+
+...
+
+(t) a prescribed service.
+
+[emphasis added]
+
+"financial instrument" means
+
+...
+
+(c) an insurance policy,
+
+...
+
+"insurance policy" means
+
+(a) a policy or contract of insurance (other than a warranty in respect of the quality, fitness or performance of tangible property, where the warranty is supplied to a person who acquires the property otherwise than for resale) that is issued by an insurer, including ...
+
+"service" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person.
+
+[emphasis added]
+
+[11] Section 139:
+
+For the purposes of this Part, where
+
+(a) one or more financial services are supplied together with one or more other services that are not financial services, or with properties that are not capital properties of the supplier, for a single consideration,
+
+(b) the financial services are related to the other services or the properties, as the case may be,
+
+(c) it is the usual practice of the supplier to supply those or similar services, or those or similar properties and services, together in the ordinary course of the business of the supplier, and
+
+(d) the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the total of all amounts, each of which would be the consideration for a service or property so supplied if that service or property had been supplied separately,
+
+the supply of each of the services and properties shall be deemed to be a supply of a financial service.
+
+[emphasis added]
+
+Section 139 was substituted in 1993, applicable to supplies made after September 14, 1992. It formerly read:
+
+For the purposes of this Part, where a supply of one or more financial services is made together with one or more properties or services that are not financial services and the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the single consideration, the supply of all the properties and services shall be deemed to be a supply of financial services.
+
+[12] Section 138:
+
+For the purposes of this Part, where
+
+(a) a particular property or service is supplied together with any other property or service for a single consideration, and
+
+(b) it may reasonably be regarded that the provision of the other property or service is incidental to the provision of the particular property or service,
+
+the other property or service shall be deemed to form part of the particular property or service so supplied.
+
+[13] Section 218:
+
+Subject to this Part, every recipient of an imported taxable supply shall pay to Her Majesty in right of Canada tax calculated at the rate of 7% on the value of the consideration for the imported taxable supply.
+
+[emphasis added]
+
+Section 218 was amended in 1997, in force April 1, 1997 (subsection 218(2) has been moved to section 218.2). It formerly read:
+
+(1) Subject to his Part, every recipient of an imported taxable supply shall pay to Her Majesty in right of Canada a tax equal to 7% of the value of the consideration for the imported taxable supply.
+
+(2) The tax under this Division on an imported taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+
+[14] Section 217:
+
+In this Division, "imported taxable supply" means
+
+(a) a taxable supply (other than a zero-rated or prescribed supply) of a service made outside Canada to a person who is resident in Canada, other than a supply of a service that is ...
+
+[emphasis added]
+
+[15] In each case where emphasis has been added it is to indicate the portions of the provision upon which the appellants specifically rely.
+
+[16] I shall begin my analysis by describing the respective roles of the agents, the CRO and the head office.
+
+[17] The insurance business can be divided into four broad categories:
+
+(a) underwriting, which encompasses writing the policies, determining the type of risks that will be underwritten, determining the price of coverage, determining the policy endorsements and what markets will be targeted;
+
+(b) sales of policies, called acquisition;
+
+(c) settling and payment of claims; and
+
+(d) investment of funds needed to comply with the legal requirement for investing to cover reserves.
+
+The Agents
+
+[18] The agents sell the policies to customers. They meet the customers, discuss rates, feed the relevant information about the customers into the computer and, using programs developed at head office (the "ECHO System"), determine the customers' insurability and the rates that the insured will pay. This is a purely mechanical computer generated process involving no element of discretion or judgement on the part of the agents. The agents have the authority to bind State Farm by issuing a pink slip evidencing coverage the moment an approved insurance application is completed. The form of application is developed at head office under the ECHO System and the insurance policy that is issued to the insured is in the form developed at head office.
+
+[19] Claims made under a policy are in the vast majority of cases reported to the agents who complete a loss report on the ECHO System. Small claims (formerly $2,000 and now $5,000) can be paid directly by the agents. All claims are reported to the CRO.
+
+The CRO
+
+[20] When an application is completed and coverage provided the agent submits the completed application and insurance contract to the CRO. CRO checks it to ensure that the information is correct and that the risks meet the criteria established in head office. CRO determines whether the rates are correct in accordance with head office criteria or whether the insured has made any misrepresentation (such, for example, as failure to disclose convictions for traffic offences).
+
+[21] If an error was made affecting the customer's rate the CRO would adjust the rate (up or down) and inform the customer. If the customer objects to the adjustment the policy is terminated. If the misrepresentation is serious enough to warrant termination the coverage is terminated upon notice to the insured. The vast majority of contracts are accepted as submitted and terminations are very rare.
+
+[22] The CRO is not involved in the selling of insurance. If a prospective customer wants to buy insurance he or she is referred to an agent.
+
+[23] Where a claim is made to an agent a loss report is made to the CRO on the ECHO System. If the claim is beyond the limit payable by the agent the CRO reviews the claim, notes it in the system and sets a claim reserve. This information goes into the head office database.
+
+[24] Apart from the small claims handled by the agents the CRO handles virtually all claims, including litigation. It has its own adjusters and investigators. On very rare occasions CRO may consult head office in respect of a claim.
+
+[25] CRO carries out the investment transactions in Canada in accordance with the directions of head office, which makes the investment decisions. The reserves are in accordance with the provisions of the Insurance Act. The portion of the head office expense attributed to investments that is allocated to the CRO is not in issue in these appeals.
+
+Head Office
+
+[26] Since it is the expenses of head office allocated to the CRO that are the subject of these appeals and that the Minister considers to be in respect of taxable supplies, I shall endeavour to describe with some particularity what head office does.
+
+[27] Before I do so, one or two preliminary observations should be made. The basic assumption as pleaded was that the
+
+Appellant's head office rendered Head Office or management Services to the Canadian Branch with respect to policies issued to Canadians.
+
+[28] No assumption was pleaded and no fact alleged with respect to the value of the consideration or the fair market value of the supply.
+
+[29] The Minister's unpleaded assumption that one percent of the expenses related to underwriting and five percent related to claims was disclosed in the examination for discovery of an officer of the Crown that was read into the record.
+
+[30] While it is true that section 220 of the ETA deems the foreign permanent establishment and the Canadian permanent establishment to be separate persons dealing at arm's length and effect must be given to that deeming provision, the fact remains that head office and the various regional offices including the CRO are all part of one single economic entity (strictly speaking, two corporations). Paragraph (a) of section 220 requires that there be a rendering of a service by one permanent establishment to another. What is deemed is
+
+(a) that the two permanent establishments are separate arm's length persons; and
+
+(b) if there is a rendering of the service it is deemed to be a supply of the service.
+
+[31] That is as far as the statutory fiction goes. No statutory fiction is created in section 220 that deems an accounting allocation of a portion of a head office expense to be evidence of the rendering of a service or that the amount so allocated is equal to the fair market value of the service. Whether a service is rendered by the head office to the CRO (a condition precedent to the application of section 220) and what the fair market value, if any, is of such a service is something that must be determined independently of any deeming provision. The Crown's failure to plead any assumptions or facts in this respect might well, in itself, have been sufficient to justify allowing the appeals.
+
+[32] At all events I think the function performed by head office is something that must be determined separately from the question whether a service is being rendered.
+
+[33] At head office the following functions are performed.
+
+Underwriting
+
+[34] Before I describe the role of head office in the underwriting function it is important that I set out just what I understand this term to encompass. The determination of the meaning of words in a statute is generally regarded as a question of law although there is some respectable authority to the effect that it may involve a question of fact or a mixed question of fact and law. For example in Girls' Public Day School Trust v. Ereaut, [1931] A.C. 12, Lord Warrington of Clyffe, in referring to a decision of Denman J. in Blake v. The Mayor of the City of London, 18 Q.B.D. 437; 19 Q.B.D. 79, said at p. 28:
+
+Denman J., in giving judgment in the King's Bench Division, makes some remarks very apposite to the present case. He says (at p. 444): "There is no definition of a public school to be found in any text-book or Act of Parliament. The question, therefore, seems to me to be a mixed question of law and fact, and indeed is very much in the nature of a question of fact," and at p. 445, "I do not think that the words 'public school' in this Act must be construed as words of art. The question is what is the common understanding of those words, and that is a question not of law but of fact." With the views so expressed I agree.
+
+[35] Whether the meaning of underwriting in the ETA is a question of fact, law or mixed fact and law, it must be construed within the context of the statutory provisions in which it is found. I propose therefore to look to three sources for guidance.
+
+(a) Dictionaries.
+
+In Craies on Statute Law, 7th Ed., the following appears at p. 161:
+
+No doubt reference to the better dictionaries does afford, either by definition or illustration, some guide to the use of a term in a statute. Lord Coleridge said, in R. v. Peters: "I am quite aware that dictionaries are not to be taken as authoritative exponents of the meanings of words used in Acts of Parliament, but it is a well-known rule of courts of law that words should be taken to be used in their ordinary sense, and we are therefore sent for instruction to these books." And in Camden (Marquis) v. I.R.C., Cozens-Hardy M.R. said: "It is for the court to interpret the statute as best it may. In so doing the court may no doubt assist themselves in the discharge of their duty by any literary help they can find, including of course the consultation of standard authors and reference to well-known and authoritative dictionaries."
+
+(b) Departmental practice and interpretation.
+
+Departmental interpretations are of course not binding but they can be of assistance. In Silicon Graphics Limited v. The Queen, 2002 DTC 7112 at p. 7120 the Federal Court of Appeal made the following observation.
+
+[52] Of course, statements by Revenue Canada officials are not declarative of the law. However, in the recent case of Canadian Occidental (U.S.) Petroleum Ltd. v. The Queen, [2001] DTC 295 (T.C.C.), Bowman, A.C.J. noted that while the administrative position of Revenue Canada is not declarative of the law, it is nonetheless of assistance in circumstances where the Minister seeks to reassess the taxpayer in a manner inconsistent with its own administrative position. Associate Chief Justice Bowman wrote at 299:
+
+The Court is not bound by departmental practice although it is not uncommon to look at it if it can be of any assistance in resolving a doubt: Nowegijick v. The Queen et al., 83 DTC 5044. I might add as a corollary to this that departmental practice may be of assistance in resolving a doubt in favour of a taxpayer. There can be no justification for using it as a means of resolving a doubt in favour of the very department that formulated the practice.
+
+(c) The usage within the industry as understood by an expert.
+
+In Redford v. M.N.R., 71 DTC 5053, Walsh J. referred to the opinion of an expert accounting witness to determine the meaning of "capital gain" or "capital loss" in the absence of specific definitions.
+
+Dictionaries
+
+[36] A useful starting point is found in the Dictionary of Insurance (Lewis E. Davids):
+
+Underwriting The process of selecting risks for insurance and determining in what amounts and on what terms the insurance company will accept the risk.
+
+[37] The Oxford English Dictionary (Second Edition):
+
+Underwrite
+
+2. ...
+
+
+
+b. To subscribe (a policy of insurance) thereby accepting the risk of insurance.
+
+c. To carry on the business of insurance.
+
+[38] The Random House Dictionary of the English Language (2nd Ed.):
+
+Underwrite 1. to write under or at the foot of, esp. under other written matter. 2. to sign one's name, as to a document. 3. to show agreement with or to support by or as if by signing one's name to, as a statement or decision. 4. to bind oneself to contribute a sum of money to (an undertaking): Wealthy music lovers underwrote the experimental concerts. 5. to guarantee the sale of (a security issue to be offered to the public for subscription). 6. Insurance. a. to write one's name at the end of (a policy), thereby becoming liable in case of certain losses specified in the policy. b. to insure. c. to assume liability to the extent of (a specified sum) by way of insurance. d. to select or rate (risks) for insurance. -v.i. 7. to underwrite something. 8. to carry on the business of an underwriter. [1400-50; late ME, trans. of L subscribere to write underneath, sign, SUBSCRIBE]
+
+Departmental Interpretation
+
+[39] The second source to which I turn is the CCRA's own interpretation.
+
+[40] On the examination for discovery of the representative of the CCRA counsel read to the witness a portion of a GST interpretation on Paramedical Services Used in the Underwriting of a Life Insurance Policy.
+
+81. Q. No, I'm not asking you what you did. I'm asking you a very specific question. Did you make an inquiry in relation to what the CCRA's views are as to what constitutes the elements of an insurance business and hence a financial service during the period this audit was undertaken? Yes or no?
+
+A. We did not.
+
+82. Q. Maybe this will assist you, then. I'll ask you to now turn to Exhibit A-8, which is the GST Interpretation on Paramedical Services Used in the Underwriting of a Life Insurance Policy and, at least for the consumption of the public, this is what one can discern regarding the CCRA position. If I could ask you to turn to page 2 of that analysis, have you ever seen this document before?
+
+A. I have not.
+
+83. Q. So you did not see it at the time of the audit.
+
+A. I did not.
+
+84. Q. I'll read it in for the purpose of the record, and the passage is somewhat lengthy. Under Analysis, the Agency states in this document which was released March 23, 1998:
+
+"We agree that the underwriting of an insurance policy is included under paragraph (h) of subsection 123(1) of the definition of 'financial service' as an exempt financial service. The position of the department is that the process of the underwriting of a financial instrument applies, in this instance, to an insurer as it is the insurer who is undertaking to enter into the contract of insurance.
+
+"In the underwriting process as it applies to the insurance industry, it is our view that the underwriting must evaluate whether to accept or reject a risk for insurance. In the process of underwriting an insurance policy, the insurer usually considers the following: an application for insurance; rating the risk and evaluating the potential for loss; deciding whether to accept the risk for insurance; extent of coverage of insurance and the cost to insure.
+
+"Underwriting is a multistage process involving an approval (or rejection) of the risk by the underwriting department of the insurer which is required before the policy will be issued. Normally the whole process of underwriting is performed by the insurer who underwrites and issues an insurance policy. Underwriters base their underwriting decisions on specific data which enable them to evaluate the risk element in underwriting. The information and services normally used by underwriters may include actuarial services (necessary for rating the policy), inspection, investigating, credit rating and administrative services. After weighting all necessary information obtained through those services the underwriter decides whether the risk in question is the type the insurance company wants to underwrite, or is willing to underwrite."
+
+Do you have any reason to believe that the statement made by the Agency in regard to its understanding of this element of the insurance business does not reflect a correct statement of the Agency's view?
+
+MR. ERLICHMAN: Do you know?
+
+THE DEPONENT: I don't know.
+
+85. BY MRS. VAN DER HOUT: Q. If this publicly published document regarding the Agency's view of subsection 123(1) of the Excise Tax Act does not represent the Agency's current view or its view as to what properly constitutes underwriting in the insurance context, could you please advise?
+
+MR. ERLICHMAN: Yes, we will undertake that.
+
+[41] In response to the undertaking given in question 85, counsel for the respondent wrote as follows:
+
+Page 21, Question 85:
+
+The interpretation referred to is the CCRA's administrative position.
+
+Expert opinion
+
+[42] The appellants called as an expert witness Mr. David J. Oakden. He was highly qualified. I quote a portion of his curriculum vitae:
+
+David J. Oakden is a Principal of Tillinghast - Towers Perrin responsible for the Property and Casualty consulting practice in the Toronto office. He first joined Tillinghast in 1985 and rejoined the firm in 1999 after 3 years as Senior Vice President and Chief Actuary for Zurich Canada. Mr. Oakden is a Fellow of the Canadian Institute of Actuaries and the Casualty Actuarial Society, an Associate of the Society of Actuaries and a Member of the American Academy of Actuaries. He graduated from the University of Toronto in 1973 with a doctorate in mathematics.
+
+[43] A portion of his report reads as follows.
+
+I. NATURE OF INSURANCE
+
+Insurance is a promise to pay if a specified future event occurs (e.g. an automobile accident) in exchange for a consideration (i.e. a premium). The promise is contained in a contract, which is often all the customer sees since most customers do not have claims under their policies.
+
+The basic functions of the insurance company are
+
+∎Acquisition,
+
+∎Underwriting,
+
+∎Claims, and
+
+∎Investment.
+
+This split is so basic that all companies engaged in the insurance business in the US and Canada are required to assign all of their expenses to five categories which correspond to the above four functions, as well as a category for taxes (other than federal taxes and real estate taxes)("Taxes"). These five categories are shown in Appendix A. The details of these four insurance functions are discussed below.
+
+Acquisition
+
+Acquisition in the insurance context involves the sale of an insurance product. The acquisition process is similar to the sales processes in most businesses. In the industry, generally, that function is assumed by agents or brokers. In the case of State Farm, it uses agents who are independent contractors.
+
+Acquisition includes the following:
+
+- procuring business and developing the sales force;
+
+- writing policy contracts;
+
+- receiving premiums and paying commissions;
+
+- advertising.
+
+Underwriting
+
+Underwriting is fundamentally comprised of the following:
+
+- the design of the product the company is willing to sell;
+
+- the pricing of the policy that the company has decided to sell;
+
+- the gathering of relevant information from a potential insured in respect of a potential sale of insurance; and
+
+- the process of reviewing the application and the decision of whether to continue the policy as issued or, in exceptional cases, modify it.
+
+Claims
+
+Claims is fundamentally concerned with:
+
+- the development of policies and procedures for discharging the insurer's responsibility to pay the claims;
+
+- receiving the claims;
+
+- verifying that the claim is covered by the policy;
+
+- determining the appropriate amount of the claim;
+
+- providing assistance to the insured in dealing with the loss; and
+
+- paying the claim.
+
+Between the time when the claim is first reported and the time the final payment is made, the claims department is responsible for estimating the total cost of the claim.
+
+Investment
+
+Investment is the management of the funds received by the insurance company in relation to its business.
+
+Other
+
+In addition to the basic insurance functions described above, insurance companies, like all companies, have administrative and support services to support the individuals who carry out the insurance functions, as set out above.
+
+[44] I think the above definitions, departmental interpretation and expert opinion are accurately descriptive of the underwriting function when it is used with reference to a financial instrument such as an insurance policy. In section 123 of the ETA I can see no reason to treat it as a "word of art", to use the expression of Denman J. or as having a special or technical meaning. It is used in its ordinary sense and it must be construed in the context in which it is used in the statute, that is to say, within the provisions of the ETA relating to financial services.
+
+[45] The underwriting function is integral to the insurance business. It is an important aspect of what head office does. In Bloomington, Illinois the insurance policies are drafted and the procedures developed whereby they are sold and issued. Head office determines the level of risk, the type of insurance offered, the rates and the amount of insurance to be sold in a particular market. It gathers information from its branches throughout North America which it analyses with its underwriting and actuarial department, all of which enters into the determination of the form of policies, the rates and the risks to be assumed.
+
+[46] Mr. Oakden in his report described the function of head office in this area of underwriting as follows.
+
+▪ UNDERWRITING - At State Farm, Headquarters is responsible for designing the insurance product and process by which the product is sold, underwritten and issued. The design of an insurance product is much more than drafting the terms of the policy (in some cases the policy wording is set in regulation). The design of the product would include the selection of a target market, determining a combination of coverages that would be attractive to the target market, designing an appropriate classification scheme, determining a pricing algorithm, establishing commission rates, designing the applications that must be prepared by the potential insureds and establishing the underwriting rules and determining the price.
+
+[47] These conclusions are consistent with and confirmed by the evidence of Mr. John Killian, the Vice President, Finance of State Farm and Mr. Jeff Wickware, Superintendent of Financial Statements in the CRO.
+
+[48] The inevitable conclusion that emerges is that the underwriting function as described above is performed substantially in head office - the design of the policies, the determination of the risks to be assumed, the fixing of rates, the drafting of endorsements and the development and dissemination of policies and procedures to be followed by the regional offices and the agents in selling policies.
+
+[49] One may usefully contrast the underwriting that is done at head office, in the sense in which I use it above, with what is done at the CRO. 97% of completed contracts submitted by agents are accepted. Coverage is terminated in only about 2.5% of such contracts. If the activities at the CRO can be described as underwriting at all they are a subordinate and mechanical character. The role of the CRO in the overall State Farm business is important. It has its own management, claims department, underwriting department, human resources department, data processing department, policy issue and billing department, accounting department and it settles investment transactions. It is obviously integral to the overall business organization, but its role within the underwriting function is very limited. The major underwriting function is performed at head office. The Minister's assumption that only one percent of the expenses allocated to CRO by head office related to underwriting is in my view unsupported by the evidence.
+
+Acquisition
+
+[50] The term "acquisition" in the insurance industry simply means "sales". The selling function is largely performed by the agents. Neither the CRO nor head office deals directly with customers nor do they sell policies. The agents obtain information from the prospective customer, complete the application, the form of which has been developed by head office in the ECHO System, which determines the information required and the rate to be quoted. The contract is issued (usually electronically) and, subject to the possibility that the CRO may adjust the rate up or down, or the unlikely event that CRO may terminate the policy, the policy is complete.
+
+[51] The front line selling is performed by the agents, using procedures, criteria, pricing and forms of insurance policy developed by head office. CRO's role is largely limited to reviewing completed applications and insurance contracts.
+
+Claims
+
+[52] Head office's involvement in claims is not significant. Apart from small claims handled by agents directly, the CRO deals with all claims, including litigation. Rarely are claims referred to head office.
+
+Investment
+
+[53] Head office makes the investment decisions and the investment transactions are carried out by CRO. The investments, which make up the reserves in respect of the Canadian business, are held in Canada. State Farm does not contest the application of the GST to the portion of the head office expenses allocated to CRO.
+
+[54] Before I leave the description of the functions performed by head office I should mention briefly the role of computer systems in the business of State Farm. Computers are an essential tool in operation of a business as large and complex as the one with which we are concerned here. One of the witnesses stated that State Farm has the largest computer network outside of the US federal government.
+
+[55] The computer systems department at head office is largely involved in collecting and analysing data which is used to determine rates, to track trends, and to prepare pricing models developed by actuaries and financial models.
+
+[56] The ECHO System analyses the data sent to it daily by the regional offices with respect to premiums and losses. From this the ECHO System develops policies, prices and determines what areas of insurance the business should move into, or drop.
+
+[57] The CRO has its own computer system which it uses for data processing, billings and policy mailings. The computer systems and the staff of computer programmers gather, organize and analyse the information relating to the Canadian business, including premiums and claims, and send the results to head office where they are fed into the ECHO System, digested, stored and used for the purposes described above.
+
+[58] The accounting rules developed by the National Association of Insurance Commissioners (the "NAIC") are the next aspect of this case that warrants mention. The relevance of these rules in this case is that all expenses incurred in the carrying on of the insurance business are, after they have been assigned to one of the two State Farm companies (the appellants), allocated to five major expense groups - loss adjusting expense, acquisition, underwriting/general, taxes and investment. Once this is done the head office expenses are allocated to the regional offices in accordance with a formula based upon transaction unit counts ("TUCs") or policies in force. Taxes are not allocated to the CRO because it pays taxes to Canada separately.
+
+[59] The above is a broad overview of the allocation of expenses to the regional offices. A more detailed description follows. It summarizes the statements in Mr. Oakden's expert witness report.
+
+[60] The genesis of the NAIC rules was Regulation 30 issued by the State of New York in 1948. Regulation 30 was adopted by other states and in 1950 by the NAIC whose responsibility is to develop and keep current accounting rules relating to the expenses of insurance companies. The purpose of these rules is to establish standard procedures for insurance companies to follow in classifying expenses. They require the assignment of all expenses to one of the five categories noted above. Within each of these categories the NAIC rules require the allocation of expenses to particular lines of business.
+
+[61] The expenses allocated in accordance with the NAIC rules are reported in the Annual Statement and the Insurance Expense Exhibit. They are used in making income tax calculations.
+
+[62] The reporting of expenses of foreign insurance companies that operate in Canada through branches is also regulated by the Government of Canada through the Office of the Superintendent of Financial Institutions ("OSFI"). State Farm, as a foreign insurance company, is required to file an annual statement called the P & C-1. P & C stands for property and casualty.
+
+[63] The P & C-2 statement and the NAIC annual statements serve similar purposes. The P & C-2 statements are less detailed than the NAIC statements but the OSFI requires that expenses be grouped into five categories which are essentially the same as the NAIC expense categories. They are adjustment, acquisition, insurance/general, taxes and investment.
+
+[64] Mr. Oakden pointed out in his report that prior to 1993 acquisition expenses were included in the insurance/general category. After 1993 they were split out from insurance/general and put in a separate category.
+
+[65] The assignment of expenses is done by the use of a function code. The function code does not however completely or automatically result in the assignment of expenses to a particular category - some function codes refer to activities that cannot readily be assigned to one of the five categories and there is required a survey of the work performed that underlies the particular expense before there is an allocation to one or more of the categories.
+
+[66] The allocation of the expenses to the regional offices (including the CRO, except for taxes) is based on a formula that uses TUCs, which is based upon a physical count of new business transfers, reinstatements, renewals and cancellations of policies in force.
+
+[67] For State Farm Mutual Automobile Insurance Company head office expenses are allocated to the CRO based on TUCs. In the case of State Farm Fire & Casualty Company loss adjustment expenses are allocated on the basis of TUCs whereas acquisition and other underwriting expenses are allocated based on policies in force.
+
+[68] Before I continue with this somewhat tedious description of the accounting practices of State Farm, using the procedures and formulae outlined above, let us pause to consider just what the point of all this is. Section 220 of the ETA deems the rendering of a service from a foreign permanent establishment to a Canadian permanent establishment to be a supply of a service between arm's length persons. The value of the consideration for the supply is deemed to be the fair market value of the supply. That consideration is deemed to have been paid by the permanent establishment to which the service was rendered to the other at the end of the taxation year of the recipient in which the service was rendered.
+
+[69] At least three determinations are required:
+
+(a) that a service was rendered;
+
+(b) what the fair market value of the service was;
+
+(c) whether the service was an exempt supply.
+
+[70] The required ingredients of taxability were not pleaded as assumptions with any degree of specificity. Apart from formal matters, the only "assumptions" pleaded were that "the Appellants' Head Office rendered Head Office or Management Services to the Canadian Branch with respect to policies issued to Canadians" and that "the rendered services were a single composite supply."
+
+[71] Paragraph 13 of the reply in each case states
+
+That the supply was identified and its value determined pursuant to insurance accounting rules emphasizes that a supply to the Canadian Branch was made.
+
+[72] This is argument and casts no onus on the appellants. I revert then to the question posed above, what is the significance of the accounting practices? Although it was not pleaded as an assumption (and therefore no onus was cast on the appellants) one might surmise that the Minister if he thought about it at all perceived the accounting as establishing both that a service was rendered and that the value of the service was commensurate with the amount allocated by the accounting procedures. I propose to consider whether the evidence supports this view. If it does I must then consider whether the rendering of the service constituted an exempt supply. If the evidence does not support the view that a service was rendered with a fair market value equal to the amount allocated we do not even get to section 220 of the ETA.
+
+[73] Tabs A-1 to A-3 of Exhibit R-1 of the respondent's book of documents are the operating expenses statements for State Farm Mutual Automobile Insurance Company filed with the OSFI for the years 1993 to 1997. In the 1993 statement the amount of $5,949,000 is shown under Home Office Overhead. For 1994 the figure under this heading is $9,546,000. For 1995 it is $13,542,000, for 1996, $13,644,000 and for 1997 it is $20,940,000. The numbers for the Home Office Overhead for 1991 and 1992 are $4,229,000 and $5,426,000 respectively. For 1991, 1992, 1993 and 1994 the 7% GST was based precisely upon the amount in the statements. I have been unable to reconcile the figures in the statements for 1995 and 1996 with the tax assessed. However the significance of these statements is that they appear to have formed the basis of assessments yet the Home Office Overhead category appears not to have been broken down among the various expense categories and I am left with the impression that the CCRA made no analysis of the nature of the head office expenses that were attributed to the CRO.
+
+[74] The appellants' exhibits with respect to the allocation are more detailed. All expenses attributed to Canada are initially allocated by group, as set out in Tab 3 of Exhibit A-4, which reads in part as follows.
+
+Expenses are assigned to one of the following expense groups per Regulation 30 guidelines:
+
+Loss Adjustment Expense - (internal group 2)
+
+All expenses related to the adjusting and recording of policy claims.
+
+Acquisition, Field Supervision and Collection - (internal group 3)
+
+All commission type expenses and other expenses wholly or partially connected with the production of business, collection of premiums, writing of policies, or incurred for the purpose of assisting agents.
+
+General - (internal group 4)
+
+Expenses related to underwriting activities and all expenses not assignable to other expense groups.
+
+Taxes - (internal group 5)
+
+All taxes, licenses and fees, except taxes on investments and federal income taxes.
+
+Investment - (internal group 6)
+
+All expenses incurred in investing funds and obtaining investment income (including expenses and taxes relating to owned real estate).
+
+[75] The witness John Killian, Vice President, Finance, of State Farm, stated that approximately 30% of head office expenses related to underwriting, 30% to claims, 30% to sales and agency (acquisition) and 10% to investment. I do not have the evidence that would permit me to verify these percentages independently and so I must take them as prima facie evidence of an approximation made by a senior and knowledgeable officer of the company. However, even assuming that these percentages are roughly accurate in the overall picture of State Farm's total business, they can not necessarily be applied to the allocation of head office expenses of the Canadian operation. Tab 3 of Exhibit A-6 shows a total allocation of Home Office Expenses to Canada in 1994 of $8,386,259.70 (I assume US$) of which $1,652,687.83 related to loss adjustment. Yet the evidence was clear that practically nothing with respect to claims made in Canada was done by head office. The evidence does not support the view that the allocation to the regional offices, including Canada, bore any necessary relationship to the work actually done for the regional offices. It was based on TUCs or, in some cases, policies in force.
+
+[76] The conclusions to be drawn from the accounting evidence are:
+
+(a) The allocation of the expenses to the various categories, or groups, is based on the NAIC rules and is essentially functional. The allocation of expenses to the categories of acquisition, claims, underwriting and investment may, within a range of indeterminate magnitude, be roughly accurate. There is no evidence to the contrary and it is probable that the sophisticated procedures and rules that have been developed by the NAIC are, given the purposes that they are intended to fulfil, as accurate a reflection of the function of the expenditures as one is likely to find.
+
+(b) Once the head office expenses are allocated to the several categories, the allocation to the regional offices, including the CRO, is not on a functional basis, that is to say, the allocation is not necessarily commensurate with the services, if any, which head office performs for the local offices. It is based upon the mathematical formula described above. This method, which is based on TUCs and on policies in force may bear some rough correlation to the value to the regional offices of what is done at head office simply because the larger the volume of business in the regional office the greater is likely to be the benefit to be derived from the head office activities, particularly in such matters as underwriting, pricing, drafting of endorsements and statistical analysis, which are an integral part of the underwriting function. However this is not a matter of scientific precision so much as a matter of common sense. Presumably whatever is done at head office should benefit the business as a whole, wherever the business is carried on.
+
+(c) The head office expenses that are allocated to the CRO are not for management or administration services. The evidence is clear that head office provides no management or administration services to the CRO. The CRO had its own staff and provided its own management and administration. The function of head office insofar as it related to the operations in Canada lay in the development of insurance policies, pricing, determination of what types of insurance to offer, what markets to enter or to drop, the collation and analysis of statistical or actuarial information and the other functions that comprise the activity of underwriting.
+
+(d) The accounting evidence does not establish that a service was rendered or what the fair market value of that service was.
+
+[77] The problem with section 220 is that it creates a statutory fiction, or, if you will, an artificial presumption, but it does not direct us to pursue that presumption to its logical (or illogical) conclusion. It leads us to the end of the diving board but provides us with no pool into which to jump. It is possible that the inarticulate premise of section 220 is that foreign permanent establishments render services to Canadian permanent establishments but this is not stated. If that is the premise it does not matter that one may be the foreign head office and one the Canadian branch or vice versa. Yet the premise has no rational basis. One could as readily say that a branch office in Canada renders services to a foreign head office. If one enjoys philosophical conundrums, one might ask if the brain renders a service to the hand or the hand renders a service to the brain. The simple fact is that parts of a single organism, whether physical or financial, whether concrete or abstract, do not render services to each other and deeming the parts to be separate persons, as section 220 does, does not overcome this fundamental conceptual obstacle, even though branch accounting practices and subsection 4(1) of the Income Tax Act require a reasonable allocation of expenses to sources in a particular place.
+
+[78] My concern here however is more mundane, and it is to determine whether the head office expenses allocated to the CRO are subject to the GST. The ETA says that if services are supplied by a foreign permanent establishment to a Canadian permanent establishment the consideration for the supply of the services is deemed to be the fair market value of the supply of the services. The respondent has not pleaded as assumptions or proved as facts the factual underpinning necessary to support the assessments. This is enough to dispose of the appeals. Even if the Crown had pleaded as assumptions the necessary ingredients of taxability the appellants have demolished them.
+
+[79] Even if it could be said that head office provided a service to the CRO that service consisted substantially, if not entirely, in the area of underwriting insurance policies. The assumption that "the Appellants' Head Office rendered Head Office or Management Services to the Canadian Branch with respect to policies issued to Canadians" is, to the extent that it speaks of head office services, meaningless, and to the extent that it speaks of management services, wrong. The unpleaded assumption that only 1% of the activities at head office related to underwriting and 5% to claims is unsupported by and is, in fact, contrary to the evidence.
+
+[80] I have been unable to see in the evidence that any management or administrative services were rendered by head office to the CRO. If services were rendered at all they related to a supply of financial services as defined in subsection 123(1) of the ETA. If any administrative or management services that cannot be attributed to the categories of insurance contemplated by the NAIC rules are performed by head office for the CRO they are incidental to the financial services supplied. Accordingly section 138 would apply.
+
+[81] One of the few assumptions pleaded was that the supply of services by head office to the CRO was a composite supply. What I take this to mean is that financial services were supplied with services that were not financial services. If there were any non-financial services supplied they were far less than 50% of the total and, even if we accept the amounts allocated as evidence of the fair market value and therefore the consideration (another unpleaded but conjecturally implicit assumption), it will be obvious that the consideration for the financial services is substantially in excess of 50% and therefore section 139 of the ETA applies. This is clear from Tab 10 of Exhibit A-4, which deals with 1994 and 1996 but which I take as representative of all years in issue.
+
+[82] The respondent's argument is that none of the services supplied by head office to the CRO are financial services as defined by section 123 and that they are all administrative and managerial services. The respondent's argument would essentially restrict financial services, in the context of the insurance business, to the issuance of an insurance policy to an insured. With respect I believe this interpretation is much too narrow, quite apart from the fact that it is inconsistent with the CCRA's own interpretation and administrative practice.
+
+[83] I do not think, however, that the difference between the appellants and the respondent is on a question of law or in the interpretation of the statute. It appears to me reasonably clear that the CCRA accepts the interpretation of financial service advanced by the appellants but did not, as a matter of fact, conclude that the head office was supplying such services to the CRO. At all events, I think the CCRA's conclusion is wrong on one of two alternative grounds:
+
+(a) If it accepts the appellants' interpretation of financial services but believes that as a factual matter the services, if any, that were provided were not financial services as defined it is wrong as a matter of fact.
+
+(b) If it believes that under no circumstances can a foreign head office ever supply to a Canadian permanent establishment anything other than managerial and administrative services and can never provide financial services it is wrong as a matter of law.
+
+[84] Counsel for the respondent referred at some length to a decision of the Judicial Committee of the Privy Council on appeal from the Court of Appeal of New Zealand in Inland Revenue Comr. v. Databank Systems Ltd., [1990] J.C.J. No. 35. Decisions of the Privy Council and the House of Lords are not binding on Canadian courts, but they are entitled to respect.
+
+[85] In that case Databank Systems Ltd. ("Databank") undertook to provide certain services to five clearing banks. The question was whether these services were exempt financial services under the New Zealand Goods and Services Tax legislation, which bears some resemblance to our legislation.
+
+[86] The following appears in the judgment of Lord Templeman, on behalf of the majority (Lord Ackner dissented).
+
+3 ... In the course of the present proceedings a brief of evidence was submitted by Mr. Shaw who was the manager of the bank customer group of Databank. He explained that:
+
+"Databank undertakes four major activities for the Banks:
+
+(a) Providing a financial clearing system covering various types of transactions (and forming part of the settlement process).
+
+(b) The posting of transactions to customer accounts, and maintenance of computer files of customer accounts.
+
+(c) Network management.
+
+(d) Software support and development."
+
+4 The question is whether the services supplied by Databank pursuant to the Agreement dated 17th July 1969 are financial services exempt from the Goods and Services Tax ("G.S.T."). The provisions of the Agreement appear to provide computer services consistently with the first three objects of Databank set out in its Memorandum of Association as follows:
+
+"(a) To provide electronic data processing facilities and services for members of the Company and other persons;
+
+(b) To purchase take on lease or otherwise acquire and to install operate and maintain machines computers apparatus equipment and facilities of all kinds for the sorting processing calculating collating storing and recording by electronic electrical mechanical or photographical means or by any other means whatsoever of accounts records data and information of every description for all purposes;
+
+(c) To collect collate prepare record process and circulate statistical information of every description and for all purposes,
+
+...
+
+25 Databank carries on a business activity which involves Databank in the supply of services to the banks for a consideration and that activity is therefore within the scope of section 6. Databank being involved in the requisite activity, the supply of services by Databank is by section 8 chargeable to G.S.T. unless the supply is an exempt supply of financial services as provided by section 14 and defined by section 3. Exemption is not afforded to "a person" who is "involved" in "an activity" which "results in" the supply of financial services; such an exemption, (which would present great difficulties of definition and application) is nowhere to be found in the wording of the Act. Databank is involved in the supply of financial services by the banks to their customers; such a supply by the banks to the customers is exempt by the express words of the Act. Databank neither supplies services to a customer recipient nor charges the customer. Databank is the supplier of services which are not financial services to the banks under and by virtue of the Agreement dated 17th July 1969 for a consideration paid by the recipient of those services.
+
+...
+
+28 The services by Databank enable the banks to supply financial services to their customers for an exempt consideration. Databank does not supply services of any kind to the customer for a consideration. Databank supplies computer services to the banks for a taxable consideration and there is nothing in section 60 or elsewhere to exempt that supply from G.S.T.
+
+29 The services supplied by Databank to the banks enable the banks to provide financial services to their customers. Services provided by Databank to the banks constitute the most modern and efficient machinery yet devised for the purposes of enabling the banks to provide financial services to their customers. Databank supplies the machinery, in the form of computers, hardware, software and operators. The banks make use of the machinery supplied by Databank in order that the supply of financial services by the banks to the customer may be efficient and speedy. The supply of machinery is not the supply of financial services.
+
+[87] I do not believe this case has any application here. To supply computer services to a company that provides financial services to its customers does not involve the supply of a financial service to that company. In the State Farm case we have companies carrying on the business of supplying financial services to customers throughout North America. Its head office is deemed to be a separate entity from the Canadian permanent establishment. If it renders a service to the Canadian permanent establishment the consideration is deemed to be the fair market value of the service.
+
+[88] If we assume all of the ingredients otherwise giving rise to taxability under section 220 (none of which have been pleaded as assumptions) we still revert to the fact that State Farm's business is the supplying of financial services. Even if we postulate a hypothetical supply of a service for a consideration that hypothetical service still falls within the definition of financial service and it is therefore exempt.
+
+[89] In light of this conclusion it is not necessary for me to deal with the argument advanced by counsel for the appellants that if any services are performed they are performed by employees of the appellants and are therefore not services as deemed in subsection 123(1), nor the argument that allocation of expenses by head office does not constitute consideration for a service that is rendered by head office to the CRO. There is considerable merit in these points but I express no concluded view on them. The conclusions stated above are sufficient to dispose of the appeals.
+
+[90] The appeals are allowed and the assessments made under section 220 of the Excise Tax Act on the amounts of head office expenses allocated to the Canadian Regional Office are vacated.
+
+[91] The appellants are entitled to one set of counsel fees at trial on the basis of one senior counsel and one junior counsel.
+
+Signed at Toronto, Canada, this 30th day of January 2003.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NOS.:
+
+2001-2224(GST)G, 2001-2226(GST)G
+
+STYLE OF CAUSE:
+
+Between State Farm Mutual Auto Insurance Company and Her Majesty The Queen
+
+and
+
+Between State Farm Fire & Casualty Company and Her Majesty The Queen
+
+PLACE OF HEARING
+
+Toronto, Ontario
+
+DATE OF HEARING
+
+October 29, 30 and 31, 2002
+
+REASONS FOR JUDGMENT BY:
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT
+
+January 30, 2003
+
+APPEARANCES:
+
+Counsel for the Appellants:
+
+Susan L. Van Der Hout
+
+Sean C. Aylward, Esq.
+
+Valerie-Ann Cherneski
+
+Counsel for the Respondent:
+
+Marilyn Vardy
+
+John McLaughlin, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellants:
+
+Name:
+
+Susan L. Van Der Hout
+
+Firm:
+
+Osler, Hoskin & Harcourt LLP
+
+Toronto, Ontario
+
+For the Respondent:
+
+Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] These were not explicitly pleaded as assumptions or as separate facts and no onus is cast upon the appellants to rebut them. Unpleaded assumptions cast no onus on the appellants, The Queen v. Bowens, 96 DTC 6128 at p. 6129.
+

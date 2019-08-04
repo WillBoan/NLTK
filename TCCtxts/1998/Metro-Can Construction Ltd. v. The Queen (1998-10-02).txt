@@ -1,0 +1,150 @@
+Date: 19981002
+
+Docket: 95-3210-IT-G
+
+BETWEEN:
+
+METRO-CAN CONSTRUCTION LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie, J.T.C.C.
+
+[1] These appeals are from reassessments for income tax for the taxation years 1989 and 1990. The only issue raised is one of interpretation of the provisions of the Income Tax Act (the Act), specifically the inter-relation of section 80, which governs the treatment of gains arising through forgiveness of debt, and section 96, which governs the taxation of income derived from a partnership. The Minister of National Revenue (the Minister) has assessed the Appellant on the basis that section 80 is to be applied at the partnership level in respect of debts of a partnership which have been forgiven; the Appellant takes the position that section 80 is to be applied at the level of the partners, not the partnership.
+
+[2] The facts giving rise to the appeals have been concisely stated by counsel for the parties in the following Agreed Statement of Facts.
+
+1. The Appellant is a private company incorporated under the provision of the British Columbia Company Act and having a place of business at 415 - 15225 - 104th Avenue, Surrey, British Columbia, V3R 1N5.
+
+2. The Appellant was a parent company of Elvo Developments Ltd. ("Elvo") and Bevo Developments Ltd. ("Bevo") which in turn were corporate partners of a partnership known as Gramar Developments ("Gramar").
+
+3. During its 1986, 1987 and 1988 taxation years Gramar had property consisting of land (the "Land") and a building (the "Building") in Abbotsford, British Columbia.
+
+4. The Building had an undepreciated capital cost of $885,415 at March 31, 1986, prior to any reduction in respect of any forgiveness of debt.
+
+5. In the fiscal periods of Gramar ending March 31, 1986, March 31, 1987 and March 31, 1988 the following debts owed by Gramar were forgiven (the "Debt Forgiven"):
+
+Year ending March 31, 1986 $ 80,696,00
+
+Year ending March 31, 1987 $331,508.00
+
+Year ending March 31, 1988 $ 45,224.00
+
+TOTAL $457,428.00
+
+6. In its fiscal period ending March 31, 1988, Gramar sold the Land and Building for $578,000.
+
+Elvo and Bevo's Treatment of Debt Forgiven
+
+7. In filing their income tax returns for their 1986, 1987, and 1988 taxation years, Elvo and Bevo, the partners of Gramar, applied the amount of Debt Forgiven to reduce their non-capital losses for preceding years, and then to reduce the adjusted cost base of their capital property.
+
+8. In its fiscal period ending March 31, 1988, Gramar determined that it had a terminal loss of $469,388 on the disposition of the Building. Gramar calculated the terminal loss using an undepreciated capital cost for the Building of $885,415. Gramar did not take into account any amount of the Debt Forgiven in determining the undepreciated capital cost of the Building at the time of disposition.
+
+9. Gramar calculated its loss from business or property for its fiscal period ending March 31, 1988 to be $471,107 on the basis of the terminal loss calculation referred to in Paragraph 8, above. Gramar allocated the losses as calculated by it to Elvo and Bevo in their respective taxation years ending February 28, 1989 pursuant to Section 96(1) of the Income Tax Act, R.S.C. 1985, 5th supplement, as amended (the "Income Tax Act").
+
+10. The net non-capital losses of Elvo and Bevo, calculated on the basis of the amounts allocated to them by Gramar as set out in paragraph 9 above, were carried forward to the Appellant following the wind-up of Elvo and Bevo into the Appellant on May 31, 1989 and were applied by the Appellant to offset its income in its 1989 and 1990 taxation years.
+
+Minister's Treatment of the Debt Forgiven:
+
+11. By notices of reassessment (the "Notices of Reassessment") dated June 1, 1993 the Respondent assessed the Appellant to tax on income for the 1989 and 1990 taxation years on the basis that the amount deductible in computing the Appellant's income in respect of non-capital losses for prior taxation years was $173,094 in 1989 and nil in 1990, rather than the $239,358 and $155,651 amounts claimed in, respectively, the Appellant's 1989 and 1990 taxation years.
+
+12. In so assessing the Appellant, the Respondent assumed that the provisions of Section 80 of the Income Tax Act applied to reduce the undepreciated capital cost of the Building owned by Gramar by the amount of the Debt Forgiveness rather than to reduce the non-capital losses and adjusted cost base of capital property of Gramar's partners, Elvo and Bevo. As a result of applying the provisions of Subsection 80(1) to Gramar rather than to its partners the Minister made the adjustments referred to in Schedules I to XI attached to the Reply to Notice of Appeal herein, and, Inter alia, recalculated Gramar's net loss and its capital loss for its 1988 fiscal year which were then allocated to Elvo and Bevo, and revised the capital gains, taxable capital gains and net income of Elvo and Bevo for their 1989 taxation year and adjusted their non-capital losses for their 1987, 1988 and 1989 taxation years. These adjustments resulted in a total reduction of $221,915 to the non-capital loss balances of Elvo and Bevo which could be carried forward at May 31, 1989. As a consequence of these adjustments made by the Minister the total non-capital losses that were carried forward to the Appellant in its 1989 taxation year upon the winding-up of Elvo and Bevo were reduced to $173,094 and no non-capital losses were available from the wind-up to apply to the Appellant's 1990 taxation year.
+
+13. The Appellant objected to the Notices of Reassessment by Notices of Objection dated August 16, 1993.
+
+14. The Respondent confirmed the Notices of Reassessment by a Notice of Confirmation dated June 19, 1995.
+
+I shall not reproduce Schedules I to XI attached to the Reply to the Notice of Appeal, which are referred to in paragraph 12. It is sufficient to say that there is no dispute between the parties as to the computations involved in those Schedules.
+
+[3] Subsections 80(1) and 96(1) of the Act, as they appeared at the relevant time, read as follows.
+
+80(1) Where at any time in a taxation year a debt or other obligation of a taxpayer to pay an amount is settled or extinguished after 1971 without any payment by him or by the payment of an amount less than the principal amount of the debt or obligation, as the case may be, the amount by which the lesser of the principal amount thereof and the amount for which the obligation was issued by the taxpayer exceeds the amount so paid, if any, shall be applied
+
+(a) to reduce, in the following order, the taxpayer's
+
+(i) non-capital losses,
+
+(i.l) farm losses,
+
+(ii) net capital losses, and
+
+(iii) restricted farm losses,
+
+for preceding taxation years, to the extent of the amount of those losses that would otherwise be deductible in computing the taxpayer's taxable income for the year or a subsequent year, and
+
+(b) to the extent that the excess exceeds the portion thereof required to be applied as provided in paragraph (a), to reduce in prescribed manner the capital cost to the taxpayer of any depreciable property and the adjusted cost base to him of any capital property.
+
+...
+
+96(1) Where a taxpayer is a member of a partnership, his income, non-capital loss, net capital loss, restricted farm loss and farm loss, if any, for a taxation year, or his taxable income earned in Canada for a taxation year, as the case may be, shall be computed as if
+
+(a) the partnership were a separate person resident in Canada;
+
+(b) the taxation year of the partnership were its fiscal period;
+
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person, and a computation were made of the amount of
+
+(i) each taxable capital gain and allowable capital loss of the partnership from the disposition of property, and
+
+(ii) each income and loss of the partnership from each other source or from sources in a particular place,
+
+for each taxation year of the partnership;
+
+...
+
+[4] The scheme of section 96 of the Act is that the income, the losses, the taxable capital gains and allowable capital losses of a partnership are required to be computed, at the partnership level, and separately for each partnership activity, as though each activity of the partnership were a separate person, so that the partners each may include their share of the partnership income or loss, and taxable capital gain or allowable capital loss, in the computation of their own income. The partnership is not deemed to be either a person or a taxpayer, but these computations are required to be made "... as if the partnership were a separate person resident in Canada...". The results of those computations are then attributed to each of the partners, according to their respective partnership shares, at the end of the fiscal period of the partnership, to be included by them in the computation of their income, non-capital loss, net capital loss, restricted farm loss, and farm loss for their taxation years within which the partnership's year end falls. For this purpose the amounts retain their character as to source in the hands of the individual partners.
+
+[5] As I have said above, the only issue before me is whether section 80 is to be applied at the partnership level, or at the partner level. Counsel for the Appellant argues, first, that the question is to be answered by asking the question "whose debt is it?" The answer, he says, is that it is the partners' debt, and therefore the consequences of forgiveness of it should be applied directly to the partners themselves, rather than to the partnership. The common law position is that the debts and liabilities of a partnership are the debts and liabilities of the partners.[1] The same is true of the assets of the firm, and of its profits; the law looks through the partnership to the individual partners. However, this is not determinative of the question before me. Although the partnership profits are those of the partners, they are computed at the partnership level for attribution among the partners, and they must be computed separately for each partnership activity, with the resulting income, gains and losses flowing through to the individual partners. For this purpose, among others, each transaction which affects the assets, the liabilities and the profits of the firm must be recorded and applied in the partnership accounts in the first instance. This applies to the forgiveness of a debt, just as it does to any other transaction.
+
+[6] Second, it is argued that because the definitions in the Act do not deem a partnership to be either a person or a taxpayer, section 80 should not be applied to it as though it were a taxpayer. I do not find this reasoning to be persuasive. What the Act provides is that the partners are to compute their incomes as if the partnership were a separate person. The partnership is not deemed to be either a person or a taxpayer, because the Act does not seek to impose tax at the partnership level. Nevertheless, for the purpose of computing the tax to be paid by the partners it is first necessary to compute the income, the gains and the losses of the partnership from each of its activities as if it were a tax-paying entity, and as if each of its activities were carried on by it as a separate person.
+
+[7] This position is well expressed by David J. Thompson, C.A. in an article entitled The Partnership as a Separate Person: Opportunities and Pitfalls:[2]
+
+19Subsection 248(1)
+
+20 See, for example, "Revenue Canada Panel", in Creative Tax Planning for Real Estate Transactions- Beyond Tax Reform and into the 1990s, 1989 Corporate Management Tax Conference (Toronto: Canadian Tax Foundation, 1989) 8:1-59, question 9, at 8:23.
+
+[8] Some support for the Appellant's position is to be found in the judgment of this Court in Topolewski,[3] and in that of the Federal Court in Gordon.[4]In both of those cases the taxpayers were members of a partnership which engaged in a farming activity which gave rise to substantial losses. The taxpayers in both cases were assessed by the Minister on the basis that their losses from farming were restricted by the provisions of subsection 31(1). It was argued for the taxpayers that subsection 31(1) is to be applied at the partnership level, and not to the individual partners. Reid J. in the Federal Court Trial Division and Tremblay J. in this Court both rejected that submission, and Reid J.'s judgment was upheld by the Federal Court of Appeal.
+
+[9] There is a significant distinction between section 31(1) and section 80, however. It is impossible to apply subsection 31(1) at the partnership level, as the income and the loss of the partners is, by reason of the specific words of section 96, to be computed "as if each partnership activity was carried on by the partnership as a separate person and a computation were made of the amount of each income and loss from each other source". Thus subsection 31(1) could never be applied at the partnership level, as each source of partnership income must stand alone under section 96.
+
+[10] In fact, the Appellant's argument could be made with equal force in respect of every provision of Division B of Part I of the Act, which governs the computation of income. Section 3, for example, opens with the words "The income of a taxpayer for a taxation year for the purposes of this Part is ...". Similar specific references to "a taxpayer" are found in sections 4, 5, 6, 8, 9, 12, 13, 14, 18, 20, and many other sections of Division B. If the failure to mention partnerships specifically in these sections were to lead to the conclusion that they do not have any application to partnerships, then the result would be to render section 96 totally inoperative.
+
+[11] It is true, as counsel for the Appellant pointed out in argument, that there are certain sections in Division B which make specific reference to a partnership. Counsel referred me to paragraph 13(7)(e), and subsections 66(16) and 85(4). Each of these provisions, for technical reasons relating to the specific provisions of the Act, creates special rules applicable to partnerships in particular situations. These are but three of several hundred specific references to partnerships found in Division B. It would be a pointless exercise to go through them all, but three examples will suffice. Subsection 14(1) provides for the inclusion of certain amounts in computing the income of a taxpayer, but in so doing, specifically excludes from its operation certain types of partnerships. Inferentially, those partnerships not excluded must be intended by Parliament to be included within the word "taxpayer" in that subsection. Subsection 15(2) makes reference to the inclusion, in certain circumstances, of a shareholder loan in the computation of the income of a partnership. Paragraph 35(1)(d) makes provision for the inclusion of certain amounts in computing the income of "an individual or partnership (other than a partnership each member of which is a taxable Canadian corporation)". All that is shown by this is that the provisions of Division B governing the computation of income apply to a partnership, subject to a substantial number of specific modifications, as therein set out. This leads toward the conclusion that section 80 is to be applied at the partnership level.
+
+[12] Finally, it was argued that as a partnership cannot carry losses forward or back, paragraph 80(1)(a) cannot be applied to a partnership, and that I should infer from that that Parliament did not intend section 80 to be applied at the partnership level. However, the fact that paragraph (a) cannot be applied to a partnership does not render the section incapable of being applied to a partnership at all. It simply means that in the context of a partnership, the gain from forgiveness of a debt will in every case be applied first to reduce the capital cost to the partnership of depreciable property, and the adjusted cost base to it of any capital property, pursuant to paragraph 80(1)(b). The section operates in exactly the same way for any individual or corporation which does not have losses in preceding taxation years to which the debt forgiveness may be applied. If Parliament had intended that section 80 was not to be operative at all in the case of a partnership, it could have specifically legislated that result, as it did for many other sections contained in Division B.
+
+[13] In my view this case falls within the following principle, first set out by Professor Dreidger,[5] and subsequently adopted by the Supreme Court of Canada:[6]
+
+... the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+[14] The clear intent of section 96 is that, in computing the income, the losses and the gains of a partnership which are to be taken into account by the partners, Division B of Part I of the Act is to be applied to each source of income or gain of the partnership, at the partnership level, except where the contrary is expressly provided, or where, as in the case of subsection 31(1), it is not possible to do so. As I have said above, it is possible to apply section 80 at the partnership level. I am therefore bound to conclude that the position taken by the Minister in assessing the Appellant is the correct one.
+
+[15] The appeals are dismissed, with costs.
+
+Signed at Ottawa, Canada, this 2nd day of October, 1998.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Lindley on the Law of Partnership, 15th ed., p. 34; p. 370.
+
+[2] Thompson, David J., C.A. Corporate Tax Planning in a Changing Business Environment, Corporate Management Tax Conference, 1994, p. 5:5.
+
+[3] Topolewski et al. v. M.N.R., 86 DTC 1824 (TCC).
+
+[4] Gordon v. The Queen, 86 DTC 6426; affirmed 89 DTC 5481.
+
+[5] Driedger E.A., Construction of Statutes (2nd ed. 1983) p.87.
+
+[6] Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, per Estey J. at 578.
+

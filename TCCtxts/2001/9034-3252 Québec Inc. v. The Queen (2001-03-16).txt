@@ -1,0 +1,108 @@
+Date: 20010316
+
+Docket: 2000-2533-GST-I
+
+BETWEEN:
+
+9034-3252 QUÉBEC INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment made under the Excise Tax Act ("Act") whereby the Minister of National Revenue ("Minister") claimed from the appellant a net tax amount of $3,291.28 plus accrued interest calculated thereon to the date of the assessment and a penalty in the amount of $446.85.
+
+[2] The evidence revealed that the amount of $3,291.28 corresponds to the total input tax credits credited to the appellant for the period from April 25, 1996 to March 31, 1999. The appellant does not dispute that these input tax credits were claimed with respect to the supply of residential units (in an 18-unit apartment building) by way of lease. While such a supply is an exempt supply pursuant to section 6 of Part I of Schedule V of the Act, the respondent submits that the business carried on by the appellant is not a commercial activity within the meaning of subsection 123(1) of the Act and therefore does not give rise to input tax credits pursuant to subsection 169(1) of the Act. The respondent also assessed penalties pursuant to section 280 of the Act. The relevant provisions read as follows:
+
+Division I – Interpretation
+
+123. (1) Definitions – In section 121, this Part and Schedules V to X,
+
+"commercial activity" of a person means
+
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+
+"exempt supply" means a supply included in Schedule V;
+
+Subdivision b – Input tax credits
+
+169. (1) General rule for [input tax] credits – Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+
+A x B
+
+where
+
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+
+B is
+
+. . .
+
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+
+280. (1) Penalty and interest – Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+
+(a) a penalty of 6% per year, and
+
+(b) interest at the prescribed rate,
+
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+
+Schedule V – Exempt Supplies
+
+(Subsection 123(1))
+
+Part I – Real Property
+
+6. [Rent] – A supply
+
+(a) of a residential complex or a residential unit in a residential complex by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the period throughout which continuous occupancy of the complex or unit is given to the same individual under the arrangement is at least one month; or . . .
+
+[3] Ms. Dobrila Solunac-Milic who testified for the appellant said that she was informed on the telephone by an agent from Revenue Canada (as it was then called) that she had to file goods and services tax ("GST") returns with respect to her rental business. She therefore filed an application for registration on May 10, 1996, on which she indicated that she wished the registration for the GST to take effect on April 25, 1996. She also indicated on that application, filed as Exhibit A-1, that the appellant's principal commercial activity was "gestion immobilière" (property management). Nobody told her, and she said she was not aware, that the rental of residential units was not a commercial activity. On May 14, 1996, Revenue Canada sent a letter to the appellant confirming the GST registration number. That letter indicated that the appellant had been assigned a quarterly reporting period and that her first GST return and amount of net GST payable was to cover the period from April 25, 1996 to June 30, 1996.
+
+[4] The appellant thereafter filed quarterly returns showing no GST collectible (except once, by mistake) but claiming input tax credits on tax paid in respect of all supplies used in the operation of its business. The input tax credits claimed were all credited to the appellant until the assessment of September 1, 1999 requiring that the appellant reimburse the input tax credits erroneously credited to it.
+
+[5] Ms. Solunac-Milic submits that she acted in good faith during all that period and cannot understand why the Minister waited for three years to advise her by way of an assessment that she wrongly claimed input tax credits. She says that she kept in casual contact with agents from Revenue Canada to be sure that the appellant's GST returns were properly filed.
+
+[6] It is clear from the provisions of the Act that the appellant was not entitled to any input tax credits. The owner of a residential apartment building whose business consists of renting apartments to tenants is a supplier of exempt supplies, and such a business falls outside the definition of "commercial activity". There is no entitlement to input tax credits in respect of taxable supplies acquired in the course of its rental business (see The Queen v. 398722 Alberta Ltd., 2000 G.T.C. 4091 (F.C.A.)).
+
+[7] The assessment is therefore well-founded with respect to the net tax assessed and the interest calculated thereon, which are the inevitable results of the increased tax liability. However, with respect to the penalties assessed pursuant to section 280 of the Act, they are susceptible of a defence of due diligence (see Canada v. Consolidated Canadian Contractors Inc. (C.A.), [1999] 1 F.C. 209). Due diligence is the degree of care that a reasonable person would take to ensure compliance with the Act.
+
+[8] In Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49 (T.C.C.) at page 49-7, Judge Bowman stated the following:
+
+. . . As stated above innocent good faith in the making of unintentional errors is not tantamount to due diligence. That defence requires affirmative proof that all reasonable care was exercised to ensure that errors not be made.
+
+[9] Judge Bowman added in that regard in Wong (E.) v. Canada, [1996] G.S.T.C. 73 (T.C.C.) at page 73-5:
+
+. . . It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department.
+
+[10] And more recently, he stated in 1036705 Ontario Ltd. v. The Queen, [2000] G.S.T.C. 73 (T.C.C.) at paragraph 20:
+
+. . . Due diligence is not the same as innocent good faith. I do not think that a phone call to some unnamed official in the tax department with a couple of broad general questions, eliciting equally broad and general answers, amounts to the type of due diligence required to avoid the penalty imposed under section 280. The trouble with the type of enquiry that was evidently made here is that I doubt that Mr. King really knew what questions to ask. Mr. King called some evidence to show that sometimes general answers given by departmental officials to broad questions are less than satisfactory. That is self evident. I doubt that one really needs evidence to support such a proposition. However, due diligence requires more than casual enquiries.
+
+[11] In all these cases, the Court was not inclined to conclude that a taxpayer exercised due diligence when he only made casual enquiries of the Department of National Revenue. After careful consideration, I am of the opinion that, in the present case, the evidence did not reveal that the appellant did all that could be reasonably expected of it to comply with the Act. Indeed, it appears that Ms. Dobrila Solunac-Milic did not disclose all the relevant information to the tax department. She contented herself with asking questions about the appellant's GST liabilities with respect to property management without specifying that the appellant was in the business of renting residential units. In fact, she did not seem concerned about the fact that the appellant claimed input tax credits during the period at issue, although she knew that the appellant did not have to collect GST from its tenants, as appears from the quarterly returns filed by the appellant during that entire period.
+
+[12] In the circumstances, given the fact that the appellant claimed input tax credits knowing that it did not collect GST from its tenants, it is my opinion that it ought to have consulted professionals who were knowledgeable in the matter of the goods and services tax or given more precise information to the people at Revenue Canada (as it was then called) so as to have a better idea of the appellant's GST liabilities.
+
+[13] The fact that it took three years for the Minister to realize that the appellant erroneously claimed input tax credits does not alter the appellant's duty to ensure that errors not be made. I therefore conclude that the appellant did not exercise due diligence and that the penalties shall be maintained.
+
+[14] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 16th day of March 2001.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+

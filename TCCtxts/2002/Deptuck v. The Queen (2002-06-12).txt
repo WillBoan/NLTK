@@ -1,0 +1,392 @@
+Date: 20020612
+
+Docket: 94-1787-IT-I
+
+BETWEEN:
+
+DON DEPTUCK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+
+
+O'Connor, J.T.C.C.
+
+[1] This appeal was heard at Vancouver, British Columbia on April 29, 2002. Numerous investors were affected by the same set of facts and agreements. See for example the decision of Christie, A.C.J. in Madsen et al. v. The Queen, 98 DTC 1668. That appeal affected eight such investors, two of whom were Madsen and Chutka. Christie, A.C.J. dismissed the appeals and his decision was upheld by the Federal Court of Appeal reported as Chutka et al. v. The Queen, 2001 DTC 5093 ("Chutka").
+
+FACTS
+
+[2] Subject to certain exceptions discussed later the facts and issues in this appeal are essentially the same as those in Chutka and are succinctly analysed in the decision of the Federal Court of Appeal in that case. I quote certain extracts from that decision:
+
+[1] These are appeals from a decision of the Tax Court of Canada dated March 23, 1998 dismissing eight appeals from reassessments under the Income Tax Act rejecting claims for deductions of capital cost allowance in respect of the 1982, 1983 and 1984 taxation years. The appeals were consolidated as one proceeding under Court file number A-267-98 by Order of Mr. Justice Stone on May 11th, 1999. The appellants were at all relevant times partners in a limited partnership named Inter-Teck Oil Limited Partnership ("ITOLP"). They seek to deduct from their income the losses pertaining to the purchase of units in the capital of ITOLP.
+
+
+
+Facts
+
+
+
+[2] ITOLP came into being as part of a larger scheme to fund the purchase and operation of machinery used to process sewage waste into marketable products, including oil. A brief description of this scheme is useful for contextual purposes. On February 22, 1979, International Resource Recovery Inc. ("IRRI") was incorporated under the laws of British Columbia. At all relevant times its sole shareholder and president was Jagroop S. Gill. IRRI was in the business of converting organic material at sewage treatment plants managed by the Greater Vancouver Sewerage and Drainage District into marketable material. One of the assets of IRRI was equipment designed and created by Mr. Gill to transform sewage waste into marketable products.
+
+
+
+[3] On November 9, 1982, Inter-Teck Management Ltd. ("ITML") was incorporated under the laws of British Columbia. Again, its sole shareholder and director was at all relevant times Mr. Gill. On November 10, 1982, a certificate made under section 51 of the B.C. Partnership Acts was filed with the Registrar of Companies. The certificate evidenced a limited partnership agreement that was entered into between ITML as the "General Partner" and Mr. Gill as the "Founding Partner", leading to the birth of ITOLP. The purpose of ITOLP was to "fund [...] the purchase and operation of machinery to be used to process sewage waste into marketable end products including oil". The partnership agreement was signed by Mr. Gill on behalf of ITML as general partner and by him on his own behalf as founding partner.
+
+
+
+[4] By a series of agreements entered into between IRRI and ITOLP -- also on November 10, 1982 -- it was arranged that the ITOLP would carry out the processing of sewage on premises subleased to it by IRRI and with processing equipment sold to it by IRRI. ITML undertook to manage ITOLP's project of converting the sewage waste into marketable products. IRRI was also contracted to maintain and provide technological advice and research to ITOLP in respect of the processing equipment.
+
+
+
+[5] Of interest in this appeal is the purchase and sale of the processing equipment which took place at a stated price of $6,850,000 payable over a period from December 1, 1982 to November 30, 1992. The transaction was made by conditional sales contract signed by Mr. Gill on behalf of the vendor IRRI and on behalf of the purchaser and ITOLP's general partner, ITML. Capital cost allowance was claimed on the basis that the equipment was included in Class 29 of Schedule II of the Income Tax Regulations. Accordingly, 25% of the equipment's capital cost was claimed in 1982 ($1,712,500), 50% in 1983 ($3,425,000) and 25% in 1984 ($1,712,500). These claims gave rise to alleged losses per unit in ITOLP of $6,402.30 in 1982, $6,358.54 in 1983 and $6,275.12 in 1984.
+
+
+
+[6] However, the Minister of National Revenue did not share the appellants' opinion as to the appropriate capital cost of the processing equipment. The Minister found that the sale of the equipment was not made at arm's length. Consequently, section 69(1)(a) of the Act applied to deem ITOLP to have acquired the equipment at its fair market value. On this approach, the Minister reassessed the capital cost allowance deductions on the basis of the equipment's fair market value which, in the Minister's view, was $422,000. The losses per unit in ITOLP were therefore reduced to $262 in 1982, $494 in 1983 and $685 in 1984.
+
+
+
+The Tax Court Decision
+
+
+
+[7] The appellants appealed the reassessments to the Tax Court, and on March 20, 1998, those appeals were dismissed. The Tax Court Judge was satisfied that this Court's decision in Sidhu v. Canada (M.N.R.) disposed of the appeals. In that decision, the Court upheld a decision of the Tax Court that the non-arm's length provisions of the Act applied to an employment relationship between a partnership and one of its employees for the purposes of determining insurable employment under the Unemployment Insurance Act. Even though the employee was not related to the individual partner who hired her, the contract of employment bound all of the partners by virtue of section 7 of the B.C. Partnerships Act, including the employee's son-in-law. Accordingly, the contract was tainted by the familial relationship and could not be taken as having been made at arm's length pursuant to paragraph 251(2)(a) of the Act. Applying that decision to the facts before him, the Tax Court Judge reasoned as follows
+
+
+
+While I am prepared to accept that a partnership is not a legal entity it does not, in my view, follow that a contract entered into between a partnership as one party and a corporation or individual as the other party cannot be a non-arm's length transaction as described in [section 251 of the Act]. The act of the General Partner ITML in signing the agreement to purchase the processing equipment for $6.85M bound itself contractually and it also obligated Mr. Gill, the Limited Partner. Together they constituted the partnership.
+
+
+
+[8] The Tax Court Judge similarly rejected the appellants' contention that, since the calculation of capital cost allowance and tax in general are to be made at the partnership level as though the partnership were "a separate person", then the non-arm's length provisions of the Act cannot apply because, on the one hand, paragraph 69(1)(a) only applies to acquirers that are "taxpayers" and, on the other hand, subsection 251(2)'s concept of "relatedness" only applies to individuals and corporations. In rejecting this argument, the Tax Court Judge, relying on ITOLP's membership as reflected in the certificate filed with the Registrar of Companies on November 10, 1982, concluded:
+
+
+
+Paragraph 96(1)(a) is not a statutory declaration that for the purposes of the Act a partnership is not a taxpayer...It deals with "a taxpayer who is a member of a partnership". That includes an individual or corporation. The income or loss of taxpayer partners is to be computed at the partnership level as if the partnership were a separate person. Income and losses are then allocated to the partners. The basic approach to the proper interpretation of paragraph 69(1)(a) in the context of these appeals is the same as that just utilized in respect of the arm's length provisions of the Act. Again when the sale and purchase agreement was entered into on November 10, 1982 there were only two partners in [the Partnership]. ITML was the General Partner and Mr. Gill the Limited Partner. Together they constituted the Limited Partnership. When ITML entered into the agreement it not only bound itself contractually to IRRI, but it also bound the Limited Partner, Mr. Gill, in the same way. Both IRRI and Mr. Gill are persons and taxpayers.
+
+
+
+[9] Accordingly, the Tax Court Judge decided that the non-arm's length provisions properly applied to deem the purchase price of the equipment to be its fair market value, namely $422,000. Since no significant evidence was tendered before the Tax Court to rebut the fair market value of the equipment as assessed by the Minister, the reassessments were accepted and the appeals dismissed.
+
+
+
+...
+
+
+
+The Parties' Submissions
+
+
+
+[10] The appellants argue that ITOLP's status under the Act makes it an ineligible target of paragraph 69(1)(a)'s fair market value deeming provision. The appellants start from the premise that paragraphs 96(1)(a) and (c) require that a partnership be treated like a "separate person" and that each "partnership activity (including the ownership of property)" be considered as if it were "carried on by the partnership as a separate person" for the purposes of calculating income tax. Buttressing this special recognition of the partnership as an entity separate from its members is section 1102(1a) of the Income Tax Regulations which requires that capital cost allowance be calculated as though "partnership property" were acquired by the partnership rather than the partners. Since the processing equipment was purchased "on account" of ITOLP, it must be taken as "partnership property" within the meaning of subsection 23(1) of the B.C. Partnership Act, and it must be treated for income tax purposes as having been acquired by ITOLP as an entity separate from the individual partners.
+
+
+
+[11] In the appellants' view, it follows from the foregoing that, contrary to the approach adopted by the Tax Court Judge, the non-arm's length provisions of the Act must as a matter of income tax law be applied at the partnership level as if ITOLP, not Mr. Gill or ITML, acquired the processing equipment. As it happens, the relevant non-arm's length provisions of the Act do not appear to contemplate partnerships. For example, in the appellants' estimation ITOLP cannot be a "related person" pursuant to section 251 because the term "person" encompasses corporations but not partnerships. Even though section 96 requires that ITOLP be considered as a "separate person" for income tax purposes, this concept of personhood is artificial and limited. A partnership itself is not a person nor is it deemed to be a person. The appellants note that where the legislator has specially deemed partnerships to be persons in other provisions of the Act, no similar deeming treatment applies with respect to the non-arm's length provisions under review. Even if ITOLP were to be considered a person, the appellants point out that paragraph 69(1)(a) only applies to acquirers that are "taxpayers". But, it is finally contended, ITOLP is not a "taxpayer" within the meaning of the Act. Again, partnerships have exceptionally been deemed to be taxpayers but not in the instant case. Accordingly, the $6,850,000 purchase price for the processing equipment must stand and be applied for the purposes of calculating the capital cost allowance available for each unit in the Partnership.
+
+
+
+[12] In the alternative, the appellants argue that the purchase and sale of the processing equipment was conducted at arm's length and the purchase price was fair....
+
+
+
+[13] The respondent's arguments, though less dramatic, are more succinctly put. Crown Counsel characterizes the purchase and sale of the processing equipment as having been made between IRRI (a company solely owned by Mr. Gill) and two taxpayers, namely ITML (the company Mr. Gill owned and the sole general partner in ITOLP) and Mr. Gill (the sole limited partner in ITOLP). Under long-established rules of partnership law, the two taxpayers gained undivided ownership of the equipment due to their status as partners. To say, as the appellants do, that paragraph 69(1)(a) does not apply to Mr. Gill and ITML because they did not acquire anything runs contrary to these established partnership principles. Such principles have been affirmed by this Court in Sidhu, supra, and were properly applied by the Tax Court Judge in piercing the "partnership veil" to examine the relationship between IRRI, ITML and Mr. Gill. Doing so clearly reveals that the parties to the purchase and sale were not dealing with each other at am's [sic] length. Rather they were "related persons" within meaning of subparagraphs 251(2)(b)(i) and 251(2)(c)(i) of the Act.
+
+
+
+[14] The respondent further argues that the Court should not entertain the appellant's submissions as to the equipment's fair market value because the Minister's assumption as to the equipment's true value was never disputed at trial. Specifically, no expert testimony was brought to rebut the Minister's assumption, and the Tax Court Judge accepted, as a finding of fact, the fair market value assumed by the Minister. This finding should not be disturbed as the Tax Court Judge was entitled to make it.
+
+
+
+Analysis
+
+
+
+[15] The central issue in these appeals is the extent to which subsection 96(1) of the Act and subsection 1102(1a) of the Income Tax Regulations affect, and indeed supercede, the characterization of transactions involving partnerships at private law. The appellants urge the Court to accept the position that income tax law treats partnerships as limited purpose "separate persons" in that they are persons for the purposes of transacting separately from their members but not for the purposes of attracting the non-arm's length transaction rules of the Act. Despite the enthusiastic advocacy of appellants' counsel, I am not persuaded that this view can prevail.
+
+
+
+[16] A partnership's lack of separate legal personality is what distinguishes it from an individual or corporation. The Act maintains this lack of legal personality, and does not generally treat partnerships as taxpayers. Instead, it is the individual partners who pay tax on the basis of their particular share of the income or losses of the partnership. In order for this "flow through" of tax consequences to take place, subsection 96(1) of the Act requires that the income or losses of the partnership be computed as if the partnership were a "separate person" and each "partnership activity ... were carried on by the partnership as a separate person..." As a part of this conceptual separation, expenditures to acquire depreciable property are capitalized at the partnership level, and capital cost allowance is only deductible at that stage. Section 1102(1a) protects the integrity of calculating capital cost allowance at the partnership level by ensuring that depreciable assets owned by a partner in his or her personal capacity are not intermingled with assets of the same class owned by the partnership. In my view, the foregoing "regime" implies nothing more than a notional construct for calculating a taxpayer's tax liability. It is a purely administrative convenience necessary to sustain the Act's view of the partnership as a conduit or vehicle for taxpayers.
+
+
+
+[17] In this way, the fiction of a partnership as an entity separate from the partners is temporary and does not extend to colour the true legal nature of transactions at the time they are entered into by a partnership. The characterization of legal relationships is generally left to established principles of partnership law. This approach was most recently affirmed by this Court in Adams v. Canada (appeal by Robinson) where Roberston, J.A. made the following observations:
+
+
+
+[11] It is well accepted that at common law a partnership does not constitute a distinct legal person such that it is separate from its members. Indeed, it is the lack of a separate legal personality and limited liability that distinguishes a partnership from a corporation. In this regard, the Income Tax Act recognizes the lack of legal personality of a partnership by not treating "it" as a taxpayer. Admittedly, a partnership must file an annual information return setting out the income of the partnership, but it is the individual partners who are liable to pay tax on the partnership's income. For taxation purposes the partnership is treated as a "separate person resident in Canada" solely for the purpose of calculating income at the partnership level. In this way each partner's share of the income may be allocated accordingly: see paragraph 96(1)(a).
+
+
+
+[12] Accepting that a partnership does not constitute a distinct legal entity, neither at common law nor for tax purposes, then in strict legal theory the true tenants under a lease entered into by a partnership are the individual partners existing as of the date of the lease. Title to land, whether it be freehold or leasehold, cannot vest in a non-entity such as a partnership: see A.B. Oosterhoff, W.B. Rayner, Anger and Honsberger Law of Real Property, vol. 2 (Toronto: Canada Law Book, 1985) at 1256. In the present case each of the eighteen doctors in the Partnership must be deemed to have been a tenant under the lease agreement of May 21, 1985.
+
+
+
+Similarly, ownership of the processing equipment could not, and did not, vest in ITOLP. Rather, the acquisition of the processing equipment took place between IRRI and ITML on behalf of ITOLP. Both IRRI and ITML were "persons" and "taxpayers" within the meaning of the Act and were controlled at all material times by Mr. Gill who was also the limited partner in ITOLP at the time of the transaction. This state of affairs is clear from the certificate filed pursuant to section 51 of the Partnership Act on November 10, 1982, upon which the Tax Court Judge was entitled to rely in arriving at his decision. Whether or not subsequent subscribers to ITOLP "ratified" the purchase of the processing equipment does nothing to alter the proper characterization of the transaction.
+
+
+
+[18] Accordingly, paragraph 69(1)(a) was properly invoked by the Minister to deem the purchase price to be the fair market value of the processing equipment by virtue of the parties being "related persons" within the meaning of section 251. In the absence of expert evidence to rebut the Minister's assessment of the equipment's fair market value, the deemed acquisition price of $422,000 must stand and the capital cost allowance deducted accordingly.
+
+
+
+...
+
+
+
+SUBMISSIONS OF COUNSEL FOR THE APPELLANT
+
+[3] Counsel for the Appellant puts forward a position which I am not sure was advanced in Chutka. In any event, it is not precisely discussed in Chutka. This position is that on November 10, 1982, the date of the transfer of the asset, certain other persons were limited partners in ITOPL with the result that the sale of the equipment was arm's length. Counsel states that Lois Ward and John Ward had two units each and Jim Turner held five units for a total of nine units. Counsel goes on further to say that the partnership agreement states that the general partner is executing the conditional sales agreement as agent for the limited partners. That means the contract is between IRRI and the limited partners. As a matter of agency law, the general partner acted as the agent. Counsel states further that on November 10, 1982 Jim Turner, Lois Ward and John Ward controlled the partnership and they all dealt at arm's length with Mr. Gill and/or with IRRI.
+
+[4] Counsel went to great lengths to show that the persons mentioned were limited partners at the time of the transfer of the equipment with the result that it was an arm's length transaction and that the price stipulated is the price that should govern rather than the fair market value. In support of this, counsel referred to the documentation including, in particular, the memorandum of agreement, the subscriptions, the specific provisions of the partnership agreement and several other agreements and the Partnership Act of British Columbia.
+
+SUBMISSIONS OF COUNSEL FOR THE RESPONDENT
+
+[5] I cite certain extracts from Counsel's submissions:
+
+Now, if we look at the limited partnership agreement, the conditional sales contract, and so on, all these documents are dated November the 10th, 1982. So what we have is apparently some individuals, who either prior to or on the same date as this documentation was entered into, have entered into a subscription of some sort with an entity not even of the same name. This is Inter-Teck Oil Partnership, and what we have is Inter-Teck Oil Limited Partnership.
+
+
+
+We have these individuals who agreed to participate in some entity with a view to at some later date becoming limited partners. And what the court is being asked to do is to make the jump from these subscribers who signed on in November 1982, to become part of something called Inter-Teck Oil Partnership. The court is being asked to make the jump from there to them becoming limited partners in the Inter-Teck Oil Limited Partnership, an entity that was not even created until November 10th, 1982 and which, by virtue of the terms of the Partnership Act Part III, dealing with limited partners, could not, I would suggest, be -- I will suggest be effective until a certificate was obtained under the Partnership Act.
+
+
+
+So, yes, we have these initial investors. And, yes, they agreed in the forms that they signed that they would become limited partners. Limited partners in what, we don't know.
+
+
+
+The Minister has assumed that all the participants became partners in the limited partnership and has sort of subsumed the Lois Wards and James Turners of this world into the limited partnership. And that's not an unreasonable thing for the Minister to have done, because we do have the certificates that were filed with the Ministry with respect to the limited partnership that do contain the names of these individuals as limited partners.
+
+
+
+... I would suggest it's reasonable to conclude that at some point these initial investors who signed on with Inter-Teck Oil Partnership, at some time they became participants in the limited partnership, Inter-Teck Oil Limited Partnership. What we don't know, what we have no evidence of is when that occurred. It must have occurred at some point in time, because the certificates say these people are at some point limited partners. It's at a point very much later in the proceedings, and I'll come to that when I look at the provisions of the Partnership Act. But they do at some point apparently become a part of the limited partnership.
+
+
+
+Now, this probably is no more than an example of the left hand not knowing what the right hand was doing, because Mr. Gill has instructed solicitors to proceed with creating a limited partnership and so on, which they do, and at the same time he is, you know, collecting subscribers and perhaps because he doesn't want to lose them he has them signing up to some form, which he himself has prepared. So you've got two things happening. And what my learned friend would like you to do is to say, okay, we will take the people who subscribed to this earlier entity, Inter-Teck Oil Partnership, and we will just simply on the very date at the very moment when the limited partnership is created, we will just put them in and they magically become limited partners on that date. And I would submit, ... , that that simply is not the way things happen in the law.
+
+
+
+There's a great deal that we don't know here. There are some things that we do know.
+
+
+
+We do know that where individuals subscribed to the Inter-Teck Oil Partnership in forms like that signed by Mrs. Ward, that's at Tab 1 in the Appellant's book, that they later signed a substituted form.
+
+
+
+We had Mr. Gill's evidence that with respect to Melvyn Cross, one of the investors, that he signed a subscription form in Inter-Teck Oil Partnership -- that's Exhibit R-2 -- and that he later signed a subscription form, Exhibit R-3, in Inter-Teck Oil Limited Partnership. Now, the subscription form R-3 is much more detailed than the one that is R-2. It's also set up so that a witness signs it, a much more formal document.
+
+
+
+The -- with respect to Mr. Cross, the individual who subscribed in R-2 on the 14th of December 1982, he signed the form that Mr. Gill indicated was a replacement form on the 16th of March 1983. Now, that would seem to be consistent with the suggestion in the Inter-Teck Oil Partnership's Subscription Form itself, Tab 1 of Mrs. Ward's, or Exhibit R-2, that in the first quarter of 1983, the subscriber would convert to a limited partnership.
+
+
+
+Now, it occurs to me that what actually happened with Exhibits R-2 and R-3 is that there was an actual substitution made. Yes, you came on board under the original form, R-2, an investment in Inter-Teck Oil Partnership, but you agreed in that that you would later, and according to the form R-2, in the first quarter of 1983, you would convert to a limited partnership, and R-3 would appear to be that conversion.
+
+
+
+Now, unfortunately, we don't have the replacement forms with respect to Mr. Deptuck or with respect to Mrs. Ward or Mr. Turner, and the evidence appeared to be that basically these witnesses that came before the court had no documentation other than the documentation that has been provided by my learned friend to the court. We do, of course, as always in this type of case, ... , have difficulties created simply by the effluxion of time. But clearly to the organized legal mind, it makes sense that you would have some actual documentation that would convert the people who signed on with Inter-Teck Oil Partnership into members of the actual limited partnership.
+
+
+
+...
+
+
+
+What we do know is that there was a limited partnership created here, and it is the limited partnership that has been allowed losses by the Minister. We do know that that limited partnership was created by a document dated November the 10th, 1982.
+
+
+
+Now, if we look at the limited partnership agreement that's at Tab 4, it's an agreement between Inter-Teck Management Limited as the general partner and Mr. Gill as the founding partner. And if we turn to page 2, we see at provision 1.01:
+
+
+
+The General Partner and the Founding Partner do ... agree to and do form a limited partnership (the "Limited Partnership") pursuant to the provisions of the Partnership Act of the Province of British Columbia ... for the purpose of funding the purchase and operation of machinery to be used to process sewage waste into marketable end products including oil.
+
+
+
+So it is by this document, ... , that a limited partnership is formed, and this document itself sets out that this limited partnership is being formed pursuant to the provisions of the Partnership Act of British Columbia.
+
+
+
+Now, prior to this document being executed, there was no limited partnership. Whatever it is that Mrs. Ward and Mr. Turner signed up for, it was not the limited partnership, I would suggest, created by this agreement of limited partnership.
+
+
+
+...
+
+
+
+If we look at Tab 2, the Certificate of Limited Partnership, also dated November 10th, 1982, we have the signed document that says:
+
+
+
+We, the undersigned...
+
+
+
+The undersigned being Inter-Teck Management Ltd. and Jagroop S. Gill, the former as "General Partner", the second as "Limited Partner". They signed on page 6. We have them saying that they:
+
+
+
+... having entered into a Limited Partnership Agreement ... desire to form a Limited Partnership ...
+
+
+
+So we also have to distinguish, ..., between the limited partnership agreement and the limited partnership. You can enter into an agreement of limited partnership, but you don't have an effective limited partnership in British Columbia until you comply with the provisions of Part III of the Partnership Act. So the only persons who subscribed to this certificate that was filed on November the 10th are Inter-Teck Management Ltd. as the general partner and Jagroop Gill as the limited partner. And there's a provision right here to set out what the full names and addresses of the general and limited partners are.
+
+
+
+If it were intended that there had been any partners other than Inter-Teck Management Ltd. as general partner and Jagroop Gill as limited partner on the 10th of November, 1982, it was certainly available to the -- to the persons putting forward the Certificate of Limited Partnership to have added other people into it. ...
+
+
+
+Now, we have some other problems here, ..., with the facts. We know that the limited partnership agreement talks about contributions of $25,000. And when we look at the Certificate of Limited Partnership that's the Appellant's Tab 2, that also talks about capital contributions of $25,000. Now, Mr. Gill told the court that -- well, he had concluded that it was impossible for any of the investors that he was looking to, to come up with $25,000, so he had changed the amount to $6,250. The subscription forms of the type that is Appellant's Exhibit 1 or the Respondent's number 2, provide for this lesser amount, $6,250. The documentation that was filed with the Registrar of Companies on the 10th of November 1982 still talks in terms of the $25,000. So on the one hand Mr. Gill is signing up investors for $6,250, and on the other hand, virtually simultaneously, under another entity's name, he's setting up the system to have investors for $25,000.
+
+
+
+Your Honour inquired about the amendment of the limited partnership agreement. And Mr. Clarke pointed you to the evidence of Mr. Gill, which was that the limited partnership agreement had been amended at some later date, but there's no evidence. Mr. Gill didn't seem to know whether this was some sort of omnibus amendment or what form the amendment took. But if we have individuals who are subscribing to some sort of investment for $6,250 in an entity called Inter-Teck Oil Partnership, and we have a limited partnership being created on November 10th, 1982 that apparently is looking for investments of $25,000 in a new entity called Inter-Teck Oil Limited Partnership, I don't think the court can make the leap to say that as of the moment of creation of this limited partnership, the individuals who signed that subscription form for $6,250 with Inter-Teck Oil Partnership magically become members of the limited partnership which, by its very terms as filed with the Registrar of Companies, was a different entity and one that required an investment of $25,000. I just -- I cannot see, ..., how the court can reach that conclusion.
+
+
+
+...
+
+
+
+... This is the cloak in which the limited partnership was presented to the Registrar of Companies. These are the people who were the partners at that date. That's the date when the equipment is sold. And, yes, the Minister has assumed that at some later date these other individuals, like Mrs. Wilson and Mr. Turner, became partners in the limited partnership, but there certainly is no evidence that they were partners in the Inter-Teck Oil Limited Partnership on November 10th, 1982. There is simply no evidence of that at all, and it's requiring the court to make a completely unwarranted leap of faith to conclude that in some way these individuals are members of this limited partnership at that time.
+
+
+
+...
+
+
+
+... Section 65 provides that:
+
+
+
+...Additional limited partners may be admitted to the partnership by amendment of the certificate in accordance with this part.
+
+
+
+And we know that section 70 provides in subsection (1) that:
+
+
+
+A certificate shall be amended when a person is added as a limited partner. Similarly, the certificate shall be amended when a person is added as a general partner.
+
+
+
+So if it had been sought at the outset to have these other individuals, Mrs. Ward, Mr. Ward, Mr. Turner, Mr. Bawa, limited partners or general partners right from the outset, then clearly their names should have been in the certificate that was initially filed, which is the document at Tab 2 of the Appellant's book of documents, that we shouldn't have to be looking to the amended certificate behind Tab 11 to find those persons who are put forward as having become limited partners on the day the partnership was formed.
+
+
+
+...
+
+
+
+[6] Counsel for the Respondent adds that paragraph 9.02 of the limited partnership agreement at page 11 states that:
+
+Any person who shall subscribe for and receive a Unit pursuant to the Offering or any ... shall be a Limited Partner.
+
+
+
+She goes on to state there does not appear to be any evidence that anyone received a unit. She states that Mr. Gill's evidence was that there was no one who received a certificate of anything.
+
+
+
+[7] The limited partnership agreement filed on November 10, 1982 indicates that the limited partnership intends to make an offering of 273 units so we have got an intention to make an offering of these units and of course, once again, counsel points out that an intention to make an offering is inconsistent with there already being people who are on-board as limited partners of this partnership that had not yet come into existence.
+
+ANALYSIS
+
+[8] I find as a fact that the subscription forms signed by Lois Ward, John Ward and James Turner were subscriptions with respect to another entity than the limited partnership referred to as ITOLP and they do not, in my opinion, notwithstanding references to wishing to acquire the equipment agreeing to convert to Limited Partnership and agreeing to certain documents including the Conditional Sales Agreement, automatically makes those persons limited partners of ITOLP as of November 10, 1982. This is further evident from the fact that some documents refer to a $25,000 figure and others to a $6,250 figure. It follows, in my opinion, that the sale of the equipment was, for the reasons analyzed in Chutka, not at arm's length with the result that the sale is deemed to be made at fair market value.
+
+[9] Moreover, as the Federal Court of Appeal has accepted that the equipment's fair market value was $422,000 and as no contradicting evidence was presented I accept that figure.
+
+[9] Consequently, in my opinion, the decision of the Federal Court of Appeal in Chutka et al stands and governs this appeal. The result is that the appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 12th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+COURT FILE NO.: 94-1787(IT)I
+
+STYLE OF CAUSE: Don Deptuck v. Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: April 29, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge T. O'Connor
+
+DATE OF JUDGMENT: June 12, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Timothy W. Clarke
+
+Counsel for the Respondent: Margaret E. T. Clare
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Timothy W. Clarke
+
+Firm: Bull, Housser and Tupper
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+94-1787(IT)I
+
+BETWEEN:
+
+DON DEPTUCK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on April 29, 2002 at Vancouver, British Columbia, by
+
+
+
+the Honourable Judge Terrence O'Connor
+
+Appearances
+
+Counsel for the Appellant: Timothy W. Clarke
+
+Counsel for the Respondent: Margaret E. T. Clare
+
+JUDGMENT
+
+The appeal from the reassessment made under the Income Tax Act for the 1983 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 12th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+

@@ -1,0 +1,214 @@
+Date: 19990624
+
+Docket: 97-2140-IT-G
+
+BETWEEN:
+
+LAMONT MANAGEMENT LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal concerning the Appellant's 1993 taxation year. The issue is whether the meaning of "income earned or realized by any corporation after 1971" referred to in subsection 55(2) of the Income Tax Act (the "Act") is limited to the income specified in paragraphs 55(5)(b), (c) and (d) of the Act.
+
+[2] These provisions of the Act read as follows:
+
+55(2) Where a corporation resident in Canada has after April 21, 1980 received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or 138(6) as part of a transaction or event or a series of transactions or events (other than as part of a series of transactions or events that commenced before April 22, 1980), one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events referred to in paragraph (3)(a), notwithstanding any other section of this Act, the amount of the dividend (other than the portion thereof, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series of transactions or events)
+
+(Emphasis added)
+
+(a) shall be deemed not to be a dividend received by the corporation;
+
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+
+(c) where a corporation has not disposed of the share, shall be deemed to be a gain of the corporation for the year in which the dividend was received from the disposition of a capital property.
+
+(5) For the purposes of this section,
+
+(a) the portion of any capital gain attributable to any income that is expected to be earned or realized by a corporation after the time of receipt of the dividend referred to in subsection (2) shall, for greater certainty, be deemed to be a portion of the capital gain attributable to anything other than income;
+
+(b) the income earned or realized by a corporation for a period throughout which it was resident in Canada and not a private corporation shall be deemed to be the aggregate of
+
+...
+
+(c) the income earned or realized by a corporation for a period throughout which it was a private corporation shall be deemed to be its income for the period otherwise determined on the assumption that no amounts were deductible by the corporation by virtue of paragraph 20(1)(gg) or section 37.1;
+
+(d) the income earned or realized by a corporation for a period ending at a time when it was a foreign affiliate of another corporation shall be deemed to be the aggregate of the amount, if any, that would have been deductible by that other corporation at that time by virtue of paragraph 113(1)(a) and the amount, if any, that would have been deductible by that other corporation at that time by virtue of paragraph 113(1)(b) if that other corporation
+
+(i) owned all of the shares of the capital stock of the foreign affiliate immediately before that time,
+
+(ii) had disposed at that time of all of the shares referred to in subparagraph (i) for proceeds of disposition equal to their fair market value at that time, and
+
+(iii) had made an election under subsection 93(1) in respect of the full amount of the proceeds of disposition referred to in subparagraph (ii);
+
+(Emphasis added)
+
+[3] An Agreed Statement of Facts was filed. I will reproduce most of it:
+
+1. The Appellant was incorporated under the laws of the Province of Manitoba by Certificate dated November 6, 1992 as 2940796 Manitoba Ltd. ("2940796"). On December 14, 1992, 2940796 filed Articles of Amendment and changed its name to Lamont Management Ltd.
+
+2. At all materials, David Kaufman ("Kaufman") was a businessman resident in Canada.
+
+3. On or about February 12, 1986 Kaufman was issued 250 common shares (the "Kaufman Shares") in the capital stock of CANPAC Enterprises Ltd. ("Canpac") for a total subscription price of $25.00. Canpac was at all material times a private corporation and a taxable Canadian corporation within the meaning assigned by subsection 89(1) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supplement) as amended (the "Act") (attached hereto as Exhibit "A" is a chart illustrating the ownership of all relevant entities).
+
+4. Kaufman is married to Nora Kaufman, the sister of Evelyn Rady. Evelyn Rady is married to Ernest Rady ("Rady"). As a result, Kaufman and Rady are connected by marriage pursuant to paragraphs 251(2)(a) and 251(6)(b) of the Act and thus are related to one another for the purposes of the Act.
+
+5. On or about February 12, 1986, the Ernest Rady Trust was issued 250 common shares in the capital stock of Canpac for a total subscription price of $25.00.
+
+...
+
+7. Kaufman, and members of his family who also owned shares in Canpac, wished to sell to the Rady family, their interest in American Assets Inc. ("AAI"), Western Thrift Financial Corporation ("Westcorp") and Western Insurance Holdings Inc. ("Western Insurance"), which interests were held by them through their shares of Canpac.
+
+8. Westcorp is a California Corporation that, for Canadian tax purposes is neither a private corporation nor a public corporation and that, directly through its wholly-owned subsidiaries, carries on a banking business in California.
+
+9. Western Insurance is a California Corporation that, for Canadian tax purposes, is neither a private corporation nor a public corporation and that directly or indirectly through its wholly-owned subsidiaries, carries on an insurance business.
+
+10. AAI is the successor, as a result of a merger ("the merger") which occurred on December 31, 1991, to Sorb Holdings Inc. ("SORB") and American Assets, Inc. ("former AAI") (collectively "the predecessor corporations"). From the date of the merger until December 15, 1992, Canpac had a 17.8% equity percentage in AAI.
+
+11. SORB was a foreign affiliate, within the meaning assigned by subsection 95(1) of the Act, of Canpac at all material times before the merger, and AAI was a foreign affiliate of Canpac at all material times after the merger.
+
+12. As a consequence of the merger, AAI acquired all the shares of Westcorp and all the shares of Western Insurance, which shares were previously owned by the predecessor corporations, resulting in AAI having a 55% equity interest in Westcorp and a 92% equity interest in Western Insurance.
+
+13. Canpac, through its ownership of shares of the predecessor corporations before the merger and its ownership of shares of AAI after the merger, held, for the limited purpose of subsection 55(2) of the Act, an indirect equity interest ("indirect interest") in Westcorp at all relevant times during the holding period (the "Holding Period") of the Kaufman Shares from when they were issued on February 12, 1986 until they were purchased for cancellation on December 15, 1992, which indirect interest was under 10% but greater than 9%.
+
+14. Canpac, through its ownership of shares of the predecessor corporations before the merger and its ownership of shares of AAI after the merger, held an indirect interest in Western Insurance at all relevant times during the holding period (the "Holding Period") of the Kaufman Shares from when they were issued on February 12, 1986 until they were purchased for cancellation on December 15, 1992, which indirect interest was 16.38%.
+
+15. Accordingly, during the Holding Period, Western Insurance was a foreign affiliate of the predecessor corporations and then of Canpac, while Westcorp was at no time during the Holding Period a foreign affiliate of Canpac nor for its predecessor corporations.
+
+16. Approximately $12,622,469 (Cdn) of the gain inherent in Canpac's shares of AAI was attributable to income earned and retained by Westcorp during the Holding Period.
+
+17. Approximately $15,966,735 (Cdn) of the inherent gain in Canpac's shares of AAI was attributable to income earned and retained by Canpac, AAI, Western Insurance and other foreign affiliates of Canpac during the Holding Period.
+
+18. Kaufman's 36.23% share of the income of Westcorp and Western Insurance was $4,573,121 (Cnd) ("Westcorp Income") and $5,784,749 (Cdn) ("Western Insurance Income"), respectively. The Western Insurance Income was reduced by $209,560 to take into account Kaufman's share of the Canpac deficit account yielding a total of $5,575,189.
+
+...
+
+21. On December 14, 1992, before the Kaufman Shares were purchased for cancellation, Kaufman transferred them, on a tax-deferred basis under subsection 85(1) of the Act, to the Appellant in exchange for shares in the capital stock of the Appellant.
+
+22. On December 15, 1992, Canpac purchased the Kaufman Shares for cancellation for a total purchase price of $7,282,926. At that time, 690 shares in Canpac had been issued of which 250 were owned by the Appellant, 250 were owned directly or indirectly by Rady and the remaining 190 shares were owned by others.
+
+23. One of the results of Canpac purchasing the Kaufman Shares for cancellation was a significant reduction in the portion of the capital gain, but for the deemed dividend under subsection 84(3) of the Act, would have been realized on the disposition at fair market value of the Kaufman Shares.
+
+...
+
+25. The inherent gain in the Kaufman Shares immediately before they were purchased for cancellation cannot reasonably be attributed to anything other than the following:
+
+(a) the Western Insurance Income, which amount the Minister accepts for the purpose of subsection 55(2) of the Act as being part of Canpac's Safe Income to which the inherent gain is attributable; and
+
+(b) the Westcorp income.
+
+26. The Appellant reported the entire amount received on the purchase for cancellation of the Kaufman Shares as a taxable dividend.
+
+...
+
+28. By Notice of Reassessment dated October 17, 1996, the Minister reassessed the Appellant for its 1993 taxation year with respect to the purchase for cancellation of the Kaufman Shares.
+
+29. In so reassessing the Appellant, the Minister refused to include the Westcorp income in the Appellant's Safe Income calculation, and instead, applied subsection 55(2) of the Act to the portion of the purchase price of the Kaufman Shares in excess of the Western Insurance Income. The Minister treated the excess of $1,707,737 as a capital gain rather than as a taxable dividend that would otherwise be included in income under subsection 84(3) and paragraph 12(1)(j) of the Act and deducted under subsection 112(1) of the Act in computing taxable income. As a result, the Appellant's income was increased by $1,280,803.
+
+[4] The admitted facts that are relevant for the issue of this appeal are: (a) there was a portion of the capital gain (that, but for the dividend, would have been realized on a disposition at fair market value of the shares that were redeemed for cancellation), that could be attributable to income earned or realized by Western Thrift Financial Corporation ("Westcorp"); and (b) Westcorp was not a private corporation, a public corporation or a foreign affiliate within the meaning of the Act.
+
+[5] The Appellant's position is that the computation of safe income that was earned by the non-resident corporation Westcorp during a period when it was not a foreign affiliate, could be included in the general wording of subsection 55(2): "income earned or realized by any corporation after 1971". (My underlining)
+
+[6] The Respondent's position is that the only income that can be considered "income earned and realized by any corporation after 1971" for the purpose of subsection 55(2) of the Act is the income earned or realized only by the corporations specified in paragraphs 55(5)(b), (c) and (d) of the Act.
+
+[7] The "income earned and realized by any corporation after 1971" will be hereinafter sometimes referred to as "safe income" as it is colloquially known.
+
+[8] The Appellant argues that the words "any corporation", in subsection 55(2) of the Act, are all encompassing words which are clear and unambiguous and do not limit or restrict a particular corporation from consolidating the safe income of another corporation in which the particular corporation is a shareholder.
+
+[9] The Appellant referred to a decision of the Supreme Court of Canada in Ville de Montréal v. I.L.G.W.U. Centre et al., [1974] S.C.R. 59, at page 66, where Chief Justice Fauteux said: "The legislator is presumed to mean what he says; and there is no need to resort to interpretation when the wording is clear, ..."
+
+[10] Counsel for the Appellant provided the Court with written notes at the hearing and I draw the following excerpts from these:
+
+B. Plain Meaning of the Word "Any":
+
+24. The phrase "income earned or realized by any corporation" in subsection 55(2) means that all types of corporations are included within its ambit, as the word "any" is an all encompassing word. This is best illustrated in Linder (M.) v. Rutland Moving & Storage Ltd. [1991] 1 C.T.C. 517 at 521 (B.C.C.A.) (Tab 12) where the Court referred to the case of Epp School District v. Rural Municipality of Park [1936] 2 W.W.R. 331 at 335 (Sask. C.A.) where Gordon J.A. said the following:
+
+A reference to legal dictionaries shows that the word "any" is all-embracing. It is a word which, in its natural meaning, excludes limitation or qualification.
+
+25. In an article entitled, "The Taxation of Corporate Reorganizations", which appeared in Volume 4 of the 1997 edition of the Canadian Tax Journal (Tab 13), author Mark Brender of the law firm of Goodman, Phillips & Vineberg in Montréal, Quebec, specifically addressed the meaning of the word "any" as it appears in subsection 55(2) of the Act as follows at page 807 of the article:
+
+... there is no statutory basis for limiting the consolidation of safe income to controlled or significantly controlled corporations and that the safe income of any corporation should be included in the computation of safe income of the parent, regardless of how small the interest of the parent may be.
+
+26. When referring to the meaning of the word "any" in subsection 55(2), Brender stated at page 816:
+
+The words "by any corporation" are expansive, and there is no authority for limiting the consolidation of safe income to corporations that are controlled or significantly influenced direct or indirect subsidiaries of the parent corporation. Rather, these expansive words suggest that the computation of safe income is more of an "aggregation" than it is a "consolidation" of safe income and this should include the income earned or realized of any corporation, not merely of those corporations that are controlled or significantly influenced. Since there is no statutory basis for limiting the aggregation of safe income to controlled or significantly influenced corporations, the safe income of any corporation should be included in the aggregation of the safe income of the shareholder corporation, regardless of how nominal the interest of the shareholder may be.
+
+27. It is further submitted that the Appellant's argument respecting the plain meaning of the word "any" in subsection 55(2) of the Act is consistent with Revenue Canada's publicly stated policies, which policies include those expressed by Michael Hiltz. In fact, in the Brelco case, Supra, (Tab 4) the Crown relied heavily upon the writings of Michael Hiltz as an authority for Revenue Canada's policy regarding the application of subsection 55(2).
+
+28. In 1984, Michael Hiltz, in a paper presented at the Corporate Management Tax Conference entitled, "Section 55: An Update", (Tab 14) expanded upon Revenue Canada's policy and stated that the consolidation of safe income pursuant to subsection 55(2) of the Act should not, in certain circumstances, be limited to a corporate group. In explaining Revenue Canada's position, Hiltz stated the following:
+
+The Department is prepared to make an exception in cases where a corporation does not exercise significant influence, if it can be clearly demonstrated that the income of the other corporation contributed to the unrealized gain on the shares.
+
+29. In Revenue Canada Correspondence no. RCT 5-7012 dated April 15, 1985 (Tab 15), Revenue Canada stated the following:
+
+The Department's approach to subsection 55(2) of the Act is expressed in Mr. J.R. Robertson's address to the 1981 Canadian Tax Foundation, subject to the update presented by Mr. A. Hiltz at the 1984 Corporate Management Tax Conference.
+
+30. Revenue Canada further referred to Mr. Hiltz's authority regarding subsection 55(2) in Revenue Canada Correspondence no. 267 dated August 1990 (Tab 16) by stating the following:
+
+The Department's views on the application of subsection 55(2) of the Act were expressed in Mr. J. Robertson's address to the 1981 Canadian Tax Foundation. These views were subsequently updated by Mr. M.A. Hiltz at the 1984 Corporate Management Tax Conference, as well as by Mr. R.J.L. Read and Mr. Hiltz at the 1988 and 1989 conference of the Canadian Tax Foundation, respectively.
+
+31. Finally, Revenue Canada referred to Mr. Hiltz's quotation with authority in Technical Interpretation 9802105 dated June 29, 1998 (Tab 17).
+
+32. Revenue Canada's policy regarding subsection 55(2) of the Act, as expressed above, clearly demonstrates that the meaning of the words "any corporation" in subsection 55(2) of the Act does not restrict the consolidation of safe income to a corporate group provided that it can be clearly demonstrated that the income of the other corporation contributed to the unrealized gain on the shares. ...
+
+33. Accordingly, it is submitted that the plain meaning of the word "any" is not only clear and unambiguous, but also consistent with Revenue Canada's policies. Therefore, the Appellant submits that its proportionate share of the Westcorp safe income is to be included with its own safe income calculation.
+
+...
+
+C. Potential Application of the Word "Any" in Light of Subsection 55(5):
+
+36. The Crown's position is that since Westcorp was not a foreign affiliate of Canpac, that none of its income can be included in the Appellant's safe income calculation. Paragraph 55(5)(d) provides how income of a foreign affiliate is to be calculated for the purpose of section 55 of the Act. It is submitted that this paragraph merely distinguishes the method of calculating income of foreign affiliates for the purpose of section 55 from the method of calculating income of foreign affiliates for the purposes of subsection 95(2) of the Act, which section provides general rules for the computation of income of foreign affiliates. Accordingly, it is submitted that while paragraph 55(5)(d) of the Act provides the Appellant with assistance with respect to the safe income of Western Insurance, it has no applicability whatsoever with respect to the treatment of the same income of Westcorp, as Westcorp, unlike Western Insurance, was not a foreign affiliate of Canpac at any material time.
+
+37. Paragraph 55(5)(b), (c) and (d) of the Act contain rules for determining, for the purpose of subsection 55(2), the income earned or realized by certain types of corporations. These rules modify the general rules in the Act for determining the income of a corporation. None of these rules applies to Westcorp as it was not at any time during the Holding Period a corporation referred to in any of those paragraphs. Therefore, and because there is no exhaustive definition of "income earned or realized by any corporation" for the purpose of subsection 55(2), its income for the purpose of that subsection should be its income under Part 1 of the Act. It is therefore submitted that if Parliament meant for there to be specific rules providing the method of calculating income of such corporations, such rules would be clearly expressed within the section.
+
+D. Object and Spirit
+
+38. As explained before, the Supreme Court of Canada has stated that the object and spirit of the legislation ought not be looked to when the wording of the statute is clear and unambiguous. The Appellant submits that the meaning of the word "any" is clear and unambiguous. However, should the Court not accept the Appellant's argument and feels it necessary to consider the object and spirit of the Act, it is submitted that the object and spirit supports the Appellant's position that the Westcorp safe income ought to be consolidated with that of the Appellant.
+
+39. Paragraphs 2 through 5 hereof summarize the object and spirit of subsection 55(2) by explaining that the subsection does not apply where the gain that has been reduced can be attributed to income earned or realized by any corporation after 1971 and before the transactions or events that results in a disposition of property. The rationale is that safe income is protected from the application of subsection 55(2) because this income has already been subject to corporate tax and, therefore, is permitted to be paid to other corporations on a tax-free basis.
+
+[11] Counsel for the Respondent referred to a decision of this Court, Trico Industries Limited v. M.N.R., 94 DTC 1740, and more particularly to the following excerpt at page 1744:
+
+Robert J.L. Read, C.A., the Director General, Specialty Ruling Directorate, Revenue Canada, in 1988 at the Annual Conference of the Canadian Tax Foundation, in his lecture entitled "Section 55 A Review of Current Issues", said under the heading of "The Historical Background of Subsections 55(2) and (3)":
+
+...
+
+Paragraphs 55(5)(b), (c), and (d) define "income earned or realized by a corporation" for purposes of subsection 55(2). "Income earned or realized" or "safe income" with respect to a share of a corporation refers to the income earned by any corporation during the holding period of a particular share of a corporation that can reasonably be considered to be allocable to that share in the particular circumstances. "Safe income on hand" at a particular time with respect to a share of a corporation held by a particular shareholder is the portion of the income earned or realized by any corporation (safe income) during the relevant period of time that could reasonably be considered to attribute to the capital gain that would be realized on a disposition at fair market value of the share at that time. A "safe dividend" is a dividend paid on a share that does not exceed the safe income on hand in respect of that share.
+
+In our view the phrase "income earned or realized by any corporation" contemplates the consolidation of safe income. ...
+
+[12] Counsel for the Respondent, in referring to Mr. Read's comments, stated that it could be seen that paragraphs 55(5)(b), (c) and (d) define income earned or realized by a corporation for purposes of subsection 55(2).
+
+[13] Counsel for the Respondent emphasized the fact that subsection 55(5) begins by the words "For the purposes of this section". This provision determines the calculation of the income earned or realized by a corporation for a period throughout which it was a resident in Canada and not a private corporation; the income earned or realized by a corporation during a period throughout which it was a private corporation; and the income earned or realized by a corporation for a period ending at a time when it was a foreign affiliate. The Respondent submits that the income earned or realized by Westcorp, at a time when it was not a foreign affiliate of the Appellant, cannot be considered in the Appellant's safe income calculation. Subsection 55(5) cannot be interpreted as not contemplating the computation of income of a non-resident corporation that is not a foreign affiliate of a corporation resident in Canada. If such a corporation is not mentioned, Parliament's intent is that its income should not be included.
+
+[14] The Respondent submits that it is not reasonable to conclude that Parliament, having given careful attention by prescribing in paragraphs 55(5)(b), (c) and (d) the detailed computation required to determine income earned or realized for non-private, private and foreign affiliate corporations for the purposes of subsection 55(2), intended that income earned or realized from a non-resident corporation, which is not a foreign affiliate, be included in the computation of safe income on hand for the purpose of subsection 55(2) in a manner not specified by the Act.
+
+[15] The Respondent submits that the interpretation urged by the Appellant would result in preferential treatment being given to the income of a non-resident corporation that was not a foreign affiliate over that of a foreign affiliate as to the amount of income earned or realized, as well as for the period of time that may be considered.
+
+Conclusion
+
+[16] I do not believe that it could be disputed that the word "any" is all-embracing and that in its natural meaning it excludes limitations. I believe however that there is need to determine the corporations that are embraced by the word "any" in view of the existence of subsection 55(5) of the Act. This is a provision, as can clearly be seen from its introductory words, that has been enacted to interpret the entire section 55. It shall then be used to interpret the meaning of the terms "income earned and realized by any corporation" found in subsection 55(2) of the Act.
+
+[17] The Appellant's argument, as expressed in its above written argument, is that since it is admitted by the parties that a portion of the capital gain on the redemption of shares is attributable to the income earned by Westcorp, and that since it is the object of subsection 55(2) of the Act to consider this portion of the capital gain to be an inter-corporate dividend, its position is therefore in accordance with that subsection. This position would appear sensible if it were not, as I have mentioned in the preceding paragraph of these Reasons, for the existence of paragraphs 55(5)(b), (c) and (d) of the Act. These paragraphs determine the income that may be taken into account as income earned or realized by a corporation. There was no argument as to the reasoning applied by Parliament in enacting the various modes of calculation set out in these paragraphs and there is no need for me to determine it but to take cognizance of these interpretative provisions. I will however venture to say that these paragraphs seem to relate to the manner and the extent to which these various corporations are subject directly or indirectly to tax under the Act.
+
+[18] It is my view that the only conclusion that I may draw from paragraphs 55(5)(b), (c) and (d) of the Act is that if a corporation is not a corporation that is specified in these paragraphs, its income is not included in the calculation of the safe income. I am comforted in this interpretation, as a different interpretation would lead to an absurd result. It would mean that the income of a non-resident corporation that is also a non-foreign affiliate would be included in any mode of calculation, where a specific mode of calculation has been determined for a foreign affiliate, for a resident but not a private corporation and for a private corporation. Between an interpretation that leads to an absurd result and another that leads to a sensible result, it is evident that the one leading to the sensible result should be preferred. It is also of interest to note that the French version of subsection 55(2) of the Act, by its use of the words "une société" appears to support this interpretation.
+
+[19] The authors to which Counsel for the Appellant referred to do not seem to suggest otherwise. In the article written by Mark D. Brender, "The Taxation of Corporate Reorganizations", (cited in the above paragraph 25 of the Appellant's written argument), I find at page 808 the following excerpt: "The calculation of safe income is determined by statutory rules. ..." There is a footnote that refers to paragraphs 55(5)(a), (b), (c) and (d). The same thing is said at page 810. There is no suggestion by these authors that income from corporations other than the ones described in paragraphs 55(5)(b), (c) and (d) of the Act should be taken into account in the calculation of the income earned or realized after 1971. It is in the context of the degree of control of the corporation over other corporations that these authors discuss the meaning of the word "any" and it is in that context that the word "any" makes sense. It is where it can be demonstrated that the income of other corporations contributed to the gain on the shares. But the income itself has to be calculated pursuant to the rules prescribed by subsection 55(5) of the Act.
+
+[20] The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this, 24th day of June, 1999.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+

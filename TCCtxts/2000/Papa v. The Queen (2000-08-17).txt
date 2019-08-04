@@ -1,0 +1,258 @@
+Date: 20000817
+
+Dockets: 1999-3956-GST-I; 1999-3958-GST-I; 1999-3959-GST-I
+
+BETWEEN:
+
+ANGELO PAPA, LUIGI COCO, JOHN MANCINI
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie, J.T.C.C.
+
+[1] These three Appellants have all been assessed under subsection 323(1) in Part IX of the Excise Tax Act (the Act). Part IX imposes a tax on the commercial supply of goods and services (GST), and subsection 323(1) provides that the directors of a corporation may, in certain circumstances, be assessed for the corporation's indebtedness for GST. These Appellants were the owners of 25%, 24%, and 51% respectively of the shares of Casa Bella Interiors Ltd. (Casa Bella). They were also the only three directors. The effect of these assessments is to make each of them jointly and severally liable, with Casa Bella, for unpaid tax, penalty, and accrued interest in the total amount of $41,214.39. By agreement, their appeals were heard together on common evidence. They raise a number of issues. Are the assessments vitiated by certain clerical errors in them? Can the Appellants contest the amount of the liability of Casa Bella in the course of these appeals? Are the Appellants entitled to the benefit of the due diligence defence to these assessments which is made available to directors under subsection 323(3) of the Act?
+
+the facts
+
+[2] Casa Bella was in the business of retail sales of furniture and related interior decorating products in the City of Edmonton. It began business in February 1988, and it ceased operations in February 1994, after recording substantial losses. In January 1994 Revenue Canada audited the liability of Casa Bella for GST. As a result of that audit, it was assessed for outstanding tax, penalty and interest as follows:
+
+Period ending
+
+Net tax adjustment
+
+Penalty
+
+Interest
+
+July 31, 1993[1]
+
+$18,386.18
+
+$2,099.75
+
+$2,115.41
+
+October 31, 1993[2]
+
+133.64
+
+January 31, 1994[3]
+
+11,360.23
+
+934.04
+
+845.96
+
+Total
+
+$29,880.04
+
+$3,033.79
+
+$2,961.37
+
+Casa Bella did not file any notice of objection in respect of the assessments for the first two of these periods. It did, however, file one for the assessment for the period ending January 31, 1994, and through its solicitor it was able to negotiate a settlement by which the liability for that period was reassessed as:
+
+Net tax $5,649.60
+
+Net interest 420.71
+
+Penalty 464.51
+
+Total $6,534.82
+
+[3] Of the three Appellants, only Mr. Coco gave evidence. His responsibility in the running of the business included the bookkeeping and the filing of GST returns. He kept the books manually, he said, posting the transactions monthly from records which he kept in folders. There apparently was a computer in the office, but he did not use it. He testified that at least two people, who I take to have been casual contractors, entered data into a computer program from time to time, but this does not appear to have been done on any regular basis. Mr. Coco also prepared the GST returns manually, using the original documents in his folders. Each year Mr. Ron Heck, C.A. prepared unaudited financial statements from the information provided to him by Mr. Coco. He said in his evidence that he thought the transactions went through a computerized general ledger, but he was uncertain about it. A computer run of the general ledger for the July 31, 1993 year-end was made an exhibit at trial, but it is not clear whether any other computerized records were ever available.
+
+[4] When the Revenue Canada auditor, Mr. Erfani, went to the Casa Bella premises in late 1993 to conduct his audit, Mr. Coco provided him with boxes containing folders, which in turn contained original invoices for the purchases and sales of Casa Bella. He did not provide any ledger or other organized records. Mr. Erfani's evidence was clear, and where it is in conflict with that of Mr. Coco or Mr. Heck, I prefer that of Mr. Erfani. Mr. Heck's recollections were not at all certain as to a number of points, and Mr. Coco, I think, was inclined to put himself in the best possible light when giving his evidence. Frequently he was vague, as well as self-serving. He testified that the books and records were lost at the time the business was closed, and that may be so. Certainly, they were not available to be examined at the trial.
+
+[5] Mr. Coco testified that he did not receive the reassessment issued as a result of the audit done by Mr. Erfani for the period ending July 31, 1993 until May 20, 1998, when a copy of it was given to him during a meeting with Revenue Canada officials. Mr. Erfani completed his audit shortly before the business ceased operating at the end of February, 1994. His letter to Mr. Coco setting out the results and advising that the Notice of Assessment would follow is dated March 11, 1994, and was mailed to the premises which Casa Bella had by then vacated. The Appellants had taken no steps to have the company's mail forwarded.
+
+[6] Mr. Heck testified that, together with Mr. Coco, he prepared an estimate of the GST for which Casa Bella was liable in the fall of 1994. Due to the lack of records, he had to approach it by working from the financial statements for the years in question. Essentially, the estimate was done by applying 7% to the revenues for each fiscal period to compute the GST that should have been collected. They then added to the cost of sales for each period the expenses for that period, net of those items, such as salaries and insurance premiums, which are not subject to GST, and applied 7% to estimate the input tax credit (ITC) entitlement. An adjustment was made to account for the opening inventory on January 1, 1991, when the GST was introduced. By this method, they estimated that the total GST collected was $94,473, and the ITC entitlement was $89,951, with the result that Casa Bella's liability should have been $4,522, rather than the $29,880 that Mr. Erfani had assessed. Mr. Erfani, for his part, had to go through a similar computation to ascertain the GST liability. His approach to ITC entitlement was different, however. He examined the claims for ITCs that were made in the GST returns, and he attempted to verify the entitlements to ITCs from the original documents provided to him. He did not allow ITCs unless the supporting documents required by the Act[4] and the Input Tax Credit Information Regulations[5] could be found. I have no doubt that the discrepancy between the results produced by Mr. Heck and by Mr. Erfani's audit is attributable in large measure to the inability of Mr. Coco to produce for Mr. Erfani all the records required to substantiate claims for ITCs. From the evidence of Mr. Heck and Mr. Erfani, I conclude that Mr. Erfani was justified in making the assessments that he did, because the records of Casa Bella were in such a state that it was unable to establish its full ITC entitlement. I also conclude that if the Casa Bella records had been properly maintained then the net tax liability would have been in the order of magnitude estimated by Mr. Heck, which is to say about $4,500.
+
+the statutory provisions
+
+[7] The following provisions of the Act are relevant to the resolution of the issues raised in these appeals.
+
+299(1) The Minister is not bound by any return, application or information provided by or on behalf of any person and may make an assessment, notwithstanding any return, application or information so provided or that no return, application or information has been provided.
+
+(2) Liability under this Part to pay or remit any tax, penalty, interest or other amount is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+
+(3) An assessment, subject to being vacated on an objection or appeal under this Part and subject to a reassessment, shall be deemed to be valid and binding.
+
+(3.1) Where a person (referred to in this subsection as the “body”) that is not an individual or a corporation is assessed in respect of any matter,
+
+(a) the assessment is not invalid only because one or more other persons (each of which is referred to in this subsection as a “representative”) who are liable for obligations of the body did not receive a notice of the assessment;
+
+(b) the assessment is binding on each representative of the body, subject to a reassessment of the body and the rights of the body to object to or appeal from the assessment under this Part; and
+
+(c) an assessment of a representative in respect of the same matter is binding on the representative subject only to a reassessment of the representative and the rights of the representative to object to or appeal from the assessment of the representative under this Part on the grounds that the representative is not a person who is liable to pay or remit an amount to which the assessment of the body relates, the body has been reassessed in respect of that matter or the assessment of the body in respect of that matter has been vacated.
+
+(4) An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.
+
+(5) An appeal from an assessment shall not be allowed by reasons only of an irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Part.
+
+300(1) After making an assessment, the Minister shall send to the person assessed a notice of the assessment.
+
+(2) A notice of assessment may include assessments in respect of any number or combination of reporting periods, transactions, rebates or amounts payable or remittable under this Part.
+
+301(1) Where an assessment is issued to a person in respect of net tax for a reporting period of the person, an amount (other than net tax) that became payable or remittable by the person during a reporting period of the person or a rebate of an amount paid or remitted by the person during a reporting period of the person, for the purposes of this section, the person is a "specified person" in respect of the assessment or a notice of objection to the assessment if
+
+(a) the person was a listed financial institution described in any of subparagraphs 149(1)(a)(i) to (x) during that reporting period; or
+
+(b) the person was not a charity during that reporting period and the person's threshold amounts, determined in accordance with subsection 249(1), exceed $6 million for both the person's fiscal year that includes the reporting period and the person's previous fiscal year.
+
+(1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+
+...
+
+302 Where a person files a notice of objection to an assessment and the Minister sends to the person a notice of a reassessment or an additional assessment, in respect of any matter dealt with in the notice of objection, the person may, within ninety days after the day the notice of reassessment or additional assessment was sent by the Minister,
+
+(a) appeal therefrom to the Tax Court; or
+
+(b) where an appeal has already been instituted in respect of the matter, amend the appeal by joining thereto an appeal in respect of the reassessment or additional assessment in such manner and on such terms as the Tax Court directs.
+
+...
+
+313(1) All taxes, net taxes, interest, penalties, costs and other amounts payable under this Part are debts due to Her Majesty in right of Canada and are recoverable as such in the Federal Court or any other court of competent jurisdiction or in any other manner provided under this Part.
+
+(2) No proceedings for the recovery of any tax, net tax, penalty, interest or other amount payable or remittable by a person under this Part shall be commenced in a court
+
+(a) in the case of an amount they may be assessed under this Part, unless at the time the action is commenced the person has been or may be assessed for that amount; and
+
+(b) in any other case, more than four years after the person became liable to pay or remit the amount.
+
+(3) Where a judgment is obtained for any tax, net tax, penalty, interest or other amount payable or remittable under this Part, including a certificate registered under section 316, the provisions of this Part by which a penalty or interest is payable for failure to pay or remit the amount apply, with such modifications as the circumstances require, to failure to pay the judgment debt, and the penalty and interest are recoverable in like manner as the judgment debt.
+
+...
+
+323(1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+
+(2) A director of a corporation is not liable under subsection (1) unless
+
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+
+(c) the corporation has made an assignment or a receiving order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or receiving order.
+
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+
+(4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+
+(6) Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+
+(7) Where a director of a corporation pays an amount in respect of a corporation's liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director's payment, which assignment the Minister is empowered to make.
+
+(8) A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+
+the issues
+
+(i) do the clerical errors vitiate the assessments?
+
+[8] The Appellants' submission with respect to this issue is that the particulars given in the assessments issued to each of the Appellants, and from which they now appeal, state inaccurately the period for which Casa Bella became liable for the GST, penalty and interest amounting to $41,214.39 which is the subject of the assessments, and they also state inaccurately, in Schedule "A" attached to each assessment, the composition of that amount. The operative part of the assessments complained of and Schedule "A" read:[6]
+
+This Notice of Assessment is issued in respect of the liability under:
+
+Subsection 323(1) of the Excise Tax Act in the amount of $41,214.39 in respect of a failure by Casa Bella Interiors Ltd. to remit net tax as required under Subsection 228(2) of the Excise Tax Act. The amount of $41,214.39 is composed of the following amounts:
+
+- $16,536.36 net tax remittable by Casa Bella Interiors Ltd. for the quarterly reporting November 1, 1993 to January 31, 1994, and May 1, 1993 to July 31, 1993 as determined by Audit and broken down in the attached Schedule "A", in the amount of $41,214.39, which amount Casa Bella Interiors Ltd. failed to remit on or before dates as required by Subsection 228(2) of the Excise Tax Act.
+
+- Accrued interest of $11,570.98 on the above net tax amount.
+
+- Accrued penalty of $13,107.05 on the above net tax amount as broken down in the attached Schedule "A".
+
+AMOUNT ASSESSED: $41,214.39
+
+---
+
+Casa Bella Interiors Ltd
+
+Schedule "A"
+
+Period Ending Tax Interest Penalty Period Total
+
+January 31, 1994 $ 4,754.82 $ 1,946.20 $ 2,325.57 $ 9,026.59
+
+July 31, 1993 $11,781.54 $ 9,624.78 $10,781.48 $32,187.80
+
+$16,536.36 $11,570.98 $13,107.05 $41,214.39
+
+[9] From the face of the assessment it is clear that it erroneously refers to a total period from May 1, 1993 to January 31, 1994 as being the period for which the liability of Casa Bella arose, instead of a period beginning on January 1, 1991. That the breakdown provided in Schedule 'A' is inaccurate is admitted in the Respondent's Reply to the Notice of Appeal. Paragraphs 7 and 8 read:
+
+7. By Notice of Assessment – Third Party number 10BP – 10083354ORT-72095, dated May 28, 1998, the Minister assessed the Appellant $41,214.39 in respect of the failure of the Corporation to remit net tax pursuant to subsection 228(2) of the Excise Tax Act (the "Act") for the relevant period. The amount assessed was calculated as follows:
+
+Period End Net Tax Interest Penalty Total
+
+31-Jan-94 $ 4,754.82 $ 1,946.20 $ 2,325.57 $ 9,026.59
+
+31-Jul-93 $11,781.54 $ 9,624.78 $10,781.48 $32,187.80
+
+Total $16,536.36 $11,570.98 $13,107.05 $41,214.39
+
+8. The total amount assessed of $41,214.39 as referred to in paragraph 7 supra is correct. However, the Minister states that due to a clerical error the amount assessed should have been allocated as follows:
+
+Period End Net Tax Interest Penalty Total
+
+31-Jan-94 $ 5,649.60 $ 1,520.95 $ 1,856.04 $ 9,026.59
+
+31-Jul-93 $15,996.70 $ 7,509.37 $ 8,681.73 $32,187.80
+
+Total $21,646.30 $ 9,030.32 $10,537.77 $41,214.39
+
+10] Counsel for the Appellants relies on the obiter statement of Cullen J. of the Federal Court Trial Division in The Queen v. Riendeau[7] to the effect that where there is a "substantial and fundamental error" in an assessment made under the Income Tax Act, the assessment will be invalidated, notwithstanding the provisions of subsections 152(3) and (8) and section 166 of that Act. The errors in these assessments, he says, are substantial and fundamental.
+
+[11] Hamlyn J. of this Court, in Willow Pond Services Ltd. v. The Queen,[8] declined to give effect to a similar argument in respect of an assessment for GST where the assessment wrongly referred to a period from August 1, 1991 to August 31, 1991, when the assessment was in fact for the period from January 1, 1991 to July 31, 1991. He was of the view that the error in that case was not a "substantial or fundamental error". More recently, the Federal Court of Appeal has stated the test in terms of whether the taxpayer was misled by the assessment.[9]
+
+[12] In my view the Appellants cannot succeed on this issue. These assessments are for the liability of Casa Bella at the time the certificate was filed, and that liability is said on the face of the assessments to be $41,214.39. The other information on the assessments, including the breakdown in Schedule "A", is surplusage. It need not have been included at all. Moreover, there is no evidence to suggest that any of the Appellants was in any way misled or prejudiced by the erroneous information as to the time periods during which the various components of Casa Bella's liability arose. Subsection 299(4) of the Act is unambiguous. The assessments are, subject to objection or appeal, valid and binding, despite the admitted errors. No objection was filed, other than the one which led to the reassessment for the period ending January 31, 1994. There has been no appeal.
+
+(ii) can the Appellants now challenge the Casa Bella assessments?
+
+[13] In view of the conclusions that I have previously reached that Mr. Erfani was justified in making the assessment that he did of Casa Bella's liability, and that Casa Bella could not have established a further entitlement to ITCs if it had appealed the assessment, it is not strictly necessary to decide this issue. Nevertheless, I am of the opinion that it is not open to the Appellants to challenge the correctness of the Casa Bella assessments in these appeals.
+
+[14] Several decisions of this Court have taken a contrary view in appeals from assessments made under section 160 of the Income Tax Act, where persons to whom taxpayers have transferred their property in non-arm's-length transactions for inadequate or no consideration, have sought to attack the underlying assessments against the transferors. Most of these cases were reviewed by Mogan J. in the course of his judgment in Schafer v. Canada.[10] That case arose under section 325 of the Act, which is similar in purpose and structure to section 160 of the Income Tax Act. After reviewing the section 160 cases, Mogan J. concluded, largely on the basis of section 299 of the Act, that such an attack on the underlying assessment is not available on a proper construction of the legislation. I agree with Mogan J.'s analysis and conclusion, for the reasons that he gave there. Subsections 299(3) and (4) of the Act render the underlying assessment immune to any collateral attack on an appeal from a derivative assessment. That underlying assessment, if it has not been varied or vacated as the result of a successful objection or appeal, absolutely fixes the amount of the corporation's liability. It is that liability, so fixed, for which the directors may become liable under section 323, if the conditions of that section are satisfied.
+
+[15] This ground of appeal fails, therefore, both because no collateral attack on the Casa Bella assessment is available, and because if one were available it would not succeed.
+
+(iii) did the Appellants exercise due diligence?
+
+[16] Counsel for the Appellants asserted that even if the Appellants could not succeed completely in making out a defence of due diligence under subsection 323(3), they should succeed to the extent of limiting their liability under subsection 323(1) to a reasonable amount, by which I understood him to mean the $4,522 estimated by Mr. Heck to be the amount of Casa Bella's liability. This is simply another attempt to attack the underlying assessments indirectly. Counsel did not elaborate any reasoning by which subsection 323(3) could have this effect, and none occurs to me. The evidence in this case simply does not support the proposition that the directors, or any of them, exercised due diligence to prevent the failure of Casa Bella to pay the GST it was obliged to pay. The evidence establishes that the recordkeeping carried out by Mr. Coco was deficient. A proper system of bookkeeping would have enabled Casa Bella to establish its liability precisely from time to time. It is true that the company failed in its duty to remit tax mainly because it failed to make proper returns of its liability, but that is of no assistance to the directors, because they have not shown that they did what reasonable business people would do to ensure that accurate returns were filed. Nor did they maintain adequate records to support the ITC claims. Mr. Erfani's evidence was that the records he was given were simply untabulated receipts in envelopes and boxes. Neither Mr. Papa nor Mr. Mancini testified, and no evidence was led from other sources to show that either of them had taken any steps at all to ensure that the company would file accurate returns and remit the tax as it fell due. This ground of appeal fails on the evidence.
+
+[17] The appeals are dismissed.
+
+Signed at Ottawa, Canada, this 17th day of August, 2000.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Exhibit A-1, Tab 6.
+
+[2] Exhibit A-1, Tab 7.
+
+[3] Exhibit A-1, Tab 8.
+
+[4] Section 169(4)(a).
+
+[5] P.C. 1990-2755.
+
+[6] Exhibit A-1, Tab 11.
+
+[7] [1990] 1 C.T.C. 141 at 147.
+
+[8] [1998] G.S.T.C. 71.
+
+[9] Friedberg v. The Queen, [2000] 2 C.T.C. 370.
+
+[10] [1998] G.S.T.C. 7.
+

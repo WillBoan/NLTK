@@ -1,0 +1,722 @@
+Date: 19991014
+
+Docket: 98-1768-IT-G
+
+BETWEEN:
+
+THE ESTATE OF THE LATE FREDERICK J. HAAS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Margeson, J.T.C.C.
+
+[1] This case proceeded on the basis of an Agreed Statement of Facts as contained in Exhibit A-1, admitted by consent of the parties. This Exhibit also contained a number of documents, likewise admitted by consent. The Agreed Statement of Facts is as follows:
+
+"The parties hereby agree that for purposes only of this Appeal and any Appeal therefrom or any other proceeding taken in this matter, the facts set out herein are true. Either party may adduce other evidence, not inconsistent with these facts. The parties also agree that the documents referred to herein are true copies of the documents they represent, were signed by the persons who purported to have signed them, and were signed on the dates they were purportedly signed. Either party may adduce other documents, not inconsistent with these documents.
+
+1. At all material times, Mr. Frederick J. Haas ("Haas") was a resident of the United States for purposes of both the Income Tax Act, RSC 1985 (5th Supp.), c.1, as amended (the "Act") and the 1980 Canada-United States Income Tax Convention, 1980, as amended (the "Treaty").
+
+2. Haas died on October 31, 1991.
+
+3. At all material times, the John I. Haas Hop Company (Canada) Ltd. (the "Company") was a Canadian corporation.
+
+4. As of October 30, 1991, the Company had issued an outstanding 1,397 common shares.
+
+5. Prior to his death, Haas had acquired a total of 1,139 of the issued and outstanding shares of the Company (the "Shares"), on the dates and in the numbers set out in Tab 1. All but one of the Shares were acquired prior to December 31, 1971. Haas owned the Shares at death.
+
+6. Pursuant to paragraph 70(5)(a) of the Act, Haas was deemed to have disposed of his Shares at their fair market value ("FMV") immediately before his death (the "Deemed Disposition"). Accordingly, the Deemed Disposition occurred in Haas, 1991 taxation year.
+
+7. In filing Haas' 1991 tax return, Haas' Estate calculated and reported the capital gain arising from the Deemed Disposition by using a FMV for the Shares immediately before death of $12,077,307 (all figures are Canadian dollars).
+
+8. By Notice of Assessment dated April 27, 1995, the Minister of National Revenue (the "Minister") assessed the Estate for Haas' 1991 taxation year. In so assessing, the Minister added to income taxable capital gains from the Deemed Disposition in the amount of $12,359,983 calculated as follows:
+
+FMV of Shares immediately before death $19,712,958
+
+Less: Adjusted Cost Base ("ACB") of Shares on
+
+December 31, 1971 ("V-Day") ($3,232,979)
+
+$16,479,977
+
+Times 75% 75%
+
+$12,359,983
+
+9. The Estate timely filed a Notice of Objection to the April 27, 1995 assessment.
+
+10. On February 21, 1997, the Estate and the Minister reached a settlement (the "Settlement") on the basis that the FMV of the Shares immediately before death was $17,500,000 (Tab 2).
+
+11. In respect of all but one of the Shares (which one Share was acquired after 1984) the capital gain arising from the Deemed Disposition was subject to reduction under Article XIII(9) of the Treaty.
+
+12. In the Settlement the parties did not agree on the amount by which the capital gain arising from the Deemed Disposition should be reduced under Article XIII(9) of the Treaty. The Settlement preserved the Estate's right to object to the Minister's calculation of the amount determined under that Article.
+
+13. By Notice of Reassessment dated May 20, 1997 (Tab 3), the Minister reassessed the Estate for Haas' 1991 taxation year to implement the Settlement. In so reassessing, the Minister reduced the income inclusion resulting from the Deemed Disposition after applying Article XIII(9) of the Treaty to $3,694,199 (Tab 1) calculated as follows:
+
+FMV of Shares immediately before death $17,500,000
+
+Less: ACB = FMV of Shares on V-Day ($3,232,979)
+
+$14,267,021
+
+Less: Reduction under Article XIII(9) ($9,341,423)
+
+$4,925,599
+
+Times 75% 75%
+
+$3,694,199
+
+14. As set out directly above, the Minister calculated the reduction in the capital gain pursuant to Article XIII(9) to be $9,341,423, using the following formula:
+
+Reduction = Gain x number of months after V-Day to 1985
+
+number of months after V-Day to date of death
+
+where "Gain" = FMV of Shares immediately before death ($17,500,000)
+
+less: ACB = FMV of Shares on V-Day ($3,232,979).
+
+15. The Estate objected to the May 20, 1997 reassessment by Notice of Objection dated June 3, 1997 (Tab 4). For purposes of this case the only relevant matter objected to was the formula used by the Minister to compute the reduction of capital gain under Article XIII(9).
+
+16. By Notice of Reassessment dated September 22, 1997 (Tab 5), the Minister reassessed the Estate for Haas' year ending October 30, 1991 in respect of an unrelated matter, but did not alter the reduction in capital gains from the Deemed Disposition under Article XIII(9) of $9,341,423.
+
+17. The Estate objected to the September 22, 1997 reassessment by Notice of Objection dated December 5, 1997 (Tab 6). The Minister confirmed the reassessment by Notice of Confirmation dated April 3, 1998 (Tab 7).
+
+18. In the Notice of Objection dated December 5, 1997 (Tab 6), the Estate took the position that the income inclusion resulting from the Deemed Disposition, after applying Article XIII(9) of the Treaty, should be $2,359,007 (Tab 8), calculated as follows:
+
+FMV of Shares immediately before death $17,500,000
+
+Less: Original cost of Shares ($654,386)
+
+$16,854,614
+
+Less: Reduction under Article XIII(9) ($13,700,271)
+
+$3,145,343
+
+Times 75% 75%
+
+$2,359,007
+
+19. As set out directly above, the Estate took the position that the reduction in the capital gain pursuant to Article XIII(9) should be $13,700,271, using the following formula:
+
+Reduction = Gain x number of months from date Shares acquired to 1985
+
+number of months from date Shares acquired to date of death
+
+Where "Gain" FMV of Shares immediately before death ($17,500,000)
+
+Less: Original cost of the Shares ($654,386).
+
+20. The FMV of the Shares on V-Day ($2,840.93 per Share) and the original cost of the Shares ($654,386) are not in dispute.
+
+21. Prior to the enactment in the United States of the Foreign Investment in Real Property Act ("FIRPTA"), Public Law no. 96-499, subtitle C, enacted on December 5, 1980, effective for dispositions occurring after June 18, 1980, Canadian residents were not subject to tax in the US on capital gains arising from dispositions of direct or indirect interests in real property situated in the US, unless such gain was effectively connected to a US trade or business.
+
+22. Under FIRPTA (subject to the Treaty) Canadian residents are subject to tax in the US on capital gains arising from dispositions of US Real Property Interests ("URRPIs"), as defined by FIRPTA.
+
+23. FIRPTA applies to Canadian residents realizing capital gains on disposing of USRPIs even if those residents acquired the USRPI prior to the enactment or effective date of FIRPTA.
+
+24. Neither FIRPTA nor any other US tax law (but subject to any tax treaty to which the US is a party), contains a rule similar in purpose or effect to the Canadian rule, sometimes known as the V-Day Rule, set out in ITAR 26(3), which would exempt from US tax all or a portion of a capital gain realized by a Canadian resident on the disposition of a USRPI (this paragraph shall not be interpreted as implying that such an exemption may exist under a US law other than FIRPTA).
+
+25. Subject to the FIRPTA rules, a USRPI includes a direct interest in US real property and a share of a US corporation if generally 50% or more of its assets by value consists of US real property."
+
+Argument of the Appellant
+
+[2] The Appellant submitted a detailed written argument as follows:
+
+I. At the time of his death on October 31, 1991, Mr. Haas owned shares (the "Shares") in a private Canadian company (the "Company"). The Shares were deemed to have been disposed of immediately before death at fair market value[1], pursuant to paragraph 70(5)(a) of the Income Tax Act (Canada) (the "Act").
+
+Income Tax Act, RSC 1985 (5th Supp.), c. 1, as amended,
+
+paragraph 70(5)(a), Tab 1.
+
+2. In filing Mr. Haas' terminal year return, the Estate took the position that the capital gains deemed to arise under paragraph 70(5)(a) should be reduced under Article XIII(9) of the 1980 Canada-United States Income Tax Convention, which came into force generally on January 1, 1985.
+
+3. By a series of reassessments ending with a Notice of Reassessment dated September 22, 1997 the Minister agreed that Article X111(9) did apply to reduce the capital gains, but did not agree with the Estate's calculation of the reduction permitted by that Article. Hence, this case.
+
+4. Article XIII(9) of the 1980 Treaty allows a reduction in gain based on either a monthly pro ration to January 1, 1985 or an actual valuation on that date. In this case the Estate relies on the monthly pro ration method.
+
+1980 Canada-US Income Tax Convention (with historical notes),
+
+6 Canadian Tax Reporter (CCH), Tab 2.
+
+5. Normally a disposition of shares of a Canadian company owned by a US resident would not be taxable under the Treaty. However, the Company's value was more than 50% derived from Canadian real property as of October 31, 1991. Hence, the Deemed Disposition was taxable in accordance with Articles XIII(I) and XIII(3)(b)(ii) of the 1980 Treaty as they read for the 1991 taxation year, subject to reduction under Article XIII(9).
+
+1980 Treaty, supra Tab 2, Articles XIII(l) and (3)(b)(ii).
+
+Two possible Interpretations
+
+6. There are two potential methods of interpreting and applying Article XIII(9). On the one hand, the Minister calculated the reduction in the capital gain pursuant to Article XIII(9) to be $9,341,423, using the following formula:
+
+Reduction = Gain x number of months after V-Day to 1985
+
+number of months after V-Day to date of death
+
+Where "Gain" FMV of Shares immediately before death ($17,500,000)
+
+Less: ACB=FMV of Shares on V-Day ($3,232,979).
+
+7. The reference to "V-Day" in this formula is a reference to December 31, 1971, commonly known as "valuation day". Subsection 26(3) of the Income Tax Application Rules ("ITAR"), RSC 1985 (5th Supp.), c. 2, as amended, states that the adjusted cost base of any asset owned before 1972 is, subject to certain conditions, the fair market value of the asset on December 31, 1971[2]
+
+8. In contrast to the Minister's formula, the Estate took the position that the reduction in the capital gain pursuant to Article XIII(9) should be $13,700,271, using the following formula:
+
+Reduction = Gain x number of months from date Shares acquired to 1985 number of months from date Shares acquired to date of death
+
+Where "Gain" = FMV of Shares immediately before death ($17,500,000)
+
+Less: Original cost of the Shares ($654,386)[3].
+
+9. By contrasting the Minister's formula with the Estate's formula, it is apparent that the parties have a fundamentally different understanding of the proper interpretation of Article XIII(9). The Minister, in essence, says that one starts with the amount of gain that is taxable under the Act, namely, FMV at death less V-Day value. That is to say, the Minister's position is that the word "gain" in Article XIII(9) means the gain as determined under the Act. One then reduces this by a pro rata portion of the gain, based on the number of months from V-Day to the date of death.
+
+10. On the other hand, the Estate says that the word "gain" in Article XIII(9) does not have the meaning it has under the Act. Rather, it means the total increase in value in the Shares, from the date they were acquired to the date of death. One then reduces this by a pro rata portion of the entire time Mr. Haas held the Shares.
+
+Issue
+
+11. Accordingly, the fundamental issue in this case is as follows: does the word "gain" in Article XIII(9) mean the gain as determined under the Act or does it mean the gain as normally determined apart from the Act?
+
+Article III(2)
+
+12. The word "gain" is not defined for purposes of Article XIII(9). Article III(2) of the Treaty states[4] that the word "gain" in Article XIII(9) has the meaning it has under the Act, unless the context otherwise requires. The Estate's position is that the "context" of Article XIII(9) requires that the word "gain" in that Article be given the meaning it would have in both Canada and the US. The only meaning that so qualifies is the total increase in value from the date of acquisition to the date of disposition.
+
+13. In Kubicek the Court held that "gain" in Article XIII(9) takes its meaning from the Act and from ITAR 26(3), pursuant to Article III(2). However, a review of the Factums filed by the parties in the Federal Court of Appeal indicate that the Court was not aware of the full context in which Article XIII(9) was drafted. In particular, the Court did not have before it the US rules relating to FIRPTA nor the interpretation the US would place on Article XIII(9) as a result of FIRPTA. In these circumstances the decision in Kubicek is per incuriam and not binding on this Court.
+
+The Attorney General of Canada v. William F. Kubicek III,
+
+Executor for the Estate of the Late William F. Kubicek Jr.,
+
+97 DTC 5454 (FCA) Tab 3.
+
+Applicant's and Respondent's Factums as filed in Kubicek, Tab 4.
+
+R. v. Paul (1984), 58 N.B.R. (2d) 297 (P. Ct.),
+
+aff'd (1988), 90 N.B.R. (2d) 332 (QB), Tab 5.
+
+14. The "context" referred to in Article III(2) means the purpose and background of the provision in which the term appears.
+
+Department of Finance News Release No. 84-128, August 16, 1984
+
+and 1984 US Treasury Department Technical Explanation, Tab 6.
+
+What is the Context of Article III(9)?
+
+15. The context of Article III(9) must be addressed from both the Canadian and US points of view. Both lead to the same conclusion: "gain" in that Article means the gain accrued over the entire holding period of the asset.
+
+The Canadian Context for Article XIII(9)
+
+16. Prior to January 1, 1985, Canada and the US had entered into a previous Treaty, namely, the 1942 Canada-US Income Tax Treaty (the "1942 Treaty"). Under Article VIII of the 1942 Treaty, Canada and the US provided a complete reciprocal exemption from capital gains derived in their respective countries. That is, if the Shares had been disposed of while the 1942 Treaty was in effect (i.e., at any time before January 1, 1985), the entire gain would have been exempt from tax in Canada.
+
+1942 Canada-United-States Income Tax Convention, Tab 7.
+
+17. Under Article XIII of the 1980 Treaty, both countries agreed to reduce (but not entirely eliminate) the, protection previously offered by Article VIII of the 1942 Treaty. However, it was agreed that it would be unfair to eliminate Article VIII's protection without offering a transitional rule for people who had acquired assets in reliance on Article VIII. Accordingly, Canada agreed to insert Article XIII(9) to grandfather such previously acquired assets.
+
+US Technical Explanation of Article XIII(9), supra, Tab 6.
+
+Hansard, House of Commons, June 22, 1984, 5097 at 5098, Tab 8.
+
+Hansard, Senate, May 30, 1984, 625, Tab 9.
+
+Proceedings of the Senate Standing Committee on Banking,
+
+Trade and Commerce, May 31, 1984,
+
+Issue No. 7, p. 16, Tab 10
+
+(hereafter "Canadian Senate Committee Report").
+
+Canadian Senate Committee Report, June 5, 1984,
+
+Issue No. 8, p. 13, Tab 11.
+
+Department of Finance Release No. 83-84, June 14, 1983, Tab 12.
+
+18. Based on this material, Article XIII(9) was to be a transitional rule from Article VIII of the 1942 Treaty, which applied to the entire gain, even the portion that accrued before 1972. This is expressly stated in the Canadian Senate Committee Report, 7:16, supra Tab 10. Thus, the Canadian "context" for Article XIII(9) is a transitional measure from Article VIII of the 1942 Treaty, not from ITAR 26(3).
+
+Ruchelman and Webb, "Highlights of the New U.S.-Canada
+
+Tax Treaty", TMIJ 80-12, 3 at 11, Tab 13[5]
+
+19. Moreover, for purposes of Article XIII(3)(b)(i), "real property" has the meaning it has under Article VI. Article VI states that "real property" has the meaning it has under Canada's domestic law. If Article XIII refers to Canada's domestic law to interpret "real property", normal principles of interpretation suggest that "gain" in Article XIII is not to be interpreted according to domestic law. Otherwise, why does one need the reference to domestic law in Article VI? That is, the "context" of Article XIII suggests a non-domestic interpretation of "gain" because other terms are specifically interpreted according to domestic law. This point was not before the Court in Kubicek.
+
+The US Context for Article XIII(9)
+
+20. Prior to 1980, a non-US resident owning US real property (directly or through shares) was not taxable in the US under US domestic law when that property was disposed of[6].
+
+21. Pursuant to the Foreign Investment in Real Property Act ("FIRPTA"), Public Law no. 96-499, subtitle C, enacted on December 5, 1980, effective for dispositions occurring after June 18, 1980, this rule was reversed, so that a Canadian resident owning US real property, directly or through shares, was taxable in the US on a disposition of that property. FIRPTA applies for dispositions after June 18, 1980 regardless of when the property was acquired. In other words, FIRPTA does not contain any V-Day rule similar to ITAR 26(3), which means the entire gain, from the date of acquisition to the date of disposition, is subject to FIRPTA, even if the property was acquired long before FIRPTA was enacted.
+
+Statement of Agreed Facts, paragraphs 21 to 25.
+
+Canadian Senate Committee Report, supra, Tab 10 at 7:16.
+
+Kaplan, "Taxation of Sales of Foreign-Owned Real Estate",
+
+Intertax, 1981, Vol. 3, 88 at 89, 95, Tab 14.
+
+22. The first version of the 1980 Treaty was signed on September 26, 1980. The first version of Article XIII was not fully in accordance with FIRPTA. Accordingly, the US Senate refused to ratify it and called for further revisions.
+
+Canadian Senate Committee Report, supra Tab 11 at 8:13.
+
+Melnick, "Protocol to US-Canadian Treaty Will Conform
+
+Treaty Rules to US FIRPTA",
+
+Tax Planning International Review, Vol. 11, No. 1,
+
+January 1984, 16, Tab 15.
+
+23. The First Protocol to the 1980 Treaty was signed on June 14, 1983[7]. Under the First Protocol Article XIII was re-drafted to conform it with FIRPTA.
+
+US Treasury Department News Release, June 24, 1983, Tab 16.
+
+June 14, 1983 Department of Finance Press Release, supra, Tab 12.
+
+24. It is apparent that Article III was profoundly influenced by the enactment of FIRPTA and was finally drafted to be in accordance with FIRPTA. "In interpreting a treaty, the paramount goal is to find the meaning of the words in question. This process involves looking to the language used and to the intentions of the parties."
+
+The Queen v. Crown Forest Industries Ltd.,
+
+95 DTC 5389 (SCC) at 5393, Tab 17.
+
+25. As noted in paragraph 21 above, under FIRPTA a Canadian owner of US real property (directly or through shares of a US company) will be taxed on the disposition regardless of when he acquired it. In other words, FIRPTA does not have a V-Day rule similar to ITAR 26(3). This means that under FIRPTA the entire gain is taxed, from the date the property was acquired to the date of disposition. Article XIII(9) was intended to provide a continuation of the 1942 exemption up to January 1, 1985. But this means that Article XIII(9) was intended to exempt the entire gain, from the date of acquisition to January 1, 1985, since that is the amount of gain that would have been exempt under the 1942 Treaty.
+
+Canadian Senate Committee Report, supra, Tab 10 at 7:16.
+
+Ruchelman and Webb, supra, Tab 13.
+
+Alpert, "The Co-Ordination Between The New Canada-US Treaty
+
+and the US Foreign Investment in Real Property Tax Act" (1981),
+
+29 Canadian Tax Journal 558, Tab 18.
+
+Bissell et. al., "The Canadian Departure Tax: U.S.-Canada
+
+Tax Treaty Implications", TMIJ 82-8, 3 at 7, Tab 19.
+
+Rhoades and Langer, Income Taxation of Foreign Related
+
+Transactions (Matthew Bender, loose-leaf), § 25.13, Tab 20.
+
+The US Legislative History
+
+26. The US legislative history of the 1980 Treaty can be an important aid in its interpretation. See Crown Forest, supra Tab 17 at p. 5396. The conclusion that Article XIII(9) was intended to provide a transitional rule for the entire gain because FIRPTA did not contain a transitional rule, and, more importantly, that this understanding of Article XIII(9) was intended to be reciprocal, is established by the US legislative history of that Article.
+
+Explanation of Proposed Income Tax Treaty Between
+
+the United States and Canada, Staff of the Joint Committee
+
+on Taxation, September 22, 1981, reproduced in Roberts & Holland,
+
+3 Legislative History of United States Tax Conventions
+
+("LHUSTC") Canada 340 at 370-371,
+
+Tab 21[8]
+
+Explanation of Proposed Income Tax Treaty
+
+Between the United States and Canada, Staff of the Joint Committee
+
+on Taxation, April 25, 1984, 4 LHUSTC Canada 925 at 965, Tab 22[9].
+
+Report of the Senate Foreign Relations Committee, May 21, 1984,
+
+4 LHUSTC Canada 1092 at 1126,Tab 23.
+
+Minutes of Proceedings before the Senate Foreign Relations
+
+Committee, September 24, 1981,
+
+3 LHUSTC Canada 386 at 424, Tab 24.
+
+27. There is no ambiguity about Mr. Chapoton's statement at Tab 24. That statement sets out clearly that US residents investing in Canadian real property are entitled to the same protection as Canadian investors in US real property. In other words, Article XIII(9) is intended to be a reciprocal provision.
+
+Statement of Steven Lainoff before the
+
+Senate Foreign Relations Committee, April 26, 1984,
+
+Tax Analysts Microfiche document 84-3263,
+
+Tab 25 at p, 2, 3.
+
+The US Technical Explanation
+
+28. The practice of the US Treasury Department is to release a Technical Explanation of any new tax treaty. In the case of the 1980 Treaty, the Treasury Department released three Technical Explanations. The first was issued January 19, 1981[10], the second on September 24, 1981[11] and the third on April 26, 1984[12].
+
+29. The Minister of Finance endorsed all three versions of the Technical Explanation[13]. Note especially that Canada reviewed and commented on the three versions of the Technical Explanation before they were released and approved their final contents. The Canadian Senate, in approving the Treaty, understood that the Technical Explanation was to be relied on in interpreting the Treaty.
+
+Department of Finance News Release No. 81-16,
+
+February 4, 1981, Tab 26[14].
+
+Department of Finance News Release No. 84-128, August 16, 1984,
+
+supra, Tab 6.
+
+Canadian Senate Committee Report, supra, Tab 10 at p. 7:13-14;
+
+Canadian Senate Committee Report, supra, Tab 11, at p. 8:11-12.
+
+30. In Kubicek, supra, Tab 3 at p. 5456 the Court stated:
+
+There is no international tradition or procedure for an exchange of subsequently bargained documents as determinative of treaty interpretation. The Technical Explanation is a domestic American document. True, it is stated to have the endorsation [sic] of the Canadian Minister of Finance, but in order to bind Canada it would have to amount to another convention, which it does not. From the Canadian viewpoint, it has about the same status as a Revenue Canada interpretation bulletin, of interest to a Court but not necessarily decisive of an issue.
+
+31. This statement is per incuriam because the Court was not told that Canada reviewed and commented on all three versions of the US Technical Explanation before they were released. Furthermore, the Court was not told that the Canadian Senate knew of the Technical Explanation and understood that it would be relevant to the interpretation of the Treaty before approving the Treaty. Lastly, the Court was not told that the US Senate Committee on Foreign Relations took Canada's approval of the Technical Explanation into account in approving the final version of the 1980 Treaty.
+
+32. It is clear that the Canadian acceptance of the U.S. Technical Explanation was more than simply an acknowledgement of the Explanation's existence. Rather, it was an endorsement of the actual language used in the Explanation. Accordingly, it should be given great weight in the determination of the proper purpose and meaning of Article XIII(9). The Court in Kubicek said the Technical Explanation would bind Canada if it amounted to another Convention, but this is exactly the conclusion arrived at by the ALI.
+
+The North West Life Assurance Company of Canada v.
+
+Commissioner of Internal Revenue, 107 T.C. 363, 385 (1996),
+
+Tab 27.
+
+American Law Institute,
+
+International Aspects of United States Taxation II:
+
+Proposals on United States Income Tax Treaties,
+
+(Philadelphia: American Law Institute, 1992), 18-19, 35-36, 45,
+
+48-49, Tab 28.
+
+33. The importance of the Technical Explanation is supported by a question and answer from the Revenue Canada Round Table held on May 14, 1985, just shortly after the 1980 Treaty went into effect. This was not brought to the Court's attention in Kubicek.
+
+Muirhead and Harding, "Problems in Tax Treaty Interpretation",
+
+Special Seminar on Recent Developments in Tax Treaties and
+
+International Taxation (De Boo, International Fiscal Association,
+
+Canadian Branch, May 14, 1985), 41 at 45, Tab 29.
+
+What Does the Technical Explanation Say?
+
+34. The Technical Explanation of Article XIII(9) supports the Appellant's interpretation of that Article. In light of the history of Article XIII(9) outlined above, the phrase, "the period during which the 12ropeqy was held up to and including December 31 of the year in which the documents of ratification are exchange"[15] can only mean the entire holding period of the property, from the date the property was acquired to January 1, 1985. Similarly, the phrases "total gain" and "the number of full calendar months the property was held by such person"[16] can only refer to the total accrued gain from the date of acquisition to the date of disposition. No other meaning is possible, given that Article XIII(9) was intended to be a transitional provision from Article VIII of the 1942 Treaty (not from ITAR 26(3)) such that all gain accrued under Article VIII would continue to be exempt up to January 1, 1985.
+
+35. In Kubicek supra, Tab 3 at p. 5456 the Court said:
+
+In any event, the document [the Technical Explanation] should not be interpreted as if it were a treaty or statute dealing in detail with every possible application to particular facts. The term "held" would be literally accurate in general, but is not qualified to deal with the particular situation of property held in Canada by a U.S. resident prior to 1992 [sic, 1972].
+
+36. However, Mr. Lainoff's testimony contradicts this. At Tab 25, p. 2 he says: "All of the changes made by the [First] Protocol are, of course, described in the Technical Explanation."
+
+Conclusion
+
+37. Normally of course the Tax Court is bound by a decision of the Federal Court of Appeal. However, in the case at Bar the Appellant has adduced significant new factual and legislative evidence that was not before the Court in Kubicek. In fact, Mr. Lainoff's statement has never been published anywhere before. This new evidence supports the following conclusions:
+
+(1) Canada intended the Technical Explanation to be much more than a mere Interpretation Bulletin. It intended it to be exactly what it says it is: an official guide to the Treaty.
+
+(2) the Technical Explanation was intended to be a complete explanation of the Treaty. There is no indication the Explanation merely overlooked or ignored ITAR 26(3).
+
+(3) Article XIII(9) was intended to be reciprocal.
+
+(4) the "period" referred to in the Technical Explanation and in Article XIII(9) can only mean the period for which the gain would have been exempt under Article VIII of the 1942 Treaty up to January 1, 1985, because Article XIII(9) was intended to continue the benefits of Article VIII up to January 1, 1985.
+
+38. Accordingly, in these circumstances the Court is justified in not following Kubicek. Thus, in this case the Estate's interpretation of Article XIII(9) is more consistent with the plain language of that Article, the plain language of the Technical Interpretation to that Article and the Canadian and US legislative histories of that Article.
+
+All of which is respectfully submitted.
+
+Counsel for the Appellant
+
+[3] In addition to the written argument, Counsel argued orally and submitted, in essence, that the formula which he proposed for the calculation of the capital gain arising from the Deemed Disposition was the correct one and that the formula used by the Minister was incorrect. The difference, in essence, was that the Minister chose V-Day as the correct date to determine the adjusted cost base of the shares and as a date for calculating the period that the gains were exempt from taxation, while the Appellant used the date of acquisition of the shares as the date for calculating the period that the gains were exempt from taxation. Counsel faced head on the problems for his position as created by the decision of the Federal Court of Appeal in the Attorney General of Canada v. William F. Kubicek III, Executor for the Estate of the Late William F. Kubicek Jr., 97 DTC 5454 (FCA). Generally speaking his argument was that the facts in Kubicek (supra) were not similar to the facts in the case at bar. None of the facts as contained in the Applicants and Respondents factums, as filed in that case, contained the material that is before this Court and therefore the unfavorable decision in Kubicek is not binding on this Court as the decision is per incuriam.
+
+[4] In support of this position he referred to the case of R. v. Paul (1984), 58 N.B.R. (2d) 297 (P Ct.); aff'd (1988), 90 N.B.R. (2d) 332(QB). The thrust of his argument was that the Kubicek case was under the Informal Procedure and that the Appellant in that case did not bring before the Federal Court of Appeal the documents that were necessary to show the history of the agreement between Canada and the United States, therefore, a reasonable interpretation of the intention of the legislature could not be established. It was the Appellant's contention that in the case at bar he has presented an abundance of evidence which should have the effect of establishing that the estate's interpretation of Article XIII(9) is more consistent with the plain language of that Article, the plain language of the technical interpretation to that Article and the Canada-US legislatuve histories of that Article. Consequently, this Court is justified in not following Kubicek.
+
+[5] In rebuttal, he argued that the decision in Kubicek (supra) was founded upon certain facts which do not exist in the present case. Therefore, the findings in Kubicek cannot preclude a different finding here. In that case the Court did not have the facts before it, which would enable it to make the finding which the Appellant seeks here.
+
+[6] The argument of the Respondent that the provision is not reciprocal and consequently an American citizen owning property in Canada may be taxed differently from a Canadian own property in the United States, is not acceptable. His position was that the provision is reciprocal.
+
+[7] The real problem with the cases cited by the Respondent is that according to the facts in those cases the Court did not know about the 1981 press release which he quoted in his argument.
+
+[8] Finally, he made the point that the Court must look to the Domestic Law to determine the issue unless the context requires otherwise. In the case at bar the context requires otherwise.
+
+[9] The appeal should be allowed with costs.
+
+Argument of the Respondent
+
+[10] From the perspective of the Respondent, the sole question was whether or not the Minister correctly calculated the exempt portion for capital gains under Article XIII(9). That merely means that the Court must decide whether the proper date for calculation purposes is the date of the acquisition of the assets or the date that the capital gains became taxable by Canada on December 31, 1971. Insofar as Counsel for the Respondent was concerned, the issue in this case was already decided by the Federal Court of Appeal in Kubicek (supra). The finding in that case was that the law that has to be applied is the law of Canada and that the period of exemption commences on V-Day and goes to the date of the convention which was 1985. The Minister has used the formula in Kubicek (supra) and he was correct in doing so.
+
+[11] In oral argument, Counsel referred to the case of Leroux v. Co-operators General Insurance Co.; Superintendent of Insurance Intervener 4 O.P. (3d), 609, which concluded that had Section 15 the Charter been in force, then the Court of Appeal's failure to consider its effect would have rendered the Court's decision per incuriam. Nevertheless, a Court of first instance would still be bound to follow the Court of Appeal's decision.
+
+[12] Kubicek (supra) is still binding on this Court and the Court should not follow R. v. Paul (supra). This should put an end to the issue in this case, but if the Court does not agree, then it must consider that in interpreting international treaties, one does not follow the same process as one does in interpreting other statutes. This was supported by the position taken by the Federal Court of Appeal in Kubicek (supra) when it referred to other cases on this issue including Coblentz v. The Queen (1996) 96 D.T.C. 6531 where Robertson, J.A., indicated:
+
+"literalism has no role to play in the interpretation of treaties."
+
+Further, the Court in Kubicek (supra) at page 5456, observed:
+
+"There is no international tradition or procedure for an exchange of subsequently bargained documents as determinative of treaty interpretation. The Technical Explanation is a domestic American document. True, it is stated to have the endorsation of the Canadian Minister of Finance, but in order to bind Canada it would have to amount to another convention, which it does not. From the Canadian viewpoint, it has about the same status as a Revenue Canada interpretation bulletin, of interest to a Court but not necessarily decisive of an issue."
+
+[13] Counsel also referred to the cases of Saundersv. M.N.R., 54 D.T.C. 524 (I.T.A.B.), Gladden Estate v. The Queen, 85 D.T.C. 5188 (F.C.T.D.) and The Queen v. Crown Forest Industries Ltd., 95 D.T.C. 5389 (S.C.C.) in support of these propositions.
+
+[14] In essence, in Kubicek (supra), the Court decided that all of the legislative history need not be considered as part of the context. This determination does not lead to an absurd result. The interpretation of "gain" in Kubicek (supra) is not manifestly unreasonable.
+
+[15] The purpose of the convention was to avoid double taxation, it was not to ensure that the amount of tax in both countries is the same.
+
+[16] In Coblentz (supra), the Court concluded that you look to the ordinary meaning first to see if there is any need to go further. The purpose is to avoid double taxation.
+
+[17] In interpreting the convention it is necessary to look to the purpose of the convention. The term "gain" is not defined in the 1980 convention, so one must go to the Domestic Legislation of Canada to define it.
+
+[18] Further, one should look to Canadian Legislation on how to interpret conventions. Legislative background only arises if you have an ambiguity. If there is no ambiguity you go to the taxing legislation of Canada.
+
+[19] There is no need in this case to look to the Technical Explanations in order to interpret the word "gain". In giving the technical interpretation as little weight as it did, the Federal Court of Appeal, in Coblentz (supra) was concluding that it did not form part of the context in Article 31(2) of the Vienna Convention, which was more likely found in Article 31(3).
+
+[20] Counsel also took the position that under the OECD Model Convention, it can be concluded that if the term "gain" is not specifically defined then you must go to the Domestic Law in order to define it.
+
+[21] In specific written argument, the Respondent submitted as follows:
+
+"ISSUE
+
+1. The broad issue in this appeal is whether the Minister of National Revenue (the "Minister") has correctly calculated the amount of capital gains that are exempt from tax by virtue of Article XIII(9) of the Canada-United States Income Tax Convention (1980) (the "Convention").
+
+2. The narrow question to be resolved is whether, in calculating the proportion of the gain to be reduced, the time for beginning the calculation of the exempt period commences with the date of acquisition of the asset by the taxpayer, or from the date that capital gains became taxable in Canada (V-Day, December 31, 1971).
+
+3. The issue is resolved by the interpretation of Article XIII(9) of the Convention, and in particular, by the meaning of "gain". If "gain" is to be determined by reference to the meaning of that term in the taxing state, in this case Canada, then, the provisions of the Income Tax Act that determine capital gains are applicable. The consequence of this interpretation is that the period of exemption begins on V-Day, December 31, 1971 and runs to the date the Convention came into force (December 31, 1984). The result is Minister, has therefore, correctly calculated the proportion of exempt tax, and the Appellant's appeal should be dismissed.
+
+RESPONDENT'S SUBMISSION
+
+4.The Respondent submits, that the question of the proper interpretation of Article XIII(9) of the Convention, and the meaning of "gain" in the context of Article XIII(9) has already been determined by the Federal Court of Appeal in the case A. G. of Canada v. Kubicek 97 D.T.C. 5454.
+
+A. G. of Canada v. Kubicek 97 D. T C. 5454
+
+Tab 1, Respondent's Supplementary Book of
+
+Authorities
+
+5. Kubicek was an application for judicial review under Section 28 of the Federal Court Rules from a decision of the Tax Court of Canada under the Informal Procedure. The facts are summarized in the headnote.
+
+6. The issue is exactly the same as in the case at bar: which is the correct date under the Convention to begin calculating the proportion of the gain that is exempt from taxation.
+
+Kubicek, supra, page 5455
+
+7. The Federal Court of Appeal held:
+
+the term "gain" is not defined in the Convention, therefore, pursuant of Art. III(2) of the Convention, the meaning had to be determined under Canadian domestic tax law. The Convention did not require that the term be defined in the domestic tax law, but only that its meaning can be derived from it. Accordingly, the meaning of "gain" can be derived from section 40(l) of the Income Tax Act which sets out the method to be used in calculating a capital gain for Canadian income tax purposes. The result is that the calculation of the reduction in the capital gain tax begins when the gain first began to accrue, that is, December 31, 1971.
+
+Kubicek, supra, page 5456
+
+8. In making its decision the FCA applied the following principles with respect to interpretation of treaties:
+
+the paramount goal is to find the meaning of the words in question, which involves looking to the language used and to the intentions of the parties, furthermore, literalism has no role to play in the interpretation of treaties.
+
+The Queen v. Crown Forest Industries Limited
+
+(1995), 95 D. T.C 5389 Tab 21
+
+Coblentz v. The Queen (1996) 96 D.T.C. 531,
+
+6534 Tab 16
+
+9. The Respondent submits that this method of interpretation is consistent with the international rules of interpretation as set out in Articles 31 and 32 of the Vienna Convention On The Law of Treaties.
+
+Vienna Convention On The Law of Treaties
+
+Tab 12
+
+Coblentz, supra, page 6533, Tab 16
+
+10. The Respondent further submits that this method of interpretation has always for example been used by the Canadian courts in interpreting double taxation treaties. See for example:
+
+Saunders v. M.N.R.,54 D.T.C. 524 (I.T.A.B.)
+
+at 526 Tab 19
+
+Gladden Estate v. The Queen, 85 D.T.C. 5188
+
+(F.C.T.D.) at 5191 per Addy J.: Tab 17
+
+The Queen v. Crown Forest Industries Ltd.,
+
+95 D.T.C. 5389 (S.C.C.) per Iacobucci J.
+
+at 5393 and 5396 Tab 21
+
+1l. The FCA considered the language of Articles III(2), XIII(l), XIII(9) of the Convention and Section 3(2) of the Income Tax Conventions Interpretation Act ("ITCIA") and concluded that the provisions of Article III(2) of the Convention and Section 3(2) of the ITCIA clearly stated that when a term is not defined in the Convention, the term should be given the meaning it has in the tax legislation of the taxing state.
+
+12. The FCA accepted the Crown's argument that "meaning" is not the same as "definition". Article III(2) does not require the domestic legislation define the term in question, but only that the meaning of the term can be derived from the domestic legislation. The Court concluded that the meaning of the word "gain" can be drawn from s. 40(l) of the Income Tax Act which sets out the method to be used by a taxpayer for calculating a capital gain for Canadian income tax purposes.
+
+See Tabs 1 to 6 for the Scheme of the ITA
+
+13. In drawing this conclusion, the FCA clearly rejected the analysis of the Tax Court Judge where he concluded that the domestic legislation must define the term in question for the domestic legislation to apply.
+
+Kubicek v. The Queen97 DTC 1552 (TCC)
+
+at 1553
+
+Tab 1(a) Respondent's
+
+Supplemental Book of Authorities
+
+14. In adopting this methodology the FCA has used the same approach adopted by the international community in Article 3(2) of the OECD Model Convention.
+
+Article 3(2) of the OECD Model Convention
+
+(September 1995) Tab 14
+
+15. The reasons for the adoption of this methodology can be summarized as follows:
+
+a) prevents the overloading of double taxation conventions with definitions that would render the application of conventions difficult;
+
+b) increases legal certainty because the taxpayers, administrative authorities and courts can keep to the meaning of a term which they know from domestic law;
+
+c) since the treaty relieves from tax, it is thought that the relieving provisions should be the same as the internal law charging provisions;
+
+See Tabs 26, 27, 28 and 32 for Commentary
+
+on Section 3(2) of the OECD
+
+16. Finally, the FCA concluded that the Technical Explanation produced by the United States Treasury Department and endorsed by the Canadian Minister of Finance, has about the same status as a Revenue Canada interpretation bulletin for purposes of interpreting the language of a provision: it is of interest to a Court but not necessarily decisive of an issue.
+
+Technical Explanation, Tabs 35 and 36
+
+17. In drawing this conclusion, the FCA stated that there is no internal tradition or procedure for an exchange of subsequently bargained documents as determinative of treaty interpretation. To be binding on Canada, the Technical Explanation would have to amount to another convention, which they held, it did not.
+
+Kubicek, page 5456
+
+18. The Courts reasoning is supported by Article 31 of the Vienna Convention On The Law of Treaties. 31(2) provides that for the purpose of the interpretation of a treaty, the context is comprised of the test, including its preamble and annexes, any agreement relating to the treaty which was made in connexion with the conclusion of the treaty, and any instrument which was made by one or more parties in connexion with the conclusion of the treaty. Clearly the Technical Explanation does not fall under any of these categories as it was made after the treaty was concluded.
+
+See Tab 13
+
+19. Subsection 31(3) provides that there shall be taken into account, together with the context, any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions. Article III(2) of the Convention specifically refers to Article XXVI (Mutual Agreement Procedure) with respect to the interpretation of terms not defined.
+
+See Tabs 8 and 13
+
+20. A review of Article XXVI of the convention shows that a Technical Explanation which has been endorsed by the Canadian Minister of Finance does not meet the requirements of constituting an agreement between Canada and the United States.
+
+21. The Respondent submits that the decision of the FCA is binding upon this Honourable Court by virtue of the doctrine of stare decisis.
+
+22. The FCA is the appellate court for this Court, and you are bound to follow its decision.
+
+Contonis v. The Queen 95 DTC 511 at 516
+
+Tab 2, Supplemental Book of Authorities
+
+Canadian Wildlife Federation et al. v Canada
+
+and Saskatchewan Water Corp. 134 N.R. 57
+
+at page 64 paragraph 19
+
+Tab 3, Supplemental Book of Authorities
+
+23. The Respondent submits that there are no distinguishable features between the Kubicek case and the case at bar which would warrant departing from the decision of the FCA.
+
+24. Therefore, the Respondent requests that the Appellant's appeal be dismissed with costs."
+
+Analysis and Decision
+
+[22] The Court is most impressed with the nature of the research done in this case by Counsel for the Appellant. It is impressed by the abundance of material which Counsel has been able to amass in support of his proposition. There appears to be no question that the quality and quantity of the material and the arguments he has presented to this Court were not present in the material presented to the Court of appeal in the Kubicek (supra) case.
+
+[23] That being said the Court cannot accept the proposition of Counsel for the Appellant when he states that the ratio decidendi in Kubicek (supra) cannot be considered to be a bar for this Court to decide otherwise because of the fact that the factual situation as set out in Kubicek (supra) is different from the factual situation presented in the case of bar.
+
+[24] This Court considers that that argument is fallacious because the thrust of the Appellant's evidence here was not on the factual situation that existed but on the so called, "legislative history" of the section in dispute here. The facts in this case are not in dispute. All that is in dispute here is that in Kubicek (supra) the Court did not have before it the abundance of material which would allow it to interpret Article XIII(9) in accordance with the Appellant's contention. This material was ably presented to this Court and ably argued by Counsel for the Appellant in summation. Therefore, the contention of Counsel for the Appellant that this Court cannot apply the result in Kubicek (supra) because of the different factual situation, must of necessity fail.
+
+[25] It is obvious this is a very important case, with a considerable amount of money involved, and it is obvious that whatever this Court decides, that decision is going to be considered again. However, that is not the concern of this Court. This Court has to decide on the evidence and the law whether the legal argument put forward by Counsel of the Appellant should succeed or whether, as Counsel for the Respondent has argued, the decision has already been made in Kubicek (supra). This Court is bound by the doctrine of stare decisis and must follow that decision.
+
+[26] Indeed, what Counsel for the Appellant has asked this Court to do is to conclude that in spite of the obvious decision of the Federal Court of Appeal in Kubicek (supra), if that very Court were presented with the evidence presented in the case at bar, it would have come to a different decision.
+
+[27] This Court is unable to accede to the Appellant's request because it has no idea what the Federal Court of Appeal would have done had it been faced with the depth of information and research provided in the case at bar. It may have acceded to the Appellant's interpretation of the appropriate section, but yet it might very well have decided the same way as it did. This Court has no crystal ball which should enable it to decide what the Federal Court of Appeal would have done had it been presented with the same evidence as in this case, but there can be no doubt as to what that decision was on the facts of that case.
+
+[28] Essentially in Kubicek (supra) the Federal Court of Appeal decided that:
+
+"The leading authority on the interpretation of treaties is the unanimous decision of the Supreme Court of Canada in The Queen v. Crown Forest Industries Limited (1995), 95 DTC 5389, where Iacobucci, J. wrote for the Court:
+
+In interpreting a treaty, the paramount goal is to find the meaning of the words in question. This process involves looking to the language used and to the intentions of the parties"
+
+[29] In that case the Court proceeded to examine the plain language reading of the provision there in question and the goals and purposes of the Convention.
+
+[30] The Federal Court of Appeal observed that:
+
+"There is no international tradition or procedure for an exchange of subsequently bargained documents as determinative of treaty interpretation. The Technical Explanation is a domestic American document. True, it is stated to have the endorsation of the Canadian Minister of Finance, but in order to bind Canada it would have to amount to another convention, which it does not. From the Canadian viewpoint, it has about the same status as a Revenue Canada interpretation bulletin, of interest to a Court but not necessarily decisive of an issue."
+
+[31] In that case the Court decided:
+
+"The ordinary meaning of "gain" for the purposes of Art. XIII of the Convention is the gain which is subject to tax. Given both the language and the otherwise apparent intention of the parties, this Court should find that the calculation of the reduction in the capital gain tax begins when the gain first began to accrue for Canadian income tax purposes. In this case, that is the December 31, 1971 starting date, not the date on which the respondent acquired the property. This interpretation is more consistent with the purposes behind the Convention, the avoidance of double taxation and the proper allocation of tax between Canada and the U.S., than is the literal meaning advanced by the Tax Court Judge. We find ourselves in agreement with the words of Professor Brian Arnold:
+
+The Tax Court of Canada rejected [the Applicant's] arguments because, according to it, section 40 of the Income Tax Act does not provide a definition of "gain," but a process for determining capital gain. There is no basis for this distinction. The Tax Court appears not to understand the purpose and effect of section 3 of the Income Tax Conventions Interpretation Act or article III(2) of the treaty. ... Of course, the fundamental purpose of tax treaties is to eliminate double taxation. Since Canada does not tax a capital gain to the extent that it accrued before 1972, there is no justification for taking the ownership of property before that time into account for purposes of the transitional rule in article XIII(9).
+
+As a result the applicant was correct in its reassessment of the respondent."
+
+[32] This Court cannot see any great difference in the factual situation that existed in the case at bar from that which was considered by the Federal Court of Appeal in Kubicek (supra).
+
+[33] This Court accepts the argument of the Respondent that there are no distinguishing features between the Kubicek case and the case at bar which would warrant departing from the decision of the Federal Court of Appeal.
+
+[34] This Court is not satisfied that the statement of the Federal Court of Appeal in Kubicek (supra), at page 5456, is per incuriam because that Court was allegedly not told that Canada reviewed and commented on all three versions of the US Technical Explanation before they were released. Furthermore, that the Court was not told that the Canadian Senate knew of the Technical Explanation and understood that it would be relevant to the interpretation of the Treaty before approving the Treaty. Further, that the Court was not told that the US Senate Committee on Foreign Relations took Canada's approval of the Technical Explanation into account in approving the final version of the 1980 Treaty.
+
+[35] Counsel for the Appellant said:
+
+"it is clear that the Canadian acceptance of the US Technical Explanation was more than simply an acknowledgement of the Explanation's existence. Rather, it was an endorsement of the actual language used in the Explanation. Accordingly, it should be given great weight in the determination of the proper purpose and meaning of Article XIII(9)".
+
+This would not appear to be the position of the Federal Court of Appeal as evidenced by the language used in Kubicek (supra).
+
+[36] This Court is satisfied that Kubicek (supra) did not find that the Technical Explanation amounted to another Convention, and indeed this Court has already commented upon the very little weight that the Federal Court of Appeal gave to the Technical Explanations as referred to earlier in these Reasons for Judgment.
+
+[37] It is not for this Court to attempt to overturn a decision of the Federal Court of Appeal. This Court is satisfied that it is bound by the document of stare decisis and is not moved by the per incuriam argument of Counsel for the Appellant, as forcefully put as it was, and is as well researched and presented as the legislative history of this section was by Counsel for the Appellant.
+
+[38] The case of Leroux v. Co-operators General Insurance Co.; Superintendent of Insurance, Intervener (supra) is of assistance to the Court in this regard. In that case the Court in essence decided that even if the Court's decisions were per incuriam, nevertheless, the Court of first instance would still be bound to follow the Court of Appeal's decision. The Tax Court of Canada is such a Court and it is satisfied that it is bound to follow the Court of Appeal's decision in Kubicek (supra).
+
+[39] The Court is not disposed to decide otherwise on the basis of the decision of R. v. Paul and Polchies 58 N.B.R. (2d) 297 (P. Ct.) and the decision of Dickson, J., in the same case in the New Brunswick Court of Queen's Bench Trial Division as reported in 90 N.B.R. (2d) 332 (QB). It does not appear from a reading of the whole case that the issue of per incuriam was the ratio decidendi in that case. Indeed the Court appeared to rely upon the fact that the trial judge made no error in determining, that the Crown had failed to establish at trial that the 1725, 1726 and 1749 treaties had been abrogated by subsequent hostilities. Further, the Court found that, "the fact that the treaties must in the premises still be considered to be in effect, in combination with section 88 of the Indian Act, offers the accused immunity from prosecution for the alleged printing offences under the Provincial Statute". This appeared to be the paramount consideration of that Court.
+
+[40] In spite of the fact that this case was not appealed, this Court is not satisfied that it offers any consolation to the position taken by Counsel for the Appellant in the case at bar.
+
+[41] In the end result, the Court is satisfied that the assessment of the Minister was well founded. The appeal is dismissed and the assessment of the Minister is confirmed.
+
+[42] The Respondent shall have its costs of this appeal to be taxed.
+
+Signed at Ottawa, Canada, this 14th day of October 1999.
+
+"T.E. Margeson"
+
+J.T.C.C.
+
+[1] The agreed fair market value was $17,500,000. Statement of Agreed Facts, paragraph 10.
+
+[2] There is no dispute about the V-Day value of the Shares.
+
+[3] There is no dispute about the original cost of the Shares.
+
+[4] Section 3 of the Income Tax Conventions Interpretation Act, RSC 1985, c. I-4, states:
+
+Notwithstanding the provisions of a convention or the Act giving the convention the force of law in Canada, it is hereby declared that the law of Canada is that, to the extent that a term in the convention is
+
+(a) not defined in the convention,
+
+(b) not fully defined in the convention, or
+
+(c) to be defined by reference to the laws of Canada,
+
+that term has, except to the extent that the context otherwise requires, the meaning it has for the purposes of the Income Tax Act, as amended from time to time, and not the meaning it had for the purposes of the Income Tax Act on the date the convention was entered into or given the force of law in Canada if, after that date, its meaning for the purposes of the Income Tax Act has changed.
+
+There does not appear to be any material difference between section 3 and Article III(2).
+
+[5] Article XIII(9) was amended on June 14, 1983 by Article VI(3) of the First Protolocol. The Ruchelman and Webb article was written before the First Protocol was drafted. However, at the time this article was written the portion of Article XIII(9) relevant to this case was the same as it is under the First Protocol. See the historical note to Article XIII(9) in Tab 2, p. 27, 207-35.
+
+[6] Certain exceptions applied for persons carrying on business in the US.
+
+[7] There have been three other Protocols since the first one: one released before the Treaty went into effect and two after. These are irrelevant for purposes of the present case.
+
+[8] This Explanation was written before theFirst Protocol was signed, but is identical to the Explanation written after the First Protocol was signed. See Tab 22.
+
+[9] This Explanation was written after the First Protocol was signed.
+
+[10] There was no date on this version of the Technical Explanation but see Department of Finance News Release No. 81-16, February 4, 1981, Tab 26.
+
+[11] There is no date on this version of the Technical Explanation. However, the statement of Mr. Chapoton at Tab 24, p. 393, footnote I and text indicates that it was issued the date of the Senate Committee hearing, September 24, 1981.
+
+[12] There is no date on the final version of the Technical Explanation, but see Department of Finance News Release No. 84-128, August 16, 1984, Tab 6.
+
+[13] The Minister did not issue a Press Release in conjunction with the September 1981 revised Technical Interpretation. However, it is clear from the statement of Mr. Chapoton at Tab 24, p. 401, footnote I that Canada reviewed that version of the Technical Explanation as well. See also the Joint Committee Explanation supra, Tab 21 at p. 369, footnote I and text.
+
+[14] Note that the January 19, 1981 version of the Technical Explanation to Article XIII(9) in Tab 26 is substantially identical to the final Technical Explanation at Tab 6, p. 2441.
+
+[15] Tab 6, Technical Explanation, p. 2441.
+
+[16] Id
+

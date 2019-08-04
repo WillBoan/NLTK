@@ -1,0 +1,548 @@
+Date: 20010717
+
+Docket: 98-3100-IT-G
+
+BETWEEN:
+
+KRUCO INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] This appeal from an assessment for the appellant's 1989 taxation year concerns the application of subsection 55(2) and paragraph 55(5)(c) of the Income Tax Act (the "Act"). The point at issue has to do essentially with the computation of the deemed capital gain resulting from the application of those provisions to a repurchase of shares of the capital stock of Kruger Inc. ("Kruger") held by the appellant. To briefly put the matter in context—the meanings of terms, among other things, will be elaborated on below—it may be stated that the amount of the appellant's deemed capital gain is related to the computation of income earned or realized after 1971 ("income earned or realized") and of disposable income earned or realized after 1971 ("safe income[1]") of Kruger and its subsidiaries, which income is attributable to the repurchased shares. Other disputed elements originally influenced the computation of the appellant's capital gain, namely the percentage of the shares of Kruger's capital stock held by the appellant and the adjusted cost base of those shares. These points are no longer in issue.
+
+I. APPLICABLE STATUTORY PROVISIONS
+
+[2] The applicable statutory provisions, that is, subsection 55(2) and paragraph 55(5)(c), read as follows:
+
+55(2) Deemed proceeds or capital gain. Where a corporation resident in Canada has after April 21, 1980 received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or 138(6) as part of a transaction or event or a series of transactions or events (other than as part of a series of transactions or events that commenced before April 22, 1980), one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events referred to in paragraph (3)(a), notwithstanding any other section of this Act, the amount of the dividend (other than the portion thereof, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series of transactions or events)
+
+(a) shall be deemed not to be a dividend received by the corporation;
+
+where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+
+(c) where a corporation has not disposed of the share, shall be deemed to be a gain of the corporation for the year in which the dividend was received from the disposition of a capital property.
+
+55(5) Applicable rules
+
+
+
+. . .
+
+(c) the income earned or realized by a corporation for a period throughout which it was a private corporation shall be deemed to be its income for the period otherwise determined on the assumption that no amounts were deductible by the corporation by virtue of paragraph 20(1)(gg) or section 37.1;
+
+. . .
+
+[3] As applied to the circumstances of this case, subsection 55(2) entails an assumption that the appellant disposed of the shares it held in Kruger's capital stock at their fair market value immediately before the deemed dividend arising from the repurchase by Kruger of the shares of its capital stock held by the appellant (subsection 84(3)). To the extent that a portion of the dividend resulted in a significant reduction of the capital gain that would have been realized on that disposition, the portion of the gain that would have been realized by the appellant which could reasonably be considered to be attributable to anything other than income earned or realized by Kruger and its subsidiaries shall be deemed to be not a dividend but rather the proceeds of disposition of the shares. As the portion of the gain which could reasonably be considered to be attributable to anything other than income earned or realized cannot be measured directly, it is this that must be computed so as to eliminate a corresponding amount for the purposes of the application of the presumptions of paragraphs 55(2)(a) and (b) of the Act.
+
+II. POINTS AT ISSUE
+
+[4] The three points still at issue concern the calculation of safe income. Two concern negative adjustments made by Revenue Canada with respect to investment tax credits granted to Kruger and its subsidiaries. The other concerns the cost of a debt acquired by Kruger which gave rise to a scientific research and experimental development tax credit. In the alternative, the appellant claims that, in making the aforementioned negative adjustments, more particularly with respect to the investment tax credits, the tax authorities applied retroactively a new administrative policy, which they were not entitled to do.
+
+[5] The first negative adjustment aimed at establishing the safe income made by Revenue Canada with respect to the investment tax credits resulted from the application of paragraph 13(7.1)(e) (reduction of capital cost) and subparagraph 13(21)(f)(vii) (reduction of undepreciated capital cost). This adjustment was $36,112,041 for Kruger and $29,912,027 for one of its subsidiaries. Of the total of $66,024,068, 32.493 percent, or $21,453,200, was attributed to the shares held by Kruco. The reason given for the adjustment is that the reduction of the capital cost or of the undepreciated capital cost by the amount of the investment tax credit resulted in a reduction of the total depreciation claimed and thus in a corresponding increase in income without any additional cash inflow, thus creating phantom income[2] of an equivalent amount.
+
+[6] The second negative adjustment made to establish safe income, again with respect to the investment tax credits, results from the application of paragraph 12(1)(t) of the Act. This adjustment was $6,355,999 for Kruger. The portion attributed to the shares held by Kruco, in the proportion indicated above, was $2,065,255. The reason given for this adjustment is that the increase in income through the inclusion of the amount of the investment tax credits created phantom income since there was no corresponding cash inflow.
+
+[7] Lastly, the third negative adjustment made by Revenue Canada to establish safe income is in relation to the cost of a $2,000,000 debt acquired by Kruger for $4,000,000, which resulted in a scientific research and experimental development credit of $2,000,000 (subsections 194(4) and 127.3(6) of the Act). The adjustment to Kruger's safe income was $2,000,000, and the portion allocated to the shares held by Kruco, again in the proportion previously mentioned, was $649,860. The reason given is that an amount equal to $2,000,000 constituted a non-deductible expense which reduced safe income by the same amount.
+
+[8] The adjustments disputed by the appellant in the instant case thus total $24,168,315. In fact, what the appellant disputes is not the computation, but the very principle of the adjustments made by Revenue Canada to the amount of Kruger's safe income that may be attributed to the shares held by Kruco and redeemed by Kruger in 1989.
+
+[9] For the purposes of the assessment, the Minister of National Revenue made, in particular, the assumptions of fact set out in subparagraphs 10(a) to (t) of an amended Amended Reply to the Notice of Appeal. Those subparagraphs read as follows:
+
+(a) The appellant was at all relevant times a corporation resident in Canada within the meaning of section 250 of the Income Tax Act;
+
+(b) During the relevant period, the appellant held 3,627,100 common shares of Kruger Inc., representing 32.493% of issued common shares, and 100 first preferred shares;
+
+(c) Subsequent to a settlement entered into in August 1989 between Kruger Inc. and the appellant, Kruger Inc. repurchased its 3,627,100 common shares and the 100 first preferred shares held by the appellant for the aggregate price of $99,000,100. Out of that price, an amount of $99,000,000 was allocated to the common shares;
+
+(d) The price of $99,000,100 was payable $49,000,100 in cash and the remainder by the issue to the appellant of 270,000 series "B" floating rate cumulative redeemable first preferred shares and 230,000 series "C" floating rate cumulative redeemable first preferred shares, having an aggregate redemption value of $50,000,000;
+
+(e) The proceeds of disposition of the Kruger Inc. common shares disposed of by the appellant amounted to $98,734,539;
+
+(f) The adjusted cost base of the Kruger Inc. common shares held by the appellant was $8,671,759 at the time of their disposition;
+
+(g) As part of the settlement between Kruger Inc. and the appellant, Kruger Inc. guaranteed that not less than $70,000,000 of safe income would be attributable to the repurchased common shares, subject to the appellant making an election pursuant to the applicable provisions of the Income Tax Act;
+
+(h) Prior to the repurchase by Kruger Inc. of its shares held by the appellant, approximately 61 % of the common shares of Kruger Inc. were held by Hicliff Corporation (1978) Limited;
+
+(i) Hicliff Corporation (1978) Ltd. was controlled at that time by Joseph Kruger II;
+
+(j) For the purposes of section 55 of the Income Tax Act, Hicliff Corporation (1978) Ltd. and Kruger Inc. were, at all material times, dealing with the appellant at arm's length;
+
+(k) Without regard to the provisions of subsection 55(2) of the Income Tax Act, the tax consequences of the said repurchase would be the following:
+
+A. Deemed Dividend:
+
+Deemed dividend pursuant
+
+to paragraph 84(3) ITA $98,012,647
+
+Deduction pursuant to subsection 112(1) ITA 98,012,647
+
+Amount included in taxable income 0
+
+B. Capital Loss:
+
+Proceeds of disposition of Kruger shares $98,734,539
+
+less: deemed dividend pursuant to 84(3)(b) ITA 98,012,647
+
+Adjusted proceeds of disposition 721,892
+
+Adjusted cost base of shares 8,671,759
+
+Capital loss realized ($ 7,949,867)
+
+(l) One of the results of the transaction or event or series of transactions or events leading to the repurchase of the appellant's shares by Kruger Inc. and the resulting deemed dividend, was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of the said shares, as follows:
+
+Significant reduction of capital gain:
+
+Proceeds of disposition of Kruger shares: $98,734,539
+
+less: adjusted cost base of shares 8,671,759
+
+Capital gain otherwise realized $90,062,780
+
+Capital gain otherwise realized: $90,062,780
+
+Capital loss realized ( 7,949,867)
+
+Significant reduction of capital gain $98,012,647
+
+(m) The income earned or realized by Kruger Inc. after 1971 and before the transaction or event or the commencement of the series of transactions or events, that was attributable to the shares held by the appellant was the following:
+
+Income earned or realized on hand by:
+
+Kruger Inc. $170,108,562
+
+New Corner Brook Pulp and Paper (25,349)
+
+Craftwell Containers and Packaging (730,491)
+
+Deer Lake Company Ltd. (11,636,922)
+
+$157,715,800
+
+Portion attributable to the shares held by the Appellant:
+
+32.493% x $157,715,800 = $ 51,246,595.
+
+(n) Upon applying subsection 55(2) of the Income Tax Act to the transaction, the capital gain realized by the appellant on the disposition of its shares of Kruger Inc. was the following:
+
+Proceeds of disposition of common shares: $ 98,734,539
+
+less: deemed dividend on repurchase according
+
+to paragraph 55(5)(f) ITA 51,246,595
+
+Adjusted proceeds of disposition $ 47,487,944
+
+less: adjusted cost base 8,671,759
+
+Capital gain $ 38,816,185
+
+(o) The capital gain declared by the appellant for its 1989 taxation year on the disposition of its shares of Kruger Inc. was the following:
+
+Gross proceeds of common shares: $ 98,734,539
+
+less: deemed dividend pursuant to 55(5)(f) ITA 73,000,000
+
+25,734,539
+
+less: adjusted cost base 8,707,434
+
+Capital gain $ 17,027,105
+
+(p) The repurchase by Kruger Inc. of the shares of its capital stock that were held by the appellant was part of a transaction or event, or series of transactions or events, that resulted in a significant increase in the interest of Hicliff Corporation (1978) Ltd. in Kruger Inc. and also resulted in a disposition by the appellant of its shares of Kruger Inc. to an arm's length person;
+
+(q) On September 15, 1993, the appellant signed a waiver in respect of the normal reassessment period for its taxation year ended November 30, 1989. The waiver dealt among other things with capital gains;
+
+(r) The Minister assessed the appellant for its 1989 taxation year with respect to the additional capital gain resulting from the repurchase of shares effected by Kruger Inc.;
+
+(s) The Minister proceeded by way of an additional assessment dated March 18, 1996, at the request of the attorney who represented the appellant at that time;
+
+(t) The appellant is not liable for tax under Part IV of the Income Tax Act with respect to the deemed dividend, because Kruger Inc. was connected to the appellant pursuant to subsection 186(4) of the Income Tax Act, and Kruger Inc. did not receive a dividend refund pertaining to that deemed dividend.
+
+III. SUMMARY OF EVIDENCE
+
+[10] George Bunze, deputy chairman of the board of directors and head of financial services at Kruger, and Michael Macey, C.A., a tax specialist with Price Waterhouse Coopers, testified for the appellant. Pierre Jolin and Ted Harris, respectively an auditor and the head of corporate reorganizations at Revenue Canada at the relevant time, testified for the respondent.
+
+[11] Mr. Bunze first explained the circumstances resulting in Kruger's repurchase in 1989 of the shares of its capital stock held by Kruco. Kruger, one of the largest private pulp and paper companies, was run by Bernard and Jean Kruger. Through his holding company, Kruco, Bernard Kruger held approximately 32 percent of Kruger's capital stock, while his brother Jean held about 61 percent through his holding company, Hicliff. In the early 1980s, although they had worked side by side for 50 years, building one of the largest pulp and paper concerns in North America, the two brothers began to have differences of opinion over the direction Kruger should take and the investment and dividend policies it should adopt. The disagreement was so serious that the brothers stopped talking to each other, except through their lawyers, and it grew so acrimonious that it culminated in legal proceedings in 1984. The dispute, arising out of the oppression of the minority shareholder by the majority shareholder which had refused to declare dividends, lasted five years and paralyzed Kruger's senior management in the realization of its desire to have the company grow and develop. In 1989, as everyone was looking for a solution to avoid the trial, Simon Reisman, who knew both brothers, entered the picture with a view to finding a negotiated solution to the dispute without involving lawyers.
+
+[12] Negotiations took place in July and continued in August 1989. An agreement was ultimately signed on August 30 of that year. Under the agreement, which provided for the repurchase by Kruger of the shares held by Kruco for $99 million, Kruger, for the purposes of the dividend resulting from the repurchase and for the purposes of subsection 55(2) of the Act as well as the corresponding provincial provision, gave Kruco a guarantee that Kruger's safe income attributable to the shares held by Kruco (subject to appropriate designation by Kruco) was not less than $70 million. Mr. Bunze stated that, based on the calculations made by the experts, he had had no doubt that the amount of safe income was at least equal to $70 million and that, in fact, it was substantially greater than that amount. Otherwise, he said, Kruger would never have given the guarantee required by Kruco.
+
+[13] Mr. Bunze also described the intensive investments made by Kruger over the years in order to promote its development and the diversification of its manufactured products, namely paper fabric, newsprint, glossy paper and cardboard packaging products. Although certain paper-mill equipment can have a useful life of 50 years, Mr. Bunze explained that it is necessary to purchase new equipment in order to modernize and to develop new products. He testified that the corporation's internal policy was normally to depreciate new equipment over 20 years for financial purposes, even though their useful life could be much longer. For tax purposes, however, the cost of that equipment, all of which was class 29 property, was depreciated over two or three years, as provided for in the Income Tax Regulations in this regard.
+
+[14] Michael Macey is a chartered accountant and tax specialist. In 1989, he was a partner with Coopers and Lybrand, which subsequently merged with Price Waterhouse to become Price Waterhouse Coopers. Mr. Macey, who had been responsible for the Kruger account since 1978, supervised the calculations done by the professionals and staff of his firm in July and August 1989 to determine Kruger's safe income attributable to the shares held by Kruco. Mr. Macey explained that for tax purposes the computations had been done on the basis of net income, in accordance with the T2S1 form, since 1972, with, in particular, the adjustments provided for in paragraph 55(5)(c) of the Act and other adjustments to reflect non-deductible expenses or amounts of deemed income such as that referred to in section 17 of the Act. The calculations were made on the basis of the information known at that time, which was collated in research files. According to Mr. Macey, most of the information came from Revenue Canada and had been made public at conferences during which Revenue Canada had made known its position on certain aspects of the computation of safe income. It also came from decisions obtained for clients by his own office, by other offices of the same firm or by other accounting firms. On this point, Mr. Macey acknowledged the existence of an advance ruling dated November 14, 1985 (Exhibit A-3) which he said was in his research file in 1984 at the time of discussions with the tax assessor. However, he was unable to say whether it was there in 1989 when the calculations were done.
+
+[15] According to Mr. Macey, the research files on a given subject were constituted by accumulating decisions which were obtained from virtually everywhere and which were sent to his firm's Toronto office for subsequent distribution to the various regional offices. He said this procedure could be slow at times and did not guarantee that all the decisions would be in a research file at any given time.
+
+[16] Mr. Macey stated that, at the time of the calculation of Kruger's safe income, which began in July 1989, he had no information in his research files suggesting that there was any reason to make adjustments in computing the safe income so as to reflect tax credits. Furthermore, Mr. Macey said that, to the best of his knowledge, Revenue Canada's exact position on the subject had not been presented at tax conferences. Mr. Macey also said he had not communicated with Revenue Canada since he had had no reason to do so. He emphasized that he had previously been involved in calculations of safe income on other occasions, that, in some of those cases, there had also been tax credits, and that Revenue Canada had never disputed those calculations.
+
+[17] In his testimony, Mr. Macey also stated that the consolidated retained earnings of Kruger and its subsidiaries had gone from $5,700,000 at the end of 1971 to $347,966,000 at the end of 1988. Furthermore, according to Coopers and Lybrand, the amount computed as initially being the safe income of Kruger and its subsidiaries was $235,920,118 at the time of the share repurchase. This amount was subsequently revised downward to approximately $233,000,000 as a result of adjustments made by reassessments for certain years. Mr. Macey testified that, according to the initial calculations, the consolidated safe income of Kruger and its subsidiaries attributable to the shares held by Kruco was approximately $78 million. However, he emphasized that reassessments of additional tax could result in changes to the initial calculations and that this possibility thus had to be taken into consideration. That is why the guaranteed amount of safe income on which Kruger and Kruco agreed had been reduced to $70 million.
+
+[18] Mr. Macey explained that the significant difference between the amount of retained earnings and the amount of safe income was due to a number of factors, including income accumulated before 1972, accounting adjustments related to asset acquisition methods, consolidation, and the difference between depreciation for accounting purposes and capital cost allowance.
+
+[19] In cross-examination, Mr. Macey said he remembered a presentation made by Robert Read of Revenue Canada at the annual conference of the Canadian Tax Foundation in 1988. In that presentation, entitled "Section 55: A Review of Current Issues", and in response to a question concerning the effect of certain tax credits on the computation of safe income, Mr. Read had stated that the effect, whether positive or negative, depended on the nature of the credit, on the manner in which it had been claimed and on the specific circumstances of a given case. Mr. Macey admitted that at Coopers and Lybrand they were probably aware of Mr. Read's statement regarding Revenue Canada's position, but said that no attempt had been made to obtain further information on the effect of the investment tax credit on the calculation of safe income when that calculation was made in July and August 1989, even though it would have been possible to obtain such information.
+
+[20] Pierre Jolin was a tax avoidance officer with Revenue Canada when he was assigned to the appellant's case in October 1992. His task was to verify the applicability of subsection 55(2) of the Act following Kruger's 1989 repurchase of the shares of its capital stock held by Kruco.
+
+[21] In his testimony, Mr. Jolin gave a detailed explanation of the three adjustments made in computing the safe income of Kruger and its subsidiaries attributable to the shares held by Kruco.
+
+[22] Mr. Jolin testified that he had generally relied on the text of a presentation by John R. Robertson of Revenue Canada at the annual conference of the Canadian Tax Foundation in 1981.[3] In his presentation, Mr. Robertson had enunciated 22 propositions concerning the calculation of safe income, which are generally referred to in the tax community as Robertson's rules.
+
+[23] Mr. Jolin said that he had proceeded with the adjustments in issue after consulting Revenue Canada's electronic library to determine whether headquarters had previously issued opinions on the manner in which the tax credits in issue should be treated for the purpose of computing safe income.
+
+[24] First of all, as regards the $2,000,000 adjustment relating to the cost of acquiring a debt, namely a demand note with a face value of $2,000,000, Mr. Jolin explained that Kruger had paid $4,000,000 for that debt in 1989. The debt had been designated under the former Part VIII of the Act (subsection 194(4)) and had resulted in a $2,000,000 scientific research and experimental development tax credit for Kruger. However, the cost of the debt was reduced by $2,000,000 under subsection 127.3(6) of the Act, which resulted in a cost for tax purposes of $2,000,000. As the additional cost of $2,000,000 was not deductible by Kruger, Mr. Jolin made a negative adjustment of $2,000,000 for the purpose of establishing Kruger's safe income. The portion attributable to the shares held by Kruco was then determined and it was $649,860.
+
+[25] Mr. Jolin said that he had applied Robertson's rule No. xviii in the instant case and he referred to a French translation of that rule. The rule reads as follows:
+
+A deduction for any expense incurred or disbursement made in the period that was not allowed or not claimed as a deduction in computing income, will reduce safe income. However, there will be no deduction for an expense incurred or disbursement made in respect of the acquisition of property, an eligible capital expenditure, or a repayment on account of the principal amount of a loan.[4]
+
+[26] According to Mr. Jolin, as an amount of $2,000,000 in respect of the $4,000,000 debt constituted a non-deductible expense, he made a negative adjustment of $2,000,000 in computing Kruger's safe income.
+
+[27] Mr. Jolin said he had also referred to two private technical interpretation letters issued by Revenue Canada on the question, one dated August 19, 1988 (Exhibit R-5)[5] and the other dated June 19, 1989 (Exhibit R-6).[6] The latter was addressed to the Winnipeg office of Coopers and Lybrand.
+
+[28] Mr. Jolin then gave a detailed explanation of the other two adjustments made with respect to the investment tax credits in computing the safe income of Kruger and its subsidiaries. As Mr. Jolin's calculations are not in issue, I will consider only that part of his testimony concerning the principle itself of those adjustments.
+
+[29] Mr. Jolin explained that, while, on the one hand, the investment tax credits for eligible property reduce the amount of tax payable, paragraph 13(7.1)(e) and subparagraph 13(21)(f)(vii) of the Act prescribe, on the other hand, the reduction of the capital cost of such property or, if the taxpayer has already disposed of it, of the undepreciated capital cost of the class to which it belonged by the amount of the corresponding investment tax credit. The direct effect of this reduction is a reduction of the capital cost allowance which a taxpayer may claim as compared to the deduction he could otherwise have claimed from year to year. This reduced capital cost allowance thus results in a corresponding increase in income for tax purposes for the same period. It is this increase of $36,112,041 for Kruger and of $29,912,027 for one of its subsidiaries that was the subject of a negative adjustment by Mr. Jolin for the purposes of computing the safe income of Kruger and its subsidiaries. This adjustment was made on the ground that that income for tax purposes was phantom income since it corresponded to no additional cash inflow. As stated in paragraph [5] of these reasons, 32.493 percent, or $21,453,200, of the total of $66,024,068 was allocated to the shares held by Kruco.
+
+[30] In the case of this adjustment, Mr. Jolin stated that he had referred to a number of private technical interpretation letters issued by Revenue Canada (Exhibits R-5,[7] R-7,[8] R-8[9] and R-9[10]) in 1988 and 1989, and to Robertson's rule No. xx. The same was true moreover of the last adjustment made to the calculation of Kruger's safe income based on the application of paragraph 12(1)(t) of the Act. To the extent that paragraph 13(7.1)(e) and subparagraph 13(21)(f)(vii) of the Act were not applicable, the amount of Kruger's investment tax credit was added to its income under paragraph 12(1)(t) of the Act. Again based on Mr. Jolin's understanding of the sources consulted, this inclusion created phantom income (for tax purposes) for which there was no corresponding actual cash inflow, hence the need for a downward adjustment by an equivalent amount in computing safe income. As stated in paragraph [6] of these reasons, the negative adjustment made in computing Kruger's safe income in this respect was $6,355,999. The portion allocated to the shares held by Kruco was $2,065,255.
+
+[31] Robertson's rule No. xx, to which Mr. Jolin referred in French, reads as follows:
+
+There should be a deduction for any amount that has been included in taxable income that does not represent actual income earned by the corporation and which is not included in the deductions under xviii above, for example, phantom income.[11]
+
+[32] In his testimony, Mr. Jolin pointed out the change that occurred in 1991 in Revenue Canada's position on the treatment of investment tax credits for the purpose of computing safe income. Mr. Jolin stated that this new position was announced in a presentation by Michael A. Hiltz of Revenue Canada at the annual conference of the Canadian Tax Foundation in 1991.[12] Thus, instead of attempting to determine, as had previously been done, the amount of additional phantom income resulting from the application of paragraph 13(7.1)(e) or subparagraph 13(21)(f)(vii) by virtue of the reduction of capital cost allowance throughout the period considered or the phantom income resulting from the inclusion of the investment tax credit in income under paragraph 12(1)(t), and making corresponding negative adjustments, it was decided that, for the purpose of computing safe income, the amount of tax otherwise payable would be considered without taking into account the reduction of that tax by the amount of the investment tax credit. In short, Mr. Jolin said, the new position did not involve eliminating the phantom income, as was the case under Robertson's rule No. xx, but rather taking into account, for the purpose of computing safe income, the tax otherwise payable before reduction of that tax through the investment tax credit.
+
+[33] Mr. Jolin said that, despite this change in Revenue Canada's position in 1991, he had made the adjustments to the income earned or realized and to the safe income of Kruco and its subsidiaries based on Revenue Canada's previous position as outlined above.
+
+[34] In cross-examination, Mr. Jolin confirmed that he had indeed consulted the private technical interpretation letters filed in evidence and referred to above (Exhibits R-5, R-6, R-7, R-8 and R-9) when making the assessment. He explained that he had consulted them through the electronic library or, if you like, in the department's data base, and that he did not know whether the letters had been made public at that time.
+
+[35] Mr. Jolin's examination for discovery was filed in evidence (Exhibit A-4). With the consent of counsel for the respondent, counsel for the appellant also filed a number of documents, mainly memoranda from Revenue Canada officials addressing the points at issue (Exhibits A-5 to A-18).
+
+[36] The respondent's evidence ended with the testimony of Ted Harris. Between 1989 and 1992, Mr. Harris was the chief, Corporate Reorganizations, Section 3, now known as the Income Tax Rulings and Interpretations Directorate. He is currently manager of the Corporate Reorganizations and International Transactions Division, Income Tax Rulings and Interpretations Directorate.
+
+[37] Mr. Harris was consulted a number of times on the points at issue in the instant case, first in 1993, in response to a request by Pierre Jolin, then in 1995 and 1996, when these matters were raised with Pierre Gravelle and Denis Lefebvre, then respectively Deputy Minister of National Revenue and Assistant Deputy Minister, Policy and Legislation Branch.
+
+[38] Mr. Harris explained that, in 1989, Revenue Canada had already observed that an adjustment was necessary for the purpose of computing safe income because the amount of the investment tax credit was included twice in the computation. He stated that the adjustment was consistent with the principle stated in Robertson's rule No. xx, namely that amounts that do not constitute actual income earned should not be considered in establishing safe income.
+
+[39] With respect to the scientific research and experimental development credit, Mr. Harris explained that a corporation could obtain financing by selling that credit, as in the case of Kruger, which paid $4,000,000 for a debt the principal amount of which was $2,000,000. As the additional sum of $2,000,000 had been paid, it was no longer available for distribution to the shareholders in the form of dividends. Thus, he said, it was appropriate to make an adjustment here too.
+
+[40] Mr. Harris was also asked to describe the means available to a taxpayer in 1989 for determining Revenue Canada's position regarding the effect of the various tax credits on the calculation of safe income.
+
+[41] He described the many means made available to taxpayers. First, there was a telephone service at the Income Tax Rulings and Interpretations Directorate providing answers to technical questions by taxpayers and tax practitioners, generally within 24 hours. It was also possible to obtain technical interpretations by letter similar to the letters filed in evidence. Taxpayers could also seek advance rulings or, as a number of taxpayers did in 1989, obtain under the Access to Information Act copies of private letters concerning technical interpretations. It was understood that the identity of the person requiring the interpretation was protected. With regard to advance rulings, Mr. Harris emphasized that, in 1989, Revenue Canada was prepared to make such rulings on the elements that had to be included or excluded for the purposes of computing safe income, but not on the actual calculation in a given case.
+
+[42] With respect to the adjustments at issue in the instant case, Mr. Harris stated that they were consistent with Revenue Canada's position at the time the shares held by Kruco were repurchased by Kruger in 1989. He said that, as regards the investment tax credit, technical interpretations had previously been issued starting in November 1988 (Exhibit R-7). As to the scientific research credit, a technical interpretation had been issued even earlier. The letter filed in evidence as Exhibit R-5 is dated August 1988 and also concerns the investment tax credit. Mr. Harris noted that other private technical interpretation letters had also been issued prior to August 1989, that is, before the calculations made by Kruger's advisors with respect to the transaction in issue.
+
+[43] Mr. Harris said he had taken part in a meeting on June 7, 1994, which had been attended by a number of other persons, including Mr. Macey and Messrs. Jolin and Sarrazin of Revenue Canada. At that meeting, it was apparently suggested that the position adopted in a letter dated August 31, 1993 (Exhibit A-7) was not consistent with Robertson's Rules and that Revenue Canada was attempting to apply to the taxpayer's 1989 taxation year an interpretation adopted later. Mr. Harris stated that, at the meeting, he had provided Mr. Macey with the numbers of the technical interpretation letters issued prior to August 1989, and more particularly those filed in evidence as Exhibits R-5, R-6, R-7 and R-8. A summary of the discussions at that meeting was filed in evidence (Exhibit R-20).
+
+[44] Mr. Harris also mentioned that other meetings had been held with the representatives of the taxpayers and senior officials of the Department, in particular in May 1995, at the office of Denis Lefebvre, Assistant Deputy Minister, and in May 1996, at the office of Pierre Gravelle, then Deputy Minister of National Revenue. Mr. Harris noted that there had also been correspondence between the parties and he referred in particular to a letter dated September 7, 1995 (Exhibit R-21) and to another dated January 10, 1996 (Exhibit R-22). Mr. Harris observed that during those meetings and in the correspondence, Revenue Canada had always presented its position on the adjustments in issue as consistent with the rules stated by Robertson in 1981, although it must be understood that those rules constituted statements of principle, not detailed rules capable of covering all situations.
+
+[45] According to Mr. Harris, in 1981, Revenue Canada had clearly not ruled directly on the question of the treatment of the investment tax credit. As to the scientific research credit, it did not even exist at the time, since, he said, it was not proposed until the fall of 1983. In fact, even in a technical interpretation letter dated November 14, 1985 (Exhibit A-3) the increase of income for tax purposes attributable to the credits does not appear to have been considered. Mr. Harris stated that it was in the private technical interpretation letter dated November 16, 1988 (Exhibit R-7) that the question appears to have been raised and an adjustment considered for the first time.
+
+[46] In cross-examination, Mr. Harris admitted that an opinion obtained from Messrs. Robertson and MacDonald by counsel for the appellant, to which reference is made in the letter to counsel dated January 10, 1996 (Exhibit R-22), proposed an adjustment with respect to the investment tax credit, not following the acquisition of property, but rather on its disposition.
+
+[47] On the question of the time required to obtain an opinion from Revenue Canada, Mr. Harris expressed disagreement with counsel for the appellant, who had suggested to him that the normal time period could be three months, and he gave examples of shorter periods, less than a month and a half, for example, in the case of the technical interpretation letter filed in evidence as Exhibit R-8. Moreover, Mr. Harris said he knew nothing of the time required to obtain copies of documents under the Access to Information Act.
+
+[48] Lastly, Mr. Harris maintained that, in late 1988 and early 1989, Revenue Canada's position on the adjustments in issue was not only known at the Income Tax Rulings and Interpretations Directorate, but also known to a number of taxpayers, although Revenue Canada had not made its technical interpretations public as that was not its policy. Mr. Harris also said he disagreed with the claim of counsel for the appellant that Revenue Canada had not made known its position regarding the adjustments that should be made to the calculation of safe income so as to reflect income tax credits until a presentation given by Carole Gouin-Toussaint to the Canadian Tax Foundation.[13] According to Mr. Harris, a question put to Robert Read at the time of his presentation to the Canadian Tax Foundation in November 1988 dealt specifically with this point. He added that Mr. Macey had admitted in his testimony that he was aware of that presentation.
+
+IV. ARGUMENTS OF THE PARTIES AND ANALYSIS
+
+NOTION OF SAFE INCOME
+
+(1) Appellant's Position
+
+General Comments
+
+[49] Counsel for the appellant essentially contended that income earned or realized should not be modified to take into account adjustments related to investment tax credits or scientific research and experimental development tax credits.
+
+[50] Referring first to the presentation by Michael A. Hiltz of Revenue Canada in 1991, entitled "Income Earned or Realized: Some Reflections", 1991 Conference Report, Canadian Tax Foundation, p. 15:1, counsel for the appellant argued that the purpose of section 55 of the Act is to prevent the transfer of untaxed or unrealized income from one corporation to another in the form of tax-free intercorporate dividends. To that end, section 55 provides for a mechanism permitting the transfer by a corporation of income that has previously been taxed in that corporation's hands to its shareholder which is another corporation without any further taxation of those amounts. Consequently, counsel for the appellant emphasized that the instant case should be considered in light of this statutory objective.
+
+Adjustments Concerning the Investment Tax Credit
+
+[51] Counsel for the appellant argued that the income earned or realized contemplated in subsection 55(2) is determined in accordance with the presumptions set out for that purpose in subsection 55(5) of the Act. A private corporation's income earned or realized is deemed under paragraph 55(5)(c) to be its income otherwise determined on the assumption that no amounts were deductible by the corporation by virtue of paragraph 20(1)(gg) or section 37.1. Referring to the reasons for the judgment rendered by Judge Sarchuk in 454538 Ontario Ltd v. M.N.R., 93 DTC 427 (T.C.C.), [1993] T.C.J. No. 107 (QL), counsel pointed out that income otherwise determined is the income determined under the provisions of Division B of Part I of the Act. That, said counsel, is a presumption to which there are only two exceptions: those set out in paragraph 20(1)(gg) and section 37.1. Referring to R. Sullivan, Driedger on the Construction of Statutes, 3rd ed. (Toronto and Vancouver : Butterworths, 1994), at page 369, counsel for the appellant argued that an exception provision must be construed "restrictively". Accordingly, the only exceptions as regards the calculation of income earned or realized must be those expressly provided for in paragraph 55(5)(c), that is, those stated in paragraph 20(1)(gg) and section 37.1.
+
+[52] Counsel for the appellant noted that the courts have held that income earned or realized within the meaning of subsection 55(2) must be disposable, which implies in particular that income as calculated under Division B of Part I of the Act must, for the purposes of subsection 55(2), be adjusted to exclude tax paid. He referred on this point to the decision in Deuce Holdings Ltd. v. The Queen, 97 DTC 921 (T.C.C.), [1997] T.C.J. No. 786 (QL), in which Judge Bell held that "it is only the portion of the 'income earned or realized' by the dividend paying corporation remaining after tax that should be included in computing 'safe income'" (DTC: p. 932; QL: paragraph 33). In the same vein, counsel for the appellant acknowledged that income earned or realized must also be adjusted to exclude previously distributed profits, notably in the form of dividends, as well as non-deductible expenses, as Judge Lamarre Proulx did in Gestion Jean-Paul Champagne Inc. v. M.N.R., 97 DTC 155 (T.C.C.), [1995] T.C.J. No. 1187 (QL). Counsel also referred to the decision in Canada v. Brelco Drilling Ltd. (C.A.), [1999] 4 F.C. 35, in which the Federal Court of Appeal recognized that for the purposes of subsection 55(2) income earned or realized had to be disposable.
+
+[53] However, without disputing the principle that only disposable income earned or realized, that is, safe income, had to be excluded in the determination of the proceeds of disposition within the meaning of subsection 55(2), counsel for the appellant contended that the adjustments recognized by the courts to date are adjustments concerning the cash position and involving balance sheet items and do not affect the calculation of income as such, unlike adjustments concerning the investment tax credit made in the instant case. Counsel argued that, by making adjustments to income, the Minister was straying from the object of section 55, which is to permit the transfer of income already taxed at the corporate level. In this context, so-called Robertson's rule xx[14] which, for the purpose of computing safe income, provides for an adjustment to a corporation's income earned or realized so as to exclude phantom income from safe income, is, in the opinion of counsel for the appellant, contrary to the object of section 55.
+
+[54] Relying on the rules of interpretation of taxing statutes as developed by the Supreme Court of Canada, counsel for the appellant contended that there is no reason to alter the definition of income earned or realized provided by Parliament so as to take into account what the Minister characterizes as phantom income. Referring in particular to Neuman v. M.N.R., [1998] 1 S.C.R. 770, in which the Supreme Court held, at page 793: "We should not be quick to embellish the provision at issue here when it is open for the legislator to be precise and specific with respect to any mischief to be avoided," counsel for the appellant submitted that the interpretation that should be adopted in the instant case is that which is consistent with the provisions of subsection 55(2) and paragraph 55(5)(c), as drafted by Parliament. Under paragraph 55(5)(c), income earned or realized is deemed to be income determined under the provisions of Division B of Part I of the Act, subject to paragraph 20(1)(gg) and section 37.1. Thus, counsel for the appellant believes that, if Parliament had intended to exclude phantom income for the purpose of computing safe income, it would have so provided.
+
+[55] On this point, counsel for the appellant also referred to the decision in Friesen v. Canada, [1995] 3 S.C.R. 103, in which the Supreme Court made the following comments at page 121:
+
+It is a basic principle of statutory interpretation that the court should not accept an interpretation which requires the insertion of extra wording where there is another acceptable interpretation which does not require any additional wording. Reading extra words into a statutory definition is even less acceptable when the phrases which must be read in appear in several other definitions in the same statute. If Parliament had intended to require that property must be relevant to the computation of income in a particular year in order to be inventory in that year, it would have added the necessary phraseology to make that clear.
+
+[56] In the same vein, counsel for the appellant referred to the Supreme Court's reasons in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at pages 641 and 642, where the Court states:
+
+[I]t is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction.
+
+[57] In counsel for the appellant's opinion, accepting the respondent's argument would be tantamount to altering, in the name of economic reality and contrary to the Supreme Court's pronouncements in Shell Canada, supra, income as determined for tax purposes to make it correspond to actual cash inflows. In his view, such a position runs counter to the presumption created by paragraph 55(5)(c). He is further of the opinion that attempting to link the computation of safe income to the actual situation constitutes an error, since the notion of safe income is in itself a fiction of the Act. When a person acquires the shares of a corporation, the price he is prepared to pay is not based on safe income any more than on income earned or realized. The price paid reflects the corporation's assets and its ability to generate future earnings from those assets. At all events, counsel for the appellant contended that, although no portion of the capital gain realized on disposition of the shares can be attributable to income included under paragraph 12(1)(t), a portion of the gain realized is nevertheless attributable to the underlying asset. The disposability of the asset on the balance sheet is thus not altered, contrary to what occurs in the case of the distribution of profits or payment of taxes.
+
+[58] Relying moreover on the reasons in Québec v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, counsel for the appellant suggested that where the Court is of the view that there are two equally valid interpretations, the uncertainty must be resolved in the taxpayer's favour.
+
+[59] Counsel for the appellant further warned the Court against the double standard that the interpretation proposed by the respondent entails. The respondent suggested a reduction of the safe income, alleging that a portion of the income earned or realized within the meaning of paragraph 55(5)(c) is phantom income. To the extent that the safe income is not increased when an "artificial" reduction of income earned or realized results from the Act, counsel for the appellant contends, the interpretation put forward by the respondent is contrary to the principle stated by the Supreme Court in Canada v. Freud, [1969] S.C.R. 75.
+
+[60] On this point, counsel for the appellant emphasized the scope of the position put forward by the respondent by referring to a technical interpretation dated December 15, 1999 (no. 9907635) concerning the artificial increase of income earned or realized as a result of a corporation's failure to claim capital cost allowance. The position of the Canada Customs and Revenue Agency is described in the following terms:
+
+[TRANSLATION]
+
+The Agency's policy with respect to the determination of income earned or realized by a corporation after 1971 ("safe income") is that safe income must not be artificially created by, for example, not claiming capital cost allowance. Consequently, the Agency proceeds on a case-by-case basis, even in situations where a corporation has not claimed capital cost allowance in certain years, whether or not safe income has been artificially created for the purposes of subsection 55(2) of the Income Tax Act.
+
+[61] According to counsel for the appellant, although it is specified that it is determined on a case-by-case basis whether safe income has been artificially created, the Agency's position that "safe income must not be artificially created by, for example, not claiming capital cost allowance" appears to indicate that an adjustment will be made systematically each time a corporation fails to claim all the capital cost allowance to which it is entitled.
+
+[62] Lastly, it is important to emphasize that counsel for the appellant pointed out various benefits flowing from the interpretation of subsection 55(2) he advanced. First, his proposed interpretation makes it possible to observe the letter of paragraph 55(5)(c), which creates an irrebuttable presumption regarding the notion of income earned or realized. Second, this interpretation respects what counsel characterizes as the "essence" or "basis" of the system, which is [TRANSLATION] "to permit after-tax income to pass tax-free from one corporation to another" or, in other words, to avoid double taxation. Lastly, counsel for the respondent contended that the proposed interpretation makes it possible to prevent any unrealized increase in the value of a corporation's assets from being transferred in the form of non-taxable dividends. With these considerations in mind, he contended that the adjustments made in the instant case are hard to justify in view of the fact that their effect is to prevent the transfer of more than half of Kruger's accumulated after-tax income.
+
+(c) Adjustment Respecting the Debt Relating to the Scientific Research and Experimental Development Tax Credit
+
+[63] More specifically with respect to this adjustment, counsel for the appellant referred to Judge Rip's reasons in Financial Collection Agencies (Quebec) Ltd. v. M.N.R., 90 DTC 1040. According to counsel for the appellant, the respondent is of the view that Kruger incurred a non-deductible expense of $2,000,000 by using that sum to "purchase" a tax credit. Yet, he contends, Judge Rip stated the following in Financial Collection Agencies, supra, at page 1045:
+
+The Act does not provide for the sale in tax credits. Technically speaking RDF did not sell and Quebec did not purchase any tax credits. The transaction is described in the contract between the parties for the sale and purchase of the promissory notes. The transaction was so structured that at the end of the day RDF would receive and retain a sum of money in return for the use by Quebec of a greater amount of tax credits; this is the appellant's view of the transaction. The appellant ignores statutory provisions of the Act which legislate a tax consequence as a result of the issuance and redemption of the promissory note.
+
+[64] Accordingly, counsel for the appellant maintained that Kruger did not incur a $2,000,000 expense for the purpose of purchasing a tax credit. In his view, it follows that no non-deductible expense was incurred.
+
+(2) Respondent's Position
+
+General Comments
+
+[65] In the view of counsel for the respondent, safe income, under subsection 55(2), is income that would contribute to the capital gain realized on disposition of the shares of a corporation and which would be attributable to the corporation's "income earned or realized". Essentially, his position is that the portion of income attributable to investment tax credits and the scientific research tax credit would not have contributed to the capital gain realized on disposition of the shares in Kruger as this was not "disposable income" of Kruger's.
+
+[66] Counsel for the respondent also based his argument on the purpose behind subsection 55(2) of the Act. Referring to Judge Rip's reasons in 943963 Ontario Inc. v. The Queen, 99 DTC 802 (T.C.C.), [1999] T.C.J. No. 334 (QL), he stated that the purpose of the provisions of subsection 55(2) is to prevent the unrealized gain inherent in the shares of a corporation and attributable to something other than "income earned or realized" by the corporation from being avoided by means of a dividend paid to a shareholder—also a corporation—prior to disposition of the shares. Counsel referred mainly to the following passage from Judge Rip's reasons at page 806:
+
+Section 55 was designed to prevent a taxable capital gain from becoming a tax-free intercorporate dividend by recharacterizing the dividend into a gain or proceeds of disposition. Subsection 55(5) establishes the rules for calculating a taxpayer's safe income. Paragraph 55(5)(f) allows a taxpayer to designate a portion of taxable dividend as one or more separate taxable dividends. With 55(5)(f), Parliament has expressed its intent that section 55 should operate without effecting double taxation. The portion of the taxable dividend that is safe income is not taxed as a capital gain.
+
+[67] According to counsel for the respondent, it follows that the determination of safe income requires a determination of the portion of the gain inherent in the shares that is attributable to "income earned or realized". Relying in particular on the Federal Court of Appeal's reasons in Brelco, supra, he maintained that no gain realized on the disposition of shares at market value can be attributable to income earned or realized if that income is not disposable. He made special reference to pages 52 and 53 of the Federal Court of Appeal's reasons for judgment:
+
+I consider that the operation of subsection 55(2) has been settled. As noted above, in two recent decisions, unanimous panels of this Court have accepted that "safe income" means "safe income on hand".
+
+. . .
+
+I am bolstered in these conclusions by the literature, which unanimously accepts that subsection 55(2) requires a calculation of safe income on hand, not exempt income generally. "Safe income on hand" refers to that portion of the safe income of a share which can reasonably be considered to contribute to the capital gain on that share. It is by definition a net calculation which begins with the deemed income in subsection 55(5), but which does not end there.
+
+[68] In the view of counsel for the respondent, the disposability requirement recognized by the Federal Court of Appeal is justified and dictated by the very wording of subsection 55(2), which refers to the gain realized on a disposition of shares at fair market value that could reasonably be considered to be attributable to income earned or realized. In support of this argument, counsel referred to Judge Bell's reasons for judgment in Deuce Holdings, supra, and to those of Judge Lamarre Proulx in Gestion Jean-Paul Champagne, supra.
+
+[69] In Deuce Holdings, Judge Bell wrote in paragraph 31:
+
+It is logical that subsection 55(2) take into account the fact that proceeds that would, but for a dividend, have been realized on a disposition at fair market value of any share immediately before that dividend, would have been computed after tax. The fair market value of a share, so far as the income element is concerned, would be valued on an after tax basis. No purchaser would rationally pay a price for a share of the capital stock of a corporation without taking into account tax paid or payable on that corporation's income.
+
+[70] In Gestion Jean-Paul Champagne, Judge Lamarre Proulx adopted a similar approach, as may be seen from her reasons at page 161:
+
+What subsection 55(2) of the Act states is that if a portion of the capital gain cannot reasonably be attributed to income earned or realized after 1971, the dividend becomes the proceeds of disposition. The word "reasonably" is important. It seems quite clear to me that it would not be reasonable to claim to distribute a dividend out of profits already distributed.
+
+(b) Adjustments Concerning the Investment Tax Credit
+
+[71] Relying on the foregoing, counsel for the respondent maintained that the justification underlying the adjustment of income earned or realized which is made for the purposes of computing safe income so as to take into account taxes paid, profits distributed or non-deductible expenses or losses also underlies the adjustments made in the instant case. He contended that the phantom income, namely that which does not correspond to a new cash inflow, is not disposable in the sense required by subsection 55(2). Accordingly, an adjustment must be made in computing safe income in order to reduce it by an amount corresponding to that phantom income.
+
+[72] Counsel for the respondent argued that the investment tax credit had the effect of creating such phantom income not only by virtue of paragraph 13(7.1)(e) or subparagraph 13(21)(f)(vii) but also by virtue of paragraph 12(1)(t) of the Act. By the operation of paragraph 13(7.1)(e) or subparagraph 13(21)(f)(vii), total depreciation claimed is reduced such that income is increased without an additional cash inflow. Under paragraph 12(1)(t), the amount of the investment tax credits is included in income without there being a corresponding cash inflow. Counsel for the respondent maintained that, in both cases, the portion of income for tax purposes attributable to those increases is not in fact disposable. In his view, it follows that no portion of the gain inherent in the shares on disposition at market value can be attributable to such an amount which is not disposable.
+
+[73] With respect to the effect of paragraph 13(7.1)(e) and subparagraph 13(21)(f)(vii), counsel for the respondent referred to the Federal Court of Appeal's reasons in Canada v. Loewen (C.A.), [1994] 3 F.C. 83, in asserting that the unit of measurement adopted under the legislation resulted in an underestimation of the actual costs and, accordingly, an overestimation of income on hand. In that case, the Federal Court of Appeal had to rule on the characterization of a notional profit in order to determine whether it resulted from an adventure in the nature of trade and was taxable as business income. The appellant in that case had acquired a debenture for $200,000, which was redeemable by the issuing company for $140,000. The sole purpose of the transaction was to obtain a tax credit and the transaction clearly could not generate a profit as the redemption price was lower than the acquisition cost. However, under subsection 127.3(6) of the Act, the acquisition cost for the investor was deemed to be reduced by 50 percent such that the deemed acquisition cost for the appellant was $100,000, as a consequence of which a notional profit of $40,000 was realized on redemption of the debenture. The case thus concerned the characterization of this notional income, the issue being whether it resulted from an adventure in the nature of trade. The Federal Court of Appeal held that the artificial reduction of the acquisition cost for the appellant under the Act did not alter the nature of the transaction so as to make it a transaction capable of generating a profit. Counsel for the respondent referred in particular to the following passages from the judgment, at pages 90 and 91:
+
+In the unreal world of income tax, however, things are seldom what they seem and are frequently deemed to be quite different from what they are. By the terms of subsection 127.3(6), supra, the appellant was deemed to have acquired the debenture at a cost of only $100,000, being his actual cost ($200,000) reduced by 50% of the designated amount, or, since the entire proceeds of the debenture had been designated, $100,000. That being so, the redemption price of $140,000 received by the appellant in 1985 was, for tax purposes, $40,000 greater than his cost of acquisition. It is that notional difference which is at the source of this litigation.
+
+Further on, the Court added, at page 98:
+
+Accordingly, while the appellant's cost of acquisition of the debenture is deemed for tax purposes to be reduced to $100,000, that is a fiction: his real cost remains $200,000 and the fictionally reduced cost cannot be used to attribute to the transaction itself a profit-making capability which it does not have in reality.
+
+[74] Relying on these reasons, counsel for the respondent contended that, in the instant case, no portion of the gain inherent in the shares on disposition at market value can be attributable to this overestimation of income on hand resulting from a notional reduction of the cost to Kruger. Accordingly, he is of the opinion that this portion of Kruger's income must therefore be subtracted in computing its safe income.
+
+(c) Adjustment Respecting the Debt Relating to the Scientific Research and Experimental Development Tax Credit
+
+[75] As regards this adjustment, counsel for the respondent argued that Kruger had paid $4,000,000 to obtain a $2,000,000 debt. In his view, the $2,000,000 difference constituted a net non-deductible expense of $2,000,000, which reduced Kruger's safe income, in the same manner as Judge Lamarre Proulx had allowed in Gestion Jean-Paul Champagne, supra.
+
+Analysis
+
+[76] In Deuce Holdings, supra, Judge Bell justified as follows his conclusion that tax paid must be excluded in establishing safe income, at page 931:
+
+It is logical that subsection 55(2) take into account the fact that proceeds that would, but for a dividend, have been realized on a disposition at fair market value of any share immediately before that dividend, would have been computed after tax. The fair market value of a share, so far as the income element is concerned, would be valued on an after tax basis. No purchaser would rationally pay a price for a share of the capital stock of a corporation without taking into account tax paid or payable on that corporation's income.
+
+The Federal Court of Appeal adopted the same reasoning recently in Brelco, supra, at page 53:
+
+"Safe income on hand" refers to that portion of the safe income of a share which can reasonably be considered to contribute to the capital gain on that share. It is by definition a net calculation which begins with the deemed income in subsection 55(5), but which does not end there.
+
+[77] Relying on these comments, counsel for the respondent contended that subsection 55(2) seeks, through the notion of capital gain which can reasonably be considered as attributable to income earned or realized, to determine the "actual" capital gain attributable to safe income. Accordingly, counsel for the respondent argued that the adjustments at issue were justified in light of the wording of subsection 55(2), as no "actual" capital gain could be attributable to phantom income.
+
+[78] However, according to counsel for the appellant, the notion of income earned or realized is itself a fiction, the amount of such income being deemed under paragraph 55(5)(c) of the Act to be income determined under Division B of Part I of the Act, subject to paragraph 20(1)(gg) and section 37.1. Although he admitted that certain adjustments had to be made in order to determine the disposable portion of that income after cash disbursements, he contended that the adjustments in respect of phantom income went against the presumption in paragraph 55(5)(c).
+
+[79] In 454538 Ontario Ltd., supra, Judge Sarchuk, in stating at page 435 that "income earned or realized' is income determined pursuant to the provisions found in Division B of Part I of the Act", in fact recognized that it was a creature of the Act and not disposable income in the accounting sense. In that case, the appellant had based its calculation of "income earned or realized" on generally accepted accounting principles, alleging that "income earned or realized" in fact meant retained earnings of a corporation. Judge Sarchuk rejected this interpretation, relying in particular on the comments of Robert D. Brown and Thomas E. McDonnell in "Capital Gains Strips: A Critical Review of the New Provisions", 1980 Conference Report, Canadian Tax Foundation, pages 51 to 92. Those comments had been made in the context of a presentation made on November 24, 1980, that is, before the coming into force of subsections 55(2) ff. as ultimately enacted. The text of section 55 as enacted by Parliament received Royal Assent on February 26, 1981, and was applicable after April 21, 1980. While the above-mentioned presentation concerned the text of the draft of the Act to amend the Income Tax Act, which set out the legislative proposals formulated in the notice of ways and means motion tabled in the House of Commons on April 21, 1980, certain comments are worthy of note. At pages 73 and 74 of the text of the presentation, the writers stated the following regarding the notion of "income earned after 1971" as then proposed in subsection 55(2):
+
+It is also necessary to consider what is meant by the reference to "income earned by any corporation after 1971." It would seem quite clear that in the context of the Income Tax Act, income as used herein means the corporation's income as determined under Part I of the Income Tax Act, and in accordance with all the rules and provisions of the Act. In other words, it is quite clear that this is not an accounting definition of income, but a tax definition. . . .
+
+It should be specifically noted that in no case is any particular adjustment to be made to the income of a corporation, as determined for tax purposes, to reflect accelerated deductions for tax purposes, such as the excess of capital cost allowance over depreciation booked. It is only income that has been taxed that is to be recognized for this purpose and not income in any other sense. Further, no adjustment is to be made for a variety of other deductions which could be regarded as "artificially" reducing income in an accounting sense: inventory allowance; resource allowance and earned depletion; additional deductions for research and development. [Italics added; footnote omitted]
+
+[80] It should be noted that the wording of section 55 which ultimately received Royal Assent contains significant amendments as compared to the initial text. Accordingly, certain remarks of the writers are not applicable to section 55 as ultimately enacted by Parliament. For example, we know that paragraph 55(5)(c) provides for an adjustment in the case of a reduction of income resulting from the inventory allowance in paragraph 20(1)(gg), which was not the case in the original text. The only other exception concerns the deduction under section 37.1 of the Act. However, the writers' comments on the notion of income as contemplated in subsection 55(2) are nevertheless relevant in substance. Subsection 55(2) concerns income in a tax sense and has nothing to do with any other notion of income whatever.
+
+[81] It was as a consequence of this notion of income in a tax sense under paragraph 55(5)(c) that Judge Sarchuk refused to take into account income earned or realized that—in particular as a result of capital cost allowance for tax purposes that was higher than actual depreciation appearing in the financial statements, which created an "artificial" reduction of income—was greater than income determined in accordance with Division B of Part I of the Act. Applying similar reasoning, it appears that an "artificial" increase of income should not give rise to an adjustment for the purpose of establishing safe income either.
+
+[82] It is also interesting to note that Brown and McDonnell emphasized as well the artificial nature of the concept of income, at pages 81 and 82:
+
+The intent of subsection 55(2) is to permit a tax-free, intercorporate dividend to be paid to reduce a potential capital gain to the extent that the gain is attributable to the retention of post-1971 income. Conversely, it is intended to block a dividend payment that goes beyond this amount to reduce capital gains attributable to anything other than retained post-1971 income. There is an implicit assumption that one can determine the portion of any gain arising on the sale of the shares that is attributable to the retention of post-1971 income and the portion that is attributable to something else. The assumption appears to be that each dollar of retained post-1971 income will yield an equivalent dollar increase in the value of the shares in question and that a gain in excess of that amount must necessarily be attributable to something else.
+
+. . . This is, of course, an artificial assumption to the extent that "income" itself is an artificial concept. [Italics added]
+
+[83] Bearing these comments in mind, it is far from clear that the assumption involved in the case of subsection 55(2) can accurately reflect reality precisely because of the reference to the notion of income in a tax sense. It is well known that this notion is the product of developing case law and of legislative action. While the former has often been characterized as conservative, the latter has proven to be surprising in its scope, particularly since the major reform of 1972. There is no need to refer to numerous authorities to support the statement that income for tax purposes, as we know it today, is not an entirely logical and coherent concept. While it deviates from a strictly economic notion of income, it does not reflect the notion of income as it is understood for financial accounting purposes. The differences in this regard are numerous. Suffice it to mention the presumptions that income has been earned or that a gain has been realized that come into play in many circumstances, the prohibition or limitation of the deduction of certain expenses, the treatment of the cost of inventory property, the general prohibition applicable to reserves and, last but not least, the introduction of a depreciation system which produces results often quite different from those obtained by the application of financial accounting principles concerning depreciation. In this latter case, the difference is even more pronounced where accelerated depreciation over a period of two or three years, depending on the years concerned, is involved. It cannot be assumed that all these differences, the list of which could be lengthened without much difficulty, were unknown to Parliament when subsections 55(2) ff. were proposed in 1980. With respect, more specifically, to paragraph 55(5)(c) and the notion of "income earned or realized after 1971", we know that the version ultimately adopted included two exceptions which were not initially provided for. No matter! As one cannot, as I have just noted, assume the ignorance of Parliament, to which it was open to provide other exceptions regarding what is to be understood by "income earned or realized" in paragraph 55(5)(c), I find that, as contended by counsel for the appellant, the presumption as enacted must be respected.
+
+[84] It is true that, in a number of decisions, in particular those of the Federal Court of Appeal in Canada v. Placer Dome Inc., [1997] 1 F.C. 780; Canada v. Nassau Walnut Investments Inc., [1997] 2 F.C. 279, and Brelco Drilling, supra, the interpretation of subsection 55(2) led to the conclusion that income earned or realized had to be disposable, which conclusion supports to a certain degree the interpretation put forward by the respondent. In this regard, the Federal Court of Appeal and this Court have approved adjustments made to reflect taxes paid (Gestion Jean-Paul Champagne, supra, and Deuce Holdings, supra), dividends paid (Gestion Jean-Paul Champagne, supra), non-deductible expenses (Gestion Jean-Paul Champagne, supra) and losses of foreign affiliates (Brelco Drilling, supra). However, all these elements reflect cash flow shown on the balance sheet which in no way affects the calculation of income for the purposes of the Act. Moreover, to the extent the adjustments sought to be made have the direct effect of altering that calculation and of subtracting from what is understood by safe income elements which are part of the income for tax purposes which has been established as a tax base, I find that, as counsel for the appellant contended, they go directly against the wording of paragraph 55(5)(c). Although the position advanced by counsel for the respondent is based on a certain logic, the fact remains that the negative adjustments made by Revenue Canada with respect to the investment tax credits have the effect of leading directly to the double taxation of those same amounts. In the case before us, accepting this position would be tantamount to allowing the increase of Kruger's income for tax purposes brought about by the investment tax credits to be taxed once as regular income in its hands, and then, under the interpretation of subsection 55(2) put forward by the respondent, allowing a corresponding amount to be taxed again in the hands of the appellant, Kruco, as a capital gain, which clearly also contravenes the spirit of the provisions in issue.
+
+[85] Since the increase in income caused by the investment tax credits was not notional enough not to result in additional tax, it should not be notional enough to justify an adjustment in determining safe income for the purposes of subsection 55(2) of the Act.
+
+[86] As has been seen, the position of Revenue Canada (which has since become the Canada Customs and Revenue Agency) on phantom income goes very far, so far in fact that, in a technical interpretation dated December 15, 1999 (No. 9907635), it is stated that there could be an artificial creation of income, and thus a possible adjustment of safe income, where a corporation has not claimed capital cost allowance in certain years. It may legitimately be supposed that the logic and the argument could be pushed to the extreme and the claim made that a negative adjustment would have to be made each time a corporation's income is increased because it has not claimed all the capital cost allowance to which it was entitled. This is clearly not the case here. However, the adjustments made in the instant case with respect to the investment tax credits flow from the same principle and have the same effects: they not only result in double taxation, contrary to the underlying principle of subsection 55(2), but they also stray from the very basis of the calculation adopted by Parliament in paragraph 55(5)(c), that is, "income for tax purposes", subject to the two exceptions cited. This, in short, is an attempt to create income for tax purposes which would be "real" in addition, obviously, to being disposable within the meaning determined by the courts to date, that is to say, by the subtraction of taxes paid, dividends paid and non-deductible expenses. In my view, this does not follow from a reasonable interpretation of subsection 55(2) of the Act.
+
+[87] The Act itself is based on a concept which includes a number of fictitious elements. That concept cannot be used for tax purposes and then disregarded or used in one sense only, or in part, to tax the same amounts again in the absence of a clear provision to that effect, which subsection 55(2) of the Act definitely does not contain.
+
+[88] The interpretation of subsection 55(2) suggested by counsel for the respondent appears to be based on the assumption that it is possible to establish the portion of income for tax purposes that may contribute to the actual capital gain which would have resulted from a disposition of shares at fair market value and that any portion of the gain that is not attributable to such income must be subject to the presumptions of paragraphs 55(2)(a) and 55(2)(b) or (c), as the case may be. One of the premises of counsel for the respondent is that phantom income such as that resulting from the application of paragraph 12(1)(t), for example, cannot in any way contribute to the capital gain that would have been realized on a disposition of shares at their fair market value. However, it is a well-known fact that a "real" capital gain realized on a disposition of shares at fair market value would reflect "real" elements which have nothing to do with the result of the calculation of income for tax purposes. And yet, with two exceptions, it is that income for tax purposes that Parliament has decided to use as a basis for calculation and to exempt from the application of the presumptions of subsection 55(2).
+
+[89] Thus, as stated above, it is far from clear that the assumption in the case of subsection 55(2) can accurately reflect the actual situation by the very reference to the notion of income for tax purposes. Referring both to the actual increase in value of the shares and to the "artificial" notion of income for tax purposes can only lead to an artificial result. However, that result is logical since, as I have noted, it makes it possible to avoid double taxation of the same amounts. In principle, the reduction of the gain which would have been realized and which may reasonably be considered as attributable to income earned or realized should not be subject to the capital gain presumption of subsection 55(2) of the Act. In the instant case, this income earned or realized is the income for tax purposes described in paragraph 55(5)(c) of the Act, not the income which the respondent wishes to adjust in a number of ways so as to make it income for tax purposes which, after numerous administrative manipulations, would again become "real" income for tax purposes. The wording of subsection 55(2) does not permit any such orientation in the name of a perhaps desirable but non-existent realism.
+
+[90] As a consequence of the above, I find that the adjustments made with respect to the investment tax credits are not justified by the wording of subsection 55(2) of the Act.
+
+[91] The $2,000,000 adjustment made for the purpose of establishing Kruger's safe income, and in respect of which an amount of $649,860 was allocated to the shares of Kruger's capital stock held by Kruco, was made on the assumption that the purchase of a debt, the principal of which was $2,000,000, for a sum of $4,000,000 gave rise to a non-deductible expense of $2,000,000. The purchase of that debt gave rise to a scientific research and experimental development tax credit of $2,000,000. The cost of the debt was moreover reduced to $2,000,000 by the effect of subsection 127.3(6) of the Act.
+
+[92] As counsel for the appellant emphasized, relying on Judge Rip's reasons in Financial Collection Agencies, supra, Kruger acquired a debt, not a tax credit as such. Kruger nevertheless paid $4,000,000 to acquire an asset worth $2,000,000. But for the application of subsection 127.3(6), that transaction would have resulted in a $2,000,000 loss to Kruger, which would likely have been subject to an adjustment for the purpose of establishing its safe income in accordance with Brelco Drilling, supra, in which the Federal Court of Appeal approved the adjustment made to reflect the exempt deficits of the appellant's foreign affiliates.
+
+[93] By virtue of the application of subsection 127.3(6) of the Act, the computation of income for tax purposes is not altered as a result of the purchase of the $4,000,000 debt since its cost is deemed to be equal to its nominal value. There is thus no possible gain or loss from a tax standpoint. As a result, the additional $2,000,000 cash outlay is not reflected in the computation of Kruger's income for tax purposes, although it reduces the amount of disposable after-tax income by an equivalent amount. In my view, the reasoning applicable in the instant case is that adopted by Judge Lamarre Proulx in Gestion Jean-Paul Champagne, supra. The additional $2,000,000 paid by Kruco in this transaction is in fact the equivalent of a non-deductible expense and thus must logically be adjusted. At all events, in Brelco, supra, the Federal Court of Appeal stated that the calculation of safe income must be "based on the facts of each case" (pages 53-54). In the instant case, the $4,000,000 disbursement made by Kruger to obtain a $2,000,000 credit clearly reduces the disposable portion of its income for tax purposes. Furthermore, the increase in the amounts available in Kruger's hands by virtue of the tax credit is reflected in the computation of its safe income as a result of the reduction of tax payable. As the Federal Court of Appeal emphasized in Nassau Walnut Investments, supra, at page 292, "assuming that the other requirements of [subsection 55(2)] are satisfied, so long as the approach taken by the Minister in allocating safe income is reasonable, subsection 55(2) should apply regardless of whether the method chosen by [the taxpayer] could also be considered reasonable." In the instant case, I find that the method adopted by the Minister with respect to this adjustment in particular is reasonable. There is therefore no reason to interfere in that regard.
+
+B. PRINCIPLES OF NATURAL JUSTICE AND RETROACTIVE APPLICATION OF A NEW ADMINISTRATIVE POLICY
+
+(1) Appellant's Position
+
+[94] In the alternative, counsel for the appellant argued that, in formulating the so-called Robertson's rules in 1981, the Department of National Revenue provided taxpayers with a formula to use in computing safe income. As a result of the lack of clarity in the Act with respect to the notion of safe income, taxpayers are compelled to refer to this formula for the purpose of determining their safe income. However, these rules do not specifically provide for adjustments concerning investment tax credits or scientific research tax credits. Submitting that Revenue Canada's administrative position on such adjustments relating to tax credits was not made public until June 1991 in the presentation by Ms. Gouin-Toussaint, counsel for the appellant concluded that that position cannot apply to the instant case since such a statement of administrative policy can be given no retroactive effect. As is the case for the determination of safe income, to the extent that the administration of the Act is based on the Minister's interpretation, counsel contended, that interpretation must be clear so as to enable taxpayers to comply with it.
+
+[95] In support of his position, counsel for the appellant referred to the doctrine of legitimate expectation, which is applicable where a government authority publicly states its administrative position. That doctrine is recognized in a certain number of English decisions.
+
+[96] Similarly, counsel for the appellant also relied on the judgment of the Supreme Court of Canada in Harel v. Québec (Deputy Minister of Revenue), [1978] 1 S.C.R. 851, in which that Court, according to counsel, accepted the doctrine in the following terms, at page 858:
+
+If I had the slightest doubt on this subject, I would nevertheless conclude in favour of appellant on the basis of respondent's administrative policy. Clearly, this policy could not be taken into consideration if it were contrary to the provisions of the Act. In the case at bar, however, taking into account the historical development that I will review rapidly, this administrative practice may validly be referred to since the best that can be said from respondent's point of view is that the legislation is ambiguous.
+
+At page 859, the Court held:
+
+Once again, I am not saying that the administrative interpretation could contradict a clear legislative text; but in a situation such as I have just outlined, this interpretation has real weight and, in case of doubt about the meaning of the legislation, becomes an important factor.
+
+[97] Counsel for the appellant contended that the principle enunciated by the Supreme Court is applicable in the instant case, to the extent that the administrative policy set out in the form of Robertson's rules does not contravene the wording of the Act, and that this policy can validly be used in view of the ambiguous wording in the Act.
+
+[98] Counsel for the appellant further relied on the reasons of the Quebec Court of Appeal in Sous-ministre du Revenu du Québec c. Ciba-Geigy Canada Ltd., [1981] R.D.F.Q. 156, in which the doctrine of legitimate expectation was also recognized. Counsel for the appellant referred in particular to the following passage from the Court's reasons, at page 159:
+
+[TRANSLATION]
+
+Limiting myself to the period ending in 1972, when, for the first time, the respondent was informed of the new application of the act, it remains for me to consider whether the appellant could impose a retroactive assessment as he did.
+
+For many years, the appellant had applied the Act in a well-thought-out and not unreasonable manner. I emphasize that we are not dealing here with a case in which tax was not collected through mere inadvertence on the Department's part. It is only fair, as regards the taxpayer, that, if the Department changes its attitude, it should not do so retroactively.
+
+In view of the ever-increasing power of the administrative machinery of governments, it is important for citizens to know that they can count on the permanent nature of agreements offered them by the administration in the context of the application of an Act until such time as they are advised that those agreements are to be terminated.
+
+[99] Lastly, counsel for the appellant emphasized that a similar analysis was done, again by the Quebec Court of Appeal, in Sous-ministre du Revenu du Québec c. Transport Lessard (1976) Ltée, [1985] R.D.F.Q. 191. Counsel referred to the following passages from the decision, at pages 194 and 195:
+
+[TRANSLATION]
+
+Where a directive has been in existence for a long time and is applied in a continuous manner in accordance with a reasonable interpretation of the Act, the rules of natural justice, in my view, require that a change of interpretation may not work against those who, in good faith, have ascertained in advance how the Act will be applied in their case.
+
+. . .
+
+Suffice it to observe that the departmental directive constituted a reasonable interpretation of the Act in this case. A taxpayer who relies on this directive to govern his conduct can legitimately expect that a subsequent change will not interfere with any decisions made on the basis of that directive.
+
+[100] Counsel for the appellant concluded that, in the instant case, the application of Robertson's rules prior to Ms. Gouin-Toussaint's presentation in 1991 was such as to create in the appellant a legitimate expectation that no subsequent change would interfere with any decisions made on the basis of that application.
+
+(2) Respondent's Position
+
+[101] With respect to the alternative argument of counsel for the appellant, counsel for the respondent contended that the administrative policy applied in the instant case was in effect starting in 1989, as witnessed by the technical interpretation letters issued in 1988 and 1989. Consequently, he maintained, the appellant could have communicated with Revenue Canada's Advance Rulings Section to determine what the tax authorities' position regarding the computation of safe income was at the relevant time.
+
+[102] At all events, counsel for the respondent argued that, even if the appellant's criticism was justified, it could not be a source of law. Relying on Ludmer v. Canada (C.A.), [1995] 2 F.C. 3, counsel contended that the appellant could invoke no substantive right based on an alleged breach of a rule of equity or of natural justice, as the principles established by English courts in this regard are not applicable in Canada. Counsel for the respondent referred to the following passage from the reasons for judgment of the Federal Court of Appeal, at pages 17 and 18:
+
+The situation in Canada is fundamentally different. Neither the Minister of National Revenue nor his employees have any discretion whatever in the way in which they must apply the Income Tax Act. They are required to follow it absolutely, just as taxpayers are also required to obey it as it stands. The institution of Commissioners equipped with broad powers and an extensive discretion to deal with particular cases does not exist here. Accordingly, it is not possible to judge their actions by varying and flexible criteria such as those required by the rules of natural justice. In determining whether their decisions are valid the question is not whether they exercised their powers properly or wrongfully, but whether they acted as the law governing them required them to act.
+
+On this point I cannot do better than to repeat what Pratte J.A. said in Granger (at pages 76-77):
+
+To begin with, the rules of natural justice have nothing to do with this issue. The phrase "rules of natural justice" means the fundamental rules of procedure which all who are required to make quasi-judicial, and in many cases administrative, decisions must observe. The applicant's real complaint against the Umpire is not that he infringed the rules of natural justice, simply that he did not apply equity rather than the law. It is beyond question that the Commission and its representatives have no power to amend the law, and that therefore the interpretations which they may give of that law do not themselves have the force of law. It is equally certain that any commitment which the Commission or its representatives may give, whether in good or bad faith, to act in a way other than that prescribed by the law would be absolutely void and contrary to public order. The applicant's argument therefore comes down to this: the Umpire erred because, so as to avoid causing injury to the applicant, he should have refused to apply the law.
+
+Once the applicant's argument is seen in its true light it is clear that it must be dismissed. A judge is bound by the law. He cannot refuse to apply it, even on grounds of equity.
+
+[103] In support of the same argument, counsel for the respondent referred as well to the Supreme Court's decision in Reference Re Canada Assistance Plan (B.C.), [1991] 2 S.C.R. 525.
+
+[104] As to the authorities to the contrary cited by counsel for the appellant, counsel for the respondent contended that they were of no assistance to the appellant in the instant case. In the view of counsel for the respondent, the decision in Harel, supra, merely confirms the principle that a judge is required to apply the Act. As to the decisions in Ciba-Geigy, supra, and Transport Lessard, supra, counsel for the respondent argued that they should be disregarded to the extent that they could not be reconciled with the decision in Ludmer, supra, which was based on the requirements laid down in Granger. Accordingly, counsel for the respondent submitted that the appellant could not claim to have a substantive right arising from legitimate expectation.
+
+(3) Analysis
+
+[105] In his main argument, counsel for the appellant disputed the interpretation of subsection 55(2) put forward by counsel for the respondent. That interpretation, counsel for the appellant emphasized, is contrary to both the spirit and the letter of subsection 55(2). Relying on the rules of interpretation developed by the Supreme Court, he contended that it was inappropriate to alter the legislator's definition of income earned or realized to take into account what the Minister characterizes as phantom income. In this regard, counsel for the appellant criticized the manner in which the Minister relies on a purely administrative policy to make adjustments concerning the investment tax credit. The respondent's position on those adjustments in the instant case clearly stems from the administrative rules stated by J.R. Robertson in 1981 and subsequently developed by R.J.L. Read and M.A. Hiltz.
+
+[106] Paradoxically, counsel for the appellant argued in the alternative that, to the extent that the Court accepted the respondent's argument regarding the interpretation of subsection 55(2), it would be contrary to the principles of natural justice to apply that interpretation in the instant case since the Minister's position on the investment tax credits was not publicly announced until Carole Gouin-Toussaint's presentation at the 1991 Journées d'études fiscales which took place on June 3 and 4, 1991, that is, after the transaction here in issue. Thus, according to counsel for the appellant, the adoption and application of Robertson's rules created a legitimate expectation that no subsequent change in the interpretation of subsection 55(2) would interfere with the decisions made on the basis of that application.
+
+[107] Contending that the wording of subsection 55(2) supports the interpretation put forward by the Minister, counsel for the respondent strongly objected to the alternative argument made by counsel for the appellant. First, he submitted that no substantive right resulted in Canadian tax law from an alleged breach of a rule of equity or of natural justice. Then, just as paradoxically since the respondent's position regarding the main argument rests essentially upon administrative practice—although her counsel contended that this position was based on the wording of subsection 55(2) itself—counsel for the respondent emphasized, with respect to the alternative argument of counsel for the appellant, that the Court was required to apply the Act, without regard to equity or the principles of natural justice.
+
+[108] In view of my conclusion regarding the interpretation of subsection 55(2), I need not rule on the alternative argument put forward by counsel for the appellant. However, the many problems raised by the application of subsections 55(2) ff. of the Act, which are referred to in the taxation literature,[15] and by the general reliance on administrative rules call for several comments. First, the evidence scarcely supports the retroactive application allegation made by counsel for the appellant. Although the rules enunciated by Mr. Robertson in 1981 do not specifically address adjustments with respect to investment tax credits, rule xx clearly provides for an adjustment for the purpose of computing safe income so as to exclude therefrom phantom income. Furthermore, as counsel for the respondent indicated, the technical interpretation letters issued in 1988 and 1989 show that the administrative policy at the time of the transaction in issue was to make adjustments with respect to investment tax credits. As to the adjustment concerning the scientific research and experimental development tax credit, that adjustment follows from Robertson's rule xviii, which provides for an adjustment for the purpose of computing safe income so as to exclude therefrom all non-deductible expenses. This policy has been constantly applied since subsection 55(2) was enacted.
+
+[109] However, since the alternative argument advanced by counsel for the appellant would for reasons of equity give force of law to an administrative practice, something which he moreover condemns in his main argument, further comment on that practice is called for.
+
+[110] The respondent justifies her interpretation in the instant case on the basis of the words "reasonably . . . attributable" used in subsection 55(2). As Judge Sarchuk stated in 454538 Ontario Ltd., supra, in the case of a private corporation, subsection 55(2) must be read in conjunction with paragraph 55(5)(c), which concerns income as calculated under the Act. Apart from the exceptions referred to in paragraph 55(5)(c), there is no indication in the wording of the Act that adjustments must be made when performing this computation of income. The respondent's position in the instant case is founded more on the administrative interpretation of the text of subsection 55(2), and more particularly on the administrative rules stated by J.R. Robertson in 1981 and subsequently developed by R.J.L. Read and M.A. Hiltz.
+
+[111] In the reasons for judgment at first instance in Brelco (Brelco Drilling Ltd. v. The Queen, 98 DTC 1422 (T.C.C.), [1998] T.C.J. No. 174 (QL)), a decision reversed on other grounds by the Federal Court of Appeal, supra, Judge Bell ruled clearly against the use of such an administrative practice. His comments at pages 429-30 are particularly relevant:
+
+In considering the reasons for enacting section 55, the Court, while attempting to construe legislation and regulations in light of that purpose, cannot properly make determinations beyond a reasonable interpretation of same. To do otherwise would be tantamount, not to interpreting, but to rewriting, legislation.
+
+Further, I cannot accept the Respondent's contention that a section of the Income Tax Act should, even if the attempt to write it was commendable, be so construed that its application leads to an expansive use of administrative fiat. In addition, I find the statement of Respondent's counsel that equity among taxpayers is enhanced by this Court confirming the administrative practice under which other taxpayers have been taxed, to be astonishing. The business community should not feel obliged, because it is expedient, to observe administrative edicts when the law is simply lacking in clarity. [Italics added]
+
+[112] This is in fact a principle often repeated in the case law. As the Supreme Court stated in Harel, supra, although an administrative policy may serve in the interpretation of an ambiguous enactment, it cannot be considered where it contradicts that enactment. In my view, the same is true where, without clearly contradicting it, the administrative policy is not supported by the wording of the enactment. In Maple Lodge Farms Ltd. v. Canada, [1982] 2 S.C.R. 2, the Supreme Court condemned the utilization of guidelines in such a way as to give them force of law. In that case, the issue concerned the use by the Minister responsible for Industry, Trade and Commerce of his discretion to issue certain import permits. Believing it had complied with the guidelines issued by that Minister with respect to the issuing of permits, the appellant asserted that a permit necessarily had to be issued to it. The Supreme Court rejected that argument in the following terms, at pages 6 and 7:
+
+It is clear, then, in my view, that the Minister has been accorded a discretion under s. 8 of the Act. The fact that the Minister in his policy guidelines issued in the Notice to Importers employed the words: "If Canadian product is not offered at the market price, a permit will normally be issued; . . ." does not fetter the exercise of that discretion. The discretion is given by the Statute and the formulation and adoption of general policy guidelines cannot confine it. There is nothing improper or unlawful for the Minister charged with responsibility for the administration of the general scheme provided for in the Act and Regulations to formulate and to state general requirements for the granting of import permits. It will be helpful to applicants for permits to know in general terms what the policy and practice of the Minister will be. To give the guidelines the effect contended for by the appellant would be to elevate ministerial directions to the level of law and fetter the Minister in the exercise of his discretion. [Italics added]
+
+[113] In my view, the same comments should apply where the guidelines adopted by the government give a statutory provision a scope not warranted by the terms of the provision as interpreted in accordance with the rules of interpretation developed by the Supreme Court. To the same effect is McCubbin v. M.N.R., 80 DTC 1113 (T.R.B.), at page 1115:
+
+There is, as was pointed out by counsel, a lack of clarity in the Sections of the Income Tax Act relative to basic herds. The Department of Justice, in order to arrive at a practical interpretation of the pertinent sections, issued certain Interpretation Bulletins referred to by counsel, which by Departmental policy or practice, seeks to avoid possible anomalies in applying those sections of the Act which are unclear. As commendable as this practice may be, such directives on policy should not become a quasi-permanent substitute for clarifying amendment passed by Parliament. [Italics added]
+
+[114] It is also relevant to refer to Judge Rip's comments in Redclay Holdings Ltd. v. The Queen, 96 DTC 1207 (T.C.C.), [1996] T.C.J. No. 126 (QL), on the development of administrative policies by the Minister of National Revenue, at page 1218:
+
+Any policy developed and implemented by the Minister in administering the Act must be in accordance with the provisions of the Act itself. Where a provision the Minister views to be ambiguous or capable of more than one meaning has not been interpreted by a court of competent jurisdiction, the Minister, in forming a policy, must apply rules of interpretation set out by the courts in cases such as Stubart Investments, supra, Antosko, supra, and Friesen, supra. The Minister exercises his discretionary power to apply the provisions of the Act, not to apply administrative policy. If the Minister determines that an administrative policy is contrary to the provisions of the Act, he may not apply that policy. [Italics added]
+
+[115] Similarly, in my view, to the extent that an administrative policy is not supported by the statute as interpreted in accordance with the rules of interpretation developed by the courts, the Minister is in no way justified in applying that policy. Judge Bowman recently made a similar comment in Canadian Occidental U.S. Petroleum Corp. v. Canada, [2001] T.C.J. No. 112 (QL), rejecting the argument of the Respondent who asked the Court to adopt an interpretation requiring the addition of words to a provision of the Act. Judge Bowman, relying on the principle stated in Friesen, supra, rejected this interpretation. According to Judge Bowman (in paragraph 19), "[t]he judicial filling of perceived legislative lacunae to achieve some unspecified policy objective is an unacceptable usurpation by the court of the legislative function."
+
+[116] As to the use of the administrative interpretation of the provision at issue, Judge Bowman writes as follows, in paragraph 30:
+
+The court is not bound by departmental practice although it is not uncommon to look at it if it can be of any assistance in resolving a doubt: Nowegijick v. The Queen et al., 83 D.T.C. 5041 at 5044. I might add as a corollary to this that departmental practice may be of assistance in resolving a doubt in favour of a taxpayer. There can be no justification for using it as a means of resolving a doubt in favour of the very department that formulated the practice. [Italics added]
+
+[117] In the instant case, the interpretation suggested by the respondent arises from an administrative policy which is not clearly based on the terms used by Parliament. Accepting the application of that policy here would be tantamount to attributing a legislative character to departmental directives and to fettering the Minister's power to apply the Act, which would be contrary to the principle stated by the Supreme Court in Maple Lodge Farm, supra. To accept such a conclusion would also have the effect of recognizing that the Minister has the power to apply an administrative policy as though it were an independent source of law, when, as Judge Rip states in Redclay, supra, it is the Act that the Minister must apply. As can be seen from McCubbin, supra, the adoption of an administrative policy for the purpose of interpreting an ambiguous provision cannot be a substitute for a clarifying legislative amendment. If Parliament wishes to give subsection 55(2) the scope suggested by the respondent in the instant case, it is open to it to do so.
+
+[118] As a consequence of the foregoing, the appeal from the assessment made for the appellant's 1989 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the adjustments totalling $23,518,455 with respect to the investment tax credits of Kruger and one of its subsidiaries and attributable to the shares of Kruger's capital stock held by the appellant must be cancelled for the purposes of subsection 55(2) of the Act. The assessment is confirmed in all other respects, the whole with costs to the appellant.
+
+Signed at Ottawa, Canada, this 17th day of July 2001.
+
+"P. R. Dussault"
+
+J.T.C.C.
+
+[1] In English, the expression "safe income" is generally used but "safe income on hand" is also used. In French, the expression "revenu protégé" and also the expressions "revenu sauf", "revenu sauf en mains" and "revenu sauf disponible" are used. At the hearing, which was held in both languages, a number of these various expressions were employed by the witnesses and counsel for the parties, often interchangeably, which resulted in a certain amount of confusion. A number of these expressions are also used in the case law and the many commentaries on the subject. For clarity's sake, I will simply use the expressions "safe income" in English and "revenu protégé" in French.
+
+[2] In English, "phantom income" is the generally-used expression, while in French, the expressions "revenu fictif", "revenu notionnel" and "revenu fantôme" are used. At the hearing, which was held in both languages, a number of these expressions were used by the witnesses and counsel for the parties. For clarity's sake, I will use the expressions "phantom income" in English and "revenu fictif" in French.
+
+[3] John R. Robertson, "Capital Gains Strips: A Revenue Canada Perspective on the Provisions of Section 55," in Report of Proceedings of the Thirty-Third Tax Conference, 1981 Conference Report (Toronto: Canadian Tax Foundation), page 81, at pages 88 to 91.
+
+[4] Transcript of Pierre Jolin's testimony, October 25, 2000, p. 88.
+
+[5] Letter dated August 19, 1988, number 7-2870.
+
+[6] Letter dated June 19, 1989, number 5-7673.
+
+[7] See note 5.
+
+[8] Letter dated November 16, 1988, number 5-5563.
+
+[9] Letter dated January 12, 1989, number 5-7230.
+
+[10] Letter dated December 18, 1989, number 5-9140.
+
+[11] Transcript of Pierre Jolin's testimony, October 25, 2000, page 98.
+
+[12] Michael A. Hiltz, "Income Earned or Realized: Some Reflections", in Report of Proceedings of the Forty-Third Tax Conference, 1991 Conference Report (Toronto: Canadian Tax Foundation, 1992), page 15:1.
+
+[13] This presentation, entitled "Le paragraphe 55(2) et la notion de 'revenu gagné'" was given to the Canadian Tax Foundation on June 3, 1991 on the occasion of the Journées d'études fiscales held in Montreal on June 3 and 4, 1991, 91 JEF, 1:1-17.
+
+[14] See note 3.
+
+[15] Among the authorities submitted by counsel for the parties, see in particular the articles by J.R. Robertson, R.J.L Read and M.A. Hiltz, supra, as well as K. Richter, "The Removal of Accrued Gains in Capital Stock Holdings Through the Use of 'Safe Income'"/"La suppression des gains courus par suite de la détention de capital-actions par voie de l'utilisation du 'revenu protégé'", Canadian Tax Journal/Revue fiscale canadienne (1991), Vol. 39, No. 5, pp. 1349-1372, 1373-1398, M. Brender, "The Taxation of Corporate Reorganizations, Subsection 55(2)," Canadian Tax Journal/Revue fiscale canadienne (1997), Vol. 45, No. 2, Part I: pp. 343-373, Part II: pp. 806-843, and S. Bilodeau, "Présomption de gain en capital et exemption pour les transactions avec lien de dépendance", Revue de planification fiscale et successorale (1992), Vol. 14, No. 2, pp. 159-222.
+

@@ -1,0 +1,192 @@
+Date: 19990507
+
+Docket: 97-953-IT-G
+
+BETWEEN:
+
+CINTAS CANADA LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+O'Connor, J.T.C.C.
+
+[1] These appeals were heard at Toronto, Ontario on February 4 and 5, 1999. The only testimony given was that of Arnold Gedmintas, a person who had been employed in various capacities by the Appellant and/or its predecessor companies (the "Appellant") during all of the years in question. A joint book of documents in two volumes containing 58 exhibits was also filed, but only a few of these exhibits were actually referred to by counsel.
+
+Issues
+
+[2] The issues are as follows:
+
+(a) Was the Appellant entitled to the deductions claimed under section 125.1 of the Income Tax Act (the "Act") in computing tax payable?
+
+(b) Was the Appellant entitled to deduct the capital cost allowance claimed in computing income in respect of property included in Class 29 and Class 39 of Schedule II to the Income Tax Regulations (the "Regulations")?
+
+(c) Was the Appellant entitled to the deductions claimed in computing tax payable under subsection 127(5) of the Act as investment tax credits arising in respect of property used for manufacturing or processing goods for sale or lease?
+
+In each case, to be entitled to the deduction claimed, the Appellant and its predecessor companies must have been manufacturing or processing goods for sale or lease in Canada at the relevant time. The Appellant concedes that its uniform rental operations did not consist of manufacturing but rather that they qualified as processing goods for sale or lease in Canada.
+
+Facts
+
+[3] The evidence establishes that:
+
+1. During the relevant taxation years, the Appellant carried on two businesses, a rental business of uniforms and some other goods ("the uniform rental business") and a dry-cleaning business. The proportion of the Appellant's gross revenue coming from the uniform rental business increased from approximately 22% in 1979 to approximately 58% in 1990. The two businesses operated independently of each other and each had separate financial statements.
+
+2. The uniform rental business was an active business carried on in Canada.
+
+3. Between 1979 and 1983, both businesses were carried on at a plant on Old Weston Road in Toronto. In 1983 the Appellant opened a new plant on Dundas Street West and ceased to use the Old Weston Road plant for the uniform rental business. The new plant has been used solely and continuously for the uniform rental business since 1983. In 1989 the Appellant opened a second plant on Torlake Crescent in Etobicoke which was used solely for the uniform rental business. At all relevant times the majority of the Appellant's employees worked inside the plants and approximately 25% to 30% of those were doing make-up and repair operations.
+
+4. In its uniform rental business the Appellant determined the uniform requirements of its customers taking into consideration the type of business carried on by the customer, the particular requirements for types of uniforms, the number and measurements of employees and any special requirements of the customer. Customers' operations varied. Mr. Gedmintas gave as examples "an IBM, a food processing plant, a pharmaceutical plant, a high-tech plant, a local garage, all the way down to coffee shops and donut places". He also mentioned service companies such as those providing air conditioning and heating services to private houses. Approximate numbers of customers were 1,200 in 1979, 2,300 in 1984, 2,800 in 1990 and 10,000 in 1999. Thus, the uniform requirements varied considerably from customer to customer. The Appellant and the customer entered into an agreement under which the Appellant provided to the customer a suitable supply of "finished" garments, altered and adapted to meet the customer's specific needs. Customizing garments to suit each customer's specific needs was critical to marketing the Appellant's product. Mr. Gedmintas stated that absent cresting, alteration or other customization, such as the addition of belt loops or the addition or removal of pockets, no agreement would be entered into with prospective clients requiring such additions. He stated further that simply hemming pants, for example, would not render the garment marketable. The agreement also provided that the garments were to be cleaned and repaired from time to time as needed.
+
+5. The Appellant leased, rather than sold, garments to its customers save for very minor exceptions (1% of revenues).
+
+6. After determining the customer's requirements, the Appellant purchased garments such as pants, coveralls, shirts, lab coats, shop coats and other garments from various third party suppliers. They were then taken to the "make-up" department in the plant where:
+
+· Any required alterations were made to the garments, such as shortening or lengthening arms and legs, hemming pants and altering waist sizes. Mr. Gedmintas stated that every garment is altered either to a minor extent or to a major extent and that every single pair of pants had to be hemmed.
+
+· In 1989, a computer readable bar code and identification tag was produced and applied to some garments. The bar code identified the garment as being leased to a particular customer for a particular employee. Prior to 1989, on all garments, the Appellant used similar identification labels that were not machine readable.
+
+· Special-use pockets (for security cards, tools, pencils or the like), extra belt loops or reflective tape were added or similar modifications were made to approximately 5% of the garments.
+
+· Company crests (some of which were produced by the Appellant from blank templates) were sewn on to the garments, and employee name crests were made from blank templates and sewn on to the garments. These operations were performed on 99% of all new garments.
+
+· All new garments were washed and dried to remove the sizing or stiffness from the fabric. Were this not done the garment would create rashes on the wearer.
+
+7. After initial delivery of the uniforms to the customer, the service representatives of the Appellant returned to the customer at predetermined times (usually weekly) to collect soiled and damaged garments and return them to the plant or plants for cleaning and repair. After sorting, the cleaned and repaired or altered garments were delivered back to the customer. Worn or damaged garments were identified during the sorting, washing and drying process. Damaged garments were transferred to the repair department for repairs including replacing buttons and zippers, patching holes, replacing torn cuffs and pockets. 7% to 10% of all garments entering the process on a daily basis had to be repaired.
+
+8. The entire operation is succinctly described by quoting from Mr. Gedmintas' testimony explaining how the price (rental) was arrived at for each customer:
+
+The pricing includes us providing the garment that we agreed to provide, in terms of any customization that had to be done to it. It includes the cresting and the name plating, the bar coding. And once we install the account, it includes weekly maintenance of the program, by picking up all the soiled uniforms, bringing it to the plant, washing them, drying them, putting them through our repair department, doing any size exchanges, doing any upgrades, and basically maintaining the entire program for the course of the agreement which is typically five years.
+
+Submissions of the Appellant
+
+[4] Counsel for the Appellant made the following principal submissions:
+
+1. Section 125.1 of the Act allows a corporation to deduct, in each relevant taxation year, in computing tax payable, a specified percentage of the corporation's "Canadian manufacturing and processing profits" for the taxation year. "Canadian manufacturing and processing profits" is defined in subsection 125.1(3) to be such portion of the corporation's income from active businesses carried on in Canada as is determined under the Regulations to be applicable to the manufacturing or processing in Canada of goods for sale or lease. For these purposes, Regulation 5200 provides a formula for computing "Canadian manufacturing and processing profits" for corporations other than small manufacturers. Regulation 5202 defines "qualified activities", an expression used in calculating the formula.
+
+2. The effect of the said formula is to limit the benefits flowing from section 125.1 to those parts of a business which qualify as "manufacturing or processing". A corporation that incurred very high administrative overhead costs, or sales or data processing costs, would not thereby be disentitled to the deduction, but the amount of the deduction would be reduced.
+
+3. The terms "manufacturing" and "processing" are not defined either in the Act or the Regulations. Subsection 125.1(3) provides a list of activities which are excluded from manufacturing or processing. None of the exclusions provide any positive assistance in determining whether a particular activity constitutes manufacturing or processing.
+
+4. Paragraph 20(l)(a) of the Act allows a taxpayer to deduct, in computing its income such capital cost allowance as is allowed under the Regulations. Regulations 1100(l)(y), (ta) and (ze) allowed in the relevant taxation years enhanced capital cost allowance deductions in respect of property used in Canada primarily in the manufacturing or processing of goods for sale or lease.
+
+5. Subsection 127(5) of the Act allowed, in each relevant taxation year of the Appellant, a deduction in computing tax payable of all or part of its "investment tax credit" at the end of the taxation year. "Investment tax credit" is defined in subsection 127(9) to include a percentage of the cost to the taxpayer of "qualified property". "Qualified property" is defined in subsection 127(9) to include prescribed machinery and equipment acquired after June 23, 1975 used by the taxpayer in Canada primarily for the purpose of manufacturing or processing goods for sale or lease.... Regulation 4600(2)(k) prescribes for this purpose property included in Class 29 or Class 39. The applicable percentage for property of the type in issue in this appeal was 7% for property acquired after November 16, 1978, and before 1987, 5% for property acquired in 1987, 3% for property acquired in 1988 and 0% thereafter.
+
+6. The requirement which is common to each claim of the Appellant, whether for the manufacturing and processing profits deduction, additional capital cost allowance claimed in respect of property included in Class 29 or Class 39 or investment tax credits in respect of qualified property, is that the Appellant must be manufacturing or processing goods for sale or lease in an active business primarily carried on in Canada. It is not disputed that the Appellant carried on business only in Canada. It is also admitted that the Appellant's uniform rental business was an active business. It was also the evidence of Mr. Gedmintas that the uniform rental business of the Appellant involved primarily the leasing of uniforms. The Appellant does not claim that it was "manufacturing" goods for lease. The central issue therefore is whether the activities of the Appellant constituted "processing".
+
+7. The leading case in determining the meaning of the term "processing" for these purposes is the decision of the Exchequer Court of Canada in Federal Farms Ltd. v. M.N.R., 66 DTC 5068which was affirmed by the Supreme Court of Canada without reasons (67 DTC 5311). In that case, the taxpayer carried on a business of cleaning, preparing and packaging carrots and potatoes for market. The issue was whether the corporation was a "manufacturing and processing corporation" for the purposes of section 40A of the 1952 Act and (it would be so if at least 50% of its gross revenue was from the sale of goods "processed or manufactured in Canada" by it). Mr. Justice Cattanach held that the term "processed" was to be given its common or ordinary meaning, stating at page 5071 that:
+
+Section 40A of the Income Tax Act is dealing with matters affecting manufacturing and processing corporations generally. The section is not one passed with reference to a particular trade or business from which it follows that the words in question are to be construed in their common or ordinary meaning and not as having a particular meaning as understood by persons conversant with a particular trade or business. For this reason I do not accept the definition put forward by Mr. Long [the witness of the Minister] that processing connotes a material change being made in the texture and structure of the product.
+
+After reviewing various dictionary definitions of the word "process" to determine its ordinary meaning, Mr. Justice Cattanach concluded at page 5072 that:
+
+The evidence of the appellant as to its operations convinces me that those operations were a process or series of processes to prepare the product for the retail market. There is no doubt that quite apart from the grading of the vegetables, a clean and attractive appearance is an important factor in marketing vegetables and especially so in the present day methods of retail marketing. Although the product sold remains a vegetable, nevertheless, it is not a vegetable as it came from the ground but rather one that has been cleaned, with improved keeping qualities and thereby rendered more attractive and convenient to the consumer.
+
+8. In Nova Scotia Sand and Gravel Limited v. The Queen, 80 DTC 6298 the taxpayer washed, screened and sorted sand and gravel. Mr. Justice Thurlow, in the Federal Court of Appeal, concluded at page 6299 that:
+
+... Nor, in my view, is there any reason to doubt that within the ordinary meaning of words, what the appellant does in its washing, screening and sorting operations is a processing of the excavated pit run material ...
+
+9. The definition of "processing" in Federal Farms has also been approved and applied by the Federal Court of Appeal in Harvey C. Smith Drugs Limited v. The Queen, 95 DTC 5026 (where it was held that dispensing drugs in capsules or tablets did not constitute processing). Desjardins J.A. stated at page 5030that:
+
+By its very language, the word "processing" used in its ordinary meaning cannot be applied to the dispensing of drugs in capsules or tablets where the only activities of the pharmacist consists in removing the discoloured, broken, chipped or cracked ones, counting the appropriate ones in a number prescribed by the physician, and placing them in a labelled container with a child-proof safety cap. What is absent from the activities of the pharmacist is the subjection of the product "to a particular method, system or technique of preparation, handling or other treatment desired to effect a particular result." There is no subjection and conversion of the original product from one state to another.
+
+10. The test has also been affirmed by the Federal Court of Appeal in Tenneco Canada Inc. v. The Queen, 91 DTC 5207. In that case, the Federal Court of Appeal found that the installation and sale of exhaust systems in automobiles constituted neither manufacturing nor processing. Linden J.A. stated at page 5209 as follows:
+
+The second issue is whether the appellant was "processing". Despite the vigorous argument of Ms. Swystun, I am not persuaded that there was any "processing" being done here. Certainly there were adjustments, alterations and changes made to the parts, when needed, in order to fit them together properly and to hold them in place, but this did not amount to processing. The two tests for determining whether a taxpayer processes goods are (i) whether there is a change in the form, appearance or other characteristics of the goods subject to the operation, and (ii) whether the product becomes more marketable. ...
+
+... Furthermore, processing implies uniformity; the same process, or a highly similar one, is usually applied to each item treated (Vibroplant v. Holland [1982] 1 All E.R. 792 (C.A.)).
+
+The operations of the appellant did not come within these definitions. There was no real change in the form, appearance or characteristics of the pipes and other parts being used in the exhaust systems. There were minor alterations of them, when needed, in order to enable them to fit together and to function as a system. If the alterations and adjustments were not made, the customer would not receive a repaired, operating exhaust system. Nor did the appellant's activities make the goods more marketable. The agreement to buy the parts and have them installed as a functioning system is made prior to the installation operation. If they are not the right parts, if they do not fit together, or if they do not work properly, the agreement would not be performed by the appellant and the payment would not have to be made by the customer.
+
+11. The test to be applied in determining whether processing has taken place, that is, whether there has been a change in the form, appearance or other characteristics of the goods and whether the goods become more marketable, is therefore well established. The application of those principles in a particular case depends on the particular facts of that case.
+
+12. The Federal Court of Appeal has found that processing implies the application of a uniform process to each item (Tenneco) or the subjection of the product to a method, system or technique of preparation, handling or other treatment (Harvey C. Smith). The videotape evidence and the evidence of Mr. Gedmintas illustrate that the uniforms rented by the Appellant were subject to a uniform, highly-organized system of handling and treatment, from the alteration, adaptation and labelling of garments in the make-up phase, the sorting, cleaning and repairing of used and soiled garments and the sorting for dispatch of garments at the end of the process. The degree of system or uniformity or organization in this process cannot, in my submission, be distinguished in any material way from the processes which were applied to vegetables in Federal Farms ....
+
+13. The jurisprudence then requires that there be a change in the form, appearance or other characteristics of the goods subject to the process. It is the Appellant's submission that the processes to which the garments are subjected, taken as a whole, including:
+
+· alterations
+
+· producing individual name crests
+
+· producing company crests
+
+· applying company crests and individual name crests to garments
+
+· preparing and attaching identification labels for automated sorting
+
+· adding pockets, belt loops, reflective tape and the like as needed
+
+· washing and drying garments
+
+· dyeing shop towels
+
+· repairing garments
+
+· identifying and replacing worn out garments
+
+· sorting garments for delivery
+
+constitute changes to the form or appearance of the garments analogous to the changes in the form or appearance or characteristics made to the vegetables in Federal Farms ... or the sand and gravel washed and sorted in Nova Scotia Sand and Gravel, .... When a garment has been processed by the Appellant, although it has not changed in substance, its form and appearance is changed and the activities of the Appellant satisfy this part of the test.
+
+14. The second branch of the test is whether the process in question makes the product more marketable. It was the evidence of Mr. Gedmintas that the alteration and customization of the rented garments - fitting, extra belt looping, addition or removal of pockets and the like - and the application of name plates and crests to the rented garments were an essential element of the product to be leased and that customers of the Appellant would not lease garments unless they had been so processed. It is also evident that customers would not enter into the lease agreement if they did not know that appropriate cleaning, repairing and replacement of used garments would occur during the term of the contract. The processing of the garment therefore is an essential component of what the customer desires. It follows that the processing activities of the Appellant render the uniforms the Appellant leases more marketable.
+
+15. In this respect the position of the Appellant is different from that, for example, of a retailer of clothes which might require alteration after purchase by a customer. While some, but not all, retailers of clothing provide alteration services it is difficult to say that a particular customer buys the garment because the customer knows that the alterations will be made by the particular retailer. In fact the customer normally has a choice of where alterations are to be made. In the case of customers of the Appellant, however, alteration, labelling and the other processes were, on Mr. Gedmintas' evidence, an integral part of the "program" which the customer leased. There is therefore no doubt that the operations of the Appellant rendered the uniforms more marketable. In addition, ... Revenue Canada's administrative position in Information Bulletin IT-145R is that the analogous operation of alterations of clothing by a clothing retailer does constitute manufacturing and processing.
+
+16. In Nettoyeur Shefford Inc. v. M.N.R., 94 DTC 1926, the taxpayer was carrying on a business which appears to be very similar to that of the Appellant. It carried on a dry cleaning business and a business of leasing two different classes of goods: tablecloths and sheets on the one hand and industrial and other uniforms on the other. Thirty-five percent of the business came from the dry cleaning operations. The uniform leasing portion of the business appears to have been carried on in a manner similar to that of the Appellant.
+
+17. Judge Tremblay of the Tax Court of Canada found that the activities of the taxpayer did not constitute "processing" principally on the basis that processing required a change in the good affecting "the structure of the good in a substantial manner". Judge Tremblay's interpretation of the statutory language was that a process must "effect significant changes to the material structure or properties of the goods concerned" to qualify [What the judge stated was:
+
+Cette Cour est profondément convaincue qu'un unique changement au niveau de l'apparence d'un bien ne constitue pas une transformation au sens où on l'utilise au sein des déductions recherchées.
+
+Une modification à la forme permettant de relever la présence d'une transformation devra donc atteindre la structure du bien de façon substantielle.
+
+In translation:
+
+This Court is profoundly convinced that a mere change in the appearance of a good does not constitute a processing within the meaning of that term as used with respect to the deduction claimed.
+
+A change in form that would make it possible to detect the presence of a processing must therefore affect the structure of the good in a substantial manner.]
+
+18. This interpretation cannot be reconciled with the decision of Mr. Justice Cattanach in Federal Farms, which was approved by the Supreme Court of Canada and which specifically rejected the notion that processing "connotes a material change being made in the texture and structure of the product" (page 5071). Judge Tremblay applied a test which is far more restrictive than that which is established in the jurisprudence.
+
+19. Finally, Judge Tremblay found that the ownership by the taxpayer of the leased uniforms was a "facade camouflaging the true nature" of the taxpayer's business as a service business. The Appellant's position with respect to this argument is two-fold:
+
+(a) In the case of the Appellant there is no element of facade or camouflaging about the ownership of the leased uniforms. The evidence of Mr. Gedmintas was that, as a matter of commercial reality, this was the way the business was carried on and that there was nothing artificial or contrived in the fact that the Appellant owned the garments and leased them to its customers.
+
+(b) The legislation clearly contemplates that processing goods for lease qualifies equally with processing goods for sale. There is no requirement in the statute that the leasing be carried out by a person other than the taxpayer who carries out the processing. The statute therefore specifically contemplates that the taxpayer can be carrying out an activity, namely leasing, which in another context might be characterized as a service activity. The statutory provisions taken as a whole accommodate this by excluding from the calculation of the benefits conferred the cost of property or labour which relates wholly to leasing activities. For example, the cost of personnel involved in sales, finance, lease administration and similar activities and the cost of capital property, such as data processing or computer equipment, involved in these activities, are not eligible for any of the manufacturing and processing-related benefits. In the case of the Appellant, the only labour and capital taken into account in computing the various manufacturing and processing-related benefits claimed are those directly related to the processing operation, that is, the preparation, alteration, labelling, washing, sorting and repairing of the leased garments.
+
+20. The fact that there is a "service" element in the business in question does not in itself disqualify it as manufacturing and processing. The inclusion in the legislation of references to processing goods for lease makes that clear. The presence of a service element therefore simply affects the calculation of the quantum of the benefit. Therefore, Judge Tremblay's analysis does not properly take into account the statutory scheme.
+
+Submissions of the Respondent
+
+[5] Counsel for the Respondent submitted that the Appellant was in fact carrying on a cleaning business. It was not processing goods but rather was providing a service to its customers. She states that the jurisprudence establishes two requirements for something to be classified as "processing". There must be a change in the form of the uniforms and they must be made more marketable. She adds that the guiding principles are set forth in Tenneco Canada Inc. v. The Queen, supra. She refers to the following citation of Linden, J.A. at page 5209:
+
+Processing occurs when raw or natural materials are transformed into saleable items. Such raw or natural materials are unsaleable, or would sell for a lesser price, in their unprocessed state. Thus, gravel treated by washing, drying and crushing becomes more valuable (Nova Scotia Sand and Gravel Ltd. v. The Queen 80 DTC 6298(F.C.A.)), as do vegetables prepared by washing, brushing, spraying and packing (Federal Farms v. M.N.R.) Both of these operations are processing. Furthermore, processing implies uniformity; the same process, or a highly similar one, is usually applied to each item treated (Vibroplant v. Holland [1982] 1 All E.R. 792 (C.A.))
+
+...
+
+This case is not like Admiral Steel Products Ltd. v. M.N.R. (1966), 66 DTC 174, where steel products were substantially changed in form so as to be more usable and marketable. Nor is it like the Federal Farms and Nova Scotia Sand and Gravel cases where the products were processed in order to make them saleable. What was done here resembles more what was done in Harvey C. Smith Drugs Ltd. v. M.N.R. (1989), 86 DTC 1243 (counting pills) and Kimel Ltd. v. M.N.R. (1982), 82 DTC 1086 (cutting cloth). Suppose someone purchased a ready-made suit of clothes, which required some alterations, at a retail clothing store. To do those alterations on a ready-made suit would not, I think, be considered manufacturing or processing. To order a suit made to measure, however, would be manufacturing by the maker of the suit.
+
+This interpretation is consistent with Parliament's intention, as it has been judicially interpreted, in creating the special incentive through s. 125.1(3)(c) (Mother's Pizza Parlour (London) Ltd. v. The Queen 85 DTC 5271 (F.C.T.D.) The nature of the modern commercial world is that goods often pass through many hands before they reach consumers. At each stage, minor alterations may be made to the goods, or they may be assembled in conjunction with other ready-made goods, before they progress through the commercial chain. The benefit of the incentives cannot be claimed by each of the handlers merely because they altered the goods in some small way. Only those operations which significantly change the character of the goods can truly be described as "manufacturing" or "processing" so as to qualify for the special tax incentives.
+
+[6] She argues further that the various operations of the Appellant produced no change in form but merely served to enhance the uniform service business. She points to Tab 57 of the Book of Exhibits which is entitled "Service Agreement" and states that the rent charged to the customer was an all inclusive figure, i.e. including the washing and repairing and other applications to the uniforms and concludes from that the operations of the Appellant were more in the nature of providing a service as opposed to processing. She argues further that the Interpretation Bulletin is not binding. Moreover she states that it is not applicable as the Appellant merely hemmed parts of the uniforms which it secured from third party manufacturers, i.e., did not do the alterations normally done by a "retail clothing establishment". The addition of labels does not change the form of goods. Washing, drying, repairing and delivering is not processing. She referred to Versa Services Ltd. et al. v. M.N.R., 92 DTC 1769 (T.C.C.) and Nettoyeur Shefford Inc. v. M.N.R., supra.
+
+Analysis
+
+[7] In my opinion the Appellant's operations at both the initial stage of preparing new garments and the ongoing operations during the term of the Service Agreement met the "processing" tests established by the jurisprudence. I refer in particular to the decision of the Exchequer Court of Canada in Federal Farms Ltd. v. M.N.R., supra which was affirmed by the Supreme Court of Canada without reasons, which held that the business of cleaning, preparing and packaging carrots and potatoes for market constituted processing and to that of the Tax Appeal Board in W.G. Thompson & Sons, supra which held that cleaning, drying and otherwise preparing white beans for market was processing and to Nova Scotia Sand and Gravel Limited v. The Queen, supra where the Federal Court of Appeal held that the washing, screening and sorting of sand and gravel constituted processing. The operations of the Appellant altered the form of the garments, made them more marketable and there was uniformity in the process.
+
+[8] Further, I do not share the views expressed by Tremblay, J. of this Court in Nettoyeur Shefford Inc., supra. His interpretation, although given in a case similar to the operations carried on by the Appellant, cannot be reconciled with the decision in Federal Farms which specifically rejected the notion that processing "connotes a material change being made in the texture and structure of the product". Judge Tremblay applied a test much more restrictive than that established in the general body of jurisprudence (as perhaps did Linden, J.A. in Tenneco when referring to "operations which significantly change the character of the goods"). Further, Judge Tremblay found that the ownership by the taxpayer of the leased uniforms was a "facade camouflaging the true nature" of the taxpayer's business as a service business. The element of facade is not present in this case. Further, the fact that there is a "service" element does not in itself disqualify the Appellant's operations as processing. The inclusion in the legislation of references to processing goods for lease makes that clear. The presence of a service element simply affects the calculation of the quantum of the benefit. In Versa, Bonner J. of this Court held that the mere act of heating up prepared foods such as hot dogs and pizza was not "processing". He also commented to the effect that "processing" takes colour from its neighbour "manufacturing". This might lead one to conclude that "processing" connotes greater operations than those of the Appellant, but in my view, that is not consistent with the decisions in Federal Farms and Nova Scotia Sand & Gravel referred to above.
+
+[9] In conclusion, for all of the above reasons, the appeals are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was processing goods for lease in Canada during the years in question.
+
+Signed at Ottawa, Canada this 7th day of May 1999
+
+"T.P. O'Connor"
+
+J.T.C.C.
+

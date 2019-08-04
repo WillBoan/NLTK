@@ -1,0 +1,680 @@
+Date: 20020417
+
+Docket: 2000-717-IT-G
+
+BETWEEN:
+
+GIBRALT CAPITAL CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+McArthur J.
+
+[1] This is an appeal from an assessment for the 1995 taxation year. The issue is whether section 80 of the Income Tax Act applies to a debt forgiveness of $16,000,000.[1] The Appellant[2] submits that it does not apply because the debt was not a "commercial debt obligation" as defined in subsection 80(1) which reads as follows:
+
+"commercial debt obligation" issued by a debtor means a debt obligation issued by the debtor
+
+(a) where interest was paid or payable by the debtor in respect of it pursuant to a legal obligation, or
+
+(b) if interest had been paid or payable by the debtor in respect of it pursuant to a legal obligation,
+
+an amount in respect of the interest was or would have been deductible in computing the debtor's income, taxable income or taxable income earned in Canada, as the case may be, if this Act were read without reference to subsections 15.1(2) and 15.2(2), paragraph 18(1)(g), subsections 18(2), (3.1) and (4) and section 21;
+
+[2] The parties have agreed to a Statement of Facts which is set out in Schedule "A" to these Reasons.[3] The events giving rise to this appeal are complex, the gist of which is as follows. Joseph Shoctor (Shoctor), an Edmonton businessman, controlled three corporations[4] that purchased the Westward Inn (the Inn) in Calgary in 1981 for $18,000,000. The Inn was a financial disaster and in 1988, Shoctor was in serious financial difficulties. Through personal guarantees, he owed the TD Bank $32,000,000. He turned to his lifetime friend, Samuel Belzberg[5] (Belzberg), who paid $10,000,000 to the TD Bank in final payment of the $32,000,000 debt. Cal-Con Financial Ltd. (Cal-Con) took on assignment of the $32,000,000 debt. Ultimately, Shoctor could not satisfy the $10,000,000 debt to Belzberg and they entered a new debt restructure agreement in 1993 called the Master Settlement Agreement (MSA) wherein Shoctor turned over many of his assets to Belzberg comprising basically of $2 million in cash and the Inn. Belzberg forgave approximately $16,000,000 in debt. The Appellant originally filed returns on the basis that subsection 80(1) applied, believing that it had sufficient non-capital losses to offset the additional forgiveness of debt income. Apparently, the non-capital losses were disallowed and the Appellant re-filed on the basis that section 80 did not apply, giving rise to this appeal.
+
+[3] The Appellant submits that no portion of the $16 million satisfies the requirements in the definition of "commercial debt obligation".
+
+[4] Included in the $16 million are three separate debts; $9 million, $4 million and $2.2. million.[6] The history of each must be considered. As stated, in 1981 three companies controlled by Shoctor purchased the Inn with a joint and several mortgage loan to the TD Bank in the amount of $18.2 million. In November 1987, Shoctor personally bought the Inn from the three companies for $7 million which he borrowed from the TD Bank as well. The companies used the $7 million to repay a portion of their original $18.2 million debt. The total debt on the books of Shoctor Group did not change since they jointly and severally guaranteed the $7 million borrowed by Shoctor. By 1988, the $18.2 million debt had ballooned to approximately $32 million with interest and various other amounts. Transactions were entered into for the purpose of restructuring the debt. Included in this restructuring, Belzberg borrowed $10 million from the TD Bank to pay off the $32 million debt which was assigned by the TD Bank to Cal-Con.[7]
+
+[5] In 1993, Provincial Credit Corp. Ltd. (Provincial)[8] bought the Inn back from Shoctor for $4 million and $2 million of the $4 million purchase price was financed by a mortgage back to Shoctor. Various other assets were also transferred to satisfy the 1988 $10 million debt which was owed to Belzberg. One result of these transfers was that Belzberg took 100% control of Cal-Con. At this point, the Shoctor Group[9] owed $36 million to Cal-Con. This amount was comprised of the original $32 million TD Bank debt that was assigned to Cal-Con in 1988 plus interest. Provincial also owed $4 million to Harvey Holdings Ltd. (Harvey) in the form of an inter-company debt.
+
+[6] The parties entered into a new debt restructuring agreement in 1993 through which, after various debts were moved around, Provincial ended up owing roughly $16 million to Cal-Con. This $16 million debt, which was ultimately forgiven in 1995 when Gibralt Capital Corporation was incorporated, was comprised of six separate debts. Two of the debts were not in dispute and a third debt in the amount of $139,819 was not addressed in oral argument.[10] The three amounts addressed were a $9 million debt, $4 million debt and $2.2 million debt.
+
+[7] The $9 million debt is a portion, assumed by Provincial, of the original $36 million which the Shoctor Group owed to Cal-Con. As described above, this $36 million is related to the original $18.2 million borrowed by the Shoctor Group to purchase the Inn.
+
+[8] The $4 million debt is comprised of inter-company loans between Provincial and Harvey which were subsequently assigned to Cal-Con.
+
+[9] The $2.2 million debt can be traced back to when Provincial repurchased the Inn from Shoctor in 1993 and financed this amount of the $4 million purchase price through a mortgage take back. This debt owing from Provincial to Shoctor was assigned by Shoctor to Cal-Con pursuant to the debt restructuring agreement as well.
+
+Position of the Appellant - The $9 Million Debt
+
+[10] The Appellant presents three alternative arguments why the $9 million should not be subject to section 80. All are premised on the basis that the debt does not meet the criteria of a "commercial debt obligation" as defined in subsection 80(1).
+
+(a) Retrospective Application
+
+[11] The Appellant submits that when the Shoctor Group of corporations sold the Inn in 1987, interest on the corporations' debt to the TD Bank ceased to be deductible pursuant to paragraph 20(1)(c) of the Act because there was no longer a source of income.[11] It is accepted that prior to selling the Inn to Shoctor in 1987, interest was deductible by the Shoctor Group and the former section 80 would have applied. The thrust of the Appellant's argument is that section 80 was amended in 1995 and it applies only to taxation years ending after February 21, 1994[12] and that the debt can only be analysed to determine if interest "was or would have been deductible" after February 21, 1994. To support this position, the Appellant relies on the presumption against retrospective statutes.[13]
+
+[12] The Appellant asserts that the loan should only be analysed to determine if it is a "commercial debt obligation" for periods after February 1994 and because there was no source of income during this period, the interest would not have been deductible.
+
+(b) Release of the Debtor
+
+[13] The Appellant states that the $32 million, which was divided and allocated among the parties under the MSA, was a joint and several liability of the original parties. The Appellant submits that when Harvey and Shoctor were released from their debts by TD Bank in 1988, Provincial was also released by operation of law. The Appellant adds that Provincial then assumed a new legal debt which is not connected with any source of income and, therefore, the new debt would not constitute a "commercial debt obligation" as interest would not have been deductible. The release of one joint and several debtor effects a release of all debtors. The Appellant submits that none of the three recognized exceptions to this rule apply to the present case and, therefore, the rule would operate and Provincial would be released from the original debt and would assume a new legal debt.
+
+(c) Novation
+
+[14] The Appellant submits in the alternative that when the $32 million debt was severed and allocated to the different parties pursuant to the MSA, and the other parties were subsequently released, that this resulted in a novation. Through this novation Provincial assumed a new debt of $9 million, which was legally distinct from the original debt of $32 million. This new debt of $9 million, it is argued, was not connected to any source of income and, therefore, interest was not, and could not have been deductible.
+
+Position of the Respondent - The $9 Million Debt
+
+(a) Retrospective Application
+
+[15] The history of the loan must be reviewed to determine whether it is a "commercial debt obligation". To do otherwise would frustrate the intention of the legislation.
+
+(b) Release of Debtor
+
+(c) Novation
+
+[16] Respondent's counsel dealt with these two arguments of the Appellant together. Counsel submits that it is irrelevant whether there was or was not a novation or a release of debtors. She states that the purpose behind the debt forgiveness rule is the characterization of the forgiven debt according to its source: either it is a business source and will be captured or it is a personal source and will not be captured by section 80. She further states that the debts satisfy the "legal obligation" requirement of the definition of "commercial obligation" in section 80 as this section is based on the hypothetical "if". She asserts that the word "if" in this instance applies both to the supposition that interest had been paid or payable and that it was payable pursuant to a legal obligation.
+
+[17] She further asserts that even if there was a release of the debtors, or a novation of the debt, subsection 20(3) would operate to deem the money owing under the new debts to have been used for the purpose for which the money previously borrowed was used and the interest would, therefore, remain deductible under paragraph 20(1)(c).[14]
+
+[18] She adds that the releases were never fully effected and that as Shoctor was not released, Harvey was not released either. She states that at best, there is a covenant not to sue.
+
+[19] Lastly, she concludes that neither release, subsequent to the MSA, substitutes debtors and that there is no evidence that the parties to the MSA intended to effect a novation.
+
+[20] In reply, the Appellant states that the Respondent misunderstands his arguments. If Provincial was released or there was a novation, then the debt of $9 million that was severed and allocated to Provincial under Part A of Schedule F to the MSA is legally a new debt, that is, legally distinct from the 1981 debt. It was that new debt that was part of the $16 million that Cal-Con forgave on January 18, 1995.
+
+[21] This appeal was heard September 10, 2001. On September 11, 2001, counsel for the Respondent requested permission to make written submissions in respect of two of the Appellant's arguments: (i) the release of one joint and several debtor releases all debtors; and (ii) novation. Despite the Appellant's forceful argument to the contrary, the request was granted to give the Court the benefit of full arguments with respect to the release of one joint debtor and novation. In her further arguments, Respondent's counsel also included the issue: commercial debt obligation - retrospective or prospective. In reply, the Appellant urged that the Respondent's retrospective or prospective further arguments be ignored. While the Appellant's position is well taken, again for the purpose of completeness, I have considered these submissions together with the Appellant's reply and found them of minimal assistance.
+
+Analysis
+
+[22] Whether the Appellant must bring the forgiven amount into its income depends on whether the debt is a "commercial debt obligation" as defined in subsection 80(1). Because of its importance to this decision, it is repeated:
+
+"commercial debt obligation" issued by a debtor means a debt obligation issued by the debtor
+
+a) where interest was paid or payable by the debtor in respect of it pursuant to a legal obligation, or
+
+b) if interest had been paid or payable by the debtor in respect of it pursuant to a legal obligation,
+
+an amount in respect of the interest was or would have been deductible in computing the debtor's income, taxable income or taxable income earned in Canada, as the case may be ...
+
+The $9 Million Debt
+
+[23] The $16 million is made up of several components. The $9 million is a portion, assumed by Provincial, of the original $36 million which the Shoctor Group owed to Cal-Con. As described previously, this $36 million is related to the original $18 million borrowed by the Shoctor Group to purchase the Inn.
+
+(a) Retrospective Application
+
+[24] I agree with the Appellant that interest "was not or would not have been deductible" after February 1994. The question is whether the legislation is retrospective. Does the phrase "was or would have been deductible" apply to the years prior to February 1994 or does the presumption against retrospective statutes operate to prevent this interpretation? The Appellant referred to the following excerpt from Benner v. Canada[15] at paragraph 39, where Lamar C.J. quotes from an article of Elmer Driedger as follows:
+
+A retroactive statute is one that operates as of a time prior to its enactment. A retrospective statute is one that operates for the future only. It is prospective, but it imposes new results in respect of a past event. A retroactive statute operates backwards. A retrospective statute operates forwards, but it looks backwards in that it attaches new consequences for the future to an event that took place before the statute was enacted. A retroactive statute changes the law from what it was; a retrospective statute changes the law from what it otherwise would be with respect to a prior event.
+
+[25] I do not believe the amendments to subsection 80(1) impose retrospective considerations when applied to the circumstances of this case. The relevant provisions of the previous section 80 were virtually identical in operation to the provisions now under analysis. The outcome of the application of the old section 80 to the Appellant's situation would be the same as under the new section 80. The amendments to the relevant portions of section 80, therefore, do not attach any new results in respect of a past event and do not attach any new consequences for the future when applied to the Appellant's situation are the same under both the old and amended section 80; the Appellant was not exposed to a new penalty, disability or duty attaching to past events due to the amendments. The amendments to subsection 80(1), therefore, do not restrict me from looking at the character of the loan in years prior to February 1994. The $9 million is part of the 1981 debt. Interest on this debt clearly "would have been deductible".
+
+[26] The Supreme Court of Canada in Gustavson Drilling (1964) Ltd. v. M.N.R.,[16] discussed the retrospective operation of legislation. The issue was whether an amendment to subsection 83A of the Act precluded the Appellant from deducting certain expenses. But for the amendments, the expenses would have been deductible. Dickson J. (as he then was) writing for the majority discussed the question of retrospective operation of statutes at pages 5454-5456 as follows:
+
+... It is argued that there is no need to have recourse to presumptions of legislative intent, for such rules of construction are only useful in ascertaining the true meaning where the language of the statute is not clear and plain: per Lamont J. in Acme Village School District v. Steel-Smith, (1993) S.C.R. 47, 51. There is much to this submission. ...
+
+He then discussed retrospection:
+
+... The general rule is that statutes are not to be construed as having retrospective operation unless such a construction is expressly or by necessary implication required by the language of the Act. I think the true view to be that the repealing enactment in the present case, although undoubtedly affecting past transactions, does not operate retrospectively in the sense that it alters rights as of a past time. The section as amended by the repeal does not purport to deal with taxation years prior to the date of the amendment; it does not reach into the past and declare that the law or the rights of parties as of an earlier date shall be taken to be something other than they were as of that earlier date. The effect, so far as appellant is concerned, is to deny for the future a right to deduct enjoyed in the past but the right is not affected as of a time prior to enactment of the amending statute.
+
+... The rule is that a statute should not be given a construction that would impair existing rights as regards person or property unless the language in which it is couched requires such a construction ...
+
+The amended subsection 80(1) did not take away any vested or existing right of the Appellant.
+
+[27] Even if the effect of the amendments to section 80 is to impose retrospective considerations, I find that a retrospective operation is necessarily implied by the Act. The presumption against retrospective statutes would not apply as the language of the statute is clear and plain. I agree with the Respondent's submission that to hold otherwise would frustrate the obvious intention of the legislation.
+
+[28] The Appellant's able argument does not withstand close scrutiny.
+
+(b) Release of Debtor
+
+[29] Counsel for the Appellant accurately submitted that, subject to certain exceptions, the release of one "joint and several debtor" releases all debtors. This rule has no application in the present circumstances. The Appellant argues that the MSA first released Harvey effectively releasing Provincial's liability from the debt by operation of law. The Appellant added that under the MSA, Provincial was allocated and assumed a new debt of $9 million to Can-Con.[17] How can this be possible if Provincial was released from liability for the $36 million? The subsequent severance and allocation of the released debt would have no effect. Cal-Con could not allocate a non-existent debt.
+
+[30] I find that the severance and allocation of the $36 million preceded the releases. Under section 3.4.4 of the MSA, Cal-Con released Harvey, but only subject to the completion of the transactions referred to in the MSA. The severance and allocation, therefore, had to be completed prior to the release. As the severance occurred first, the subsequent release of some of the parties would have no effect on the $9 million debt as this was no longer a joint and several debt. The rule that the release of one joint and several debtor releases all joint and several debtors would simply not operate.
+
+(c) Novation
+
+[31] Whether there is a novation is a question of mixed fact and law. Black's Law Dictionary, 7th edition, defines novation as follows:
+
+novation, n. The act of substituting for an old obligation a new one that either replaces an existing obligation with a new obligation or replaces an original party with a new party. A novation may substitute (1) a new obligation between the same parties, (2) a new debtor, or (3) a new creditor.
+
+[32] In National Trust Co. v. Mead et al,[18] the Supreme Court of Canada defined novation as follows:
+
+A novation is a trilateral agreement by which an existing contract is extinguished and a new contract brought into being in its place. Indeed, for an agreement to effect a valid novation the appropriate consideration is the discharge of the original debt in return for a promise to perform some obligation. ... [T]he creditor may no longer look to the original party if the obligations under the substituted contract are not subsequently met as promised.
+
+... assent is the crux of novation ...
+
+(Emphasis added)
+
+[33] I do not believe it is reasonable to conclude that the creditor Harvey intended the original debt to be discharged and a new debt substituted for it. The original debt was not discharged and substituted with a new debt. Before the severance and allocation of the $36 million debt, Provincial was liable for at least $9 million of it. The same debt was reduced, not eliminated. After the MSA, Provincial remained liable to Belzberg for the same debt. There is absolutely no evidence by the parties to conclude that they "assented" to a novation through the severance of the debt.
+
+[34] In National Trust, supra, the Supreme Court added that "The essence of novation is the substitution of debtors". The Appellant argues that with regard to the $9 million, Provincial was substituted for the other joint and several creditors and that a new obligation arose between Provincial and the Appellant. I find that substitution of debtors contemplates a complete substitution. Presently, we have the individual assumption of a joint and several debt by each of the original joint and several debtors and not the "substitution of debtors" as contemplated by novation. As explained recently by Bowman A.C.J.[19]: "A novation involves the creation of a new contractual relationship, generally where a debtor is released from its obligation to an obligee with the consent of the obligee and the assumption of the obligation by a third party so that a new obligation arises between the obligee and the third party. ..." On the present facts, I do not believe that the assumption by each of the original joint and several debtors of their portion of the debt resulted in the creation of a new and distinct obligation between the Appellant and Provincial. Here we have an allocation of debt not a novation. Further, the allocation of a portion of the debt to Provincial cannot be considered a complete substitution of Provincial for the original debtors as Shoctor was not fully released from his debt obligation.
+
+Position of the Appellant - The $4 Million Debt
+
+[35] Appellant's counsel submits that it has been agreed that $2.2 million of the $4 million was paid by Harvey to Provincial's creditors. He admits that the origin of the $1.8 million debt from Provincial to Harvey is unknown and asks the Court to draw an inference that the $1.8 million debt has the same character as the $2.2 million.
+
+[36] He advances that an inter-company advance arising from the payment of creditors by one company on behalf of the other would not result in a lender-borrower relationship and, therefore, interest was not and could not have been deductible pursuant to paragraph 20(1)(c).
+
+[37] He discusses two cases in support of his argument: Aylward Estate v. The Queen[20] and A.C. Simmonds & Sons Limited v M.N.R[21] stating that Aylward stands for the principle that if one person has requested another to do an act which will cost him money, that is, which will expose him to a legal liability to pay money, the law will imply a promise on the part of the person making the request to indemnify the other for the expenditure. He submits, therefore, "the reason that there is an inter-company advance set up on the books[22] is because the law implies an indemnity between ... Provincial and Harvey to repay or to pay Harvey to indemnify Harvey for the amounts paid to the creditors".
+
+[38] He submits that the late Judge Christie in Simmonds, supra, concluded that a person may be financially indebted to another without the relationship of lender-borrower existing. He adds that, pursuant to the analysis in Simmonds, an inter-company advance arising from the payment to creditors by one company on behalf of another company results in a mere debtor-creditor relationship and not a lender-borrower relationship. The Appellant states, therefore, that the amounts paid to Provincial's creditors is not a loan. It is an inter-company debt but it is not a loan. And if it is not a loan it is not interest deductible and therefore, section 80 does not apply to it.
+
+Position of the Respondent - The $4 Million Debt
+
+[39] The Respondent's oral argument focussed mainly on the fact that the definition of "commercial debt obligation" uses the word "debt" and not "loan". The Respondent's counsel stated that none of the Appellant's case law on the issue of loans is relevant to the determination of whether or not the $4 million is a commercial debt obligation. It just suffices that you find that it was a debt in the broad sense.
+
+Analysis
+
+[40] Paragraphs 50 and 51 of the Agreed Statement of Facts explain that $2.2 million was paid by Harvey to creditors on behalf of Provincial. It is not known how the $1.8 million arose. I draw an inference that it is the same nature as the $2.2 million.
+
+[41] What is the characterization of this $4 million? Is it a loan for business purposes or is it simply an inter-company debt that is not a loan in law? In the case of National Revenue v. T.E. McCool Ltd.,[23]Estey J. stated:
+
+Terms such as "borrowed capital," "borrowed money" in tax legislation have been interpreted to mean capital or money borrowed with a relationship of lender and borrower between the parties.
+
+The financial statements of Provincial with respect to the $4 million states "advances from affiliated companies or unsecured, non-interest bearing with no specified terms of repayment". The Appellant relied on the reasoning of Mogan J. in Aylward, supra. In a situation similar to ours, Mogan J. found that the law implies a promise on the part of the person making the request to indemnify the other for the expenditure. The Appellant concludes that when Harvey paid amounts on behalf of Provincial, the transaction was not a loan to Provincial. The law implies a requirement on Provincial to repay Harvey but that is not a loan, it is an implied indemnity. Although "borrowed money" referred to in subparagraph 20(1)(c)(i) refers to a debt that is a loan under a lender-borrower relationship rather than a debtor-creditor relationship, I accept the conclusion of Christie J. in Simmonds that a debt may exist without a relationship of lender-borrower.
+
+[42] The cases of Aylward and Simmonds are distinguishable from the present one on their facts. Mr. Aylward had an obligation to indemnify Aylward Limited from claims by its creditors. He assumed the liabilities of Aylward Limited as his own. Mr. Aylward caused Aylward Limited to deliver guarantees to its creditors. Mogan J. stated that under common law there was an implied contract requiring Mr. Aylward to indemnify Aylward Limited with respect to those guarantees. There is no evidence that Harvey exposed itself to any legal liability to pay Provincial's creditors. I conclude that there was an agreement between Harvey and Provincial for Harvey to advance money on Provincial's behalf. There was no guarantee granted by Harvey or by Provincial upon the direction of Harvey. There is no evidence that Harvey entered into any agreements with the creditors of Provincial such that Harvey would be liable for the debts. It was equivalent to a single transaction. The fact that Harvey paid Provincial's creditors directly does not change the nature of the transaction. This was procedural only.
+
+[43] There was no evidence that Harvey had a contractual relationship with Provincial's creditors nor did Harvey guarantee payment to Provincial creditors. From the evidence, I find as a fact that Harvey had a lender-borrower contract with Provincial, but not with Provincial's creditors. Without such a loan agreement, Harvey would have no other reason or obligation to advance the funds. There was no evidence of privity of contract between Harvey and Provincial's creditors. There was an implied privity of contract between Harvey and Provincial.
+
+[44] In Simmonds, Christie J. stated at page 709:
+
+... the appellant [arranged] with the issuer of the letters of credit to make the issuer's credit available to the Japanese suppliers ... and ... there was a contractual undertaking by the appellant to the issuer of the letters to pay for the amounts expended by it, plus interest and commissions. Finally there was a contractual liability on Dynacharge U.S. to reimburse the appellant for the expenses it incurred in arranging for the credits in favour of the suppliers that made it possible for Dynacharge U.S. to carry on business. ...
+
+[45] In Simmonds, as in Aylward, the Appellant was legally liable to the third party creditors. In both cases, the money was advanced to third party creditors through a contractual obligation. In Simmonds at page 709, Christie J. referred to the Black's Law Dictionary, 5th (1979) definition of a loan of money as:
+
+Delivery by one party to and receipt by another party of a sum of money upon agreement, express or implied, to repay it with or without interest.
+
+He continued:
+
+... This is not, in my opinion, descriptive of the transactions involving letters of credit that are under consideration in this appeal. ...
+
+I find that the Black's definition is descriptive of what transpired between Harvey and Provincial. The substance of what we have in effect is an advance of $4 million from Harvey to Provincial. In Simmonds, Christie J. cited from McCool, supra, wherein Estey J. said: " ... with reference to the relationship of lender and borrower that it is necessary in determining whether that relationship exists to ascertain the true nature and character of the transaction".
+
+[46] Christie J. concluded as follows:
+
+The real substance of what the appellant did was to arrange with the issuer of the letters of credit to make the issuer's credit available to the Japanese suppliers under prescribed conditions and for specified amounts thereby vesting in the suppliers the contractual commitment of the issuer to pay for the goods sold to Dynacharge U.S. upon those conditions being met. There was also a contractual undertaking by the appellant to the issuer of the letters to pay for the amounts expended by it, plus interest and commissions. Finally there was a contractual liability on Dynacharge U.S. to reimburse the appellant for the expenses it incurred in arranging for the credits in favour of the suppliers that made it possible for Dynacharge U.S. to carry on business. I do not regard what was done by the appellant in establishing those credits and the benefit flowing from them to Dynacharge U.S. as constituting the creation of contracts between them whereby the appellant delivered sums of money to Dynacharge U.S. upon agreement by the latter to repay them without interest.
+
+As set out earlier, that is not what transpired between Harvey and Provincial.
+
+[47] Lastly, the Appellant argues that to have a loan, there has to be a promise to repay the amount. I accept this submission. I do not, however, accept the submission that the description "no specified terms of repayment" on the financial statements of Provincial indicates that there was no promise to repay. I believe this description indicates, that by referring to the repayment, there was a promise to repay, however the terms of repayment had not been specified. There would be no need to indicate that the terms of repayment had not been specified if there was no promise to repay.
+
+$2.2 Million Debt
+
+[48] The Appellant reverses rolls with the Minister of National Revenue in arguing that when Provincial purchased the Inn for $4 million in 1993, it had no reasonable expectation of profit (REOP) and interest on the $2.2 million was not deductible because there was no source of income as required in subsection 20(1). Although we await guidance with respect to REOP from the Supreme Court of Canada judgments in Stewart andWalls,[24] applying the present law I have no difficulty in concluding that Provincial had a REOP. I accept that the fair market value of the Inn was $18 million in 1981, $7 million in 1987 and $4 million in 1993. In 1993, it may not have had a REOP at $18 million or $7 million but there is no evidence that it did not have a REOP at $4 million. In fact I believe the evidence of Belzberg was that in recent years it has shown a profit.
+
+[49] I will not dwell at length on this issue. I accept the Respondent's argument in this regard, particularly at pages 103, 104 and 105 of the transcript of the closing submissions.
+
+[50] The Respondent referred to the decision in Pelechaty v. The Queen,[25] wherein Hershfield J. concluded that the source-of-income test[26] comes down to determining whether there was a genuine commercial enterprise. I have no doubt that the Inn business was carried on in a businesslike manner with a genuine profit-making motive. Shoctor and Belzberg were very highly qualified businessmen who were determined to operate the Inn successfully.
+
+[51] There was no personal element in respect of the conduct of the Inn's business. Belzberg took over the Inn reluctantly, but having done so, he directed his finances and extraordinary business talent into turning the operation around. He appointed a new manager, made renovations and entered a franchise agreement with Holiday Inn. The Inn is now profitable.
+
+[52] I am informed that an application by the Appellant for an Order to have the Respondent admit certain documents was denied by my colleague, Mogan J. prior to this hearing. Judge Mogan's Order was appealed by the Appellant and is scheduled to be heard by the Federal Court of Appeal on April 24, 2002. While I accept that the Westward Inn did not earn a net profit between 1981 and 1993, as stated, I find the Inn's business did have a reasonable expectation of profit during those years.
+
+[53] The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 17th day of April, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+Schedule "A"
+
+AGREED STATEMENT OF FACTS
+
+The parties herby agree that for purposes only of this appeal and any appeal therefrom or any other proceeding taken in this matter, the facts set out herein are true. Either party may adduce other evidence not inconsistent with these facts. The parties also agree that the documents attached hereto in the Tabs referred to below are true copies of the documents they represent, were signed by the persons who purported to have signed them, and were signed on the dates they were purportedly signed. Either party may adduce other documents not inconsistent with these documents.
+
+1. The Appellant was created effective January 31, 1995, by the amalgamation of Provincial Credit Corp. Ltd. ("Provincial"), Citadel Mortgage Corporation Ltd. ("Citadel"), 1751 Holdings Ltd. ("1751") and Cal-Con Financial Ltd. ("Cal-Con") (the "Amalgamation").
+
+The Parties (as they were at all material times prior to August 1, 1993)
+
+2. Provincial:
+
+a) was incorporated in Alberta on January 22, 1959;
+
+b) had issued shares all of which were owned or controlled by Joseph Shoctor, an Edmonton businessman ("Shoctor") or members of his family; and
+
+c) acted at arm's length with Samuel Belzberg, a Vancouver businessman ("Belzberg") and David Kline ("Kline"), also a Vancouver businessman.
+
+3. Citadel:
+
+a) was incorporated as Genevieve Mortgage Corporation (Alberta) on June 30, 1977, and changed its name to Citadel on October 14, 1977;
+
+b) had issued shares all of which were owned or controlled by Shoctor or members of his family; and
+
+c) acted at arm's length with Belzberg and Kline.
+
+4. Harvey Holdings Ltd. ("Harvey"):
+
+a) was incorporated in Alberta in 1959;
+
+b) had issued shares all of which were owned or controlled by Shoctor or members of his family; and
+
+c) acted at arm's length with Belzber and Kline.
+
+5. For purposes of this Statement of Agreed Facts, Provincial, Citadel and Harvey are referred to as the "Three Companies" and together with Shoctor, are collectively the "Shoctor Group".
+
+6. 1751:
+
+a) was incorporated on or about July 27, 1988 in British Columbia and continued into Alberta as an Alberta corporation on January 17, 1995;
+
+b) owned all the shares of Cal-Con; and
+
+c) had issued shares all of which were owned by Kline, who was acting at arm's length with Belzberg.
+
+7. Cal-Con:
+
+a) was incorporated on or about July 27, 1988 in British Columbia as 1749 B.C. Ltd., and continued in Alberta on January 17, 1995; and
+
+b) acted at arm's length with Belzberg.
+
+8. Saxony Motor Hotel Ltd. ("Saxony Ltd.") and Desa Stores Ltd. ("Desa Ltd.") were incorporated in Alberta.
+
+The Properties
+
+9. At all material times, the Westward Inn was a hotel and property in Calgary, Alberta.
+
+10. Immediately before July 31, 1993,
+
+a) Saxony Ltd. held title to the Saxony Motor Hotel Joint Venture as bare trustee for the joint venturers, namely Harvey (45%), Provincial (33 1/3% and Citadel (21 2/3%); and
+
+b) the Saxony Motor Hotel Joint Venture was a motor inn and related properties in Edmonton, Alberta.
+
+11. Immediately before July 31, 1993,
+
+a) Desa Ltd. held title to the Desa Joint Venture as bare trustee for the joint venturers, namely, Harvey (35.3%) and two other corporations; and
+
+b) the Desa Joint Venture was a residential development in Edmonton, Alberta.
+
+The Master Settlement Agreement and Debt Forgiveness
+
+12. On or about December 9, 1993, the Shoctor Group, Belzberg, 1751, Cal-Con and other persons related to Shoctor executed a series of agreements and related documents effective July 31 and August 1, 1993 (collectively, the "Master Settlement Agreement"). Attached as Tab 1 is the Master Settlement Agreement including Schedules. Cal-Con and 1751 were part of the Belzberg Group for purposes of the Master Settlement Agreement.
+
+13. By the Master Settlement Agreement, the following occurred effective July 31, 1993:
+
+a) Provincial acquired a 45% interest in the Saxony Motor Hotel Joint Venture from Harvey;
+
+b) Provincial acquired a 35.3% interest in the Desa Joint Venture from Harvey; and
+
+c) Provincial acquired the Westward Inn from Shoctor for a total purchase price of $3,918,000, being the fair market value of the Westward Inn as of that date.
+
+14. By the Master Settlement Agreement, the following occurred effective August 1, 1993;
+
+a) Belzberg acquired from Shoctor all the shares of Provincial and Citadel;
+
+b) Provincial assumed a portion of the debt owed by the Shoctor Group to Cal-Con;
+
+c) Harvey assigned to Cal-Con certain debt owed by Provincial to Harvey; and
+
+d) Shoctor assigned to Cal-Con certain debt owed by Provincial and Shoctor.
+
+15. On November 19, 1993, Belzberg acquired all the shares of 1751 from Kline.
+
+16. Effective December 9, 1993, and September 2, 1994 the Shoctor Group and the Belzberg Group (as defined in the Master Settlement Agreement) entered into Releases releasing each other from all claims that may have existed prior to the Master Settlement Agreement, except those specifically set out in the Releases. Attached as Tabs 2 and 3 are the Releases. As a result of the Master Settlement Agreement and the Releases, Belzberg forgave several million dollars owing to him by Shoctor.
+
+17. As a result of the Master Settlement Agreement, immediately after August 1, 1993 Provincial owed Cal-Con $16,179,606 (the "Total Debt") as follows:
+
+Origin
+
+Quantum
+
+Assumption by Provincial of a portion of debt owed by Shoctor Group to Cal-Con
+
+$9,064,900
+
+Amounts owed by Provincial to Harvey and assigned by Harvey to Cal-Con
+
+$4,053,372
+
+Debt owed by Provincial to Harvey on purchase of the 35.3% interest in the Desa Joint Venture and assigned by Harvey to Cal-Con
+
+$458,000
+
+Debt owed by Provincial to Harvey on purchase of the 45% interest in the Saxony Inn and assigned by Harvey to Cal-Con
+
+$231,847
+
+Deficiency balance owed by Provincial to Harvey in respect to the Saxony Motor Hotel and assigned by Harvey to Cal-Con
+
+$139,819
+
+Debt owed by Provincial to Shoctor on purchase of Westward Inn and assigned by Shoctor to Cal-Con
+
+$2,231,668
+
+Total Debt
+
+$16,179,606
+
+18. In its fiscal periods ending January 31, 1994 and 1995, Cal-Con did not report that Provincial paid any interest on any of the Total Debt after August 1, 1993.
+
+19. Immediately prior to January 18, 1995, Provincial was indebted to Cal-Con for at least $16,000,000 (the "Debt") of the Total Debt.
+
+20. Cal-Con released Provincial from the Debt (the "Debt Forgiveness") pursuant to a Debt Forgiveness Agreement dated and effective January 18, 1995. Attached as Tab 4 is the Debt Forgiveness Agreement.
+
+21. Under Alberta law a corporation may not amalgamate if it is insolvent. Provincial would have been insolvent due to the Total Debt and thus would have been prevented from entering into the Amalgamation if the Debt Forgiveness had not occurred.
+
+The Reassessments
+
+22. Based on reassessments and a Notice of Determination of Loss issued to Provincial for its 1993 taxation year, which reassessments and Notice were not objected to or appealed from. Provincial's total non-capital loss carry-forward at the beginning of its 1995 taxation year was $12,486,621 (prior to the Debt Forgiveness).
+
+23. Under section 80 of the Income Tax Act (Canada) where a "commercial obligation" of a "debtor" is settled, an amount equal to the "forgiven amount" reduces, firstly, the taxpayer's non-capital losses.
+
+24. In filing its income tax return for its taxation year ending January 31, 1995 Gibralt, as the successor to Provincial by the Amalgamation, reported a reduction in Provincial's non-capital loss carry forward of $16,000,000, based on the Debt Forgiveness, and carried forward from Provincial's 1993 taxation year non-capital losses of $428,890 to reduce its 1995 income to nil.
+
+25. By Notice dated November 20, 1995 the Minister of National Revenue ("the Minister") assessed Gibralt's 1995 taxation year as filed.
+
+26. The Minister reassessed Gibralt for its taxation year ending January 31, 1995 by Notice dated November 19, 1998 (the "First Reassessment") on the basis that its taxable income was $428,890 because it had no available non-capital losses to carry forward from Provincial's 1993 taxation year. In issuing the First Reassessment the Minister assumed section 80 of the Act applied to the Debt Forgiveness and hence reduced Provincial's 1993 loss carry forwards from $12,486,621 to nil.
+
+27. Gibralt duly objected to the First Reassessment and duly filed a Notice of Appeal in the Tax Court after more than 90 days had lapsed since the filing of the Objection.
+
+28. In response to a request by Gibralt, the Minister reassessed Gibralt's 1995 taxation year by Notice dated June 1, 2000 (the "Second Reassessment") thereby reducing its 1995 income from $428,890 to $233,413 by allowing additional capital cost allowance deductions but the Second Reassessment did not otherwise affect the Debt Forgiveness issue.
+
+29. The Notice of Appeal was duly amended to refer to the Second Reassessment but was otherwise unchanged.
+
+The $9,064,900 Assumption
+
+30. The amount of $9,064,900 of the Total Debt above arose as follows:
+
+31. On June 26, 1980:
+
+a) the Westward Inn was owned by the Westward Inn Inc., a company at arm's length with Shoctor; and
+
+b) Shoctor acquired an option (the "Option") to purchase the Westward Inn for a total purchase price of $18,000,000. The Option had to be exercised by June 30, 1981, with the closing being August 1, 1981.
+
+32. Shoctor acquired the Option as bare trustee for the Three Companies with each Company holding an undivided 1/3 beneficial interest.
+
+33. To finance the purchase of the Westward Inn as described in the next paragraph, on July 24, 1981 the Three Companies jointly and severally borrowed $18,255,000 (the "1981 Debt") from the Toronto Dominion Bank (the "TD Bank"). Attached as Tab 5 is a copy of the promissory note issued by the Three Companies to the TD Bank and the Mortgage Deed granted by them to the TD Bank.
+
+34. The Option was exercised and the Three Companies each acquired a 1/3 beneficial interest in the Westward Inn on or around July 31, 1981 for a total purchase price of $18,000,000 being the fair market value of the Westward Inn as of that date.
+
+35. As between the Three Companies, it was agreed that, as of August 5, 1981, Provincial's share of the 1981 Debt was $6,085,000.
+
+36. By July 1986, the Three Companies had fallen into significant arrears with respect to the 1981 Debt. On July 1, 1986, the TD Bank and the Schoctor Group agreed to restructure the 1981 Debt. Attached as Tab 6 is a copy of the July 1, 1986 Agreement.
+
+37. By an agreement dated July 2, 1986 (which was amended on April 28, 1987 with effect as of July 2, 1986), Shoctor agreed to purchase from each of the Three Companies its 1/3 interest in the Westward Inn for a total purchase price of $7,376,832 ($2,458,944 per interest), which was the fair market value of the Westward Inn as of that date. The purchase price was payable:
+
+a) $350,000 on execution of the agreement;
+
+b) $719,701 by assumption of the Westward Inn's liabilities; and
+
+c) the balance of $6,307,131 on or before November 30, 1987, at 9% interest.
+
+38. Provincial's loss on the sale of its interest in the Westward Inn was $3,015,174.
+
+39. On November 27, 1987 Shoctor borrowed $7,104,939.85 from the TD Bank (the "1987 Amount") to pay the balance of the purchase price owing under paragraph 37(c) plus accrued interest.
+
+40. On November 27, 1987, Shoctor paid the 1987 Amount to the Three Companies. Pursuant to an agreement between the Shoctor Group and the TD Bank dated November 27, 1987 (copy attached as Tab 7), each of the Three Companies jointly and severally guaranteed the repayment to the TD Bank of the 1987 Amount and each used one-third of the 1987 Amount ($2,368,313) to repay the TD Bank that amount of the 1981 Debt.
+
+41. As of May 11, 1988, the Three Companies were jointly and severally indebted to the TD Bank in respect of the 1981 Debt as follows:
+
+a) principal of $8,468,866.10; and
+
+b) interest of $12,525,914.48 on the principal.
+
+42. As of May 11, 1988 the Three Companies were jointly and severally indebted to the TD Bank in respect of the Westward Inn for:
+
+a) a tax payment made by the Bank in 1985 of $732,150.45; and
+
+b) interest on the tax payment made by the Bank in 1985 of $201,334.76.
+
+43. Between 1988 and 1993 Shoctor attempted to sell the Westward Inn to satisfy the $10,165,033 borrowed from Belzberg, but without success. Attached as Tab 8 are letters dated March 15, August 9 and November 28, 1990 from Shoctor to Belzberg discussing sales of the Westward Inn that did not materialize.
+
+44. By early 1988 the Shoctor Group was in severe financial difficulties with the TD Bank. By letter dated May 20, 1988 (copy attached as Tab 9). Shoctor asked Belzberg to write a letter to Shoctor, which Shoctor could use in negotiations with the TD Bank. Belzberg wrote the letter on May 27, 1988 (copy attached as Tab 10). Shoctor used that letter to negotiate a settlement with the TD Bank. The settlement culminated in the TD Bank's offer dated June 30, 1988 (copy attached as Tab 11) to settle all Westward Inn debts for $10 million.
+
+45. On or about October 11-17, 1988 the TD Bank, Belzberg, 1751, Cal-Con and the Shoctor Group entered into the following arrangements:
+
+a) the TD Bank lent Belzberg $10,165,033.53;
+
+b) Belzberg lent $10,165,033.53 to the Shoctor Group under a Loan Agreement;
+
+c) The Shoctor Group lent $10,148,033 to 1751, which in turn lent it to Cal-Con; and
+
+d) Cal-Con used the $10,148,033 to purchase $32,611,334.17 of debt owing by the Shoctor Group to the TD Bank. The $32,611,334.17 of debt purchased by Cal-Con was composed of the amounts shown in the Debt Purchase Agreement.
+
+Attached as Tabs 12 and 13 are the Loan Agreement dated October 11, 1988 without schedules and the Debt Purchase Agreement dated October 17, 1988 between the TD Bank and Cal-Con.
+
+46. By July 31, 1993 the debt owing by the Shoctor Group to Cal-Con was $36,791,358 as shown in Schedule F to the Master Settlement Agreement (the discrepancy between the principal amounts of $32,611,334.17 purchased under the Debt Purchase Agreement and the principal amounts of $32,896,856 shown in Schedule F is irrelevant).
+
+47. By Schedule F the Shoctor Group's total debt to Cal-Con of $36,791,358 was severed and allocated to and assumed by each member of the Shoctor Group as being owing to Cal-Con with Provincial's share being $9,064,000.
+
+The $4,053,372 Advance
+
+48. The amounts paid by Harvey to or on behalf of Provincial and assigned by Harvey to Cal-Con in the amount of $4,053,372 of the Total Debt, characterized on Provincial's Financial Statements as advances, arose as follows (the Respondent is not conceding that those amounts were, in law or fact, advances).
+
+49. As of December 31, 1990, Harvey had paid $1,843,787 to or on behalf of Provincial as an unsecured, non-interest bearing amount with no specific terms of repayment. Attached as Tab 14 are Provincial's 1986-1995 Financial Statements.
+
+50. In 1991 Harvey paid the following amounts on behalf of Provincial:
+
+Paid To
+
+Amount
+
+Deloitte & Touche
+
+$2,943.57
+
+Edmonton Motors
+
+882.38
+
+Belzberg as partial repayment of October 11, 1988 loan to Shoctor Group
+
+1,019,757.10
+
+Total
+
+$1,023,582.90
+
+51. In 1992 Harvey paid (was credited) with the following amounts on behalf of Provincial:
+
+Paid To
+
+Amount
+
+Belzberg as partial repayment of October 11, 1988 loan to Shoctor Group
+
+$1,138,852.05
+
+Deloite & Touche
+
+3,048.43
+
+Citadel
+
+44,433.34
+
+Provincial
+
+(3,500.00)
+
+Total
+
+$1,182,833.70
+
+52. To July 31, 1993 Harvey paid an additional $3,169.30 to or on behalf of Provincial.
+
+53. The total amount paid by Harvey to or on behalf of Provincial by July 31, 1993 was $4,053,372.
+
+The Westward Inn Debt of $2,231,668
+
+54. Under the Master Settlement Agreement, Provincial acquired the Westward Inn from Shoctor for a purchase price of $3,918,000 payable as to:
+
+a) $1,686,332 by Provincial assuming liabilities of Shoctor for that amount; and
+
+b) the balance of $2,231,688 by a demand, non-interest bearing debt owing from Provincial to Shoctor;
+
+The Tax Lien
+
+55. As of September 13, 1993, the City of Calgary had placed a lien against the Westward Inn for arrears of property taxes in the amount of $1,157,877.91 as shown in Tab 15.
+
+56. There were further discussions between representatives of Provincial and the City from September 24-27, 1993, shown in Tabs 16 and 17.
+
+57. Provincial paid the tax owing to the City and refinanced the payment by a loan from the Alberta Treasury Branches in September 1994.
+
+The Financial Performance of the Westward Inn
+
+58. As shown on the Financial Statements for the Westward Inn (Joseph H. Shoctor, Proprietor) (Tab 18) for the 1991 and 1992 fiscal periods, the Net Loss incurred by Shoctor in respect of the Westward Inn for the 12 month period ending December 31, 1990 was ($407,394), for the period ending December 31, 1991 was ($1,520,778), for the period ending December 31, 1992 was ($851,505) and for the 7 month period ending July 31, 1993 was ($319,399) and the Proprietor's cumulative Deficit in respect of the Westward Inn from July 2, 1986 to July 31, 1993 was ($5,450,726).
+
+59. Provincial's net cash outflow in respect of the Westward Inn from July 31, 1993 to January 31, 2000, after taking into account any net income earned from the Westward Inn, was as shown on the Cash Outlay table, attached as Tab 19.
+
+60. For the 6 month period running from August 1, 1993 ending January 31, 1994, Provincial incurred a loss for income tax purposes of $455,265 in respect of its ownership of the Westward Inn.
+
+61. For its 12 month 1995 fiscal period ending January 31, 1995, Provincial incurred a loss for income tax purposes of $751,036 in respect of the ownership of the Westward Inn.
+
+62. Cal-Con included the following amounts of interest income on its Financial Statements for the 1989-1993 years respectively: $780,486; $780,000; $785,000; $786,400; $762,699.
+
+63. Pursuant to a Waiver of Interest dated January 31, 1994 for the period February 1, 1994 to January 31, 1995 (Tab 20), Cal-Con waived the interest owing by Provincial on the debt of $16,179,606 owing to Cal-Con.
+
+64. In its 1996 fiscal period, Gibralt became a franchisee of the Quality Inn and changed the name of the Westward Inn to the Quality Inn.
+
+65. In its 1998 fiscal period, Gibralt became a franchisee of the Holiday Inn and changed the name of the Quality Inn to the Holiday Inn.
+
+Belzberg's attempts to sell the Westward Inn
+
+66. On or about January 25, 1993 Belzberg entered into discussions with Coopers & Lybrand for the sale of the Westward Inn. Attached as Tab 21 is a copy of a letter from Coopers to Bel-Fran Investments Ltd. (one of Belzberg's companies).
+
+67. In or about September 1993 Belzberg entered into discussions with Midland Walwyn concerning a sale of the Westward Inn. Attached as Tab 22 is a letter dated September 24, 1993 from Bel-Fran Investments Ltd. to Midland.
+
+68. In 1993 Provincial (through Belzberg or one of his companies) received two offers to purchase the Westward Inn, neither of which was accepted. Attached as Tab 23 are copies of the offers.
+
+69. On or abut December 16, 1994 Belzberg had discussions with Colliers International concerning a sale of the Westward Inn. Attached as Tab 24 is a letter from Bel-Fran to Colliers discussing the sale.
+
+70. Attached as Tab 25 are six diagrams (with approximate numbers) showing the transactions referred to above up to but not including the implementation of the Master Settlement Agreement.
+
+Dated this 7th day of September, 2001.
+
+Gibralt Capital Corporation
+
+Per: _"Signed"__________
+
+Counsel for the Appellant
+
+Her Majesty the Queen
+
+Per: __"Signed_______________
+
+Counsel for the Respondent
+
+COURT FILE NO.: 2000-717(IT)G
+
+STYLE OF CAUSE: Gibralt Capital Corporation and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: September 10, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.H. McArthur
+
+DATE OF JUDGMENT: April 17, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Joel A. Nitikman
+
+Counsel for the Respondent: Lynn M. Burch
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Joel A. Nitikman
+
+Firm: Fraser Milner Casgrain
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-717(IT)G
+
+BETWEEN:
+
+GIBRALT CAPITAL CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on September 10, 2001, at Vancouver, British Columbia, by
+
+the Honourable Judge C.H. McArthur
+
+Appearances
+
+Counsel for the Appellant: Joel A. Nitikman
+
+Counsel for the Respondent: Lynn M. Burch
+
+JUDGMENT
+
+The appeal from assessment of tax made under the Income Tax Act for the 1995 taxation year is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 17th day of April, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Amounts have been rounded for convenience.
+
+[2] The Appellant was created effective January 31, 1995, by the amalgamation of Provincial Credit Corp. Ltd. ("Provincial"), Citadel Mortgage Corporation Ltd. ("Citadel"), 1751 Holdings Ltd. ("1751") and Cal-Con Financial Ltd. ("Cal-Con") (the "Amalgamation").
+
+[3] While I have attempted to set out the most pertinent facts, more comprehensive details are contained in the actual Agreed Statement of Facts.
+
+[4] The three corporations are Harvey Holdings Ltd., Provincial Credit Corp. Ltd. and Citadel Mortgage Corporation Ltd.
+
+[5] Reference to Shoctor and Belzberg is an oversimplification and it includes their respective relevant corporations. Reference to Belzberg is synonymous with the Appellant.
+
+[6] The parties have agreed that the additional amounts of $458,000 and $231,847 are not in issue. An amount of $139,819 will follow in this decision.
+
+[7] Please refer to page 2, numbers 6 and 7 of the Agreed Statement of Facts attached as Appendix "A".
+
+[8] One of the three Shoctor corporations that originally purchased the Inn in 1981.
+
+[9] The three original corporations that purchased the Inn in 1981.
+
+[10] The decision in regard to this amount follows the same analysis as that of the $2.2 million debt.
+
+[11] Emerson v. The Queen, 86 DTC 6184.
+
+[12] The effective date of the amendments to section 80.
+
+[13] The presumption against retrospective statutes has been discussed in Metropolitan Toronto and Region Conservation Authority v. Metropolitan Toronto, 47 D.L.R. (3d) 191 (H.C.), Latif v. Canadian Human Rights Commission, 105 D.L.R. (3d) 609 (F.C.A.), Ford v. Quebec (AG), [1988] 2 S.C.R. 712, and Gustavson Drilling Ltd. v. M.N.R., [1977] 1 S.C.R. 271 @ 279, to mean that:
+
+The general rule is that statutes are not to be construed as having retrospective operation unless such a construction is expressly or by necessary implication required by the language of the Act.
+
+[14] The Respondent having been successful for reasons given later herein, there was no need to deal with this submission.
+
+[15] [1997] 1 S.C.R. 358.
+
+[16] 75 DTC 5451.
+
+[17] Appellant's written submissions, paragraph 10.
+
+[18] [1990] 5 W.W.R. 459 at 472 (S.C.C.).
+
+[19] Carma Developers Ltd. v. The Queen, 96 DTC 1798 at 1802.
+
+[20] 2001 DTC 638.
+
+[21] 89 DTC 707.
+
+[22] In the accounting records of the corporate financial statements of Provincial and Harvey.
+
+[23] 49 DTC 700 at 708.
+
+[24] Brian J. Stewart v. The Queen, 2000 DTC 6163 and Jack Walls and Robert Buvyer v. The Queen, 2000 DTC 6025. Appeals in both cases from the decisions of the Federal Court of Appeal were heard by the Supreme Court of Canada in December 2001. To date, the Supreme Court has not rendered judgments.
+
+[25] 2001 DTC 199.
+
+[26] One of the tests referred to in Moldowan v. The Queen, 77 DTC 5213 (S.C.C.).
+

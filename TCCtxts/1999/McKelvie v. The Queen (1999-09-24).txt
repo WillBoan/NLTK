@@ -1,0 +1,152 @@
+Date: 19990924
+
+Docket: 1999-2390-IT-I
+
+BETWEEN:
+
+JOHN MCKELVIE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman J.T.C.C.
+
+[1] These appeals are from assessments for the appellant's 1995, 1996 and 1997 taxation years. The issue is the appropriateness of the Minister of National Revenue's use of the "manufacturer's list price" in the formula contained in paragraph 67.3(d) of the Income Tax Act where the leased automobile is, at the commencement of the lease, a used vehicle.
+
+[2] In the years in question, the appellant carried on business as a financial consultant. For the purposes of his business he leased a 1992 Jaguar XJ6 automobile from Anglo Canadian Motors (1989) Inc. The monthly rental payments were $645.51, which, with GST of $45.19 and PST of $38.73, amounted to $729.43. The lease was for 24 months, but was extended for an additional 12 months to July 25, 1995. On August 14, 1995, the appellant entered into a new lease of the vehicle for an additional 24 months at a monthly payment of $758.52 plus $53.10 PST and $53.10 GST for a total of $864.72.
+
+[3] At the end of the second lease, in 1997 the appellant purchased the vehicle for $17,754.36.
+
+[4] In filing his returns of income for 1995, the appellant deducted as automobile leasing costs $9,719.82, the total payments made in that year under the original lease and the new lease, less, it appears, about 10% for personal use. For 1996, he claimed as an expense for lease payments of $10,376, less 10% for personal use. For 1997, he claimed $6,053.04 as leasing costs for the period up to the date of acquisition, August 14, 1997. He claimed CCA after that date, but that is not in issue.
+
+[5] The essential difference between the appellant and the respondent is that the appellant contends that the use of the manufacturer's list price of $59,900 in the formula is unfair where the leased vehicle is, at the commencement of the lease, a used vehicle.
+
+[6] Section 67.3 places a restriction on the amount of lease payments that may be deducted in computing business income. It appears to have two purposes. The first is to limit the deduction that can be made where the taxpayer chooses to use an expensive luxury car in his or her business. In this respect it fulfils the same function as paragraph 13(7)(g) of the Act where the vehicle is purchased. Second, it seeks to put the lessee in more or less the same position in respect of a leased vehicle as he or she would be in if the vehicle was owned. Where a vehicle is owned, generally speaking, the owner will deduct capital cost allowance and interest payments subject to the limitation imposed by paragraph 13(7)(g).
+
+[7] The limitation imposed by section 67.3 is much more complicated but it is aimed at roughly the same economic result by means of two rather complex formulas. The amount deductible is the lesser of the amount determined by the formula in paragraph 67.3(c):
+
+(A x B)-C-D-E
+
+30
+
+in which the letters are assigned a particular determinable value, and that determined by the formula in paragraph 67.3(d):
+
+(A x B)-D-E
+
+.85C
+
+where the letters are assigned different values. We are not concerned here with the formula in paragraph 67.3(c). In this case it is the higher figure.
+
+[8] In the formula in paragraph 67.3(d):
+
+A is the actual lease charges in the year;
+
+B is $20,000 or an amount prescribed;
+
+C is the greater of $23,529 (or a prescribed amount) and the manufacturer's list price;
+
+D and E take into account interest earned on refundable amounts and reimbursements. These amounts are of no particular interest to us in this case.
+
+[9] The real problem here is in C, and it is illustrated by a comparison of the calculation made by the appellant's accountants and by Ms. Shirley M. Ladret, the Department of National Revenue auditor.
+
+[10] The appellant's accountant's calculation is as follows:
+
+Eligible Leasing Costs Chart for Passenger Vehicles
+
+(For 1996)
+
+Line
+
+Enter the total charges paid for the
+
+vehicle in 1996 $10,376.00 1
+
+Enter the total lease payments deducted for
+
+the vehicle before 1996 $ 3,884.38 2
+
+Total Number of Days vehicle was leased in
+
+1996 and previous years 490 3
+
+Enter the manufacturers list price $28,890.00 4
+
+Greater of $28,235 + GST and PST or 85%
+
+of manufacturers list price $32,187.90 $24,556.50 $32,187.90 5
+
+$650+GST and PST X number of days
+
+leased – total lease payments (line 2) /30 $11,973.52 6
+
+$24000+GST and PST X total lease charged
+
+divided by line 5 $ 8,819.69 7
+
+Eligible leasing cost is the lower of line 6
+
+or line 7 Eligible Leasing Cost $ 8,819.69
+
+[11] Ms. Ladret's calculation is as follows:
+
+Eligible Leasing Costs Chart for Passenger Vehicles
+
+Enter the total lease charges paid for
+
+the vehicle in 1996 $10,376.00 1
+
+Enter the total lease payments deducted
+
+for the vehicle before 1996 $31,191.69 2
+
+Total Number of Days vehicle was leased in
+
+1996 and previous years 1618 3
+
+Enter the manufacturers list price $59,900.00 4
+
+Enter the greater of line 4 or
+
+($28,235 + GST and PST on $28,235)
+
+59,900 x 85% $50,915.00 5
+
+[($650 + GST and PST on $650) x line 3) – line 2] $38,924.91 6
+
+30
+
+[($24,000 + GST and PST on $24,000 x line 1)] $ 5,575.71 7
+
+line 5
+
+Eligible leasing cost is the lower of line 6 or line 7
+
+Line 7, eligible leasing cost, is $5,575.71
+
+[12] Several differences are apparent. Ms. Ladret in line 2 uses all the lease payment deductions in previous years since the beginning of the first lease (paragraph 67.3(c)C) and, in line 3, all of the days the vehicle was leased since the beginning of the first lease to the end of the lease, (paragraph 67.3(c)B). This, I think, is in accordance with section 67.3. Apart from that, she used the manufacturer's list price of $59,900 as the figure in C in the formula in paragraph 67.3(d). The appellant uses the option price (which he contends is the fair market value) at the termination of the preceding lease.
+
+[13] The appellant points out, with some justification, that the manufacturer's list price is not necessarily the price at which the dealer would sell the automobile. I agree.
+
+[14] The anomaly is particularly noticeable from an example that the appellant posited.
+
+[15] Assume the dealer has a new 1999 Honda with a manufacturer's list price of $25,000, and a fair market value of $25,000 and a used 1990 Mercedes with a manufacturer's list price of $75,000, and a fair market value of $25,000. Assume further that the cost of leasing each vehicle is $600 per month. The denominator in the formula in paragraph 67.3(d) for the Honda .85 X $25,000 and for the Mercedes is .85 X $75,000.
+
+[16] The example is a little extreme, and is unlikely to arise with any frequency, but is does illustrate the anomaly. Generally, where an anomaly or absurdity results from a particular interpretation of a statute one applies the principle in Corporation of The City of Victoria v. Bishop of Vancouver Island, [1921] 2 A.C. 384 (P.C.). That case is usually cited for the proposition that when there are two interpretations of a statute possible, one leading to an absurdity and one not, the court should adopt the interpretation that does not. It was also observed by the Privy Council at page 388 that where the words of the statute are clear, even where they lead to an absurdity, effect must be given to them.
+
+[17] Such is the case here. "manufacturer's list price" means the historical list price of a new vehicle, and it is irrelevant that the vehicle is used or that its fair market value may be significantly less than the manufacturer's list price. The words are clear and I must give effect to them.
+
+[18] The appeals are dismissed.
+
+Signed at Ottawa, Canada, this 24th day of September 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

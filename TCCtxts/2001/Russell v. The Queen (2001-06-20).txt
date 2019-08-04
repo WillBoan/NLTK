@@ -1,0 +1,196 @@
+Date: 20010620
+
+Docket: 2001-428-IT-I
+
+BETWEEN:
+
+LINDA RUSSELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments for 1996 and 1997. The Minister of National Revenue assessed the appellant to deny her claim for a Goods and Services Tax Credit under section 122.5 of the Income Tax Act. In those years her income was $24,664 and $23,888 respectively and her husband's income was $34,736 and $11,961 respectively. The total family income was $59,400 and $35,849.
+
+[2] The GST tax credit provided in section 122.5 is intended to alleviate in part the burden of the goods and services tax on low income earners by creating a notional payment on account of tax.
+
+[3] The appellant was married in the years in question and lived with her spouse. She had no "qualified dependants", as defined, living with her.
+
+[4] She challenges the denial of the tax credit on the grounds that, although she and her husband had the total income set out above, she was, as a practical matter, the only real breadwinner and responsible person in the family, her husband having been something of a spendthrift who had gone through two personal bankruptcies and who frittered his money away on gadgets. I have great sympathy for her but I do not think this is a good reason to give her a tax credit that the law does not permit.
+
+[5] Subsection 122.5(3) provided, in the years in question, for a credit equal to the amount by which [1/4 x [$190 + $190]] (paragraphs 122.5(3)(a) and (b); paragraphs (c), (d) and (e) have no application here) exceeds 5% of the amount by which the individual's adjusted income for the year exceeds $25,921. (paragraph 122.5(3)(f)).
+
+[6] Obviously if we only had to take into account the appellant's income the figure would be zero and she would be entitled to the tax credit.
+
+[7] The question then is whether her "adjusted income" as defined in subsection 122.5(1) includes her spouse's income. The definition reads:
+
+"adjusted income" of an individual for a taxation year means the total of all amounts each of which would be the income for the year of
+
+(a) the individual, or
+
+(b) the individual's qualified relation for the year if no amount were included in respect of a gain from a disposition of property to which section 79 applies in computing that income.
+
+[8] The definition is not felicitously drafted. Counsel argued that Bowie J. in McFadyen v. R., [2000] 2 C.T.C. 2777, aff'd [2001] 1 C.T.C. 140, had held that "or" meant "and" and that this justified totalling the appellant's and her husband's income for the purpose of arriving at her "adjusted income".
+
+[9] Courts have struggled for years to determine whether "or" was disjunctive or conjunctive (see Maxwell on The Interpretation of Statutes, Twelfth Edition, pages 232-234). Piesse on The Elements of Drafting (Eight Edition by J.K. Aitken) devotes an entire chapter to the "Problems of "and" and "or"".
+
+[10] In ordinary parlance "and" is conjunctive and "or" is disjunctive, but sometimes a departure from this rule is justified if sense is to be made of a legislative provision or to ensure that Parliament's legislative intent is not defeated. (Radage v. The Queen, 96 DTC 1615). I do not read the judgment of Bowie J. in McFadyen as having dealt with this specific point. It was simply assumed that the definition required a totalling of the two incomes. Bowie J. at p. 2781 said "The Appellant, in argument, did not suggest that the Minister had misconstrued the Act". He dealt only with the question of the constitutional validity of section 122.5, as did the Federal Court of Appeal. I do not therefore consider the McFadyen decision as binding authority for the proposition that the spouse's income must be added to that of the claimant in determining the claimant's adjusted income.
+
+[11] It should not be automatically assumed without some analysis that "or" in the definition is conjunctive. At the very least the court should consider whether the provision was ambiguous and whether the ambiguity should be resolved in favour of the taxpayer. (Stubart Investments Limited v. The Queen, 84 DTC 6305; Fries v. The Queen, 90 DTC 6662).
+
+[12] I start from the premise that "or" is prima facie disjunctive and that it should not be treated as conjunctive without good reason.
+
+[13] "Or" can however be conjunctive if the context requires it. If one starts by working backward from the tentative conclusion that "or" in the definition is disjunctive it would seem to mean that one must look to the income of either the individual or the individual's qualified relation (her spouse) but not both. If one starts from the tentative conclusion that "or" means "and" then it seems clear that one totals the income of both spouses. If this was the intention then what principle of legislative drafting requires that "or" be used?
+
+[14] In section 3 of the Income Tax Act, one finds both. In subparagraph 3(b)(i) we find the total of (A) and (B). In paragraph 3(d) we find "the total of all amounts each of which is [x] or [y]". In subparagraph 66.7(3)(a)(i) we find "the total of (A) and (B)". In subsection 66.7(4) we find
+
+... the total of ...
+
+(ii) all amounts each of which is an amount ...
+
+(iii) all amounts each of which is an amount ... and
+
+(iv) all amounts each of which is an amount ...
+
+The same construction is found in subparagraphs 66.7(4)(b)(ii) and (iii).
+
+[15] To the same effect subparagraphs 127.52(1)(b)(i) and (ii) and 127.52(1)(c)(i) and (ii) contain the words "all amounts each of which is an amount ..." and are joined by "and". I had hoped to find a pattern in which "or" was used as the conjunction in a list of amounts where the wording was "the total of all amounts each of which is an amount..." but "and" was used where there is a simple list (as in subparagraph 3(b)(i)). That is not, however, the case, as can be seen from the above provisions.
+
+[16] It is fruitless to seek a consistent pattern.
+
+[17] I have difficulty in seeing in the definition of adjusted income why the legislative draftsperson would have thought that "or" was required when "and" was meant. What in the section would compel me to give to "or" anything other than its plain and ordinary meaning? The main clue relied on by counsel for the respondent is the use of the word "total" in the opening words of the definition but this is a rather slender reed on which to base the construction of the statute. If I say "the total of all amounts each of which is A or B" am I saying the same as "the total of all amounts each of which is A and B"? The answer is not free from doubt but one must assume that if Parliament uses a different word it means to convey a different idea. If Parliament meant "and" why did it say "or"?
+
+[18] Nonetheless, whatever I may think of the drafting, I have to give effect to the interpretation that best carries out the scheme of the Act and the intention of Parliament. In Trans-Canada Investment Corp. Ltd. v. M.N.R., 53 DTC 1227 at 1231, (aff'd 55 DTC 1191 (S.C.C.)), Cameron J. said:
+
+I agree that it is possible to interpret the language of the section as requiring that the dividend must have been received directly from the paying corporation. But in my view, there is another interpretation that may be put upon it, an interpretation which I think is more consonant with the intention of Parliament as I deem it to be from the language itself.
+
+In Caledonian Railway v. North British Railway, (1881) 6 A.C. 114, Lord Selborne said at p. 122:
+
+The more literal construction of a statute ought not to prevail if it is opposed to the intentions of the Legislature as apparent by the statute, and if the words are sufficiently flexible to admit of some other construction by which the intention can be better effectuated.
+
+Again, in Shannon Realties v. St. Michel, (1924) A.C. 192, it was stated that if the words used are ambiguous, the Court should choose an interpretation which will be consistent with the smooth working of the system which the statute purports to be regulating.
+
+[19] To the same effect, Cartwright J., in Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116, said at p. 5120:
+
+The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conforms to the apparent scheme of the legislation.
+
+[20] I doubt that irreparable damage would be done to the scheme of the Act if I interpreted "or" as disjunctive. Nor do I think that one interpretation as opposed to the other leads to an absurdity. (Victoria City v. Bishop of Vancouver Island, [1921] 2 A.C. 384).
+
+[21] What assistance does one derive from the French version? It reads
+
+« revenu rajusté » Quant à un particulier pour une année d'imposition, le total des montants qui représenteraient chacun le revenu pour l'année du particulier ou de son proche admissible pour l'année si aucun montant n'était inclus dans le calcul de ce revenu au titre d'un gain provenant d'une disposition de bien à laquelle s'applique l'article 79.
+
+[22] I do not find in the French version any particular clarification. Presumably the word "ou" is susceptible of the same disjunctive/conjunctive interpretation as "or" depending on the context. (Marzetti v. Marzetti (Bankrupt) [1994] 2 S.C.R. 765).
+
+[23] In Glaxo Wellcome Inc. v. The Queen, 96 DTC 1159, aff'd 98 DTC 6638, I endeavoured to set out the principles of statutory interpretation that I considered useful in construing words in statutes but none of those principles are of much assistance here.
+
+[24] I revert then to the question: in using "or" in the definition of "adjusted income" did Parliament mean to say "and", or, put differently, is there anything in the context that requires that "or" be conjunctive? I referred above to the word "total" as a slim reed on which to construe an ambiguous provision. If one adds to this, however, the fact that in the definition "amounts" is plural, whereas "income" is singular, it would seem that the interpretation that is more consonant with the legislative intent is that "or" is conjunctive. I note that the definition of adjusted income in section 122.6 is virtually the same as that in section 122.5. Three judges of this court have all held that that definition required a totalling of the spouse's income. Sanford v. R., [2001] 1 C.T.C. 2273; Ford v. R., [1999] 1 C.T.C. 2540; Monette v. R., [1998] 3 C.T.C. 2348. Consistency would require that I give the same interpretation to section 122.5.
+
+[25] One can test this conclusion by postulating four hypotheses and choosing those that best conform to the apparent scheme of the Act.
+
+1. The GST credit is either available to one spouse or is reduced if his or her income falls below the $25,921 threshold regardless of what the other spouse's income is.
+
+2. The GST credit is either not available to either spouse or is reduced if the income of either one exceeds the $25,921 threshold.
+
+3. The GST credit is not available to either spouse if the total of their incomes exceeds $25,921 even though the income of each, taken individually, is below $25,921.
+
+4. The GST credit is available to one and only one spouse only if the total of their combined incomes is less than $25,921.
+
+In this case the credit is reduced to zero where the "adjusted income" exceeds $25,921 plus $1,900.
+
+[26] The last three seem to be what the legislative draftsperson was driving at. I find the first hypothesis somewhat hard to reconcile with the verbiage of the definition.
+
+[27] It is unfortunate that such uncertainty can be created by the use of a disjunctive part of speech if logic, grammar and usage would dictate a conjunctive one. The people who draft legislation are supposed to be experts in the precise and comprehensible articulation of concepts. To deduce from the legislative language a concept as simple as the one that the definition of adjusted income seeks to express should not require pages of analysis together with the combined skills of a logician, a grammarian and a mediaeval schoolman.
+
+[28] The problem is compounded by the use of the words "all amounts each of which is [or would be]." This formula, which is endemic throughout the Act in one form or another, is not necessary and adds nothing. There is no reason why the definition could not have read "adjusted income of an individual means the total of the incomes of the individual and of the individual's qualified relation, computed as if no amount in respect of a gain from the disposition of property to which section 79 were included".
+
+[29] This appears to be what was meant, notwithstanding the ambiguity of the drafting.
+
+[30] The appeals are dismissed.
+
+Signed at Montréal, Canada, this 20th day of June 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2001-428(IT)I
+
+STYLE OF CAUSE: Between Linda Russell and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: June 4, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: June 20, 2001
+
+APPEARANCES:
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: P. Tamara Sugunasiri
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-428(IT)I
+
+BETWEEN:
+
+LINDA RUSSELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on June 4, 2001 at Toronto, Ontario, by
+
+The Honourable Donald G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: P. Tamara Sugunasiri
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1996 and 1997 taxation years be dismissed.
+
+Signed at Montréal, Canada, this 20th day of June 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

@@ -1,0 +1,532 @@
+Date: 19981222
+
+Docket: 97-1060-IT-G
+
+BETWEEN:
+
+HUSKY OIL LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Beaubier, J.T.C.C.
+
+[1] This appeal pursuant to the General Procedure was heard at Calgary, Alberta on December 7, 8 and 9, 1998. The Appellant has appealed an assessment for the 1987 taxation year. At the opening of the hearing the parties filed a Statement of Agreed Facts which sets out the general facts and the matters at issue. It reads:
+
+STATEMENT OF AGREED FACTS
+
+1. The parties admit the following facts, provided that such admissions are made for the purpose of this Appeal only and are not to be used against either party, on any other occasion, by any person.
+
+The following is a list of abbreviations used in this document:
+
+HOOL Husky Oil Operations Ltd.
+
+HOML Husky Oil Marketing Ltd.
+
+BVI Bow Valley Industries Ltd.
+
+BVRS Bow Valley Resource Services Ltd.
+
+BVHODLP Bow Valley Husky Offshore Drilling Limited Partnership
+
+BVHODL Bow Valley Husky Offshore Drilling Ltd.
+
+Bermuda Bow Valley Husky (Bermuda) Ltd.
+
+BVHOHL Bow Valley Husky Offshore Holdings Ltd.
+
+NEP National Energy Program
+
+PIP Petroleum Incentive Program
+
+EDC Export Development Corporation
+
+Maersk The Maersk Company (Canada) Ltd.
+
+Texaco Texaco Canada Enterprises Ltd.
+
+FACTS
+
+2. At all material times, the Appellant was a corporation resident in Canada for the purposes of the Income Tax Act (the "Act").
+
+3. In 1980, the Appellant was a public corporation. Its principal shareholder was Nova Corporation of Alberta (68% approximately).
+
+4. In 1980, the Appellant owned all of the issued and outstanding shares of Husky Oil Operations Ltd. ("HOOL") and Husky Oil Marketing Ltd. ("HOML").
+
+5. HOOL carried on an oil and gas exploration and development business in Canada.
+
+6. Bow Valley Industries Ltd. ("BVI") and Bow Valley Resource Services Ltd. ("BVRS") were public corporations. BVI owned 78% of the issued and outstanding shares of BVRS.
+
+7. In October 1980, the Canadian government announced the National Energy Program ("NEP). One of the purposes of the NEP was to encourage exploration by Canadian-controlled companies in the frontier regions of Canada.
+
+8. Two features of the NEP were the Petroleum and Gas Revenue Tax ("PGRT") and the Petroleum Incentive Program ("PIP").
+
+9. In 1981, Bob Blair, Chairman of the Board of the Appellant, and Doc Seaman, the Chairman and CEO of BVI and a director of BVRS, entered into discussions and arranged for the participation of the Appellant, HOOL, BVI and BVRS in an east coast offshore land acquisition and drilling program (the "Husky Group" refers to corporations controlled by Mr. Blair's group of corporations, the "Bow Valley Group" refers to corporations controlled by Mr. Seaman's group of corporations). One of the main business reasons for proceeding was to take advantage of the available PIP payments under the NEP.
+
+10. At all material times corporations in the Husky Group were in no way related to, and were acting at arm's length from, corporations in the Bow Valley Group.
+
+11. The broad strategy objective was to obtain a strong offshore east coast land position and start drilling there while using PIP benefits. Part of the strategy involved the construction of offshore drilling vessels and supply ships. Ultimately, two drilling vessels were constructed and operated - Bow Drill 2 and Bow Drill 3.
+
+12. One drilling vessel, Bow Drill 2, was built in Norway. It was owned by a limited partnership, Bow Valley Husky Offshore Drilling Limited Partnership ("BVHODLP"). HOML and BVRS were the limited partners (34.965% and 64.935% respectively); the general partner was Bow Valley Husky Offshore Drilling Ltd. ("BVHODL") (0.1%). The shares of BVHODL were held by the HOML (35%) and BVRS (65%). The ownership structure for Bow Drill 2 is set out in Exhibit A.
+
+13. The second drilling vessel, Bow Drill 3 was built in Canada under an October 1981 agreement between BVRS and the Saint John Shipbuilding and Dry Dock Co. (the "Construction Contract").
+
+14. In October 1981, BVRS entered into separate drilling contracts with each of HOOL and BVI whereby HOOL and BVI contracted for the use of Bow Drill 3 for periods aggregating four years commencing on the date of delivery of Bow Drill 3 (the "Drilling Contracts").
+
+15. Bow Drill 3 was delivered in March, 1984.
+
+16. HOOL and BVRS sought financing for the construction of Bow Drill 3 from the Export Development Corporation ("EDC"), a Crown corporation created under the Export Development Act.
+
+17. A condition of obtaining EDC financing was that the drilling vessel which was being built with the funds borrowed from the EDC be exported from Canada.
+
+18. In order to accommodate the export requirement of the EDC, Bow Valley Husky (Bermuda) Ltd. ("Bermuda"), a corporation incorporated in Bermuda, was established in December, 1981 for the purpose of owning Bow Drill 3 and obtaining the EDC loan. Bermuda was wholly owned by a Canadian corporation, Bow Valley Husky Offshore Holdings Ltd. ("BVHOHL"). For reasons that are not now clear, Messrs. Seaman and Blair determined that the Bow Valley Group would own 65% of the voting shares of BVHOHL and the Husky Group would own 35% of the voting shares of BVHOHL. The corporate structure is described in Exhibit "B".
+
+19. Bermuda was resident in Canada for the purposes of the Act and filed a Canadian income tax return on that basis.
+
+20. Bow Drill 3 was legally and beneficially owned by Bermuda.
+
+21. The Construction Contract and the Drilling Contracts were assigned to Bermuda.
+
+22. By agreement dated December 30, 1981, the EDC loaned Bermuda the sum of $120,000,000 (US) for the purpose of financing the construction of Bow Drill 3 (the "EDC Loan"). The EDC Loan provided for 80% of the construction financing; the remaining 20% was provided through loans from HOOL and BVRS in the proportion of 35% and 65%, respectively.
+
+23. The primary sources of revenue used by Bermuda for servicing and repaying the EDC Loan were the Drilling Contracts. Under the NEP program HOOL and BVI were reimbursed through PIP payments from the Canadian government for approximately 80% of the costs of the Drilling Contracts.
+
+24. As security for repayment of the EDC Loan, EDC took, inter alia, guarantees from HOOL and BVRS. HOOL and BVRS guaranteed payment of the indebtedness owing from time to time by Bermuda to the EDC "severally", in the proportions of 35% and 65%, respectively (the "Direct Guarantee").
+
+25. The Appellant guaranteed to EDC the performance by HOOL of its obligations under the Direct Guarantee.
+
+26. In addition, the Appellant and BVI entered into separate take or pay guarantees (the "Take or Pay Guarantees") with the EDC. The obligations under these guarantees were equal as between the Appellant and BVI. The Take or Pay Guarantees were structured around the number of days HOOL or BVI were obligated under the Drilling Contracts to make use of Bow Drill 3.
+
+27. In September, 1984, the Liberal government which had enacted the NEP was defeated and replaced with a Progressive Conservative government. In March, 1985, the Canadian government announced an arrangement to terminate the NEP and with it, the PIP, subject to transitional arrangements to extend to March 1, 1986,
+
+28. In the period around 1985/1986, there was a dramatic downturn in the oil and gas exploration industry worldwide. In early 1986, the Appellant became concerned that it had significant financial exposure as a result of the commitments it and HOOL had made in connection with Bow Drill 3. The Appellant's financial exposure was compounded by the financial difficulties being experienced by BVRS as a result of the severe downturn in its contract drilling business.
+
+29. From early 1986 until the end of September 1988, the Appellant engaged in concerted efforts to restrict its financial exposure in connection with Bow Drill 3. Specifically:
+
+a) the Husky Group considered the possibility of repudiating the corporate structure established by it and the Bow Valley Group to own and operate Bow Drill 3;
+
+b) the Husky Group actively explored the possibility of repudiating the various guarantees provided to EDC;
+
+c) the major concession that the Husky Group obtained during this period was the agreement of the Bow Valley Group to "dam up" revenue from Bow Drill 3 in Bermuda and BVHOHL and not use available revenue to repay shareholder loans.
+
+30. Prior to October 14, 1988, while the Husky Group had attempted on several occasions to obtain EDC's permission to transfer Bow Drill 3 to a partnership, EDC had always refused on the ground that such a transfer might undermine the vires of the EDC Loan.
+
+31. At all material times prior to October 14, 1988:
+
+a) the Bow Valley Group, and not the Husky Group, had both de jure as well as de facto control of both Bermuda and BVHOHL;
+
+b) Bermuda had both legal and beneficial ownership of Bow Drill 3 subject to the fixed security interest of EDC:
+
+c) The Husky Group had no legal, beneficial or equitable interest in Bow Drill 3 except as minority shareholder of BVHOHL.
+
+32. On September 15, 1988, Bermuda defaulted on the EDC Loan.
+
+33. The Husky Group did not know what EDC would do as a result of the default. The possibilities included:
+
+a) EDC calling on the various Husky Guarantees before realizing on any security;
+
+b) EDC seizing and selling Bow Drill 3 itself;
+
+c) EDC consenting to a sale of Bow Drill 3 by Bermuda;
+
+d) The Husky Group purchasing the EDC Loan.
+
+34. Prior to October 14, 1988 all the possibilities enumerated in paragraph 33 were considered by EDC, and indeed, on October 14, 1988, EDC consented to Bermuda's sale of Bow Drill 3 to a Chinese group.
+
+35. As of October 6, 1988, the following documents were executed,
+
+a) a Partnership Agreement whereby the Appellant, Bermuda, and 384830 Alberta Inc. (a corporation wholly owned by BVRS) agreed to enter into a partnership called the Bow Drill 3 Partnership (the "Partnership") calling for the following capital contributions:
+
+i) Bow Drill 3 from Bermuda;
+
+ii) $360,000 of oil and gas properties from the Appellant; and
+
+iii) $10 from 384830;
+
+b) an agreement between Texaco and the Partnership for the services of Bow Drill 3.
+
+36. As of October 14, 1988, the following documents were executed:
+
+a) an option agreement in respect of the sale and purchase of Bow Drill 3 with the Partnership as optionor and Maersk, an unrelated Canadian corporation, as optionee;
+
+b) an assignment agreement among the Partnership, Texaco and Maersk dealing with the assignment of the Drilling Contract to Maersk in the event Maersk purchased Bow Drill 3;
+
+c) an agreement between the Appellant and EDC whereby the Appellant purchased the EDC Loan of US $35,329,053 owing by Bermuda to the EDC for US $34,497,889.
+
+37. As of October 15, 1988, the Partnership executed documents with 384830 to operate Bow Drill 3 pursuant to its Drilling Contract with Texaco.
+
+38. As of October 18, 1988:
+
+a) Bermuda executed a document transferring Bow Drill 3 to the Partnership;
+
+b) the Appellant executed a document transferring $360,000 of oil and gas properties to the Partnership.
+
+39. As of November 21, 1988, the Appellant executed a document acquiring Bermuda's interest in the Partnership in partial satisfaction of Bermuda's EDC Loan payable to the Appellant.
+
+40. As of December 1, 1988, Maersk executed a document exercising its option to purchase Bow Drill 3 for $30,300,000 (US).
+
+41. On December 16, 1988, the Appellant acquired the shareholder loan of BVRS to BVHOHL.
+
+42. On December 21,1988, HOOL acquired 384830's interest in the Partnership.
+
+43. For its fiscal year ended December 31, 1988, the Partnership had net earnings of $3,895 from the sale of oil and gas production, net earnings of $655,974 from its Bow Drill 3 drilling activities and realized a non-capital loss of $26,506,798 after deducting the terminal loss of $27,245,805 resulting from the sale of Bow Drill 3. $26,568,798 of the non-capital loss was allocated to the Appellant and a positive amount of $61,247 to HOOL. The Appellant carried back $19,475,768 of its 1988 non-capital loss to its 1987 taxation year.
+
+44. By Notice of Reassessment dated October 5, 1995 in respect of the Appellant's 1987 taxation year (the "Reassessment"), the Minister of National Revenue (the "Minister")
+
+a) reassessed the Appellant to reduce to nil the amount of its 1988 non-capital loss available to be carried back to its 1987 taxation year by denying its share of the Partnership loss of $26,568,045; and
+
+b) reassessed the Appellant's 1987 taxation year after applying non-capital losses from the Appellant's 1989 and 1990 taxation years, as requested by the Appellant on the basis that:
+
+i) the Partnership did not have a view to profit, and accordingly, did not exist;
+
+ii) the Partnership was a sham;
+
+iii) the General Anti-Avoidance Rule ("GAAR") in section 245 of the Act is applicable; and
+
+c) the coming into force provisions for the application of the GAAR ("Grandfathering Rules") do not apply to exclude the application of the GAAR.
+
+45, On December 18, 1995, the Appellant filed a notice of objection to the Reassessment in prescribed form and within the time stipulated in the Act for doing so.
+
+46. The Appellant appealed to the Tax Court pursuant to section 165 of the Act by Notice of Appeal dated March 26, 1997, as more than 90 days had elapsed after the service of the notice of objection and the Minister had not notified the Appellant that the Minister had vacated or confirmed the assessment or reassessed.
+
+
+
+
+
+[2] At the outset of the hearing Respondent's counsel admitted, for the record, that the Partnership described in paragraph 35 existed in law. At the conclusion of Mr. Miller's testimony in chief, Respondent's counsel made the following admissions and summaries:
+
+1. The subject partnership was at all times a partnership for the purposes of section 96 of the Income Tax Act.
+
+2. The Respondent will not be relying on the Moldowan common law reasonable expectation of profit test.
+
+3. The Respondent will not be relying on any source of income requirements arising out of subsection 9(2), section 96 of the Income Tax Act or paragraph 1102(1)(c) of the Regulations.
+
+Therefore, what was left in issue by the Respondent respecting this appeal were:
+
+(1) Sham.
+
+(2) GAAR.
+
+(3) If GAAR is not applicable due to the transitional provisions in GAAR, then subsections 245(1) and 55(1) of the Income Tax Act for the year in question.
+
+[3] In the Appellant's examination for discovery of the Respondent's officer, J.S. Lawless, at page 63, lines 20 to 23 inclusive, the following admission was made:
+
+Q Now, when you were raising this reassessment, did you consider what I'll refer to as old Section 245(1) as being a basis of assessment?
+
+A No, I didn't.
+
+[4] The Appellant ("HOL") called William R. Miller, C.A., who retired from HOL in 1994 after having served for ten years as its Vice President and Chief Financial Officer. Mr. Miller was a credible witness throughout his entire testimony. HOL is an integrated oil company carrying on business at all material times in oil, gas and hydrocarbon exploration, production, marketing, refining, refracting and distribution.
+
+[5] To compete in the international oil business each company which survives must take advantage of the petroleum, shipbuilding, rig building and the financing programmes of various nations. To do this these companies, including HOL enter into deals, guarantees and operate through partnerships, wholly and partly owned corporations in various countries throughout the world. All of this happened to HOL in this case. It is the way that HOL does business and all of it is for the purpose of earning income and with a reasonable expectation of profit. Each facet has to be utilized to its optimum in order that HOL can compete and earn a profit.
+
+[6] Once HOL and BVI began their offshore venture under the NEP they realized that they might qualify for direct grants of offshore acreage from the Government of Canada. At that time they were drilling farm-outs from Mobil so that they could qualify for a percentage of oil discovered in a Mobil offshore acreage. To assist in their effort to qualify for direct acreage grants they built Bow Drill 3 and two supply vessels in Canada.
+
+[7] Bow Drill 3 was manufactured in Canada at the behest of the Canadian government despite the fact that it was inferior to Bow Drill 2. Bow Drill 2 (a) had been manufactured in Norway, (b) cost 20% less than Bow Drill 3, and (c) was financed by the government of Norway's incentive programme at an interest rate which was approximately 4% per annum less than Canada's EDC programme for Bow Drill 3. Bow Drill 3 also had cost overruns which required additional funds from HOL and BVI.
+
+[8] Bow Drill 3 had to be owned by an offshore corporation to obtain EDC financing. Bermuda was that corporation and it was owned by BVHOHL. BVHOHL was controlled by the Bow Valley group which had 65% of the shares. HOL's subsidiary, HOOL, was in a minority with 35% of the shares. This corporate structure enabled Bermuda to pay dividends without attracting tax.
+
+[9] EDC's loan for the construction of Bow Drill 3 was guaranteed by HOL and by BVI and BVRS. Oil was expected to rise to a price of $100 per barrel when the construction of Bow Drill 3 began. In 1986 the price dropped from $20 per barrel into the single digits. The entire offshore programme became uneconomic. Drilling rigs and supply vessels' prices and values dropped precipitously. Upon the expiry of the offshore drilling contracts, any new drilling contracts were at much lower prices. PIP grants were terminated in March of 1986.
+
+[10] These occurrences affected HOL in a number of ways and it was clearly realized by HOL in 1986 that -
+
+(a) HOL's guarantee of EDC's loan to build Bow Drill 3 exceeded any interest HOOL had in Bermuda and this was serious because by June of 1986 it was clear that BVRS was approaching insolvency. Moreover, the BVRS and BVI guarantees to EDC were limited, but HOL's was not.
+
+(b) The Mobil farm-out had to be finished so that the percentage interest in its acreage production could be realized. Bow Drill 3's lucrative drilling contracts expired in July, 1988.
+
+(c) As the lucrative drilling contracts expired, Bermuda would be unable to make the EDC payments. In fact the first failure to pay occurred on September 15, 1988. EDC then was entitled to declare a default, but did not. There was also an earlier expiry date which arose in the EDC loan agreement when the drilling contracts expired which EDC did not exercise.
+
+(d) HOOL only owned 35% of Bermuda and could not control its activities or cash flow.
+
+[11] Thereupon, HOL –
+
+(a) Tried to extend EDC's financing. (July 17, 1986, Exhibit A-2, Tab 88)
+
+(b) Had its solicitors draft a Statement of Claim to sue the federal government for damages resulting from the cancellation of PIP and its effects on HOL. (July 31, 1986 – Exhibit A-4, Tab 94)
+
+(c) Tried to negotiate with BVRS to obtain clear title to Bow Drill 3 if it paid off its 35% interest. (August 8, 1986 – Exhibit A-1, Tab 11 and August 14, 1986 – Exhibit A-1, Tab 9)
+
+(d) And BVRS sold Bow Drill 2 to a Republic of China corporation in the fall of 1986 (Exhibit A-1, Tab 15). Thereafter BVRS attempted to sell Bow Drill 3 to Nanhai West Oil Corporation, a Republic of China corporation which the parties referred to from time to time as the "Chinese". HOL consented to these attempts by BVRS.
+
+(e) Began negotiations with EDC to transfer Bow Drill 3 to a partnership for the amount of the EDC loan so that the partners could deduct the capital cost allowance against their liabilities (August 12, 1986 – Exhibit A-2, Tab 96). These negotiations continued but were never successful.
+
+(f) Arranged an agreement between HOOL and BVRS to "dam" the cash flowing from Bermuda's drilling operations so as to service EDC. (September 5, 1986 – Exhibit A-2, Tab 100)
+
+(g) Reviewed its tax position and considered the use of a partnership respecting its 35%. (February 7, 1987 – Exhibit R-2, A117)
+
+(h) Acquired HOOL's BVHOHL loan respecting Bermuda on April 14, 1988 by document Exhibit A-3, Tab 143.
+
+(i) Offered to pay EDC $2.9 million and transfer its 35% for a release of the HOL guarantee. (October 7, 1988 – Exhibit A-4, Tab 191)
+
+[12] By mid-1988 BVRS's bankruptcy became a probability and EDC was facing the publicity that would result. HOL had obtained a lawyer's opinion on June 3, 1986 that it might not be liable on its guarantee to EDC (Exhibit A-2, Tab 77). However, costly litigation respecting that opinion was a certainty and HOL might still be liable. It is in the light of this that the failure by Bermuda to pay EDC the September 15, 1988 instalment is noteworthy. Paragraph 32 of the Statement of Agreed Facts is technically incorrect. Bermuda failed to pay EDC on September 15, 1988 because it could not afford to meet that payment. The guarantors did not make the payment. But under the contract EDC had to declare a default. EDC never did declare a default, although it could have done so at any time after September 15, 1988.
+
+[13] On September 26, 1988 HOL offered to buy the Bermuda loan for Bow Drill 3 from EDC at a discount "subject to a satisfactory contract ... with ... (what turned out to be Maersk)" (September 26, 1988 – Exhibit A-3, Tab 165). The offer was accepted on September 27, 1988 (Exhibit A-3, Tab 167). After a public bidding process Texaco entered into an agreement to drill with Bow Drill 3 on September 27, 1988 (Exhibit A-3, Tab 168). Maersk agreed to provide the drilling services on September 27, 1988 (Exhibit A-3, Tab 169). HOL and Maersk began to deal for the sale of Bow Drill 3 at the end of September 1988 (Exhibit A-3, Tabs 170 and 171 and Exhibit A-4, Tab 173).
+
+[14] Exhibit A-7 dated September 26, 1988 is the EDC staff memorandum to its Board of Directors respecting the sale of the loan to HOL. Page 9 describes HOL's motives for this as seen by EDC's staff. It reads:
+
+Husky's motivation for tabling the offer is assumed to be based primarily on their desire to a) reduce their potential exposure with EDC; b) assure the availability of a rig that they are comfortable with to complete their drilling programs; c) access a significant potential tax base (for losses and loss carry forwards) which has heretofore been available only in Bermuda; and d) capitalize on their positive assessment of the medium-term market value of the rig.
+
+Mr. Miller stated that he does not recall stating the "d)" portion of the quotation. He stated that HOL merely wanted to get out of the offshore drilling business with a minimum loss. When HOL obtained EDC's agreement to sell its loan, the offshore requirement insisted on by EDC ended.
+
+[15] On October 3, 1988 HOL proposed, and BVRS accepted, a series of actions that, roughly, is what became the documentation in this matter (Exhibit A-4, Tab 175). At that time the sale of Bow Drill 3 to the Chinese remained a possibility, as did an option with Maersk. The letter of October 3 followed two years of financial difficulties and difficulties between BVRS and HOL as their situations deteriorated. The letter of agreement between the parties dated October 3, 1988 is a result of these difficulties and negotiations extending over two years. It reads:
+
+Husky Oil
+
+707 8th Avenue S.W. William R. Miller, C.A.
+
+Box 6525, Station D Vice President
+
+Calgary, Alberta, Canada Husky Oil Ltd.
+
+T2P 3G7 (403) 298-7354
+
+October 3, 1988
+
+Bow Valley Resource Services Ltd.
+
+1600, 321 – 6th Avenue S.W.
+
+Calgary, Alberta
+
+T2P 3R3
+
+ATTENTION: Mr. K.E. Myers
+
+Vice President, Finance
+
+Dear Sir:
+
+RE: Bow Drill 3 (The "Rig")
+
+Owing to the present state of affairs in respect to the loan (the "Loan") to Bow Valley Husky (Bermuda) Ltd. ("Bermuda") from Export Development Corporation ("EDC"), we propose the course of action as described below for your consideration. The participation of Husky Oil Ltd. ("HOL") and its affiliates is conditional upon the unconditional acceptance by EDC of the offer to purchase the Loan made by HOL to EDC (which shall include all security thereto) and the arranging of a satisfactory contract in respect of the Rig between the partnership, as defined below, and a company within the A.P. Moller Group ("Maersk"). Hereinafter the term "EDC loan" shall refer to the Loan as acquired by HOL or any of its affiliates.
+
+The participation of Bow Valley Resource Services Ltd. ("BVRS") is conditional upon notification in writing by HOL to BVRS that the aforementioned conditions have been unconditionally satisfied. In consideration of BVRS complying with or causing compliance with the proposal and those matters set forth under the heading "Other Matters" below, HOL shall release BVRS from any and all obligations in respect of the EDC loan and the security with respect thereto.
+
+Proposal
+
+1. The Bow Drill 3 Partnership (the "New Partnership") will be formed under the laws of Alberta between Bermuda, HOL, Bow Valley Offshore Drilling Ltd. ("BVOD) or some other company within the BVRS group as determined by BVRS (such company to be hereinafter referred to as the "Manager"). The partnership agreement will contain the terms as more fully described below.
+
+2. BVRS will assign its loan receivable from B.V.H. Offshore Holdings Ltd. ("BVHOH") to HOL in consideration of $1 payable by HOL and at the same time therewith the BVRS guarantee of the EDC Loan to Bermuda will be released. BVRS hereby warrants that such loan receivable will be free of any encumbrance at the time of this transaction. This transaction shall be concluded immediately following the completion of the sale resulting from the exercise of either option provided for in the Option Agreement between the New Partnership and Maersk dated on or about October 4, 1988 (the "Option Agreement) or December 16, 1988, whichever shall come first. Prior to the date of release of the BVRS guarantee, HOL shall not demand payment thereunder unless BVRS is in default of its obligations under this letter.
+
+3. HOL will release the mortgage in respect of the EDC loan against the Rig to be replaced by a charge upon the interest acquired by Bermuda in the New Partnership.
+
+4. Bermuda will contribute the Rig to the New Partnership free of the security in respect of the Loan or the EDC loan. Bermuda's interest in the New Partnership will be pledged to HOL as security for the EDC loan. At the option of HOL, the New Partnership will guarantee the EDC loan of Bermuda and provide a mortgage on the Rig as collateral security for the guarantee.
+
+5. At the option of HOL, exercised on or before December 31, 1988, Bermuda will transfer its interest in the New Partnership to HOL for consideration of U.S.$31.7 million (the "Consideration"). Payment of the Consideration may be satisfied by reduction of the amount owing by Bermuda to HOL in respect of the EDC loan.
+
+6. On or before December 31, 1988, HOL or one of its affiliates may, at the option of HOL, acquire the interest of the Manager in the New Partnership for an amount equal to a predetermined estimate of the fair market value of such interest.
+
+7. BVRS will agree to file the 1987 and 1988 income tax returns of Bermuda and to refile tax returns for years prior to the 1987 tax year, as directed by HOL.
+
+Partnership Terms
+
+The terms of the agreement governing the New Partnership will include the following:
+
+1. The Manager will be entitled to a priority share of profits of the New Partnership in respect of management services to be agreed upon.
+
+2. The Manager will be entitled to 1% of the operating profits of the New Partnership in excess of the priority share referred to in paragraph 1.
+
+3. The Manager will be entitled to 2% of any gain for accounting purposes recognized by the New Partnership on a disposition of any assets owned by the New Partnership.
+
+4. All allocations to partners as required by the Income Tax Act (Canada) will be made to those persons who are partners at the fiscal year-end of the New Partnership (December 31) provided that net losses, if any, for the fiscal year shall be for the account of the majority partner.
+
+5. After distribution of the priority share profits which are to be distributed monthly, any further distribution from the New Partnership shall be made pro rata according to the capital accounts of the partners at the time of the distribution.
+
+6. Voting rights in respect of partnership activities shall be allocated as to 20% to the Manager, as to 5% to HOL and as to 75% to the financing partner Bermuda.
+
+Other Matters
+
+The parties hereto also agree as follows, subject to the conditions outlined in the opening paragraph of this letter:
+
+1. HOL shall advance funds to Bermuda to the extent necessary to cover Bermuda's obligations, after utilizing existing cash resources and cash flow from operations, as outlined below:
+
+(a) The cost of replacing the anodes in the Rig incurred by Bermuda estimated to be approximately $400,000 and such other similar matters requested by HOL.
+
+(b) Reasonable and usual costs associated with the stacking of the Rig from August 14, 1988 until the Rig next commences work.
+
+(c) On or before October 31, 1988 Bermuda will purchase and pay U.S. $500,000 to Bow Valley Husky Offshore Drilling Limited Partnership ("BVHOD") and thereby obtain title free and clear of all encumbrances to the 5" drill pipe (the "Pipe") currently owned by BVHOD. In addition, on or before October 31, 1988 Bermuda will purchase and BVHOD will sell for U.S. $160,000 payable at time of purchase and sale the following equipment:
+
+Vetco Hangoff Toll and bodies
+
+Heavy duty running string (30 joints)
+
+Acoustic BOP Control Unit
+
+(d) Bermuda shall pay or reimburse Bow Valley Offshore Drilling Limited Partnership ("BVODLP") for the termination costs of those employees of BVODLP who participated in the administration and operations of the Rig, provided that where an employee has been involved in the administration and operation of rigs other than the Rig or other activities, such termination costs shall be reasonably reduced so that they relate only to his service in respect of the Rig;
+
+BVOD as the general partner of BVODLP shall determine the termination amounts (including outplacement counseling) and other applicable termination costs of the BVODLP employees; however, BVRS covenants that such termination amounts shall be reasonable under the circumstances;
+
+BVOD shall advise Bermuda of the amount of such costs and Bermuda will promptly pay such amounts to the employee or to BVODLP at the time such payment is required to be made to the employee.
+
+Such costs are presently estimated to be $925,000 and HOL will post an irrevocable standby letter of credit in favour of Bermuda for this amount.
+
+(e) Bermuda shall promptly reimburse BVODLP for 50% of the reasonable costs (such 50% is presently estimated to be $35,000) incurred in closing the Halifax office, and 100% of the reasonable costs (presently estimated to be $20,000) incurred in closing the St. John's office, of the BVODLP as more particularly contemplated in the Management Agreement between Bermuda and BVODLP dated May 27, 1983;
+
+(f) Bermuda shall reimburse BVRS for all reasonable and necessary legal fees and out-of-pocket expenses incurred by BVRS with respect to the potential sale of the Rig and the other transactions contemplated herein;
+
+(g) Bermuda will incur winding-down costs estimated to be $250,000 through April 30, 1989.
+
+2. Bermuda will make no payments or prepayments on account of its debt to BVHOH or EDC unless approved by the Board of Directors of Bermuda.
+
+3. BVRS shall, or BVRS shall cause the relevant subsidiaries and affiliates including BVOD and BVODLP, to cooperate fully with the New Partnership in connection with the possible sale of the Rig to Maersk or its nominee including, without limitation, providing Maersk and its representatives with access to all necessary information and documentation respecting the Rig, excluding personnel and financial records, prior to the closing date, delivering such documentation and any other documentation in the possession of BVOD or BVODLP required by Schedule A to the Option Agreement to Maersk on the closing date, fully cooperating with Maersk in connection with the transfer of the ownership of the Rig and of the operational responsibilities for the Rig on or before the closing date including, without limitation, permitting Maersk to make use of BVOD's or BVODLP's operations and procedures manuals for the Rig for a period not to exceed 9 months after the closing date and permitting Maersk to make employment arrangements with BVODLP personnel.
+
+4. BVRS will make all reasonable efforts to provide HOL with a draft of any press release or other public disclosure which BVRS proposes to release in respect of, or referring to, Bow Drill 3, twenty-four (24) hours prior to such release or disclosure so that HOL may provide its reasonable comments in respect thereof with a view that any such press release or other disclosure shall be reasonably satisfactory to both BVRS and HOL acknowledging the requirements of BVRS to make timely disclosure under the applicable securities regulation. These obligations will terminate at the close of business on December 16, 1988.
+
+5. BVRS and HOL will jointly work out a suitable response to Nanhai West Oil Corporation.
+
+6. HOL and BVRS shall cause Bermuda to assume and fulfill its obligations described hereunder.
+
+7. HOL undertakes to cause the New Partnership to change its name on or before December 31, 1988.
+
+If you are in agreement herewith, please sign and return this letter to HOL at the above address, attention W. R. Miller, prior to 5:00 p.m. Calgary time October 3, 1988.
+
+Yours truly,
+
+HUSKY OIL LTD.
+
+"W. R. Miller"
+
+W.R. Miller
+
+Vice President
+
+"R.L. Phillips"
+
+R.L. Phillips
+
+Vice President
+
+WRM:hjm
+
+Agreed:
+
+Bow Valley Resource Services Ltd.
+
+"Kenneth E. Myers"
+
+"Arnold F. Bathgate"
+
+(Exhibit A-4, Tab 175)
+
+[16] On October 7, 1988 HOL advised EDC that the "Maersk" condition in its offer of September 26, 1988 to purchase the EDC loan "will not be satisfied" and that it will not be purchasing the loan (Exhibit A-4, Tab 189). On the same day HOL also offered to sell its corporate interest in Bow Drill 3 to EDC and to pay EDC $2.9 million if EDC would discharge HOL's guarantees on the loan (Exhibit A-4, Tab 191).
+
+[17] On October 10, 1988 Mr. Miller's notes indicate that any arrangement with Maersk may not be doable. (Exhibit A-4, Tab 192). And on October 13, 1988 Mr. Miller's notes refer to the "Chinese sale" (Exhibit A-4, Tab 196).
+
+[18] On October 14, 1988 BVRS wrote EDC and:
+
+(a) stated that the "Chinese" sale had been approved by its Board subject to EDC or another party paying the costs of sale, and
+
+(b) raised the possibility that Bow Drill 3 might be left unmanned in view of continuing expenses which could not be paid by Bermuda and BVODLP.
+
+It is a letter from a BVRS that is clearly in desperate financial straits (Exhibit A-5, Tab 198). On the same day HOL wrote BVRS to the effect that the terms of the October 3, 1988 agreement between them had been met. The letter (Exhibit A-5, Tab 197) reads:
+
+Re: Bow Drill 3 (The "Rig")
+
+Further to our letter agreement of October 3, 1988 (the "Letter") we wish to advise that Husky Oil Ltd. ("HOL") and Export Development Corporation ("EDC") have reached agreement pursuant to which HOL will acquire the EDC loan to Bow Valley Husky (Bermuda) Ltd. and related security. Also, a satisfactory contract has been entered into in respect of Bow Drill 3 between the partnership and Maersk, each as defined in the Letter.
+
+HOL shall also advance funds to Bermuda, in the same manner as outlined in the Letter in paragraph 1 under the heading "Other Matters", to enable Bermuda to reimburse Bow Valley Resource Services Ltd. for retroactive adjustments of approximately U.S. $120,000 to previously paid insurance premiums, which adjustments are now properly due by Bermuda in respect of Bow Drill 3.
+
+[19] It was in these circumstances that the Partnership agreement was signed "as of the 6th day of October, 1988". It carried out the agreement of October 3, 1988. It was a legal general partnership agreement which was registered under the Alberta Partnership Act. There were three partners: Bermuda contributed Bow Drill 3, HOL contributed operating oil and gas properties and 384830 (which was wholly owned by BVRS) contributed $10.00. The partnership agreement set out the voting rights as Bermuda 75%, 384830 20% and HOL 5% (Exhibit A-4, Tab 187, para. 11.1).
+
+[20] On October 6, 1988 the Partnership leased Bow Drill 3 to Texaco (Exhibit A-4, Tab 188) at a rate of $57,500 per operating day.
+
+[21] Mr. Miller testified, and the Court accepts it as the fact, that the cause of the formation of the Partnership and HOL's purchase of the EDC loan was that BVRS was verging on insolvency in 1987 and 1988 as a result of the Progressive Conservative government's cancellation of the NEP and PIP. Bermuda failed to meet its payments to EDC on September 15, 1988 and in conjunction with this the Appellant consented to a sale of Bow Drill 3 to the "Chinese", even though it thought that the possible sale to Maersk would be more remunerative. This sale did not occur.
+
+[22] Before October 14, 1988 HOL and BVRS had Maersk (which had a group of people in Calgary for about two weeks commencing before October 14) and the Chinese looking at, but not offering an acceptable price for, Bow Drill 3. EDC was worried and (unknown to anyone else) ready to write its loan down by $4 million. Imminent bankruptcies and actual insolvencies existed among the Bow Valley group. HOL and BVRS faced an uncooperative government, a reluctant secured creditor in EDC and a bleak economic situation in the offshore drilling business for Bow Drill 3.
+
+[23] Respondent's counsel raised a question about the absence of documents in the period immediately before October 14 and implied that their absence raised questions vis-a-vis Revenue Canada's interests. The obvious answer is that BVRS was then on the precipice of bankruptcy. Bankruptcy would tie Bow Drill 3 up for an indeterminate time at a great expense to HOL with little possibility of recovery. The absence of paper when fending off creditors in insolvent situations is a common phenomenon which accounts for its absence in the period near October 14, 1988. It was in both BVRS's and HOL's interest to avoid a bankruptcy in the Bow Valley Group. It was also in their interests to keep both the Chinese and Maersk in negotiations. That offered a chance of a better price for Bow Drill 3 and two possibilities for a sale. There is no evidence that the Chinese were ever sent away or refused. The Chinese always remained in the offing as a possible purchaser.
+
+[24] It was in these circumstances that the documents described in paragraphs 36 and 37 of the Statement of Agreed Facts were signed. In particular, the Option Agreement between the Partnership and Maersk (Exhibit A-5, Tab 202) was not dated "as of". Rather, it was dated "This agreement made the 14th day of October, 1988". In paragraph 1, the Partnership grants Maersk an option to buy Bow Drill 3 for $30.3 million U.S. which expires December 1, 1988. Paragraph 4 gives the Partnership the right to require Maersk to purchase Bow Drill 3 for $30.8 million U.S. during the period of 7 days after, in effect, December 1, 1988. This second right gave the Partnership one more chance at the Chinese should that be necessary.
+
+[25] The remaining documents described in paragraph 36 are with strangers - Texaco, Maersk and EDC which are all public corporations. They evidence deals made on October 14, 1988. The same is true of the Texaco agreement described in subparagraph 35(b) and paragraph 37. The agreements described in paragraph 37 merely carry out the Partnership Agreement of October 6, 1988.
+
+[26] In argument Respondent's counsel spent some time on the fact that BVRS and HOL were willing to accept $33 million U.S. from Maersk for Bow Drill 3 on September 20, but signed an option on October 14 with Maersk for $30.3 million U.S. The difference of $2.7 million in his view was accounted for by the time that the Partnership operated Bow Drill 3. There are a number of problems with this proposition. The first is that the Respondent had no evidence to this effect and there is no evidence to this effect. The record is that Maersk's people were in Calgary for two weeks before the option was signed to investigate the possible purchase. They would have learned that the September 15, 1988 payment to EDC was not paid. The financial status of the BVRS companies is so evident that it would have been common knowledge and easily discovered in Calgary over the course of two weeks. Maersk would have learned that it had a very anxious seller. As a result it would have dealt harder for a lower price which it got. This finding is confirmed by the events of October 7 described in paragraph [16], by the paragraph [17] events and by BVRS's letter of October 14 described in paragraph [18]. The reduction varied BVRS and HOL's agreement of October 3, 1988 and was confirmed by BVRS on October 26, 1988 (Exhibit A-5, Tab 220). On October 15, 1988 for these same reasons, and the consequent Maersk offer of $30.3 million, Husky proposed to EDC a reduction of its September 26-27 purchase price for the EDC loan of $1.5 million U.S. (Exhibit A-5, Tab 206). EDC accepted this reduction by its letter of October 17, 1988 (Exhibit A-5, Tab 209). Thus EDC independently verified BVRS and HOL's deteriorating bargaining positions and EDC's deteriorating bargaining position. A final act which may have affected Maersk's price is that, as described in paragraph [13], Texaco accepted a bid to drill with Bow Drill 3 on September 27, 1988 (after the September 20 figure was arrived at). The economics of Bow Drill 3 changed as a result of Texaco's acceptance. This would have affected the price of Bow Drill 3 after September 27, 1988.
+
+[27] The transfer of Bermuda's Partnership interest to HOL by an agreement as of November 21 was acknowledged by 384830 on November 23, 1988. It terminated the assignment of Bermuda's Partnership interest which Bermuda gave to HOL on October 18, 1988 in return for HOL releasing EDC's security against Bermuda and Bow Drill 3 and terminating any debt or security against Bow Drill 3 itself (Exhibit A-5, Tab 213).
+
+[28] This recitation of the background evidence respecting the bare bones in the Agreed Statement of Facts provides the business reasons that the Partnership was necessary and became the only feasible legal route by which to proceed. The Bow Valley group was insolvent and faced the bankruptcy of some corporations which would have jeopardized them all; it had to get rid of Bow Drill 3 and the EDC loan to survive. HOL wanted to sever its relationship with Bow Valley, remove the EDC guarantees and get rid of Bow Drill 3. HOL had been trying to do these things for over two years without paying out EDC, but EDC would not agree. BVRS ultimately had control over negotiations due to its 65% control of the corporation that owned Bermuda, so it had a veto. But BVRS's position weakened as it weakened financially. The failure to pay EDC on September 15, 1988 gave HOL an equal bargaining position in respect to the Bow Valley group. It also left EDC in a weakened position since EDC then faced the likelihood of acquiring both Bow Drill 3 and a lawsuit by HOL. HOL had the money to pay EDC, but it did not want to be in the offshore drilling business and it did not need a lawsuit. Thus, the three parties became equals on September 15, 1988.
+
+[29] However, Bow Drill 3 and its debt remained a liability to all three. There was no sure sale. HOL did not want to be in the offshore drilling business and did not want to buy Bow Drill 3 itself. Bermuda's ownership of Bow Drill 3 gave HOL limited liability for the rig itself. By creating the partnership, having Bermuda contribute Bow Drill 3 to it, and obtaining a security over Bermuda:
+
+1. BVRS retained control of Bermuda.
+
+2. HOL had to pay out all of EDC and, in return,
+
+3. HOL got
+
+(a) clear title to Bow Drill 3 in the Partnership,
+
+(b) security over Bermuda,
+
+(c) the opportunity to get rid of BVRS and possible problems with BVRS's creditors,
+
+(d) a right to BVHOHL's loan to Bermuda for $1,
+
+and for this,
+
+(e) direct ownership of an interest in Bow Drill 3 and liability for Bow Drill 3 as a partner.
+
+4. BVRS and its companies got rid of the EDC liability, Bow Drill 3, and an additional potential loss if the sale was completed.
+
+5. Bow Drill 3, without debt, became economic.
+
+All of the items described in 3. and 5. occurred to the commercial advantage of HOL because of the creation of the Partnership and the transfer of Bow Drill 3 into it. Once Bow Drill 3 was out of Bermuda and HOL held security over Bermuda, practical control had moved from BVRS to HOL. It left BVRS with the leverage to extricate itself from the former EDC debt. But HOL still held BVRS liable for the former EDC debt if Bow Drill 3 did not sell.
+
+[30] Immediately upon being formed and acquiring Bow Drill 3, the Partnership began the business of operating the rig. The Texaco contract had to be met and a major operating problem, the Bergen engines, required a Partnership repair crew, warranty work and claims and keeping Bow Drill 3 in operating condition at the same time (Exhibit A-5, Tab 240).
+
+[31] The Partnership's first fiscal year was from October 6 to December 31, 1988. It earned a profit before depreciation from both Bow Drill 3 and the oil and gas properties.
+
+[32] This was a deal involving EDC, BVRS and HOL which had to be done to the satisfaction of all of them. It was fully documented and legal relations occurred at each interval among all of the parties. The Partnership was formed, Bow Drill 3 was transferred to it, the option was granted to Maersk with an option to the Partnership (and with the Chinese deal remaining a possibility to the Partnership), the Bermuda interest was transferred to HOL for valuable consideration, Bow Drill 3 was transferred to Maersk for valuable consideration and the Partnership was in active business in 1988 and 1989. As Bowman, J.T.C.C. said in Continental Bank of Canada et al v. The Queen, 94 DTC 1858 at 1868:
+
+If the legal relationships are binding and are not a cloak to disguise another type of legal relationship they are not a sham, however much the tax result may offend the Minister or, for that matter, the court, and whatever may be the overall ulterior economic motive. When something is a sham the necessary corollary is that there is behind the legal facade a different real legal relationship. If the legal reality that underlies the ostensible legal relationship is the same as that which appears on the surface, there is no sham.
+
+The legal facade describes the legal reality in this case. There is no sham.
+
+[33] The evidence is that HOL did not want to do the series of transactions in which it ultimately participated. It wanted EDC to consent to a domestic loan to carry out the sale of Bow Drill 3 and tried to get that consent for two years. It did not want to have the entire loan respecting Bow Drill 3, rather it wanted to confine its liability to its indirect 35% interest in Bermuda and to replace that with the ownership of 35% of Bow Drill 3 itself. But neither BVRS nor EDC would allow HOL to achieve that purpose. Nor is there evidence that HOL wanted a partnership. That was reviewed in February, 1987, but HOL offered to transfer Bow Drill 3 and pay $2.9 million to EDC on October 7, 1988, for a discharge. The tax aspect of the partnership and transfer followed from the commercial negotiations and deals.
+
+[34] The letter of October 3, 1988 evidences a contract between HOL and BVRS that was the result of two years of difficulties which they suffered. In fact, they formally amended the price described in that agreement by a letter between the two dated October 26, 1988 in which it was agreed that the Maersk option price would be reduced from $31.7 million to $30.3 million (U.S.) (Exhibit A-5, Tab 220). The difficulties were caused by the federal government creating the NEP and PIP; BVRS and HOL as Canadian public corporations acting upon it with the intention of benefiting their shareholders; an offshore endeavour that was not economic without PIP; and the termination of PIP by the federal government. Its advantages were the possibilities of ultimately owning offshore drilling acreage and a depreciated but operative Bow Drill 3. Both of these were in jeopardy the moment that PIP was cancelled. There is no evidence that BVRS and HOL obtained any offshore acreage or if they could have afforded it if it became available. The evidence is that Bow Drill 3 itself was a bad investment. It very nearly broke BVRS. It became the subject of a standoff among EDC, BVRS and HOL. It was finally determined by them based upon the proposal and terms agreed to by HOL and BVRS on October 3, 1988.
+
+[35] By October 3, 1988, as confirmed on October 7, it was clear that EDC would require a complete payment out with a discount and that HOL was the only party that could pay. However, BVRS had 65% of Bow Drill 3 and therefore was in control. It was also liable on the EDC loan. It had an additional loan into Bow Drill 3 and it was for all practical purposes insolvent, in part because of the Bow Drill 3 debacle and loans. Getting rid of these liabilities for millions of dollars would solve many of BVRS's problems and it had a lever – control of the 65%. EDC's lever was the security on Bow Drill 3 which made it uneconomic. HOL had the money, liability for 35% and more and had made offers to buy its way out which were not accepted. It had to send good money after bad money and it had to remove BVRS from its liability in order to obtain control. The result was not an arrangement by one controlling hand. It was a negotiated deal between two public corporations and EDC which had to satisfy the commercial requirements of all the parties, each of which faced major repercussions if the negotiations were not successful. In these circumstances the concepts described by Linden, J.A. on behalf of the entire panel of the Federal Court of Appeal in Enno Tonn et al v. The Queen, 96 DTC 6001 respecting businessmen's right to make business decisions without interference have a place. In this case, EDC, BVRS and HOL, which were at arm's length from each other, engaged themselves in a business enterprise and their expectations of profit were reasonable. Bow Drill 3 was launched after a careful market analysis based upon NEP and PIP. Soon after the federal government withdrew NEP and PIP. Bow Drill 3's situation became precarious. BVRS and its corporations became insolvent as a result. EDC accepted the fact that it was going to lose money. HOL accepted the fact that it was going to lose money. Each tried to minimize its loss within the provisions of the law. Each had made an honest error in judgment and lost money instead of earning it. This reassessment arose as a result of these parties, together, taking measures to counteract the unexpected losses which the venture presented. Moreover, they did so while a possible deal might be struck with either Maersk or the Chinese. Together BVRS and HOL negotiated the Partnership. Together they negotiated a deal that transferred Bow Drill 3 to the Partnership. As a result subsection 85(5.1) of the Income Tax Act transferred Bow Drill 3's undepreciated capital cost to the Partnership. Together they agreed that HOL would pay out EDC at what they both knew would be a loss on the sale of Bow Drill 3 based upon the prices then proposed by the Chinese and Maersk. Both suffered losses as did EDC. All of them survived. They were commercial transactions for commercial purposes from beginning to end.
+
+[36] The Partnership was in the interest of both HOL and BVRS. HOL retained security over BVRS until BVRS had done everything HOL wanted including the sale of its BVHOHL loan for $1 – a direct loss for BVRS. HOL retained BVRS's guarantee until Bow Drill 3 was sold or until December 16, 1988 whichever occurred first (Exhibit A-4, Tab -175, page 2, paragraph 2). BVRS retained legal control over Bermuda. Bow Drill 3 was sold on December 1, 1988 and HOL bought the BVHOHL loan on December 16, 1988.
+
+[37] Under section 245 a tax benefit must occur within the definition of subsection (1) as a consequence of an avoidance transaction within the meaning of subsection (3). For 1988 subsections 245(1), (2) and (3) read:
+
+245: Definitions.
+
+(1) In this section and in subsection 152(1.11),
+
+“tax benefit”. – "tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+“tax consequences”. – "tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by, or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+“transaction”. – "transaction" includes an arrangement or event.
+
+(2) General anti-avoidance provision. - Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+(3) Avoidance transaction. - An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+[38] The primary and bona fide purposes to form the Partnership and to transfer Bow Drill 3 to it were so that HOL could remove the EDC security from Bow Drill 3 and at the same time maintain BVRS as liable. Then Bow Drill 3 became economic and could be sold at HOL's discretion in return for releasing BVRS. The Partnership and its collateral contracts gave them equal legal leverage, whereas Bermuda as controlled by BVHOHL gave the insolvent BVRS control. BVRS retained sufficient control to negotiate with the Chinese despite the fact that HOL felt that was less advantageous than a possible sale to Maersk. These were legal transactions with a commercial purpose for all of the parties. They were undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit. Thus they fall into the exception set out in paragraph 245(3)(a).
+
+[39] When these transactions were accomplished subsection 85(5.1) of the Income Tax Act required the undepreciated capital cost of Bow Drill 3 to becomethe Partnership's since the fair market value of Bow Drill 3 had fallen below its undepreciated capital cost. That fall in value can in small measure be blamed on the world decline in the price of oil. But the main reason for the fall in the value of Bow Drill 3 is the removal of PIP by the Government of Canada which created PIP and encouraged BVRS and HOL to build Bow Drill 3 and to engage in offshore drilling which was not economical without PIP.
+
+[40] These reasons for judgment are not based upon the transitional provisions in GAAR and therefore it is not necessary to deal with issue (3) described by the Respondent in paragraph [2] of these Reasons.
+
+[41] The appeal is allowed. The Appellant is awarded party and party costs.
+
+Signed at Saskatoon, Saskatchewan this 22nd day of December, 1998.
+
+"D.W. Beaubier"
+
+J.T.C.C.
+

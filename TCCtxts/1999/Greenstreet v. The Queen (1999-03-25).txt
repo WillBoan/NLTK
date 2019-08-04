@@ -1,0 +1,114 @@
+Date: 19990324
+
+Docket: 97-1470-IT-I
+
+BETWEEN:
+
+RICK GREENSTREET,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Sarchuk J.T.C.C.
+
+[1] This is an appeal by Rick Greenstreet (the Appellant) from an assessment of tax with respect to his 1995 taxation year.
+
+[2] In computing his income the Appellant deducted an amount of $32,159 as an allowable business investment loss (ABIL). The Minister of National Revenue (the Minister) in assessing the Appellant disallowed that deduction but allowed a net capital loss of $5,794 for the 1995 taxation year. In so assessing, the Minister made the following assumptions of fact:
+
+a) the Appellant incurred business investment losses in the amounts of $12,441 for 1989 and $31,822 for 1990;
+
+b) the Appellant had previously been allowed a capital gains deduction in the amount of $24,879 in 1986;
+
+c) to determine the reduction in the Appellant's business investment loss for each of the years 1989 and 1990, the Minister was required under subsection 39(9) of the Income Tax Act (the "Act"), to reduce the amount of the business investment loss by twice the amount of the capital gains deduction claimed under section 110.6 of the Act in a prior taxation year, to the extent that such an amount had not previously been applied in this manner in respect of other dispositions;
+
+d) as a result of the application of subsection 39(9) of the Act, and pursuant to subparagraph 39(1)(c)(viii) of the Act, the Appellant's business investment losses incurred in 1989 and 1990 were reduced to NIL, as indicated in Schedule A attached;
+
+e) as a result of the application of subsection 39(9) of the Act, the Appellant had no allowable business investment loss deductible for the 1995 taxation year;
+
+f) as a result of the application of subsection 39(9) of the Act, the Appellant's net capital loss available to be carried over to the 1995 taxation year was $32,159;
+
+g) the Appellant reported a taxable capital gain of $5,794 in the 1995 taxation year;
+
+h) the Appellant was entitled to deduct a net capital loss of $5,794 in 1995.
+
+[3] Two transactions gave rise to the Appellant's claims. With respect to the first, it is not disputed that the Appellant was at all relevant times the majority shareholder of a Canadian-controlled private corporation, Echo Kinetics Inc. (Echo), which had carried on a garage business for several years including 1989 and 1990 and was subsequently sold. On disposition, approximately $32,190 was recorded in the "due to shareholder" account in Echo's books. This unrecovered amount represented the Appellant's unpaid wages which had been loaned back to the corporation. The Appellant declared these wages in his yearly income tax returns and paid tax on these amounts.[1]
+
+[4] With respect to the second transaction, in 1989, the Appellant invested the amount of $20,000 in a guaranteed mortgage with Coulter Corporation (Coulter) of Ottawa, a mortgage investment syndicate. The corporation went bankrupt and the Appellant sustained a loss in the amount of $12,441.
+
+[5] The Appellant's position is that the losses incurred in the 1989 and 1990 taxation years, although treated as an ABIL in his returns of income for those years, were actually non-capital losses. In his submissions, the Appellant compared the wages lost which were owed to him by Echo in 1989 to the income he earned in the 1995 taxation year. He summed up his position thus: "As my wages earned were taxed full force, I would choose to treat my wages lost as negative wages earned and thus offset them against other earned income to gain tax relief status equal to the tax liability they incurred". His submissions, as I understood them, were that because the income from "the joint venture" (i.e. Echo) was treated as business income for tax purposes, the lost wages owed to him by Echo should be treated as a non-capital loss rather than as an ABIL, on the basis that each source of income was similar.
+
+[6] With respect to the monies invested with Coulter, the Appellant first sought to establish that this amount was a loan to an individual. He tendered a copy of a promissory note indicating that the amount of $10,000 with interest at 14% per annum was payable to him and testified that he had received a similar document with respect to the remaining $10,000. In the course of the hearing, the Court indicated that the evidence fell far short of establishing that the amount was such a loan. However, as was observed by Counsel for the Respondent, whether the amount was a loan or another type of investment is not determinative since in either case, the resulting loss was a capital loss. The Appellant then argued that the monies owed to him by Coulter were not on account of capital, but on account of business income because it was structured as a loan which paid interest.
+
+[7] With respect to the 1990 losses (the unpaid wages), the Act stipulates with respect to employment income that taxes will be paid on such income when it is received by the taxpayer in the year.[2] As was observed by Counsel for the Respondent, the fact that the Appellant paid taxes on his wages indicates that they were received despite the fact that the payments may have been purely notional on some occasions. For the purposes of the Act, the wages were received and then loaned to Echo. The Appellant's testimony clearly indicated that the amounts in dispute appeared on the corporation's financial records as an amount due to the shareholder.
+
+[8] In Easton et al v. The Queen et al,[3] the Court held that:
+
+As a general proposition, it is safe to conclude that an advance or outlay made by a shareholder to or on behalf of the corporation will be treated as a loan extended for the purpose of providing that corporation with working capital. In the event the loan is not repaid the loss is deemed to be of a capital nature for one of two reasons. Either the loan was given to generate a stream of income for the taxpayer, as is characteristic of an investment, or it was given to enable the corporation to carry on its business such that the shareholder would secure an enduring benefit in the form of dividends or an increase in share value. As the law presumes that shares are acquired for investment purposes it seems only too reasonable to presume that a loss arising from an advance or outlay made by a shareholder is also on capital account. ...
+
+[9] I am satisfied that the Appellant's loan to the corporation was for the purpose of providing working capital. Accordingly, it was of a capital nature and the resulting losses are capital losses.
+
+[10] With respect to the Coulter investment, I am satisfied that the Appellant's intention in advancing the funds was to invest in the mortgage corporation as an income-producing asset. There was no intention to trade and earn a profit and, therefore, the investment was on account of capital, and the loss is a capital loss. Generally a loan made by a person who is not in the business of lending money will be considered to be an investment. However, in exceptional or unusual circumstances, the granting of a loan can be characterized as trade. The Appellant was not in the business of lending money and adduced no evidence of exceptional circumstances. Furthermore, the facts do not lend themselves to a consideration of the two recognized exceptions to the general proposition that loans are on capital account, which were enunciated in Easton et al v. The Queen et al.[4]Since I have concluded that the amount advanced to Coulter was on capital account, the losses incurred as a result of the bankruptcy are accordingly capital losses.[5]
+
+[11] Allowable business investment losses are certain types of capital losses which are afforded preferential treatment under the Act. They may be set off against any income, unlike capital losses which may only be set off against capital gains, and as well they receive preferential carry-forward treatment. The purpose of the rule is to encourage investment in small business corporations. The Appellant, in my view, has been unable to come to grips with this distinction as evidenced by his argument which was essentially premised on the assumption that allowable business investment losses were non-capital losses. They are not. Subsection 39(9) of the Act operates to provide for the reduction in a taxpayer's business investment loss until he has realized business investment losses equal to previous years' capital gains which are eligible for the capital gains exemption under section 110.6. The legislative intent of these provisions appears to be that where a taxpayer has already received the benefit of a capital gains exemption, Parliament saw fit to limit the benefit a taxpayer may then receive from the ABIL provisions. If an individual has realized a capital gain and claimed the capital gains exemption, he will not be able to claim an ABIL until the business investment losses of the taxpayer are greater than the capital gains exemption that was claimed.
+
+[12] I am satisfied that the Minister correctly determined that these losses were on capital account. He then determined that the losses were allowable business investments losses. The operation of subsection 39(9) of the Act acts to reduce the allowable business investment loss to nil as a result of the capital gains exemption previously claimed by the Appellant. The result is that the Appellant has a net capital loss which can be used to reduce capital gains in other years. The Minister's calculations with respect to this Appellant's entitlement under subsection 39(9) were set out in Schedule A to the Reply as follows:
+
+Calculation of Reduction in Business Investment Loss for 1989
+
+The lesser of (A) and (B)
+
+Business Investment for 1989 – 39(9)(a)(i) $12,441 (A)
+
+Capital gain deduction claimed in 1986 $24,879
+
+Twice the amount of $24,879 – 39(9)(b)(i) $49,758 (B)
+
+Reduction in Business Investment Loss for
+
+1989 – Lesser of (A) and (B) $12,441
+
+Calculation of Reduction in Business Investment Loss for 1990
+
+The lesser of (A) and (B)
+
+Business Investment for 1990 – 39(9)(a)(i) $31,822 (A)
+
+Total capital gain deduction claimed in 1986 $24,879
+
+Twice the amount of $24,879 – 39(9)(b)(i) $49,758
+
+Minus: amount determined under 39(9)(b)(ii) $12,441
+
+$37,317 (B)
+
+Reduction in Business Investment Loss for
+
+1990 – Lesser of (A) and (B) $31,822
+
+[13] The Appellant did not adduce any evidence to rebut the Minister's assumption that the Appellant had claimed and was allowed a capital gains deduction in the amount of $24,879 in the 1986 taxation year. In my view, therefore, the Minister was correct in applying subsection 39(9) of the Act and correct in calculating the reduction of the Appellant's business investment loss down to nil. Although the Appellant is not entitled to any benefit under the ABIL provisions, he can still apply the existing capital loss against capital gains in the year. Indeed, the Minister in assessing did apply a net capital loss against capital gains in that year and there is no issue in regard to the Appellant's entitlement thereto.
+
+[14] Accordingly, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 24th day of March, 1999.
+
+"A.A. Sarchuk"
+
+J.T.C.C.
+
+[1] The parties do not agree whether this amount was in respect of the 1989 or 1990 taxation year but accepting that this amount is available to be carried forward from either of these years, it is not relevant for the purposes of this appeal.
+
+[2] Subsection 5(1).
+
+[3] 97 DTC 5464 at 5468.
+
+[4] 92 DTC 6218 at 6221 (F.C.T.D.), aff'd in 97 DTC 5464 (F.C.A.). See also M.N.R. v. Henry J. Freud, 68 DTC 5279 (S.C.C.) and M.N.R. v. Foreign Power Securities Corp. Ltd., 67 DTC 5084 (S.C.C.).
+
+[5] It should be observed that the Minister concluded that these capital losses fell within the definition of paragraph 39(1)(c) and determined that they were business investments losses. This determination is not in issue.
+

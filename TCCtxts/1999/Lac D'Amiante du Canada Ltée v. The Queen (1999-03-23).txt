@@ -1,0 +1,346 @@
+Date: 19990319
+
+Docket: 96-344-IT-G
+
+BETWEEN :
+
+LAC D'AMIANTE DU CANADA LTÉE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Archambault, J.T.C.C.
+
+[1] Lac d'amiante du Canada Ltée (New LAQ) has appealed from a notice of assessment issued by the Minister of National Revenue (Minister) under the Income Tax Act (Act) in respect of the 1989 taxation year. The Minister increased the proceeds of disposition of certain mining assets which New LAQ sold on July 26, 1989, to a sister company, LAQ Canada Ltd. (LAQ Canada). The Minister added $2,019,452 to the $6,097,230 proceeds of disposition previously established.
+
+[2] New LAQ contends that this $2,019,452 is in fact the proceeds of disposition of other assets (current assets) sold at cost. Consequently, its income should not be increased. Resolution of this dispute will largely depend on how the contract of sale (agreement) of July 26, 1989, is to be interpreted, and more particularly, on the subject matter of that agreement, that is, what were the assets that New LAQ transferred to LAQ Canada, and did they include the current assets?
+
+Facts
+
+[3] New LAQ is a company incorporated under Quebec legislation. On July 26, 1989, it was a wholly-owned subsidiary of an American company, Lac d'amiante du Québec Limitée (Old LAQ). That company was itself a subsidiary of another American company, Asarco Incorporated (Asarco). Like New LAQ, LAQ Canada was a wholly-owned subsidiary of Old LAQ. Despite the impression that its corporate name may give, LAQ Canada, like Old LAQ, was a company incorporated under American legislation.
+
+[4] Before the sale of July 26, 1989, New LAQ, through a limited partnership, operated an asbestos mine (asbestos mine) at Black Lake, Quebec. At the time of the sale, New LAQ also owned other mining assets, including a gold-bearing property in Ontario (Aquarius mine). Although the internal financial statements for an eight-month period ending in August 1989 show sales of $3,619,388 for the Aquarius mine, that mine was not yet at the commercial production stage, but was still in the exploration stage.
+
+[5] On the Aquarius mine site there were a mill, machinery and equipment. Among the other assets of New LAQ connected with that mine were the following current assets:
+
+Cash
+
+$ 318,277
+
+Accounts receivable – trade
+
+– others
+
+$ 884,876
+
+$ 4,875
+
+Inventory
+
+$ 769,453
+
+Other current assets
+
+$ 20,258
+
+Supplies
+
+$ 21,713
+
+TOTAL
+
+$2,019,452
+
+[6] On June 8, 1989, Old LAQ signed a letter of intent with Jean Dupéré confirming Mr. Dupéré’s intention of acquiring, either personally or through a company, all the shares of New LAQ. However, at the time of that acquisition, New LAQ’s assets were to be limited to the asbestos mine. All other assets, including the Aquarius mine, certain mining assets unrelated to the asbestos mine and the current assets, were to be transferred in part to LAQ Canada and in part to Old LAQ.
+
+[7] To give effect to the letter of intent, New LAQ, LAQ Canada and Old LAQ signed the agreement of July 26, 1989. All the properties sold to LAQ Canada are referred to as “Exploration Properties” and the list showing each of those properties appears in a schedule to the agreement. For the purposes of that agreement, the Aquarius mine and the mining assets designated as “Exploration Projects” constitute “Exploration Properties”.
+
+[8] The schedule to the agreement enumerates, in two sections, all the “Exploration Properties”. The first section lists the assets that comprise the Aquarius mine; they include the mill (9),[1] the machinery and equipment (surface (10) and underground (13)) and certain mining concessions (11). The current assets are not shown. The second section lists the “Exploration Projects”, which include mining assets (other than the Aquarius mine) owned either directly (29) or indirectly (9).
+
+[9] The agreement stipulates that the “Exploration Properties” are being sold for a total of $9,500,000 CAN and that this sum represents their fair market value.
+
+[10] The properties transferred to Old LAQ are described in three separate paragraphs of the agreement; the first two refer to specific properties that are not relevant here. On the other hand, the third paragraph describes all the other properties owned by New LAQ with the exception, of course, of the “Exploration Properties” transferred to LAQ Canada and the asbestos mine that New LAQ was keeping. The agreement stipulates that these properties are being transferred to Old LAQ for a price equal to their book value.
+
+[11] In view of the importance of this agreement to the outcome of this appeal, it is essential that the most relevant provisions be quoted here:
+
+AND WHEREAS pursuant to the letter of Intent New LAQ proposes to sell to LAQ Canada all its right, title and interest in and to its Aquarius mine and the exploration projects described in Schedule A hereto (collectively the "Exploration Properties") and New LAQ proposes to sell to Old LAQ the balance of assets to be sold to Old LAQ pursuant to the Letter of Intent.
+
+NOW THEREFORE in consideration of the foregoing and of the mutual covenants and agreements herein contained, the parties hereby agree as follows:
+
+1. New LAQ hereby sells to LAQ Canada which hereby purchases all New LAQ's right, title and interest in and to the Exploration Properties for C$9,500,000, being the fair market value thereof, such amount being payable at the closing of this agreement, and LAQ Canada hereby assumes all obligations of New LAQ in connection with the Exploration Properties.
+
+2. New LAQ hereby transfers to Old LAQ which hereby accepts the transfer of all New LAQ's right, title and interest in and to:
+
+2.1 . . .
+
+2.2 . . .
+
+2.3 all other assets of New LAQ except the Exploration Properties and New LAQ's right, title and interest in LAB and company, limited, in LAB Chrysotile Inc. and in the Joint Venture Agreement (including the Mining Assets but excluding the assets referred to in 2.1 and 2.2) for a price equal to the book value thereof payable at the closing of this Agreement.
+
+[Emphasis mine.]
+
+Audit by the Minister
+
+[12] When auditing New LAQ’s accounts, the Minister’s auditor obtained from Sally Hunt, an employee of Asarco, certain information (Ms. Hunt’s figures) relating to the breakdown of the $9,500,000 proceeds of disposition from the sale of the “Exploration Properties” by New LAQ to LAQ Canada. The following are the details of that breakdown:
+
+Allocation of Sale Price to Aquarius Assets upon transfer
+
+C$
+
+Cash 318,277 a
+
+Accounts Receivable – Trade 884,876 a
+
+Accounts Receivable – Other 4,875 a
+
+Inventory 769,453 a
+
+Other Current Assets 20,258 a
+
+Mineral Land # 1 3,357,789 b
+
+Mineral Land # 2 2,739,441 b
+
+Building & Equipment 71,213 c
+
+Machinery & Equipment 1,254,292 c
+
+Automobiles 57,813 c
+
+Supplies 21,713 a
+
+9,500,000
+
+[13] All of these assets may be divided into three separate categories: (i) mining assets, (ii) mill, machinery and equipment, and (iii) current assets. If we arrange Ms. Hunt’s figures so that they are divided into only these three categories, we get the following result:
+
+Mining assets (= total of “b”s) $6,097,230
+
+Mill/machinery and equipment (= total of “c”s) $1,383,318
+
+Current assets (= total of “a”s) $2,019,452
+
+TOTAL $9,500,000
+
+[14] The Minister’s auditor accepted that breakdown and made an assessment based on the assumption that all these assets, including the current assets, had been sold to LAQ Canada for $9,500,000. The auditor did not see fit to obtain an independent evaluation of the mining assets sold by New LAQ to LAQ Canada because he regarded those assets as difficult to value and it would have been quite expensive to get an evaluation.
+
+[15] The Minister’s auditor subsequently received additional information (Mr. Dowd’s figures) dealing with assets whose names correspond generally to those used in the schedule to the agreement to describe the “Exploration Properties”, and whose market value is $9,500,000. Contrary to the situation in respect of Ms. Hunt’s figures, current assets do not appear among the assets in Mr. Dowd’s figures. It is therefore not surprising that the fair market value of the mining assets and the mill, machinery and equipment is also higher in his figures.
+
+[16] Mr. Dowd’s figures are set out in a fax (Mr. Dowd’s fax) dated October 19, 1993, which shows William Dowd as the sender and Mr. D.P. Morin, comptroller of New LAQ, as the recipient. I reproduce a portion of those figures here:
+
+ASARCO INCORPORATED
+
+Sale of Lac D'Amiante du Canada, Ltée.
+
+Calculation of fair market value
+
+Canadian properties distributed to U.S. shareholder
+
+Mineral Land 1,520,000
+
+Mill 2,100,000[2]
+
+Mining Equipment - Underground 400,0002
+
+- Surface 790,0002
+
+Projects and joint ventures 4,690,000
+
+C$ 9,500,000
+
+Exchange rate at date of transfer 0.847
+
+Fair market value $8,046,500
+
+[17] If I alter the way the figures are set out so that they can be compared with Ms. Hunt’s figures, the result is as follows:
+
+Per M. Dowd Per Ms. Hunt Difference
+
+Mining assets
+
+Mineral land $1,520,000 $3,357,789[3]
+
+Projects and joint ventures $4,690,000 $2,739,441[4]
+
+Subtotal (1): $6,210,000 $6,097,230 $ 112,770
+
+Mill, machinery and equipment[5]
+
+Mill $2,100,000
+
+Mining equipment - underground $ 400,000
+
+- surface $ 790,000 __________
+
+Subtotal (2): $3,290,000 $ $1,383,318 $1,906,682
+
+Current assets (3) N/A $2,019,452 ($2,019,452)
+
+TOTAL (1+2+3) $9,500,000 $9,500,000
+
+[18] Attached to Mr. Dowd’s fax there are several evaluations prepared by personnel of the Asarco group. The first relates to the Aquarius mine mineral land, which is referred to as “Mineral Land” in Mr. Dowd’s figures. That evaluation was done by Mr. Houtman, the director of the Aquarius division of New LAQ. The evaluation, which is addressed to Asarco, is dated November 29, 1988, that is, eight months before the July 26, 1989 sale. Mr. Houtman put the “current pre-tax value” of the mining asset at $3,040,000 and the “current after-tax value” at $1,520,000.
+
+[19] There is also an evaluation of the fair market value of the mill as a separate business. That value is estimated at $2,100,000. As well, there is a detailed evaluation of the underground equipment and surface equipment. The total value of the underground equipment (12 assets or categories of assets) was put at $400,000, and the total value of the surface equipment (10 assets or categories of assets) was put at $790,000.
+
+[20] According to Mr. Dowd’s figures, the fair market value of the assets described as “Projects and joint ventures” is $4,690,000. However, not all the documents supporting that value are attached. Only a portion of those assets was evaluated, by a Mr. Gray, on November 22, 1988, a few days before Mr. Houtman’s evaluation. The fair market value of the assets that were so evaluated is shown as $2,567,900 US. If one uses the same exchange rate as was used in Mr. Dowd’s figures, namely 0.847, that amounts to $3,031,759 CAN.
+
+[21] It should be noted that this fair market value includes the fair market value of a project that is not on the list of “Exploration Projects” attached to the agreement, that being the Ox project, with an estimated value of $15,400. In addition, the value of a project called “Lac Mitaine”, and of nine projects numbered 21 to 29 on the list of “Direct Projects” attached to the agreement, is not included in Mr. Gray’s evaluation.
+
+[22] The Minister’s auditor felt that the fair market value of the “Mineral Land” shown in Mr. Dowd’s figures was wrong. According to him and the evaluation experts in his Department whom he consulted, the current pre-tax value of $3,040,000 should have been used, and not the current after-tax value of $1,520,000. If we use the $3,040,000 value instead of $1,520,000, the total value of the mining assets sold by New LAQ to LAQ Canada would be $7,730,000 rather than $6,210,000. If we add to that sum $3,290,000 for the value of the mill, machinery and equipment, the total value of the “Exploration Properties” sold to LAQ Canada would be $11,020,000.
+
+[23] After receiving Mr. Dowd’s figures, the Minister’s auditor decided to reassess on the basis that the “Exploration Properties” did not include the current assets, and that the fair market value of the mining assets (determined to be $6,097,230 in the preceding assessment) had to be increased to $8,116,682, an increase of $2,019,452. That figure is the same as the one given by Ms. Hunt as the value of the current assets.
+
+[24] The Minister’s auditor based his conclusion that the “Exploration Properties” sold to LAQ Canada did not include the current assets on the terms of the agreement. None of the current assets is shown among the assets described in the schedule to the agreement. According to the auditor, they were in fact included in the assets sold by New LAQ to Old LAQ.
+
+[25] Even though he could have increased the value of the “Exploration Properties” to $11,020,000, the auditor agreed to limit it to $9,500,000, the value shown in the agreement. He altered Ms. Hunt’s breakdown, which he had initially accepted, by excluding the value of the current assets and reallocating that value in full to the mining assets. He thus retained the $1,383,318 value shown by Ms. Hunt for the mill, machinery and automobiles, and consequently rejected the fair market value of $3,290,000 shown in Mr. Dowd’s figures for those assets. The Minister’s auditor therefore assumed that New LAQ had understated the value of the mining assets sold to LAQ Canada and not the value of the mill, machinery and equipment.
+
+New LAQ’s argument
+
+[26] Counsel for New LAQ challenged the assessment made by the Minister’s auditor. They contended that New LAQ sold to LAQ Canada not only the assets that are expressly referred to in the schedule to the agreement, but also the current assets, because, in their submission, these were assets used in the operation of the Aquarius mine. They argue that it would have been illogical for New LAQ to have transferred its current assets, including inventory, to Old LAQ, when the Aquarius mine had been sold to LAQ Canada.
+
+[27] Before examining the soundness of New LAQ’s arguments, it is important to point out that its counsel had some problems in presenting their evidence: they had difficulty getting access to relevant documents in the possession of the Asarco group, including those concerning New LAQ. It should be pointed out that at the time the sale went through, New LAQ was a subsidiary of Old LAQ. It was therefore part of the Asarco group. At the time of the assessment, New LAQ was no longer part of that group. In addition, relations between New LAQ and the Asarco group, including Old LAQ and LAQ Canada, have deteriorated significantly since the July 26, 1989 sale. Legal proceedings have even been initiated by the two sides.
+
+[28] Apart from the Minister’s auditor, the only witness that New LAQ summoned to appear was William Dowd, an American citizen who was, at the time of his testimony, the comptroller of Asarco and president of Old LAQ. Mr. Dowd refused to come to Canada to testify, and I had to make an order for a commission so that he could be examined in New York. That order was made executory by the Supreme Court of the State of New York. Because counsel for Asarco and Mr. Dowd challenged the procedure at a late date, the first hearing of the commission was held without Mr. Dowd being present. Mr. Dowd subsequently agreed to appear before me in my capacity as commissioner on December 1, 1998, in New York.
+
+[29] However, Mr. Dowd was unable to enlighten me much as to the transactions that occurred in 1989. On the other hand, it must be noted that he had not been involved in either working out or executing those transactions. In fact, at the time of the sale on July 26, 1989, he had only been working for Asarco for a month. On that date, Mr. Dowd was Asarco's assistant comptroller responsible for tax matters, and he had no other duties within the Asarco subsidiaries.
+
+[30] With regard to a number of questions, Mr. Dowd was evasive or unable to answer. His testimony was even contradictory. At one point, he said that his understanding was that all of the assets relating to the Aquarius mine had been transferred to LAQ Canada. At another point, he was unable to confirm to whom the cash and accounts receivable included in the current assets had been transferred.
+
+[31] In support of its argument, New LAQ produced worksheets describing the accounting treatment of the assets by New LAQ and, it contended, by LAQ Canada. One of those worksheets shows figures taken from the New LAQ trial balance statement, including the accounting entries resulting from the July 26, 1989 sale of the various assets of the Aquarius mine. That worksheet does not indicate to whom the Aquarius mine assets were transferred.
+
+[32] The worksheet and the New LAQ financial statements show that the book value (before depletion and depreciation) of the mining assets (which are described as “Mineral land # 1” and “Mineral land # 2”) totals $15,515,392, and that after depletion, depreciation and adjustment to reflect the disposition of those mining assets, that value was adjusted downward, resulting in a loss of $6,702,301, which New LAQ changed off in its statement of income and expenses. The New LAQ worksheet shows the same value for the current assets as that established by Ms. Hunt in her figures.
+
+[33] Another document (Exhibit A-2) sets out the following accounting entries:
+
+JOURNAL ENTRY FOR SALE OF AQUARIUS TO LAQ CANADA LTD.
+
+DEBIT CREDIT
+
+INTERCOMPANY ACCOUNT – LAQ 7,056,538
+
+ACCUM DEP'N – B & E 27,534
+
+ACCUM DEP'N – M & E 310,943
+
+ACCUM DEP'N – AUTOS 44,538
+
+ACCUM DEPL. MINERAL LAND #1 1,281,644
+
+ACCUM DPEL. MINERAL LAND #2 1,045,701
+
+ACCRUED EXPENSES 5,501
+
+INTERCOMPANY ACCOUNT 21,540,865
+
+LOSS ON AQUARIUS TRANSFER 6,702,301
+
+INTERCOMPANY ACCOUNT – FMC 17,917,966
+
+SUBSIDIARIES CAPITAL 1,199,437
+
+CASH 318,277
+
+ACCOUNTS RECEIVABLE – TRADE 884,876
+
+ACCOUNTS RECEIVABLE – OTHER 1,502
+
+INVENTORY 769,453
+
+OTHER CURRENT ASSETS 20,258
+
+MINERAL LAND #1 8,544,439
+
+MINERAL LAND #2 6,970,953
+
+BUILDING & EQUIPMENT 71,213
+
+MACHINERY & EQUIPMENT 1,254,292
+
+AUTOMOBILES 57,813
+
+SUPPLIES 21,713
+
+ACCOUNTS PAYABLE 3,373
+
+Here, as on the New LAQ worksheet, we see the current assets, with a total book value of $2,019,452.
+
+[34] When Mr. Dowd was examined on Exhibit A-2, he was unable to say who had prepared it, when it was prepared and whether it came from LAQ Canada. In addition, he was unable to produce LAQ Canada’s financial statements at the hearing, even after undertaking to look for them in his records at Asarco.
+
+Analysis
+
+[35] At the time of the sale of the “Exploration Properties” by New LAQ to LAQ Canada, those two companies were not dealing with each other at arm’s length: they were both subsidiaries of Old LAQ. Under section 69 of the Act, any person who has disposed of property to another person with whom the person was not dealing at arm’s length is deemed to have received consideration equal to the fair market value of the property.
+
+[36] Here, the Minister has determined the fair market value for the mining assets to be $8,116,682. New LAQ argued that the fair market value was actually $6,097,230. New LAQ could have called expert evidence to establish that value. If it had been successful in so doing, New LAQ would have won its case. However, for reasons that were not disclosed, New LAQ did not adopt that strategy; rather, it chose to go about things in a different manner.
+
+[37] It preferred to produce its evidence on that point indirectly. In his assessment, the Minister acknowledged that the total fair market value of the “Exploration Properties” was $9,500,000, that the fair market value of the mill, machinery and equipment was $1,383,318 and that the fair market value of the current assets was $2,019,452. New LAQ therefore attempted to establish that the value of the mining assets was $6,097,230 by subtracting the value of all the other property from the $9,500,000 value of the “Exploration Properties”.
+
+[38] However, in order to succeed in this, New LAQ would have had to be certain that the value of the current assets could be deducted from the $9,500,000. Because that figure is taken from clause 1 of the agreement, it is essential to determine whether it includes the value of the current assets. In order to answer that question, it must first be determined whether the current assets are part of the “Exploration Properties”.
+
+[39] What do those properties include? The best evidence available to me for disposing of this question is the agreement itself. Careful reading of that agreement clearly reveals that the current assets are not part of the “Exploration Properties” as that expression is defined in the agreement. The “Exploration Properties” are the properties described in the schedule to the agreement. No mention of the current assets is made in that schedule. Even Mr. Dowd acknowledged in his testimony that the current assets are not described in that schedule.
+
+[40] Is it possible that the agreement is not an accurate reflection of the common intention of the parties, or that an error was made in describing the property sold by New LAQ to LAQ Canada? Taxpayers who wish to contradict a clearly-written document must meet a heavy onus. Only in exceptional cases will the courts hearing a tax case agree to disregard a duly signed agreement. That might happen, for example, if it were established that the parties had deliberately described the subject matter of a contract inaccurately.
+
+[41] No evidence was introduced at the hearing that could support any such hypothesis. None of the officers of New LAQ, LAQ Canada or Old LAQ who signed that agreement or who were involved in working out and executing the transactions contemplated by the agreement appeared as a witness to establish the true intention of the parties to the agreement. The only employee of the Asarco group who testified was Mr. Dowd who, unfortunately, had played no part in those transactions and so had no direct knowledge of them.
+
+[42] The only factual evidence that might support the assertions made by New LAQ is Exhibit A-2. That document gives the impression that LAQ Canada acquired the current assets, but, in my view, no probative value can be placed on it. The author of that document did not testify. His or her testimony would have been important, to establish, for instance, whether the document relates to the sale of July 26, 1989, or to another transfer that may have taken place at a later date. Mr. Dowd did not even know who had drawn up that document, or when. He was not even able to confirm whether it originated with LAQ Canada. Mr. Dowd was also unable to produce LAQ Canada’s financial statements, which might have confirmed—at least from an accounting standpoint[6]—that the current assets appeared on the LAQ Canada balance sheet.
+
+[43] Having no factual arguments, counsel for New LAQ fell back on a rational argument. They contended that it would have been illogical to dispose of the Aquarius mine to LAQ Canada and at the same time transfer the current assets to Old LAQ. As we know, the current assets, including inventory, were used in operating the Aquarius mine. So, for example, why would New LAQ have transferred the Aquarius mine to LAQ Canada and the mine’s inventory to Old LAQ?
+
+[44] First of all, this kind of argument is not sufficient in itself to contradict the clear wording of an agreement such as the one we have here. That agreement was not handwritten on the edge of a table by people not accustomed to drawing up documents of this nature. On the contrary, the agreement was drafted carefully and professionally. Let us take, for example, the wording of clause 2.3 of the agreement, which is as follows:
+
+2.3 all other assets of New LAQ except the Exploration Properties and New LAQ's right, title and interest in LAB and company, limited, in LAB Chrysotile Inc. and in the Joint Venture Agreement (including the Mining Assets but excluding the assets referred to in 2.1 and 2.2) for a price equal to the book value thereof payable at the closing of this Agreement.
+
+[Emphasis mine.]
+
+When they stipulated that all other assets of New LAQ were transferred to Old LAQ, the parties were careful to exclude the “Exploration Properties” and the assets connected with the asbestos mine. In addition, when they referred to the “Joint Venture Agreement”, they were careful to include the “Mining Assets” and to exclude the assets referred to in paragraphs 2.1 and 2.2 of the agreement.
+
+[45] In addition, we must keep in mind the context in which this agreement was made. Although New LAQ and LAQ Canada were both subsidiaries of Old LAQ at the time of the sale, the purpose of making the sale was to give effect to the letter of intent by virtue of which Old LAQ transferred control of New LAQ to a new purchaser. It was therefore important to specify the assets that New LAQ was selling to LAQ Canada and to Old LAQ. Consequently, it is not surprising that a detailed list of the property being transferred to LAQ Canada would be provided in a schedule.
+
+[46] Lastly, it is far from certain that it is illogical that Old LAQ, the parent company of New LAQ and LAQ Canada, would have preferred to acquire the current assets of New LAQ itself. There are a number of factors that lead me to believe the contrary. First, in the preamble to the agreement, another transfer, which took place on June 18, 1986, is succinctly described. On that date, Old LAQ sold to New LAQ all its interests in its asbestos mine. The passage in question reads as follows:
+
+AND WHEREAS by Agreement ("Asset Sale Agreement") dated June 18, 1986, Old LAQ sold to New LAQ all its right, title and interest in and to all of its asbestos-related and other mining and mill properties, building, structures, machinery, equipment, accounts receivable, inventories, all of its rights under the Joint Venture Agreement and all other assets of any kind whatsoever as at the close of business on June 30, 1986 (with the exception only of shares it held in the capital stock of Francomet), the whole including all its right, title and interest in and to the Mining Property and all buildings, structures, machinery, equipment and other assets, (except inventories) used in connection with the Mining Property (collectively "Mining Assets").
+
+[Emphasis mine.]
+
+[47] Two points should be noted. The first is this: when Old LAQ sold all of its assets connected with the operation of its asbestos mine to New LAQ in 1986, it stipulated that the sale included not only all the buildings, machinery and equipment, but also the accounts receivable, inventories and all its other assets, which may include other current assets. The second point is even more significant than the first: when Old LAQ transferred its mining concession on Black Lake (the “Mining Property”), it expressly excluded its inventories. This fact therefore confirms not only that it is not always illogical to transfer a mine without its inventories, but that Old LAQ actually did so in 1986.
+
+[48] Old LAQ could therefore have repeated the same scenario with the sale on July 26, 1989. At that time it was still the parent company of New LAQ and it is reasonable to believe that Old LAQ played a decisive role in organizing that sale. It is therefore entirely plausible that Old LAQ had the genuine intention of acquiring the current assets connected with the operation of the Aquarius mine, including the inventories, itself. It must be remembered that the Aquarius mine had not yet reached the commercial production stage, and that an exploration program was under way. It is not implausible that Old LAQ would have believed that the Aquarius mine would not reach the commercial production stage in the short or medium term, and that it was more appropriate, from a commercial standpoint, to transfer the current assets of the mine to Old LAQ.
+
+[49] Even had New LAQ been able to establish that it had the genuine intention of transferring its current assets to LAQ Canada, it would also have had to be determined whether the fair market value of $9,500,000 shown in clause 1 of the agreement included the value of the current assets. That is ultimately where the resolution of this case had to be found, given the position taken by New LAQ. Even if it had been established that the current assets were omitted by mistake from the definition of “Exploration Properties”, it would have had to have been proved that the value stipulated in the agreement in fact included the value of the current assets.
+
+[50] Whether such evidence could have been presented may be doubted. If we consider to be sound the opinion of the evaluation experts consulted by the Minister’s auditor, according to which the value of the mining asset referred to as the “Mineral Land” in Mr. Dowd’s figures was $3,040,000 rather than $1,520,000, and if we add that value to the value of the “Projects and Joint Ventures”, namely $4,690,000, then the corrected value of the mining assets would be $7,730,000. If we add to that the value of the mill, machinery and equipment according to Mr. Dowd’s figures, the total value of the “Exploration Properties” would come to $11,020,000. In view of that total value, it is unlikely that the value of the current assets was included in the figure of $9,500,000 appearing in clause 1 of the agreement.
+
+[51] In my opinion, New LAQ has failed in its attempt to show that the Minister’s assessment is wrong. Not only has New LAQ not established that the value of the current assets was included in the value of the “Exploration Properties”, but it has not even succeeded in proving that the current assets were part of the “Exploration Properties” sold to LAQ Canada. Since New LAQ has provided no evidence that the fair market value of $8,116,682 which the Minister assigned to the mining assets is wrong, its challenge to the assessment cannot succeed.
+
+[52] For all these reasons, the appeal by New LAQ is dismissed with costs.
+
+Signed at Ottawa, Canada, this 19th day of March 1999.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 26th day of January 2000.
+
+Erich Klein, Revisor
+
+[1] The number in parentheses refers to the number of assets or categories of assets listed for each item.
+
+[2] The total value of these three assets is $3,290,000.
+
+[3] Ms. Hunt calls this mining asset “Mineral Land # 1”.
+
+[4] Ms. Hunt calls this mining asset “Mineral Land # 2”.
+
+[5] Ms. Hunt describes these assets as “Building & Equipment” ($71,213), “Machinery & Equipment” ($1,254,292) and “Automobiles” ($57,813).
+
+[6] I hasten to add that I am far from satisfied that, even had they been produced, those financial statements would have been sufficient, absent other evidence, to establish that the current assets were part of the “Exploration Properties”.
+

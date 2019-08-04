@@ -1,0 +1,222 @@
+Date: 19990406
+
+Docket: 97-618-IT-G
+
+BETWEEN:
+
+WARREN J.A. MITCHELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bell, J.T.C.C.
+
+[1] All references to sections are in respect of the Income Tax Act (the "Act").
+
+ISSUES:
+
+[2] The issue is whether the Appellant is, for his 1988, 1989 and 1990 taxation years, entitled to deductions in respect of Canadian explorations expense ("E")[1] and Canadian development expense ("D")[2] where,
+
+(a) A "joint exploration corporation" ("JEC") as defined in paragraph 66(15)(g) renounced E and D pursuant to subsections 66(10.1) and 66(10.2) to its shareholder corporation ("SC") as defined in paragraph 66(15(i), and
+
+(b) SC renounced that E and D to the Appellant under a "flow-through share" ("FTS") arrangement pursuant to subsections 66(12.6) and 66(12.62).
+
+FACTS:
+
+[3] The parties filed an AGREED STATEMENT OF FACTS which included the following statement:
+
+The parties agree that the questions of fact in this appeal will be limited to the following facts and to the attached documents, and that there will be no witness and no other documents produced during the hearing of this appeal.
+
+[4] It is agreed that:
+
+(1) JEC, was a "joint exploration corporation" within the meaning of paragraph 66(15)(g).
+
+(2) SC was a "shareholder corporation" within the meaning of paragraph 66(15)(i) and owned 51% of the voting rights of JEC.
+
+(3) The Appellant was a director and the sole shareholder of SC.
+
+(4) JEC was incorporated on December 30, 1987 and commenced business on June 9, 1988. Its taxation years ended on December 30, 1988, December 30, 1989 and December 12, 1990, it having been dissolved on this latter date.
+
+(5) SC was incorporated on December 30, 1987 and commenced business on June 9, 1988. Its taxation years ended on January 31 in each year commencing in 1989.
+
+(6) By agreement dated June 9, 1988 ("Renunciation Agreement"), JEC agreed to issue voting shares to SC for $300,000 and to incur E and D in that total amount and renounce to SC those expenses pursuant to subsections 66(10.1) and 66(10.2).
+
+(7) By agreement dated June 9, 1988 ("Flow-Through Agreement"), SC agreed to issue to the Appellant 300,000 common shares for $300,000, to incur $300,000 of E and D during the period commencing on June 9, 1988 and ending on February 28, 1990 and to renounce those expenses to the Appellant.
+
+(8) SC did not expend any of its funds on activities which qualified as E or D and hence did not itself incur any E or D between the above dates.
+
+(9) JEC incurred:
+
+(a) $154,909 of E in its 1988 taxation year,
+
+(b) $120,091 of E in its 1989 taxation year, and
+
+(c) $25,000 of D in its 1989 taxation year.
+
+(10) On May 29, 1989, JEC filed with Revenue Canada an election dated April 26 1989 to renounce E in favour of SC in the amount of $154,909 incurred by JEC before the end of its 1988 taxation year.
+
+(11) On April 28, 1989, SC filed with Revenue Canada, a prescribed form renouncing to the Appellant, effective December 31, 1988 ("1988 Renunciation"), the $154,909 of E incurred by JEC and renounced to SC.
+
+(12) On April 16, 1990, JEC filed with Revenue Canada an election dated April 12, 1990 to renounce E to SC in the amount of $120,091 incurred by JEC before the end of its 1989 taxation year and D of $25,000 incurred by JEC before the end of its 1989 taxation year.
+
+(13) On May 14, 1990, SC filed with Revenue Canada a prescribed form renouncing to the Appellant, effective December 31, 1989 ("1989 Renunciation"), $120,091 of E and $25,000 of D.
+
+(14) The Appellant added the amounts of $154,909 and $120,091 to his "cumulative Canadian exploration expense"[3] for his 1988 and 1989 taxation years respectively and the amount of $25,000 to his "cumulative Canadian development expense"[4] for his 1989 taxation year.
+
+(15) The Minister of National Revenue, for the Appellant's 1988, 1989 and 1990 taxation years, disallowed all such additions.
+
+The parties made written submissions to the Court, no hearing having been held.
+
+APPELLANT'S SUBMISSIONS
+
+[5] The Appellant's position is straight forward and clear. The pertinent portion of subsection 66(10.1) reads:
+
+A joint exploration corporation may, in any particular taxation year or within 6 months from the end of that year, elect in prescribed form in respect of that year to renounce in favour of another corporation an agreed portion of the aggregate of such of the joint exploration corporation's Canadian exploration expenses as were incurred by it during a period (ending before the end of the particular taxation year) throughout which the other corporation was a shareholder corporation ... and, on the making of the election, the said [expenses]... shall be deemed, for the purposes of paragraph 66.1(6)(a) and (b), to be a Canadian exploration expense incurred by the other corporation during its taxation year in which the particular taxation year ends ...".
+
+(emphasis added)
+
+There are analogous provisions for renounced D in paragraphs 66(10.2).
+
+[6] Paragraphs 66.1(6)(a) defines "Canadian exploration expense" of a taxpayer to be
+
+"any expense incurred ... that is"
+
+one of a number of defined expenses, the nature of none of which is in question in this case.
+
+[7] Counsel submits, therefore, that the E and D incurred by JEC become, under the deeming provisions, E and D incurred for all purposes by SC. Such E and D, by virtue of paragraphs 66.1(6)(b) and 66.2(5)(b), fall into SC's "cumulative Canadian exploration expense" and "cumulative Canadian development expense".
+
+[8] Counsel then says that by virtue of subsections 66(12.6) and 66(12.61), such E may be renounced and, by virtue of subsections 66(12.62) and 66(12.63), such D may be renounced to the Appellant, and are thereby deemed to be E and D incurred by the Appellant and never to have been incurred by SC. Those provisions[5] read as follows:
+
+66(12.6) Where a person has given consideration under an agreement to a corporation for the issue of a flow-through share of the corporation and, during the period commencing on the day the agreement was entered into and ending 24 months after the end of the month that included that day, the corporation has incurred Canadian exploration expenses, the corporation may ... in respect of the share and within that period or within 30 days thereafter, renounce, effective on the date on which the renunciation is made or on such earlier date as may be set out in the form prescribed ... to the person in respect of the share ... those expenses incurred by it during that period.
+
+[9] Subsection 66(12.61) reads:
+
+"Where a corporation renounces an amount to a person under subsection (12.6):
+
+(a) the Canadian exploration expenses to which the amount relates shall be deemed to be Canadian exploration expenses incurred in that amount by the person on the effective date of the renunciation; and
+
+(b) the Canadian exploration expenses to which the amount relates shall, except for the purposes of that renunciation, be deemed on and after the effective date of the renunciation never to have been Canadian exploration expenses incurred by the corporation."
+
+(emphasis added)
+
+Counsel then referred to subsection 66(12.67) which reads:
+
+"A corporation shall not renounce under any of subsections (12.6), (12.62) and (12.64) any expenses that are deemed to have been incurred by it by virtue of a renunciation under this section by another corporation that is not related to it."
+
+It is implicit in Counsel's submission that because SC controlled JEC, those two corporations were related within the meaning of the Act.
+
+[10] Appellant's Counsel, in his written submission, said that there is no debate that had SC actually incurred the expenses it could have renounced them to the Appellant. He further said that the effect of the deeming rule is that the expenses that were deemed to be incurred by SC are treated as if actually incurred by SC. He submitted that it is through deeming rules that Parliament indicates its intention to treat a thing as something that it is not. He then quoted from R. v. Verrette [1978] 2 S.C.R. 838 at 845:
+
+A deeming provision is a statutory fiction; as a rule it implicitly admits that a thing is not what it is deemed to be but decrees that for some particular purpose it shall be taken as if it were that thing although it is not or there is a doubt as to whether it is. A deeming provision artificially imports into a word or an expression an additional meaning which they would not otherwise convey beside the normal meaning which they retain where they are used; it plays a function of enlargement analogous to the word "includes" in certain definitions; however, "includes" would be logically inappropriate and would sound unreal because of the fictional aspect of the provision.
+
+ANALYSIS and CONCLUSION
+
+[11] I agree with the Appellant's submissions.
+
+[12] I shall set forth Respondent's main submissions together with my responses thereto.
+
+[13] Respondent's counsel suggested that the deeming provisions found in the joint exploration corporation rules are not broad enough to contemplate a "double renunciation" and that, therefore, the expenses claimed by the Appellant do not fit within the letter of the renunciation rules. She submitted that subsection 66(10.1) only deems the expenses to have been incurred by the "other corporation, in this case, SC, "for the purposes of paragraph 66.1(6)(a) and (b) of the Act". She then submitted that the deeming provisions were merely intended to be mechanisms to allow the "other corporation", in whose favour the renunciation was made, to treat the expenses as having been incurred by it for the purpose of calculating its various pools of expenses from which it could then claim its deductions. She continued with the statement that the language is specific enough for those purposes but does not deem the expenses to have been incurred for all purposes. I find no reason to construe the language to that end. Subsection 66(10.1) in deeming the E renounced by JEC to SC to have been incurred by SC, clearly and simply does just that – nothing more and nothing less. Neither that subsection nor paragraphs 66.1(6)(a) and 66.1(6)(b) limit the use of such E. The same reasoning applies to subsection 66(10.2) and paragraphs 66.2(5)(a) and 66.2(5)(b) respecting D.
+
+[14] The written submission continued:
+
+Subsection 66(10.1) then goes on to deem the expenses to have been incurred "during a particular taxation year of the other corporation" [i.e. SC]. However, it does not deem them to have been incurred at any particular time during the taxation year. While this is all that is required to enable [SC] to add the expenses to its own resource pools, it is not broad enough language to convert these expenses into [SC's] expenses for all purposes.
+
+In fact, the words used by counsel, namely "during a particular taxation year of the other corporation" are not an accurate quote. As set forth above, subsection 66(10.1) states that a joint exploration corporation may, in any particular taxation year, renounce by election and on so doing, the expense
+
+shall be deemed, for the purposes of paragraphs 66.1(6)(a) and (b), to be a Canadian exploration expense incurred by the other corporation during its taxation year in which the particular taxation year ends ...
+
+(emphasis added)
+
+[15] Counsel states further that
+
+...because those provisions do not specify the day the expenses were deemed to have been incurred, the possibility of such expenses qualifying for treatment under provisions requiring that the expense be incurred at a particular point in time is thereby eliminated.
+
+In the case at hand the FTS provisions (subsections 66(12.6) and 66(12.62) of the Act) upon which the Appellant relies require that the expense be incurred "during the period commencing on the day the agreement was entered into and ending 24 months after the end of the month that included that day".
+
+She then stated that
+
+As the expenses in question are not deemed by virtue of subsection 66(10.1) and 66(10.2) of the Act to have been incurred on a particular day, it cannot be concluded that they were incurred during the particular time period referred to in subsections 66(12.6) and 66(12.62) of the Act.
+
+I do not agree. There is no provision requiring an expense to be incurred "at a particular point in time" or on a "particular day". Subsection 66(12.6) provides that where a person (Appellant) has given consideration ($300,000) under an agreement (Flow-Through Agreement) to a corporation (SC) for the issue of a flow-through share and,
+
+during the period commencing on the day the agreement was entered into [June 9, 1988] and ending 24 months after the end of the month that included that day [July 1, 1990]
+
+the corporation has incurred E, it may within that period or within 30 days thereafter, renounce
+
+effective on the date on which the renunciation is made or on such earlier date as may be set out in the form prescribed ... to the person in respect of the share [Appellant]
+
+the amount of expenses incurred by it during that period.
+
+[16] All of the E and D were deemed to have been incurred by SC in the above described period. The $154,909 of E incurred by JEC in its taxation year ended December 30, 1988 is deemed to have been incurred by SC in its 1989 taxation year.[6] It is agreed that SC renounced that E, effective on December 31, 1988, to the Appellant.[7] The $120,091 of E and $25,000 of D incurred by JEC in its taxation year ended December 30, 1989, is deemed to have been incurred by SC in its 1990 taxation year.[8] It is agreed that SC renounced that E and D, effective on December 31, 1989, to the Appellant.[9]
+
+[17] Respondent's counsel then compared the language used in the joint exploration corporation deeming provisions [66(10.1) and 66(10.2)] with the language used in the flow-through share deeming provisions [66(12.61) and 66(12.63)]. She went on to refer to budget proposals respecting subsection 66(12.67) and the "statutory scheme" of the Act relating to resource expenditures. She referred to "tax incentive schemes" upon which the Appellant relies and described the history of the introduction of the joint exploration corporation concept in 1962 including a statement respecting the object of the joint exploration corporation provisions. She also referred to "Technical Notes to a Notice of Ways and Means Motion Relating to Income Tax" issued by the Minister of Finance in October 1986. There followed a discussion of object and spirit submitting that the joint exploration corporation provisions and flow-through share provisions were conceived with a different object in mind and that if this were not so, there would be no need for two different incentives with two different sets of rules providing for the renunciation of expenses by one person to another.
+
+[18] In studying this approach I do not agree with this construction of these statutory provisions. In this regard, with specific reference to the object and spirit of the legislation, the Supreme Court of Canada has commented on several occasions. In Antosko et al v. The Queen, 94 DTC 6314 (SCC), Iacobucci, J. at 6321 said:
+
+Where the words of the section are not ambiguous, it is not for this Court to find that the appellants should be disentitled to a deduction because they do not deserve a "windfall", as the respondent contends. In the absence of a situation of ambiguity, such that the Court must look to the results of a transaction to assist in ascertaining the intent of Parliament, a normative assessment of the consequences of the application of a given provision is within the ambit of the legislature, not the courts.
+
+[19] In Duha Printers (Western) Ltd. v. Her Majesty the Queen, 98 DTC 6334 (SCC) at 6350 Iacobucci, J. said:
+
+Moreover, this Court emphasized in Antosko supra, ... that, although various techniques may be employed in interpreting the Act, "such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed".
+
+[20] In Mattabi Mines Ltd. v. Ontario (Minister of Revenue) [1988] 2 C.T.C. 294 (SCC) at 304, Wilson J. said:
+
+Interpretation according to the "object and spirit" of the legislation cannot, in my view, overcome a clear statutory definition. This is not a case in which the Court has a choice of the interpretations it may put upon the language used by the legislature. The legislature has specifically addressed the subject.
+
+[21] Estey, J. in Stubart Investments Ltd. v. The Queen, 84 DTC 6305 (SCC) at 6323 said that E.A. Driedger, in "Construction of Statutes" 2nd ed. (1983) at p. 87 "put the modern rule succinctly", namely:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+[22] In Neuman v. M.N.R., 98 DTC 6297 (SCC) at 6305, the Supreme Court of Canada said:
+
+We should not be quick to embellish the probation at issue here when it is open for the legislator to be precise and specific with respect to any issue to be avoided.
+
+[23] In Friesen v. The Queen, 95 DTC 5551 (SCC) Major, J. said at 5553,
+
+I accept the following comments on the Antosko case in P.W. Hogg and J.E. Magee, Principles of Income Tax Law (1995), Section 22.3(c) 'Strict and purposive interpretation; at p. 453-454:
+
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision ... [The Antosko case] is simply a recognition that "object and purpose" can play only a limited role in the interpretation of a statute that is as precise and detailed as the Income Tax Act. When a provision is couched in specific language that admits of no doubt or ambiguity in its application to the facts, then the provision must be applied regardless of its object and purpose. Only when the statutory language admits of some doubt or ambiguity in its application to the facts is it useful to resort to the object and purpose of the provision.
+
+[24] As stated above, the language in subsection 66(10.1) deems the E renounced by JEC to SC:
+
+for the purposes of paragraph 66.1(6)(a) and (b), to be Canadian exploration expenses incurred by
+
+SC. There is no limitation upon the E so incurred by SC. The same reasoning applies to D renounced under subsection 66(10.2). The language is clear and plain. No research of object and spirit is necessary.
+
+[25] The E and D has been claimed by the Appellant and can only be claimed once. That is the "legal and practical"[10] result of the pertinent legislation. No one other than the Appellant would be entitled to the deductions claimed by the Appellant. One of the incidents of incentive legislation is that deductions are given. The fisc in no way suffers from the Appellant's success in this case.
+
+[26] For the reasons outlined, the appeals are allowed with costs.
+
+Signed at Ottawa, Canada this 7th day of April 1999.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] As defined in paragraph 66.1(6)(a)
+
+[2] As defined in paragraph 66.2(5)(a)
+
+[3] This is a "pool" of exploration expenses (paragraph 66.1(6)(b)) in respect of which a taxpayer may make a deduction.
+
+[4] This is a "pool" of exploration expenses (paragraph 66.2(5)(b)) in respect of which a taxpayer may make a deduction.
+
+[5] Only the provisions respecting E are quoted. The language respecting D is virtually identical.
+
+[6] Subsection 66(10.1) deems E incurred in a particular taxation year of JEC (1988 taxation year) and renounced by it, to be E of SC "during its taxation year in which the particular taxation year ends". That would be SC's 1989 taxation year because JEC's 1988 taxation year ends in SC's 1989 taxation year.
+
+[7] Under subsection 66(12.6)
+
+[8] Footnote 6 applies respecting the $120,091 of E. Subsection 66(10.2) is identical respecting the $25,000 of D.
+
+[9] Under subsections 66(12.6) and 66(12.62)
+
+[10] From Duha above.
+

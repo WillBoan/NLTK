@@ -1,0 +1,104 @@
+Date: 19990325
+
+Dockets: 98-401-UI; 98-66-CPP; 98-994-IT-I
+
+BETWEEN:
+
+SVEN SKOLD
+
+O/A GRAND FORKS RECYCLING & METALS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals, which were heard together involved essentially the same issue — the amount that Mr. Skold should have remitted to the Receiver General in respect of employees' obligations to pay income tax, employment insurance premiums and Canada Pension Plan premiums.
+
+[2] The issue is, fortunately, not one that comes before this court very often. If this case illustrates anything, it is the kind of problem that employers create for themselves when they undertake to pay an employee a net amount and to ensure that amounts that are normally withheld from the employee's salary are paid. The problem is exacerbated where, as here, the arrangement is a loose and badly defined oral one.
+
+[3] Mr. Skold in 1996 and part of 1997 carried on business as a sole proprietorship under the name of Grand Forks Recycling & Metals. He had a number of employees but the only ones with which these appeals are concerned were Ian Taylor, Ronald Holtum and Dennis McLellan. I propose to say nothing more about Ronald Holtum and Dennis McLellan. The difference between the appellant's figures and the respondent's is minimal — $62.13 in the case of Mr. Holtum and $23.69 in the case of Mr. McLellan. No evidence was adduced to cast any doubt on the respondent's computation of the amounts of EI and CPP premiums that should have been remitted by the appellant in respect of these two employees.
+
+[4] The matter of Mr. Ian Taylor is somewhat more complex. Mr. Skold hired Mr. Taylor to manage the business. He agreed to pay him $800 every two weeks, "before taxes" by which he meant, apparently, that Mr. Taylor would take home $800 every two weeks and he (Mr. Skold) would send the tax department the appropriate income tax, EI and CPP premiums. This involves an operation known as "grossing up" i.e., determining, either by a mechanical series of mathematical computations or by the use of a formula the gross amount necessary to ensure that the employee takes home the net amount agreed to (in this case, $800) and the appropriate amount of tax and EI and CPP premiums are remitted to the Receiver General.
+
+[5] The calculations were evidently made by the bookkeeper, who suffered a heart attack some time in 1996, at which time Mr. Taylor took over the bookkeeping but was apparently unable to do so and it was taken over by Mr. Skold. Mr. Skold stated that the grossed up amounts for each two week period that should have been calculated was $883.73 ($800 + $37.00 income tax, $26.07 EI and $20.66 CPP).
+
+[6] From November 16 to December 31, 1996 the net amount of salary for Mr. Taylor was reduced to $750 and according to Mr. Skold the grossed up amount for that period should have been $811.63 ($750 + $19.05 income tax, $23.94 EI and $18.64 CPP).
+
+[7] For the first three months of 1997 the figures according to Mr. Skold were virtually the same ($811.77).
+
+[8] Mr. Edward Kandulski, a trust examiner with the Department of National Revenue, concluded that the grossed up amount for each two week period should have been $1,006.44 ($800 + $152.65 income tax, $29.69 EI and $24.10 CPP) (he subsequently adjusted this to take into account the reduction to $750 in November of 1996).
+
+[9] In fact, it appears that the remittances made were substantially the same as those that Mr. Kandulski had calculated. Mr. Skold decided that they were too high and claimed a refund of $3,004.83. The assessments in issue deny him that refund. The T-4 slip that he prepared in respect of Mr. Taylor's remuneration appears to be consistent with the figures that I have set out above, as follows:
+
+Employment income before deductions: $20,960.91
+
+Employee's CPP contributions: $ 488.94
+
+Employee's EI premiums: $ 605.32
+
+Income tax deducted $ 803.63
+
+[10] Mr. Kandulski's figures are:
+
+Employment income $24,054.90
+
+Income tax deductions $ 3,719.67
+
+EI premiums $ 709.62
+
+CPP contributions $ 575.61
+
+[11] The difference between the two computations, $3,093.99 is within $89.16 of the refund claimed by Mr. Skold — virtually the difference between the Department and Mr. Skold in respect of Mr. Holtum and Mr. McLellan.
+
+[12] The difference is directly attributable to the fact that Mr. Kandulski calculated the amount of the income tax, CPP and EI remittances on the basis that Mr. Taylor was a single person with no dependents.
+
+[13] He did so on the basis of subsections 227(2) and (3) of the Income Tax Act.
+
+[14] Subsection 153(1) reads in part:
+
+(1) Every person paying at any time in a taxation year
+
+(a) salary or wages or other remuneration,
+
+...
+
+shall deduct or withhold therefrom such amount as is determined in accordance with prescribed rules and shall, at such time as is prescribed, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be,
+
+...
+
+[15] Subsections 227(2) and (3) read:
+
+(2) Return filed with person withholding. Where a person (in this subsection referred to as the "payer") is required by regulations made under subsection 153(1) to deduct or withhold from a payment to another person an amount on account of that other person's tax for the year, that other person shall, from time to time as prescribed, file a return with the payer in prescribed from.
+
+Related Sections: S. 227(3); s. 235.
+
+Regulation: 107(1).
+
+Prescribed Form: TD1.
+
+(3) Failure to file return. Every person who fails to file a return as required by subsection (2) is liable to have the deduction or withholding under section 153 on account of the person's tax made as though the person were an unmarried person without dependants.
+
+[16] The "return" referred to in subsections 227(2) and (3) is a form TD1 which sets out the employee's credits, deductions, exemptions, dependents and so forth.
+
+[17] No TD1 form was filed and accordingly Mr. Kandulski was right in calculating the grossed up amount as he did. Mr. Skold's subsequent revision of the figures and his claim for a refund was based upon the view that Mr. Taylor was married with a wife with a medical disability and one child.
+
+[18] Even if this is true, and I see no reason to doubt it, no form TD1 was filed and subsection 227(3) is quite explicit.
+
+[19] The conclusion to be drawn from this is that employers who agree to pay employees a net amount, and to take care of the tax, EI and CPP remittances (i.e., to start from a net amount and work up to a gross amount, rather than the more usual method of starting from a gross wage and making deductions) should have the arrangement with the employee spelled out specifically and in detail and the proper TD1 form filed. The Income Tax Act is not concerned with private contractual arrangements of the type involved here. It is concerned with the collection of the appropriate amount of tax from the employee's salary or wages. If the employer remitted too much on behalf of the employee's tax, and the Minister were to refund the excess to the employee as an overpayment of tax, I should think the employer's recourse, if any, would be against the employee and not against the Minister.
+
+[20] The appeals are dismissed.
+
+Signed at Toronto, Canada, this 25th day of March 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

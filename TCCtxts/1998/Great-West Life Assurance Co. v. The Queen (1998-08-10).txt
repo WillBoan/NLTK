@@ -1,0 +1,328 @@
+Date: 19980810
+
+Docket: 96-3525-IT-G
+
+BETWEEN:
+
+THE GREAT-WEST LIFE ASSURANCE COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+[1] This appeal is in respect of the Appellant’s 1988 taxation year.
+
+ADMISSIONS FROM THE PLEADINGS
+
+[2] The Appellant, The Great-West Life Assurance Company (“GWL”), in its Notice of Appeal, states the following:
+
+1. The Appellant is a corporation incorporated under the laws of Canada and has its head office at 100 Osborne Street N., Winnipeg, Manitoba, R3C 3A5.
+
+2. The Appellant is resident in Canada and it has carried on an insurance business, including the business of life insurance, in Canada and in the United States of America, for many years including the 1988 taxation year and up to the present time.
+
+3. At all relevant times G.W.L. Properties Ltd.[1] was a corporation incorporated under the laws of British Columbia.
+
+4. At all relevant times all the issued shares of G.W.L. Properties Ltd. were owned by the Appellant. At the end of 1988 the Appellant also held a note receivable from G.W.L. Properties Ltd. in the amount of $124,500,000. These shares and note are hereinafter referred to collectively as the “GWLP Securities”.
+
+5. The Appellant and G.W.L. Properties Ltd. have a December 31 fiscal year end.
+
+6. In calculating its income and filing its income tax return for the 1988 taxation year:
+
+(a) the Appellant took the view that the GWLP Securities were property classified as “investment property” within the meaning of paragraph (d) of the definition in Income Tax Regulation 2405(3);
+
+(b) the Appellant designated the GWLP Securities to be included as part of the property comprising the value of its “Canadian investment Fund for the year” under Regulation 2400(1)(b) and (d), and accordingly treated the GWLP Securities as “property used by it in or held by it in the course of carrying on its insurance business in Canada” pursuant to Income Tax Regulation 2400(1); and
+
+(c) therefore as required by income Tax Regulation 2400(1) and paragraph 138(9)(a) of the Income Tax Act the Appellant included in its “gross investment revenue from property used by it in the year in, or held by it in the year in the course of, carrying on its insurance business in Canada” the income derived from the GWLP Securities and proceeded to calculate its total income under subsection 138(9) on this basis.
+
+7. The Minister issued a Reassessment on the Appellant for the 1988 taxation year, notice of which was dated July 28, 1994 in which he made a number of changes increasing the calculation of income of the Appellant and re-assessed tax thereon.
+
+8. The Appellant duly filed a Notice of Objection to the Reassessment of July 28, 1994, objecting to certain of the changes made by the Reassessment.
+
+9. The Minister then issued a further Reassessment on the Appellant for the 1988 taxation year, notice of which was dated June 17, 1996, which Reassessment reversed some, but not all, of the changes made by the earlier Reassessment of July 28, 1994.
+
+...
+
+[3] GWLP was created to hold investments in real estate. Originally, it issued shares to GWL in return for properties known as the “Bentall Group”. Later, additional assets were transferred to GWLP by GWL; GWLP also owned other shares for mortgages and notes. GWLP operated out of GWL Winnipeg investment division offices. GWLP did not have any employees and contracted services from GWL.
+
+[4] For the taxation year in question, part of the gross investment revenue (“GIR”) earned by GWLP was $47,812,982. The parties agree this GIR was from arm’s length sources.
+
+[5] The intercompany accounts between GWL and GWLP were shown in financial working papers by the Appellant. Specifically, account number “5095” recorded amounts due to the Appellant from GWLP and “5097” recorded amounts due from the Appellant to GWLP. These accounts in the working papers were used to calculate the interest payable or receivable between GWL and GWLP on a month by month basis. For 1988, an additional $5,480,029 interest income was earned by GWLP from GWL as a computation of interest earned on monthly balances in the taxation year on monies advanced by GWLP to GWL. This interest income is at the heart of this dispute. The Appellant maintains this is GIR from arm’s length sources. The Minister of National Revenue (the “Minister”) maintains this interest was from non-arm’s length sources. This interest income is the main issue in this case, that is, whether the interest income constitutes GIR from arm’s length sources.
+
+[6] Also during the taxation year, a .5% management fee was payable by GWLP to GWL for management services in relation to $49,709,601; that sum equals $248,548.
+
+[7] In December 1988, GWLP redeemed some of its preference shares for the sum of $199,500,000. The redemption was paid in two ways, a reduction of the amount owing by GWL to GWLP by $75,000,000 and the balance by the issue of a promissory demand note (December 15, 1988) from GWLP to GWL for $124,500,000 at the rate of prime plus 1%. For the rest of the year (December 15-31, 1988) $739,325 of interest was payable by GWLP to GWL on this promissory demand note. The share redemption account was recorded in a separate column in the Appellant’s financial working papers.
+
+[8] As a numbered footnote to the financial statements for 1988 there was a note to reader (note 7c., Exhibit A-1, tab 8) referring to interest income. The note indicated that $5,480,029 in interest income (from the numbered accounts “5095” and “5097”) flowed one way (GWL to GWLP) whereas $739,325 flowed the other way (GWLP to GWL) (interest income on the demand promissory note for share redemption for the period December 15, 1988 to December 31, 1988).
+
+[9] Both of these computations (the management fee ($248,548) and the interest charge ($739,325)) are part of the Appellant’s alternative submissions elaborated more fully below.
+
+SCHEME OF THE LEGISLATION AND REGULATIONS
+
+[10] The purpose of section 138 of the Income Tax Act (the “Act”) is to set out the rules for computing the income, taxable income and taxes payable by an insurance corporation.[2]
+
+[11] The 1988 scheme of the provisions are as follows.
+
+[12] Paragraph 138(2)(a). The income of the Appellant for a taxation year as an insurer carrying-on business in Canada and in the United States of America was “the amount of its income for the year from carrying on that insurance business in Canada”.
+
+[13] Subsection 138(9). In computing the insurer’s income for the year from carrying-on business of its insurance business in Canada the aggregate of that part of its GIR for the year that was its GIR from property used by it or held by it in the year in the course of carrying-on that insurance business in Canada and such additional amounts as prescribed by regulation.
+
+[14] Paragraph 138(12)(l). The “property” used by the insurer in the year (in the course of carrying-on insurance business in Canada) is deemed to be property to be determined in accordance with prescribed rules.
+
+[15] Regulation 2400(1) of the Income Tax Regulations (the “Regulations”) prescribed such property that was designated or required to be designated by the insurer in a taxation year subject to certain rules.
+
+[16] Regulation 2400(1) distinguishes between “investment property” and all other “non-segregated property”.
+
+[17] Regulation 2400(1). An insurer’s “investment property” fell to be designated or required to be designated by paragraphs 2400(1)(a), (b), (c), (d) and (f) while paragraph 2400(1)(e) deemed the Appellant’s other “non-segregated property” to have been designated by the insurer.
+
+[18] For the purposes of this appeal, regulation 2405(3) is definitive. “Investment property” is defined therein as the property of the insurer that is a share of, or a debt owing to the insurer by a designated corporation subject to the condition; the GIR from the investment property of the designated corporation (other than GIR from persons with whom the corporation did not deal at arm’s length) is not less than 90% of the gross revenue (“GR”) for the corporation.
+
+[19] Otherwise, investments held by an insurer in a corporation qualified as “investment property” of the insurer only if not less than 90% of the corporation’s GR was GIR from arm’s length sources.
+
+[20] GIR means non taxable dividends interest ... included in its gross revenue for the year.
+
+[21] GR means all amounts received or receivable otherwise than on the account of capital.
+
+[22] Not all the insurer’s “investment property” was permitted or required to be designated. Only those portions as were equal in the amount of the insurer’s Canadian Investment Fund (“CIF”)[3] and such portions of the insurer’s investment property not required to satisfy. CIF were not required to be designated with the result “investment property” not designated did not fall to be included in computing income.
+
+CIF COMPUTATION FOR GWL
+
+[23] The evidence of Douglas Samuel Magnusson (Vice-President of Taxation for the Appellant) described the CIF computation and how GWL completed part of its tax return.[4]
+
+In response to a question about:
+
+Q ... the computation of the Canadian investment fund ... ?
+
+He replied:
+
+A The concept of Part 2400 of the Regulations starts with the division of a company’s assets into two kinds, investment property and non-investment property. There is an underlying assumption that the non-investment property can be allocated between Canadian and non-Canadian business on a factual basis.
+
+With respect to the investment property, there was at one time an allocation that was based on fact, prior to 1978, and then formulas were introduced into the Regulation on the theory that it is difficult to tell which business or which country a particular asset is used in, particularly if there’s a tax motivation to move it, and that a formula was more indicative of perhaps not the facts of the situation, but a reasonable tax base.
+
+So total investment property is added up in terms of a defined value for each piece at the beginning of the year and the end of the year. Certain adjustments are made to that total in order to arrive at an appropriate definition of what investment property is used in Canada.
+
+So as you recounted earlier, you start with total investment property. You add policy loans because they’re a lot like investment property. You multiply that total by the ratio of Canadian reserves to total reserves, and then subtract off Canadian policy loans because you had added total policy loans at the beginning.
+
+In adding up the total investment property, there are some adjustments that are made for, first of all, debts of the corporation and they come in two kinds. One is debts that were used to acquire a specific piece of investment property, and they’re subtracted off the value of the property.
+
+The second kind is debts that cannot be traced to the acquisition of a specific property, and they come off the total on the theory that while you can’t trace them to a particular property, ultimately if the company owes more, it must also have more assets.
+
+Having then arrived at the quantum of the assets that are used in Canada at the beginning of the year, the CIF at the beginning of the year, the CIF at the end of the year, you take the average to arrive at the CIF for the year, with a further adjustment to take into account the possibility that rather than going nice and smoothly from the beginning to the end, that perhaps the cash flow pattern within the year was not smooth. And that is the last four or five lines that you see in the CIF calculation.
+
+Q So after going through that, you have come out to a dollar number?
+
+A Well, to a dollar number that represents -- it is the CIF for the year and represents, if you will, a pot that has to be filled with assets. And those assets are investment property and the --
+
+Q Now this is under Regulation 2400(1)(d)?
+
+A Yes.
+
+Q Now when you say it has to be filled with investment property, how is that done? Is that mandated in the Regulation, is that discretionary to the insurer; how is that done?
+
+A There is some discretion. The insurer has to have, does have the discretion to designate assets, but there is an order of designation that starts with those assets that are essentially most Canadian, Canadian real estate; then moves to assets that are, shall we say, less Canadian; and kind of the last thing that you can designate is assets that are not Canadian, say foreign real estate.
+
+[24] For 1988, the calculation of the CIF fund, Mr. Magnusson responded to questions as indicated (at pages 110 and 111 of the transcript):
+
+Q And going through all the machinations, you come out at the bottom to that number of $4,000,564,000.00, that’s correct?
+
+A That’s right.
+
+Q Now having established this number to identify with the CIF ... [the insurer must] fill it ...
+
+...
+
+Q ... and whatever property it is filled with, it is that income that then is reportable by Great-West Life in its Canadian income?
+
+A Yes.
+
+Q Now when Great-West Life came to filing its tax return, obviously Great-West Life designated ... the shares and debt owing from Great-West Life Properties to cover off or fill the CIF account ...?
+
+A Yes.
+
+...
+
+A In our view, the shares and debt were investment property.
+
+[25] Because of the Minister’s determination that the GWLP Securities were not “investment property” of the Appellant, the Minister designated other “investment property” of the Appellant to satisfy the Appellant’s “Canadian investment fund for the year” pursuant to paragraph 2400(1)(f) of the Regulations, the income from which “investment property” had not previously been included by the Appellant in computing its income.
+
+ISSUE
+
+[26] The essential issue to be decided is whether the GWLP Securities were “investment property” of the Appellant (or “GWL”) within the meaning of subparagraph 2405(3)(d)(v) of the Regulations under the Act.
+
+THE APPELLANT’S POSITION
+
+[27] The Appellant’s position, as stated in its Notice of Appeal is:
+
+16. .... the Minister erred in applying the test set out in subparagraph (d)(v) of the definition of “investment property” in Income Tax Regulation 2405(3) when he included in “gross revenue” of G.W.L. Properties Ltd. an amount of $5,480,029.00 as being on account of interest income earned by it from the Appellant. The Appellant says that the said amount was not earned from the Appellant but that it was on account of interest income earned from arms length third parties and received by the Appellant in its capacity as trustee on behalf of GWL Properties Ltd. and therefore should be included in both the “gross revenue” and “gross investment revenue” of G.W.L. Properties Ltd.
+
+17. Alternatively the Appellant submits that if the said interest income of G.W.L. Properties Ltd. was earned from the Appellant and not from arms length third parties, then the correct amount of interest income to be included in “gross revenue” of G.W.L. Properties Ltd. is not $5,480,029.00 but $5,480,029.00 net of:
+
+(i) $248,548.00 recorded as fees paid by G.W.L. Properties Ltd. to the Appellant in 1988; and
+
+(ii) $739,325.00 recorded as interest paid by GWL Properties Ltd. to the Appellant in 1988.
+
+THE RESPONDENT’S POSITION
+
+[28] The Respondent’s position as stated in the Reply to the Notice of Appeal is:
+
+11. ... the GWLP Securities were not “investment property” of the Appellant, within the meaning of subparagraph 2405(3)(d)(v) of the Regulations under the Income Tax Act, because less than 90% of the gross revenue of GWL Properties Ltd. was “gross investment revenue” from arm’s length sources, with the result that the Minister of National Revenue correctly designated other “investment property” of the Appellant to satisfy its “Canadian investment fund for the year” (1988), with the further result that as a combination of the ensuring increase of the Appellant’s “gross investment revenue for the year”, the increase of the Appellant’s income due to the deemed designation of the GWLP Securities as other “non segregated property” of the Appellant and the recalculation of the additional amount which the Appellant was required to include in its income by virtue of paragraph 138(9)(b) of the Income Tax Act and section 2411 of the Regulations under the Income Tax Act, the Appellant’s “income for the year (1988) from carrying on its insurance business in Canada”, within the meaning of subsections 138(2) and 138(9) of the Income Tax Act increased by $16,678,039.
+
+THE APPELLANT’S FIRST ARGUMENT
+
+[29] The effect of the Revenue Canada reassessment is that the splitting of the investments between GWLP and the Appellant (compared to all the investment having been kept entirely in either one of the companies) results in over $16 million more income since the GWLP Securities lost their status as investment property.
+
+[30] GWLP was an investment company, all of the funds were transferred to the Appellant, invested by the Appellant and made part of the Appellant’s investment pool. The Appellant acted as a trustee for GWLP funds. While the Appellant paid interest in the sum of $5,480,029 as a calculation of interest on monthly balances owed by the Appellant to GWLP, the Appellant submits in these circumstances the $5,480,029 was earned, albeit indirectly, from arm’s length sources; that is, income earned on the monies advanced to the Appellant by GWLP and invested by the Appellant.
+
+[31] Further, the circumstances of this case in the Appellant’s submissions are similar to those in R A Jodrey Estate v. Min. of Finance, (NS), [1980] C.T.C. 437 (S.C.C.), where the Supreme Court of Canada found that one company was simply a conduit for the other so far as the holding of property. The Appellant’s submission adds that the Supreme Court of Canada did not come to its conclusion by ignoring the separate legal status of the companies but considered the overall economic effect to the taxpayer estate.
+
+SECOND ARGUMENT OF THE APPELLANT
+
+[32] The appropriate amount of interest revenue to be used for the purpose of the “investment property” definition is not $5,480,029 but the amount of $5,480,029 reduced by $248,548.[5]
+
+[33] The interest revenue earned by GWLP from the Appellant should be reduced by that portion of the asset management fee paid by GWLP to the Appellant which was calculated on the $49,709,601 receivable from the Appellant as this fee portion was paid/received between the same companies, was on the same asset and was calculated by terms of the same agreement as the interest revenue.
+
+[34] The Appellant submits the true picture of the economic affairs of the taxpayer is the important principle for income tax purposes.
+
+THIRD ARGUMENT OF THE APPELLANT
+
+[35] The Appellant says that the appropriate amount of interest revenue to be used for the purpose of paragraph 2405(3)(d)(v) in the “investment property” definition is not $5,480,029 but the amount of $5,480,029 reduced by $739,325.[6]
+
+[36] Generally, the intercompany transactions between GWLP and the Appellant recorded in numbered accounts “5095” and “5097” were consolidated for the purpose of computing the interest factor on a monthly average basis. Interest was not accounted for transaction by transaction or day by day.
+
+[37] A third intercompany account was the “share redemption loan” account which separately showed a calculation of $739,325.41 in interest from GWLP to GWL on the note of $124,500,000 issued to GWL in December 1988.
+
+[38] The share redemption loan account was simply one more intercompany transaction which occurred in 1988, no different than the assorted collection of other transactions recorded in the “5095/5097” accounts.
+
+[39] The economic reality of what occurred in the Appellant’s submission is that if GWLP is to be considered as having earned interest revenue from a non-arm’s length source (i.e. from the Appellant), then the GIR from that non-arm’s length source ought to be reflected by having regard to all the intercompany transactions, including the share redemption loan account, and therefore the $5,480,029 should be reduced by $739,325.41.
+
+THE RESPONDENT’S RESPONSE TO THE APPELLANT’S
+
+FIRST ARGUMENT
+
+[40] The true nature of the transaction or event must always be ascertained, there is no room for the application of a “substance over form” doctrine whereby the economic or fiscal results of the transaction or event take precedence over the legal rights and obligations which the transaction or event have created.
+
+[41] Intercompany accounts numbered “5095” and “5097” were not trust accounts, but merely accounts showing intercompany indebtedness between the Appellant and GWLP.
+
+[42] While some of the sources of this indebtedness appear to be dividends earned by GWLP, these dividends are not a component of the $5,480,029 in issue because this amount is, on the evidence, the sums of interest charges on monthly balances owing from the Appellant to GWLP.
+
+[43] The Respondent concludes since this part of GWLP’s GIR was GIR from a non-arm’s length source (the Appellant) and since GWLP’s remaining revenue from arm’s length sources ($47,812,982) was less than 90% of its total GIR ($53,293,011), i.e. 89.72%, the Appellant’s shares in GWLP and the $124,500,000 owing to the Appellant by GWLP were not “investment property” within the meaning of subsection 2405(3) “investment property” (d) of the Regulations with the result that these shares and the debt could not be designated as “property used by it in the year in, or held by it in the year in the course of” carrying on the Appellant’s insurance business in Canada within the meaning of paragraph 138(12)(l) of the Act and subsection 2400(1) of the Regulations.
+
+THE RESPONDENT’S RESPONSE TO
+
+THE APPELLANT’S SECOND ARGUMENT
+
+Whether the amount of $248,548 reduces the Appellant’s GR and GIR
+
+[44] The Respondent submits the definitions of GIR in paragraph 138(12)(e) and GR in subsection 248(1) of the Act make it clear that interest is part of GR and GIR without any deductions. It is submitted that had the legislator intended to allow deductions, he would have said so.
+
+THE RESPONDENT’S RESPONSE TO
+
+THE APPELLANT’S THIRD ARGUMENT
+
+Whether the amount of $739,325 reduces the Appellant’s GR and GIR
+
+[45] The Respondent submits this amount of $739,325 was an amount of interest that was paid or payable by GWLP to the Appellant on the $124,500,000 indebtedness that arose on GWLP’s redemption of its preference shares.
+
+[46] The interest of $5,480,029 was the sum of interest paid or payable on the monthly balances in the intercompany accounts while the interest of $739,325 was interest paid or payable on the $124,500,000 indebtedness.
+
+[47] GWLP’s GIR and GR on account of interest received or receivable by GWLP cannot be reduced by the interest payable by it, having regard to the definitions of GR and GIR in subsection 248(1) and paragraph 138(12)(e) of the Act, respectively.
+
+ANALYSIS
+
+TRUST
+
+[48] Interest income must be included in GIR pursuant to subsection 138(12) of the Act: see Munich Reinsurance Company (Canada Branch) v. M.N.R., 91 DTC 1137 (T.C.C.). However, if the $5,480,029 was income earned by GWL from arm’s length third parties, then this amount should have been included in “investment property”. The Minister acknowledges this in the statement of assumptions at paragraph (k). The Minister’s position is that the income was interest income from intercompany loans received by GWLP from the Appellant. The Appellant submits simply that the amount was investment income earned by GWL.
+
+[49] An express trust is one in which the person creating it has expressed his or her intention to have property held by one or more persons for the benefit of another or others, and may be evidenced orally, by deed or agreement: see D.W.M. Waters, Law of Trusts in Canada (2nd ed., Carswell, Toronto, 1984) at page 15.
+
+[50] In Cadillac Fairview Corp. Ltd. v. R [1996] 2 C.T.C. 2197 (T.C.C.), Bowman J. in commenting on the burden of proof in tax appeals quoted at page 2202 from Odgers’ Principles of Pleading and Practice, 22nd edition at page 532:
+
+The “burden of proof” is the duty which lies on a party to establish his case. It will lie on A, whenever A must either call some evidence or have judgment given against him. As a rule (but not invariably) it lies upon the party who has in his pleading maintained the affirmative of the issue...
+
+[51] The effect of both of the aforementioned legal principles, taken together, is that the burden was on the Appellant to prove that a trust was created in law between GWL and GWLP pursuant to which the Appellant held the investment income of GWLP. The Appellant has not met that burden. No evidence was advanced which would support the existence of an express trust in this case and the Appellant was not heard to argue that a trust arose by operation of law. Furthermore, the evidence disclosed that all funds that were supposedly held ‘in trust’ for GWLP were co-mingled with the Appellant’s own funds and were not traceable to any specific investment which the Appellant made on GWLP’s behalf. On this basis I find that no trust existed.
+
+CONDUIT AND ECONOMIC RESULT
+
+[52] The Appellant relies upon the decision of the Supreme Court of Canada in Jodrey (supra) to support the proposition that GWL was merely a “conduit pipe” through which GWLP held certain property. Therefore, he argues, GWLP indirectly earned income from arm’s length sources because GWL was merely holding certain amounts on its behalf, to which it was beneficially entitled.
+
+[53] In Jodrey (supra) the taxpayer had attempted to avoid succession duties through a sophisticated estate plan. The taxpayer transferred property to an Alberta corporation which was a wholly owned subsidiary of a second Alberta corporation, the shares of which were held by the taxpayer’s children. The purpose of the two-tiered structure was that when the taxpayer left the residue of his estate to the first Alberta corporation, the beneficiary was the second corporation rather than the grandchildren of the taxpayer. In other words, by interposing two corporations between the taxpayer and the beneficiaries of his estate, succession duties were avoided. The Supreme Court of Canada held that the parent company was beneficially entitled to the residue of the estate within the meaning of the Nova Scotia legislation dealing with succession duties, therefore the legislation deemed the residue to be received in the grandchildren’s hands.
+
+[54] Jodrey (supra) was an estate planning situation which involved succession duties whereas the present case deals with the inclusion in income of certain amounts receivable by a company carrying-on an insurance business in Canada. Furthermore, in Jodrey (supra) the taxpayer had incorporated a number of holding companies for a specific purpose. Here GWL was an operating insurance company and GWLP was an operating company holding investment including real estate, shares and notes. Finally, Jodrey (supra) dealt with transactions which were structured solely to avoid tax whereas here there is no tax avoidance.
+
+[55] I note there was a very strong dissent by Dickson J. (as he then was), Ritchie and McIntyre JJ. concurring, wherein he said the following at page 464:
+
+Generally speaking, in the absence of fraud or improper conduct the courts cannot disregard the separate existence of a corporate entity; see Pioneer Laundry and Dry Cleaners Ltd. v. M.N.R., [1938-39] CTC 411; 1 DTC 499-69.
+
+[56] He continued at page 465:
+
+There is a tendency to think loosely in terms of a parent owning the assets of its wholly-owned subsidiary but that is not so in law. No one would suggest that a person owning 100 shares of Canadian Pacific is the owner of, or has a beneficial interest in, the assets of Canadian Pacific. No distinction can be made in principle between ownership of 100 shares in a major corporation and ownership of all of the issued shares in a small company. In neither case does the shareholder own any asset other than shares. And the situation is unaffected by the fact that one or more shareholders may have voting control and thereby be in a position to acquire the assets or a portion thereof on wind-up, or upon a distribution of assets other than on wind-up. If shareholders are beneficially entitled to the property of a corporation in which they hold shares, then subsection 2(5) would not have been necessary.
+
+[57] In Otineka Development Corporation Limited et al. v. The Queen, 94 DTC 1234 (T.C.C.), where a corporate taxpayer was incorporated and owned by an Indian Band as defined in subsection 2(1) of the Indian Act and the corporate Appellant contended it was an agent or trustee of the Board. Bowman J. stated at page 1236:
+
+Where a corporation holds itself out to third parties as owning its property and business, keeps separate financial records, files its own corporate income tax returns and acts like any other corporation that is independent of its shareholders, it would require extremely cogent evidence to establish that all along it was really just an agent or trustee for its shareholders on the basis of an unwritten oral understanding or assumption on the part of some of the shareholders or directors.
+
+[58] Judge Bowman also reviewed the position of a subsidiary and its parent in Continental Bank of Canada et al. v. The Queen, 94 DTC 1858 (T.C.C.), at page 1869:
+
+Generally speaking it requires extremely compelling evidence for one company — even a subsidiary — to be regarded as an agent for another (Denison Mines Ltd. v. M.N.R., 71 DTC 5375 at pp. 5388-5399, affirmed on another issue 72 DTC 6444 (FCA) and 74 DTC 6525 (SCC)). It is even more difficult to regard a parent as its subsidiary’s agent.
+
+[59] The Appellant also relied upon the statement of Iacobucci J., in Canderel Limited v. The Queen 98 DTC 6100 (S.C.C.) at page 6108 where he said in regard to determining an accurate picture of income:
+
+To my mind, the significance of this statement is to confirm a much sounder proposition: that the goal of the legal test of “profit” should be to determine which method of accounting best depicts the reality of the financial situation of the particular taxpayer.
+
+[60] I conclude this case cannot support the Appellant’s argument. Monies were loaned by GWLP to the Appellant. The income from the loan was not redistributed to GWL. This interest income was treated by GWLP as its own. This became GIR from a non-arm’s length source to GWL. The loan monies invested were not specifically delineated and indeed were mixed with other monies of GWL. There was a clear delineation of accounts between the two entities. Secondly, the principle enunciated by Iacobucci J. does not extend so far as to ignore the separate legal personalities of corporations to deem one corporation to be the ‘true owner’ of the income of one or more subsidiary corporations. The legal rights and obligations which arose from the incorporation of GWLP cannot be ignored simply because it is convenient for the Appellant to do so.
+
+[61] In the same vein, the Appellant has argued that in substance although not in form, the amounts held by the Appellant were really the property of GWLP. In my view the doctrine of “substance over form” does not have application to this case. It is a basic principle of income tax law that liability to tax flowing from a transaction or event is determined by the legal rights and obligations which that transaction or event has created and not by its economic results. As stated by Bowman J. in Carma Developers Ltd. v. The Queen, 96 DTC 1798 (T.C.C.) at page 1801, “the essential nature of a transaction cannot be altered for income tax purposes by calling it by a different name. It is the true legal relationship, not the nomenclature that governs.”
+
+[62] The Appellant’s second and third ‘alternative’ arguments were premised on the notion that the interest revenue earned by GWLP should have been reduced by the amount of either management fees paid by GWLP to the Appellant or interest payments made by GWLP to the Appellant in respect of other loan amounts outstanding. In other words, the figure used to calculate interest revenue for the purposes of determining “investment property” as that term is defined in the Act should have been net of certain amounts paid by GWLP to the Appellant. This position is not supported by the legislation.
+
+[63] GIR is defined under subsection 138(12) of the Act:
+
+(e) “gross investment revenue” of an insurer for a taxation year means the aggregate of
+
+(i) all taxable dividends, interest, rentals and royalties included in its gross revenue for the year,
+
+[64] There is no good reason to net out certain payments made by GWLP to the Appellant in determining GIR.
+
+[65] The Minister included in GWLP’s GIR amounts of interest which were receivable from the Appellant. I can see no error in this. I conclude the GWLP Securities were “investment property” of the Appellant within the meaning of subparagraph 2405(3)(d)(v) of the Regulations under the Act.
+
+[66] For all these reasons, the appeal is dismissed.
+
+[67] The Respondent is entitled to her costs.
+
+Signed at Ottawa, Canada, this 10th day of August 1998.
+
+“D. Hamlyn”
+
+J.T.C.C.
+
+[1] G.W.L. Properties Ltd. is hereinafter called GWLP.
+
+[2] The technical note to the draft regulations for the 1997 and subsequent taxation years provides a very helpful explanation of the purpose of the provisions in issue in this appeal. It provides as follows:
+
+Paragraph 138(9)(a) of the Act requires multinational life insurers and non-resident insurers to include in computing income for a year from a Canadian insurance business the gross investment revenue that is derived from property which is considered, under a set of prescribed rules, to be used in that insurance business. Paragraph 138(9)(b) requires such insurers to also include in their income from carrying on an insurance business in Canada the amount prescribed in section 2411 of the Regulations.
+
+Section 2411 is intended to restrict the ability of a multinational insurer to reduce its taxable income by having only the revenue from its low-yielding assets included in computing its Canadian income. Under Part XXIV of the Regulations, an insurer is required to choose (a process referred to as the designation of property), from among all of its investment assets, those assets which can be considered to be used in carrying on the Canadian portion of its insurance businesses. The value of its assets which must be designated in respect of a taxation year cannot be less than its Canadian investment fund for the year.... Absent paragraph 138(9)(b) of the Act and section 2411, an insurer could fill its Canadian investment fund with its lowest-yielding assets thereby failing to provide a reasonable representation of its income from its Canadian insurance operations.
+
+[3] In a paper “The Taxation of the Life Insurance Industry: The 1978 Tax Reform”, Ronald C. Knechtel (Canadian Tax Journal, Vol. 28, No. 1, Jan-Feb. 1980, page 9) discusses Gross Investment Revenue and Related Gains and Losses. Therein he states at page 17:
+
+A multinational insurer holds portfolio investments against all of its liabilities, whether in Canada or elsewhere. Subject to regulatory requirements, the insurer does not necessarily hold investments in each country in which it operates in proportion to its liabilities and related capital and surplus in that country. It is therefore apparent that a special rule was required to attribute the proper level of investment revenue and the related investment gains and losses to the Canadian business of both multi-national domestic and foreign insurers.
+
+....
+
+Canadian Investment Fund (CIF)
+
+The CIF is intended to identify the dollar value of the pool of property that is considered to be used or held in connection with the Canadian business of the insurer.
+
+[4] In the transcript of his evidence, from pages 106 to 109.
+
+[5] .5% management fee X GWLP receivable from GWL of $49,709,601 = $248,548.
+
+[6] The interest calculation on a demand note of $124,500,000 issued by GWLP to GWL in December 1988.
+

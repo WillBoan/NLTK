@@ -1,0 +1,464 @@
+[OFFICIAL ENGLISH TRANSLATION]
+
+1999-3622(IT)I
+
+BETWEEN:
+
+EDMOUR CHAMPAGNE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on August 22, 2000, and judgment rendered orally
+
+on August 25, 2000, at Montréal, Quebec, by
+
+the Honourable Judge Pierre Archambault
+
+Appearances
+
+Counsel for the Appellant: Jean R. Prince
+
+Counsel for the Respondent: Pascale O'Bomsawin
+
+JUDGMENT
+
+The appeals from the assessments made under the Income Tax Act (Act) for the 1994 and 1995 taxation years are allowed and the assessments are referred back to the Canada Customs and Revenue Agency for reconsideration and reassessment on the basis that the appellant did not make a valid election under subsection 110.6(19) of the Act, that his income for the 1994 taxation year is to be reduced by $57,975 (added to his income as a taxable capital gain), and that the penalties under section 163 of the Act are to be set aside, the whole subject to section 18.1 of the Tax Court of Canada Act. Mr. Champagne is entitled to a lump sum of $1,000 as costs with respect to his appeal for 1994.
+
+Signed at Ottawa, Canada, this 30th day of August 2000.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+Translation certified true
+
+on this 28th day of February 2003.
+
+Erich Klein, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Date: 20011101
+
+Docket: 1999-3622(IT)I
+
+BETWEEN:
+
+EDMOUR CHAMPAGNE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+REASONS FOR JUDGMENT
+
+(Delivered orally from the bench
+
+on August 25, 2000, at Montréal, Quebec,
+
+and edited for greater clarity.)
+
+Archambault, J.T.C.C.
+
+[1] Edmour Champagne is disputing assessments for the 1994 and 1995 taxation years. Under subsection 15(1) of the Income Tax Act (Act), the Minister of National Revenue (Minister) included additional amounts of $10,000 for 1994 and $11,452 for 1995 in Mr. Champagne's income. The Minister also assessed a penalty under subsection 163(2) of the Act in respect of those two amounts. Lastly, for 1994, the Minister added a taxable capital gain of $57,975 to Mr. Champagne's income.
+
+[2] In making his assessment, the Minister relied on the following facts stated in paragraph 5 of the Reply to the Notice of Appeal:
+
+[TRANSLATION]
+
+5. In making and confirming the reassessments for the 1994 and 1995 taxation years, the Minister made, in particular, the following assumptions of fact:
+
+(a) in filing his income tax returns for the taxation years in issue, the appellant reported the following income:
+
+Description
+
+1994
+
+1995
+
+Income
+
+- Employment income
+
+$ 5,463
+
+$5,200
+
+- Taxable capital gain
+
+$75,000
+
+nil
+
+(b) during the taxation years in issue, the appellant was a shareholder and employee of Garage Ed Champagne Inc. (hereinafter the "corporation");
+
+(c) during the taxation years in issue, the corporation was a garage at which automotive repairs were performed;
+
+(d) most of the work done by the corporation was for individuals;
+
+(e) during the audit for the 1994 and 1995 taxation years, the auditor observed that the accounting for the appellant's business was deficient;
+
+ADDITIONAL INCOME
+
+(f) during his audit for the taxation years in issue, the auditor observed that the "cash" item had been balanced by the "Owed to shareholder" account and that, each year, the following type of entry was made in the corporation's books:
+
+1994
+
+Description
+
+Debit
+
+Credit
+
+- Cash
+
+$10,000
+
+- Owed to shareholder
+
+$10,000
+
+1995
+
+Description
+
+Debit
+
+Credit
+
+- Cash
+
+$11,452
+
+- Owed to shareholder
+
+$11,452
+
+(g) the auditor asked the appellant to provide the Minister with details on the origin of the investment funds of $10,000 for the 1994 taxation year and $11,452 for the 1995 taxation year;
+
+(h) at no time was the appellant able to provide details such as the name(s) of the person(s) who had advanced the funds, or documentary evidence of money transactions (for example, deposit book, deposit slip or proof of disbursement by the lender);
+
+(i) for the taxation years in issue, since the appellant was unable to show the source of the funds so as to prove the investments in question, the Minister taxed the amounts described for subparagraph (g) above as additional income for the corporation and as an appropriation of funds under subsection 15(1) of the Act for the appellant;
+
+(j) in thus failing to report the additional income of $10,000 for the 1994 taxation year and $11,452 for the 1995 taxation year, the appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of a false statement or omission in his income tax returns filed for the 1994 and 1995 taxation years, as a result of which the tax that the appellant would have had to pay based on the information provided in his income tax returns filed for those years was less than the amount of tax actually payable for those years;
+
+(k) accordingly, as a result of his failure to report all his income, the appellant was assessed penalties of an amount equal to the greater of $100 and 50 percent of those differences of tax, that is to say penalties of $735.56 for the 1994 taxation year and $745.12 for the 1995 taxation year, under subsection 163(2) of the Act;
+
+ADDITIONAL CAPITAL GAIN
+
+(l) the appellant held 70 common shares and 200 preferred shares (hereinafter the "shares") in the corporation;
+
+(m) the appellant made an election to report a capital gain on the shares he owned at the end of February 22, 1994, in his income tax return for the 1994 taxation year, as follows:
+
+-F.M.V. of shares
+
+at February 22, 1994:
+
+$180,000
+
+-ACB
+
+$ 80,000
+
+-Deemed proceeds of
+
+disposition:
+
+$180,000
+
+-Capital gain
+
+covered by the election:
+
+$100,000
+
+-Taxable capital gain
+
+($100,000 X 75 percent):
+
+$ 75,000
+
+-Capital gains
+
+deduction
+
+($100,000 X 75 percent):
+
+$ 75,000
+
+(n) during the audit for the taxation years in issue, the agent for the appellant, Fortunat Voyer, told the auditor that he had arbitrarily fixed the designated proceeds of disposition of the shares at $180,000 and the ACB of the shares at $80,000 to produce a capital gain of $100,000 on which the capital gains deduction would be claimed;
+
+(o) the agent never provided any evidence whatever with regard to the ACB of the shares;
+
+(p) according to the auditor's analysis of the corporation's balance sheet, the only assets of any value were the building and the land;
+
+(q) the Minister determined the fair market value of the shares as of February 22, 1994, as follows:
+
+Description
+
+Amount
+
+- Common shares
+
+$95,000
+
+- Preferred shares
+
+$ 2,000
+
+Total
+
+$97,000
+
+(r) the actual ACB of the shares was as follows:
+
+Description
+
+Amount
+
+- Common shares
+
+$ 700
+
+- Preferred shares
+
+$2,000
+
+Total
+
+$2,700
+
+(s) since:
+
+(i) the fair market value of the shares that were held by the appellant in the corporation on February 22, 1994, and that were covered by his election under subsection 110.6(19) of the Act was established by the Minister at $97,000;
+
+(ii) and the amount designated as the proceeds of disposition of the appellant's shares exceeds 11/10 of the amount of that fair market value;
+
+the election cannot be revoked or amended under subsection 110.6(28) of the Act;
+
+(t) consequently, the Minister has:
+
+(i) determined a presumed capital gain of $177,300 resulting from the deemed disposition of those shares (see calculation appended hereto);
+
+(ii) calculated an additional capital gain of $57,975 which he has included in the appellant's income for the 1994 taxation year;
+
+(iii) has revised the new ACB of the shares to $23,700.
+
+At the start of the first hearing day on July 12, 2000, counsel for Mr. Champagne admitted the facts set out in subparagraphs 5(l), (m), (n), (o), (p) and (r). The admission of subparagraph (m) was withdrawn during the hearing. As to subparagraph (q), counsel admitted that the amounts did not exceed the figures adopted by the Minister. With respect to subparagraphs (s) and (t), the matters dealt with therein were questions of law, not of fact; no admissions were therefore in order regarding those subparagraphs.
+
+[3] Mr. Champagne adduced no evidence at the hearing to contradict the facts stated in subparagraphs (a) to (i). The other relevant facts revealed in the evidence will be referred to in the context of my analysis.
+
+Analysis
+
+Taxable Capital Gain
+
+• Statutory Provisions
+
+[4] I will first discuss the question of the inclusion of the taxable capital gain in Mr. Champagne's income. The relevant statutory provisions are subsections 110.6(19), (24) and (28) of the Act, which provide as follows:
+
+(19) Election for property owned on February 22, 1994. Subject to subsection (20), where an individual (other than a trust) or a personal trust (each of which is referred to in this subsection and subsections (20) to (29) as the "elector", elects in prescribed form to have the provisions of this subsection apply in respect of
+
+(a) a capital property (other . . .) owned at the end of February 22, 1994 by the elector, the property shall be deemed, except for the purposes of sections 7 and 35 and subparagraph 110(1)(d.1)(ii),
+
+(i) to have been disposed of by the elector at that time for proceeds of disposition equal to the greater of
+
+. . .
+
+(ii) to have been reacquired by the elector immediately after that time at a cost equal to
+
+. . .
+
+(24) Time for election. An election made under subsection (19) shall be filed with the Minister
+
+(a) where the elector is an individual (other than a trust),
+
+(i) if the election is in respect of a business of the elector
+
+. . .
+
+(ii) in any other case, on or before the individual's balance-due day, for the 1994 taxation year, and
+
+. . .
+
+(28) Election that cannot be revoked or amended. An election under subsection (19) cannot be revoked or amended where the amount designated in the election exceeds 11/10 of
+
+(a) if the election is in respect of a property other than an interest in a partnership, the fair market value of the property at the end of February 22, 1994;
+
+(b) if the election is in respect of an interest . . . .
+
+[Emphasis added.]
+
+• Form and Guide
+
+[5] Counsel for the respondent and the respondent's witness, namely the Minister's agent who signed the Reply to the Notice of Appeal, admitted that the prescribed form for the purposes of the election provided for in subsection 110.6(19) of the Act is form T664 and that Mr. Champagne had neither attached that form to his return when he filed it nor sent it in at a later date. The form is a document printed on both sides of the page, which contains the five steps involved in making the election provided for under subsection 110.6(19) of the Act. It is stated at the beginning of that form that one completed election form is to be filed on or before its filing due date. It is further stated that: "[f]or further information on the election and instructions on how to complete this form, see the Capital Gains Election Package", a guide that was filed as Exhibit I-3 at the hearing.
+
+The last step, which appears on the reverse of the form, is very important in my view. It is the certification, which is drafted as follows:
+
+I, (Print name) of (Print address) hereby elect to have the provisions of subsection 110.6(19) of the Income Tax Act apply in respect of each property specified above, and certify that the information given in this election form is true, correct, and complete in every respect.
+
+[6] The guide describes how to elect at page 1:
+
+You elect by filing Form T664, Election to Report a Capital Gain on Property Owned at the End of February 22, 1994.
+
+[Emphasis added.]
+
+[7] At page 6, the guide repeats essentially the same information under the heading "How do you elect?" but adds the following:
+
+You can file an election for all or some of your capital properties. If you elect to report a capital gain on more than one capital property, you only have to file one form. However, we consider you to have filed a separate election for each property.
+
+If you elect to report a capital gain on the eligible capital property of your business, you have to elect on all the eligible capital property of the business.
+
+[Underlining added.]
+
+[8] The guide also provides the following information at page 7 under the heading "What is the filing due date for the election?":
+
+You usually have to file the election by April 30, 1995. You file the election by completing Form T664, Election to Report a Capital Gain on Property Owned at the End of February 22, 1994. You should attach Form T664 to your 1994 income tax return.
+
+If you file your return electronically (EFILE), you have to submit a paper copy of your election form to us. For more information, contact the preparer or your electronic record.
+
+[Underlining added.]
+
+[9] Also at page 7, the guide states the risks which a taxpayer's decision to make an election may entail:
+
+If the amount you designate in the election as proceeds of disposition is more than the fair market value of the property at the end of February 22, 1994, we may not allow you to cancel or amend your election. For more information, see the section called "Cancelling or amending your election" on page 17 in Chapter 3. If you are electing on the eligible capital property of your business, or your interest in, or your shares of, a flow-through entity, you should refer to the chart, which begins on page 18.
+
+Essentially similar information is provided in the following passage on page 17:
+
+Cancelling or amending your election
+
+If you designate proceeds of disposition for a property that are more than 110% of the fair market value of the property at the end of February 22, 1994, we will not allow you to cancel or amend your election on that property. You should, therefore, be careful not to designate proceeds that are more than the fair market value.
+
+Case Law
+
+[10] The necessity of filing an election form in order to comply with the provisions of the Act has been recognized in case law. In The Queen v. Adelman, 93 DTC 5376, the facts were similar in many respects to those in the instant case. That case also raised a question concerning an election form used for the purposes of computing capital gains. It was an election respecting cost for income tax purposes, commonly called the "election re cost on valuation day", valuation day generally meaning December 31, 1971.
+
+[11] I cite the headnote in Adelman:
+
+Included in the taxpayer's 1985 tax return was a schedule incorporating calculations using Valuation Day values as the adjusted cost base for certain common shares. The prescribed Form T-2076 for use in making the Valuation Day election under subsection 26(7) I.T.A.R., however, was not included with that return. In reassessing the taxpayer for his 1985 taxation year, the Minister proceeded on the basis that the taxpayer had failed to make the Valuation Day election . . . . The taxpayer's appeal to the Tax Court of Canada was allowed. The Crown appealed to the Federal Court - Trial Division.
+
+. . . The Tax Court Judge had considered himself bound by another decision of the Tax Court of Canada in Trynor et al. v. M.N.R. (88 DTC 1294). There, it had been decided that the requirement under subsection 26(7) I.T.A.R. (that the taxpayer "shall" make the Valuation Day election on prescribed form) is directory rather than mandatory.
+
+[12] The relevant provisions were subsection 26(7) of the Income Tax Application Rules, 1971 (ITAR) and section 4700 of the Income Tax Regulations (Regulations), which sets out in the following terms the manner in which the form in question is to be filed:
+
+Any election by an individual under subsection 26(7) of the Income Tax Application Rules, 1971 shall be made by filing with the Minister the form prescribed.
+
+[13] In Adelman, Strayer J. conducted the following analysis at page 5378:
+
+Section 11 of the Interpretation Act provides as follows:
+
+11. The expression "shall" is to be construed as imperative and the expression "may" as permissive.
+
+Subsection 3(1) of that Act provides as follows:
+
+3. (1) Every provision of this Act applies, unless a contrary intention appears, to every enactment, whether enacted before or after the commencement of this Act.
+
+This means that the requirement in section 11 that "shall" is to be construed as imperative should apply in the interpretation of every "enactment" unless a contrary intention appears in that "enactment". By virtue of subsection 2(1) of the Interpretation Act
+
+"enactment" means an Act or regulation or any portion of an Act or regulation. . . .
+
+and
+
+"regulation" includes [a] . . . form . . . made or established
+
+(a) in the execution of a power conferred by or under the authority of an Act . . .
+
+. . .
+
+We may therefore apply the requirements of sections 11 and 3 of the Interpretation Act - to the effect that "shall" is to be interpreted as imperative unless found in an enactment where the context indicates otherwise - to the interpretation of section 4700 of the Income Tax Regulations. As noted above, that section says that an election under subsection 26(7) of the Income Tax Application Rules, 1971 "shall" be made by filing the prescribed form. Is there any basis for interpreting this as directory only? An authoritative statement of the criteria for treating "shall" as other than imperative may be found in the decision of the Supreme Court of Canada in Re Manitoba Language Rights, where the following statement was made:
+
+As used in its normal grammatical sense, the word "shall" is presumptively imperative. . . . It is therefore incumbent upon this Court to conclude that Parliament, when it used the word "shall" in s. 23 of the Manitoba Act, 1870, intended that those sections be construed as mandatory or imperative, in the sense that they must be obeyed, unless such an interpretation of the word "shall" would be utterly inconsistent with the context in which it has been used and would render the section irrational or meaningless. . . .
+
+. . .
+
+I am unable to say that giving the word "shall" in section 4700 of the Regulations an imperative meaning would be irrational or meaningless. It does not seem at all irrational for the Regulations to require that a taxpayer clearly express his election not only to establish the cost of his first property disposed of after valuation day to be its value on valuation day but also to accept that all other property owned by him before 1972, when disposed of in future, should have attributed to it an acquisition cost equal to its value on valuation day. It is not irrational for the Minister to be satisfied, through the use of the prescribed form, that the taxpayer understands the implications of his election.
+
+[Emphasis added.]
+
+[14] Strayer J.'s decision was confirmed by the Federal Court of Appeal in Adelman v. Her Majesty the Queen, 97 DTC 5529.
+
+[15] There are also two other decisions by the Federal Court of Appeal: Attorney General of Canada v. MacIsaac et al., 2000 DTC 6020, and Partanen v. The Queen, 99 DTC 5436. That Court found therein that the prescribed form was likewise mandatory for the purposes of section 118.3 concerning the disability tax credit. Subsection 118.3(1) of the Act provides that, for that credit to be claimed, certain conditions must be met, including the following:
+
+Where
+
+. . .
+
+(a.2) . . . a medical doctor [or other such person] . . . has certified in prescribed form that the impairment is . . .
+
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2).
+
+[16] It is instructive to look at paragraphs 118.3(1)(a.2) and (b) because their wording is quite similar to that of the provisions which I have to interpret here.
+
+[17] It should be noted that subsection 118.3(1) of the Act does not contain the word "shall" but simply states "where . . . the individual has filed". Similar wording appears in subsection 110.6(19) of the Act, which provides that "[s]ubject to subsection (20), where an individual . . . elects in prescribed form to have the provisions of this subsection apply in respect of . . .".
+
+[18] If the usual meaning of the terms employed is adopted, one realizes that the presumption stated in subsection 110.6(19) of the Act applies only where an individual elects in prescribed form. If no election is made, the presumption must not be applied.
+
+[19] Even if one could have any doubt regarding the wording of subsection 110.6(19) of the Act-which I do not-subsection 110.6(24) specifies that the form "shall" be filed with the Minister within the time prescribed in that subsection. As stated in Adelman, supra, there are no grounds for believing that it is unreasonable to apply the imperative meaning of the word "shall". It was natural for Parliament to wish to ensure that taxpayers not make an election inadvertently and that they fully realize all the consequences of their actions. This is particularly true where there may be very heavy tax consequences if a taxpayer elects an amount greater than the fair market value. In the case at bar, if subsection 110.6(19) of the Act applied and the election had been the one the Minister assumed, there would be a taxable capital gain of $57,975, whereas, if the election had been properly made or if there had been no election, there would have been no amount to include in the taxpayer's income.
+
+[20] In addition to the tax that Mr. Champagne would have to pay on that taxable capital gain of $57,975 in 1994, there would probably be other costly tax consequences on a subsequent disposition of the shares since the adjusted cost base (ACB) is deemed to be equal not to the amount of the proceeds of disposition in 1994, but, in this instance, to a much smaller amount, $23,700. As a consequence, Mr. Champagne would realize an additional capital gain even if the disposition was made at the fair market value established on February 22, 1994. There could, as it were, be double taxation.
+
+[21] I find the argument of counsel for the respondent and her witness that Mr. Champagne made his election by filing Schedule 3 of his income tax return and the T657 form to be utterly without foundation. Those forms were necessary to compute the capital gains and the capital gains deduction provided for in section 110.6 of the Act, but they did not constitute the form contemplated by subsections 110.6(19) and (24) of the Act. Counsel and her witness contended that the Minister was able to find in those forms the relevant information enabling him to conclude that an election had been made. First of all, I would like to note that the same argument was made by the taxpayer in Adelman, supra, and that the Minister nevertheless concluded that the election had not been validly made. Since, in Adelman, the Minister denied the taxpayer the benefit of the election regarding cost provided for in subsection 26(7) of the ITAR, it would be totally unfair to reach a different conclusion here, as counsel for Mr. Champagne moreover observed.
+
+[22] In my view, there is in the case at bar another factor that is unfavourable to the respondent's argument. Subsection 110.6(19) of the Act not only expressly requires that a prescribed form be filed, it also requires that an individual have elected to have "the provisions of this subsection apply in respect of" any property or business referred to therein. There is absolutely no mention of a certification of this kind in Schedule 3 or in the T657 form. That certification is found only on the T664 form. Consequently, one of the conditions for the application of subsection 110.6(19) was not met and there is no other provision of the Act by virtue of which a disposition of the shares of Garage Ed. Champagne Inc. (GEC) held by Mr. Champagne could be deemed to have taken place. As there was no disposition of those shares, there is no taxable capital gain to be included in Mr. Champagne's income.
+
+Unreported Income
+
+[23] With respect to the second issue, the relevant provision of the Act is as follows:
+
+15(1) Where at any time in a taxation year a benefit is conferred on a shareholder . . . by a corporation . . . the amount or value thereof shall . . . be included in computing the income of the shareholder for the year.
+
+[24] In this instance, the Minister determined that GEC conferred a benefit on Mr. Champagne when, in the [TRANSLATION] "Owed to shareholder" account, it credited that shareholder with the amount of $10,000 in 1994 and $11,452 in 1995, and the Minister included those amounts in Mr. Champagne's income. In other words, by its accounting entries, GEC acknowledged that it owed Mr. Champagne $10,000 for 1994 and $11,452 for 1995, and Mr. Champagne could withdraw those amounts from GEC without having to include them in his income and pay the resulting tax.
+
+[25] At the time the assessment was made, no evidence was provided to the Minister that those amounts had been advanced to GEC by Mr. Champagne. On the second day of hearing before this Court, on August 22, 2000, that is, more than one month after the first day, GEC's accountant who had prepared its financial statements testified, explaining that Mr. Champagne had always refused to provide the Minister with the necessary information on the advances because, in his view, the money deposited with GEC and credited to the "Owed to shareholder" account represented loans made by Mr. Champagne's brother, Michel Champagne, who had until then refused to have his name "appear". The accountant described Michel Champagne as a retiree. In his testimony, however, Michel Champagne admitted that he worked year-round at his own garage located one mile from his home. He has continued working, even in the last two years, but at GEC.
+
+[26] In support of his assertions, the accountant filed receipts signed by a representative of GEC, which acknowledged loans received from Michel Champagne. For the 1994 fiscal year, there were three receipts totalling $10,000. For 1995, there were seven totalling $9,000. Those receipts were dated between December 1993 and October 1995, but all had been prepared after July 12, 2000, the first day of the hearing. According to the accountant, each receipt might relate to numerous small loans which Michel Champagne had made when goods were sold or services supplied to GEC. Some of the loans, he said, were deposited directly in GEC's bank account. However, there was no evidence that the signature appearing on the deposit slips was that of Michel Champagne.
+
+[27] The accountant also filed invoices for goods and services supplied to GEC, and on those invoices there was generally a notation indicating payment in cash. Michel Champagne's name appears on only one of those documents, and it was not proved that the signature was his. The fact that an invoice bears a notation indicating payment in cash does not prove that the money necessarily came from a third party such as Michel Champagne. On certain invoices, there is a space reserved for the customer's signature. I saw Michel Champagne's signature on none of those documents. In some cases, that space remained blank or contained the name of another person, such as that of a certain Mr. Bellemare.
+
+[28] The accountant asserted that he sat down with Michel Champagne to identify and analyze those documents. In his testimony, however, Michel Champagne said that he did not know the accountant, apart from the fact that he had caught glimpses of him on rare occasions at GEC and had spent at most 10 minutes with him signing papers in preparation for the hearing of these appeals. It must certainly have taken a number of hours of work to find the invoices with respect to which Michel Champagne advanced the money, since there are no indications, except those mentioned above, of the source of the funds used to pay the said invoices. In the circumstances, it cannot be concluded that Michel Champagne's testimony corroborates that of the accountant. On the contrary, it raises serious doubts.
+
+[29] First of all, the name of the person who signed the receipts in question on behalf of "Garage Edmond [sic] Champagne" was not determined. Moreover, the accountant was not present when the loans were made. Most of his testimony constitutes mere hearsay and thus cannot convincingly confirm the existence of the loans.
+
+[30] Furthermore, my analysis of the financial statements for the years 1993 to 1995 shows that the accountant's allegations are not corroborated. In note 4 to the balance sheet for 1994, I see that the amount of the [TRANSLATION] "Loan owed to an individual"[1] for 1993 and 1994 amounts to $22,381. Note 5 to the same balance sheet, at the [TRANSLATION] "Financing activities" item under the heading [TRANSLATION] "Changes in financial position", indicates that a note for $22,381 was issued for 1993 while there was nothing for 1994. As to the item "Owed to shareholder", in note 4 to the 1994 balance sheet it can be seen that the account increases from $1,125 in 1993 to $7,992 for 1994. An excerpt from the ledger providing details on adjustments made to that account for 1994 was filed at the hearing. There was a series of withdrawals appearing as debits totalling $3,333. On the credit side, there is an adjusting entry to November 30, 1994, the end date of GEC's fiscal year, in respect of the amount of $10,000, on the basis of which entry the Minister established the amount of the benefit.
+
+[31] In note 4 to the 1995 balance sheet, under the item "Loan owed to an individual", it may be seen that the amount of $22,381 referred to above remains unchanged. There is, of course, in note 5 to the balance sheet, at the "Financing activities" item under the heading "Changes in financial position", no mention of any change. The balance of the "Owed to shareholder" account increased from $7,792 in 1994 to $13,264 in 1995. Unfortunately, no document was filed that could explain this change in that account in 1995.
+
+[32] Edmour Champagne did not testify on either of the two hearing days. There is thus no evidence from an officer or a shareholder of GEC that loans were made to GEC by Michel Champagne. The receipts prepared more than five to seven years after the loans were allegedly granted have no probative value, or very little, in establishing the existence of those loans. Only Michel Champagne's testimony could have established the existence thereof. However, his testimony was so hesitant, demonstrated so much reticence and was so vague that it did not convince me on a balance of probabilities that he had made the loans in question to GEC. This behaviour is all the more surprising since he was at the hearing when the accountant testified to explain his version of the facts. It was impossible to obtain from Michel Champagne clear, precise and convincing answers indicating that he had actually lent money to GEC. On the important questions, counsel for Mr. Edmour Champagne was unable to elicit detailed answers. He had to pose flagrantly leading questions and, even in those circumstances, there was still hesitation and reticence on the part of Michel Champagne. On the secondary and less important questions he was slightly, but only ever so slightly, more talkative. When asked why he had refused to have his name appear, he evaded the question by answering that his brother and he had always helped each other out.
+
+[33] Michel Champagne did not know how much money he had lent his brother or GEC: he did not keep records or written notes of the amounts of his loans, which I find quite surprising. The money came in most cases from amounts he kept at his home, not from his bank account. Consequently, there is no trace that might confirm the existence of such loans. He said he had been repaid with pieces of equipment that he could use in the bodywork he did at his own garage. He also said that he did not know how many such pieces he had been given in repayment of the loans.
+
+[34] I find that Edmour Champagne failed to discharge his burden of showing that he received no benefit when GEC credited him with the amounts of $10,000 in 1994 and $11,452 in 1995.
+
+The penalty
+
+[35] The onus was on the Minister to show that Mr. Champagne knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of, a false statement or omission in his income tax returns filed for the 1994 and 1995 taxation years.
+
+[36] I find that the Minister failed to discharge that burden. He called neither his auditor nor Mr. Champagne as witnesses. Furthermore, the circumstances of the appeals are not such that it is reasonable to infer that Mr. Champagne knew that he was receiving a taxable benefit when the "Owed to shareholder" account was credited with an amount of money, and that he also knew that that amount had to be included in his income. It must be kept in mind, as I have just mentioned, that what is involved is accounting entries made by GEC's accountant, and it was not shown that Mr. Champagne knew their significance. Furthermore, it should be added that Mr. Champagne received only an amount of $3,300 in 1994, with the rest of the benefit being credited to him in the "Owed to shareholder" account. Nor is there sufficient evidence to show that the amounts in question came from income not reported by GEC.
+
+[37] For all these reasons, Mr. Champagne's appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that Mr. Champagne did not make a valid election under subsection 110.6(19) of the Act, that his income for 1994 is to be reduced by a taxable capital gain amount of $57,975, and that the penalties for 1994 and 1995 are to be set aside, the whole subject to section 18.1 of the Tax Court of Canada Act.
+
+[38] Mr. Champagne is entitled to a lump sum of $1,000 as costs with respect to his appeal for 1994.
+
+Signed at Montréal, Quebec, this 1st day of November 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+Translation certified true
+
+on this 28th day of February 2003.
+
+Erich Klein, Revisor
+
+[1] With the notation [TRANSLATION] "without mention of repayment terms".
+

@@ -1,0 +1,622 @@
+Date: 20020430
+
+Docket: 2000-3636-IT-G
+
+BETWEEN:
+
+FREDERICK W. HILL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Miller, J.T.C.C.
+
+[1] This is an appeal by Mr. Frederick Hill of the Minister's reassessments of his 1996 and 1997 taxation years. Canada Customs & Revenue Agency ("CCRA") disallowed interest expenses claimed by Mr. Hill in the amounts of $1,455,089 and $1,288,612 in 1996 and 1997 respectively, as well as disallowing the deduction in 1996 of non-capital losses from 1992 and 1993 totalling $631,402.63. The 1992 and 1993 losses also relate to interest expenses from those years.
+
+[2] Given the Appellant's reliance in argument on the carefully drafted Partial Agreed Statement of Facts, it is appropriate to reproduce those facts as agreed:
+
+1. The Appellant is an individual, resident in Regina, Saskatchewan.
+
+2. On February 18, 1974, the Appellant as to 25%, a company controlled by the Appellant as to 25% (Regent Realty Ltd. which changed its name to Harvard Developments Ltd. ("HDL")), and two others as to the remaining 50% (the "Co-owners"), acquired land in downtown Calgary for the purpose of building thereon an office building (the "Project"). Immediately after acquiring the land the Co-owners sold it to the Trustees of the Post Office Superannuation Scheme of the United Kingdom ("POSS"). (POSS was replaced by Postel Properties Limited ("Postel"), who in turn leased the land back to the Co-owner for a term of 99 years.
+
+3. POSS lent the Co-owners $17,450,000 to erect an office building on the property, which loan was secured by a mortgage on the property, also for a term of 99 years.
+
+4. The relationship between the Co-owners and POSS was set forth in a Master Agreement, a Mortgage Agreement and a Lease Agreement, all of which were entered into on February 18, 1974. Taken together these agreements provided that:
+
+(a) Interest Expense under the Mortgage escalated from 9% at the outset to 15% commencing in 2005, and was based on principal and unpaid interest and was payable monthly.
+
+(b) The Lease Agreement provided that after the building was completed, 40.5692% of the cash flow from the project was to go to the Co-Owners. The remaining 59.4308% of cash flow was defined as "Balance of net Cash Flow", and was to be paid to POSS as interest or as rent.
+
+(c) The Schedule provided:
+
+"The Mortgagors shall pay to the Mortgagee the Interest Payment on each Payment Date during the Term, PROVIDED, HOWEVER, if the Interest Expense on any Payment Date exceeds the Balance of Net Cash Flow payable to the Mortgagee, then the amount of the said excess shall accrue due and be payable to the Mortgagee".
+
+(d) If on any monthly payment date the Balance of Net Cash Flow exceeded the stated Interest Expense the difference was to be paid to POSS as rent.
+
+(e) Payments of principal and unpaid interest were to commence in 1995, and were to be payable over the balance of the term of the Mortgage with the balance to be paid no later than at the end of the term of the Mortgage.
+
+5. During the period 1974-1999, with the exception of the year 1983, no lease payments were required to be made as the Balance of Net Cash Flow from the building was not sufficient to trigger lease payments. In 1983, the Balance of Net Cash Flow for that year exceeded the Interest Expense by $77,377.
+
+6. On December 22, 1983, HDL purchased the interests in the lease and assumed the obligations under the Mortgage of those Co-owners other than the Appellant, borrowing a further $7,550,000 from Postel to do so. Accordingly, after the purchase the balance owing to Postel secured by the Mortgage was:
+
+Balance under existing mortgage $22,394,889
+
+Borrowing for purchase 7,550,000
+
+Commission 100,000
+
+$30,044,889
+
+7. At the same the parties amended the agreements.
+
+(a) The stated Interest Expense under the Mortgage was changed, escalating from 13% to 21% for the period commencing in 1995 to the end of the term.
+
+(b) The Mortgage Agreement continued to provide for Interest Payments to be made on monthly Payment Dates as specified in Schedule A to the Mortgage, but paragraph 2 was amended and paragraph 3 was added:
+
+"2. The Mortgagor shall pay to the Mortgagee the Interest Payment on each Payment Date during the Term, Provided However, if the Interest Expense on any Payment Date exceeds the Balance of Net Cash Flow Payable to the Mortgagee, then the amount of said excess shall accrue due and be payable to the Mortgagee on the 31st day of December in each year. Up to and including the year 1994, upon payment by the Mortgagor of any excess as aforesaid, Mortgagor may request in writing from the Mortgagee an advance of such excess. Mortgagee shall, within thirty (30) days of such request, advance to the Mortgagor the amount of such excess requested by Mortgagor, provided that the Principal of the Mortgage shall never exceed Thirty Five Million Dollars ($35,000,000).
+
+3. Subject to paragraph 2 above, if the Mortgagor does not pay the Mortgagee the excess of the Interest Expense on any Payment Date over the Balance of the net Cash Flow, such excess shall be added to the balance of the principal and shall bear interest at the rate stipulated in this Schedule at the relevant period."
+
+(c) That same Schedule defined the words "principal" and "principal payments" as follows:
+
+"‘Principal' means the balance from time to time of the advances made by Mortgagee to Mortgagor pursuant to this mortgage, together with any accrued interest due and payable.
+
+‘Principal Payments' means the amount of the Principal, together with accrued interest due and payable by the Mortgagor to the Mortgagee, which said Principal and accrued interest as aforesaid shall be paid by the Mortgagor to the Mortgagee by consecutive monthly instalments, the first of such instalments to be made on the first Payment Date in the twentieth (20th) year of the Term (as defined in the Lease) and continuing thereafter during the balance of the Term, and the balance, if any, on the day preceding the last day of the Term of the Lease. The amount of each monthly instalment payable hereunder in any year during the Term shall be a sum which shall be determined by the application of the following formula:
+
+1/12x 1(X Principal)=monthly instalment in applicable year
+
+1
+
+where:
+
+X means the number of year before the end of the Term of the Lease."
+
+(d) The Lease Agreement was amended to provide that Postel's portion (the "Balance of Net Cash Flow) became 81.3663% of cash flow and the Co-owner's portion 18.6337%.
+
+8. During the period from December 31, 1983 up to November 30, 1995, the Interest Expense on each Payment Date exceeded the Balance of Net Cash Flow available for payment, with the result that on December 29, 1995, the amount of unpaid interest owing by the Co-owners to Postel was approximately $60,369,999.
+
+9. On January 1, 1995, the parties further amended the Mortgage Agreement and Lease Agreement by removing the $35,000,000 maximum referred to in paragraph 7 above, by reducing the annual Interest Expense to 10% per annum, and by altering the percentage of net cash flow such that 90% went to Postel and 10% to the Co-owners. The newly amended mortgage read:
+
+"2. The Mortgage shall pay to the Mortgagee the Interest Payment on each Payment Date during the Term, PROVIDED, HOWEVER, that if the Interest Expense on any Payment Date exceeds the Balance of the Net Cash Flow Payable to the Mortgagee, then the amount of the said excess shall accrue due and be payable to the Mortgagee on the 31st day of December in each year. Upon the payment by the Mortgagor of any such excess as aforesaid the Mortgagor may request in writing from the Mortgagee an advance of such excess and the Mortgagee shall, forthwith following such request, advance to the Mortgagor the amount of such excess and any such amount so advanced shall be added to and included in Principal."
+
+10. All other provisions of the Mortgage remained in force.
+
+11. On or about December 19, 1995:
+
+(a) HDL (on behalf of itself and the Appellant) borrowed $60,370,000 or 28,816,230 Pounds Sterling from CIBC;
+
+(b) CIBC paid the 28,816,230 Pounds Sterling to Postel's bank account at Royal Bank of Scotland on the condition that an identical amount would be in Postel's account at that bank with instructions from Postel to be transferred to HDL's account at CIBC;
+
+(c) Royal Bank of Scotland transferred 28,816,230 Pounds Sterling to HDL's bank account at CIBC and Postel was given credit for the 28,816,230 Pounds Sterling transferred by CIBC; and
+
+(d) CIBC was paid a financing fee of $50,000.
+
+all of which will be more particularly described at the hearing of this matter.
+
+12. In 1992 and 1993 the Appellant's portion of the Interest Payment exceeded the Balance of Net Cash Flow by $1,526,221 and $1,817,132 respectively. Those amounts were due and payable on December 31, 1992 and December 31, 1993 respectively, and in 1995 those unpaid amounts were part of the transaction described in paragraph 10. If those amounts are deductible in 1992 and 1993, then the non-capital losses for those years available for carry forward and deduction in 1996 were $305,846.86 and $325,555.82 respectively.
+
+13. In 1996 and 1997 the Appellant's portion of the Interest Expense exceeded the Balance of Net Cash Flow by $1,404,045 and $1,588,612 respectively. Those amounts were due and payable on December 31, 1996, and December 31, 1997 respectively, and in 1998 the Appellant entered into a similar transaction to that described in paragraph 11, with the amount of the purported payment being $2,714,095.
+
+14. By further amendments of January 1, 1999, the parties agreed to reduce the stated interest rate from 10% per annum to 4-1/4% per annum, and by altering the cash flow percentage such that 95% of cash flow goes to Postel, 5% to the Co-owners.
+
+15. Over the period 1974 the Appellant received the following cash payments pursuant to the Lease as amended:
+
+1975
+
+3,799
+
+1976
+
+92,657
+
+1977
+
+130,330
+
+1978
+
+185,704
+
+1979
+
+201,665
+
+1980
+
+226,284
+
+1981
+
+239,870
+
+1982
+
+307,870
+
+1983
+
+352,268
+
+1984
+
+300,701
+
+1985
+
+247,780
+
+1986
+
+476,671
+
+1987
+
+371,693
+
+1988
+
+318,920
+
+1989
+
+268,871
+
+1990
+
+247,219
+
+1991
+
+243,496
+
+1992
+
+21,259
+
+1993
+
+51,903
+
+1994
+
+187,633
+
+1995
+
+247,979
+
+1996
+
+175,451
+
+1997
+
+230,384
+
+1998
+
+169,400
+
+1999
+
+222,337
+
+2000
+
+165,376
+
+2001
+
+62,466
+
+5,749,986
+
+These amounts were included in computing his income, but because of the Interest Expense the Appellant has to date reported no net profits for tax purposes.
+
+16. The Appellant was first assessed for his 1995 taxation year on May 16, 1996, which year was statute barred by the date of the issuance of the reassessments now appealed from, which reassessments were issued on May 19, 2000 for 1996 and July 17, 2000 for 1997.
+
+[3] In addition to the Partial Agreed Statement of Facts, I heard the testimony of Mr. Clayton Bzdel, an officer of Harvard Developments Ltd. ("HDL"). He clarified the discrepancy in paragraph 13 of the Agreed Statement of Facts between the excess interest expense of $2,992,657 in 1996 and 1997 and the amount of $2,714,095 paid in 1998. The difference arose due to a partial prepayment in 1995 and an accounting miscalculation which was rectified by a payment in 2000. Mr. Bzdel also explained that the reason for the reduction in the interest rate in 1995 and 1999, with an increase in the cash flow to Postel was to "try to get this mortgage in a form that would allow it to be paid out within the term". He acknowledged that the 4.25 percent interest rate was not the market rate, but was a rate negotiated in 1998 that would allow the mortgage to be paid out within the term.
+
+[4] As well as the segments of documents reproduced in the Partial Agreed Statement of Facts, I wish to highlight the following excerpts from certain of the documents:
+
+(a) Paragraph 7 and 8 of the December 22, 1983 mortgage:
+
+SEVENTHLY: That if the Mortgagor shall make default in payment of the moneys hereby secured or any part thereof or any interest thereon at any of the hereinbefore appointed times and such default continuing for one (1) month after notice thereof is given by the Mortgagee to the Mortgagor, then the Mortgagee shall have the right and power and the Mortgagor doth hereby covenant with the Mortgagee for the said purpose and doth grant to the Mortgagee full license and authority for such purpose, when and so often as in its discretion the Mortgagee shall see fit, to enter into possession by its agent or otherwise, of the said lands, and receive and take the rents, issues and profits thereof, and whether in or out of possession thereof to make any demise or lease of the said lands or any part thereof for such terms, period, and at such rent as it shall think proper.
+
+EIGHTLY: That in case default is made in payment of any of the sums hereby secured and such default continuing for one (1) month after notice thereof is given by the Mortgagee to the Mortgagor, the Mortgagee may sell and convey the said lands, without entering into possession of the same, and without giving any notice to the Mortgagor, and either before or after and subject to any demise or lease made by the Mortgagee as hereinbefore provided, PROVIDED that any sale made under the powers hereby given may be on such terms as to credit and otherwise as shall appear to the Mortgagee most advantageous, and for such price as can be reasonably obtained therefor, and that sales may be made from time to time to satisfy any interest or any part of the principal overdue, leaving the principal or balance thereof to run at interest payable as aforesaid, and the Mortgagee may make any stipulation as to title or otherwise as to the Mortgagee may seem proper, and the Mortgagee may buy in or rescind or vary any contract for sale of any of the said lands, and resell without being responsible for any loss occasioned thereby, and for any of the said purposes may make and execute such agreements and assurances as shall be by the Mortgagee deemed necessary.
+
+and paragraph 23 and 24 of the December 22, 1983 mortgage:
+
+TWENTY-THIRDLY: Notwithstanding anything contained herein, it is expressly agreed by and between the Mortgagor and the Mortgagee that the Mortgagee's rights to recover principal and interest owing under this Mortgage shall be restricted to the lands including, without restricting the generality thereof, those items described in paragraph Eighteen of this mortgage.
+
+TWENTY-FOURTHLY: In the event of a bona fide offer from a third party to purchase
+
+(a) all Mortgagor's rights and interest as Lessee in the Lease and in the building and land herein mortgaged, together with
+
+(b) the Mortgagee's interest in this Mortgage and its reversionary interest in the mortgaged land,
+
+Mortgagee shall be entitled to require payment of a prepayment entitlement equal to sixty (60) months' interest on the then outstanding balance of principal under this Mortgage at the prevailing interest rate set forth in Schedule "A" hereunder in recognition of the long term, unique nature of the commitment and the credit granted by Mortgagee with respect to the Lease and this Mortgage and of the substantial investment by Mortgagee therein, but in no event will the operation of the above obligate the Mortgagor to pay Mortgagee in excess of eighty per cent (80%) of the proceeds of the sale or transfer.
+
+(b) A memo from Bill Berezan (Chief Financial Officer of HDL) of December 22, 1995:
+
+1. On Wednesday, the CIBC-Regina will obtain the exchange rate for conversion of Canadian dollars into Pounds Sterling and purchase the equivalent of $60,370,000 Canadian in Pounds Sterling (hereinafter referred to as " £ Amount").
+
+2. CIBC-Regina will wire transfer to Barclays Bank - London ("Barclays") the £ Amount. Barclays is CIBC's correspondent bank as the CIBC does not have a retail bank in London, England. Accordingly, the wire transfer will take two business days to settle, and therefore the money will probably not be in Barclays for CIBC - London's purchases until Friday, December 29, 1995.
+
+3. Upon the CIBC - Regina obtaining the £ Amount (Step 1), they will advise Harvard Developments Limited ("Harvard") who in turn will advise Postel of the £ Amount which will be required. Postel will make arrangements with the Royal Bank of Scotland ("RBS") such that Postel will deposit with the RBS the £ Amount on Friday, December 19, 1995. RBS will have a bank draft in the £ Amount prepared.
+
+4. Barclays shall deliver to the CIBC - London a bank draft (Step 2) in the £ amount first thing Friday morning, and the CIBC will walk this bank draft over to RBS.
+
+5. RBS and CIBC - London shall exchange the bank drafts which they each hold on behalf of their clients, Postel and Harvard respectively. The bank draft CIBC-London will be presenting on behalf of Harvard shall represent the accrued interest Harvard owes to Postel. The bank draft which RBS will be presenting on behalf of Postel represents the advancing of principal funds by Postel to Harvard.
+
+6. RBS will then deposit the Barclays bank draft to the Postel account.
+
+7. CIBC - London will return to Barclays to deposit the RBS bank draft and in turn, Barclays will wire transfer this money to CIBC - Regina.
+
+(c) Paragraphs 1 to 3 of the Memorandum of December 27, 1995 from Bill Berezan:
+
+1. Today, Wednesday, December 27, 1995, CIBC - Regina has wired for delivery on Friday £ 28,476,415.09 to Barclays Bank - London ("Barclays") for the account of CIBC - London. The exchange rate utilized was $2.12 Cdn. = £ 1.
+
+2. Tomorrow, Thursday, December 28, 1995, CIBC - London will present to the Royal Bank of Scotland ("RBS") an agreement relating to the electronic exchange of funds. This agreement will basically state that RBS will not credit to Postel Properties Ltd. ("Postel") bank account the funds transferred from the CIBC
+
+3. On Friday, December 19, 1995, Barclays Bank - London shall wire transfer to RBS £ 28,476,415.09 to RBS to the credit of Postel bank account (subject to the agreement mentioned in number 2 above). These funds represent the accrued interest due Postel by Harvard Developments Limited ("Harvard"). At the same time, RBS will wire transfer to CIBC - Regina to the bank account of Harvard £ 28,476,415.09. These funds represent the further advancement of principal funds by Postel to Harvard.
+
+(d) Letter of December 28, 1995 from CIBC:
+
+December 28, 1995
+
+The Royal Bank of Scotland, PLC
+
+4th Floor, Waterhouse Square,
+
+138/142 Holborn
+
+London EC1N 2TH
+
+Attention : Ms F James
+
+RE : Norcen Building, Calgary, Alberta
+
+Postel Properties Ltd. Mortgage
+
+We are advised by our customer, Harvard Developments Ltd. that they owe £ 28,476,415.09 to Postel Properties Ltd in respect of accrued interest outstanding under a mortgage advance. We are also advised that on condition that the interest payment is made, Postel Properties Ltd have agreed to advance a further capital sum of £ 28,476,415.09 under the existing mortgage and that both payments are to be made simultaneously.
+
+We have been asked to make the interest payment on behalf of Harvard Developments Ltd and we are informed that you will be instructed to make the corresponding payment on behalf of Postel Properties Ltd.
+
+For value December 29, 1995 we are therefore paying to you £ 28,476,415.09. These funds are to be held in Trust for our account and may only be released to Postel Properties Ltd simultaneously with you actioning transfer of £ 28,476,415.09 to Barclays Bank, St Swithins House, St Swithins Lane London, sort code 20-32-53 for account of CICB London A/C no 00121347 re Harvard Developments Ltd.
+
+We record your agreement to refund the funds to us in full by 3 pm on December 29, 1995 if you have not actioned an instruction from Postel Properties Ltd. as outlined above.
+
+Please confirm agreement to the above terms on the attached duplicate of this letter.
+
+Yours faithfully
+
+« signature »
+
+A.D. Craig
+
+General Manager,
+
+Credit Risk Management.
+
+Agreed 28th December 1995
+
+For and on behalf of :
+
+The Royal Bank of Scotland PLC
+
+[5] I find the following to be the chronology of events in December, 1995:
+
+1. December 27, 1995 Appellant received approval to borrow 28,476,415 Pounds from CIBC (Regina), which is deposited to the Appellant's account in Regina.
+
+2. December 27, 1995 CIBC (Regina) wired 28,476,415 Pounds to Barclay's Bank (London) for the account of CIBC (London).
+
+3. December 28, 1995 CIBC (London) presented an agreement to the Royal Bank of Scotland which stated that the Royal Bank of Scotland will not credit Postel's bank account with the funds transferred from CIBC (London) until the Royal Bank of Scotland has wire transferred to CIBC (Regina) the identical amount of funds.
+
+4. December 29, 1995 Barclay's Bank wire transferred 28,476,415 Pounds to Royal Bank of Scotland to the credit of Postel's bank account.
+
+5. Coincidentally, Royal Bank of Scotland wire transferred to CIBC (Regina) to the bank account of HDL 28,476,415 Pounds.
+
+ISSUES:
+
+[6] The parties agreed prior to trial that the issues were:
+
+1. Whether the differences between the balance of net cash flow and the interest expense in the years 1992 and 1993, and 1996 and 1997 were amounts payable in those years or were contingent liabilities.
+
+2. Whether the differences between the balance of net cash flow and the interest expense in 1996 and 1997 were compound interest, deductible only when paid. This will occur:
+
+(a) if the purported payment of interest and borrowing of a like amount of principal can be ignored at law; or
+
+(b) if the general anti-avoidance rules apply to permit the Minister to ignore the purported payment of interest in 1995 and the borrowing of a like amount as principal.
+
+3. Whether the Appellant's investment in the project had a reasonable expectation of profit.
+
+[7] While there was some suggestion by Mr. Gosman at trial that he was relying on the compound interest argument with respect to the 1992 and 1993 years, he did not pursue this avenue in his written argument.
+
+ISSUE: Were the excess interest amounts in 1992, 1993, 1996 and 1997 amounts payable in those years or contingent liabilities?
+
+APPELLANT'S SUBMISSIONS:
+
+[8] The Appellant submitted that the answer lies within the documents themselves and particularly the wording of paragraph 2 of Schedule A of the Mortgage. This, the Appellant claimed, is not impacted by paragraph 3 which is subordinate to paragraph 2 and is simply a mechanism for interest to be charged on the unpaid excess amount if such excess is not paid on December 31 of each year. Paragraph 3 does not deprive the mortgagee of the right to demand payment of the excess interest. The Agreement is clear that the excess interest is payable. The Appellant also argued that the Respondent had admitted both in the Reply and in the Agreed Statement of Facts that the excess amounts were payable.
+
+[9] In connection with the contention that the interest payment was contingent, the Appellant relied on Justice Sharlow's comments in Wawang Forest Products Ltd. v. Canada [2001] F.C.J. No. 449:
+
+Returning to the Winter test, the correct question to ask, in determining whether a legal obligation is contingent at a particular point in time, is whether the legal obligation has come into existence at that time, or whether no obligation will come into existence until the occurrence of an event that may not occur.
+
+The Appellant argued that there was an enforceable legal obligation on December 31 in each year, which obligation was not dependent upon any future event. The recourse of the mortgagee to a percentage of sale proceeds in the event of a third party sale is a credit risk, not a contingency denying the mortgagee of his right to demand payment annually. In any event, by the payments made in 1995 and 1998 the enforceable liability for the outstanding interest was paid.
+
+[10] The Appellant refuted the applicability of the Barbican Properties Inc. v. The Queen, 97 DTC 122, affirmed 97 DTC 5008 (F.C.A.), Global Communications Limited v. The Queen, 99 DTC 5377 (F.C.A.) and Redclay Holdings v. R., 96 DTC 1207 on the basis that in each of those cases there was no enforceable legal obligation to pay the interest in the year in which the deduction was sought.
+
+RESPONDENT'S SUBMISSIONS:
+
+[11] The Respondent argued that the Appellant was not under a legal obligation to pay the excess interest on December 31. In support of this argument the Respondent referred to paragraph 3 of Schedule A of the mortgage. This paragraph stipulates that unpaid excess interest is to be added to the principal owing. The Respondent cited the conduct of the parties as evidence that they did not intend to enter into a legally binding obligation to pay the excess interest, mentioning specifically the comments of the Chief Financial Officer of HDL in a letter of December 17, 1996 which read in part as follows:
+
+There is nothing in this wording that suggests the excess must be actually paid on December 31, but only that it shall accrue and become payable, presumably meaning it can actually be paid on any subsequent date.
+
+[12] The Respondent cited other examples of conduct confirming that there was no intention that the excess interest be paid: firstly, the fact that Postel never demanded payment and secondly, that the $35,000,000 cap on principal was removed. This confirmed that the parties' intent was that the excess interest would be automatically added to principal.
+
+[13] With respect to the contingent liability argument, the Respondent submitted that as the mortgagee's recourse on the debt was limited to the value of the property, or 80 percent of the proceeds if sold, the Appellant's liability for excess interest was a contingent liability. The Respondent highlighted that as of the end of 1998 the principal had accumulated to over $110,000,000, while the value of the property was only $42 to $44,000,000, suggesting that there was no reasonable certainty that the interest would ever have been paid.
+
+[14] In support of the notion that the Appellant's liability is a contingent liability the Respondent cited a number of cases (Barbican, Global Communications, supra and McLarty v. Canada, 2001 T.C.J. No. 59). The Respondent attempted to distinguish the decision in Wawang on the basis that in Wawang the Court was dealing with payments under a construction contract being held back, and further, that there was no doubt the amounts held back were legally required to be paid.
+
+ISSUE: Did the transactions in December, 1995 constitute the payment of interest and the borrowing of a like amount as principal, resulting in the excess interest in 1996 and 1997 being simple interest as opposed to compound interest?
+
+APPELLANT'S SUBMISSIONS:
+
+[15] The Appellant's position was that the Court simply could not ignore the payment by the Appellant of outstanding interest in 1995 and the borrowing of a like amount of principal at the same time. As the Respondent conceded that the 1995 transaction was not a sham, it was the Appellant's position that there was no legal basis for the Court to ignore the legal relationships created by the written agreements and executed by the parties in December, 1995. The Appellant relied on the case of MacNiven v. Westmoreland Investment Ltd., 2001 H.L.J. No. 6 to support its assertion. In Westmoreland, the company owned by a pension plan was loaned money by the plan to repay its debt to the plan. The Court found that although the taxpayers in that case were passing money around in a circle, it did constitute a legal payment. As indicated by Lord Nicholls:
+
+Leaving aside sham transactions, a debt may be discharged and replaced with another even when the only persons involved are the debtor and creditor.
+
+[16] Finally, the Appellant indicated that it was not open for the Court to adopt an economic reality approach, citing the rejection of such an approach by the Supreme Court of Canada in John R. Singleton v. The Queen, 2001 S.C.C. 61 where Justice Major said:
+
+In examining the Minister's argument about the need to consider the economic realities of a transaction rather than being bound to its strict legal effects, McLachlin, J. recognized (in Shell Canada v. The Queen) that the Courts must be sensitive to the economic realities of a transaction. However, she stated that (paragraphs 39 to 40):
+
+This Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide relationship. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, a taxpayer's legal relationships must be respected in tax cases.
+
+RESPONDENT'S SUBMISSIONS:
+
+[17] The Respondent argued that the purported "payment" in 1995 was a not a legally valid payment and as such the interest on the interest was not "converted" to principal but remained compound interest.
+
+[18] It was the Respondent's position that no valid payment occurs where the amounts are conditionally and simultaneously exchanged between parties in a single transaction. In support of this argument, the Respondent submitted that in M.N.R. v. Cox, 71 DTC 5150 (S.C.C.) the Court found that the simultaneous exchange of cheques was a single transaction and not a payment. The Respondent indicated the Cox decision was cited in Western Union Insurance Co. v. R., 83 DTC 5388 (F.C.T.D.) where the Court found that a cheque given over and immediately returned did not constitute payment.
+
+[19] The Respondent stated that the transaction purporting to effect the payment of interest and a re-loaning of the funds was a single, simultaneous transaction, whereby each transfer was conditional upon the identical amount of funds being transferred to the other. The Respondent quoted Black's Law Dictionary definition of payment as follows:
+
+The fulfilment of a promise, or the performance of an agreement. A discharge of an obligation or debt, and part payment, if accepted, is a discharge pro tanto. In a more restricted legal sense payment is the very performance of a duty, promise or obligation or discharge of a debt, or liability, by the delivery of money or other value by a debtor to a creditor, where the money or other valuable things tendered and accepted as extinguishing debt or obligation in whole or in part.
+
+[20] The Respondent argued that a valid payment required the extinguishing of the debt. In the present circumstances the Respondent submitted that as the transactions were simultaneous and conditional upon re-loaning of funds, at no point was the debt extinguished.
+
+[21] The Respondent's position was not that the 1995 transaction was a sham or that any particular aspect should be ignored, rather that such a conditional exchange simply does not legally affect payment.
+
+[22] As the Respondent claimed that there was no legal payment of the excess interest in 1995, the amounts sought to be deducted by the Appellant are properly characterized as compound interest. Pursuant to paragraph 20(1)(d) compound interest can only be deducted when actually paid in the year. As the amounts were not paid in the years in which they are being claimed they are not deductible.
+
+ISSUE: Did the Appellant's investment have a reasonable expectation of profit?
+
+APPELLANT'S SUBMISSION:
+
+[23] The Appellant argued that the Respondent did not raise this issue in issuing the reassessment. Relying on the case of Coleman v. R., (1999) 1 C.T.C. 38 the Appellant maintained that because the assertion was not a basis of reassessment and was only first raised in the pleadings, the onus rests on the Respondent to prove that the expectation of profit was "irrational, absurd, or ridiculous". Relying on the recent case of Ludco Enterprises v. The Queen, 2001 S.C.R. 62, the Appellant rejected the notion of profit or net income as being the appropriate test, but rather the test was an expectation of income. In this case, the Appellant maintained, there can be no doubt that there was a reasonable expectation of substantial income. In fact, the Appellant received a cash return of approximately $5,750,000.
+
+RESPONDENT'S SUBMISSION:
+
+[24] The Respondent submitted that not only was there never any profit during the life of the project but that in fact the losses were intentional.
+
+[25] The Respondent rejected the notion that the Coleman case stood for the proposition that the appropriate test is whether the expectation of profit was "irrational, absurd, or ridiculous". However, the Respondent went on to indicate that even following such a proposition the expectation of profit in this case was indeed irrational, absurd or ridiculous.
+
+ISSUE: Do the general anti-avoidance rules ("GAAR") apply to permit the Minister to ignore the purported payment of interest in 1995 and the borrowing of a like amount as principal?
+
+APPELLANT'S SUBMISSIONS:
+
+[26] The Appellant did not deny that the arrangement was entered into to ensure that interest payable on the indebtedness was simple interest and not compound interest. However, the Appellant maintained that subsection 245(4) requires that there has been a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole and in this instance neither has been proven.
+
+[27] The Appellant relied on Justice Rothstein's approach in OSFC Holdings Ltd. v. The Queen, and in particular his view that the Respondent must demonstrate a relevant, clear and unambiguous policy. The Appellant maintained that there is no policy, let alone a clear and unambiguous policy that would prevent a taxpayer from borrowing to meet an obligation to pay interest, even if the purpose is to avoid the subsequent incidence of compound interest on that interest. As Justice Rothstein indicated:
+
+There is no onus to be satisfied by either party at this stage of the analysis. However, from a practical perspective, the Minister should do more than simply recite the words of subsection 245(4) and allege there has been a misuse or abuse. The Minister should set out the policy with reference to the Act or its intrinsic aids upon which he relies.
+
+RESPONDENT'S SUBMISSIONS:
+
+[28] Similarly, the Respondent acknowledged that the argument in connection with GAAR can be limited to a "misuse and abuse" analysis. The Respondent indicated that the violence done to the Act in this situation was the avoidance of the application of paragraph 20(1)(d) of the Act utililizing a legal form to convert non-deductible unpaid compound interest into deductible simple interest. With respect to the requirement, as outlined in Justice Rothstein's comments in OSFC Holdings Ltd. that there be a clear and unambiguous policy, the Respondent repeated the provisions of the Act allowing the deduction of simple interest on an accrual basis and denying the deduction of compound interest on an accrual basis.
+
+[29] The Respondent also suggested that the policy of the Income Tax Act and its treatment of interest can be gleaned from a consideration of section 80, the debt forgiveness rule. Paragraph 80(2)(b) applies to forgiven interest amounts for which deductions have been taken but payments have not been made. Since compound interest is not deductible unless paid, this provision does not apply to forgiven yet unpaid compound interest. The Respondent reiterated that this is illustrative of the policy of the Act being that compound interest must be paid in order to be deductible.
+
+ANALYSIS:
+
+ISSUE: Were the excess interest amounts in 1992 and 1993, and 1996 and 1997 amounts payable in those years or contingent liabilities?
+
+[30] The starting point is the Mortgage Agreement itself and it is worthwhile to repeat the first part of section 2 and section 3 of Schedule A of that Agreement:
+
+2. The Mortgagor shall pay to the Mortgagee the Interest Payment on each Payment Date during the Term, Provided However, if the Interest Expense on any Payment Date exceeds the Balance of Net Cash Flow Payable to the Mortgagee, then the amount of said excess shall accrue due and be payable to the Mortgagee on the 31st day of December in each year. Up to and including the year 1994, upon payment by the Mortgagor of any excess as aforesaid, Mortgagor may request in writing from the Mortgagee an advance of such excess. Mortgagee shall, within thirty (30) days of such request, advance to the Mortgagor the amount of such excess requested by Mortgagor, provided that the Principal of the Mortgage shall never exceed Thirty Five Million Dollars ($35,000,000).
+
+3. Subject to paragraph 2 above, if the mortgagor does not pay the mortgagee the excess of the interest expense on any payment date over the balance of the net cash flow, such excess shall be added to the balance of the principal and shall bear interest at the rate stipulated in this schedule at the relevant period.
+
+What is missing from this wording, which is fatal to the Respondent's submissions, is any suggestion that the Appellant's rights have been restricted such that section 3 is the Appellant's only relief in the event of non-payment. The provision just does not go that far. The agreement does not expressly state, nor can it even be implied, that the Appellant has agreed to give up its right to sue for the excess interest. I find that the use of the term "shall accrue due and be payable to the mortgagee on the 31st day of December in each year" (found in paragraph 2 of Schedule A) is not so fundamentally different from "shall pay" as suggested by the Respondent. On December 31 of each year the mortgagee could sue for its excess interest based on the wording of sections 2 and 3.
+
+[31] I also do not find that the contractual right of the Appellant to request the excess interest from Postel with a corresponding obligation from Postel to lend such funds to the Appellant negates Postel's right to seek payment every December 31. The consequence flowing to Postel if it insisted upon payment of the excess interest was that it might have to lend the Appellant the money to make the payment. The Agreement does not state that the Appellant can only pay with funds borrowed from Postel but just that the Appellant may request such funds.
+
+[32] I do not accept the Respondent's suggestion that the parties' behaviour leads to the conclusion that they never intended to do anything other than add the excess interest to the principal, and that there was therefore no legal obligation to pay on December 31 of each year. The Respondent cannot simply impose a form of promissory estoppel on the parties. Whatever the parties' business conduct might lead a third party to surmise, I find the parties remained bound to an agreement that in clear terms gave the mortgagee the right to seek the excess interest every December 31. Nothing in the agreement itself deprives the mortgagee of this right. Further, I have not been made aware of any principle, other than promissory estoppel, (which is not here raised by a party to the contract) which stipulates that the subsequent conduct of the parties displaces the clear wording of the agreement.
+
+[33] Having found there was a liability to pay the excess interest, I must now determine if that liability was contingent due to the limited recourse nature of the indebtedness. I wish first to comment on the applicability of paragraph 24 to the situation facing the Appellant in 1996 and 1997, as I do not see it as relevant to the Respondent's contingency liability argument. The provision requires a two pronged offer. One to the mortgagor for its leasehold interest, and the other to the mortgagee for its interest under the mortgage. This offer would make perfect sense in a situation where the mortgage is not in arrears and the purchaser wishes to acquire the property outright, unencumbered. The purchaser would make a payment to each of the parties with an interest in the property. The mortgagor (the Appellant) would then be obliged to pay part of its payment (five years' prepayment of interest) over to the mortgagee, subject to the eighty percent of proceeds restriction. There is no "contingency" regarding the interest in this situation.
+
+[34] However, consider also the actual circumstances in 1996 and 1997 when the principal and interest far exceeded the value of the property: no third party purchaser would ever make any offer to the Appellant as the Appellant's interest was worthless. The only reasonable offer would be to the mortgagee to take over its interest under the mortgage and its reversionary interests, and then be in a position to simply foreclose on the mortgagor. If Postel was prepared to sell its interest in the mortgage to a third party for something less than the amount owed by the mortgagor, that does not relieve the mortgagor of its liability for interest. It simply replaces Postel as mortgagee. The only situation where the mortgagor is relieved of any interest obligation is pursuant to paragraph 7 and 8 and paragraph 23 of the mortgage, where the mortgagee may take possession of the land, or sell the land, but cannot seek any deficiency. This can be the only "contingency" at issue.
+
+[35] Assuming then that the mortgagee demanded payment, presumably the Appellant could have responded by simply surrendering the lease and handing back the property. In December 1995, according to a letter of December 21, 1995 from HDL to Postel's lawyers, the total indebtedness was principal of approximately $30,000,000 and interest of approximately $60,000,000. The value of the property in 1996 and 1997 was estimated to be in the range of $42,000,000 to $44,000,000. So, had the property been simply delivered back to Postel, Postel would have been limited to receiving value equivalent to all of the principal plus some interest. The Respondent suggested that this situation highlighted that there was no reasonable certainty that the outstanding interest would ever be paid. But is this a contingent liability as contemplated by paragraph 18(1)(e) which would deny the Appellant the interest deduction? It is not.
+
+[36] Justice Sharlow in the Wawang case reiterated the test for the determination of a contingent liability as set out in Winter and Others (Executors of Sir Arthur Munro Sutherland (deceased)) v. Inland Revenue Commissioners, [1963] A.C. 235 (H.L.), as follows:
+
+I should define a contingency as an event which may or may not occur and a contingent liability as a liability which depends for its existence upon an event which may or may not happen.
+
+Justice Sharlow went on to say:
+
+Returning to the Winter test, the correct question to ask, in determining whether a legal obligation is contingent at a particular point in time, is whether the legal obligation has come into existence at that time, or whether no obligation will come into existence until the occurrence of an event that may not occur. For example, Winter establishes that where tax is payable on the gain realized on the sale of an asset, the obligation to pay the tax is a contingent liability unless the asset is sold.
+
+Finally, Justice Sharlow further addressed the risk of collection of a debt as follows:
+
+For example, with respect to the uncertainty as to payment, a taxpayer may incur an obligation at a time when it is in financial difficulty, with the result that there is a significant risk of non-payment, but that uncertainty cannot mean that the obligation was never incurred. Similarly, an obligation to pay a certain amount does not become a contingent obligation merely because events may occur that result in a reduction in the quantum of the liability.
+
+[37] The existence of the Appellant's liability to pay the mortgagee the excess interest was not contingent on any future event. If the property values did not increase significantly, the mortgagee had contractually bound itself to accepting less than the outstanding indebtedness by simply taking the property back, however, there always existed a liability which did not depend on the vagaries of the Alberta real property market for its very existence.
+
+[38] The Respondent relies on the earlier decisions of Barbican and Global for support that a limited recourse loan does indeed constitute a contingent liability. I do not read those cases as going that far. In the Barbican case the Tax Court Judge found there was no legal obligation to pay unless and until one of two conditions were met; the conditions were that net cash flow exceeded the interest payable or that there was a sufficient capital appreciation of the properties at the time of sale. I can find no wording in the documents in this case to suggest there is no legal obligation to pay interest until the value of the property increased to greater than the outstanding indebtedness. The relevant provisions are not framed in such terms.
+
+[39] In the Global Communications case what was at issue was a limited recourse promissory note, described by Justice Robertson as follows:
+
+Under the promissory note given by Global to Technical, interest accrued at the rate of five percent per annum and was not payable until the note matured on August 29, 1998 or the extension date August 29, 2001. Recourse under the note was limited to that which could be realized on the sale of the Global data and any Canadian oil and gas leases that Global held at the time the note came due. In short, Global could not be sued for any deficiency under the note.
+
+[40] In his analysis, Justice Robertson goes on to say:
+
+In the present case, the limited recourse promissory note represents a contingent liability, since it only arises to the extent that licensing revenue is generated which, by definition, is an uncertain event. There is no question that there is an underlying debt in respect to Global's purchase of the seismic data. It is equally true that personal liability will attach to Global with respect to licensing revenues actually received. Until such revenues are received however, Global's liability to pay the proceeds and ultimately the balance of the purchase price is a contingent one. Understandably, tax law does not permit the deduction of an expense which may not have to be paid.
+
+[41] That does not accurately describe the situation before me. Postel at any time could have demanded payment of the excess interest. The Appellant, if in a position to do so, could have paid it, could have borrowed from Postel to pay it, or could have surrendered its leasehold interest back to Postel. Had the Appellant taken the latter route and transferred property worth an amount that covered all of the principal and some of the interest, would the result have been a windfall to the Appellant; that is, would the Appellant have obtained a deduction of an interest expense which was ultimately not paid? No, as the debt forgiveness rules in section 80 would operate to adjust the tax impact of the previously deducted interest.
+
+[42] To deny interest deductibility on the basis that a limited recourse mortgage creates a contingent liability, creates the possibility of every such mortgagor being denied any interest deductibility. For example, what is the result if interest is accrued, its deductibility is denied, and the property is subsequently sold with most of the accrued interest being paid from the sale proceeds? Does the interest paid in the year of sale qualify for a deduction pursuant to paragraph 20(1)(c)? In this scenario to qualify under paragraph 20(1)(c) requires that the cash method was the method regularly followed by the taxpayer. It could be argued that one payment of accrued interest in the year of sale does not constitute the cash method. This leads to something of an absurdity in that it denies the deductibility of a legitimate interest expense payment. This suggests to me a potential pitfall in finding a limited recourse loan transforms the interest liability into a contingent liability only.
+
+[43] A further reason for remaining unconvinced the liability arising every December 31 is contingent relates to the timing of that determination. To determine the contingency nature of the liability at any point in time could require an assessment of the fair market value of the property at that point with a comparison to the outstanding indebtedness. If the value of the property surpasses the outstanding indebtedness in a limited recourse mortgage, how can it be found that there is any contingency; whereas, conversely, if the fair market value is significantly less than the outstanding indebtedness, such as the case at hand, it may be that the annual interest payable amount may or may not ever be collected by the mortgagee. The commercial prospect of frequent real estate appraisals to determine how contingent is the liability and consequently whether interest is deductible, would send shivers down the backbone of the Canadian real estate industry. It also leads me to the conclusion that the determination of whether the interest liability arising from a limited recourse mortgage is contingent should not be a frequent determination, but should be gleaned from the wording of the mortgage and the circumstances existing at the time the mortgage was entered into. Presumably at that time the debt is less than the value of the property. The interest liability should not subsequently be considered contingent due to the possibility of a declining real estate market or skyrocketing interest rates.
+
+[44] There is no evidence at the time this provision was agreed to that there were any exceptional circumstances to suggest it was some interest deductibility scam. It is a limited recourse mortgage; if there was a default, the mortgagee could get back the property and make a decision whether or not to sell the property. I find the interest liability was not one which depended for its existence on the mortgagee's right to foreclose; it is not a contingent liability.
+
+ISSUE: Did the transactions in December, 1995 constitute the payment of interest and the borrowing of a like amount as principal, resulting in the excess interest in 1996 and 1997 being simple interest as opposed to compound interest?
+
+[45] This issue hinges entirely on the true legal nature of the transactions in December, 1995. If what transpired at that time was indeed the payment of the accrued excess interest, then the interest owing in 1996 and 1997 was not interest on that accrued interest, but was simple interest and therefore deductible. If the December, 1995 transaction does not constitute payment of the accrued interest, then the 1996 and 1997 interest liability is compound interest, only deductible when paid.
+
+[46] The starting point for the analysis is the following wording of the mortgage agreement:
+
+Upon the payment by the mortgagor of any such excess as aforesaid the mortgagor may request in writing from the mortgagee an advance of such excess and the mortgagee shall forthwith following such request advance to the mortgagor the amount of such excess and any amount so advanced shall be added to and included in the principal.
+
+[47] So, clearly Postel obliged itself to lend to the Appellant, on request, an amount equal to any amount of excess interest paid by the Appellant to Postel. The document contemplates a payment of funds from the Appellant to Postel followed by an additional loan.
+
+[48] The Appellant intended to, and indeed did take great pains to structure the December, 1995 transaction as the payment of one debt and the borrowing of a new debt. The purpose was to ensure the deductibility of interest, by getting around the compound interest obstacle.[1] I am satisfied that both the Appellant and Postel made arrangements to have the requisite funds (approximately $60,000,000 Cdn or 28.8 million Pounds) available for what the parties refer to as the "cheque exchange". The Appellant arranged for its funds by way of loan from the CIBC. There is no evidence of where Postel came up with its $60,000,000, but clearly it did.
+
+[49] The Respondent argues that as the steps in this "cheque exchange" were conditional on one another, no debt was ever extinguished, and a debt must be extinguished to constitute payment. I have difficulty in identifying any moment in time when the Appellant did not owe Postel exactly $60,000,000; the Appellant never for an instant owed $120,000,000 to Postel, nor did the Appellant ever for an instant owe Postel nothing. There was a continual outstanding indebtedness of $60,000,000. At the exact same moment in time that the Appellant released $60,000,000 to Postel, Postel released $60,000,000 to the Appellant. The Supreme Court of Canada indicated in the Cox case :
+
+The simultaneous exchange of cheques, where neither would be honoured due to insufficient funds were it not for the offsetting entry of the other cheque, can only be viewed as a single transaction.
+
+(emphasis added)
+
+[50] However, the cheque exchange before me is distinguishable as both the Appellant and Postel had arranged for sufficient funds such that the cheques (wire transfers) would indeed be honoured, and in fact were honoured. There were readily identifiable funds of $60,000,000 from each side of the transaction: it was not a matter of each side relying on the other side's funds for their cheques to be honoured. If the conditions were met, that is, if you have your money ready and I have mine ready, the exchange is completed. This is quite different from parties recognizing that neither side really needs to have any money ready for an exchange.
+
+[51] I agree with the Respondent that "payment" means discharge of an obligation or a debt, and that in this case there was a continuous obligation of the $60,000,000, yet something did intervene to change the nature of that indebtedness. What intervened was the creation of certain legal relationships. The Supreme Court of Canada addressed the role of legal relationships vis-à-vis the economic realities of a situation in the recent Singleton case in the following manner:
+
+In examining the Minister's argument about the needs to consider the economic realities of a transaction rather than being bound to its strict legal effect, McLachlin, J. recognized (in Shell Canada v. The Queen) that the Courts must be sensitive to the economic realities of a transaction. However, she stated that (paragraphs 39-40):
+
+This Court has never held that the economic realities of a situation can be used to recharacterize the taxpayer's bona fide relationships. To the contrary we have held that absent a specific provision of the act to the contrary or the finding that they are a sham, the taxpayer's relationship must be respected in tax cases.
+
+and at paragraph 32:
+
+The Tax Court Judge found that the purpose in using the money was to purchase a house and that this purpose could not be altered by the "shuffle of cheques" that occurred on October 27, 1988. I respectfully disagree. It is this "shuffle of cheques" that defines the legal relationship which must be given effect.
+
+[52] I find I am faced with a similar dilemma. I feel much as Lord Nicholl's must have felt when he indicated in the House of Lords case of MacNiven v. Westmoreland Investments Ltd., 2001 U.K.H.L. 6 :
+
+My Lords, I confess that during the course of this appeal I have followed the same road to Damascus as Peter Gibson L.J. Like him, my initial view, which remained unchanged for some time, was that a payment comprising a circular flow of cash between borrower and lender, made for no commercial purpose other than gaining a tax advantage, would not constitute payment within the meaning of 2. 338. Eventually, I have found myself compelled to reach the contrary conclusion.
+
+...
+
+I must elaborate a little. In the ordinary case the source from which a debtor obtains the money he uses in paying his debt is immaterial for the purpose of s. 338. It matters not whether the debtor used cash-in-hand, sold assets to raise the money, or borrowed money for the purpose. Does it make a difference when a payment is made with money borrowed for the purpose from the very person to whom the arrears of interest are owed? In principle, I think not. Leaving aside sham transactions, a debt may be discharged and replaced with another even when the only persons involved are the debtor and creditor.
+
+[53] The Respondent argues that the MacNiven is distinguishable as the facts do not support a single transaction, as the lender in that case did not appear to attach any conditions to the loaning of funds. The Respondent submits that the Appellant's and Postel's exchange was "in reality a single transaction". I believe that the Respondent is attempting to hang its hat on an economic reality test which is not appropriate given the comments from Justice Major in Singleton. I find that what transpired in December, 1995 between the Appellant and Postel constituted payment of the accrued excess interest, and consequently the excess interest in 1996 and 1997 was not compound interest.
+
+ISSUE: Did the Appellant's investment in the project have a reasonable expectation of profit?
+
+[54] I cannot imagine a better example to illustrate the foibles of the oft-maligned REOP test than this case. The Respondent, by the application of the REOP test, concludes that the operation of a multi-million dollar office building over a lengthy period of time does not constitute a business for tax purposes. A review of every possible indicia of a business that one could identify would result in the resounding response that yes, this project was a business. The time spent on the project by the co-owners, the very duration of the building's existence, the significant capital invested, the maintenance of books and records, the organizational structure, the behaviour of the co-owners as operating a business, the lack of any personal element of the Appellant and the receipt by the Appellant of approximately $5,750,000 from the project over a 25 year period are just some of the factors that are conclusive that indeed a business existed. Yet out trots Moldowan and this project is subjected to the REOP examination, with the Respondent concluding that it does not pass the test. I cannot conceive that Chief Justice Dickson intended to de-business (I apologize for the bastardization of the English language, but the term seems to fit) a project such as this, stripping it of the status of a "source".
+
+[55] However, until further guidance from the Supreme Court of Canada, I am compelled to analyze those factors which might take a legitimate business out from under the taxing provisions of the Income Tax Act, due to a failure to meet the REOP test. Those factors are the Appellant's past profit and loss, the Appellant's motivation, the capability of the project to earn a profit and the nature and stage of the business. Given the advancement of the REOP argument was not a basis of reassessment, and was first raised in the Respondent's pleadings, the onus is on the Respondent to prove the Appellant had no reasonable expectation of profit. The Appellant argued, relying on the Kuhlmann case, that this required proof that the expectation of profit was irrational, absurd or ridiculous. I agree with Judge Bowman's analysis of the Kuhlmann case in Cober, 2001 T.C.J. No. 311 that Kuhlmann does not establish such a new principle.
+
+[56] The Respondent has not proven on a balance of probabilities that the Appellant had no reasonable expectation of profit. The Respondent states in his argument:
+
+The weight of the factors showing that there was no reasonable expectation of profit (indeed that there was even no intention of profit) is sufficient to warrant a finding of no reasonable expectation of profit.
+
+Yet the only factors raised in the Respondent's argument are the following:
+
+1. No profit has been reported since 1974.
+
+2. No substantial steps were taken to turn the project around.
+
+In a project anticipated to exist for a century, the lack of profit in a real estate development for the first quarter of its existence, given the volatility of both the real property market in Alberta and the volatility of interest rates, can not be the sole determinative of a businessperson's expectation of profit. The Respondent has not shown that the Appellant's motivation was other than to earn a profit over the life of this project. The evidence from the Appellant's discovery was that he anticipated a pay-out of the mortgage over approximately a 15 year period, though some later evidence from his discovery suggested that the pay-out might have been as much as 30 years. While the period for pay-out was significantly increased, the evidence still supports on balance an expectation of an ultimate pay-out of the mortgage, with an expectation of profit.
+
+[57] With respect to the Respondent's contention that no substantial steps were taken to turn the project around, the Respondent gave no examples of what those steps might have been. The Appellant by the mid-90's did take some steps in negotiating a lower interest rate and increasing the net cash flow that went to Postel. This may be interpreted more as a move for the survival of the project; but nonetheless it was a common sense business decision which neither the Respondent nor I should second guess. Evidence was presented at the trial in the form of a projection of the mortgage, illustrating the pay-out of the mortgage over the next 41 years. Granted, this was based on a negotiated 4.25 percent rate, it does still suggest to me that, contrary to the Respondent's assertions, the Appellant has taken steps to salvage this project and to yield a profit.
+
+[58] The nature and stage of the business in the mid to late 1990's was that of an established office building struggling for survival and an owner adjusting expectations to a longer term return but retaining profit expectations nonetheless. I find the Appellant had a business, and that for tax purposes that business had a reasonable expectation of profit.
+
+ISSUE: Do the general anti-avoidance rules apply to permit the Minister to ignore the purported payment of interest in 1995 and the borrowing of a like amount of principal?
+
+[59] I now find myself at GAAR's doorstep in a case that enticingly beckons me to open the door and apply the GAAR provisions in favour of the Respondent. Yet when those provisions are applied in the manner as set forth by Justice Rothstein in the OSFC case, the result is by no means inevitable. Indeed while I am led to the inexorable conclusion that the transactions are avoidance transactions within the meaning of subsection 245(3) of the Act, they are saved from the application of subsection 245(2) by the grace of subsection 245(4) as they are not avoidance transactions which result in a misuse of the provisions of the Act nor an abuse of the provisions of the Act read as a whole. My reasons for this conclusion follow.
+
+[60] It is unnecessary to go through the first several steps of the GAAR analysis as outlined by Justice Rothstein, as the Appellant acknowledges the arrangement constitutes avoidance transactions. The only question to be addressed is the application of subsection 245(4). Justice Rothstein suggested the following approach:
+
+I think, therefore, that to deny a tax benefit where there has been strict compliance with the Act on the ground that the avoidance transaction constitutes a misuse or abuse requires that the relevant policy be clear and unambiguous.
+
+and:
+
+Where Parliament has not been clear and unambiguous as to its intended policy, the Court cannot make a finding of misuse or abuse.
+
+and:
+
+The Court's only role is to identify a relevant, clear and unambiguous policy, so that it may determine whether the avoidance transactions in question are inconsistent with the policy, such that they constitute an abuse of the provisions of the Act, other than GAAR, read as a whole.
+
+and:
+
+If, by reasons of rules and exceptions of the Act, clear and unambiguous relevant policy could not be ascertained, I would agree with the Appellant that the application of the statutory provisions must prevail.
+
+and:
+
+There is no onus to be satisfied by either party at this stage of the analysis. However, from a practical perspective, the Minister should do more than simply recite the words of subsection 245(4) and allege there has been a misuse or abuse. The Minister should set out the policy with reference to the Act or its intrinsic aids upon which he relies.
+
+[61] What policy did the Respondent identify, as clearly it is for the Minister to set out the policy. Let me quote paragraphs 63 and 64 of the Respondent's written argument:
+
+63. In addition, the policy of the Act as a whole regarding the deductibility of interest should take account the following factors. Paragraph 20(1)(c) permits a deduction for computing income from a business or property of interest paid or payable in the year. A specific provision is required in respect of such a deduction because courts have held that interest is on capital account. Absent a statutory provision permitting the deduction, interest would not be an income deduction, owing to the general limitation regarding capital deductions found in paragraph 18(1)(b) of the ITA. The statutory provisions enacted by Parliament permit the deduction of simple interest on an accrual basis and compound interest only when paid.
+
+64. The policy of the ITA in its treatment of interest can also be gleaned from a consideration of section 80, the debt forgiveness rules. Paragraph 80(2)(b) applies to forgiven interest amounts for which deductions have been taken but payments have not been made. Since compound interest is not deductible unless paid, this provisions does not apply to forgiven yet unpaid compound interest. The policy of the Act is that compound interest must be paid in order to be deductible. The avoidance transactions here constitute an abuse, having regard to that policy.
+
+[62] I can glean no identifiable policy from this argument. It is simply a reiteration of what the Act itself says, that is, simple interest can be deducted on a paid or payable basis and compound interest must be paid to be deductible. That is not an underlying policy statement, that is a summary of the legislation. I was not referred by the Respondent to any materials that would assist me in understanding why the government permitted the deduction of simple interest on a payable basis and only permits the deduction of compound interest on a paid basis. What is the policy? It is not my role to speculate; it is the Respondent's role to explain to me the clear and unambiguous policy. He has not done so. I am therefore unable to find that there has been a misuse or abuse as contemplated by subsection 245(4) of the Act. Consequently, subsection 245(2) does not apply to the Appellant's avoidance transactions.
+
+[63] The Appellant has most deliberately relied on the sanctity of legal relationships, not to be impugned by the economic realities of a situation, in achieving his goal. I am satisfied that indeed the law supports his position, and while GAAR may be the ultimate weapon for the government to undo such legal relationships, in this instance the application of GAAR is simply ineffective.
+
+[64] The appeal is allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct interest in the amounts of $1,455,089 and $1,388,612 in respect of the 1996 and 1997 taxation years respectively, and is further entitled to deduct non-capital losses from 1992 and 1993 in the sum $631,402.63 in respect of the 1996 taxation year.
+
+[65] The Appellant is entitled to costs.
+
+Signed at Ottawa, Canada this 30th day of April, 2002.
+
+« Miller »
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-3636(IT)G
+
+STYLE OF CAUSE: Frederick W. Hill v. Her Majesty the Queen
+
+PLACE OF HEARING: Winnipeg, Manitoba
+
+DATE OF HEARING: February 14, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.J. Miller
+
+DATE OF JUDGMENT: April 30, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Ian Gamble and Warren J.A. Mitchell
+
+Counsel for the Respondent: Robert Gosman and Jeff Pniowsky
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Warren J.A. Mitchell
+
+Firm: Thorsteinssons
+
+Vancouver, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] In Bill Berezan's memo to the Appellant of December 18, 1995 he stated "A further thought I had is we should exchange cheques for the full amount of interest (not just compound interest) thereby forever avoiding the concern that RCT might argue this was on account of simple versus compound interest".
+

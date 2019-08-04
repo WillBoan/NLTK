@@ -1,0 +1,146 @@
+Date: 20020513
+
+Docket: 2002-150-IT-I
+
+BETWEEN:
+
+THOMAS DOSWELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+
+
+Little, J.
+
+[1] The Appellant is appealing a Notice of Assessment issued by the Minister of National Revenue (the "Minister") for the 2000 taxation year.
+
+[2] The Appellant received dividends from taxable Canadian Corporations of $2,915.77 in the 2000 taxation year.
+
+[3] In the year 2000, the Appellant also received a payment in the amount of $5,079.00 under the Old Age Security Act.
+
+[4] In computing his income for the 2000 taxation year, the Appellant determined that he was required to include in his income the amount of $2,359.38 based on the inclusion of the actual dividends received by him of $2,915.77.
+
+[5] By Notice of Assessment dated June 21, 2001 the Minister determined that in computing his income the Appellant should have used the taxable amount of the dividends of $3,644.70 rather than the actual amount of the dividends of $2,915.77.
+
+[6] The issue is whether the Appellant is required to report the actual amount of dividends received by him of $2,915.77 or the "grossed up" amount of the dividends ($2,915.77 x .25 = $3,644.70) in the computation of the tax applicable to the amounts received under the Old Age Security Act.
+
+Analysis
+
+[7] Section 180.2 of Part I.2 of the Income Tax Act (the "Act") imposes a tax with respect to federal Old Age Security Benefits included in the income of a taxpayer. To the extent that the taxpayer's net income including Old Age Security Benefits exceeds a threshold of $50,000.00, or such amount after indexation, section 180.2 imposes a 15% tax on the benefits. This is sometimes referred to as a "social benefit repayment" or a "clawback".
+
+[8] In order to determine the amount of Part I.2 tax payable, it is necessary to:
+
+(1) Total the amounts of pension, supplement or spouse's or common law partner's allowance under the Old Age Security Act included as benefits in computing the individual's Part I income for the year under paragraph 56(1)(a);
+
+
+
+(2) Determine the "adjusted income" received by the individual for the year, and then subtract the indexed threshold amount and multiply the remainder by 15%.
+
+
+
+The lesser of the two amounts determined under (1) and (2) will equal the Part I.2 tax payable by the individual for the taxation year.
+
+[9] In the case of the Appellant, the amount determined under (2) using "adjusted income" was the lesser of the two and was, therefore, the amount determined to be the Appellant's Part I.2 tax payable (social benefits repayment) for the 2000 taxation year.
+
+[10] For the purposes of the Part I.2 tax, "adjusted income" is defined in subsection 180.2(1) of the Act as follows:
+
+"adjusted income" of an individual for a taxation year means the amount that would be the individual's income under Part I for the year if no amount were deductible under paragraph 60(w) nor included in respect of a gain from a disposition of property to which section 79 applies.
+
+
+
+and is calculated under the general rules of Part I of the Act (specifically section 3). "Adjusted income" therefore, is a taxpayer's net income and not his taxable income. As Judge Lamarre Proulx T.C.J. explained in Poulin v. R. [1], at paragraph 12:
+
+According to that paragraph, the individual's income which is taken into account is his "income", not his "taxable income". Under the Act, income and taxable income are different concepts and are governed by specific legislative provisions. "Income" is computed under Division B of Part I of the Act, while "taxable income" is computed under Division C of the Act...
+
+[11] However, as noted above, adjusted income is calculated under section 180.2 as if no amount were deductible under paragraph 60(w) (which provides for the deduction of the social benefits repayment itself) or included in respect of a gain from the disposition of property to which section 79 applies (capital gains realized on mortgage foreclosures).
+
+[12] Subsection 82(1) located in Division B of Part I of the Act, requires that in computing the income of a taxpayer for a taxation year there shall be included in income Canadian-source dividend income received in the year, plus 1/4 of the amount of the dividend. Therefore, where Canadian-source dividend income was received in the year, it is the "grossed-up" amount that must be included in the determination of "adjusted income" used to calculate the tax applicable to the amount received under the Old Age Security Act.
+
+[13] The appeal is dismissed.
+
+Signed at Vancouver, British Columbia, this 13th day of May 2002.
+
+"L.M. Little"
+
+J.T.C.C.
+
+COURT FILE NO.: 2002-150(IT)I
+
+STYLE OF CAUSE: Thomas Doswell and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATE OF HEARING: April 25, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge L.M. Little
+
+DATE OF JUDGMENT: May 13, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Justine Malone
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2002-150(IT)I
+
+BETWEEN:
+
+THOMAS DOSWELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on April 25, 2002 at Ottawa, Ontario, by
+
+
+
+the Honourable Judge L.M. Little
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Justine Malone
+
+JUDGMENT
+
+The appeal from the assessments made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Vancouver, British Columbia, this 13th day of May 2002.
+
+"L.M. Little"
+
+J.T.C.C.
+
+[1] [1998] 3 C.T.C. 2820. In this case the taxpayer appealed the inclusion of an income replacement indemnity in computing the taxpayer's Old Age Security Benefits repayment. The taxpayer argued the amount should be backward averaged. The taxpayer's appeal was denied.
+

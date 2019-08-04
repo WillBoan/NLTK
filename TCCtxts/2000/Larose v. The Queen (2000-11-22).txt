@@ -1,0 +1,268 @@
+Date: 20001222
+
+Docket: 2000-1200-IT-I
+
+BETWEEN:
+
+SERGE LAROSE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+(Delivered orally from the bench at Ottawa, Ontario, on November 21, 2000, and amended at Ottawa, Ontario, on December 22, 2000.)
+
+Lamarre, J.T.C.C.
+
+[1] According to my understanding of the proceedings, which, incidentally, are very ambiguous, the appellant is appealing the assessments made by the Minister of National Revenue ("Minister") whereby the Minister imposed on the appellant a tax equal to one percent of the excess amount in respect of his registered retirement savings plan ("RRSP"), in accordance with Part X.1 of the Income Tax Act ("Act"), for each of the 1997 and 1998 taxation years. The problem at issue, which was explained more clearly by Marianne Murphy, the Canada Customs and Revenue Agency litigation officer who signed the Reply to the Notice of Appeal, is not clear from the notices of reassessment and statements of account filed in evidence as exhibits A-1 and A-2.
+
+[2] The relevant provisions of the Act read as follows:
+
+Part X.1
+
+Tax in Respect of
+
+Over-Contributions to
+
+Deferred Income Plans
+
+SECTION 204.1: Tax payable by individuals.
+
+(1) Where, at the end of any month after May, 1976, an individual has an excess amount for a year in respect of registered retirement savings plans, the individual shall, in respect of that month, pay a tax under this Part equal to 1% of that portion of the total of all those excess amounts that has not been paid by those plans to the individual before the end of that month.
+
+SECTION 204.2: Definition of "excess amount for a year in respect of registered retirement savings plans".
+
+(1) "Excess amount for a year in respect of registered retirement savings plans" of an individual at a particular time means,
+
+(a) where the excess amount is for a year after 1990, nil; and
+
+(b) where the excess amount is for a year before 1991, the amount, if any, by which the total of
+
+(i) all amounts paid by the individual to such plans under which the individual or the individual's spouse or common-law partner is the annuitant, other than amounts
+
+(A) to which paragraph 60(j), (j.01), (j.1), (j.2) or (l) applies or would, if the individual were resident in Canada throughout the year, apply, or
+
+(B) transferred to the plan in accordance with any of subsections 146(16), 147(19) and 147.3(1) and (4) to (7), and
+
+(ii) all gifts made to such a plan under which the individual is the annuitant, other than gifts made thereto by the individual's spouse or common-law partner,
+
+in the year and before the particular time, exceeds the total of
+
+(iii) all amounts that may be deducted in computing the individual's income for the immediately preceding year in respect of those payments, and
+
+(iv) the greater of $5,500 and the amount that may be deducted in computing the individual's income for the year in respect of those payments.
+
+4204.2(1.1)3
+
+(1.1) Cumulative excess amount in respect of RRSPs. The cumulative excess amount of an individual in respect of registered retirement savings plans at any time in a taxation year is the amount, if any, by which
+
+(a) the amount of the individual's undeducted RRSP premiums at that time
+
+exceeds
+
+(b) the amount determined by the formula
+
+A + B + R + C + D + E
+
+where
+
+A is the individual's unused RRSP deduction room at the end of the preceding taxation year,
+
+B is the amount, if any, by which
+
+(i) the lesser of the RRSP dollar limit for the year and 18% of the individual's earned income (as defined in subsection 146(1)) for the preceding taxation year
+
+exceeds the total of all amounts each of which is
+
+(ii) the individual's pension adjustment for the preceding taxation year in respect of an employer, or
+
+(iii) a prescribed amount in respect of the individual for the year,
+
+C is, where the individual attained 18 years of age in a preceding taxation year, $2,000, and in any other case, nil
+
+D is the group RRSP amount in respect of the individual at that time,
+
+E is, where the individual attained 18 years of age before 1995, the individual's transitional amount at that time, and in any other case, nil, and
+
+R is the individual's total pension adjustment reversal for the year.
+
+[3] In the tax returns for each of these years the appellant himself deducted amounts of $3,285 in 1997 and $2,767 in 1998 in respect of his RRSP. In so doing, he deducted the maximum amount allowed by the Act and he admitted during his testimony that he had made over-contributions to his RRSP amounting to $9,001 as of December 31, 1997 and $6,234 as of December 31, 1998. This is shown in the following table, which is not contested by the appellant.
+
+SERGE LAROSE
+
+CONRIBUTIONS PAID INTO AN RRSP
+
+T1-OVP: 1995
+
+Unused contributions 1995-01-01 $ -
+
+Plus: Contributions
+
+March - December 1995 3,344
+
+January - February 1996 -
+
+$ 3,344
+
+Less: Deducted contributions 3,344
+
+Unused contributions 1995-12-31 $ -
+
+T1-OVP: 1996
+
+Unused contributions 1996-01-01 $ -
+
+Plus: Contributions
+
+March - December 1996 5,289
+
+January - February 1997 5,006
+
+$ 10,295
+
+Less: Deducted contributions 3,289
+
+Unused contributions 1996-12-31 $ 7,006
+
+T1-OVP: 1997
+
+Unused contributions 1997-01-01 $ 7,006
+
+Plus: Contributions
+
+March - December 1997 280
+
+January - February 1998 5,000
+
+$ 12,286
+
+Less: Deducted contributions 3,285
+
+Unused contributions 1997-12-31 $ 9,001
+
+T1-OVP: 1998
+
+Unused contributions 1998-01-01 $ 9,001
+
+Plus: Contributions
+
+March - December 1998 -
+
+January - February 1999 -
+
+$ 9,001
+
+Less: Deducted contributions 2,767
+
+Unused contributions 1998-12-31 $ 6,234
+
+[4] According to subsection 146(5) of the Act, a taxpayer may deduct RRSP premiums up to a deduction limit.
+
+[5] The RRSP deduction limit is defined in subsection 146(1) as follows:
+
+Registered Retirement Savings Plans
+
+SECTION 146: Definitions.
+
+In this section,
+
+"RRSP deduction limit" - "RRSP deduction limit" of a taxpayer for a taxation year means the amount determined by the formula
+
+A + B + R - C
+
+where
+
+A is the taxpayer's unused RRSP deduction room at the end of the preceding taxation year,
+
+B is the amount, if any, by which
+
+
+
+(a) the lesser of the RRSP dollar limit for the year and 18% of the taxpayer's earned income for the preceding taxation year
+
+exceeds the total of all amounts each of which is
+
+(b) the taxpayer's pension adjustment for the preceding taxation year in respect of an employer, or
+
+(c) a prescribed amount in respect of the taxpayer for the year,
+
+
+
+C is the taxpayer's net past service pension adjustment for the year, and
+
+R is the taxpayer's total pension adjustment reversal for the year . . . .
+
+[6] The appellant maintains that the Minister should take all of his income into consideration in computing his "earned income", including a capital gain which he claims to have realized in the course of these years. If his earned income were increased in this way, his RRSP deduction limit would be correspondingly increased, which would have the effect of reducing the tax of one per cent on the excess amount in respect of his RRSP.
+
+[7] Earned income is also defined in subsection 146(1) of the Act as follows:
+
+"earned income" - "earned income" of a taxpayer for a taxation year means the amount, if any, by which the total of all amounts each of which is
+
+(a) the taxpayer's income for a period in the year throughout which the taxpayer was resident in Canada from
+
+(i) an office or employment, determined without reference to paragraphs 8(1)(c), (m) and (m.2),
+
+(ii) a business carried on by the taxpayer either alone or as a partner actively engaged in the business, or
+
+(iii) property, where the income is derived from the rental of real property or from royalties in respect of a work or invention of which the taxpayer was the author or inventor,
+
+(b) an amount included under paragraph 56(1)(b), (c), (c.1), (c.2), (g) or (o) in computing the taxpayer's income for a period in the year throughout which the taxpayer was resident in Canada,
+
+(b.1) an amount received by the taxpayer in the year and at a time when the taxpayer is resident in Canada as, on account of, in lieu of payment of or in satisfaction of, a disability pension under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+
+(c) the taxpayer's income for a period in the year throughout which the taxpayer was not resident in Canada from
+
+(i) the duties of an office or employment performed by the taxpayer in Canada, determined without reference to paragraphs 8(1)(c), (m) and (m.2), or
+
+(ii) a business carried on by the taxpayer in Canada, either alone or as a partner actively engaged in the business
+
+except to the extent that the income is exempt from income tax in Canada by reason of a provision contained in a tax convention or agreement with another country that has the force of law in Canada, or
+
+(d) in the case of a taxpayer described in subsection 115(2), the total that would be determined under paragraph 115(2)(e) in respect of the taxpayer for the year if
+
+(i) that paragraph were read without reference to subparagraphs 115(2)(e)(iii) and (iv), and
+
+(ii) subparagraph 115(2)(e)(ii) were read without any reference therein to paragraph 56(1)(n),
+
+except any part thereof included in the total determined under this definition by reason of paragraph (c) or exempt from income tax in Canada by reason of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+
+exceeds the total of all amounts each of which is
+
+(e) the taxpayer's loss for a period in the year throughout which the taxpayer was resident in Canada from
+
+(i) a business carried on by the taxpayer, either alone or as a partner actively engaged in the business, or
+
+(ii) property, where the loss is sustained from the rental of real property,
+
+(f) an amount deductible under paragraph 60(b), (c) or (c.1), or deducted under paragraph 60(c.2), in computing the taxpayer's income for the year,
+
+(g) the taxpayer's loss for a period in the year throughout which the taxpayer was not resident in Canada from a business carried on by the taxpayer in Canada, either alone or as a partner actively engaged in the business, or
+
+(h) the portion of an amount included under subparagraph (a)(ii) or (c)(ii) in determining the taxpayer's earned income for the year because of subparagraph 14(1)(a)(v)
+
+and, for the purposes of this definition, the income or loss of a taxpayer for any period in a taxation year is the taxpayer's income or loss computed as though that period were the whole taxation year . . . .
+
+[8] The definition of "earned income" for the purposes of an RRSP deduction does not include capital gains. The legislation is clear and the appellant cannot get around it. The deduction limit as calculated by the appellant himself in his tax returns and adopted, according to the testimony of Ms. Murphy, by the Minister in order to calculate the tax of one per cent on the excess RRSP amounts is therefore correct and the assessments are therefore valid.
+
+[9] The appellant further maintained in his Notice of Appeal that the definition of "earned income" in subsection 146(1) of the Act impairs his rights and freedoms and therefore violates the Canadian Charter of Rights and Freedoms. This argument has already been rejected by the Federal Court of Appeal in Kasvand v. The Queen, 94 DTC 6271.
+
+[10] The appeals are therefore dismissed.
+
+Signed at Ottawa, Canada, this 22nd day of December 2000.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 26th day of June 2001.
+
+Stephen Balogh, Revisor
+

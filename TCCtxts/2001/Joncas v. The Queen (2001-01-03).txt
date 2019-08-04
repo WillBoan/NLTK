@@ -1,0 +1,670 @@
+Date: 20010103
+
+Docket: 98-1096-IT-G
+
+BETWEEN:
+
+PAUL-AIMÉ JONCAS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] This is an appeal from an assessment for the 1992 taxation year. By that assessment, the Minister of National Revenue (the "Minister") disallowed the appellant's deduction of an allowable business investment loss of $245,614 resulting from the sale of all the shares he held in the capital stock of Trans Côte Inc. ("Trans Côte") to Garage LBS Inc ("LBS").
+
+The issue
+
+[2] The reason given by the Minister for his refusal to recognize the loss is that the appellant and LBS were in reality not dealing with each other at arm's length at the time of the transaction. For a business investment loss to be recognized on the disposition by a taxpayer of shares of the capital stock of a small business corporation, it is required under subparagraph 39(1)(c)(ii) of the Income Tax Act (the "Act") that the disposition be "to a person with whom the taxpayer was dealing at arm's length".
+
+[3] For the purposes of the assessment, the Minister assumed, inter alia, the facts set out in subparagraphs 15(a) to (x) of the Reply to the Notice of Appeal. They read as follows:
+
+[TRANSLATION]
+
+(a) Trans Côte Inc. was incorporated in 1987 and operated an air transport service at the airport of Lourdes-de-Blanc-Sablon in the province of Quebec.
+
+(b) Until December 31, 1992, the appellant owned all the Class A shares (voting and participating) and all the Class B shares (non-voting and non-participating) of Trans Côte Inc.
+
+(c) Numbered company 162481 Canada Inc. was incorporated in 1988 and operated an aircraft maintenance and repair and petroleum products sales business in Lourdes-de-Blanc-Sablon in the province of Quebec.
+
+(d) On December 31, 1992, Trans Côte Inc. owned all the Class A shares (voting and participating) of 162481 Canada Inc.
+
+(e) On December 31, 1992, the Class F shares (non-cumulative preferential dividend of $1.00 per share, non-voting and non-participating) of 162481 were held as follows: the appellant, 3,524 shares; Trans Côte Inc., 16,120 shares; 153760 Canada Inc., 15,031 shares; and Construction Joncas & Frères Inc., 9,322 shares.
+
+(f) Numbered company 153760 Canada Inc. was incorporated in 1986 and was the owner of aircraft in Lourdes-de-Blanc-Sablon. On December 31, 1992, all of its voting shares were held by the appellant.
+
+(g) Garage LBS Inc. was incorporated in 1986 and carried on an automotive repair and parts business; since 1993, however, its only income has been from the lease of its building to Hydro-Québec.
+
+(h) On December 31, 1992, the appellant and Philippe Labadie each held 50% of the Class A (voting) shares of Garage LBS Inc.
+
+(i) On December 31, 1992, the appellant owned 70,982 Class G (non-voting) shares, of which 15,086 had been issued on December 30, 1992, and Philippe Labadie owned 55,896 such shares.
+
+(j) During the year in issue, the appellant carried on two businesses: Gestion Paul-A. Joncas (management) and Paul-Aimé Joncas Enr. (aircraft rentals).
+
+(k) On November 26, 1992, the appellant, who owned 51,350 Class B (non-voting) shares of Trans Côte Inc.'s capital stock, subscribed for 114,166 additional Class B (non-voting) shares of Trans Côte Inc.'s capital stock, in consideration of which the appellant issued a release to Trans Côte Inc. in respect of a $114,166 advance that he had made to that company.
+
+(l) On November 26, 1992, the appellant subscribed for 41,770 Class B (non-voting) shares of Trans Côte Inc.'s capital stock, in consideration of which the appellant issued a release to Trans Côte Inc. in respect of a $41,770 advance that he had made to that company.
+
+(m) On December 30, 1992, the appellant subscribed for 15,086 Class G (non-voting) shares of Garage LBS Inc.'s capital stock.
+
+(n) Trans Côte Inc.'s only sureties in respect of its $115,000 line of credit were the appellant, 153760 Canada Inc. and 162481 Canada Inc.
+
+(o) As at December 31, 1992, and December 31, 1993, Trans Côte Inc. had received the following advances:
+
+Advances from December 31, 1992 December 31, 1993
+
+related corporations
+
+Construction Joncas et frères $18,000 $1,259
+
+Gestion Paul-A. Joncas et frères $15,000 0
+
+153760 Canada Inc. $19,868 0
+
+Pec Nord $940 0
+
+Advance from a related individual $55,250
+
+(p) On December 31, 1992, the appellant sold all the Class A and Class B shares of Trans Côte Inc.'s capital stock to Garage LBS Inc. for a consideration of $1.00.
+
+(q) Thus, the appellant sold 12,020 Class A (voting) shares, having a total adjusted cost base of $120,200, and 207,286 Class B (non-voting) shares, having a total adjusted cost base of $207,286.
+
+(r) According to the valuation of the shares provided by the appellant, the Class B shares had a total value of $6,022 while the Class A shares had a zero value.
+
+(s) The appellant therefore claimed, in respect of his 1992 taxation year, a business investment loss of $245,614, representing 75% of $327,486 ($120,200 + $207,286).
+
+(t) However, on December 31, 1992, the appellant disposed of his shares of Trans Côte Inc.'s capital stock to a person with whom he was not dealing at arm's length.
+
+(u) The influence and control exercised by the appellant over the activities and the decisions of Garage LBS Inc. were disproportionate to his share ownership.
+
+(v) The appellant was in fact the person who had directed both parties to the transaction of December 31, 1992.
+
+(w) Philippe Labadie worked for Construction St-Laurent Inc. and Construction Roger Dumas Inc.; he has never been an employee of Garage LBS Inc., Trans Côte Inc., 153760 Canada Inc. or 162481 Canada Inc.
+
+(x) Philippe Labadie did not participate in the decisions respecting the share purchases, redemptions or issues by Trans Côte Inc.; for instance, he was not aware that Trans Côte Inc. owned the Class A (voting) shares of 162481 Canada Inc.
+
+[4] Thus, on December 31, 1992, the appellant disposed of all his shares of Trans Côte's capital stock to LBS, in whose capital stock he then held 50% of the voting shares. Philippe Labadie held the other 50% of the voting shares of LBS's capital stock.
+
+[5] According to subparagraphs 15(t), (u) and (v) of the Reply to the Notice of Appeal, the Minister concluded that the appellant and LBS were not dealing at arm's length at the time of that transaction in that the influence and control exercised by the appellant over the activities and decisions of LBS were disproportionate to his share ownership and he was in fact the person who had directed both parties to the transaction. Naturally, the appellant disagrees with the Minister's conclusion and denies the facts on which it is based.
+
+The evidence
+
+[6] The appellant and Philippe Labadie testified. Harold Bouchard and Jeannine Claveau, who were respectively an investigator and an appeals officer with Revenue Canada at the time of the assessment and also at the time of the objection, testified for the respondent.
+
+[7] The appellant is a physician. From 1985 to the end of August 1993, he practised his profession at the Centre de santé de la Basse-Côte-Nord ("Centre de santé") in Lourdes-de-Blanc-Sablon ("Blanc-Sablon"), some 1,800 kilometres from Québec. The appellant also had interests in many local businesses in which he had invested, including real estate, construction, retail sales (convenience stores), aquaculture and air transport.
+
+[8] As can be seen in the Reply to the Notice of Appeal, the appellant's interests in the area of air transport were divided among a number of companies and businesses. In the first place, he owned all the shares of the capital stock of Trans Côte, the company operating the air transport service. In the operation of its business, Trans Côte used aircraft belonging to 153760 Canada Inc. or to the appellant himself, who carried on business under the firm name Paul-Aimé Joncas Enr. All the shares of 153760 Canada Inc.'s capital stock belonged to the appellant. Numbered company 162481 Canada Inc. carried on an aircraft maintenance and repair business and also sold fuel for aircraft. That company's business was called the "Centre Aéro". The voting shares of the said company's capital stock all belonged to Trans Côte. The preferred shares were held by the appellant, Trans Côte, 153760 Canada Inc. and Construction Joncas et Frères Inc. Lastly, it should be noted that the sureties for Trans Côte's line of credit were the appellant himself and numbered companies 153760 Canada Inc. and 162481 Canada Inc.
+
+[9] For the purposes of this appeal, there is no need to elaborate further on the appellant's other financial interests in Blanc-Sablon, except to say that he also owned 50% of the Class A voting shares of the capital stock of LBS, the company to which he sold his Trans Côte shares.
+
+[10] Trans Côte was incorporated in 1987 by the appellant and one Pierre Duchesne, a Québec businessman active in the field of aviation. Its initial purpose was to alleviate the problem of the lack of an organized air transport service for medical evacuations. Trans Côte began with a charter flight service and later extended its activities, offering a regular daily flight to Sept-Îles, five or six days a week.
+
+[11] The appellant became the sole shareholder of Trans Côte towards the end of 1988. He stated that he generally did not become involved in the businesses in which he had invested, including Trans Côte, since he devoted all his time, between 120 and 150 hours a week, to his medical practice. It was his brother, Armand Joncas, who handled the day-to-day activities of Trans Côte and its subsidiary 162481 Canada Inc., although the appellant was their sole director.
+
+[12] In 1988, the appellant was notified by the Corporation professionnelle des médecins du Québec ("Corporation des médecins") of a potential conflict of interest since, on the one hand, he was a physician prescribing air transport for some patients from the Centre de santé to other institutions and, on the other hand, Trans Côte had a contract with the Centre de santé to provide such transport. In his testimony, the appellant said he had taken steps to sell Trans Côte as soon as he received the notification from the Corporation des médecins. Thus, as early as 1989, two airplane pilots and a mechanic from Trans Côte displayed an interest and signed a promise of purchase and sale, but no transaction could be completed.
+
+[13] According to the appellant, the whole conflict of interest issue was the subject of not only an exchange of letters but also many discussions with the Corporation des médecins over several years.
+
+[14] On October 4, 1991, with the situation apparently unchanged, Dr. Lair, of the Corporation des médecins, notified the appellant that he had been informed by an associate deputy minister in the Department of Health and Social Services (Ministère de la Santé et des Services sociaux) that he believed there was in fact a significant conflict of interest for the reasons stated above, and that he (Dr. Lair) accordingly intended to investigate the situation.
+
+[15] On May 14, 1992, Dr. Lair wrote to the appellant informing him that the members of the complaint review committee of the Corporation des médecins wanted to meet with him to pass on the comments and recommendations resulting from the investigation conducted by the Bureau du syndic of the physicians' professional corporation. That meeting took place on June 10, 1992.
+
+[16] On June 18, 1992, Dr. Lair wrote to the appellant again after the latter's June 10, 1992 meeting with the members of the complaint review committee. In the letter, Dr. Lair stated that the appellant had told the committee members at that meeting that he had sold Trans Côte retroactive to January 1, 1992 and, in connection with that sale, a notary had been appointed trustee. To complete his investigation file, Dr. Lair therefore requested a copy of the contract of sale from the appellant.
+
+
+
+[17] The appellant testified that he had explained to the members of the complaint review committee that he had received only an offer to purchase; he said that the people he met with had thus apparently erroneously understood that he had already made the sale.
+
+[18] In fact, on February 27, 1992, the appellant had signed a promise of purchase and sale with the Coopérative de transport intégré de la Basse-Côte-Nord ("Coopérative de transport") involving all the shares of the capital stock of Trans Côte and 153760 Canada Inc. that belonged to him (Exhibit A-1, Tab 6). The document concerned as well a 1973 Beechcraft airplane that the appellant owned personally. The minimum price stipulated in the document was $500,000, and the purchaser gave an undertaking to sign, on the closing of the sale, a trust agreement under which notary Clément Côté was to be appointed trustee with instructions to hold the shares that had been sold until the balance of the sale price had been paid in full.
+
+[19] Closing was to take place as soon as the companies' financial statements for the year ended on December 31, 1991 were available, that is, towards the end of March 1992. Although the promise of purchase and sale was not conditional and was to take effect on January 1, 1992, an additional agreement signed on the same day specifically made it conditional by requiring that the transaction be approved by the Caisse populaire de Blanc-Sablon, the Fédération des Caisses populaires du Québec and the Société de développement industriel du Québec within 30 days from the producing of the financial statements of the companies in question.
+
+[20] In a letter to the appellant dated July 10, 1992, Dr. Lair indicated that the complaint review committee had resolved to send the appellant its written comments and recommendations resulting from the investigation of the Bureau du syndic. Dr. Lair also noted the following:
+
+[TRANSLATION]
+
+The committee has taken note of the fact that you sold the Trans Côte air transport company to a transport cooperative retroactive to January 1, 1992.
+
+[21] Further to a letter from the appellant dated August 3, 1992, which was not adduced in evidence, Dr. Lair made the following comment in a letter dated September 16, 1992:
+
+
+
+[TRANSLATION]
+
+I have noted that the "contract for the sale of Groupe Trans Côte Inc." was really a promise of purchase and sale. I presume, however, that you have indeed sold Trans Côte Inc. and that a final sale has taken place.
+
+[22] On November 19, 1992, Dr. Lair again wrote the appellant, in the following terms, to inform him of what he had learned:
+
+[TRANSLATION]
+
+I was recently informed by the Department of Health and Social Services that you apparently have not sold your interest in the air transport company that signed the transportation contract with the Centre de Santé de la Basse-Côte-Nord, given that cheques from that company still bore your signature at the end of August 1992.
+
+I would ask you to tell me whether you did in fact close the sale of your air transport company and, if so, I would like to have a copy of the final contract relating to that sale.
+
+[23] On December 12, 1992,[1] the appellant, replying to Dr. Lair's letter of November 19, asserted that he had not signed any Trans Côte cheques in August 1992 and had not signed any of that company's cheques for over three years.
+
+[24] As for the matter of the sale of Trans Côte, the appellant referred to a letter dated December 8, 1992 from the notary Clément Côté to Dr. Lair explaining the sequence of events in the affair from the beginning. In that letter, a copy of which was attached to the appellant's letter, the notary, Mr. Côté, made reference to the promise of purchase and sale of February 1989 that had come to nothing. He made reference as well to another promise of purchase and sale, this time with Manit Innuat, a corporation representing the band councils of the Amerindians of Mingan, Natashquan, La Romaine and St-Augustin. Nothing came of it either.
+
+[25] In his letter, the notary, Mr. Côté, reported on the promise of purchase and sale of February 27, 1992 with the Coopérative de transport and described the subsequent steps taken. In this connection, it is important to refer directly to Mr. Côté's letter, with which the appellant appears to have been in complete agreement, since he attached a copy of it to his own letter of December 12, 1992 to Dr. Lair.
+
+[26] At pages 2 and 3 of Mr. Côté's letter, one finds the following:
+
+[TRANSLATION]
+
+On February 27, 1992, Dr. Paul-Aimé Joncas signed a promise of purchase and sale with the Coopérative de Transport Intégré de la Basse Côte-Nord under which the said Coopérative promised to purchase 100% of the shares of Trans Côte Inc. This transaction is conditional on the Coopérative's bankers, namely the Caisse Populaire Desjardins in Blanc-Sablon, the Fédération des Caisses Populaires Desjardins de Québec and the Société de Développement Industriel du Québec, agreeing thereto, and the transaction should be finalized as soon as their agreement has been obtained, in the spring of 1992. The transaction is still pending because the bankers' agreement has not yet been obtained. The undersigned has contacted this day James Fequet, chief executive officer of the Coopérative de Transport, who has assured the undersigned that the Cooperative still wishes to purchase Trans Côte Inc. but, in order to do so, must reorganize its finances, and this is now in progress.
+
+Dr. Paul-Aimé Joncas has told the undersigned that he believed that, upon signing the promise of purchase and sale with the Coopérative de Transport, his shares in Trans Côte Inc. were placed in trust with the undersigned until such time as the transaction materialized. It was not until September 1992, when the file was updated, that Dr. Joncas realized that his shares had not actually been placed in trust, and the situation was immediately straightened out. Indeed, on September 16, 1992, Dr. Paul-Aimé Joncas placed in the hands of the undersigned, as trustee, all the shares of all classes that he held in the capital stock of Trans Côte Inc. and affiliated companies. This is a trust without any right of review, because Paul-Aimé Joncas has delegated to the trustee the voting rights attached to the shares, which rights are now exercised by the trustee according to his sole judgment and at his sole discretion. In addition, Dr. Joncas resigned at that time as director of Trans Côte Inc.
+
+Dr. Paul-Aimé Joncas has explicitly declared to the undersigned that he has not signed Trans Côte Inc.'s cheques for at least the last three years, and the only person signing cheques during that period was Armand Joncas, who acted as the company's general manager during that period and has continued to do so up to the present day.
+
+As a result of the delay in completing the transaction with the Coopérative de Transport, Armand Joncas decided to offer Trans Côte Inc. for sale by advertising in trade newspapers. In September 1992, an advertisement was published in three newspapers, namely, the Nord-Est, L'Aviateur and Canadian Operator, and was published every month thereafter—that is, in October, November and December 1992—in L'Aviateur.
+
+As a result of the advertisements, a number of groups contacted Trans Côte Inc. for information, namely the Gamac group from Roberval, the Somnipair group from Montreal, Confortair from Sept-Îles and Triton Airlines from St. John's, Newfoundland.
+
+In November 1992, a formal meeting took place with the Gamac Group from Roberval, which is controlled by Amerindians. Discussions are still going on with this group.
+
+You will note that Dr. Paul-Aimé Joncas tried in good faith on a number of occasions to sell his business and, each time, it was the purchasers who backed out. At present, the general manager is continuing the process with interested groups.
+
+[27] We learn from this letter that, on December 8, 1992, the transaction with the Coopérative de transport was still pending, advertisements for the sale of Trans Côte had been published in trade newspapers, a number of identified groups had contacted Trans Côte, and a formal meeting had even been held already with an Amerindian-controlled group.
+
+[28] The letter makes no mention of Philippe Labadie and his interest in purchasing Trans Côte, an interest he showed, according to the appellant, as early as the summer of 1992. In his testimony, the appellant said that Philippe Labadie had telephoned him in the summer of 1992 to tell him that he was interested in purchasing Trans Côte or the group of air-transport-related companies, but did not make an offer to purchase. According to the appellant, between the summer and the month of December, there would definitely have been discussions since Mr. Labadie had told him that he intended to go ahead with the purchase through LBS and had asked him whether he had any objection to this way of proceeding.
+
+[29] The appellant implied that it was Mr. Labadie who made the decisions in LBS, that he trusted him and approved his decisions after the fact. According to the appellant, Mr. Labadie consulted, inter alia, the notary, Mr. Côté, and his brother, Armand Joncas, concerning the purchase. The appellant said that it would have been the notary, Mr. Côté—one of his legal advisers, as he called him—and certainly also his tax accountant, Lise Gauthier, who prepared and proposed the formula in the contract for setting the shares' sale price. However, according to the appellant, his final decision to sell to LBS was made several weeks, perhaps a month, before the transaction, which took place on December 28, 1992, to take effect on December 31, 1992.
+
+[30] Neither the appellant's letter to Dr. Lair, dated December 12, 1992, nor the letter of the notary, Mr. Côté, dated December 8, 1992, referred to the transaction with LBS. In his testimony, the appellant, to whom it was pointed out that, in December 1992, he still had advertisements in trade newspapers for the sale of the Trans Côte group, stated that he had told the notary, Mr. Côté, to do whatever it took to sell everything related to air transport. Since in the past he had received other offers that had come to nothing and as he had to [TRANSLATION] "find a solution", it was necessary to continue taking every possible step in order to sell since he did not wish at that time to stop practising medicine in Blanc-Sablon. An excerpt from his testimony illustrates the gravity and urgency of the situation:
+
+[TRANSLATION]
+
+Q. It says: "For sale: Trans Côte Inc., an air transport company based in Lourdes-de-Blanc-Sablon, with operating licence . . . Listed hereunder are the items that belong to the company." And there are one, two, three, four airplanes, a garage, an office, a storehouse, parts, tools, diesel fuel facilities, a ticket counter, and so on. I understand that you did not want to sell just Trans Côte, and the 160 company, the planes, don't they belong to 160?
+
+A. I wanted to sell everything. I wanted to sell everything.
+
+Q. You wanted to sell 153760 as well?
+
+A. Everything that was connected with air transport; I had given Mr. Côté instructions to sell everything connected with air transport.
+
+Q. So, you wanted to sell Trans Côte, 162481, 153760?
+
+A. Everything, everything.
+
+Q. And the planes that belonged to you?
+
+A. I told Mr. Côté to sell everything that had me involved in air transport, that had a connection with air transport and the Centre de santé.
+
+Q. Even the airplane that you yourself owned and that you rented to Trans Côte?
+
+A. That's not how I put it; I said to sell everything. It was Mr. Côté, and if I'm seeing right, it was Armand Joncas who placed the ad; that ad was after my shares were put in escrow, OK? And I was . . . it wasn't me who wrote the advertisement, I didn't . . .
+
+Q. Who did you say that to, Armand Joncas or . . .?
+
+A. I told Mr. Côté that—Mr. Côté was aware of the situation because we had had many discussions over the years, Mr. Côté is after all a notary on the Shore—that everything had to be sold . . . it was . . . I felt that I was more and more . . . We weren't seeing any improvement in terms of doctors, so I would be . . . I had a choice, either I would have to continue prescribing transport or immediately stop practising medicine in Blanc-Sablon.[2]
+
+[Emphasis added.]
+
+
+
+[31] The appellant also pointed out that LBS did not have the means to purchase 153760 Canada Inc., which owned the airplanes, and so, selling only the shares of Trans Côte's capital stock was not the ideal solution; it was just the lesser evil. Furthermore, the pressure he felt and the need to find a solution very quickly are very clearly palpable in his testimony.
+
+[32] The price in the contract with LBS for the sale of the Trans Côte shares had been set at $1 for the voting shares and $80,000 for the Class B preferred shares. This amount was to be adjusted, however, in accordance with the following formula:
+
+[TRANSLATION]
+
+Two hundred sixty-one thousand dollars ($261,000) plus current assets minus current and long-term liabilities, as determined in the financial statements of Trans Côte Inc. at December 30, 1992 (Exhibit A-1, Tab 8, page 2).
+
+[33] Questioned on the acceptance of that price, the appellant said that he had not had the impression that he was selling his shares for $1 but thought that he was doing so for $1 plus a price to be determined later. However, Schedule A to his 1992 income tax return indicates proceeds of disposition for the Class A (common) shares of $1 and of $0 for the Class B (preferred) shares (Exhibit I-1, Schedule A). In his testimony, the appellant stated that his tax return had been filed by his tax accountant, Lise Gauthier, who had been authorized to sign for him. The return is indeed signed by Ms. Gauthier. However, the appellant said that he seemed to remember that the return was later amended to reflect the price determined according to the formula set out in the contract with respect to the Class B preferred shares, which was approximately $6,000. In his testimony, the appellant stated that this amount, plus interest, was paid on August 24, 1995.
+
+[34] On redirect examination by his counsel concerning the decision to sell his Trans Côte shares to LBS, the appellant testified as follows:
+
+[TRANSLATION]
+
+I think that . . . well, there was a decision, there had been a verbal "promise", in quotation marks, to purchase. But as I said earlier, as long as it wasn't signed, and even after it was signed, I wanted to continue with the efforts to sell. And that's the reason why they probably continued to publish because there had been a number of promises that had never . . . there had even been written promises, there had been a promise that had never resulted in a contract of sale. My aim was . . . and even—to give you a little background—even after the sale of Trans Côte to Garage LBS, Philippe had been instructed to sell Trans Côte's assets and to continue those efforts, which resulted in 1998 in the sale of the Trans Côte group. As far as I was concerned, it was clear, I had to . . . one, I no longer had an interest in it; two, it was creating problems for me; and, three, there was an air carrier on the Lower North Shore that could provide an air transport service and do medical evacuations. The objective had been achieved.[3]
+
+[Emphasis added.]
+
+
+
+[35] It is important to note at this point that these words give the clear impression that the sale to LBS was viewed only as a transitional stage that was organized in order to lessen, even if only for the time being, the pressure exerted by the Corporation des médecins.
+
+[36] A number of other events occurring before and after the transaction with LBS should also be recalled in order to shed light on the background.
+
+[37] Thus, on September 16, 1992, the appellant resigned from his position as director of Trans Côte. On the same day, his brother, Armand Joncas, was appointed director by resolution of the notary, Clément Côté, who signed the resolution as the only person empowered to exercise the voting rights pertaining to the shares held by the appellant, having been so empowered under an escrow agreement covering the appellant's shares of the capital stock of Trans Côte and 153760 Canada Inc. The escrow agreement was signed by the appellant on September 16, 1992, and by the notary, Mr. Côté, two days later, on September 18, 1992. By that agreement, the appellant appointed Mr. Côté trustee of the shares in escrow with the power to exercise, if need be, the voting rights attached thereto according to his sole judgment and at his sole discretion. The agreement was to be for a term of not more than five years and was to terminate on the date of the sale or transfer of the shares in escrow. It should also be noted that the appellant could demand the resignation of the trustee for any reason judged valid. In his testimony, the appellant stated that he had not, until that moment, noted the inclusion of this power in the agreement.
+
+[38] The shares that were the subject of the escrow agreement are described as being 12,020 Class A shares and 207,286 Class B shares of Trans Côte's capital stock as well as 11,020 Class A shares and 3,980 Class B shares of 153760 Canada Inc. 's capital stock, all held by the appellant. However, as of the date of the agreement, only 5,135 Class B shares of Trans Côte's capital stock had been issued.
+
+[39] It was on November 25, 1992, that the 5,135 Class B shares of Trans Côte's capital stock were split, ten for one, into 51,350 Class B shares pursuant to a certificate of amendment of the company's articles of incorporation, dated November 16, 1992.
+
+[40] In addition, on November 26, 1992, two of Trans Côte's debts to the appellant, in the amounts of $114,166 and $41,770 respectively, were converted into 155,936 Class B preferred shares, thus bringing the total number of issued shares in that class to 207,286, which was exactly the same number of Class B shares that was the subject of the escrow agreement of September 16, 1992. It is difficult to place in escrow shares that have not yet been issued or that have no legal existence until after a certificate of amendment has been obtained—and in this case the certificate was in fact not obtained until later. Be that as it may, it is permissible to think that these various transactions were carried out in anticipation of a sale. It is true that the legal situation had to be straightened out since the financial statements for the period ending on December 31, 1990, reported that the Class B share split had taken place during that period, as had the issue of the 114,166 new Class B shares.
+
+[41] On December 23, 1992, the appellant and Philippe Labadie, as directors of LBS, signed a resolution authorizing the company to purchase all the shares of Trans Côte's capital stock that were owned by the appellant, in accordance with the approved draft contract. Philippe Labadie was authorized to sign the documents, including the contract of sale, on behalf of the company. The resolution also contained the essential elements that can be found in the contract itself that was signed on December 28, 1992, which elements include the sale price and the formula for adjusting the $80,000 price that had been fixed for the Class B preferred shares. The clause concerning the payment of the sale price in eight consecutive equal annual instalments, beginning on December 31, 1993, as well as the clause specifying the interest payable on the balance indicated in the contract are also referred to in the resolution.
+
+[42] On December 28, 1992, the appellant and LBS, the latter represented by Philippe Labadie, signed the contract for the sale to LBS of all the shares of Trans Côte's capital stock owned by the appellant. The sale was to become effective on December 31, 1992.
+
+[43] Questioned about the existence of additional legal documents that were signed at his notary's office, the appellant provided an answer that, in my opinion, accurately reflected his concerns regarding the demands of the Corporation des médecins. His answer was as follows:
+
+[TRANSLATION]
+
+There was . . . since, well, Garage LBS became a shareholder in the Trans Côte group, and since I was a shareholder, the Corpo[ration des médecins] was happy, but only partly happy, because I had reduced my exposure by half; I no longer controlled Trans Côte, but the Corporation was still asking that the initial measure—putting the shares in escrow—be kept in place and that it be kept in mind that I had to sell the rest of the shares. I had to find a way not just—they were saying "diminish your exposure"—to diminish my exposure, but to completely eliminate any suspicion about it.[4]
+
+[Emphasis added.]
+
+[44] No post-transaction correspondence with the Corporation des médecins was adduced in evidence. One wonders when and how the appellant informed the Corporation des médecins of the sale of his shares of Trans Côte's capital stock to LBS. One also wonders in exactly what terms the Corporation des médecins expressed its reaction and stated its further requirements.
+
+[45] For now, it should also be pointed out that, on December 28, 1992, the same day as the transaction, the appellant resigned from his position as director of LBS and was replaced by his brother, Armand Joncas.
+
+[46] On December 30, 1992, the appellant and the notary, Clément Côté, signed an amendment to the September 18, 1992, escrow agreement regarding the shares. The purpose of the amendment was to substitute the shares held by the appellant in LBS for the shares in Trans Côte that he had just sold to LBS. The amendment to the escrow agreement specifies that its initial term was to be for ten years with a possible five years' extension but was to terminate on the sale or transfer of the shares in escrow or [TRANSLATION] "from the time that the shareholder shall cease to prescribe transportation subsidies for persons treated by him in his capacity as a physician."
+
+[47] Despite the fact that the appellant resigned from his position as director of LBS, it was he who, on June 22, 1993, signed, as director, LBS's tax return for the 1992 taxation year. In his testimony, the appellant asserted that this was a mistake, since André Maltais, the accountant who had prepared the financial statements attached to the return, was probably not aware that the appellant was no longer the director. However, it should be noted that those financial statements of LBS for the period ended on December 31, 1992, refer to the purchase of shares of Trans Côte's capital stock (120,200 common shares and 207,286 Class B preferred shares) [TRANSLATION] "for a nominal sum of $1" (Exhibit I-4, page 7 of the financial statements).
+
+[48] The appellant continued to practise medicine in Blanc-Sablon until approximately the middle of August 1993. At that time, he left for Ottawa to study health economics, going on to studies at the Master's level in England the following year. In August 1995, the appellant moved to Québec to take up his profession again, [TRANSLATION] "particularly in emergency medicine". In his testimony, he said he had returned to Blanc-Sablon to practise medicine for two or three months a year since 1998, that is, since [TRANSLATION] "the full sale of Trans Côte".
+
+[49] Let us turn now to the situation of Philippe Labadie and his role in the transaction between the appellant and LBS.
+
+[50] Philippe Labadie described himself as a heavy equipment operator—a trade he has worked in since 1975—and a businessman. In 1983 or thereabouts, after working in Western Canada where he had owned a business, Mr. Labadie moved to Blanc-Sablon. In 1985, he purchased a 50% interest in a business that operated a service station. A 50% interest in that business was later acquired by the appellant, who wanted to make an investment. In his testimony, the appellant stated that he knew Mr. Labadie and that he was an active young man who had been very successful. As the appellant was himself a native of Blanc-Sablon and had come back to practise medicine, he was also looking for investment opportunities there. He had therefore decided to invest in that business. In 1987, the appellant and Mr. Labadie sold the business to LBS, which they had just incorporated and in which they became equal shareholders. Initially, the activity of the business was automotive mechanics and to this were later added bodywork, painting, diesel mechanics the assembly of boat transmissions. Although the appellant and Mr. Labadie were both directors of the company, it was Mr. Labadie alone who looked after the company's day-to-day operations. His accountant at the time, James Féquet, prepared the financial statements and Mr. Labadie was up to that time the only person to sign the income tax return. These facts are confirmed by the financial statements for the financial year ended on December 31, 1991 and by the tax return for that year (Exhibit I-5).
+
+[51] In the course of his testimony, Mr. Labadie spoke of his other interests in Blanc-Sablon and in particular the fact that he had opened a sporting goods store in 1990. It is not known what became of this venture. He also stated that he had been a shareholder and director of a number of businesses and, more specifically, a member of the board of directors of the Coopérative de transport, which in February 1992 had shown an interest in purchasing the Trans Côte group.
+
+[52] As for LBS, following a significant reduction in, if not the outright cessation of, fishing in the area, its revenues (with the exception of the income from leasing a part of its premises to Hydro-Québec) had substantially declined over the years, from $106,000 in 1990 to $67,000 in 1991 and $44,000 in 1992. In 1993, following the transaction in issue, revenues were down to only $2,329.
+
+[53] Given this reduction in LBS's activities, Philippe Labadie worked from May to September during those years as a heavy equipment operator and mechanic for various construction firms. During the other months of the year, he received unemployment insurance benefits and occasionally worked in the garage for LBS, but did not receive any salary. Sometimes, he hired an automotive mechanic's helper. Mr. Labadie said that, as the activities of the garage had slackened and he was therefore available, he had no problem leaving if he found employment elsewhere. During his prolonged absences, there was no activity at the garage. Moreover, LBS's financial statements for the year ended on December 31, 1992, made no reference to any payment to anyone in respect of salary or employee benefits (Exhibit I-4).
+
+[54] Shortly after the purchase by LBS of the shares of Trans Côte's capital stock in March 1993, Mr. Labadie again accepted employment as a heavy equipment operator, this time on a hydroelectric project at Robinson Lake, approximately 150 kilometres west of Blanc-Sablon. His employment there apparently lasted until September or October 1993. In 1994 and 1995, from April or May to September of each of those years, Mr. Labadie held the same employment on the same site. Thus, he said, he only occasionally did mechanical work at the garage from 1993 on, since [TRANSLATION] "the fishing was practically shut down" and the activities of the garage were not profitable. Indeed, since he worked as a heavy equipment operator for $25 an hour and as he also paid himself $25 an hour at the garage, he said, there was no longer any money to be made there because of the fact that the parts and tools that were needed cost [TRANSLATION] "a fortune".
+
+[55] In his testimony, Mr. Labadie stated that it was as a member of the board of directors of the Coopérative de transport that he had learned that there was an offer of purchase and sale involving the Coopérative de transport and the appellant in 1992. According to Mr. Labadie, the offer was for the shares of Trans Côte and 162481 Canada Inc., the company that operated the Centre Aéro, that is, the company that sold fuel and performed maintenance and repairs on the airplanes. Mr. Labadie said that this offer did not include the aircraft, which would possibly have been the subject of a separate offer. He declared that the Coopérative de transport was interested in purchasing the shares of Trans Côte and 162481 Canada Inc. because [TRANSLATION] "they weren't worth much". Unable to specify the amount offered, he merely said that the price had not been determined and repeated several times that [TRANSLATION] "they weren't worth much".
+
+[56] According to Mr. Labadie, the Coopérative de transport ultimately refused to commit itself for lack of financing since it also had to purchase the airplanes in order to be able to provide air transport service on the Lower North Shore. He said he had seen the financial statements and had noted that Trans Côte had incurred substantial losses the preceding year. He said that he had subsequently been able to determine with André Maltais, the accountant who was now handling his personal affairs, that Trans Côte and the company operating the Centre Aéro, [TRANSLATION] "taken together, were not worth a whole lot". I note here that, in his testimony, the appellant said that he knew Mr. Maltais, who was a CMA (certified management accountant), and that he handled nearly every business in Blanc-Sablon, including some of the appellant's.
+
+[57] Since the Coopérative de transport had a financing problem, Mr. Labadie apparently approached the appellant to make an offer, a proposal for the purchase of Trans Côte. However, in his testimony, Mr. Labadie never indicated the amount of that offer or proposal and simply repeated a number of times that the
+
+business was not worth much. [58] Pointing out the decline in revenues from the garage, Mr. Labadie said that what really interested him was sale of fuel at the Centre Aéro and using air transport for parts for the garage so that customers could be provided with better service. Subsequently, however, he stated that he wanted to sell the assets of Trans Côte and the Centre Aéro and keep only the sale of airplane fuel. The advantage of being able to transport parts by air was thus viewed as only temporary until the assets of Trans Côte and the Centre Aéro had been sold. In his testimony, Mr. Labadie said that he wanted to sell and he knew he could sell the Trans Côte group. I will simply note here that the appellant had himself already tried to sell a number of times over several years, with no success.
+
+[59] Mr. Labadie said he had negotiated LBS's purchase of the shares with Armand Joncas, the appellant's brother. No price or terms and conditions were mentioned, however. The only price referred to in Mr. Labadie's testimony is that indicated in the contract of sale of December 28, 1992, namely $1 for the common shares and $80,000 for the preferred shares, which price was to be adjusted in accordance with the formula referred to above, worded as follows:
+
+[TRANSLATION]
+
+. . . $261,000 . . . plus current assets minus current and long-term liabilities, as determined in the financial statements . . . at December 30, 1992.
+
+[60] According to Mr. Labadie, it was the notary, Mr. Côté, who proposed the formula. In a document later filed by the appellant with the tax authorities, the adjustment resulted in the price paid for the preferred shares being reduced from $80,000 to a mere $6,022. However, in his testimony, Mr. Labadie acknowledged that he did not know what the final price would be at the time the contract was signed. He simply stated that the formula had seemed reasonable to him after reviewing it with his accountant, André Maltais. He contented himself with repeating that, because of the losses in previous years, he knew the business was not worth much, and that his accountant had told him that the formula was [TRANSLATION] "reasonable", that there was [TRANSLATION] "no problem with it", that [TRANSLATION] "it would be good" and that it [TRANSLATION] "made sense".
+
+[61] Regarding the shares purchased, Mr. Labadie said in his testimony that they were all the common and preferred shares of Trans Côte's capital stock, which belonged to the appellant, as well as all the common and preferred shares of the capital stock of 162481Canada Inc., the company operating the Centre Aéro, all of which belonged to Trans Côte. Mr. Labadie was clearly not aware that 162481 Canada Inc.'s preferred shares were held not only by Trans Côte but also by the appellant and two other companies, namely, 153760 Canada Inc. and Construction Joncas et Frères Inc.
+
+[62] In his testimony, Mr. Labadie said that, following the December 28, 1992, transaction between LBS and the appellant, the latter had resigned his directorship with LBS and had been replaced by his brother, Armand Joncas. According to Mr. Labadie, this was because the notary, Mr. Côté, thought that Armand Joncas would check things for the appellant and would ensure, as it were, that his money was well invested.
+
+[63] It should be pointed out here that, between the transaction of December 28, 1992, and the effective date of the contract, 15,086 new preferred shares of LBS's capital stock were issued to the appellant on December 30, 1992 (Exhibit A-1, Tab 14). Although in cross-examination, he initially could not explain that share issue, the next day, with the help of the appellant's counsel, Mr. Labadie stated that it involved the conversion of amounts already owed to the directors and that, in reality, the issue of 15,086 shares to the appellant was a mistake by the notary, Mr. Côté, since the issue should have consisted of an equal number of shares for him and for the appellant, or approximately 7,500 shares each.
+
+[64] Mr. Labadie said that, after the transaction, he was [TRANSLATION] "somewhat" involved in LBS until March 1993, when he accepted employment as a heavy equipment operator at Robinson Lake until September or October of that year. He said that he held the same employment for six or seven consecutive months in each of 1994 and 1995 and had only returned to Blanc-Sablon for good in September 1995. The reasons given for his decision to accept outside employment were that Armand Joncas was looking after Trans Côte and did not really need him, Trans Côte was doing well and making money and, when all is said and done, he did not need to be there since Armand Joncas was on the spot and doing good work.
+
+[65] Mr. Labadie testified that he was involved with Trans Côte towards the end of 1996 and in 1997. He said his initial involvement was in relation to a project for a secondary air transport network with Transport Québec, a project that required, inter alia, the construction of new landing strips. The project did not go ahead and, according to Mr. Labadie, resulted in many problems, including some still-pending legal actions. After saying that he had always intended to sell Trans Côte and the Centre Aéro, Mr. Labadie stated that he subsequently handled negotiations with the Régionair company, which had shown an interest. Thus, in 1997, there was, first, the sale of Trans Côte's goodwill and the building used by the Centre Aéro. Second, in the same year, he said, Régionair agreed to purchase the parts inventory of Centre Aéro. In connection with those transactions, Mr. Labadie filed a document that he said was prepared according to his instructions in 1997. It contained a proposal and points for negotiation regarding the sale of the assets of Trans Côte and the Centre Aéro. Finally, according to Mr. Labadie, the sale of fuel, which was not a part of the agreements with Régionair, was transferred, also in 1997, to a company by the name of Handair that was related to the Esso oil company. It will be remembered that the appellant said the sale of Trans Côte's assets took place in 1998.
+
+[66] Harold Bouchard, an auditor with Revenue Canada at the material times, began his audit of the appellant's affairs in July 1996. As part of the audit, he contacted Mr. Labadie by telephone regarding the purchase of the shares of Trans Côte's capital stock by LBS. According to Mr. Bouchard, during a telephone conversation on July 16, 1996 (see Exhibit I-7), Mr. Labadie told him that he had been associated with the appellant and that they had acquired Trans Côte for nothing because it had nothing except two fax machines. Mr. Bouchard testified that Mr. Labadie was unaware that Trans Côte owned 162481 Canada Inc. and thought that that numbered company owned Trans Côte's garage. Mr. Labadie apparently also told Mr. Bouchard that LBS had never made a profit and had been dormant for four years, that part of the premises had been leased to Hydro-Québec, that he himself occasionally did small mechanical repair jobs there and ordered parts, that he had not worked for Trans Côte and that it was the appellant who looked after that company. Finally, Mr. Labadie apparently told the auditor that he had worked for construction companies during the previous three years.
+
+[67] Considering as well the information obtained to that point from various other persons, including the appellant, and the approaching deadline for issuing a reassessment for the 1992 taxation year, Mr. Bouchard assessed the appellant on August 23, 1996.
+
+[68] Mr. Bouchard's decision to disallow the business investment loss in respect of the sale of the shares of Trans Côte's capital stock to LBS was more specifically based on the fact that he considered that the appellant had been responsible for bargaining for both parties to the transaction, that Philippe Labadie had no real interest in that transaction, that the appellant had used a dormant corporation, LBS, to effect the transaction and that, in reality, he continued to control Trans Côte by virtue of his control over the other companies with connections to air transport, given the interdependent nature of their activities. According to Mr. Bouchard, the aim of the transaction for the appellant was to incur a loss in order to reduce his professional income while in fact retaining control of Trans Côte and its subsidiary, 162481 Canada Inc., which operated the Centre Aéro.
+
+[69] In his testimony, Mr. Bouchard admitted that he had not been aware of the appellant's problems with the Corporation des médecins or his earlier efforts to divest himself of Trans Côte.
+
+[70] Jeannine Claveau, an appeals officer with Revenue Canada, took on the appellant's file in June 1997, after his Notice of Objection had been received. For the purposes of her analysis, she met, in the presence of her technical adviser, Benoit Roberge, with the appellant and his representative, Lise Gauthier, in December 1997. During that meeting, the appellant apparently recounted the circumstances that had led to the sale of the shares of Trans Côte's capital stock. Those circumstances were the conflict of interest issue raised by the Corporation des médecins, the efforts to sell, beginning in 1990, the failure of those efforts and the interest shown by Philippe Labadie at a breakfast meeting. According to what the appellant apparently told Ms. Claveau, Mr. Labadie was trying to improve his work situation, since work was becoming hard to find in Blanc-Sablon. He was more particularly interested in the business operated by 162481 Canada Inc. (the "Centre Aéro"), 100% of whose shares were owned by Trans Côte and which he thought he could make profitable. At the meeting, the appellant apparently also said that Mr. Labadie could not buy the shares himself but the company they jointly owned could do so.
+
+[71] The appellant apparently referred to Mr. Labadie's work for the hydroelectric project in 1993 and 1994 and the fact that he left Trans Côte and 162481 Canada Inc. at that time.
+
+[72] The appellant apparently also said that Mr. Labadie worked for 162481 Canada Inc. but did not receive a salary and that this was advantageous for him as regards any future profits.
+
+[73] In addition, the appellant told Ms. Claveau that he himself had placed all his shares in trust and that he saw the financial statements only once a year.
+
+[74] Interested in knowing Mr. Labadie's involvement in the sale of the shares of Trans Côte's capital stock to LBS in December 1992, Ms. Claveau also telephoned Mr. Labadie a few days after her meeting with the appellant. In her report concerning this conversation, Ms. Claveau noted that Mr. Labadie seemed ill at ease and hesitant so that she had to ask him a number of questions in order to obtain any information.
+
+[75] Ms. Claveau noted that Mr. Labadie told her he had talked with the appellant on several occasions about the sale of the shares of Trans Côte's capital stock but did not let her know that he himself was the one who had suggested purchasing the shares. Mr. Labadie apparently also said that LBS's interest in purchasing the shares was based on the benefit it could thereby derive from quicker procurement of parts for the garage, which would eliminate the competition. He also spoke of the advantage of free travel for himself.
+
+[76] Mr. Labadie apparently also told Ms. Claveau that he knew that the shares were not worth much and that he wanted to make a profit in the future, declaring that the business had since become profitable.
+
+[77] In response to the question of whether he knew what assets and investments were owned by Trans Côte, Mr. Labadie simply replied that the important thing for him was to be able to purchase the shares [TRANSLATION] "for not very much". According to Ms. Claveau, although Mr. Labadie knew that Trans Côte owned a garage, he did not show any interest in that business.
+
+[78] Ms. Claveau also reported that Mr. Labadie had told her he was aware that the Class F shares of 162481 Canada Inc. were in the name of related corporations belonging to the appellant. However, Mr. Labadie apparently said that he himself or LBS had not purchased any because his intention was not to invest in Trans Côte as he had no money. The appellant, on the other hand, did have money.
+
+[79] Regarding his involvement at the decision-making level, Mr. Labadie told Ms. Claveau that he attended meetings but there was a director who took care of Trans Côte and the other companies. He also said that the time he put into Trans Côte was unpaid and that he had not put any time into the garage owned by 162481 Canada Inc.
+
+[80] During the conversation, Mr. Labadie apparently referred as well to his involvement in obtaining new landing strips in 1997.
+
+[81] In relation to the sale price set in the agreement for the sale of the Trans Côte shares to LBS, Ms. Claveau asked Mr. Labadie whether LBS was going to pay the amount of $80,000 fixed for the Class B shares. Mr. Labadie's answer was that he was going to pay the amount but did not know when.
+
+[82] In the report of her conversation with Mr. Labadie, Ms. Claveau explicitly noted that he did not appear to be aware of very much and did not have a very clear understanding of the purpose of all the questions being put to him.
+
+[83] In her report, Ms. Claveau concluded that the appellant and LBS were not dealing with each other at arm's length and pointed out in particular that it was to the appellant's advantage to sell to a company over which he had not lost effective control. She noted that Trans Côte's line of credit before and after the transaction was guaranteed by the appellant and 153760 Canada Inc., which the appellant controlled. She also noted that the Class F shares of 162481 Canada Inc. issued before and after the transaction were for persons or companies related to the appellant and that Mr. Labadie had not acquired any of those shares. She also stressed that LBS had issued non-voting shares to the appellant only on December 30, 1992, and, lastly, that Mr. Labadie was not financially involved and that he was not even involved in Trans Côte's decision making. However, she also noted the following:
+
+[TRANSLATION]
+
+The parties to the transaction have separate interests, according to our conversations with them.
+
+Further on she added:
+
+[TRANSLATION]
+
+From the interview with Mr. Joncas and a telephone conversation with Mr. Labadie, we see that there are differences in what was said.
+
+The appellant's position
+
+[84] Counsel for the appellant began by emphasizing that the "question of fact" to be determined in respect of the "non-arms-length relationship" is not defined in the Act, and accordingly, one must turn to the tests laid down by the courts to establish the existence of that relationship. He referred in this regard to a recent article by Tom Stack, Arm's Length as a Question of Fact, 1997 Conference Report, Canadian Tax Foundation, page 16:1, as well as to Interpretation Bulletin IT-419R, "Meaning of Arm's Length", August 24, 1995, in which the tests used by the courts are analysed. In the Interpretation Bulletin, those tests are stated as follows:
+
+- was there a common mind which directs the bargaining for both parties to a transaction;
+
+- were the parties to a transaction acting in concert without separate interests; and
+
+- was there "de facto" control.
+
+[85] Counsel for the appellant then referred to the decisions in M.N.R. v. Sheldon's Engineering, Ltd., 55 DTC 1110 (S.C.C.) and M.N.R. v. Merritt Estate, 69 DTC 5159 (Exchequer Court) as the source of the first test. Next, he cited the decision of the Exchequer Court in Swiss Bank Corporation et al. v. M.N.R., 71 DTC 5235, in which the second test was proposed. Finally, with regard to the third test, "de facto control", although it was used by the Federal Court of Appeal in Robson Leather Company Ltd. v. M.N.R., 77 DTC 5106, it is, according to counsel for the appellant—who based his opinion in this regard on the analysis of Tom Stack (supra)—merely another way of expressing the first test and is not the statement of a separate test.
+
+[86] Concerning the application of the first test, counsel for the appellant said he found it hard to understand how one could possibly conclude that the appellant was the entity responsible for bargaining for both parties to the transaction. In his written argument, he expressed himself as follows on this point:
+
+[TRANSLATION]
+
+On the one hand, Dr. Joncas said that he did not get involved in the sale of the shares of Trans Côte Inc. himself because, beginning in September 1992, on account of the pressure exerted by the Corporation professionnelle des médecins, those shares had been placed in escrow with the notary, Mr. Côté, who thereupon became the only person authorized to exercise the voting rights attached to the shares. Accordingly, it was the notary and Armand Joncas, then director of Trans Côte Inc., who negotiated the sale of the shares of Trans Côte Inc.
+
+On the other hand, Mr. Labadie, who held fifty per cent (50%) of the shares of Garage LBS Inc. (the other fifty per cent (50 %) being held by the appellant) and who effectively ran that company, saw an attractive opportunity to purchase Trans Côte Inc. Mr. Labadie told us that he himself negotiated with the notary, Mr. Côté, who represented Trans Côte Inc., and that the negotiated price seemed reasonable to him. He made sure of this by checking with his accountant.
+
+In the circumstances, we find it difficult to conclude that the appellant was responsible for negotiating on behalf of both parties. Moreover, it is interesting to note that the report on objection prepared by Ms. Claveau (filed as Exhibit A-9), although clearly stating the three tests mentioned above, contains no finding that Dr. Joncas was the directing mind for both parties in relation to the transaction.
+
+[87] Regarding the application of the second test, counsel for the appellant essentially relied on the Ms. Claveau's report on objection (Exhibit A-9), in which, he said, she clearly concluded that the parties—that is, the appellant and Mr. Labadie—were acting with separate interests. The following excerpts from the report are cited in support of this contention:
+
+
+
+
+
+[TRANSLATION]
+
+- at page 5 of report T401, heading C, entitled Other comments:
+
+"Based on conversations with the concerned parties, we note that the reasons given by each are different:
+
+(See background of the discussions for the parties' comments.)
+
+There are no common interests between the parties."
+
+- at page 7 of report T401, paragraph 2 under heading 8, entitled Decision:
+
+"The parties to the transaction have separate interests according to our conversations with them.
+
+(See background of the discussions.)"
+
+[88] Counsel for the appellant added the following comments:
+
+[TRANSLATION]
+
+Moreover, in cross-examination, Ms. Claveau confirmed that she had given the same answer twice at her examination for discovery. Therefore, we believe that the evidence presented to the court and this admission by Ms. Claveau clearly show that the second test has not been met and has no application whatsoever to the situation at issue.
+
+[89] Finally, counsel for the appellant stressed that the tax authorities seem to have applied only the third test, "de facto control", although he believes that this is not really another test but is rather a different way of expressing the first test, that is, the test that refers to a situation where one person is responsible for negotiating for both parties to a transaction. To explain the position taken by the Department of National Revenue, counsel for the appellant relied on some of the facts set out in various subparagraphs of paragraph 15 of the Reply to the Notice of Appeal, which are as follows:
+
+(subparagraph e)
+
+- the fact that Class F shares of the subsidiary, 162481 Canada Inc., were held by various entities controlled by the appellant.
+
+(subparagraphs k and l)
+
+- the fact that the appellant subscribed for Class B shares in Trans Côte on November 26, 1992.
+
+(subparagraph n)
+
+- the fact that guarantees were given by the appellant and numbered companies 153760 and 162481 with respect to Trans Côte's line of credit.
+
+(subparagraph o)
+
+- the fact that advances were made to Trans Côte by related corporations.
+
+(subparagraphs i and m)
+
+- the fact that Class A and Class G shares of LBS's capital stock were held.
+
+[90] According to counsel for the appellant, the first four items establish at most that the appellant had de facto control of Trans Côte and not that he had such control of LBS, which in any case has not been shown. As for the de facto control of LBS by the appellant because of the greater number of Class G shares he held as a result of the December 30, 1992, issue, counsel for the appellant asserted that it was demonstrated during the hearing (Exhibits A-4 and A-8) that this was a mistake and that the advances to LBS totalling $15,086 made by Mr. Labadie and the appellant should have been converted into equal numbers of Class G shares for each. In counsel's opinion, what is important to note is that the purpose of this share issue was to convert advances that had already been made into shares; it's object was not to reflect a new contribution of capital. Thus, even admitting that the appellant owned more Class G shares than Mr. Labadie, the attributes of those shares were not such as could have given him de jure or de facto control of LBS. On this point, counsel for the appellant referred to the decisions of the Supreme Court of Canada in Duha Printers v. Canada, [1998] 1 S.C.R. 795 and The Queen v. Imperial General Properties Ltd., [1985] 2 S.C.R. 288.
+
+[91] Another point raised by counsel for the appellant is the fact that Mr. Labadie was not all that aware that, from the tax authorities' perspective, the Class F shares of the capital stock of Trans Côte's subsidiary, 162481 Canada Inc., were important in deciding the outcome of the dispute. Counsel's opinion in this regard was that the answers given by Mr. Labadie must be assessed in terms of his level of education and knowledge and that he should not be required to be familiar with all the intricacies of company law. He further maintained that, even if the interpretation of the tax authorities were accepted, at most it would establish that Mr. Labadie did not have de facto control of that subsidiary and that it was the appellant who had such control. In counsel's view, that certainly provided no basis for concluding that the appellant had de facto control of LBS.
+
+[92] Counsel for the appellant also relied on McNichol et al. v. The Queen, 97 DTC 111 (T.C.C.), a case which, in his opinion, is similar in certain regards to this case, namely:
+
+[TRANSLATION]
+
+
+
+- the vendor had held discussions with more than one potential purchaser;
+
+- the vendor and the purchaser had separate interests; and
+
+- the vendor and the purchaser had received advice from independent persons with respect to the negotiation of the transaction.
+
+[93] In addition, counsel for the appellant emphasized the distinctions that must be made between the facts of this case and the fact situations in Peter Cundill & Associates Limited v. The Queen, 91 DTC 5085 (F.C.T.D.) and 91 DTC 5543 (F.C.A.) and Martin Feed Mills Ltd. v. M.N.R., [1991] 2 C.T.C. 2052 (T.C.C.). In the first case, the court found that the taxpayer, who held only 50% of a company's capital stock, was not dealing with that company at arm's length because the evidence showed that he was in total control of the company. The second case provides the example of a person who directed the bargaining for both parties to a transaction, a situation that, according to counsel for the appellant, has nothing in common with the appellant's conduct in the instant case.
+
+[94] Counsel for the appellant also commented on the discrepancies between the financial statements and the corporate records that were noted at the hearing and on the irregularities thus committed in relation to, inter alia, the issue of Trans Côte Class B shares on November 26, 1992, and the issue of LBS Class G shares on December 30, 1992. To explain these irregularities, the appellant had stressed in his testimony that there was no accountant in Blanc-Sablon and no legal advisers close by. His counsel thus maintained that, while the mistakes committed should not be wholly excused, nonetheless they are factors that should not be taken into account in determining a question of fact if doing so leads to the conclusion that the issue of shares on dates close to the date of the transaction was part of some tax scheme under which the appellant had de facto control of both companies, Trans Côte and LBS. Counsel reminded the court in that connection that the evidence showed that the share issue represented a conversion of advances that had been made well before the transaction took place.
+
+[95] Finally, counsel for the appellant emphasized that it is important to analyse the tax objectives of the applicable legislation, as the Supreme Court of Canada did in Swiss Bank, 72 DTC 6470, and as Tom Stack pointed out in his above-cited article.
+
+[96] Counsel for the appellant then asserted that the Revenue Canada representatives, Mr. Bouchard and Ms. Claveau, both had a very fixed opinion as to the reasons that prompted the appellant to make the transaction, as the following passage from Mr. Bouchard's report illustrates:
+
+[TRANSLATION]
+
+On the one hand, there is Paul-Aimé Joncas, a physician with a large income wishing to reduce his income as much as possible, who owns Trans Côte Inc., a company that owns 100% of 162481 Canada Inc. and 153760 Canada Inc. and 50% of Garage LBS Inc., a dormant or almost dormant company. (Exhibit A-1, page 1 of Mr. Bouchard's report.)
+
+[97] According to counsel for the appellant, in this regard the tax authorities always supported their position by the use of elements that in counsel's view are not particularly relevant and they ignored some essential elements that he describes as follows at page 16 of his written argument:
+
+[TRANSLATION]
+
+- the repeated demands by the Corporation professionnelle des médecins that the Appellant sell his shares in Trans Côte Inc. We find it strange that in the reasons for Ms. Claveau's decision this situation is not taken into account, although, in our estimation, it triggered the sale of the shares by the Appellant.
+
+- no analysis by the tax authorities of the impact of the escrow agreement on "de facto control". Moreover, Ms. Claveau contradicted herself in cross-examination on the existence of that agreement. Yet, the case law is unanimous in establishing that, in such cases, the trustees have "de jure control" of the corporation.[5] In our opinion, one should, at the very least have relied on elements showing that the Appellant had retained "de facto control" of Trans Côte Inc. notwithstanding the shares' having been placed in escrow. This was not done.
+
+- with the exception of the fact that the Appellant held Class G shares, the Department does not rely on any other fact that could establish that the Appellant had "de facto control" of Garage LBS Inc. Our submissions concerning the holding of those shares are set out at pages 6 and 11 of these arguments.
+
+[98] Counsel for the appellant maintained that the evidence tendered never showed that the appellant had carried out the transaction in order to reduce his "large income". He argued as well that the elements relied upon were not such as might allow one to conclude that the appellant and LBS were not dealing at arm's length.
+
+[99] In the alternative, counsel for the appellant suggests that the practical approach noted by Tom Stack in his analysis of Swiss Bank should be adopted and that certain mitigating circumstances favourable to the appellant should be taken into account. In particular, account should be taken of the fact that as a result of the pressure put on him by the Corporation des médecins, the appellant had no choice but to sell Trans Côte, a company headquartered in a location where the pool of potential buyers was limited. Counsel also emphasized that the sale price was never challenged by the tax authorities and that the loss would have been incurred in any event, regardless of who purchased the shares.
+
+[100] Finally, counsel for the appellant reminded the court that Mr. Labadie's testimony concerning his involvement in Trans-Côté's operations and subsequently in the sale of Trans Côte's assets a few years later is an additional factor indicating that there was no tax scheme behind the transaction and that the transaction was not carried out solely for the purpose of incurring a loss, as the tax authorities claim.
+
+The respondent's position
+
+[101] Counsel for the respondent also began by referring to Interpretation Bulletin IT-419R (supra), which summarizes the tests used by the courts to determine whether there is a "de facto" non-arm's-length relationship between unrelated persons.
+
+[102] In relation to the first test, counsel for the respondent argued that the appellant was the directing "mind", responsible for bargaining for both parties to the transaction, that Mr. Labadie was manipulated by the appellant and his advisers (the accountant and the notary) and therefore the appellant "dictated" the terms of the bargain on behalf of both parties. Counsel also referred, on this point, to the Supreme Court of Canada's decision in Sheldon's Engineering Ltd. (supra) and that of the Exchequer Court in Merritt Estate (supra). In Sheldon's Engineering Ltd., the Supreme Court of Canada laid down the principle that there is a non-arm's-length relationship between two parties to a transaction where those parties are controlled by the same person. In Merritt Estate, the same principle was stated in the following terms at pages 5165 and 5166:
+
+
+
+In my view, the basic premise on which this analysis is based is that, where the "mind" by which the bargaining is directed on behalf of one party to a contract is the same "mind" that directs the bargaining on behalf of the other party, it cannot be said that the parties are dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.
+
+The Court went on to say, at page 5166:
+
+In my view, it is immaterial that the whole arrangement was the "brain child" of the professional advisers.
+
+[103] Counsel for the respondent also referred to the decision in RMM Canadian Entreprises Inc. et al. v. The Queen, 97 DTC 302 (T.C.C.) in stating that the Supreme Court of Canada, in Swiss Bank Corporation et al. v. M.N.R., 72 DTC 6470, confirmed the principle that "where a group of persons, otherwise at arm's length, acted in concert to direct the acts of a third person they were not dealing at arm's length with that person." My decisions in Fournier v. M.N.R., 91 DTC 746 (T.C.C.) and Gosselin v. Canada, [1996] T.C.J. No. 206, were also cited in support of this argument.
+
+[104] Counsel for the respondent referred as well to the decision in Robson Leather Company Ltd. v. M.N.R., 77 DTC 5106, in which the Federal Court of Appeal stated, inter alia, that control or absence of control of the voting shares is but one factor to be considered among many. On this point, counsel also referred to Peter Cundill & Associates Limited v. The Queen, 91 DTC 5085 (F.C.T.D.) and 91 DTC 5543 (F.C.A.).
+
+[105] According to counsel for the respondent, in this case, no part of the agreement involved bargaining between parties with separate interests. This conclusion, she said, is based on a number of aspects of the evidence. First, she said, the appellant had an important reason to sell his shares of Trans Côte's capital stock quickly: so that he could comply with the requirement of the Corporation des médecins. In fact, in her opinion, the appellant had let it be believed for a number of months that the promise of sale made to the Coopérative de transport had resulted in a sale. However, the Corporation des médecins had learned in November 1992 that the appellant was still the owner.
+
+[106] Counsel for the respondent then pointed out that in his conversation with Ms. Claveau in December 1997 Mr. Labadie had not known the price that had been agreed on for the purchase by LBS of the shares of Trans Côte's capital stock nor had he known when the payment was supposed to take place, whereas the appellant himself had explained to Ms. Claveau that nothing was to be paid because the analysis of their value done subsequently, in 1993, yielded a figure of approximately $6,000.
+
+[107] Again concerning the sale price, counsel for the respondent reminded the court that Mr. Labadie had admitted at the hearing that the share price had been determined by the appellant's accountant and notary; counsel pointed out as well that Mr. Labadie was unable to explain the $80,000 price indicated in the contract and that his explanations boiled down to this: [TRANSLATION] "they weren't worth much" and [TRANSLATION] "it seemed like a good price".
+
+[108] Counsel for the respondent then pointed out that the reasons given by Mr. Labadie to justify his interest in the purchase by LBS of the shares of Trans Côte's capital stock are contradictory. On the one hand, Mr. Labadie said in July 1997 that LBS was interested because Trans Côte could deliver the parts the garage needed more quickly and that he was also interested in getting free plane tickets. At the hearing, on the other hand, he testified that he was primarily interested in selling fuel and obtaining parts so that he could provide better service to the garage's patrons. Subsequently, however, he said that his wish was rather to sell Trans Côte and keep only the fuel sale business.
+
+[109] Counsel for the respondent next stressed that it was in the appellant's interest to sell to a company that would not cause him to lose effective control of the Trans Côte group. She reminded the court that, after the transaction, it was the appellant himself who signed LBS's tax return and that no changes were made to Trans Côte's guarantee arrangements.
+
+[110] Finally, counsel for the respondent considered that the appointment of a trustee was not an obstacle to finding that there was a "de facto" non-arm's-length relationship since the escrow agreement delegated to the trustee only the voting rights attached to the shares of Trans Côte's capital stock without giving that trustee the power to negotiate the sale of the shares or transfer their ownership. She pointed out in this regard that the escrow arrangement was to terminate on the day of the sale or transfer of the shares and that the appellant could require the trustee's resignation for any reason judged valid.
+
+[111] For the reasons stated, counsel for the respondent concluded that the appellant and LBS were in fact not dealing with each other at arm's length and, therefore, the appellant cannot deduct a business investment loss in computing his income for 1992.
+
+Additional submissions of the appellant
+
+[112] In his argument in reply, counsel for the appellant attacked counsel for the respondent's statement of the facts on a number of points and contested her interpretation of certain facts for the purposes of the arguments she advanced.
+
+[113] First, on the matter of guaranteeing Trans Côte's line of credit, counsel for the appellant argued that no evidence was submitted that the only guarantors, both before and after the transaction, were the appellant and the numbered companies 153760 Canada Inc. and 162481 Canada Inc. He asserted that evidence was led showing that Mr. Labadie had guaranteed Trans Côte's line of credit after the transaction. In addition, he argued that the release of a guarantor is the creditor's responsibility and is beyond the debtor's control.
+
+[114] Counsel for the appellant also challenged the statement that the appellant had furnished inaccurate information to the Corporation des médecins. In that respect, he emphasized the appellant's good faith and referred to both the letter sent by the appellant on December 12, 1992, to the Corporation des médecins and the letter of the notary, Mr. Côté, attached thereto. Moreover, he said, the letter from the Corporation des médecins dated December 22, 1992, shows that the Corporation was satisfied with the explanations provided.
+
+[115] Counsel for the appellant argued as well that it was incorrect to say that the sale price was determined by the appellant's accountant or his notary since it depended on a formula based on the results shown in the financial statements to be filed for the fiscal year ending on December 31, 1992. Moreover, he said, Philippe Labadie testified that he had consulted his accountant, who assured him that the formula yielded a fair and reasonable price for the transaction. Counsel for the appellant went on to argue that this mode of proceeding was quite normal and frequent and that it could not be inferred therefrom that the price was imposed on Mr. Labadie by the appellant's representatives. Counsel also stressed the fact that a vendor who decides to sell a business generally has an idea of the price he wants to obtain and will not sell unless he gets a price that is close to what he is looking for.
+
+[116] With regard to the fact that Armand Joncas replaced the appellant as director of LBS on the date of the transaction, counsel for the appellant emphasized that it was quite normal that two shareholders, each owning 50% of the voting and participating shares, would each designate a representative to serve on the board of directors. He also reminded the Court that the appellant's shares were in escrow with the notary, Mr. Côté, at the time of that election.
+
+[117] Counsel for the appellant also disputed the information obtained by the auditor, Mr. Bouchard, in his very brief telephone conversation with Mr. Labadie, particularly insofar as that information related to LBS's activities and Mr. Labadie's involvement after the transaction.
+
+[118] Concerning Mr. Labadie's negotiations with Armand Joncas, counsel for the appellant, in contrast to counsel for the respondent, saw not as unusual but as common practice for the directors of a company to handle the bargaining for the sale of a group of companies, although the shareholders obviously have the final say. In the situation here, it only goes to confirm, in his view, the evidence that the appellant was no longer really involved in Trans Côte's affairs and that he had not participated in the bargaining. Moreover, he added, there was never any evidence that the appellant exercised control over Armand Joncas or the notary, Mr. Côté, during the negotiations.
+
+[119] On the issue of the existence of independent or separate interests, counsel for the appellant criticized counsel for the respondent for, inter alia, referring only to certain passages from Ms. Claveau's report on the objection and ignoring those that he had referred to. At the same time, counsel for the appellant reminded the Court that Ms. Claveau had herself twice acknowledged the existence of separate interests.
+
+[120] Counsel for the appellant recognized that, to comply with the demands of the Corporation des médecins, the appellant had to sell. However, he considered LBS to be a potential purchaser, exactly like the other purchasers mentioned in the letter of the notary, Mr. Côté, that was attached to the letter sent by the appellant on December 12, 1992, to the Corporation des médecins. In that regard, he again referred to the reply of the Corporation des médecins in which the Corporation seemed to express its satisfaction with the explanations provided and did not impose a strict deadline on the appellant for selling his shares.
+
+[121] Once again, counsel for the appellant came back to the matter of Mr. Labadie's explanations regarding the setting of the sale price, which were considered vague by counsel for the respondent. He argued that the explanations were clear enough for one to understand that Mr. Labadie had a good idea of Trans Côte's value and that he had received the assurance of his accountant that the sale price reflected that company's value. According to counsel for the appellant, the contract of sale and the calculations subsequently provided to the tax authorities enabled one to arrive at a final figure of $6,022.
+
+[122] Counsel for the appellant argued that his client did not have effective control of Trans Côte after the transaction and never at any time had effective control of LBS, as counsel for the respondent claimed he had, since, according to counsel for the appellant, it would have been necessary to show that the appellant actually had control over the decisions made by the trustee, that is, the notary, Mr. Côté.
+
+[123] In conclusion, counsel for the appellant submitted that the evidence was not such as to establish the existence of a de facto non-arm's-length relationship between the appellant and LBS based on the three tests used by the courts in this regard.
+
+[124] Finally, and in the alternative, counsel for the appellant submitted that, if the Court were to conclude that the facts presented in evidence allow of two valid interpretations, the principles of interpretation developed by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, should be applied, particularly as regards the residual presumption in favour of the taxpayer.
+
+[125] Counsel for the appellant asserted that the respondent's intransigent position left the appellant practically without relief in respect of a $327,495 investment in the local economy. This appears to counsel to be a disproportionate result for a taxpayer who had no choice but to sell Trans Côte, with respect to which entity the loss would have been incurred in any event, regardless of who the purchaser was.
+
+Analysis
+
+[126] While a number of aspects of the instant case may appear confused or contradictory or lend themselves to differing, indeed opposing, interpretations, as formulated some of the propositions put forward first require some comment so that the issue may be placed in the proper perspective.
+
+[127] I would begin by pointing out that, for a loss on the disposition by a taxpayer of shares of the capital stock of a small business corporation to be recognized as a business investment loss, subparagraph 39(1)(c)(ii) of the Act requires that the disposition be to a person with whom the taxpayer was dealing at arm's length.
+
+[128] The purpose of the legislation appears quite obvious. It refuses to recognize a loss resulting from a disposition that is considered to be artificial because the disposition by the vendor is to a person or group of persons controlled in one way or another by the vendor at the time of the disposition.
+
+[129] Paragraph 251(1)(a) of the Act provides that related persons are deemed not to deal with each other at arm's length. Subsections 251(2) to (6) and section 252 of the Act state the rules for determining who are "related persons", or persons related to each other. In the case at bar, it is established that the appellant and LBS were not related persons so that paragraph 251(1)(a) is not applicable for the purposes of making a determination herein.
+
+[130] Moreover, paragraph 251(1)(b) of the Act specifies that "it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm's length."
+
+[131] It is therefore a question of fact and solely a question of fact; it does not require the application of the principles of statutory interpretation and accordingly the residual presumption in favour of the taxpayer as stated by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre- Dame de Bon-Secours (supra) is simply not relevant. The Court must settle this question of fact on the basis of the evidence before it, without regard to the conclusions or opinions that may have been expressed by Mr. Bouchard or Ms. Claveau of Revenue Canada. Nonetheless, whatever information those individuals may have gathered is obviously important. I would also add that, where such a question of fact falls to be determined, the credibility of the testimony is crucial.
+
+[132] It will be recalled that, among the assumptions of fact on which the assessment was based, subparagraphs (u) and (v) of paragraph 15 of the Reply to the Notice of Appeal state the following:
+
+[TRANSLATION]
+
+(u) The influence and control exercised by the appellant over the activities and the decisions of Garage LBS Inc. were disproportionate to his share ownership.
+
+v) The appellant was in fact the person who had directed both parties to the transaction of December 31, 1992.
+
+[133] It was up to the appellant to establish, on a balance of probabilities, that the facts stated in those subparagraphs were incorrect.
+
+[134] Subparagraph 15(u) of the Reply to the Notice of Appeal states in effect that the appellant had the de facto control of LBS in respect of the decisions made. The decision that matters here is the one to purchase all the shares of Trans Côte's capital stock, which were owned by the appellant himself. That decision was made by resolution of the two directors of LBS, namely the appellant and Philippe Labadie, on December 23, 1992. The contract was signed on December 28, 1992 to take effect on December 31 of that year. Although the appellant and Philippe Labadie owned an equal number of the common voting shares of LBS's capital stock and were both directors of that company, it must be understood that what is alleged is that the decision was mainly the appellant's or, in other words, that he played a predominant role in LBS's decision to purchase his shares.
+
+[135] Since the appellant was himself in his personal capacity one of the parties—namely, the vendor—to the transaction, it will be understood why subparagraph 15(v) of the Reply to the Notice of Appeal states that he was also the one who had directed or led LBS to agree to the transaction as purchaser and who had dictated its terms. To put it simply and concretely, what this means is that, notwithstanding Philippe Labadie's necessary collaboration, it was the appellant who played a predominant role in establishing the terms of his transaction with LBS.
+
+[136] That is essentially the position taken in the Reply to the Notice of Appeal and argued by counsel for the respondent on the basis of the Merritt Estate case (supra) in particular. In fact, relying on that decision, she maintained that the appellant had dictated the terms of the transaction on behalf of both parties and that Philippe Labadie was [TRANSLATION] "manipulated" by the appellant and his advisers (the accountant and the notary).
+
+[137] With the exception of the term "manipulated", which is perhaps inappropriate in the circumstances, I find that the respondent's position is well-founded. The evidence as a whole not only gives the very clear impression, but leads to the quasi-certainty, that it was the appellant, with the aid of his advisers, who decided on the transaction and its terms, though not without the collaboration of Philippe Labadie, of course. Given his situation, Mr. Labadie probably saw no disadvantage therein and could even anticipate certain benefits that the transaction might bring him. However, I will add here that some of the facts that, in my opinion, are important for judging the credibility of the appellant's and Mr. Labadie's testimony may not have received enough emphasis. I shall attempt to make up for this deficiency.
+
+[138] As we have seen, the appellant had interests in many businesses and, more particularly, in certain businesses related to air transport. The latter, of course, included Trans Côte as well as its subsidiary, 162481 Canada Inc., which operated the Centre Aéro. The appellant and 153760 Canada Inc., of which he held 100% of the shares, owned the aircraft used by Trans Côte. Although he was officially the sole director of those various companies, the appellant who devoted himself entirely to his medical practice, had entrusted their management to his brother, Armand Joncas. As a result of the conflict of interest issue raised by the Corporation des médecins, which has been discussed at length, the brother was charged by the appellant with selling the whole thing, that is, the Trans Côte group. It was moreover the brother who placed the advertisements in the newspapers and who presented himself as the contact person. Another person was also given a mandate by the appellant [TRANSLATION] "to do whatever it took to sell"; this was the notary, Mr. Côté, who was the appellant's legal adviser and who also represented him with regard to the conflict of interest issue raised by the Corporation des médecins. The appellant's testimony could not be clearer in this regard. To say that, Mr. Côté's only role was that of independent trustee as of September 1992 is simply to ignore a portion of the evidence that was presented. There was also Lise Gauthier, the appellant's tax accountant, who was given less attention but about whom it is at least known that she was involved in setting the sale price through the inclusion of the previously mentioned formula in the contract of sale. All these persons were indeed and above all agents of the appellant. Whether Mr. Labadie discussed the transaction with the appellant himself or with one or several of the appellant's agents does not make much difference for the purposes of this case. As pointed out by counsel for the respondent, the decision in Merritt Estate (supra) may be referred to in that respect. One could also have just made reference to the rules of mandate as set out in the Civil Code of Lower Canada at the time of the transaction.
+
+[139] Following the investigation by the syndic and the meeting with the appellant, which took place on June 10, 1992, the Corporation des médecins was, rightly or wrongly, under the impression that the appellant had actually sold the Trans Côte group to the Coopérative de transport. Dr. Lair of the Corporation des médecins accordingly requested a copy of the contract in a letter he wrote to the appellant as early as June 18, 1992. In another letter, dated September 16, 1992, Dr. Lair noted that the "contract of sale" of which he had received a copy was really a promise of purchase and sale, but even so he assumed that there had indeed been a sale. Understandably, the appellant was already under heavy pressure to act, since the requirement of the Corporation des médecins was that he either sell the Trans Côte group or cease practising medicine and prescribing medical transport at the Centre de santé de Blanc-Sablon.
+
+[140] It was also on September 16, 1992, that the appellant signed the escrow agreement for his shares of the capital stock of Trans Côte and 153760 Canada Inc. and appointed the notary, Mr. Côté, as trustee. I note here that this appointment of Mr. Côté as trustee had nothing to do with the appointment of a trustee and the placing of the appellant's shares in trust until payment in full of the purchase price stated in the promise of purchase and sale signed by the Coopérative de transport. As pointed out by counsel for the respondent, the escrow agreement, whose main purpose was to delegate the voting rights to Mr. Côté, was in no way an impediment to a determination that there was a "de facto" non-arm's-length relationship between the appellant and LBS, and that agreement left him completely free to sell the escrowed shares since it was to end on a sale or transfer.
+
+[141] That same day, September 16, 1992, the notary, Mr. Côté, although he himself did not sign the escrow agreement until September 18, 1992, appointed the appellant's brother, Armand Joncas, director of Trans Côte. There again, this did not make much difference in actual fact since we know that Armand Joncas was managing the appellant's companies and businesses in any case and that he still had a mandate from the appellant, as did Mr. Côté, to sell the Trans Côte group.
+
+[142] On November 19, 1992, the pressure was turned up a notch as Dr. Lair told the appellant that he had just learned that the Trans Côte group had not been sold. Dr. Lair requested an explanation. It was the notary, Mr. Côté, who provided the explanation on the appellant's behalf in a letter dated December 8, 1992.
+
+[143] According to what the appellant said in his testimony, the decision to sell his shares of Trans Côte's capital stock to LBS was taken a few weeks, perhaps a month, before the contract was signed. The resolution authorizing LBS to purchase is dated December 23, 1992, and the contract of sale is dated December 28, 1992, to take effect on December 31, 1992. If the sale to LBS had already been decided on, if it was the result of genuine bargaining or discussions with Philippe Labadie and if Philippe Labadie had had a real interest in the sale, it is surprising that there is no mention of it in the letter of the notary, Mr. Côté, dated December 8, 1992, that was attached to the letter of December 12, 1992, sent by the appellant to the Corporation des médecins. Yet, at the time, was it not the only transaction that had been decided on and that was being arranged by the appellant's advisers?
+
+[144] One may rightly wonder about the reason for the decision to sell to LBS when the notary, Mr. Côté, was claiming at the same time that the transaction with the Coopérative de transport was still pending, other groups were requesting information and there was even a formal meeting with the Gamac group from Roberval in November 1992. The answer seems clear. Since no other transaction appeared to be about to materialize in the relatively near future, it was decided to use an expedient to satisfy the Corporation des médecins, even if only partially and temporarily. Officially at least, the appellant would no longer control Trans Côte; moreover, efforts would continue to be made to sell all of the companies connected with air transport, as the appellant so clearly indicated, in fact, in his testimony. In my opinion, the sale of his shares of Trans Côte's capital stock to LBS was decided on by the appellant and arranged by his agents and advisers in order to accommodate him on a temporary basis. Furthermore, that sale was not seen as a permanent solution. This emerges clearly from the evidence and, more specifically, from the appellant's testimony, particularly the above-cited excerpts from the transcript of that testimony. Legal technicalities aside, it is therefore not surprising at all that the appellant's brother, Armand Joncas, was appointed director of LBS after the transaction. Here again, that made no real difference. One must also remember that the owners of the aircraft used by Trans Côte were still 153760 Canada Inc.—the shares of whose capital stock still all belonged to the appellant despite their having been placed in escrow with the notary, Mr. Côté—and the appellant himself, both before and after the transaction with LBS.
+
+[145] I note in passing that it is incorrect to say that the appellant ceased to guarantee Trans Côte's line of credit after the transaction. He himself stated in his testimony that the guarantees had remained unchanged and that it was as a result of the meeting with Ms. Claveau that he decided to [TRANSLATION] "clean house" in respect of the guarantees that he had provided for a number of businesses.[6] It is just as incorrect to say that Philippe Labadie guaranteed Trans Côte's line of credit after the transaction. There was simply no evidence on that point.
+
+[146] As for Mr. Labadie, any real interest he may have had in making that transaction for himself seems too vague for it to be truly believable. His testimony and his earlier statements to the tax authorities are contradictory and do not provide a basis for asserting that he played a significant role, apart from a legal and formal one, in the decision that led LBS to purchase the appellant's shares of Trans Côte's capital stock.
+
+[147] In the first place, if, as Mr. Labadie so often stated in his testimony, Trans Côte and its subsidiary were not worth much or were worth almost nothing, one wonders why he would not have purchased them or even why he would not have attempted to purchase them personally. No explanation was forthcoming on this point.
+
+[148] Mr. Labadie's explanation that he was interested in the service that Trans Côte could provide through quicker delivery, by air, of parts for the garage, so as to eliminate the competition is surprising. In the first place, it is known that there was very little activity at the garage and that it was no longer profitable. It is also known that Mr. Labadie had already been employed for some time as a heavy equipment operator for construction firms throughout the greater part of the year and that he received unemployment insurance benefits during the rest of the year. He performed mechanical work at the garage only occasionally. It is known as well that he had accepted employment as a heavy equipment operator at Robinson Lake in March 1993, barely three months after the transaction, that this employment lasted until September or October of that year and that he continued in the same employment in 1994 and 1995. It will also be remembered that revenues from the garage were only $2,329 in 1993. In view of these facts, it does not appear that his interest in having parts shipped by Trans Côte would have been very significant. Mr. Labadie later testified that this interest was only temporary because he wanted to sell Trans Côte. Did that not amount to pursuing the very objective sought by the appellant, with respect to which the appellant said, as indicated in the excerpt from his testimony reproduced in paragraph 34, that he wanted to continue with the efforts to sell even after the signing and that, even after the sale, Philippe Labadie had been instructed [TRANSLATION] "to continue those efforts" and sell Trans Côte's assets.
+
+[149] As for Philippe Labadie's interest in fuel sales at the Centre Aéro, it is surprising to see that this interest was mentioned for the first time at the hearing and not during the earlier conversations he had had with Mr. Bouchard and Ms. Claveau.
+
+[150] The issue of the sale price merits closer scrutiny. First, it is clear that Mr. Labadie himself never mentioned any price in respect of the purchase of the shares of Trans Côte's capital stock owned by the appellant. For the purposes of the contract, the price was set at $1.00 for the common shares and $80,000 for the Class B preferred shares of Trans Côte's capital stock. This price for the Class B shares was to be adjusted in accordance with the formula reproduced above in paragraph 32. The appellant stated that the use of this formula had the effect of reducing the price from $80,000 to $6,022, once the figures were known. For his part, Mr. Labadie said that he had had discussions with Armand Joncas and had negotiated with him. However, Mr. Labadie never indicated the subject of the negotiations. In his testimony, Mr. Labadie admitted that, when the contract was signed, he did not know the final price but had consulted his accountant, André Maltais, concerning the formula proposed by the appellant's advisers, namely his own accountant and the notary, Mr. Côté. Mr. Labadie also said that Mr. Maltais had assured him that the use of the formula would yield an appropriate and reasonable price. It is surprising to note that, in a note to LBS's financial statements for the year ended on December 31, 1992, attached to LBS's tax return for that period, the same Mr. Maltais wrote that LBS had purchased all of the shares of Trans Côte's capital stock for the [TRANSLATION] "nominal sum" of $1. The use of the word "nominal" is highly significant. In addition, it must be remembered that it was the appellant himself who signed the tax return to which those financial statements were attached. In his testimony, the appellant indicated that he had signed a number of documents, including that return, without paying much attention to what he was signing. There is a limit to the extent to which an excuse such as that can be used if one wishes to maintain some degree of credibility. Moreover, the facts as presented by Mr. Maltais in LBS's financial statements for the 1992 taxation year were never explained. On the basis of that presentation of the facts, it may certainly be inferred that the discussions or negotiations could not have been very elaborate and that the advice given by Mr. Maltais to Mr. Labadie must have been fairly brief.
+
+[151] Furthermore, knowing that Mr. Maltais also handled the accounting for some of the appellant's businesses, one is entitled to question his true role in this affair.
+
+[152] What is most surprising, however, is that Lise Gauthier, the appellant's tax accountant, who signed and filed the appellant's 1992 tax return herself, also indicated that the proceeds of disposition for Trans Côte's common shares was $1 and that the proceeds of disposition for the preferred shares was $0. What a coincidence! Mr. Labadie's accountant and the appellant's accountant both represent the transaction as having been effected for the sum of $1. One wonders what the bargaining could really have been about. Of course, the appellant declared that this had subsequently been corrected to reflect the final price established through the formula provided in the contract, which price in the end was only $6,022. Really! It may readily be inferred from all of these facts that, for the appellant, the whole point of the transaction was a "nominal" sale for $1 so that he could divest himself of the "legal" control of Trans Côte.
+
+[153] Indeed, a comparison of the appellant's 1992 tax return and LBS's financial statements for that year, which were attached to that company's tax return that was signed by the appellant himself, suggests something other than what was stated in the testimony of both the appellant and Mr. Labadie with regard to the negotiations that may have taken place. This certainly affects whatever credence might be given to their testimony. I would add, even though the point is not in issue, that it also casts doubt on the actual date of the execution of the contract between the appellant and LBS since, several months after the transaction, both told the tax authorities that the sale was for $1.
+
+[154] Incidentally, I would point out that the documents in question here, that is, the appellant's 1992 tax return (Exhibit I-1) and LBS's financial statements for the fiscal year ended on December 31, 1992, attached to its 1992 tax return (Exhibit I-4), were adduced in evidence during the appellant's cross-examination by counsel for the respondent. They were not part of the documents filed by the appellant, although LBS's financial statements for the years ended on December 31, 1991, 1993, 1994, 1996 and 1998 were (see Exhibit A-1, Tab 15). Obviously, the comparative statements of LBS for those years reveal some information about the years for which the statements were not filed, but not necessarily all the relevant information. This is the case, in particular, for the year ended on December 31, 1992, since only Exhibit I-4 makes it clear that the transaction was carried out for the [TRANSLATION] "nominal sum of $1". Furthermore, in the notes to LBS's financial statements that were produced for the subsequent years (Exhibit A-1, Tab 15), it should be noted that the Class A shares of Trans Côte's capital stock are referred to in terms of their value according to the equity method, which varies from year to year, whereas for the Class B shares a nominal amount of $1 is all that is ever indicated.
+
+[155] Despite all that, Mr. Labadie, in a conversation with Ms. Claveau, did not know that the $80,000 price indicated in the contract had subsequently been reduced to $6,022 and gave an answer stating that he did not know when he would pay the $80,000.
+
+[156] In view of Mr. Labadie's other answers to Mr. Bouchard's and Ms. Claveau's questions, and given the explanations provided at the hearing, one cannot fail to see the vague, confused and even contradictory nature of the entire account that was supposed to be his version of the facts.
+
+[157] In conclusion, I find that it was the appellant and his advisers and agents, such as his brother, his accountant and the notary, Mr. Côté, who decided upon and put in place all the elements necessary for the sale of his shares of Trans Côte's capital stock to LBS in order to satisfy, at least partially and temporarily, as I said earlier, the Corporation des médecins. In my opinion, that transaction was carried out without the appellant's losing the effective control of Trans Côte and its subsidiary, 162481 Canada Inc. How else are we to explain a sale for a [TRANSLATION] "nominal sum of $1" or even for an amount of $6,022 when at the same time the appellant says he wanted to continue efforts to sell to a third party even after signing the contract and when Philippe Labadie had been expressly instructed to continue those efforts. Disregarding appearances, it is not believable that the appellant could have divested himself of the control of Trans Côte for nothing, or for so little, without ensuring that he had effective control of LBS both before and after the transaction, in particular by seeing to it that his agents and advisers were put in the right places and that Philippe Labadie also became an agent of his in the search for a third-party purchaser after the contract was signed. However, faced with the Corporation des médecins's requirement, the sale to LBS was, as he said himself, the lesser evil since he would no longer be directly controlling Trans Côte. Whether or not he and his advisers had in mind a predominantly tax purpose in arranging and carrying out this transaction, that in no way diminishes, in my opinion, the dominant role that they played. I consider that this was a situation that meets the test set out in Merritt Estate (supra), a situation where one person or his advisers determined the terms of the transaction for both parties thereto. Since LBS was no longer profitable and had become practically dormant, I believe that Philippe Labadie knowingly agreed to collaborate in what I consider to have been an initiative and a decision by the appellant and his advisers. His direct involvement several years later, when he had been [TRANSLATION] "instructed" to sell, cannot alter this conclusion in any way.
+
+[158] Taking all these facts into account, I find that the appellant has not shown that he disposed of the shares of Trans Côte's capital stock to a person with whom he was dealing at arm's length. The assessment whereby the Minister disallowed the deduction by the appellant of an allowable business investment loss for 1992 is therefore well-founded.
+
+[159] As a result, the appeal is dismissed, with costs to the respondent.
+
+Signed at Ottawa, Canada, this 3rd day of January 2001.
+
+"P. R. Dussault"
+
+J.T.C.C.
+
+Translation certified true on this 28th day of February 2002.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Erich Klein, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+98-1096(IT)G
+
+BETWEEN:
+
+PAUL-AIMÉ JONCAS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on February 1 and 2, 2000, at Québec, Quebec, by
+
+the Honourable Judge P.R. Dussault
+
+Appearances
+
+Counsel for the Appellant: René Roy
+
+Counsel for the Respondent: Anne-Marie Boutin
+
+JUDGMENT
+
+The appeal from the assessment made pursuant to the Income Tax Act for the 1992 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 3rd day of January 2001.
+
+"P. R. Dussault"
+
+J.T.C.C.
+
+Translation certified true
+
+on this 28th day of February 2002.
+
+Erich Klein, Revisor
+
+[1] In the transcript of the appellant's testimony, the date given is December 18, 1992. However, Dr. Lair's letter of December 22, 1992 is in reply to a letter from the appellant dated December 12, 1992.
+
+[2] Transcript of the appellant's testimony, pages 149 to 151.
+
+[3] Transcript of the appellant's testimony, pages 160 and 161.
+
+[4] Transcript of the appellant's testimony, pages 70 and 71.
+
+[5] Duha Printers v. Canada, [1998] 1 S.C.R. 795, in particular at pages 821 to 823.
+
+[6] Transcript of the appellant's testimony, pages 108 and 109.
+

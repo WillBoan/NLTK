@@ -1,0 +1,142 @@
+Date: 20010703
+
+Docket: 2001-187-IT-I
+
+BETWEEN:
+
+DORA OLIVA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bonner, J.T.C.C.
+
+[1] This is an appeal from assessments of income tax for the 1994 to 1998 taxation years.
+
+[2] In computing income for 1997, the Appellant deducted an allowable business investment loss (ABIL) resulting in a non-capital loss for the year. The Appellant sought to carry the non-capital loss back to 1994, 1995 and 1996 and forward to 1998. The Minister of National Revenue (the "Minister") disallowed the claim. The Minister assessed on the basis that the Appellant was not entitled to deduct the ABIL because the loss was, by virtue of subparagraph 40(2)(g)(ii) of the Income Tax Act, nil. That provision reads:
+
+(2) Notwithstanding subsection (1)
+
+(g) a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+
+...
+
+(ii) a loss from the disposition of a debt or other right to receive an amount., unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm's length.
+
+...
+
+is nil;"
+
+[3] The claim for the ABIL was in respect of a payment of $210,000 made by the Appellant to the Bank of Nova Scotia pursuant to her guarantee of a loan made by the Bank to Fifeshire Developments Limited.
+
+[4] Fifeshire had two principal shareholders, David Navy Enterprises Ltd. and Panda Construction Company Limited. The Appellant was not a shareholder of Fifeshire, Navy or Panda. The Appellant's husband Letterio Oliva and her father-in-law were the two shareholders of Panda.
+
+[5] Fifeshire carried on the business of the construction of houses for resale. It increased the scale of its business operations and for that purpose required additional financing. In 1990, the Appellant's husband approached her and told her that the bank required loan guarantees from certain individuals including her and that, as well, it required a collateral mortgage on the home in which the Appellant and her husband resided. The Appellant testified that she was reluctant and that she asked her husband what was "in it" for her. She said that she wanted to clear the first mortgage on the family home and that her husband indicated that after Fifeshire completed and sold four homes which it was constructing he would have plenty of money to pay off the mortgage on the family home. The Appellant then signed the guarantee and the mortgage. Subsequently, the residential real estate market declined drastically, the houses which Fifeshire was building declined in value and the loan which the Appellant had guaranteed went into the default. The bank took legal action to enforce the guarantee. It recovered judgment against the defendants including the Appellant. The bank then settled its claim against the Appellant in consideration of the payment to it of the sum of $210,000. The payment was made in September of 1997.
+
+[6] It would seem to be common ground that the Appellant is deemed by subsection 50(1) of the Income Tax Act to have disposed of the debt to her from Fifeshire arising from subrogation at the end of 1997 for proceeds equal to nil.
+
+[7] The question which must be answered here is whether the debt in question was acquired by the Appellant "... for the purpose of gaining or producing income from a business or property..." within the meaning of subparagraph 40(2)(g)(ii) of the Income Tax Act. This requirement, the so-called business purpose test, has been considered by the courts in a number of cases. Counsel for the Appellant submitted that the more recent authorities place decreasing importance on what he described as the old formalities. He argued that the guarantee was given in the expectation that the house building activities of Fifeshire would yield financial benefit to Mr. Oliva thereby increasing family prosperity and enabling husband and wife to repay the mortgage on the family home. Counsel referred to The Queen v. Byram, 99 DTC 5117, in which McDonald J.A. noted at page 5120:
+
+"While subparagraph 40(2)(g)(ii) requires a linkage between the taxpayer (ie the lender) and the income. There is no need for the income to flow directly to the taxpayer from the loan."
+
+Counsel noted as well McDonald J.A.'s observation that: (page 5120)
+
+"There is a growing body of jurisprudence that considers current corporate reality as being sufficient to demonstrate that the expectation of dividend income justifies a capital loss deduction under subparagraph 40(2)(g)(ii).
+
+[8] The difficulty with all of this is that, as Bowie J. noted in McKissock v. Her Majesty the Queen[1]:
+
+"The cases show a clear distinction between those in which the taxpayer enters into a transaction to assist another family member, and those in which the purpose of the transaction is to produce financial gain or reward for the taxpayer himself..."
+
+[9] Here the Appellant gave the guarantee to enable Fifeshire to borrow money and use it to earn profit which might flow in the form of dividends to Panda and might flow further in the form of dividends paid by Panda to the Appellant's spouse. The arrangement did not offer the Appellant the prospect of earning income of any sort. The potential dividend income would quite evidently have been income of the Appellant's spouse and not income of the Appellant. If the husband had been enriched by such a chain of events and if he had repaid the mortgage on the family home as the Appellant desired that repayment would not have resulted in the receipt by the Appellant of taxable income. The rather vague arrangement between the Appellant and her husband as described in evidence was of a personal or family nature. I do not view it as an agreement by Mr. Oliva to pay consideration to the Appellant for agreeing to guarantee the loan. This case is essentially similar in principle to O'Blenes vs. M.N.R.[2]. In my view the indirect advantage which the Appellant sought to gain by guaranteeing the loan to Fifeshire could not have constituted income in the Appellant's hands.
+
+[10] Counsel for the Appellant argued further:
+
+"With the subject appeal, there is no doubt that the Appellant had a profit motive in mind when she signed the Scotia mortgage and guarantee. By not being a shareholder of Panda Construction Company Limited ("Panda") (the holding company) or Fifeshire Developments Limited ("Fifeshire") (the income earning company) she in effect used her husband as the conduit or trustee for the purposes of the investment or the loan to Fifeshire. If Fifeshire made money on the loan/investment and did not account to her for her share, she certainly would have a cause of action on many different legal grounds to recover the money. If the money went to Panda or the husband and the wife did not receive back her money, she would have a right of action including equalization rights against the husband underSections 4 and 5 of the Family Law Act of Ontario 1986."
+
+[11] The evidence simply does not bear out the assertion that the Appellant used her husband as a conduit or trustee for the purposes of investing or lending money to Fifeshire. There is no foundation whatever for the suggestion that there existed any relationship between the Appellant and her husband which would have constituted the husband the trustee of the Appellant in respect of any dividends received by him from Panda. Nothing in the circumstances brought any provision of the Family Law Act into play.
+
+[12] For the foregoing reasons, the appeal will be dismissed with costs.
+
+Signed at Ottawa, Canada, this 3rd day of July 2001.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-187(IT)I
+
+STYLE OF CAUSE: Dora Oliva and Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: June 20, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge M.J. Bonner
+
+DATE OF JUDGMENT: July 3, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Neil L. Boyko
+
+Counsel for the Respondent: Sherry Darvish
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-187(IT)I
+
+BETWEEN:
+
+DORA OLIVA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on June 20, 2001 at Toronto, Ontario by
+
+the Honourable Judge Michael J. Bonner
+
+Appearances
+
+Counsel for the Appellant: Neil L. Boyko
+
+Counsel for the Respondent: Sherry Darvish
+
+JUDGMENT
+
+The appeal from the assessments made under the Income Tax Act for the 1994, 1995, 1996, 1997 and 1998 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 3rd day of July 2001.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+[1] [1997] 1 C.T.C. 2182.
+
+[2] 90 DTC 1068.
+

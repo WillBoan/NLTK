@@ -1,0 +1,824 @@
+Date: 19980306
+
+Docket: 96-1399-IT-G
+
+BETWEEN:
+
+BRELCO DRILLING LTD. (Formerly Trimac Limited),
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+[1] This appeal is from a determination of loss made by the Minister of National Revenue ("Minister") in respect of the Appellant's 1989 taxation year. The decrease in the amount of the loss computed by the Appellant resulted from the Minister reducing the amount of "safe income"[1] of the Appellant. This increased the amount of capital gain alleged to have arisen under subsection 55(2) of the Income Tax Act ("Act")[2] thus increasing the taxable capital gain. In order to offset such increased income, a greater amount of the Appellant's non-capital loss was deducted.
+
+ISSUE:
+
+[2] The issue is whether losses incurred in foreign affiliates of the Appellant reduce the "income earned or realized by any corporation after 1971" for the purposes of subsection 55(2), thereby affecting the amount of "safe income" available to the Appellant.
+
+FACTS:
+
+[3] The parties filed an Agreed Statement of Facts with the Court and advised the Court that it incorporated the admissions in the pleadings and constituted all evidence in the case.
+
+[4] Attached as Schedule "A" is a chart showing the relevant corporate structure. The names of companies used in these Reasons are taken from that chart.
+
+[5] On November 29, 1989 the Appellant received a cash dividend of $32,000,000 from Tricil and included same in income. It applied subsection 55(2) to that dividend resulting in it being deemed to be proceeds of disposition. It reduced the resulting deemed capital gain by the amount of "safe income" calculated by it. It had losses from other operations for that taxation year, the ultimate position of the Appellant being that it had a non-capital loss for that year.
+
+[6] On December 29, 1989 the Appellant sold all of its shares of Tricil to Laidlaw Inc.
+
+[7] In 1995 the Minister, pursuant to the Appellant's request, issued a Notice of Determination of Loss. It determined the loss to be less than the amount claimed by the Appellant, the difference relating directly to the amount of "safe income" which could be applied to reduce the amount of the capital gain.
+
+[8] Each of Inc., A, B, C, D and E had an "exempt deficit" within the meaning of that expression for the purposes of the Act at the end of its taxation year ending prior to November 30, 1989. Each of B, C, D, and E incurred losses between its last prior taxation year and November 29, 1989. [9] Each of F and G had an exempt surplus within the meaning of that expression for the purposes of the Act at the end of its taxation year ending prior to November 30, 1989.
+
+[10] The Appellant computed its "safe income" as being $25,735,216 and deducted that sum from the amount of deemed capital gain under subsection 55(2). The Minister
+
+calculated the portion of the dividend from Tricil to Trimac that could reasonably be considered to be attributable to income earned or realized by Tricil and its subsidiaries after 1971 (hereinafter referred to as "Safe Income") ... to be $23,149,721, a difference of $2,585,495.[3]
+
+This resulted in an increase in the Appellant's taxable capital gain of $1,723,672 and a corresponding reduction in its non-capital loss.
+
+[11] The Minister prepared an Analysis of Safe Income Calculation of the Appellant which was attached as a schedule to the Agreed Statement of Facts[4]. It is reproduced and attached as Schedule "B" to these Reasons. It shows, in respect of Tricil, the amounts of $9,026,833 and $2,845,896 totalling $12,776,622. The parties agree that the total of these two amounts should be $11,872,729. Therefore, one-half of the resulting $903,893 overstatement of "safe income" should reduce the Appellant's share by $451,946. It was agreed that if the Appellant succeeds in this appeal, this calculation error will be rectified resulting in a reduction of the Appellant's computation of "safe income". If, however, the Appellant is unsuccessful, the calculation error will not be rectified because the result would be an increase in the amount determined by the Court to be payable by the Appellant.[5]
+
+[12] The Respondent's computation reduces the Appellant's "safe income" by the amount of the exempt deficits of Inc., A, B, C, D and E. The Appellant contends that the exempt deficits should not be "netted" with the exempt surpluses of F and G. The Respondent submits that all exempt deficits should be so "netted".
+
+APPELLANT'S SUBMISSIONS:
+
+Preliminary Submissions respecting lack of assumptions of fact in Reply
+
+[13] Appellant's counsel submitted that the Respondent's pleadings were deficient. He stated that there must be a pleading of facts essential to the application of subsection 55(2). He said that the Respondent cannot conclude that a dividend would reduce the price of a share, it being possible that a dividend can be paid without impacting on the price that a purchaser would be willing to pay. He made this submission notwithstanding the Appellant having submitted itself to the application of subsection 55(2) on filing the return of income for the 1989 taxation year. Specifically, Appellant's counsel said that the pleadings make no assumption with respect to the facts which must exist in order to consider whether it is reasonable to apply losses to reduce retained earnings of the parent. His position was that there was no evidence to enable the Court to reach such conclusion. He stated that there are three fundamental principles relating to pleadings in an income tax case. They are as follows:
+
+1. The Respondent must assume all the facts necessary to sustain the reassessment. Counsel stated that there was no pleading with respect to the capital gain having been reduced by the dividend and no facts that related the income of the parent corporation with the losses of the subsidiaries. He referred to del Valle v. M.N.R., 86 DTC 1235 (T.C.C.) at 1237 where Sarchuk, J., said:
+
+In my view the respondent has failed to allege as a fact an ingredient essential to the validity of the reassessment. There is no onus on the appellant to disprove a phantom or non-existent fact or an assumption not made by the respondent.
+
+He also referred to Kit-Win Holdings (1973) Limited, 81 DTC 5030, (F.C.T.D.) where Cattanach, J., said, at 5038:
+
+The Minister's assessment is based upon the assumptions made by him and the effective manner by which the taxpayer can establish error in the assessment made upon him is "to demolish the basic fact upon which" the assessment was made.
+
+If he shows that the facts assessed by the Minister did not exist and even if they did exist those facts do not bring the taxpayer within the operation of the taxing provision relied upon the assessment must fail.
+
+He also cited in support of this proposition Her Majesty the Queen v. Littler, 78 DTC 6179 at 6182 (F.C.A.) where the Chief Justice said,
+
+In my view, when a cause of action is to be supported on the basis of a statutory provision, it is elementary that the facts necessary to make the provision applicable be pleaded (preferably with a direct reference to the provision) so that the opposing party may decide what position to take with regard thereto, have discovery with regard thereto and prepare for trial with regard thereto. ... he did not plead facts showing that "the result of one or more ... transactions ... is that a person confers a benefit..." Had that been pleaded, other facts might well have been the subject of evidence in addition to those that were brought out at trial. In my view, it is no mere "technicality", but a matter of elementary justice to abstain, in the absence of very special circumstances, from drawing inferences from evidence adduced in respect of certain issues in order to make findings of fact that were not in issue during the course of the trial.
+
+Counsel stated that this referred particularly to his submission that the Minister had not pleaded that there was a reduction in the capital gain.
+
+Finally, in respect of this first principle, counsel referred to Her Majesty the Queen v. The Consumer's Gas Company Ltd., 84 DTC 6058 (F.C.A.), where Urie, J. said at 6064:
+
+That contention, thus, ought to have been pleaded together with the facts which disclosed why that provision was applicable. I do not see that the Amended Statement of Defence does so. I am of the opinion, therefore, that the pleading does not provide the underpinning required for the argument advanced for the first time after the case was closed and during final argument at the end of the trial.
+
+2. The second principle advanced by Appellant's counsel is that the Appellant is not required to lead evidence in respect of facts not assumed. He referred again to the del Valle case and to Hiwako Investments Limited v. Her Majesty the Queen, 78 DTC 6281 (F.C.A.) in which the Chief Justice said at 6285:
+
+Had the alleged assumption been that there was an expectation on the part of the purchaser, at the time of the purchase, that, in the event that the investment did not prove to be profitable, it could be sold at a profit, and that such expectation was one of the facts that induced him to make the purchase, such assumption, if not disproved, might (I do not say that it would) support the assessments based on "trading" if not disproved. In my view, however, even on the most liberal interpretation of the Statement of Defence, it cannot be interpreted as alleging such an "assumption".
+
+In my view, therefore, there was no assumption that was not disproved by the evidence that would support the assessments.
+
+3. The third principle, according to counsel, is that the references in the Reply to the Notice of Appeal to a statutory provision and statements of argument and conclusions of law are not allegations of fact or a pleading of fact. He referred to L'Hérault et al v. M.N.R., 93 DTC 1108 (T.C.C.) where Dussault, J. said at 1116,
+
+From the foregoing, I consider that the statements in paras. 7 and 8 of the reply to the notice of appeal are only arguments or conclusions of law and not allegations of fact, and in particular, allegations of a secondary intent that might have been the basis for the assessments.
+
+As no secondary intent to resell at a profit was alleged, the appellants did not have the burden of showing that it did not exist.
+
+[14] Counsel stated that there is no assumption that the dividend reduced the capital gain and there is no assumption about how the losses arose, how the losses were funded or on a factual basis how those losses impacted on the "safe income". Counsel then proceeded to make submissions respecting examples of situations in which the application of losses in the reduction of the income of the parent would be inappropriate. He ended this portion of his submission by saying that there was no pleading of essential facts to support the conclusion sought by the Respondent.
+
+Submissions respecting calculation of "Safe Income"
+
+[15] Appellant's counsel submitted, in effect, that income earned or realized by any corporation after 1971 constituted safe income for the purposes of subsection 55(2). That subsection reads as follows:
+
+(2) Where a corporation resident in Canada has after April 21, 1980 received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or 138(6) as part of a transaction or event or a series of transactions or events (other than as part of a series of transactions or events that commenced before April 22, 1980), one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events referred to in paragraph (3)(a), notwithstanding any other section of this Act, the amount of the dividend (other than the portion thereof, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series of transactions or event)
+
+(a) shall be deemed not to be a dividend received by the corporation;
+
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+
+(c) where a corporation has not disposed of the share, shall be deemed to be a gain of the corporation for the year in which the dividend was received from the disposition of a capital property.
+
+[16] He then referred to paragraph 55(5)(d) which reads as follows:
+
+For the purposes of this section,
+
+(d) the income earned or realized by a corporation for a period ending at a time when it was a foreign affiliate[6] of another corporation shall be deemed to be the aggregate of the amount, if any, that would have been deductible by that other corporation at that time by virtue of paragraph 113(1)(a) ... if that other corporation
+
+(i) owned all of the shares of the capital stock of the foreign affiliate immediately before that time,
+
+(ii) had disposed at that time of all of the shares referred to in subparagraph (i) for proceeds of disposition equal to their fair market value at that time, and
+
+(iii) had made an election under subsection 93(1) in respect of the full amount of the proceeds of disposition referred to in subparagraph (ii);
+
+[17] Subsection 93(1) reads as follows:
+
+Where at any time a corporation resident in Canada has so elected, in prescribed manner and within the prescribed time, in respect of any share of the capital stock of the foreign affiliate of the corporation disposed of by it or by another foreign affiliate of the corporation, for the purposes of this Act, an amount equal to the lesser of
+
+(a) the amount designated by the corporation in its election, and
+
+(b) the proceeds of disposition of the share
+
+shall be deemed to have been a dividend received on the share from the affiliate by the disposing corporation or disposing affiliate, as the case may be, immediately before the disposition and not to have been proceeds of disposition.
+
+[18] Subsection 113(1) states that:
+
+Where in a taxation year a corporation resident in Canada has received a dividend on a share owned by it of the capital stock of a foreign affiliate of the corporation, there may be deducted from the income for the year of the corporation for the purpose of computing its taxable income for the year, an amount equal to the aggregate of
+
+(a) an amount equal to such portion of the dividend as is prescribed to have been paid out of the exempt surplus, as defined by regulation ...
+
+(emphasis added)
+
+[19] The balance of subsection 113(1) is not applicable in this case.
+
+[20] Appellant's counsel advised the Court that there was no dispute that the exempt surplus of F and G was deemed to be income earned or realized by any corporation for the purposes of subsection 55(2). He then submitted, in effect, that by virtue of paragraph 55(5)(d), subsection 93(1) and subsection 113(1) the amount of exempt surplus of F and G is deemed to have been a dividend received by the Appellant thereby constituting "income earned or realized by any corporation after 1971" and available as "safe income" under subsection 55(2). Paragraph 55(5)(d) deems that exempt surplus to be the amount that would have been deductible by the Appellant by virtue of paragraph 113(1)(a). This follows from the statutorily assumed existence of conditions (i), (ii) and (iii) in paragraph 55(5)(d) in that "that other corporation", the Appellant:
+
+(i) owned all the shares of its foreign affiliates F and G,
+
+(ii) had disposed of those shares for proceeds of disposition equal to fair market value, and
+
+(iii) had elected under subsection 93(1) that those proceeds be deemed to have been a dividend received by the Appellant from F and G.
+
+[21] Further, by virtue of subsection 113(1) the amount that may be deducted by the Appellant in computing its taxable income is an amount equal to the exempt surplus of F and G. He stated that there was no issue that the deemed proceeds of disposition in respect of the shares of F and G would be at least equal to the amount of their respective accumulated income - i.e., exempt surplus.[7]
+
+[22] Appellant's counsel then referred to Income Tax Regulation 5901(1) which reads as follows:
+
+Where at any time in its taxation year a foreign affiliate of a corporation resident in Canada has paid a whole dividend on the shares of any class of its capital stock, for the purposes of this Part
+
+(a) the portion of the whole dividend deemed to have been paid out of the affiliate's exempt surplus in respect of the corporation at that time is an amount equal to the lesser of
+
+(i) the amount of the whole dividend,
+
+(ii) the amount by which that exempt surplus exceeds the affiliates taxable deficit in respect of the corporation at that time.
+
+(emphasis added)
+
+[23] His point seems to have been that the only deduction from the exempt surplus of F and G would be the taxable deficit of each respective company and that there would be no other deductions. The evidence did not indicate that F or G had a taxable deficit.
+
+[24] He submitted that there was nothing in section 55 or anywhere in the Income Tax Act that makes any reference to losses of foreign affiliates being taken into account in the computation of "income earned or realized by any corporation after 1971" for the purposes of subsection 55(2). He said that paragraph 55(5)(d) makes a specific reference to foreign affiliates and it is by virtue of that paragraph that the income of a foreign affiliate can be included in "income earned or realized after 1971" for the purpose of subsection 55(2). His submission continued with the statement that there was no basis for reducing what otherwise would be "safe income" by foreign affiliate losses.
+
+[25] He referred toJohns-Manville Canada Inc. v. Her Majesty the Queen, 85 DTC 5373 (S.C.C.) in which Estey, J. said at page 5384:
+
+Such a determination is, furthermore, consistent with another basic concept in tax law that where the taxing statute is not explicit, reasonable uncertainty or factual ambiguity resulting from lack of explicitness in the statute should be resolved in favour of the taxpayer.
+
+[26] Counsel referred to the words of Cory, J. in Pigott Project Management Ltd. v. Land-Rock Resources Ltd., [1996] 1 C.T.C. 396 (S.C.C.) where at page 403 he said:
+
+...that for able and experienced legal minds, neither the meaning of the legislation nor its application to the facts is clear. It would therefore seem to be appropriate to consider the object and purpose of the legislation. Even if the ambiguity were not apparent, it is significant that in order to determine the clear and plain meaning of the statute it is always appropriate to consider the "scheme of the Act, the object of the Act, and the intention of Parliament".
+
+[27] Counsel submitted that the Court must interpret legislation in the context of the Income Tax Act and the facts of the case. Specifically, his submission, in accordance with the transcript, is
+
+I mean, if Parliament supposedly intended to address a particular evil, if it didn't use the words to address or deal with that particular evil, it's not for this Court or the Minister of National Revenue to somehow bend those words, add words, or provide an interpretation that simply isn't there to extract tax from a particular taxpayer. So it's the vague and indeterminate language which was used by Parliament which has created this problem and its language, which in our submission as Estey describes, creates a reasonable uncertainty with respect to exactly what those words mean in the context of that particular provision. And as I said, in our respectful submission, the only assistance afforded by Parliament in determining 55(2) in the context of our issue is 55(5)(d) and that only deals with income and that should be the end of the matter in our respectful submission.
+
+[28] Counsel's submission, therefore, is that the exempt deficits of A, B, C, D, E and Inc. will not reduce the exempt surpluses of F and G in the computation of the Appellant's "safe income".
+
+RESPONDENT'S SUBMISSIONS:
+
+[29] Respondent's counsel commenced his submission by stating that the phrase "income earned or realized" from subsection 55(2) is not the test. In his words,
+
+... it's like a balloon with air in it. The test is what is left in the balloon outside the income earned or realized.
+
+He then argued that it
+
+... is not the part of the balloon called income earned or realized, it's the remainder of the balloon and to do the remainder of the balloon to determine the amount that could reasonably be considered to be attributable to anything other than income earned or realized, you have got to do the consolidation that the Minister is recommending to this Court.
+
+[30] Counsel then referred to my decision in Deuce Holdings Limited v. Her Majesty the Queen, 97 DTC 921 in which I concluded that the computation of "safe income" should be made after tax. In my Reasons for Judgment I said:
+
+It is logical that subsection 55(2) take into account the fact that proceeds that would, but for a dividend, have been realized on a disposition at fair market value of any share immediately before that dividend, would have been computed after ordinary tax. The fair market value of a share, so far as the income element is concerned, would be valued on an after tax basis. No purchaser would rationally pay a price for a share of the capital stock of a corporation without taking into account tax paid or payable on that corporation's income.
+
+[31] Counsel said that no purchaser would rationally pay a price for a share of the capital stock of a corporation based on its earnings without also taking into account any losses realized by the corporation or its subsidiaries. He said,
+
+An incomplete computation of gross foreign earnings that fails to include foreign losses is not wholly distributable. Although it is dangerous to speculate on what the legislation was intended to mean, it is submitted that, in this case, it is only the portion of the "income earned or realized" by the dividend paying corporation remaining after the computation of the foreign earnings that should be included in computing "safe income".
+
+[32] Respondent's counsel referred briefly to the reason for the existence of subsection 55(2). He said, in his written argument, that as indicated in a portion of the 1979 budget speech, the object of subsection 55(2) is to limit the reduction of capital gains on the disposition of shares as a result of tax-free dividends to that portion of the dividends that were from tax retained earnings. He quoted that portion as reading:
+
+As a general rule, the objective of the tax law is that on most arm's length and on certain non-arm's length inter corporate share sales, a capital gain should arise at least to the extent that the sale proceeds reflect the unrealized and untaxed appreciation since 1971 in the value of the underlying assets. This objective will generally be achieved where tax-free dividends on shares are limited to post-1971 taxed retained earnings.
+
+[33] He referred to several articles, pointing out that corporate taxpayers were minimizing capital gains on the disposition of the shares of their subsidiaries by causing the subsidiaries to pay tax-free dividends to their parent and then selling the shares of the subsidiary. It is common ground in the Canadian tax community that subsection 55(2) was enacted to halt these activities.
+
+[34] Counsel then referred to an article prepared and presented by Michael A. Hiltz at the 43rd Tax Conference of the Canadian Tax Foundation. Hiltz, at the time of delivering his paper was Director, Reorganizations and Foreign Division, Specialty Rulings Directorate, Revenue Canada Taxation, Ottawa. Hiltz, at 15:2 said:
+
+The term "income earned or realized" by a corporation is deemed to be the amount determined pursuant to paragraph 55(5)(b), (c), or (d), as the case may be. In order to contribute to a gain on shares, income earned or realized must be on hand. ... The portion of gain that is attributable to anything other than income earned or realized is that part of the gain on the shares that is attributable to unrealized, untaxed appraisal and accounting surpluses of a corporation. ... It includes, for example, appreciation in the value of property and the value of goodwill that has not been purchased.
+
+[35] In addition, Hiltz wrote:
+
+In determining the portion of the gain on a share that is attributable to unrealized gains on property, the portion of a gain that is so attributable should be reduced by the amount of unrealized losses on property. Also, the amount of losses incurred by the corporation must be included in the computation of income earned or realized that is on hand at the time in determining the portion of the gain attributable to income earned or realized by a corporation. If a gain on a share is attributable to income earned or realized (less losses incurred), and to unrealized gains on property (less unrealized losses), a dividend paid by a corporation is considered to reduce first the gain on the shares attributable to income earned or realized, and, second, the gain attributable to something else ...
+
+[36] The point is that Respondent's counsel relied heavily upon the Hiltz article in his contention that the losses of foreign affiliates must be netted with the surpluses of those affiliates in determining "income earned or realized".
+
+[37] In the discussion at 15:4 of Consolidation of Income Earned or Realized or Losses in a Corporate Group, Hiltz referred to an article by John R. Robertson that appeared in the 1981 Conference Report of the Canadian Tax Foundation. That article discussed section 55. In that reference he said that when determining the income earned or realized of a parent corporation in a corporate group, income earned or realized and losses within the corporate group consisting of the corporate parent and its direct and indirect subsidiaries, must be considered. He continued, at 15:5:
+
+This means that the income earned or realized of the parent will be determined by including the parent's interest in the income earned or realized, or the losses, as the case may be, of its direct and indirect subsidiaries.
+
+[38] Hiltz then set forth a number of examples under the heading "Consolidation of Income and Losses of Foreign Affiliates" illustrating this point. He said that the exempt loss of a foreign affiliate must reduce a Canadian company's "income earned or realized on hand with respect to its parent company". He said further that to fail to do so would create an overstatement of income earned or realized. He said this would result in the gain on the sale of the Canadian company's shares being less than the unrealized gain inherent in the property of another subsidiary corporation.
+
+[39] Hiltz said that the reference in subsection 55(2) to "any corporation" contemplates that a gain in respect of the shares of the parent may be attributable to income earned or realized of a corporation other than the parent. He said:
+
+The reference to "any corporation" permits the income earned or realized or loss incurred by a direct or indirect subsidiary corporation to be taken into account in determining the part of the gain on the shares owned by the parent corporation that could reasonably be considered to be attributable to income earned or realized and the part that could reasonably be considered to be attributable to something else.
+
+[40] Respondent's counsel quoted the following words from page 15:5 of the Hiltz article:
+
+Where income earned or realized by a subsidiary corporation contributes to the fair market value of the shares of the subsidiary owned by the parent and, therefore, the fair market value and gain inherent in the shares of the parent, it is reasonable that the income earned or realized or losses realized by the subsidiary be taken into account in determining the amount of the gain on the shares of the parent that is attributable to income earned or realized by any corporation for the purposes of section 55.
+
+[41] Hiltz then referred to the "requirement" to consolidate all income earned or losses within a corporate group when determining the income earned or realized of the parent corporation and its subsidiary corporations.
+
+[42] Respondent's counsel stated that notwithstanding computations under paragraph 55(5)(d) the test remains "that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation" and concluded with the statement that subsection 55(2) requires the consolidated approach. He then referred to two paragraphs contained in his Written Argument which read as follows:
+
+16. Section 55 is a commendable attempt to set out a code in general terms that is properly fleshed out by administrative policy statements and the jurisprudence. The alternative, legislation that attempts to enumerate every possibility (for example, the amendments to sections 79 and 80 of the Act) is not necessarily better and this Court should not discourage the Department of Finance from taking a minimalist approach.
+
+17. The Respondent's approach is consistent with Revenue Canada's published policy. Unless the Respondent is clearly wrong, equity among taxpayers is enhanced by this Court confirming the administrative practice that other taxpayers have been taxed under.
+
+ANALYSIS AND CONCLUSION:
+
+[43] I conclude that it is unnecessary to respond in detail to Appellant's counsel's submissions respecting certain assumptions of fact not being pleaded. Appellant's counsel is correct in stating that certain assumptions of fact basic to the assessment were not contained in the Reply. However, his position relates to the application of subsection 55(2), the very provision applied by the Appellant itself in filing its income tax return for the 1989 taxation year. In these circumstances, although I accept the principles advanced by counsel as being valid, it seems unreasonable that the Respondent not be able to advance its case without having pleaded assumptions of fact to support the application of a provision to which the Appellant submitted itself.
+
+[44] Reference by Respondent's counsel to my decision in Deuce is of no assistance to the Respondent. In that case the issue in question was simply whether "safe income" was to be determined before or after tax. It was one entity that was being examined. Foreign affiliates were not involved. Although the Court was confronted with a statutory deficiency in that case, it reached its conclusion having regard to the reality of the marketplace. In the case at bar, the Court was obliged to journey to areas where seasoned professionals recoil with more than feigned horror at even potential exposure to the legislative and regulatory morass respecting section 55 and the foreign affiliate Income Tax Regulations. In J.F. Newton Ltd. and John F. Newton v. Thorne Riddell et al, 91 DTC 5275, Finch, J.of the Supreme Court of British Columbia said, in respect of section 55:
+
+It surpasses my imagination that anyone considers language such as this to be capable of an intelligent understanding, or that such language is thought to be capable of application to the events of real life, such as the sale of a business.
+
+[45] Respondent's counsel argued, as set out above, that:
+
+The phrase "income earned or realized" isn't in fact the test. The test, it's like a balloon with air in it. The test is what is left in the balloon outside the income earned or realized.
+
+[46] I reject that argument on the simple basis that subsection 55(2) refers to "anything other than income earned or realized by any corporation after 1971". The simplest way to determine that amount is to commence with a computation of "income earned or realized" because paragraph 55(5)(d) states specifically what that amount is deemed to be. There is no provision in Part LIX of the Regulations requiring exempt deficits to be taken into account in determining "income earned or realized". The only statutory requirement is contained in paragraph 55(5)(d). The inclusion of that provision in the Act[8] ends this matter. I do not propose, in these Reasons, to analyze the examples presented by Hiltz. I have quoted him at length because his writing is, in effect, the Respondent's argument. It is, of course noted, that he was, at the time of writing this article, an official of the Respondent. The Respondent presented no evidence to support, on any basis, the validity of the Hiltz assumptions and computations either generally or in relation to this appeal. Although Hiltz's presentation appears to have been based on logic and accounting procedures, he failed, in discussing subsection 55(2), to come to grips with the description of "income earned or realized" in paragraph 55(5)(d). He appears to be attempting to give meaning to a statute which is sorely wanting.
+
+[47] The Supreme Court of Canada[9] said:
+
+Even if the ambiguity were not apparent, it is significant that in order to determine the clear and plain meaning of the statute, it is also appropriate to consider the "scheme of the Act", the object of the Act and the intention of Parliament.
+
+[48] The portion of the 1979 Budget speech quoted above stated that as a general rule the objective of the tax law was that "a capital gain should arise at least to the extent that sale proceeds reflect the unrealized and untaxed appreciation since 1971 in the value of the underlying assets". That portion of the Budget speech concluded by stating that its objective will generally be achieved where tax-free dividends are limited to post-1971 tax retained earnings. By using the words, "general rule" and "generally" the Minister of Finance may have intended that only surpluses and not deficits be included in computing "safe income". The enactment of paragraph 55(5)(d) supports this suggestion.
+
+[49] While paragraph 55(5)(d) is complicated by its assumptions and references, it does not permit the interpretation urged by the Respondent. The very existence of the lengthy article and many examples prepared by Hiltz and the 1981 Canadian Tax Conference article by John R. Robertson[10] referred to by him at 15:5 underline the difficulties in comprehending the provisions. In considering the reasons for enacting section 55, the Court, while attempting to construe legislation and regulations in light of that purpose, cannot properly make determinations beyond a reasonable interpretation of same. To do otherwise would be tantamount, not to interpreting, but to rewriting, legislation.
+
+[50] Further, I cannot accept the Respondent's contention that a section of the Income Tax Act should, even if the attempt to write it was commendable, be so construed that its application leads to an expansive use of administrative fiat. In addition, I find the statement of Respondent's counsel that equity among taxpayers is enhanced by this Court confirming the administrative practice under which other taxpayers have been taxed, to be astonishing. The business community should not feel obliged, because it is expedient, to observe administrative edicts when the law is simply lacking in clarity.
+
+[51] I am instructed by paragraph 55(5)(d) as to what "the income earned or realized by a corporation" is deemed to be for the purposes of section 55. Subsection (2) of Section 55 provides that the portion of a dividend "that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971" shall be deemed not to be a dividend but to be proceeds of disposition. The exempt surplus of F and G, foreign affiliates of the Appellant, is by virtue of the interaction of paragraph 55(5)(d), subsection 93(1) and subsection 113(1) "income earned or realized by any corporation" within the meaning of that term in subsection 55(2). There is no comparable legislative or regulatory instruction respecting exempt deficits. Accordingly, I have concluded that the exempt surplus of F and G should not be reduced by the exempt deficits of A, B, C, D, E and Inc. in the computation of "income earned or realized after 1971". In any event it is open to the Court, with respect to the legislation discussed herein, based upon the Johns-Manville decision, to conclude that there is "reasonable uncertainty resulting from lack of explicitness which should be resolved in favour of the taxpayer".
+
+[52] The aforesaid mathematical error in respect of Tricil should be taken into account by reducing the Appellant's "safe income" by that amount, namely $451,946. The non-capital loss of the Appellant will be adjusted as a consequence of the above.
+
+[53] The appeal is allowed and the Appellant is entitled to costs.
+
+Signed at Ottawa, Canada this 6th day of March, 1998.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+SCHEDULE "A"
+
+SCHEDULE "B"
+
+Trimac Limited
+
+Calgary, Alberta
+
+Analysis of Safe Income Calculation
+
+Canadian Company
+
+Revised
+
+Dec 31, 1988
+
+Revised
+
+Nov 29, 1989
+
+Trimac's Share
+
+Tricil (Sarnia) Ltd.
+
+$15,533,430
+
+$5,717,262
+
+$21,250,692
+
+Tricil Ltd.
+
+9,026,833
+
+2,845,896
+
+12,776,622
+
+Enterprises
+
+4,952,505
+
+1,662,916
+
+6,615,421
+
+Tricil (QUE)
+
+3,147,980
+
+1,128,049
+
+4,276,029
+
+O.H. Sanitation
+
+253,488
+
+253,488
+
+B & B Disposal
+
+444
+
+444
+
+Clean City Disp
+
+(3)
+
+(3)
+
+Instant Waste Rem
+
+(57,520)
+
+(57,520)
+
+Dominion Waste
+
+(538,476)
+
+(538,476)
+
+Subtotal
+
+32,318,681
+
+11,354,123
+
+44,576,697
+
+Trimac Ltd Share 50%
+
+15,792,745
+
+5,677,062
+
+22,288,349
+
+U.S. COMPANIES
+
+Tricil Environmental
+
+6,982,216
+
+2,182,087
+
+9,164,303
+
+Tricil Resources Inc.
+
+513,371
+
+513,371
+
+Tricil Inc.
+
+(161,756)
+
+13,946
+
+(147,810)
+
+Total
+
+7,333,831
+
+2,196,033
+
+9,529,864
+
+Trimac Ltd. Share
+
+3,666,916
+
+1,098,017
+
+4,764,932
+
+Exchange Rate
+
+1.1632
+
+1.1632
+
+1.1632
+
+Cdn Equv
+
+4,265,356
+
+1,277,213
+
+5,542,569
+
+Subtotal
+
+20,058,101
+
+6,954,274
+
+27,830,917
+
+Tricil Ene Res
+
+(1,397,129)
+
+(1,446,541)
+
+(2,843,670)
+
+Tricil Rec
+
+(916,518)
+
+(531,817)
+
+(1,448,335)
+
+Tricil N.Y.
+
+(702,956)
+
+603,722
+
+(99,234)
+
+Tricil Env Man
+
+(286,947)
+
+(3,453,423)
+
+(3,740,370)
+
+Tax Recovery
+
+106,117
+
+106,117
+
+Redox Inc.
+
+(1,320)
+
+(22,012)
+
+(23,332)
+
+Subtotal
+
+(3,304,870)
+
+(4,743,954)
+
+(8,048,824)
+
+Trimac share
+
+(1,652,435)
+
+(2,371,977)
+
+(4,024,412)
+
+Exchange Rate
+
+1.1632
+
+1.1632
+
+1.1632
+
+Cdn Equiv
+
+(1,922,112)
+
+(2,759,084)
+
+(4,681,196)
+
+Total Safe Income
+
+18,135,989
+
+4,195,191
+
+23,149,721
+
+Taxpayer
+
+25,735,216
+
+Discrepancy
+
+($2,585,495)
+
+***********
+
+See attached for details of the changes to safe income calculation.
+
+SCHEDULE "C"
+
+Respondent's
+
+Analysis of Safe Income Calculation of Appellant
+
+Canadian Company
+
+Revised
+
+Dec 31, 1988
+
+Revised
+
+Nov 29, 1989
+
+Trimac's Share
+
+Appellant's
+
+Share 50%
+
+Tricil (Sarnia) Ltd.
+
+$15,533,430
+
+$5,717,262
+
+$21,250,692
+
+Tricil Ltd.
+
+9,026,833
+
+2,845,896
+
+12,776,622
+
+Enterprises
+
+4,952,505
+
+1,662,916
+
+6,615,421
+
+Tricil (QUE)
+
+3,147,980
+
+1,128,049
+
+4,276,029
+
+O.H. Sanitation
+
+253,488
+
+253,488
+
+B & B Disposal
+
+444
+
+444
+
+Clean City Disp
+
+(3)
+
+(3)
+
+Instant Waste Rem
+
+(57,520)
+
+(57,520)
+
+Dominion Waste
+
+(538,476)
+
+(538,476)
+
+Subtotal
+
+32,318,681
+
+11,354,123
+
+44,576,697
+
+22,288,349
+
+Trimac Ltd Share 50%
+
+15,792,745
+
+5,677,062
+
+22,288,349
+
+U.S. COMPANIES
+
+Tricil Environmental (F)
+
+6,982,216
+
+2,182,087
+
+9,164,303
+
+Tricil Resources Inc. (G)
+
+513,371
+
+513,371
+
+Tricil Inc.
+
+(161,756)
+
+13,946
+
+(147,810)
+
+Total
+
+7,333,831
+
+2,196,033
+
+9,529,864
+
+Trimac Ltd. Share
+
+3,666,916
+
+1,098,017
+
+4,764,932
+
+Exchange Rate
+
+1.1632
+
+1.1632
+
+1.1632
+
+Cdn Equv
+
+4,265,356
+
+1,277,213
+
+5,542,569
+
+5,542,569
+
+Subtotal
+
+20,058,101
+
+6,954,274
+
+27,830,917
+
+27,830,917
+
+Tricil Ene Res (A)
+
+(1,397,129)
+
+(1,446,541)
+
+(2,843,670)
+
+Tricil Rec (B)
+
+(916,518)
+
+(531,817)
+
+(1,448,335)
+
+Tricil N.Y. (C)
+
+(702,956)
+
+603,722
+
+(99,234)
+
+Tricil Env Man (D)
+
+(286,947)
+
+(3,453,423)
+
+(3,740,370)
+
+Tax Recovery
+
+106,117
+
+106,117
+
+Redox Inc. (E)
+
+(1,320)
+
+(22,012)
+
+(23,332)
+
+Subtotal
+
+(3,304,870)
+
+(4,743,954)
+
+(8,048,824)
+
+Trimac share
+
+(1,652,435)
+
+(2,371,977)
+
+(4,024,412)
+
+Exchange Rate
+
+1.1632
+
+1.1632
+
+1.1632
+
+Cdn Equiv
+
+(1,922,112)
+
+(2,759,084)
+
+(4,681,196)
+
+(4,681,196)
+
+Total Safe Income
+
+18,135,989
+
+4,195,191
+
+23,149,721
+
+23,149,721
+
+Taxpayer
+
+25,735,216
+
+25,735,216
+
+Discrepancy
+
+($2,585,495)
+
+***********
+
+2,585,495
+
+[1] Although this term has no statutory genealogy, because of its regular usage I employ it for ease of comprehension.
+
+[2] All references in these Reasons for Judgment to section numbers are in respect of the Income Tax Act.
+
+[3] This quoted portion is from the Agreed Statement of Facts.
+
+[4] The Analysis of Safe Income Calculation is less than clear because, inter alia, it has a column entitled "Trimac's Share" (a previous name of the Appellant) which sets forth both the full amounts taken into account and the Appellant's 50% share. A copy of a clarifying schedule prepared by the Court is attached as Schedule "C".
+
+[5] In Cooper v. M.N.R., 87 DTC 194 at 205, Christie, A.C.J.T.C. said,
+
+It would be a contradictory act to allow a taxpayer's appeal for a taxation year and couple it with an order, the effect of which is to increase his liability to tax. Such a course of action is not within the proper interpretation of subsection 171(1).
+
+[6] A foreign affiliate of the Appellant is a non-resident corporation in which the Appellant has a total equity percentage, direct and indirect, of more than ten percent (subsections 95(1) and 95(4)). Therefore, each of Inc., A, B, C, D, E, F and G is a foreign affiliate of the Appellant.
+
+[7] Income Tax Regulations 5907(1)(b) and 5907(1)(d).
+
+[8] Keep in mind that the paragraph defines income earned or realized "for the purposes of this section".
+
+[9] The Queen v. Province of Alberta Treasury Branches, 96 DTC 6245 (S.C.C.)
+
+[10] Then another official of the Respondent.
+

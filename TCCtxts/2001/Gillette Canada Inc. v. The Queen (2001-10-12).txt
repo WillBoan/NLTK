@@ -1,0 +1,442 @@
+Date: 20011012
+
+Docket: 1999-746-IT-G
+
+BETWEEN:
+
+GILLETTE CANADA INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Rip, J.T.C.C.
+
+[1] The issue in these appeals by Gillette Canada Inc. ("Gillette") is whether the appellant, a Canadian resident corporation, paid or credited in 1989 an amount to Gillette France SNC ("Gillette France" or "Partnership"), a partnership with no partner who, at all relevant times, was resident in Canada and is therefore liable to pay tax pursuant to section 212 of the Income Tax Act ("Act"), commonly referred to as Part XIII tax. [1]
+
+[2] Paragraph 212(2)(a) of the Act provides that a non-resident person is required to pay a tax of 25 per cent on every amount that a corporation resident in Canada pays or credits, or is deemed by Part I or Part XIV of the Act to do so, to a non-resident person as a taxable dividend. The definition of "person" in subsection 248(1) of the Act does not include a "partnership" and a partnership is not considered in law to be a person. However, a deeming provision is contained in paragraph 212(13.1) to permit the provisions of paragraph 212(2)(a) to apply to a partnership. Where a Canadian resident "pays or credits" an amount to a non-Canadian-resident partnership, that partnership is deemed to be a non-resident person "in respect of that payment".[2]
+
+Statement of Agreed Facts
+
+[3] The appeal proceeded by way of the following Statement of Agreed Facts:[3]
+
+1. During the period under review, the Appellant was a corporation resident in Canada and its headquarters were located at 16700 Trans-Canada Highway, Kirkland, in the province of Quebec, H9H 4Y8;
+
+2. The Appellant's 1989 taxation year ended on December 31, 1989;
+
+3. At all relevant times, The Gillette Company, a U.S. Corporation with its headquarters in Boston, Massachusetts, was the sole shareholder of the Appellant;
+
+4. At all relevant times, The Gillette Company was the principal member of the partnership Gillette France SNC, all other members being wholly-owned subsidiaries of The Gillette Company;
+
+5. On December 1, 1989, The Gillette Company was still the principal member of the said partnership, owning an interest of at least 99%, the remainder being owned by a wholly-owned subsidiary of The Gillette Company;
+
+6. On May 26, 1987, the Appellant's parent, The Gillette Company, transferred to the Appellant a 9.9% interest, said interest being of an estimated value of CDN $6,160,000.00, in its ownership in Gillette France SNC, a partnership under French law (the Partnership Interest), as a contribution of capital in the same amount;
+
+7. As a result of the transfer, the Appellant's contributed surplus was increased by an equivalent amount (CDN $6,160,000.00), such amount being later adjusted to CDN $5,301,600.00 to equal the value of the note receivable from Gillette France SNC (see paragraph 10 below), without any corresponding payment being made or liabilities being assumed by the Appellant in respect thereof;
+
+8. On June 30, 1987, the Appellant transferred the Partnership Interest to one of its subsidiaries, Oral B Laboratories SA (Oral B France), in exchange for 46,267 shares of Oral-B France of an estimated value of CDN $6,160,000.00 (the shares);
+
+9. The net effect of the transactions described in paragraphs 6 to 8 was that the Appellant's value was increased by an amount of CDN $5,301,609.00;
+
+10. On November 30, 1989, Gillette France SNC repurchased the Partnership Interest held by Oral B France in exchange for a note in the amount of FF 27,761,825 (the Note) payable by Gillette France SNC to Oral-B France;[4]
+
+11. On November 30, 1989, Oral B France repurchased 47,618 shares of Oral B France from the Appellant in exchange for the assignment of the Note;
+
+12. On December 1, 1989, the Note was converted into an indebtedness (a "loan" according to Respondent), in the amount of CDN $5,301,600.00, based on an exchange rate of CDN $1.00 = 5.2365 FF, for a French franc value of FF 27,761,828 which bore no interest and was payable by Gillette France SNC to the Appellant at the latest on December 1, 1999, unless otherwise provided by both parties or unless renewed by the parties under the same conditions;[5]
+
+13. On September 20, 1994, at Appellant's request, Gillette France SNC repaid the indebtedness (a "loan" according to Respondent) in full to the Appellant in the amount of CDN $5,301,609.00;
+
+14. Such indebtedness (a "loan" according to Respondent), was repaid more than one year after the end of the Appellant's 1989 taxation year;
+
+15. In response to a proposed assessment by the Minister under Part XIII, the Appellant, on November 21, 1995, requested that the Minister offset the alleged liability resulting from the Minister's application of subsection 214(3) of the Income Tax Act, pursuant to subsection 227(6.1) of the same Act.
+
+16. By Notices of assessment and re-assessment dated December 30, 1996:
+
+(i) on the one hand (assessment no. 6046076), the Minister levied a Part XIII withholding tax in the amount of CDN $795,240.00, together with interest in the amount of CDN $598,645.01 in respect of the Appellant's 1989 taxation year, on the basis that the Appellant became liable for such tax and interest as a result of the indebtedness (a "loan" according to Respondent) referred to in paragraph 10;
+
+(ii) on the other hand (re-assessment no. 6046078), the Minister credited a tax in the amount of CDN $795,240.00, but not the interest of CDN $598,645.01, in response to the Appellant's request dated November 21, 1995.
+
+. . . .
+
+Appellant's Position
+
+[4] Gillette's position, of course, is that it is not subject to Part XIII tax. Paragraph 212(13.1)(b) of the Act does not apply since the indebtedness between Gillette and Gillette France was neither a payment nor a credit, as those terms are ordinarily defined. These terms refer to situations where a debtor pays or credits a creditor, not the reverse as in the facts at bar. The appellant did not "pay or credit an amount" to the Partnership. The assignment of the "Oral-B note" to the appellant and the subsequent conversion of that note to a 10-year indebtedness, the "Gillette France debt", constitute neither a payment nor a credit, appellant's counsel submitted.
+
+[5] The appellant also argued that if it is found that a credit (but not a payment) did occur, then the deeming portion of paragraph 212(13.1)(b) is of no effect since that provision applies only to a payment and not to a credit.
+
+[6] Paragraph 214(3)(a) of the Act also does not support the assessment: Gillette France is not otherwise a "taxpayer" and paragraph 212(13.1)(b) cannot be used to deem Gillette France to be a taxpayer, according to the appellant. Appellant's counsel argued that absent the deeming provision of paragraph 214(3)(a), no amount of loan or indebtedness would be included in computing the income of a non-resident partnership pursuant to section 15 (and subsection 56(2)) and no amount would be subject to Part XIII. He submitted that in any event paragraph 214(3)(a) does not apply since subsection 15(2) does not require the inclusion of the amount in Gillette France's income since the partnership is not "a person connected with a shareholder of a particular corporation." He also concluded that the expression "pays or credits an amount" in paragraph 212(13.1)(b) does not contemplate what transpired in the appeal at bar.
+
+Respondent's Position
+
+[7] According to the respondent there was a payment or credit made by Gillette to Gillette France, the Partnership, and therefore paragraph 212(13.1)(b) deems the Partnership to be a non-resident person for purposes of Part XIII. Since Gillette France is deemed to be a person, Gillette France is therefore a taxpayer, as defined in subsection 248(1), and paragraph 214(3)(a) applies, provided subsection 15(2) applies. On several occasions respondent's counsel argued that Gillette France was "a person connected with a shareholder of a particular corporation" pursuant to subsection 15(2.1) and therefore subsection 15(2) applied. If subsection 15(2) does apply, then a dividend would be deemed to have been paid pursuant to paragraph 214(3)(a) and the dividend would be subject to Part XIII tax: paragraph 212(2)(a).
+
+[8] The respondent says that there was a payment or at the very least a credit since the conversion of the "Oral-B note" to the "Gillette France debt" was the result of the exchange of obligations and consideration. Respondent's counsel argued that the definition of a payment includes "the transfer of money or a right or the extinguishing of a right which is equivalent to a payment." The extinguishment of the "Oral-B note" was the consideration for the new loan, the "Gillette France debt". Therefore, according to the respondent, there was an offset of money's worth.
+
+[9] The respondent argued that the Partnership did not have to physically repay the "Oral-B note" since it had at its disposal the new loan money and it used those funds to repay the assigned note. In the respondent's view the appellant had granted to the Partnership the right to defer payment of a debt and that was at least a credit.
+
+[10] If a credit (but not a payment) is found to have occurred, the respondent's position is that even if the closing words of paragraph 212(13.1)(b) refer to a payment, some meaning must be given to the opening words of paragraph (b) that deal with a credit as well as a payment. The word "payment" in the concluding words of the provision must include both a payment and a credit.
+
+Analysis
+
+[11] Paragraph 214(3)(a) deems amounts otherwise required to be included in a taxpayer's income by virtue of section 15 (or subsection 56(2)) to have been paid to the taxpayer as a dividend from a Canadian resident corporation. In the case at bar, a deemed amount would be the amount of the "Gillette France debt" if the conditions of subsection 15(2) applies. And if the conditions of subsection 15(2) applies, then the appellant would be liable for tax since a dividend would be deemed to have been paid.
+
+[12] Paragraph 214(3)(a) will apply, for example, when a corporation confers a benefit on a shareholder (subsection 15(1)) and when a partnership (other than a partnership each member of which is a corporation resident in Canada) receives a loan from or becomes indebted to a corporation and is a shareholder of the corporation or is connected to a shareholder of that corporation (subsection 15(2)). Thus, no actual payment or credit need occur for an amount to be included in income by virtue of the provisions of section 15 (and subsection 56(2)) and for such amounts to be deemed to be paid to a taxpayer as a dividend from a Canadian corporation pursuant to paragraph 214(3)(a). Once an amount is paid or credited by a person resident in Canada to a non-Canadian partnership,[6] that partnership is deemed by paragraph 212(13.1)(b) to be a non-resident person. Absent any payment or credit, subsection 212(13.1) would not apply. One must, on the facts of this case, consider paragraph 214(3)(a) to determine whether the transaction in issue resulted in a deemed payment of a dividend.
+
+Paragraph 212(13.1)(b) - "Payment" or "Credit"?
+
+[13] Obviously, if there is a deemed payment of a dividend by a resident Canadian for purposes of paragraph 214(3)(a), there would be a payment by that person for purposes of paragraph 212(13.1)(b) and the non-resident partnership would be deemed to be a non-resident person who is subject to subsection 212(2). If, on the other hand, an analysis of the facts with regard to subsection 212(13.1) leads to the conclusion that an actual payment or credit has occurred, then other provisions of Part XIII, including paragraph 214(3)(a), must be considered to determine whether the character of that payment or credit requires a tax to be paid.
+
+[14] The words "paid", "pays", "payment" and "credits" all appear in paragraphs 212(13.1)(b) and 214(3)(a) of the Act. The following dictionaries define these words:
+
+Black's Law Dictionary[7]
+
+Pay: To discharge a debt by tender of payment due; to deliver to a creditor the value of a debt, either in money or in goods, for his acceptance.
+
+Payment: The fulfilment of a promise, or the performance of an agreement. A discharge of an obligation or debt, and part payment, if accepted, is a discharge pro tanto.
+
+In a more restricted legal sense payment is the performance of a duty, promise, or obligation, or discharge of a debt or liability, by the delivery of money or other value by a debtor to a creditor, where the money or other valuable thing is tendered and accepted as extinguishing debt or obligation in whole or in part. Also the money or other thing so delivered.
+
+The Oxford English Dictionary, 2d ed.[8]
+
+Pay: 5.a. To give, deliver, or hand over (money, or some other thing) in return for goods or services, or in discharge of an obligation; to render (a sum or amount owed).
+
+The Canadian Law Dictionary[9]
+
+Pay: A fixed and definite amount given as compensation for services. To discharge a debt by money. However, the term may also mean the delivery and discharge of a debt or other obligation or goods . . . .
+
+70 Corpus Juris Secundum[10]
+
+Payment: In its legal sense, "payment" may be defined as the discharge in money or its equivalent of a debt or obligation; it involves the actual or constructive delivery by a debtor to his creditor of money or its equivalent, with the intent thereby to extinguish the debt, and the acceptance thereof by the creditor with the same intent.
+
+Le Nouveau Petit Robert - Dictionnaire de la langue française[11]
+
+Paiement: Action de payer, exécution d'une obligation. . . . Facilités de paiement. crédit.
+
+Article 1553 of The Civil Code of Quebec defines "payment" as follows:
+
+Payment means not only the turning over of a sum of money in satisfaction of an obligation, but also the actual performance of whatever forms the object of the obligation.
+
+Par paiement on entend non seulement le versement d'une somme d'argent pour acquitter une obligation, mais aussi l'exécution même de ce qui est l'objet de l'obligation.
+
+The word "credit" is defined as follows:
+
+The Oxford English Dictionary[12]
+
+9.a. Trust or confidence in a buyer's ability and intention to pay at some future time, exhibited by entrusting him with goods, etc. without present payment.
+
+10.a. . . . A sum placed at a person's disposal in the books of a Bank, etc., upon which he may draw to the extent of the amount; any note, bill, or other document, on security of which a person may obtain funds. . . .
+
+12. . . . a. The acknowledgement of payment by entry in an account.
+
+Black's Law Dictionary[13]
+
+. . . The correlative of a debt; that is, a debt considered from the creditor's standpoint, or that which is incoming or due to one. That which is due to a person, as distinguished from debit, that which is due by him. . . . [R]ight granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
+
+In La Compagnie Minière Québec Cartier v. M.N.R.,[14] the word "credit" is defined as:
+
+[A]n operation by which someone puts a sum of money at the disposal of someone else.
+
+[15] The language of paragraph 212(13.1)(b) does not require or suggest that the word "pay" should be limited to a creditor and debtor relationship, which was raised by appellant's counsel. The limiting factor is the requirement by the fisc to fit any amount paid or credited into one of the different types of payments that is subject to withholding by Part XIII of the Act. Where money or money's worth is delivered in order to discharge an obligation, in my view that is a payment for the purposes of paragraph 212(13.1)(b).
+
+[16] The definition of the word "credit", however, by its very name suggests a creditor-debtor relationship. Funds or goods must either have been received by the debtor or be available to the debtor with the understanding that the debtor may defer immediate payment. An extension of a loan by a creditor to a debtor comes within the meaning of the word "credit". The word "credit" in paragraph 212(13.1)(b) refers to something more than a mere accounting entry. As L'Heureux-Dubé J. stated in Hickman Motors Limited v. The Queen:[15]
+
+. . . The law is well established that accounting documents or accounting entries serve only to reflect transactions and that it is the reality of the facts that determines the true nature and substance of transactions: [citations omitted]. . .
+
+[17] In the appeal at bar there was more than a simple loan transaction between the appellant and the Partnership. The appellant took an assignment of a note payable by the Partnership, i.e., the "Oral-B note". The assignment itself of the "Oral-B note" (by Oral-B France to the appellant) for shares was neither a credit nor a payment of the debt evidenced by the note for the purposes of paragraph 212(13.1)(b) because there was no debtor-creditor relationship as between the Partnership and the appellant and the assignment did not involve the discharge of an obligation by the debtor, i.e. the Partnership.
+
+[18] The next question is whether the actual conversion of the Oral-B note to the Gillette France debt is a payment or credit. The appellant argued that the conversion of the note payable resulted in the Partnership being indebted to the appellant and the respondent argued that the result was a loan between the parties. In my view, if the conversion resulted in an indebtedness then there was no payment or credit since no debtor-creditor relationship was created. On the other hand, if the conversion resulted in a loan between the appellant and the Partnership then there was a payment or credit since the granting and advance of the funds created a debtor-creditor relationship.
+
+[19] The words "indebted" and "loan" are defined in The Oxford English Dictionary,[16] as follows:
+
+Indebted: 1. Under obligation on account of money borrowed; owing money; in dept. . . .
+
+2. Under obligation to another on account of some liability incurred or claim unsatisfied; liable for some omission of duty, an unfulfilled promise, etc.; bound.
+
+Loan: 2.a. A thing lent; something the use of which is allowed for a time, on the understanding that it shall be returned or an equivalent given.
+
+[20] Black's Law Dictionary[17] defines the term "loan" to include: "(1) the creation of debt by the lender's payment of or agreement to pay money to the debtor or to a third party for the account of the debtor. . . ."
+
+[21] For the purposes of the appeal at bar, a loan requires the creation of a debt with the understanding that the debt will be repaid. There is no requirement that money actually be exchanged where a new advance is made in order to extinguish a previous debt.[18] The question before me, therefore, is whether the conversion of the note payable resulted in the creation of a debt or, in other words, a loan.
+
+[22] The common Book of Documents[19] introduced at trial contains, among other things, three documents in which the appellant, or parties related to it, refer to the converted debt as a loan. At Tab 9 a letter dated December 15, 1989 from the appellant to the Partnership, which both the Partnership and the appellant signed, states in part:
+
+We remind you that Oral B Laboratoires has assigned to our company, on November 30, 1989, the debt that it owns vis a vis your company of 27 761 825 FF, in compliance with the last reduction of the capital of Gillette France and the subsequent redemption of the entire interest of Oral B Laboratoires therein.
+
+Therefore, as agreed by our companies, we can confirm that it has been decided, by our board, for the proper conduct of Gillette France's business and funds management, that the consideration of such a debt shall be substituted in a long term loan settled as hereinafter provided:
+
+. . .
+
+[23] At Tab 16 of the Book of Documents is a copy of a fax, dated September 19, 1994, from the Partnership to GILFIN (which I understand means Gillette France, a related entity) regarding a transfer to the appellant. It is noted that:
+
+(Reimbursement urgently requested by Gillette Canada of a loan granted by them in 1989).
+
+[24] At Tab 17 of the Book of Documents is a confirmation, dated September 20, 1994, by the Gillette North American Cash Management Center to the appellant of payment made to the appellant's account by Gillette France. The notation regarding the source of the remittance states in part:
+
+Gillette Fr loan repmt
+
+[25] The words contained in the above documents do not in and of themselves create a loan. How people describe something does not make it so. Calling a horse a dog does not make the horse a dog. The words, however, do indicate the parties' intent. The December 15, 1989 document suggests that the parties intended the appellant to extinguish the assigned note payable in exchange for a loan of the same amount with agreed terms.
+
+[26] I agree with the respondent that the conversion of the Oral-B debt to the Gillette France debt constituted a payment. The conversion created a debt. As part of the debt conversion the appellant delivered money's worth to the Partnership in order to discharge its obligation. In any event, there was at least a credit since on the conversion of the "Oral-B note" to the Gillette France debt the appellant made available to the Partnership funds to repay the note with the understanding that the repayment was deferred.
+
+[27] The appellant argued that if it is found that a credit, but not a payment, was made by the appellant, then the deeming portion of paragraph 212(13.1)(b) does not apply since it only applied to a payment. Paragraph 212(13.1)(b) provides that ". . . the partnership shall be deemed, in respect of that payment, to be a non-resident person."
+
+[28] The appellant relied on MacMillan Bloedel Limited v. The Queen[20] to argue that the Court could not add terms to, or fill in gaps in, legislation. In MacMillan Bloedel the parties agreed there was a drafting error in the legislation to the extent that the required calculation was nonsensical. The error had been subsequently corrected. The case dealt with the question as to how far the court could go in construing legislation by adding or ignoring words to achieve the result which the Crown said was intended. McNair J. stated at page 343:
+
+. . . Moreover, I am of the opinion that any judicial power of rectification with respect to legislation ought only to be exercised in the rarest of circumstances, that is, where absolutely necessary to achieve the clear manifestation of legislative intent in the face of obstacles created by very minor and patently obvious imperfections of language. To fill the gap by writing in the words "or on the volume" would constitute, in my opinion, an arbitrary and unwarranted intrusion on the role of Parliament.
+
+[29] The respondent argued that the court must give meaning or sense to the deeming provision in paragraph 212(13.1)(b) so that even if the second part only referred to a payment, some meaning must be given to the first part which dealt with a credit. The respondent relied on Trans World Oil & Gas Ltd. v. The Queen,[21] to argue that some meaning must be given to each word used in legislation. In Trans World the issue involved the method of calculation for foreign accrual property income. After discussing the differences contained within the calculations, Bowman T.C.J. (as he then was) stated at page 266:
+
+. . . Even if there are lacunae or anomalies - and there may well be - it is not the function of this court, by reading words into or out of the regulations, to attempt to fill the former or correct the latter. As Chief Justice Isaac said in The Queen v. Coopers and Lybrand Limited [94 DTC 6541] (August 19, 1994, A-1280-92) "These [established principles of statutory interpretation] are not invitations to Courts to ignore other well-established rules of construction, such as that which requires Courts to construe statutes so as 'to ascribe some meaning to each word used by the legislature,' Atco v. Calgary Power, [1982] 2 S.C.R. 557 at 569."
+
+[30] MacMillan Bloedel is distinguishable from the appeal at bar. The interpretation required in the appeal at bar does not involve legislation that is nonsensical without the addition of words. The interpretation deals with the meaning that should be ascribed to the word "payment" as used in the second part of paragraph 212(13.1)(b). Since paragraph 212(13.1)(b) begins by referring to a person who "pays or credits an amount" and later refers to "that payment", it is clear in my view that the latter must refer to the amount that the person either pays or credits. The deeming provision in paragraph 212(13.1)(b) applies to an amount either paid or credited by the appellant to the Partnership.
+
+[31] Paragraph 212(13.1)(b) applies to deem the Partnership to be a non-resident person for the purposes of Part XIII since Gillette paid or credited an amount to the Partnership.
+
+Paragraph 214(3)(a) - "taxpayer"?
+
+[32] Since I have determined that on conversion of the Oral-B note to the Gillette France debt there was a payment or credit for the purposes of paragraph 212(13.1)(b) of the Act, I need not consider the matter of the existence of a deemed payment in paragraph 214(3)(a). Paragraph 212(13.1)(b) deems the Partnership to be a non-resident person for the purposes of Part XIII of the Act and, as such, the Partnership is included in the definition of a "taxpayer".[22] The result is that paragraph 214(3)(a) applies to the Partnership as a taxpayer where subsection 15(2) applies to require an amount to be included in the Partnership's income.
+
+[33] Paragraph 214(3)(a) requires "an amount to be included in computing a taxpayer's income" and "that amount shall be deemed to have been paid to the taxpayer." I agree with the appellant that ordinarily a partnership is not a taxpayer and subsection 96(1) does not deem a partnership to be a taxpayer; subsection 96(1) only provides that a partnership is a separate person in order to compute the income or loss of each partner. Paragraph 212(13.1)(b) suggests that a partnership is not normally a person or taxpayer: a deeming provision is required in order to treat a partnership as a separate person. Paragraph 214(3)(a) cannot be used to deem a payment or credit to be made to a partnership for the purposes of paragraph 212(13.1)(b) of the Act.
+
+[34] Was it Parliament's intent that paragraph 214(3)(a) of the Act would not apply to partnerships? Paragraph 214(3)(a) refers to subsections 15(1), 15(2) and 56(2). Subsection 56(2) requires an amount to be included in a taxpayer's income and therefore does not apply to a partnership in any event. Subsection 15(1) requires an amount to be included in a shareholder's income and therefore may apply to partnerships. Subsection 15(2) was amended in 1983 to require an amount to be included in a debtor partnership's income.
+
+[35] A review of the history of paragraph 214(3)(a) of the Act may be helpful.[23] Paragraph 214(3)(a) was amended in 1977 to replace "shareholder" with "taxpayer". This amendment may have brought into question whether paragraph 214(3)(a) still applied to a non-resident partnership that was a shareholder. The 1983 amendment to subsection 15(2) to include a partnership as a debtor compounded this uncertainty.
+
+[36] Since the 1977 amendment to the Act replacing "shareholder" with "taxpayer" in paragraph 214(3)(a) was made at a time when subsection 15(1) applied to partnerships that were shareholders, one may reasonably infer that Parliament did not intend paragraph 214(3)(a) to apply to partnerships. Paragraph 214(3)(a) was not amended when subsection 15(2) was amended to apply to debtor partnerships.
+
+[37] Paragraph 214(3)(a) cannot apply to a partnership unless paragraph 212(13.1)(b) deems the partnership to be a non-resident person and this requires a transaction where there is a payment or credit.
+
+[38] The appellant submits that subsection 15(2) does not apply in the circumstances of this appeal since the provision was not meant to apply where the funds in issue were previously obtained from a shareholder as a contribution of capital and subsequent events converted that contribution into an indebtedness. In essence, the appellant argues that the indebtedness in question should be treated as part of a series of transactions that commenced in May 1987.
+
+[39] In my view, the transactions preceding the "Oral-B note" and its conversion to the "Gillette France debt" are not relevant. The issue is whether in 1989 there was a loan or indebtedness outstanding between the parties to which subsection 15(2) applied.
+
+[40] The Partnership is not a shareholder of the appellant and therefore in order for subsection 15(2) to apply, the Partnership must be connected to a shareholder of the appellant (i.e. the parent, "Gillette Boston").
+
+[41] The respondent's view is that a partnership is a person for the purposes of subsection 15(2) of the Act. Counsel submitted that prior to the addition of the word "partnership" to subsection 15(2), it was arguable whether income under subsection 15(2) was part of the computation of partnership income under subsection 96(1).However, the addition of the word "partnership" to subsection 15(2) was "to be sure" that it was, said counsel. He relied on The Queen v. Lachance[24] for the proposition that where a deeming provision refers to a specific provision and that specific provision refers to another provision, the deeming action carries through from the specific provision to the other provisions. The respondent argued that due to the deeming provision in subsection 96(1) or paragraph 212(13.1)(b) through paragraph 214(3)(a), the Partnership was a "person" for the purposes of subsection 15(2) of the Act.
+
+[42] I do not agree. In Lachance the issue was whether the language of subsection 96(1) prevented the deeming provision in subsection 96(1.1) from applying. Subsection 96(1.1) deems a taxpayer who has ceased to be a partner for the purposes of subsection 96(1) to be a partner. Lachance is distinguishable from the appeal before me since subsection 96(1.1) (i.e. the deeming provision) cautions that it applies "for the purposes of subsection (1) . . ." and other specific provisions, none of which is relevant to the appeal at bar. In fact, paragraph 212(13.1)(b) applies only for the purposes of Part XIII and subsection 15(2) was amended in 1983 to apply to partnerships. In amending subsection 15(2) the legislator was of the view that subsection 96(1) could not be relied on to ensure that subsection 15(2) applied to partnerships.
+
+[43] A partnership is clearly distinguished from a person in subsection 15(2) and I must give effect to that distinction. Subsection 96(1) cannot be relied on to treat a partnership as a person where subsection 15(2) specifically refers to a partnership. A court must give meaning to the word "partnership" within subsection 15(2) and cannot ignore the distinction made by Parliament. Subsection 15(2) not only refers to a partnership, it also excludes certain partnerships from being subject to the provision.[25] To read "partnership" into the word "person" would ignore the clear wording of the legislation refining or specifying which partnerships were excluded from the grasp of the provision.
+
+[44] Also, since paragraph 212(13.1)(b) applies for the purposes of Part XIII, this deeming provision cannot be used, through the application of paragraph 214(3)(a) to deem Gillette France to be a person for the purposes of subsection 15(2) in Part I. Again, subsection 15(2) must be interpreted by distinguishing between a person and a partnership.
+
+"Connected with a Shareholder"
+
+[45] Subsection 15(2.1) provides that "for the purposes of subsection (2), a person is connected with a shareholder . . . ." I have held that "person" and "partnership" are not the same in subsection 15(2). The use of the word "person" in subsection 15(2.1) also does not include a partnership. To the extent that it applies, subsection 96(1) cannot be construed as a definition section for the purposes of defining words in section 15 where a charging provision (i.e. subsection 15(2)) clearly distinguishes between a person and a partnership.
+
+[46] Respondent's counsel argued that once the word "partnership" was added to subsection 15(2) to "clarify" the provision or ensure that it applied to partnerships, the word "partnership" was no longer required in subsection 15(2.1) since subsection 96(1) applied to deem the partnership to be a person for the purposes of all of section 15. Again, here, counsel relied on the deeming provision in paragraph 212(13.1)(b) and its flow-through of paragraph 214(3)(a) to argue that the Partnership was a "person" for the purposes of subsection 15(2.1). Counsel submitted that once subsection 15(2) applied to partnerships, Parliament did not have to go any further since every provision that referred to subsection 15(2) would include partnerships. If the word "person" in subsection 15(2.1) did not include a partnership, counsel suggested, then subsection 15(2.1) would operate to deprive all the parts of subsection 15(2) referring to a partnership of any meaning.
+
+[47] Respondent also relied on the history of the changes to subsections 15(2) and 15(2.1). For loans made prior to April 1, 1977, subsection 15(2) provided that:
+
+Where a corporation has . . . made a loan to a shareholder, the amount thereof shall be included in computing the income of the shareholder . . . .
+
+[48] In 1977[26] there was a significant amendment to subsection 15(2) and subsection 15(2.1) was added.[27]
+
+[49] The 1983 amendment to subsection 15(2)[28] included a "partnership" as one of the debtors who must add an amount to its income. The addition of the concept of a "connected person" was added in 1977 at a time when a "partnership" was not included as one of the debtors to whom the provision applied. The respondent argued that since the addition of a partnership as a debtor and of the concept of a connected person occurred at the same time, subsections 15(2) and (2.1) should be read in their entire context to find that in subsection 15(2.1) a "person" must include partnerships. This argument is based on the incorrect assertion regarding the timing of the amendments.
+
+[50] Respondent's counsel submitted that if subsection 15(2.1) did not refer to partnerships then part of subsection 15(2) is meaningless when it refers to a partnership connected with a shareholder. This "meaningless" argument is also based on the premise that subsection 15(2.1) became law in 1977 at the same time that a partnership was added as a debtor in subsection 15(2). However, in 1977, subsection 15(2) only referred to a person and a person who was connected with a shareholder. There was no reference to a partnership. Therefore, in 1977, when subsection 15(2.1) was added, the section did have meaning. In 1982, when Parliament decided to "clarify" the application of subsection 15(2), the following technical notes were provided:
+
+. . . Subsection 15(2) at present applies where the loan is to a person who is a shareholder of a corporation or a person who does not deal at arm's length with the shareholder. A further amendment to subsection 15(2) clarifies that it applies in certain circumstance where the debtor is a partnership, a member of a partnership or a beneficiary of a trust. [emphasis added] [29]
+
+[51] Of course the phrase "applies in certain circumstances" is vague as to its meaning but it does indicate that Parliament did not intend that subsection 15(2) was to apply to debtor partnerships in all circumstances.
+
+[52] Since subsection 15(2) clearly distinguishes between a person and a partnership and subsection 15(2.1) defines when a person is connected for the purposes of subsection 15(2), it follows that subsection 96(1) cannot be relied on to deem a partnership to be a person for the purposes of either subsection 15(2) or 15(2.1). Therefore, subsection 15(2.1) does not apply to a partnership since the provision only refers to a person.
+
+[53] Where subsection 15(2.1) does not apply for the purposes of determining whether a partnership is connected to a shareholder, the word "connected" must be interpreted in order to determine the meaning of the relevant portion of subsection 15(2). The appellant referred to the meaning of the word "connected" in Black's Law Dictionary:[30]
+
+Joined; united by junction, by an intervening substance or medium, by dependence or relation, or by order in a series.
+
+The term "connected", argued the appellant, was an imprecise term which would, in the absence of a specific and clear definition, be very difficult to give application in the context of subsection 15(2).
+
+[54] Respondent's counsel declared that "if we construe the word 'person' in subsection 15(2.1) as referring only to a person, not necessarily to a partnership, it renders part of 15(2), or the enactment, completely meaningless when it's referred in 15(2) to a partnership connected to a shareholder." However, one must consider whether a corporation that was a member of a partnership could be connected to the partnership.
+
+[55] In the everyday meaning of the word "connected", Gillette Boston is clearly joined to the Partnership since it held a substantial interest (99.9%) in the Partnership. The everyday meaning does not specify any requirement for a percentage of ownership, but where one entity owns, or has an interest in, almost all of the other entity (whether or not it is a legal entity) it is easy to find that there is a connection. Nevertheless, whenever the word "connected" is used within the Act the method to determine whether two parties are connected is always specific.[31]
+
+[56] If one accepts respondent's argument that subsection 96(1) can be used to treat the Partnership as a separate person, Gillette Boston (as a corporation) is connected to the Partnership (as a separate person). However, if one considers the legal nature of a partnership, is it possible for a partner to be connected to a partnership in which the partner is a member? In other words, can Gillette Boston (as a corporation) be connected to itself (as a partner of the Partnership)? In Madsen v Canada,[32] the Federal Court of Appeal discussed the interaction of the fiction of subsection 96(1) and the legal nature of partnership transactions. The issue in Madsen was whether paragraph 69(1)(a) applied to a partnership since the parties involved were "related persons" pursuant to section 251. Linden J.A., at paragraph 16, began by discussing how the capital cost allowance regime applied to partnerships and he went on to state:
+
+In my view, the foregoing 'regime' implies nothing more than a notional construction for calculating a taxpayer's tax liability. It is a purely administrative convenience necessary to sustain the Act's view of the partnership as a conduit or vehicle for taxpayers.
+
+In this way, the fiction of a partnership as an entity separate from the partners is temporary and does not extend to colour the true legal nature of transactions at the time they are entered into by a partnership.
+
+[57] Linden J.A. found that under partnership law, the sale of the property took place between the seller and a partner of the partnership on behalf of the partnership. Since both the seller and the partner were "persons" and "taxpayers" and were controlled by the same person, the partnership was related to the seller pursuant to section 251 and therefore paragraph 69(1)(a) applied.
+
+[58] Subsection 96(1) cannot be used to treat the Partnership as a separate person for the purposes of determining whether Gillette Boston and the Partnership are connected. Based on the everyday meaning of the word "connected" and on partnership law, Gillette Boston cannot be connected to itself as a partner of the Partnership. As well, since subsection 15(2.1) does not apply to partnerships and the Act does not provide another method to determine whether a partnership is connected to a shareholder, Gillette France is not connected to Gillette Boston. Paragraph 214(3)(a) of the Act does not apply.
+
+[59] Accordingly, Gillette did not pay or credit an amount on which an income tax was payable under Part XIII of the Act and Gillette was not required to remit any Part XIII tax to the Receiver General for Canada on behalf of a non-resident person pursuant to section 215 of the Act. The appeals are allowed with costs.
+
+[60] The appellant was assessed and credited amounts of interest as stated in notices of assessment dated December 30, 1996, that is, reassessment no. 6046076 and reassessment no. 6046078, as set forth in paragraph 16 of the Statement of Agreed Facts. Since I have held that Gillette ought not to have been assessed Part XIII tax in the first place, I fail to see the reason for the appellant to be assessed any interest resulting from its failure to pay Part XIII tax. Interest is only due where there is an underlying tax liability that is unpaid: section 161. Here, there is no Part XIII tax liability.
+
+[61] I would normally vacate reassessment no. 6046076. However, it may be that the reassessment includes interest for the appellant's 1989 taxation year that is unrelated to the Part XIII tax. Therefore, I shall refer both assessments back to the Minister for reconsideration and reassessment on the basis the appellant is not liable for the Part XIII tax for its 1989 taxation year and, as a consequence, no interest is payable with respect to any Part XIII tax previously assessed for 1989.
+
+[62] Counsel's arguments at trial were almost wholly devoted to whether the appellant is liable for Part XIII tax. If either counsel is of the view that I have misconstrued the interest issue, the parties still have thirty days from date of these reasons to make written representations. I shall sign formal judgment in these appeals after the thirty days have elapsed.
+
+Signed at Ottawa, Canada this 12th day of October 2001.
+
+"Rip"
+
+J.T.C.C
+
+COURT FILE NO.: 1999-746(IT)G
+
+STYLE OF CAUSE: Gillette Canada Inc. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Montreal, Québec
+
+DATE OF HEARING: January 15, 2001
+
+REASONS FOR JUDGMENT BY: The Hon. Judge Gerald J. Rip
+
+DATE OF REASONS: October 12, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Pierre Barsalou
+
+Mélanie Lemelin
+
+Counsel for the Respondent: Pierre Cossette
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Pierre Barsalou
+
+Barristers & Solicitors
+
+Firm: Barsalou Auger
+
+1002 Sherbrooke Street West, Suite 2420
+
+Montreal, Québec H3A 3L6
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] a) The appellant appeals from two assessments dated December 30, 1996, one assessment, notice of which is numbered 6046076, levied a tax under Part XIII of the Act, plus interest. The other assessment, notice of which is numbered 604078, credited an amount of interest which, the appellant says, is insufficient. (See paragraph 16 of the Statement of Agreed Facts, infra.)
+
+b) The parties agree that if I find the appellant is liable to pay Part XIII tax as assessed, the amount of interest assessed and under appeal was correctly calculated and assessed.
+
+c) Paragraph 212(13.1) of the Act applies to partnerships in which there is no Canadian resident member. See section 102 for the definition of "Canadian partnership" at footnote 6, infra.
+
+[2] Paragraph 212(13.1)(b), infra. The provisions of subsections 15(2) and 15(2.1) and paragraphs 212(2)(a), 212(13.1)(b) and 214(3)(a) of the Act, and their interaction, are to be considered in the appeal at bar, although other provisions of the Act also play an important role. Several of these provisions, subsections 15(2) and 15(2.1) and paragraph 214(3)(a), were amended during the period 1977 to 1989, and the relevant portions of these amendments (with emphasis added) follow:
+
+1977 amendments (S.C. 1977-78, c.1, ss. 8(3) and 94(1))
+
+Subsection 15(2) was amended to provide that:
+
+Where a particular corporation, a corporation to which the particular corporation is related or a partnership of which either or both of the corporations is a member has . . . made a loan to a person . . . who is a shareholder of the particular corporation or who is connected with a shareholder of the particular corporation . . . the amount thereof shall be included in computing the income . . . .
+
+Subsection 15(2.1) was added:
+
+For the purposes of subsection (2), a person is connected with a shareholder of a particular corporation if that person does not deal at arm's length with the shareholder and if that person is a person other than . . . .
+
+. . .
+
+Subsection 214(3)(a) was amended to provide that:
+
+For the purposes of this Part,
+
+(a) where section 15 or subsection 56(2) would, if Part I were applicable, require an amount to be included in computing a taxpayer's income, that amount shall be
+
+deemed to have been paid to the taxpayer as a dividend from a corporation resident in Canada;
+
+1983 amendments (S.C. 1980-81-82-83, c.140, ss.7(1))
+
+Subsection 15(2) was further amended to provide that:
+
+Where a person . . . or a partnership . . . is a shareholder of a particular corporation, is connected with a shareholder of a particular corporation or is a member of a partnership, or a beneficiary of a trust, that is a shareholder of a particular corporation and the person or partnership has . . . received a loan from or has become indebted to the particular corporation . . . or to a partnership of which the particular corporation or a corporation related thereto is a member, the amount of the loan or indebtedness shall be included in computing the income . . . .
+
+Provisions with no amendments between 1977 and 1989
+
+Paragraphs 212(2)(a) and 212(13.1)(b) were not amended during this period and each read as follows:
+
+212(2) Every non-resident person shall pay an income tax of 25% on every amount that a corporation resident in Canada pays or credits, or is deemed by Part I or Part XIV to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+
+(a) a taxable dividend . . .
+
+212(13.1) For the purposes of this Part, other than section 216,
+
+. . .
+
+(b) where a person resident in Canada pays or credits an amount to a partnership (other than a Canadian partnership within the meaning assigned by section 102), the partnership shall be deemed, in respect of that payment, to be a non-resident person.
+
+[3] Paragraphs 1 to 16 inclusive of the Statement of Agreed Facts are included.
+
+[4] In these reasons I shall refer to this note as the "Oral-B note".
+
+[5] I refer to the indebtedness by Gillette France SNC to the appellant as the "Gillette France debt".
+
+[6] See subsections 102(a) and (b) of the Act for the definition of "Canadian partnership". A "Canadian partnership" means a partnership all of the members of which were, at any time in respect of which the expression is relevant, resident in Canada, and in Subdivision j of Division B of Part I of the Act, a reference to a person or a taxpayer who is a member of a particular partnership includes a reference to another partnership that is a member of the particular partnership.
+
+[7] 6th Edition, West Publishing Co., 1990.
+
+[8] Oxford, 1989, vol. XI, at page 376.
+
+[9] Law and Business Publications (Canada), 1980, at page 279.
+
+[10] West Publishing Co., 1987, under "Payment", § 2, page 8.
+
+[11] 1993, DICOROBERT Inc., Montréal, Canada.
+
+[12] Vol. III, at pp. 1138-1139.
+
+[13] 6th Edition, West Publishing Co., 1990.
+
+[14] 84 DTC 1348, at 1357 (T.C.C.).
+
+[15] 97 DTC 5363, page 5376.
+
+[16] Supra, Vol. VII, page 838 and Vol. VIII, page 1069.
+
+[17] Supra, page 936.
+
+[18] The Queen v. Canadian-American Loan and Investment Corporation Limited, 74 DTC 6104 (F.C.T.D.) at 6108 [Respondent's Book of Authorities, Tab 6] and The Credit Company v. Pott (1880), 6 Q.B.D. 295 at 298, Lord Selborne, L.C., which was cited with approval by four of the six Justices in Ball v. Royal Bank of Canada (1915), 52 S.C.R. 254 regarding the requirement that a chattel mortgage set forth the consideration given for the sale. Lord Selborne, L.C. stated in Pott at page 298: ". . . it appears to me that . . . the deed is conclusive evidence of the previously existing debt being satisfied, as much as if the money for it had been actually handed over; because, when the company treat the 7350l. as a new advance (and no money was in fact advanced, except by treating the previous debt as paid) the company could not then have said to the debtor that he owed the debt which had been previously contracted." See also General Electric Capital Equipment Finance Inc. v. R., 2000 DTC 6513 (F.C.T.D.) where Rouleau J. found that where the original notes were so materially altered, completely new obligations were created.
+
+[19] Exhibit A-1.
+
+[20] [1991] 1 F.C. 331 (F.C.T.D.).
+
+[21] 95 DTC 260 (T.C.C.).
+
+[22] A "taxpayer" is defined in subsection 248(1) of the Act to include any person whether or not liable for tax. If I am wrong and the conversion of the "Oral-B note" did not result in a payment or credit for the purposes of paragraph 212(13.1)(b), then paragraph 214(3)(a) must be reviewed in order to determine if that provision deems an amount to have been paid as a dividend to the Partnership.
+
+[23] See footnote 2.
+
+[24] 94 DTC 6360 (F.C.A.).
+
+[25] Subsection 15(2) applies to partnerships "other than a partnership each member of which is a corporation resident in Canada."
+
+[26] S.C. 1977-78, c.1, s.s. 8(3).
+
+[27] See footnote 2.
+
+[28] S.C. 1980-81-82-83, c.140, s.s. 7(1).
+
+[29] Bill C-139 Income Tax Amendments, Special Release, December 7, 1982.
+
+[30] Supra, 5th Edition (West Publishing Co., 1979).
+
+[31] See, for example, references to "connection" in the current Act as follows:
+
+a) by blood relationship, marriage, etc. (s. 8(1)(e)(ii), s. 118.2(2), s. 146.1(2), s. 231, s. 248 (personal or living expenses), s. 251(2), s. 251(6));
+
+b) as defined for a specific purpose (s. 15(2.1), s. 80.4(8), s. 186(4));
+
+c) by reference to subsection 186(4) (s. 84.1(1), s. 110.6(1), s. 110.6(15), s. 212.1(1), s. 248 (small business corporation)); and
+
+d) by reference to an activity (s. 136(2), s. 181.1(3)).
+
+[32] [2000] F.C.J. No. 2139.
+

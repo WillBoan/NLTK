@@ -1,0 +1,322 @@
+Date: 19980918
+
+Docket: 96-2508-IT-G
+
+BETWEEN:
+
+AUTOBUS THOMAS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] These appeals from assessments for the appellant’s 1991, 1992, 1993 and 1994 taxation years concern the application of Part I.3 of the Income Tax Act (“the Act”), entitled “Tax on Large Corporations”.
+
+[2] For the purposes of those assessments, the Minister of National Revenue (“the Minister”) added to the appellant’s capital under subsection 181.2(3) certain debts the appellant had incurred with the National Bank of Canada (“the Bank”) to finance new vehicles — specifically school buses — that it had purchased from the manufacturers of those vehicles.
+
+[3] Paragraphs 1 to 10 of the Notice of Appeal provide a summary of the facts, which were, however, altered considerably by the evidence adduced at the hearing. I will come back to this point shortly. Paragraphs 1 to 10 of the Notice of Appeal read as follows:
+
+[TRANSLATION]
+
+1. The appellant is a Thomas bus dealer and purchases most of the buses it needs to operate its business from Thomas Built Buses of Canada Limited, which is located in Ontario;
+
+2. The appellant always purchases the vehicles it needs for its operations from the manufacturer through conditional sale contracts between it and the manufacturer, as will be shown more fully at the hearing;
+
+3. Under the said conditional sale contracts, the manufacturer reserves ownership of the vehicles until they have been paid for in full;
+
+4. Before ordering vehicles from the manufacturer, the appellant entered into an inventory financing agreement with a financial institution, the National Bank of Canada, in which it authorized the Bank to pay the manufacturer directly for the buses ordered, as will be shown more fully at the hearing;
+
+5. Once the National Bank of Canada pays for the buses, the manufacturer assigns and transfers to the Bank all of its rights in the conditional sale contracts between the manufacturer and the appellant, as will be shown more fully at the hearing;
+
+6. Conditional sale contracts are entered into for each bus purchased, and the ownership of each vehicle is assigned individually to the National Bank of Canada, as will be shown more fully at the hearing;
+
+7. No money changes hands between the National Bank of Canada and the appellant;
+
+8. Once the conditional sale contracts are assigned, ownership of the vehicles ordered by the appellant thus passes from the manufacturer to the National Bank of Canada;
+
+9. Although the appellant is indebted to the National Bank of Canada for its inventory of buses, this financing does not in fact involve any loan or advance between the appellant and the National Bank of Canada, since the Bank actually finances the acquisition of the conditional sale contracts from the manufacturer out of its own funds, as will be shown more fully at the hearing;
+
+10. The appellant does not issue any notes to the National Bank of Canada as payment or security for the financing of its inventory of buses.
+
+[4] The Deputy Attorney General of Canada made the following arguments on the respondent’s behalf in paragraphs 12 to 15 of the Reply to the Notice of Appeal:
+
+[TRANSLATION]
+
+12. He submits that the appellant’s debts to the National Bank of Canada are loans or advances by a financial institution.
+
+13. He submits that the legal relationship between the appellant and the National Bank of Canada is not one of purchaser-seller.
+
+14. He submits that novation was effected in respect of the manufacturer’s claim for the sale price of each vehicle, thus creating a new debt between the National Bank of Canada and the appellant that was in fact a loan or advance for the purposes of paragraph 181.2(3)(c) of the Income Tax Act.
+
+15. In the alternative, the appellant’s indebtedness to the National Bank of Canada was indebtedness represented by bonds, debentures, notes, mortgages, bankers’ acceptances or similar obligations within the meaning of paragraph 181.2(3)(d) of the Income Tax Act.
+
+[5] At the hearing, counsel for the respondent changed the order of these arguments to rely primarily on paragraph 181.2(3)(d) and “in the alternative” on paragraph 181.2(3)(c) of the Act. The relevant portion of subsection 181.2(3) reads as follows in English and French:
+
+(3) The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+
+. . .
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, bankers’ acceptances or similar obligations . . . .
+
+(3) Le capital d’une société, sauf une institution financière, pour une année d’imposition correspond à l’excédent éventuel du total des éléments suivants :
+
+. . .
+
+c) les prêts et les avances qui lui ont été consentis à la fin de l’année;
+
+d) ses dettes à la fin de l’année sous forme d’obligations, d’hypothèques, d’effets, d’acceptations bancaires ou de titres semblable . . . .[1]
+
+[6] The appellant and the Bank were actually doing business with not just one but two manufacturers during the years in question.
+
+[7] To begin with, it should be noted that the Bank gave the appellant a $10,000,000 credit limit after the appellant applied for inventory financing. The initial application dated September 20, 1985, was for $2,000,000 in credit, which was subsequently increased to $10,000,000. The portion of the application that is relevant to this case reads as follows:
+
+[TRANSLATION]
+
+We are applying to use your inventory financing service for new items we will sell in our retail operations. To this end, we are requesting that your Bank grant us “wholesale” credit up to $2,000,000 or any higher amount that you wish to grant us for use in the ordinary course of our business, in accordance with the provisions of this application.
+
+Once this application is granted, we agree:
+
+A. That as soon as your paying office pays the manufacturer or its distributor, as the case may be, on our behalf in respect of the conditional sale contracts or invoices for our purchases of new items, the said contracts or invoices shall be due and payable by us pursuant to the assignment appearing in the said document and shall bear interest at the rate set by your Bank that is in effect on the payment date;
+
+B. That we have read the terms, conditions and clauses of the conditional sale contract or invoice and that, pursuant to the assignment by the manufacturer or its distributor, you shall be subrogated in all its rights, remedies and privileges, and we waive in advance our right to raise any defences against you that we could have raised against the manufacturer or its distributor, as we acknowledge that your rights are always and shall always be indisputable;
+
+C. That you will charge the amount of each purchase contract or invoice paid by you to your special account (20-22), which is an internal accounting item of your Bank; and
+
+D. That the monthly statements indicating the amounts charged to that special account shall be deemed to be accurate and to be accepted by us unless you receive a written notice indicating any errors within 30 days after the statements are sent.
+
+[8] Jean-Guy Bernier, the appellant’s president, testified about the sequence of events and transactions involving the manufacturers and the Bank that occurred for the appellant to obtain delivery of the buses it had ordered for its retail operations. His testimony was supplemented by that of Réal Bolduc, account manager at the Bank’s branch in Drummondville where the appellant did business.
+
+[9] The documents adduced in evidence make it possible, using an example, to trace the various transactions that occurred, from the ordering of a new vehicle by the appellant to the delivery of the vehicle to a driver designated by it. In the example chosen, the appellant ordered the vehicle on June 3, 1993, from a first manufacturer, Navistar International Corporation Canada (“Navistar”), and provided the desired specifications (Exhibit A-1, Tab 16, Document 1). Navistar manufactures and assembles most of the vehicles' components, except the body. On July 3, 1993, Navistar confirmed its receipt of the order by producing a computer printout stating the specifications for all of the vehicle’s components (Exhibit A-1, Tab 16, Document 2).
+
+[10] After manufacturing the chassis and assembling the other components, Navistar sent the appellant and the Bank an invoice for the vehicle on September 21, 1993. The vehicle was identified by one serial number for the chassis and another for the engine. The price stated on the invoice was $29,555.05[2] (Exhibit A-1, Tab 16, Document 3). The Bank used a draft to pay the invoice and charged the amount to the account used for the appellant’s vehicle financing transactions on September 23, 1993. Interest was charged as of that date (Exhibit A-1, Tab 3).
+
+[11] On September 22, 1993, the second manufacturer, Thomas Built Buses of Canada Limited (“Thomas”), which assembles the body components, confirmed to the appellant that it had received the order to assemble those components and complete the vehicle (Exhibit A-1, Tab 16, Document 4). Once a vehicle or, if you like, chassis is completed by Navistar, it is transported to Thomas, which confirms to the appellant that it has received it. For the vehicle in question, this confirmation was given on October 12, 1993 (Exhibit A-1, Tab 16, Document 5).
+
+[12] On November 22, 1993, Thomas sent the appellant and the Bank an invoice stating a price of $18,301.50[3] in respect of the order for the body bearing serial number 54043. The invoice stated that the net price was payable within 30 days (Exhibit A-1, Tab 16, Document 6). However, according to information obtained with the consent of counsel for the parties following the hearing, the completed vehicle stayed with the manufacturer for several months, as the appellant did not take delivery of it until July 12, 1994. Moreover, despite the invoice’s reference to a 30-day term, the Bank apparently did not pay the $18,301.50 until July 4 or 5, 1994, at about the same time as the signing and assignment of the conditional sale contract.
+
+[13] On July 5, 1994, Thomas (the seller) and the appellant (the purchaser) entered into a conditional sale contract for the vehicle bearing serial number 54043C on one of the Bank’s standard forms. The only amount that appeared in the “balance” column was $18,301.50, which also appeared on the “GRAND TOTAL” line. In the same document, the seller Thomas, for value received, assigned the contract to the Bank and subrogated the Bank in all its rights. The portions of the contract that are relevant to this case read as follows:
+
+[TRANSLATION]
+
+1. The price or amount payable by the purchaser to the seller shall be $18,301.50, payable on demand, with interest before and after the due date at an annual rate of .................. percent, which may be changed from time to time upon notice by the National Bank of Canada.
+
+. . .
+
+3. The purchaser promises to pay the seller the balance of the purchase price on demand. Ownership of the goods shall remain with the seller at the purchaser’s risk until the purchase price has been paid in cash, and the purchaser shall keep the said goods in trust, without making any use of them, at its usual place of business, where the seller or its representative shall be free to examine them at any time.
+
+4. If payment is not made or the terms of this contract are not complied with, the unpaid balance owed by the purchaser to the seller shall become due and payable immediately, without notice or request for payment, and the seller may take immediate possession of the goods with or without legal proceedings and may sue the purchaser for the unpaid balance.
+
+. . .
+
+7. If the purchaser sells, hypothecates or otherwise disposes of the said goods in whole or in part, with or without the seller’s consent, it shall hold the proceeds thereof in trust for the seller separately from its own funds and shall deliver them in full to the seller at once. If the proceeds or a portion thereof are in the form of other goods, the purchaser recognizes and acknowledges the seller’s full ownership of those goods.
+
+8. The purchaser hereby agrees to the sale of the goods described above and, on performance of this contract by the seller, acknowledges receipt of a copy, accepts and acknowledges the notice and carrying out of the assignment of this contract, and of all present and future rights and benefits accruing hereto, to the National Bank of Canada and agrees that the said rights and benefits shall be exercised by or on behalf of the said assignee.
+
+. . .
+
+Signed at Drummondville, Canada, this 5th day of July 1994
+
+Seller THOMAS BUILT Purchaser AUTOBUS
+
+BUSES OF THOMAS, INC.
+
+CANADA LIMITED DRUMMONDVILLE,
+
+P.O. BOX 580 QUEBEC
+
+WOODSTOCK,
+
+ONTARIO
+
+By (signed by [illegible]) By (signed by Lyne
+
+Thivierge)
+
+____________________ASSIGNMENT_____________________
+
+FOR VALUE RECEIVED, the seller accepts the above contract, hereby sells, transfers and assigns the said contract to the National Bank of Canada without recourse and expressly subrogates the said Bank in all of its rights, titles and interests in and to the goods described above.
+
+Signed at Drummondville, Canada, this 5th day of July 1994
+
+SELLER THOMAS BUILT BUSES
+
+OF CANADA LIMITED
+
+P.O. BOX 580
+
+WOODSTOCK, ONTARIO
+
+BY (signed by [illegible])
+
+[14] On July 12, 1994, one of the appellant’s representatives took delivery of the vehicle and signed a Vehicle Acceptance Form (Exhibit A-1, Tab 16, Document 8).
+
+[15] Finally, the vehicle was sold to the Laurenval school board on August 25, 1994 (Exhibit A-1, Tab 16, Document 9).
+
+[16] In a statement from the Bank entitled [TRANSLATION] “WHOLESALE FINANCING - MONTHLY STATEMENT OF INVENTORY AND COSTS” and dated July 31, 1994 (Exhibit A-1, Tab 3), under the merchant name “Autobus Thomas #2” in connection with vehicle #54043, reference was made to the following: an amount of $29,555.05 discounted on September 23, 1993; 285 days, which was the total number of days from the payment date to the statement date; $1,367.23 in interest that had accrued previously; $25.91 in interest payable that month; and, finally, the total unit cost as of the statement date, $30,948.19.
+
+[17] In a second series of documents also dated July 31, 1994, under the merchant name “Autobus Thomas #1” in connection with vehicle #54043, reference was made to an amount of $47,856.55 discounted on July 5, 1994. That amount was the total of both manufacturers’ invoices, that is, Navistar’s invoice for $29,555.05 and Thomas’s invoice for $18,301.50. The statement indicated that the interest payable that month for 27 days was $272.75, meaning that the total unit cost as of the statement date was $48,129.30.
+
+[18] In his testimony, Mr. Bolduc from the Bank drew a distinction between two types of accounts with credit lines granted to the appellant by the Bank, namely an account with a credit line used for current operations and the [TRANSLATION] “credit line - wholesale” account used to finance new vehicle purchases. While the appellant can draw cheques on the former account, it is the Bank directly and not the appellant that pays the manufacturers’ invoices for new vehicle purchases. According to Mr. Bolduc, interest is computed daily at a floating rate on what he called the balance of the “credit line” used for new vehicle purchases.
+
+[19] As regards the financing method involving conditional sale contracts, Mr. Bolduc explained that the Bank could have provided some other kind of financing and then taken other security, such as a movable hypothec or security under section 427 of the Bank Act. However, he said that a conditional sale contract provides full security on each vehicle, which means that the Bank can finance 100 percent of the price of the vehicles purchased and not just 50 percent, which would be the case if another method, such as a traditional loan and another type of security, were used. Mr. Bolduc acknowledged that although the Bank pays both manufacturers’ invoices, the conditional sale contract covers only the price of the second manufacturer’s invoice. Interest is charged as explained above as soon as the first manufacturer is paid. Once the appellant sells the vehicle to a retail customer, it writes a cheque on its “operations account” for the total of what Mr. Bolduc called the “advances” made by the Bank.
+
+[20] Mr. Bolduc said that the appellant does not sign any other instrument such as a note for the purchase of a specific vehicle and that the Bank actually holds only the conditional sale contract. According to him, all of the appellant’s purchases of new vehicles are financed in this way.
+
+[21] However, in the appellant’s financial statements for the four years in question, the price of the new vehicles, chassis and bodies is found on the assets side of the balance sheet under “Inventory”, while the amounts owed for the purchase of the new vehicles are found on the liabilities side under “Notes payable”. The accompanying note states, however, that [TRANSLATION] “the notes payable are secured by part of the inventory of new vehicles . . . .”
+
+[22] André Paquin from the accounting firm of Verrier Paquin Hébert, which audited the appellant’s financial statements for its 1994 taxation year, testified that while the balance of the sale price is an account payable, it is not represented by a “note payable” in the sense of a cheque or note issued by the appellant. According to him, an item called “Notes payable” was used in the 1994 financial statements simply because his accounting firm proceeded in the same way that the accounting firm of Raymond, Chabot, Martin, Paré had for the previous three years, without doing any further auditing.
+
+[23] Counsel for the appellant argued that paragraph 181.2(3)(c) of the Act is not applicable to this case because the amounts owed by the appellant to the Bank are not amounts owed for loans or advances by the Bank but are rather the balances of sale prices owed to the Bank further to the assignment of the conditional sale contracts by the seller Thomas and the subrogation of the Bank in all its rights under those contracts. The legal relationship thus established is one of seller-purchaser or creditor-debtor, not one of lender-borrower. This argument is also based on the fact that no money is transferred between the Bank and the appellant, as such a transfer is an essential condition for a loan to exist (article 2314 of the Civil Code of Québec). Counsel for the appellant based his arguments, inter alia, on the decisions in the following cases:
+
+- Banque nationale du Canada v. Québec (Sous-Ministre du Revenu), [1997] R.D.F.Q. 124 (Que. C.A.);
+
+- Marcelon Inc. v. Le Sous-Ministre du Revenu du Québec, [1991] R.D.F.Q. 3 (C.Q.);
+
+- Spencer Investments Ltd. v. M.N.R., 72 DTC 1028 (T.A.B.);
+
+- United Trailer Co. Ltd. v. M.N.R., 61 DTC 1162 (Ex. Ct.);
+
+- Home Provisioners (Manitoba) Ltd. v. M.N.R., 58 DTC 1183 (Ex. Ct.).
+
+[24] Counsel for the appellant felt that the term “advances” in paragraph 181.2(3)(c) of the Act should be taken to mean “payments on account”, as held by this Court in Oerlikon Aérospatiale Inc. v. Her Majesty the Queen, 97 DTC 962,[4] and that as such no advances were made in this case.
+
+[25] When all is said and done, counsel for the appellant’s argument was that the appellant’s debt for the purchase of new vehicles is basically the balance of sale prices and that the relationship between the Bank and the appellant is not one of lender-borrower but rather one of seller-purchaser. That relationship results from the subrogation resulting from the assignment to the Bank of the conditional sale contract by the seller Thomas. According to counsel for the appellant, the fact that there is dual financing involving two manufacturers does not change this relationship, since the conditional sale contract establishes the Bank’s security on the entire vehicle described in the contract. Finally, he argued that there can be no question of novation here just because the interest rate in the contract can be changed. The interest is merely incidental to the debt, and a change in the interest rate cannot effect novation and replace the debt with a loan from the Bank to the appellant.
+
+[26] Counsel for the appellant argued that paragraph 181.2(3)(d) is not applicable to this case either, since the only document between the Bank and the appellant is the conditional sale contract. According to him, the evidence showed that the appellant has not issued any instruments such as notes or drafts. He said that the only drafts issued have in fact been those issued by the Bank itself, and not the appellant, to pay the manufacturers’ invoices. Finally, counsel for the appellant argued that the concept of “capital” for the purposes of the Part I.3 tax includes only long-term debts and that the balance of a sale price under a conditional sale contract is not a long-term debt.
+
+[27] Counsel for the respondent argued that the purpose of paragraph 181.2(3)(d) is to include in capital any form of indebtedness represented by a note or financing instrument and that a conditional sale contract assigned to the Bank is such an instrument, since it in fact gives exceptional security to the Bank, which remains the owner of the vehicle until it has been paid for in full. On this point, counsel for the respondent referred specifically to the definitions of the terms “bonds”, “debentures”, “notes”, “mortgages” and “bankers’ acceptances” in Black’s Law Dictionary (West Publishing Co.) and The Dictionary of Canadian Law (Carswell). According to those definitions, what they all have in common is that they are financing instruments. While the debt constituted by the balance of a sale price cannot be considered a loan or advance, it also cannot be categorized as simply an account payable, since it is represented by a specific financing instrument. According to her, conditional sale contracts should be treated like the other financing instruments listed in paragraph 181.2(3)(c) of the Act, which does not apply only to long-term financing instruments as argued by counsel for the appellant.
+
+[28] Counsel for the respondent added that the conditional sale contract also contains a promise to pay the price on demand and in that regard is therefore a note payable, which cannot be likened to a mere account payable. She also referred to the fact that the amounts owed were treated as “notes payable” in the financial statements and that no qualifications were stated by the auditors.
+
+[29] Counsel for the respondent further argued that the amount owed by the appellant to the first manufacturer (Navistar) for manufacturing the chassis and assembling its components is not covered by the conditional sale contract. According to her, that amount is owed pursuant to a loan or advance by the Bank, which pays the manufacturer’s invoice on the appellant’s behalf. She added that the transfer of money needed to enter into a loan contract can be effected through a delegation of payment.
+
+[30] To begin with, it is important to note the requirement set out in subparagraph 181(3)(b)(i) for determining values and amounts for the purposes of the Part I.3 tax. According to that provision, what must be used are the amounts reflected in the balance sheet
+
+(i) presented to the shareholders of the corporation (in the case of a corporation that is neither an insurance corporation to which subparagraph (ii) applies nor a bank) or the members of the partnership, as the case may be, or, where such a balance sheet was not prepared in accordance with generally accepted accounting principles or no such balance sheet was prepared, the amounts that would be reflected if such a balance sheet had been prepared in accordance with generally accepted accounting principles . . . .
+
+[31] Although the accountant, André Paquin, testified that he did not find any notes payable for the appellant’s purchases of new vehicles, the audit note accompanying the 1994 financial statements, like the notes for the previous years, clearly said that the statements were prepared in accordance with generally accepted accounting principles. Likewise, although Mr. Paquin felt that the amounts to be paid by the appellant were comparable to the accounts payable found under “Payables”, and although he said that for subsequent years they were entered under an item called “Vehicle Financing”, there was nothing in his testimony that clearly established that generally accepted accounting principles were not complied with during the years in question. If this were the only factor considered, it could be concluded that the amount of the “notes payable” was correctly included in the appellant’s capital for the purposes of the tax under Part I.3 of the Act. However, I consider it necessary to take the analysis further, since the title given to a particular item in financial statements is not necessarily determinative of the legal nature of what it is supposed to represent.
+
+[32] The appellant is the purchaser of the vehicles and the Bank finances their purchase. Obviously, the appellant is also the one that retails the vehicles, although the Bank reserves ownership until full payment has been made by having the seller Thomas assign the conditional sale contract to it. The appellant’s sale of property that it does not own is not a problem and cannot be declared null, since the appellant subsequently becomes the owner by paying the balance of the sale price to the Bank as soon as the transaction is completed (second paragraph of article 1713 of the Civil Code of Québec). The Bank does not purchase or sell vehicles, but simply finances the appellant’s purchases. The characteristics of that financing are what must be clarified to determine whether paragraphs 181.2(3)(c) and (d) are applicable.
+
+[33] The evidence adduced in this case certainly did not show that the legal relationship between the Bank and the appellant is simply one of seller-purchaser or creditor-debtor rather than one of lender-borrower. The use of a conditional sale contract to secure payment of the price of each vehicle purchased by the appellant relates to only part of the financing provided by the Bank, namely that corresponding to the price billed by the manufacturer Thomas for assembling the body ($18,301.50 in the example chosen). This is the only amount that the conditional sale contract refers to as owing to the manufacturer Thomas, and it is the only amount whose payment is secured by the contract. When Thomas assigns the contract to the Bank, it cannot assign more rights than it has itself, despite the fact that ownership of the entire vehicle is reserved. I will come back later to the nature of the security provided for in the contract.
+
+[34] I will deal first with the $29,555.05 paid by the Bank to the manufacturer Navistar on September 23, 1993, after it received the invoice issued on September 21, 1993 (Exhibit A-1, Tab 16, Document 3). In my view, that amount, in respect of which interest for a total of 285 days was charged to the appellant’s account on July 31, 1994 (Exhibit A-1, Tab 3, first page), resulted from a loan or advance by the Bank to the appellant.
+
+[35] To begin with, the document entitled [TRANSLATION] “Application for Inventory Financing”, which was dated September 20, 1985 (Exhibit A-1, Tab 2), provided that the Bank would extend credit to the appellant and pay the manufacturer or its distributor on the appellant’s behalf in respect of “the conditional sale contracts or invoices for . . . purchases of new items”. What the Bank in fact paid on the appellant’s behalf was the amount of Navistar’s invoice, which did not provide for any specific security that could be assigned to the Bank, such as a reservation of ownership, as was the case with the conditional sale contract with the manufacturer Thomas.
+
+[36] It is true that the Bank did not transfer or hand over any money to the appellant but simply paid an amount owed by the appellant directly to the manufacturer. Whether this was a delegation or merely an indication of payment is not really important. It can most certainly be described in the circumstances as a loan or advance by the Bank to the appellant. In The Dictionary of Canadian Law (Carswell, 1991), the following, inter alia, is found under the term “loan” at page 589:
+
+Includes money advanced on account to a person in any transaction which, whatever form it takes, is substantially a loan to such person, or one securing the repayment by such person of the money advanced.
+
+[37] In Black’s Law Dictionary, 6th edition (West Publishing, 1990), the following is found under the term “loan” at page 936:
+
+“Loan” includes: (1) the creation of debt by the lender’s payment of or agreement to pay money to the debtor or to a third party for the account of the debtor . . . .
+
+[38] Since I consider the payment made by the Bank to the manufacturer Navistar on the appellant’s behalf to be in substance a loan to the appellant, there is no need to dwell on the meaning to be given to the term “advances” as used in paragraph 181.2(3)(c) of the Act, which is generally recognized in law, as in finance and accounting, to mean a loan or payment on account.
+
+[39] I therefore conclude that the amounts paid by the Bank to the manufacturer Navistar and other manufacturers on the appellant’s behalf that are not covered by a conditional sale contract result from loans by the Bank to the appellant and must therefore be included in its capital under paragraph 181.2(3)(c) of the Act to the extent that these amounts are owed to the Bank at the end of a given taxation year. Even if we could somehow magically consider the amounts owed to be covered and secured by the conditional sale contract with the manufacturer Thomas, they would then be covered by paragraph 181.2(3)(d) for the reasons given below.
+
+[40] What about the amount owed by the appellant to the manufacturer Thomas that is covered by the conditional sale contract assigned to the Bank once it has paid the manufacturer? To begin with, I accept the distinction established in the many decisions referred to by counsel for the appellant. The balance of a sale price is a debt that does not result from a loan or advance. First of all, between the manufacturer Thomas and the appellant, there is a seller-purchaser relationship governed by a conditional sale contract under which ownership remains with the seller until full payment. On payment by the Bank, the contract is assigned to it and the seller assigns it all of its rights, including ownership. The Bank becomes the appellant’s creditor with the seller’s rights and no more, and no lender-borrower relationship is created between it and the appellant as regards the amount in question. Paragraph 181.2(3)(c) of the Act cannot apply to this situation. However, it must still be determined whether paragraph 181.2(3)(d) covers this type of indebtedness.
+
+[41] It should be stated at the outset that what is called a conditional sale contract is actually what is known in civil law as an instalment sale. Article 1745 of the Civil Code of Québec clearly defines such a sale as a term sale and not a conditional sale or sale under a suspensive condition.[5]
+
+[42] The Civil Code of Lower Canada’s provisions on instalment sales, articles 1561a to 1561j, were introduced in 1888 and 1947 and repealed in 1971 with the introduction of the Consumer Protection Act (S.Q. 1971, c. 74, s. 120), sections 29 to 42 of which set out a specific legal scheme for instalment sales between merchants and consumers. There were no specific provisions regulating instalment sales between other parties, and in particular between two merchants, which meant that such contracts were subject to the will of the parties.
+
+[43] To more adequately protect the parties to instalment sale contracts not governed by the Consumer Protection Act, new provisions were included in the Civil Code of Québec, which came into force in 1994, to provide a framework for the exercise of rights by those parties. The provisions in question are articles 1745 to 1749, which state, inter alia, that a reservation of ownership cannot be set up against third persons unless it is published in the register of personal and movable real rights.
+
+[44] The instalment sale is a type of contract that originated long ago, and the new rules in the Civil Code of Québec do not change its nature. Since ownership is reserved, an instalment sale basically creates a real security whose nature is merely brought out by these new rules. In his text entitled “Précis sur la vente”,[6] Professor Pierre-Gabriel Jobin comments on the introduction of the new rules. He states the following at page 505, paragraph 215:
+
+[TRANSLATION]
+
+Here then in the Civil Code is some protection for merchants, among others. The legislature has finally recognized that many merchants, especially small ones, need legal protection. This is something it has too often forgotten in the past. It has recognized that an instalment sale is basically a financing contract and that a reservation of ownership is nothing other than a security whose realization may cause considerable harm to the purchaser, subsequent purchasers and their creditors. That is why the legislature has established certain protective mechanisms applicable to the enforcement of the right to repossess. These mechanisms are modelled on those that exist for the enforcement of a hypothec, especially taking in payment.
+
+(emphasis added;
+
+notes omitted)
+
+[45] He adds the following about the rules on taking in payment a little further on, at page 513, paragraph 223:
+
+[TRANSLATION]
+
+This right can be understood if it is recalled that the reservation of ownership in an instalment sale basically constitutes a real security for the seller. In principle, the realization of any security should be subject to the same mechanisms and the same restrictions.
+
+(emphasis added;
+
+note omitted)
+
+[46] While the resemblance between an instalment sale and a mortgage is even more striking at common law because of the reservation of legal title by the creditor, the fact remains that in civil law, the debt secured under each contract is secured by a real security. When seen from this point of view, it seems to me that an instalment sale is a type of financing that is somewhat similar to a hypothec or even an obligation under which general or specific security is given in respect of certain property or a real security is given on a particular piece of property. I therefore feel that an amount owed pursuant to an instalment sale contract under which a real security is given on the property purchased is, for the purposes of paragraph 181.2(3)(d) of the Act, indebtedness covered by the words “represented by bonds, debentures . . . mortgages . . . or similar obligations” in the English version of that provision or “sous forme d’obligations, d’hypothèques . . . ou de titres semblables” in the French version.
+
+[47] Parliament did not consider it appropriate to impose any limits on the scope of the terms “loans” and “advances” in paragraph 181.2(3)(c) or the terms “bonds”, “debentures”, “notes”, “mortgages” and “bankers’ acceptances” in paragraph 181.2(3)(d). In my view, this means that it is incorrect to argue that those paragraphs were intended to cover only long-term debts.
+
+[48] Since paragraph 181.2(3)(c) applies to a bank loan, whether it is short-, medium- or long-term and whether or not it is accompanied by specific security, it is logical to conclude that an amount owed to the same institution under a contract providing for the granting of a real security is covered by paragraph 181.2(3)(d), inasmuch as such security constitutes specific security that is, if not better than, at least equivalent to the security provided by a hypothec. It cannot really be argued that the debt is comparable to one owed under a mere account payable.
+
+[49] One additional point is worth noting. Paragraph 1 of the document entitled [TRANSLATION] “Conditional Sale Contract” (Exhibit A-1, Tab 1) contains a payment provision that reads as follows:
+
+[TRANSLATION]
+
+The price or amount payable by the purchaser to the seller shall be $18,301.50, payable on demand, with interest before and after the due date at an annual rate of .................. percent, which may be changed from time to time upon notice by the National Bank of Canada.
+
+[50] Moreover, paragraph 3 of the same contract contains a promise to pay the balance of the sale price, worded as follows:
+
+[TRANSLATION]
+
+The purchaser promises to pay the seller the balance of the purchase price on demand.
+
+[51] This wording is similar to that generally found in a promissory note, and it makes the contract something of a hybrid. In Crawford and Falconbridge’s Banking and Bills of Exchange (Toronto, Canada Law Book, 1986, volume 2), the authors describe a similar contract as follows under the heading “Lien Notes” at pages 1818-19, paragraph 6202:
+
+A common use of notes in Canada for a hundred years has been in connection with instalment purchases of goods, in both consumer and commercial transactions. From time to time the courts have been required to consider whether knowledge by the holder of the fact that a note originated in such a transaction was knowledge of conditionality. Although that task was common enough in other jurisdictions it was only in Canada that the courts referred to the instruments involved as “lien notes”, presumably intending to reflect the dual character of the transaction involving both a charge on goods and a promise to pay their price.
+
+(emphasis added;
+
+notes omitted)
+
+[52] When the “Tax on Large Corporations” was introduced in 1989, one commentator,[7] an accountant by trade, recognized that instruments known as “lien notes” were commonly used by automobile dealerships as a method of financing inventory and argued that the position could be taken that such instruments should not be covered by the new tax. The arguments in support of that position were that the legal effect of such instruments was not evident as far as their accounting presentation was concerned and that such instruments represented short-term debts and thus could not be considered external capital used to finance a corporation’s operations. I consider these arguments unfounded. First of all, since we are dealing above all with debts involving specific security, I do not think that their accounting presentation should involve anything particularly complex. Nor is there anything that limits the application of subsection 181.2(3), and more specifically paragraphs 181.2(3)(c) and (d), to short-term debts. If that had been Parliament’s intention, it could have just enacted paragraph 181.2(3)(f) of the Act. Finally, I will add that another commentator,[8] also an accountant, immediately recognized a little later that instruments designated as “lien notes” were covered by all legislation imposing a tax on capital. For a corporation, bank financing to purchase all the new property in its inventory, with complete security being given for each piece of property, is a way to use funds or external capital on a constant basis to finance its operations. I see no reason in principle why such a method of financing would not be covered by paragraph 181.2(3)(d) of the Act, provided that the indebtedness thus created does not, from a legal standpoint, represent “loans and advances” covered by paragraph 181.2(3)(c) of the Act.
+
+[53] However, in view of the conclusion I have reached about debts secured by instalment sale contracts, it is not necessary for me to make a definite ruling on the issue of whether such debts are also “represented by . . . notes . . . or similar obligations” under paragraph 181.2(3)(d) of the Act or “sous forme . . . d’effets . . . ou de titres semblables” under the French version of the same provision. I will simply note that at first glance I am far from convinced that those words cannot apply to a promise to pay an amount on demand just because such a promise is found in a document entitled “Conditional Sale Contract”. Moreover, to come back to the first point, the appellant’s debts were in fact entered on its balance sheet as “notes payable” for the years in question.
+
+[54] In light of the foregoing, the appeals are dismissed with costs to the respondent.
+
+Signed at Ottawa, Canada, this 18th day of September 1998.
+
+“P.R. Dussault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 2nd day of November 1998.
+
+Stephen Balogh, revisor
+
+[1] Until December 20, 1991, paragraph 181.2(3)(d) read as follows in English:
+
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, hypothecs or similar obligations . . . .
+
+It read as follows in French:
+
+d) de ses dettes à la fin de l’année sous forme d’obligations, d’effets, de mortgages, d’hypothèques ou de titres semblables . . . .
+
+[2] Another $2,068.85 was added for the goods and services tax (“GST”), for a total of $31,623.90. Since the Bank paid only $29,555.05, I am assuming that the tax was paid directly by the appellant.
+
+[3] Another $1,281.11 was added as GST, for a total of $19,582.61. Since the amount paid by the Bank and covered by the conditional sale contract was only $18,301.50, I am assuming that the tax was paid directly by the appellant.
+
+[4] The decision in Oerlikon is currently under appeal to the Federal Court of Appeal.
+
+[5] This provision reflects the position taken by the Supreme Court of Canada in Venne v. Quebec (CPTA), [1989] 1 S.C.R. 880.
+
+[6] In the texts assembled by the Barreau du Québec and the Chambre des notaires du Québec, La réforme du Code civil, Les Presses de l’Université Laval, 1993, at page 365.
+
+[7] David M. Williamson, “Large Corporations Tax”, 1990 Conference Report, C.T.F. 11:1 at page 11:19.
+
+[8] Eric A. Ostfield, “Coping with the Large Corporations Tax and Provincial Capital Taxes”, 1992 Conference Report, C.T.F. 30:1 at page 30:6.
+

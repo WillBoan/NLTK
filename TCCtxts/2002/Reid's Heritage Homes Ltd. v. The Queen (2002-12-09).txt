@@ -1,0 +1,382 @@
+Date: 20021209
+
+Docket: 2001-1661-GST-G
+
+BETWEEN:
+
+REID'S HERITAGE HOMES LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+
+
+Reasons for Judgment
+
+Campbell, J.
+
+[1] This appeal is from an assessment under Part IX of the Excise Tax Act (the "Act") for the period January 1, 1995 to October 31, 1998. The issues relate to whether the new housing rebate has been properly calculated pursuant to section 254.1 of the Act and whether the Minister can use section 153(2) of the Act to re-allocate the consideration paid in respect to servicing costs, thereby reducing the amount of the new housing rebate that the Appellant can claim.
+
+[2] The Appellant was incorporated in late 1979 and has been involved in the development and sale of residential real estate in Southwestern Ontario. The issues arose with respect to the sale of residential homes between January 1, 1995 and October 31, 1998 in three different phases of a development known as the Village by the Arboretum in the City of Guelph.
+
+[3] Counsel for the Appellant and the Respondent entered a Partial Statement of Agreed Facts which I am reproducing within my reasons for judgment as it accurately reflects the background to the issues and why they arose:
+
+The parties hereby are in agreement with the following facts:
+
+1. The Appellant appeals to the Tax Court of Canada from the assessment number 08EP0100386 dated June 4, 1999 (the "Assessment") relating to adjustments made to the Appellant's Goods and Services Tax ("GST") returns pertaining to the period between January 1, 1995 and October 31, 1998;
+
+2. In assessing the Appellant's net tax, the Respondent took the position that the Appellant over-claimed GST New Housing Rebate ("NHR") in the amount of $182,164.61 and over-remitted GST in the amount of $12,202.86 requiring net adjustments in the amount of $169,961.75 as set out in Schedule A attached to the Reply of the Respondent;
+
+3. The Appellant was incorporated on December 4, 1979 pursuant to the laws of Ontario;
+
+4. The Appellant has been a GST registrant pursuant to the Excise Tax Act (the "Act") since January 1, 1991 and was assigned GST registration number 104457502;
+
+5. The Appellant is required by the Act to file its GST returns on a monthly basis and has a business year end of November 30;
+
+6. The Appellant is a residential general contractor and carries on a business of development and sales of residential real estate in Southwestern Ontario;
+
+7. In 1994, the Appellant commenced construction of an adult residential community (the "Development") known as Village by the Arboretum in the City of Guelph, Province of Ontario on unserviced land (the "Land") owned by the University of Guelph and leased to the Appellant for a long term lease of more than 20 years;
+
+8. The Appellant planned to build approximately 590 residential homes on the Development which included single detached homes, semi-detached homes and townhouses;
+
+9. For the purpose of the Development, the Land was not subdivided into lots, but rather a site plan was prepared for the Land showing approximately 590 land units with varying frontage (the "Units");
+
+10. The Development was scheduled to proceed by phases;
+
+11. As of the date of the Assessment, Phases 1, 2 and 3 were underway which included 141 Units, 99 Units and 120 Units respectively, on which 360 residential homes were build or planned to be built and sold;
+
+12. The Assessment concerns 202 single residential homes that were sold between January 1, 1995 and October 31, 1998 which includes 102 residential homes in Phase 1, 86 residential homes in Phase 2 and 14 residential homes in Phase 3;
+
+13. The Appellant put in services such as roads, sewers, water pipes, green area, natural gas, hydro and cable. All costs relating to such services (Development Costs) were paid for by the Appellant;
+
+14. The Appellant build several models of residential homes (the "Buildings") on the Units which buildings varied in size, look and price;
+
+15. The Buildings were build by the Appellant on 20, 40, 45, 50, 55 or 60 foot frontage Units depending on the size of the Building;
+
+16. The Buildings were sold to arm's length purchasers under purchase agreements and the Units on which the Buildings were built were leased by sublease agreements to the said arm's length purchasers under long-term subleases of 20 years;
+
+17. Pursuant to the agreements referred to in paragraph 16 hereof, each arm's length purchaser paid a lump sum amount (the "Purchase Price") under the purchase agreement and a monthly rent (the "Rent") under the sublease agreement;
+
+18. Each arm's length purchaser became the owner of the Building and the tenant, for a period of 20 years, of the Units on which the Building was built;
+
+19. It is specifically provided in the sublease agreement that the tenant shall deliver up vacant possession of the lot at the expiration of the term in good order, repair and condition (par. 12 (xvii) and par. 19.1) and that the purchaser, with the exception of the purchasers of the townhouses and semi-detached houses, shall have the right to remove, at its expense, the Building from the lot upon expiration of the term and fill in the excavation, compact the fill and restore the grading to its former state (par. 19.2);
+
+20. The Rent paid by each arm's length purchaser under the sublease agreement was comprised of Basic Rent which reflected the market value of the unserviced Unit (the "Land Value") on which the Building was build and Additional Rent as the proportionate share of operating costs and a contribution to the Capital Reserve Fund;
+
+21. The Purchase Price paid by the arm's length purchaser under the purchase agreement included all other costs related to the construction of a Building on a Unit and notably the construction costs directly related to the construction of the Buildings (the "Net Direct Project Costs") and the Development Costs including the servicing costs to connect the Building to the municipal services;
+
+22. The Appellant self-assessed the GST at the time possession of the residential complex was given to each arm's length purchaser pursuant to subparagraph 191(1)(b)(ii) of the Act;
+
+23. The respective purchaser claimed the NHR in respect of the purchase pursuant to section 254.1 of the Act and under the terms of the purchase agreement, the NHR was assigned by each purchaser to the Appellant;
+
+24. The NHR as claimed was calculated by the Appellant on the Purchase Price including the Net Direct Project Costs and the Development Costs;
+
+25. The only item that was not considered in the calculation of the NHR by the Appellant was the Land Value allocated to each Unit depending on its size.
+
+[4] The Minister assessed the Appellant on the basis that the total consideration to be used in computing the rebate should include only those amounts payable by the purchaser to the Appellant for the supply of the building less the costs of servicing, which the Minister re-allocated and regarded as rent for the supply of leased land.
+
+[5] The Appellant relied on two witnesses: Alfred Artinger, a professional engineer who was engaged by the Appellant as manager of land development, and Ronald James Moore, a chartered accountant who acted as chief financial officer for the Appellant. Both witnesses had been employed by the Appellant for a number of years and both had extensive knowledge respecting the planning, construction and costing in the field of residential home construction and more specifically of the Village by the Arboretum.
+
+[6] Counsel for the Appellant referred to these two witnesses as candid and truthful and I do not disagree with her characterization. A joint Book of Documents containing 56 documents was entered. Both witnesses were referred to a number of these documents to support their explanation of this development as a lifestyle gated community for individuals over 55 years of age. They emphasized that it was not a subdivision in the normal sense that one would employ that term but it was a site plan approved by the municipality for construction of residential units on lots with varying frontages. Services were installed throughout the site plan by the Appellant, which included plumbing, sewer, hydro, cable, streets and street lighting. According to the pricing or costing sheet contained at Tab 50 of the Book of Documents, construction costs were the "brick and mortar" of the unit according to witness, Alfred Artinger, while the development costs included the costs of servicing the units within the site plan. An amount was segregated from the dwelling costs as contribution respecting a recreation centre for the site plan. Mr. Artinger explained that to arrive at a price for each unit sold, the servicing costs, which were part of the Appellant's costs, were allocated proportionately to each purchaser, depending on lot frontage and type of dwelling. He stated that the purchasers did not have title to the roads, sewers, etc. installed throughout the development but that the only way the Appellant could recapture these costs was to include them in the price of the building.
+
+[7] Mr. Moore confirmed Mr. Artinger's evidence that the dwelling price included the actual construction costs of each dwelling (the net direct project costs) together with an apportionment of servicing costs (the development costs) including those common to the development. Mr. Moore confirmed that generally accepted accounting principles had been used to match project costs to revenues in the recapture of these servicing costs.
+
+[8] The Respondent called one witness, the appeals officer, David Thorpe. In his evidence, he referred to two property appraisals contained in the Joint Book of Documents (Tabs 12 and 20) which were completed in respect to this development. Both appraisals, one by a Wayne Eagle in the CCRA's appraisal section and another by A. Tonin, a real estate appraisal consultant in the Kitchener office, reached the same conclusion: that the overall declared values when compared to other freehold sales in the area appeared reasonable but that the declared allocation of the consideration between land and buildings was not reasonable. Mr. Tonin's memo stated that the homes in this development were of average quality but that the value used by the Appellant was similar to better quality homes on freehold lots in the same area. This he said indicated that the price used for each dwelling was overstated. Both appraisals concluded that in view of the quality of the homes and the price assigned, the costs of development had been incorporated into the purchase price of the dwelling. Mr. Thorpe testified that unlike the rebates in sections 254 and 256 of the Act, under paragraph 254.1(2)(h) it was relevant whether the development costs were part of the building or the land, as no part of the rebate could be attributable to rent for land. He confirmed that the CCRA had used subsection 153(2) to allow the reallocation of the consideration paid for servicing costs, from the supply of the dwelling to the supply of the land.
+
+The Appellant's Position
+
+[9] Counsel pointed out that there is no issue under subsection 254.1(2) to the entitlement by the purchasers of these dwellings to the new housing rebate but that the problem arises in the interpretation of paragraph 254.1(2)(h). For this paragraph to apply, the fair market value of the residential unit must be less than $374,500.00. She argued that the rebate should be calculated on the consideration paid for the dwelling without apportioning some of the consideration to the land, as the paragraph contains no other reference to fair market value except the above noted. Counsel argued that all of the legal documentation support the contention that the amount paid for each dwelling as specified in the bill of sale was the actual amount used to calculate the rebate and that no portion of the amount paid for the dwelling could reasonably be regarded as rent for the supply of land for which no rebate could be paid. Appellant counsel argued that it was the legal documentation that determined the legal relationship between the parties and therefore the servicing costs relate to the dwellings located on each parcel of land. Counsel argued that the Minister simply considered what the value was, whether it was reasonable and how it should be allocated, based on the appraisals of Mr. Tonin and Mr. Eagle, instead of correctly applying the wording of paragraph 254.1(2)(h). To support this position, she argued that all of the purchasers were at arm's length, which was not disputed, and that this many purchasers would not pay an inflated price for their dwellings. Therefore, no part of the amount paid by each purchaser for the dwelling can reasonably be regarded as rent for the supply of land.
+
+[10] Appellant counsel referred me to the following definition of "land" as contained in Black's Law Dictionary Fifth Edition:
+
+In the most general sense, comprehends any ground, soil, or earth whatsoever; including fields, meadows, pastures, woods, moors, waters, marshes, and rock. ...
+
+She argued that the Act contains no definition of "land" and that subsection 254.1(2) does not specifically state whether land includes vacant land, serviced land or unserviced land. Since Black's Law Dictionary definition refers to land in a very general sense, then, she stated, even if this subsection excludes "land" and not just "rent for land", it would exclude raw land only without the services in calculating rebates.
+
+[11] Appellant counsel compared the wording in GST memorandum 19.3.2 to 19.3.1. Counsel argued that these memoranda supported the Appellant's position, that no part of the rebate calculation can be attributed to land, as the only amount to be excluded, by reference to these memoranda, is an amount paid or payable as rent for land.
+
+[12] Finally, the Appellant addressed the use of subsection 153(2) by the CCRA to re-allocate that portion of the consideration attributable to servicing costs from the supply of the dwelling to the supply of land. Counsel submitted that this section did not apply in this case because there was only one consideration payable pursuant to the purchase agreement and the bill of sale and subsection 153(2) requires that two considerations are necessary for the section to be used.
+
+The Respondent's Position
+
+[13] The Respondent's position was that this case involved two supplies - one for the sale of a building and one for land and that the supply of land was for serviced land by way of sublease. He argued that with respect to a lease or sublease the consideration for a supply is the amount of rent in accordance with the value of the land and that subsection 254.1(2) excludes rent in calculating new housing rebates. He contended that the Appellant based the rent on raw land only, as indicated by both Mr. Artinger's testimony and the handwritten notation at the bottom of a document at Tab 4 of the Book of Documents containing the Appellant's own closing and lease rate information. This notation stated that the lease was for raw land only. He submitted that the supply was one for a serviced lot not an unserviced lot.
+
+[14] Counsel maintained that the words in paragraph 254.1(2)(b) "... other than consideration that can reasonably be regarded as rent for the supplies of the land ..." and more specifically the word "reasonably" imports that one must interpret this in the context of plain common sense and reality, both accounting reality and economic reality.
+
+[15] Counsel's position was that the allocation provided by the builder was strictly prohibited by paragraph 254.1(2)(b) because it was not reasonable and that subsection 153(2) allowed the Minister to re-allocate the net development costs as being consideration that could reasonably be regarded as rent for the supply of land.
+
+[16] Respondent counsel also argued that the tenant/purchaser should not be treated like a purchaser who purchases a new home together with the lot of land, because there are clearly two sections (sections 254 and 254.1) meant to deal separately with purchased land and leased land.
+
+Analysis
+
+[17] The GST aspect of each sale is the ability to receive a GST new housing rebate, calculated pursuant to section 254.1 of the Act. This section provides a new housing rebate to those individuals who purchase a dwelling to be used as their primary place of residence but which is built on leased land. This section differs from section 254 because this latter section is used to calculate a rebate where individuals pay an amount to purchase both dwelling and the land upon which the dwelling is built. The facts of this case bring the purchasers of the development within the wording of paragraph 254.1(2)(h) of the Act which reads as follows:
+
+254.1(2) Where ...
+
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to
+
+...
+
+(h) where the fair market value referred to in paragraph (c) is not more than $374,500, an amount equal to the lesser of $8,750 and 2.34% of the total (in this subsection referred to as the "total consideration") of all amounts each of which is the consideration payable by the particular individual to the builder for the supply by way of sale to the particular individual of the building or part of a building referred to in paragraph (a) or of any other structure that forms part of the complex, other than consideration that can reasonably be regarded as rent for the supplies of the land attributable to the complex or as consideration for the supply of an option to purchase that land, and
+
+...
+
+[18] The question here is whether the servicing costs can reasonably be regarded as rent for the supply of the subleased land.
+
+[19] Samples of several agreements to lease and purchase, subleases, bills of sale and cost ledger reports between the Appellant and several purchasers were included in the Joint Book of Documents. The Agreement to lease and purchase, between each purchaser and the Appellant, referred to two sub-agreements within the body of the document. The first was the agreement to lease the land upon which a dwelling would be constructed for a monthly rental and the second referred to the agreement to purchase the residential unit for a specified price. Because of the nature of the acquisition of a home in this development, the sale of each home was comprised of two documents: A bill of sale containing the purchase price of the building and a sublease for the land upon which the building was constructed. The bill of sale is a short one page recital of the purchase price of the residential unit, that it is situated on leased land and that the Appellant vendor is warranting title to the unit. No reference to servicing costs or breakdown of these costs was included in the bill of sale. The sublease between the Appellant/landlord, and each purchaser/Tenant, contained the many standard clauses one would expect for the sublease of land upon which a dwelling is built. Article 19 of each sublease governs surrender of the lease at the expiration of the term and reads as follows:
+
+19.1 Surrender
+
+The Tenant shall, at the expiry of the Term or other termination of this Lease, surrender the Demised Land to the Landlord in good order, repair and condition.
+
+19.2 Removal of Residential Dwelling Unit [Delete if multiple residential block]
+
+Subject to the performance and observance of all covenants on the part of the Tenant herein contained, the Tenant shall, upon expiry of the Term or other termination of this Lease, have the right to remove, at its expense, the Residential Dwelling Unit from the Demised Land. The Tenant shall conduct such removal under the control and supervision of the Landlord and shall retain contractors qualified and experienced in the relocating of houses. The Tenant shall obtain insurance in a form and amount satisfactory to the Landlord acting reasonably with regard to the removal of the Residential Dwelling Unit prior to commencing such removal and shall keep that insurance in place through removal. The Tenant shall fill in the excavation on the Demised Land, compact the fill, and restore grading of the Demised Land as far as practicable to its former state. The Tenant shall be liable for any and all loss, damages, costs or expenses suffered by any person resulting from such removal. The Tenant shall indemnify and save harmless the Landlord against any and all claims, actions, damages, loss, liabilities and expenses (including without limitations those in connection with bodily injury (including death), personal injury or damage to property) arising from any removal of the Residential Dwelling Unit. Failing removal of the Residential Dwelling Unit within thirty (30) days from the date of expiry or termination of this Lease, the Residential Dwelling Unit shall, at the option of the Landlord (notwithstanding the Landlord's rights in paragraph 18 herein), become the property of the Landlord and the Landlord shall have the right to sell, lease or demolish such Residential Dwelling Unit.
+
+[20] The purchaser of the dwelling at the termination of the term could remove the dwelling from the land, leaving behind the utilities and basement portion of the building.
+
+[21] In addition to the above referenced documentation, the head lease between the University of Guelph (the Landlord) and the Appellant (the Tenant), formed part of the Book of Documents. It is a lengthy document but the wording of several of its articles is of particular importance. They are:
+
+Article 1 (1.1)
+
+(s) "Improvements" means the Buildings, the Site Services and all other improvements of any kind whatsoever now or at any time and from time to time constructed, situated or laid out upon the Phase 1 Land and including all site preparation work in regard to any of the foregoing;
+
+(ac) "Premises" means the Phase 1 Land together with the Improvements made thereon by the Tenant during the Term;
+
+(am) "Residential Unit" means living accommodation comprising a single housekeeping unit designed or intended for use by one individual or by individuals living together as a single housekeeping unit and consisting of a room or suite of rooms in which both culinary and sanitary facilities are provided for the exclusive use of such individual or individuals;
+
+(ao) "Site Services" means all of the above ground and underground services required to accommodate the proposed development on the Phase 1 Land including, without limitation, water mains, sanitary sewers, storm sewers, storm drainage improvements, roads, sidewalks, and lighting;
+
+Article 2
+
+2.6 Title to Improvements
+
+(a) Except as provided in subsection (b), the Landlord and the Tenant agree that the Improvements are and shall be fixtures to and upon the Phase 1 Land and are intended to be and shall be upon the expiration or other termination of this Lease or upon the Landlord exercising any of its remedies under Article 19, the absolute property of the Landlord, free from all encumbrances of any kind whatsoever and without compensation to the Tenant. However, the Improvements shall, during the Term, be deemed, as between the Landlord and the Tenant, to be the separate property of the Tenant and not of the Landlord, but shall be subject to and governed by all of the provisions of this Lease. Provided always that, except as provided in subsection (b), the Landlord's absolute right of property in the Improvements which will arise upon the expiration or termination of this Lease, or upon the exercise of its remedies as aforesaid, shall take priority over any other interest in the Improvements which may now or hereafter be created by the Tenant and that all dealings by the Tenant with the Improvements which in any way affect title thereto, shall be made expressly subject to the rights of the Landlord and the Tenant shall not assign, encumber, or otherwise deal with the Improvements separately from any permitted dealing with the leasehold interest under this Lease to the intent that no person shall hold or enjoy any interest in this Lease who does not at the same time hold a like interest in the Improvements.
+
+(b) Notwithstanding subsection (a):
+
+(i) Subject to the provisions of Section 16.7, the rights of subtenants of lands or Residential Units within the Premises shall not be extinguished or affected by the expiry or early termination of this Lease or any exercise by the Landlord of any of its remedies under Article 19; and
+
+(ii) Residential Units within the Premises which are sold to residential subtenants of land within the Premises shall remain the property of the purchasers notwithstanding the expiry or early termination of this Lease or any exercise by the Landlord of any of its remedies under Article 19.
+
+Article 4
+
+4.2 Construction of Site Services
+
+The Site Services and the other Common Areas and Facilities to be provided pursuant to Section 4.1(a) and all additions, changes, alterations and replacements (except those undertaken by the Landlord) shall be completed:
+
+(a) at the sole expense of the Tenant;
+
+...
+
+(c) strictly in accordance with the design drawings and working drawings previously approved in writing by the Landlord pursuant to the Project Agreement;
+
+...
+
+(h) subject to the reasonable regulation, supervision, control and inspection of the Landlord; and
+
+Article 11
+
+11.1 Maintenance of Site Services
+
+The Tenant covenants and agrees to maintain and keep in a proper state of repair and operation, and to replace if and whenever required, throughout the Term all of the Site Services including above-ground services (this includes roadway pavements, curbs, sidewalks, manholes and catch basins) and the underground services (this includes storm sewers, sanitary sewers, watermains and the appurtenances associated with them) and all other Common Areas and Facilities constructed or installed by the Tenant. Further, the Tenant covenants and agrees to maintain all sewers, manholes and catch basins free of road materials, building debris and other foreign matters and to clear such material from the system throughout the Term. Such obligations shall include obligations to replace or reconstruct above-ground and below-ground services when required.
+
+11.5 Inspection
+
+The Tenant covenants with the Landlord to permit the Landlord or its agents, at all reasonable times during the Term to view the state of repair of the Site Services, the Buildings (except the interior of units sold to residential subtenants) and any other improvements on the Phase 1 Land.
+
+Article 14
+
+14.5 Buildings Owned by Residential Subtenants
+
+Notwithstanding any other provision in this Article 14 to the contrary, where the Improvements which are damaged or destroyed are one or more Buildings which have been sold to residential subtenants and are insured under one or more policies effected and maintained by the owners of those Buildings, the following provisions shall apply:
+
+(a) the parties acknowledge that the proceeds of the insurance policy will not be paid to the Landlord;
+
+(b) repair, reconstruction or replacement of any such Building will be the responsibility of the owner of that Building and, where applicable, the Tenant in accordance with the terms of the residential sublease between the Tenant and the home owner; and
+
+(c) the Tenant shall require that the repair, replacement or reconstruction be completed diligently and in accordance with the provisions of this Article 14.
+
+Article 16
+
+16.1 Residential Subleases
+
+Subject to the provisions of Section 16.2, the Tenant shall be entitled, without the prior consent of the Landlord:
+
+(a) to enter into residential subleases with respect to Residential Units constructed on the Premises; and
+
+(b) to enter into residential subleases for parts of the Phase 1 Land on which a Residential Unit has been or will be constructed and agreements with the residential subtenants whereby such subtenants purchase the Residential Unit constructed or to be constructed on the subleased land.
+
+The Tenant's ability to enter into such residential subleases or other agreements is conditional upon compliance with the subdivision control provisions of the Planning Act.
+
+Article 22
+
+22.1 Surrender
+
+The Tenant shall, at the expiry of the Term or other termination of this Lease, surrender the Phase 1 Land and all of its interest in the Premises to the Landlord, the Phase 1 Land and all Improvements thereon to be in good order, repair and condition, reasonable wear and tear excepted.
+
+[22] Paragraph 19 of the sublease allows a purchaser to remove the dwelling at the expiration of the land lease, provided certain conditions are met. It is clear that the services that connect the dwelling to the municipality remain with the land and there is no reimbursement of any kind contemplated to the purchaser upon removal of the dwelling. This would indicate that the services belong with the land not the building. Another indication that the services were to form part of the land is contained in paragraph 6.3 of the sublease where the Tenant of the land is directed by the word "shall" to pay utilities and other charges when due. Paragraph 6.4 goes on to instruct each Tenant to deliver copies of receipts for such payments to the Appellant when requested to do so. The Appellant retained some control over the payment for services as the head lease required the Appellant to maintain and repair the site services for the duration of the lease. At the termination of the lease the services reverted to the University of Guelph. All of this indicates that the University of Guelph and the Appellant viewed the services as part of the land.
+
+[23] The bill of sale between the Appellant and each purchaser is for the sale of the dwelling and makes no reference to services at all. Each contract was strictly for the building.
+
+[24] The above point to the services being part of the land but I do not believe that one can look only at the provisions of the sublease to reach an answer to this question. The sublease does not operate as a legal document on its own without reference to the head lease from which the Appellant obtained its authority to provide each purchaser with a sublease for the land upon which their dwelling was built. Although neither counsel relied upon these documents or used them to any great extent in their analysis and presentations to any extent, they are relevant to my reasons for judgment.
+
+[25] Throughout the head lease, site services and residential units are clearly differentiated. Site services were defined at the beginning of the head lease as all of the above ground and underground services. Residential Units were described as the living accommodations of each Tenant of a sublease. The term "improvements" was defined and used in the lease to include both the buildings and site services. Clearly however in Article 2(2.6) the title to the improvements, excepting the residential units, are to remain with the land and to be the property of the University of Guelph at the termination of the lease. More specifically it states that these improvements are to be considered fixtures to and upon the land. Article 4(4.2) reserves to the University the right to approve, control and inspect the construction of the site services, even though they remain the expense of the Appellant. There is an additional clear reference in Article 14(14.5) to ownership of the residential unit or dwelling by the purchasers under each sublease. This provision clearly points to the insurance proceeds on each unit as being the property of the purchaser of a unit, not the landlord. Here again is a clear delineation between ownership of the residential unit and the site services. Article 16 specifically refers to residential subleases and talks about the subleases being in respect to residential units constructed on the leased land. Again with the definitions provided in this document there is clearly a differentiation made between the residential units and the site services. The provisions of the head lease establish that the residential units are the property of the purchaser but that the site services once constructed and installed by the Appellant remained part of and with the land and ultimately the property of the University of Guelph.
+
+[26] Appellant counsel referred to the importance of the wording of the final part of paragraph 254.1(2)(h): "... other than consideration that can reasonably be regarded as rent for the supplies of the land ...". Her argument was that this subsection excluded "rent", not land, from the rebate applicability and that even if it did exclude land, the definition of land which she quoted from Black's Law Dictionary meant raw land only. As such the servicing costs relate to the building and not the land. It was her premise that all of the purchasers were arm's length and knew that they were purchasing only the building and not the land. Therefore they would not pay an inflated value. According to the Appellant, the rebate had to be calculated by using the consideration specified in the legal documentation.
+
+[27] Appellant counsel referred to the definition of land contained in the Fifth Edition of Black's Law Dictionary. However, I note that in the Seventh Edition, land is defined as:
+
+1. An immovable and indestructible three-dimensional area consisting of a portion of the earth's surface, the space above and below the surface, and everything growing on or permanently affixed to it.
+
+The final words "or permanently affixed to it" would appear to address the facts of this case where the services required to connect the dwelling to the municipal services become affixed to the leased land. This definition supports the argument that land here is more than raw land. Certainly the building too becomes "permanently affixed" to the land but the legal documentation here provides for the severing of the building from the land at the termination of the sublease. Since the site services stay with the land according to the provisions of both the head lease and the sublease, the land includes both the raw land and the site services.
+
+[28] Section 254.1 expressly excludes consideration that is rent paid for land. The rent paid here was pursuant to the lease and sublease. "Lease" is defined in Black's Law Dictionary as:
+
+A contract by which a rightful possessor of real property conveys the right to use and occupy that property in exchange for consideration, usu. rent.
+
+[29] "Rent" is also defined as:
+
+Consideration paid, usu. periodically for the use or occupancy of property (esp. real property).
+
+The provisions in the head lease contemplate that the services remain with the land. The tenant/purchaser of a dwelling may only remove the building. The supply for land includes as part of the land, those services that are with the lot and remain with the land after a dwelling is removed. The definition of "land" includes items permanently affixed or raw land and site services. A lease/sublease is for property or land here which includes the site services. The definition of "rent" is the consideration paid for the use of occupancy of property particularly real property pursuant to the lease. Since land here includes the site services and a lease is defined as the right to use and occupy the property or land here for rent, with rent being the consideration for the land, it must, unless otherwise specifically excluded, include the site services that become permanently attached to it. In fact if a building becomes attached by a basement or otherwise to a piece of land then the land may ultimately be said to include the building affixed to it. However the legal documentation here clearly severs the building from the site services. The purchaser owns the building and can remove it at the end of the lease. The site services stay with the land.
+
+[30] I conclude that it was clearly the intention of the parties to the head lease that the site services remain with the land at the termination of the lease and that the residential unit was all that the purchaser could own. The Appellant could not offer a subtenant a better interest than the Appellant in fact obtained under the head lease. The rent referred to in paragraph 254.1(2)(h) are the payments made pursuant to the sublease for land to which the University of Guelph and the Appellant intended that these site services would remain with the land at the end of the sublease and lease. The supply is for land and in these particular circumstances the services clearly attach to the land and form part of that supply.
+
+[31] The next issue is whether the Minister properly applied subsection 153(2) to re-allocate the consideration paid in respect to servicing costs from the residential unit to the land. A re-allocation of consideration pursuant to this section is permitted where it is determined that the consideration is excessive for one supply. According to the testimony of the CCRA appeals officer, David Thorpe, the Minister relied on subsection 153(2) of the Act as authority to allow the reallocation of the consideration. Subsection 153(2) states:
+
+(2) For the purposes of this Part, where
+
+(a) consideration is paid for a supply and other consideration is paid for one or more other supplies or matters, and
+
+(b) the consideration for one of the supplies or matters exceeds the consideration that would be reasonable if the other supply were not made or the other matter were not provided,
+
+the consideration for each of the supplies and matters shall be deemed to be that part of the total of all amounts, each of which is consideration for one of those supplies or matters, that may reasonably be attributed to each of those supplies and matters.
+
+[32] Subsection 153(2) was designed as an anti-avoidance rule. The applicability of this section requires firstly that there are two or more considerations and secondly that there has been unreasonable allocation between the considerations. The Appellant's position was that this section had no applicability because there was only one consideration here, that is a single amount paid for the dwelling pursuant to the purchase agreement and the bill of sale. Respondent counsel argued that there were two considerations. The purchase price of the dwelling was one consideration and the rent for the leased land was the "other" consideration as required by subsection 153(2). I agree with the Respondent. There are two supplies in every case here where a purchaser purchases a residential unit; one is a dwelling for which a consideration is specified pursuant to the purchase agreement and the bill of sale and the second one is the land upon which the dwelling is built and sub-let to the purchaser for a consideration specified in a sublease.
+
+[33] In accordance with my analysis, I have determined there are two supplies of dwelling and serviced land and two considerations. The next question to determine is whether the allocation of the consideration was unreasonable. Appellant counsel, to support her position made two arguments. Firstly, to support her contention that the considerations had been reasonably allocated, she relied on statements made in correspondence of Lynn Biscaro, the CCRA technical advisor (contained at Tab 22 of the Book of Documents). Ms. Biscaro's statement upon which counsel relied, read in part as follows: "We had no issue with the amount of the consideration ...". However when one looks at the entire paragraph contained in Ms. Biscaro's correspondence of June 4, 1999, it states:
+
+In responding to your comment "it is unreasonable to believe that purchasers acting at arm's length would pay more than the FMV for a building". We have no issue with the amount of consideration paid by the purchaser. Our concern is twofold:
+
+1. Is the overall FMV of the complex reasonable? and
+
+2. Does the consideration amount used to calculate the rebate include any amounts that should be excluded?
+
+The response to both these issues has already been addressed.
+
+In this same correspondence, she states:
+
+The appraiser concluded that the overall values were reasonable and met the requirement of subsection 191(1). However, the allocation between the land and building was not.
+
+These statements clearly support the Respondent's position that the Minister did not take issue with the total value of the considerations but took issue with the allocation. The Respondent's position was that the allocation of the servicing costs was unreasonable because the rent did not reflect the value of the land. The Minister took the position that the fair market value used by the Appellant for self-assessment purposes was comparable to a better quality home on a freehold lot in the same area. However, the dwellings here were of average quality, according to departmental appraisals, with construction costs far less than the purchase price. The Minister therefore concluded that the development costs were incorporated in the purchase price of the dwelling. The Appellant cannot rely upon Ms. Biscaro's statement which were taken out of context to infer that the allocations of the considerations were reasonable.
+
+[34] Secondly, the Appellant argued that the amount of consideration for the dwelling could not be unreasonable as so many purchasers, each represented by a solicitor, would not pay an inflated price. Therefore the purchase price stated in the bill of sale must be reasonable. I do not believe this reasoning is logical. Each purchaser here had a bottom line dollar amount they were willing to spend in purchasing a dwelling inside this type of community. As long as they were not out of pocket in excess of this bottom line amount, it mattered little to them whether consideration was allocated on paper to the purchase price for the building or to rent for the land. The structuring of the consideration mattered only to the builder, as an inflated building price provided access to a larger rebate. The Minister has based the rebate calculation on the construction costs of the dwelling and profit margin less the amount attributed to servicing costs. For these reasons I conclude that the Appellant made an unreasonable allocation of considerations and that the amounts have been properly and reasonably re-allocated pursuant to subsection 153(2).
+
+[35] Respondent counsel in his argument referred to the example of a purchaser buying one dwelling but subleasing two lots. The result of the Appellant's allocation scheme would be a purchase price for the building which would include the apportioned costs of servicing two lots not just one. This would result in a price that is greater than the purchase price for an identical building situated on only one lot. This result is not economically realistic. It is not reasonable based on common sense and good judgment. Furthermore, the Appellant's allocations are unreasonable as a purchaser of one building on two lots would likely not be able to obtain additional insurance that would reflect the purchase price paid.
+
+[36] I conclude that there are two supplies, dwelling and land with a consideration paid for each. The provisions in both the head lease and subleases support my finding that the services were installed by the Appellant but, once installed, were to remain a part of the land. The supply of land is therefore a supply of serviced land. The purchasers paid rent and had the use and enjoyment of these services with the Appellant maintaining them throughout the lease but ultimately ownership of land with services reverted to the University of Guelph. The purchase agreement and bill of sale reflect prices that are excessive for the dwelling alone and the Minister may utilize subsection 153(2) to re-allocate that portion of the consideration paid for the dwelling that related to servicing costs to the supply of land.
+
+[37] Although this disposes of the matter, I want to provide my comments on several additional arguments raised by Appellant counsel. Counsel compared subsection 153(2) to section 68 of the Income Tax Act. Section 68 permits re-allocation of an amount paid by a taxpayer for property and services on a reasonable basis "irrespective of the form or legal effect of the contract or agreement" (quotes added). Counsel pointed out that the words in quotes do not appear in subsection 153(2), although she did not go on to elaborate why this might be significant. It seems Appellant counsel is trying to draw the conclusion that because subsection 153(2) does not contain these same words that section 68 of the Income Tax Act does, one is barred from looking to external sources of evidence, other than the terms of the transaction documents themselves, in the application of subsection 153(2) as is done in section 68. I disagree. I do not believe that the omission of these words in subsection 153(2) is a bar to looking behind the consideration specified in the documents to determine whether subsection 153(2) applies. The provision would have very little use if one could not look behind the numbers in the Appellant's documents.
+
+[38] Appellant counsel also referred me to GST memoranda 19.3.1 and 19.3.2 which contain the CCRA's interpretation of sections 254 and 254.1 of the Act respectively. She referred to the fact that memorandum 19.3.2 contains a direction that in determining consideration under section 254.1, it would generally be similar to the amounts paid or payable for the purchase of homes plus land from a builder under section 254. The consideration under section 254 typically includes an amount for land, building, development, servicing and marketing costs of the builder, which in the end would be allocated to the purchaser. Counsel deducted that the reasonable view is that a purchaser of a new home on leased land under section 254.1 should be eligible for the same entitlement as a free hold purchaser under section 254 and that the memoranda confirmed this.
+
+[39] The memoranda are interpretation documents authored by the very department whose job it is to administer and enforce them. Associate Chief Judge Bowman in Canadian Occidental U.S. Petroleum Corporation v. The Queen, [2001] DTC 295 at page 299 provided the following comments with respect to interpretation material published by the Department:
+
+[30] The court is not bound by departmental practice although it is not uncommon to look at it if it can be of any assistance in resolving a doubt: Nowegijick v. The Queen et al., 83 DTC 5041 at 5044. I might add as a corollary to this that departmental practice may be of assistance in resolving a doubt in favour of a taxpayer. There can be no justification for using it as a means of resolving a doubt in favour of the very department that formulated the practice.
+
+Since the Appellant has relied somewhat on these, I feel it is necessary to provide my comments.
+
+[40] A rebate calculated pursuant to section 254 assumes that there is land plus a dwelling being purchased. The consideration used in calculating the rebate includes those items listed in G.S.T. memorandum 19.3.1 such as "landscaping", "in-ground pool" and "land that forms part of a qualifying unit". The rebate calculated pursuant to section 254.1 applies where the dwelling is purchased but the land is leased. G.S.T. memorandum 19.3.2 does not list items to be included in calculating the rebate as memorandum 19.3.1 does. Instead it simply refers to memorandum 19.3.1 as follows:
+
+Items to include or exclude from total consideration are discussed in Section 19.3.1 Rebate for Builder-Built Unit (Land Purchased).
+
+It goes on to state:
+
+... no amount paid or payable as rent for the land, nor any amount payable for an option to purchase the land is to be included in calculating the total consideration.
+
+It is the interpretation of these words that are at issue today. The Appellant's interpretation of section 254.1, by reference to these Memoranda is that it is essentially to be interpreted in the same fashion as section 254. That would negate the requirement for these two provisions. Parliament has purposively established two different provisions for two different sets of circumstances.
+
+[41] The evidence indicated that the Appellant, prior to the sale of these units, sought professional accounting advice in respect to the method it would be utilizing for claiming new housing rebates for this development. During an audit for the period March 1, 1991 to February 28, 1993, the Appellant sought the advice of the auditor on the appropriateness of its self-assessment methods and new home rebate calculation used for this development. The auditor advised the Appellant in writing that although the audit did not cover the sales of homes in this development, their inquiry would be addressed in the near future. No response followed for almost four years. The Appellant argued that it took all reasonable measures to ensure appropriate reporting. Although I do not condone this type of behaviour on the part of the CCRA (as it left the Appellant with the impression that it was conducting its business properly), the Minister reassessed within the prescribed period and to its credit, penalties and interest have been deleted.
+
+[42] For the reasons given, the appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 9th day of December 2002.
+
+"Diane Campbell"
+
+J.T.C.C.COURT FILE NO.: 2001-1661(GST)G
+
+STYLE OF CAUSE: Reid's Heritage Homes Ltd.
+
+and Her Majesty the Queen
+
+PLACE OF HEARING: London, Ontario
+
+DATE OF HEARING: October 28, 2002
+
+REASONS FOR JUDGMENT BY: the Honourable Judge Diane Campbell
+
+DATE OF JUDGMENT: December 9, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Susan Fincher-Stoll
+
+Counsel for the Respondent: Gatien Fournier
+
+COUNSEL OF RECORD:
+
+Counsel for the Appellant:
+
+Name: Susan Fincher-Stoll
+
+Firm: Harrion Pensa
+
+London, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-1661(GST)G
+
+BETWEEN:
+
+REID'S HERITAGE HOMES LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 28, 2002, at London, Ontario, by
+
+the Honourable Judge Diane Campbell
+
+Appearances
+
+Counsel for the Appellant: Susan Fincher-Stoll
+
+Counsel for the Respondent: Gatien Fournier
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period January 1, 1995 to October 31, 1998, notice of which is dated June 4, 1999 and bears number 08EP0100386 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 9th day of December 2002.
+
+"Diane Campbell"
+
+J.T.C.C.
+

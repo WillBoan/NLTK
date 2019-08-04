@@ -1,0 +1,182 @@
+Date: 20010816
+
+Docket: 2000-4203-IT-I
+
+BETWEEN:
+
+ALAN R. COLLINS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Amended Reasons for Judgment
+
+Rip, J.T.C.C.
+
+[1] This is an appeal by Alan R. Collins, a barrister and solicitor, practising in Edmonton, Alberta, from income tax assessments for 1997 and 1998 in which the Minister of National Revenue ("Minister") disallowed the deduction of support amounts within the meaning of subsection 56.1(4) of the Income Tax Act ("Act"). Mr. Collins appeals on the basis that "the maintenance payments for the child were made under a court order dated in 1983, and are therefore exempt from tax by the payor".
+
+[2] Generally, the issue arises as a result of the decision of the Supreme Court of Canada in Thibaudeau v. The Queen;[1] the government felt compelled to reconsider what was commonly known as the "inclusion/deduction system" in which the parent paying maintenance for a child may deduct the amount of maintenance and the receiving parent would include the amount in income. Parliament eliminated the "inclusion/deduction system" for all support payments made pursuant to an order or agreement made after April 30, 1997 that contemplated a commencement day.
+
+[3] In 1981 the appellant was separated from his wife at the time, Laura Lee Collins, and Mrs. Collins obtained an order from the Court of Queen's Bench of Alberta ordering the appellant to pay to Mrs. Collins the sum of $450 monthly for interim maintenance of their infant child, such maintenance to commence on September 1st, 1981 and to continue on the 1st day of each and every month until further order of the court. On July 25, 1983 the Court of Queen's Bench of Alberta issued a decreenisi pursuant to the Divorce Act[2]in favour of Mrs. Collins. The decree nisi provided that she and the appellant be divorced, ordered that she have sole custody of the child of the marriage and ordered that Mr. Collins pay to Mrs. Collins for the maintenance of the child the sum of $500 per month, the first monthly payment in the amount of $500 being due and payable on July 1st, 1983.
+
+[4] Throughout 1997 and at least until April 1, 1998 Mr. Collins paid monthly to his former wife the sum of $500 for the maintenance of their child pursuant to the court order of July 25, 1983.
+
+[5] Apparently sometime prior to March 1998, Mrs. Collins applied to vary the terms of the decree nisi to increase the maintenance for the child of the marriage because on April 17, 1998, after five days of trial in March 1998, Marceau J. of the Court of Queen's Bench of Alberta issued a judgment that provided, in part,
+
+. . . . .
+
+4. The Respondent shall pay to the Applicant as retroactive child support for the period from September 1, 1994 to and including April 1, 1998, the sum of $811.00 per month with a credit for the $500.00 per month paid by the Respondent during that period for a total due of $13,684.00.
+
+. . . . .
+
+7. It is deemed that the commencement date of this Order is May 1, 1997.
+
+8. The Respondent shall pay to the Applicant for ongoing child support commencing the 1st day of May, 1998, and continuing for 16 months thereafter, the following:
+
+a. $811.00 per month;
+
+. . . . .
+
+[6] In his Reasons for Judgment,[3] Marceau J. considered, among other things, the Federal Child Support Guidelines of May 1, 1997, retroactive maintenance, and written argument submitted to him on the tax consequences of his judgment.
+
+[7] The support amount that may be deducted by a taxpayer in computing income in a taxation year is determined by the formula set out in paragraph 60(b) of the Act. However, the amount deductible by a taxpayer in computing income is reduced by child support amounts:
+
+that became payable by a taxpayer to a person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day.
+
+[8] Subsection 56.1(4) contains the relevant definitions which also apply to section 60 pursuant to subsection 60.1(4). "Commencement day" at any time in an agreement or order means:
+
+(a) where the agreement or order is made after April 1997, the day it is made; and
+
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+
+[9] In his judgment of April 17, 1998, Marceau J. deemed the commencement date of his order to be May 1, 1997, the day the new regime of child support payments took effect. It is clear that the intent of Marceau J. was that Mr. Collins not be permitted to deduct the amounts he paid to Mrs. Collins for child support after April 1997 and that Mrs. Collins not be required to include these amounts in her income. However, subject to paragraph 60(b), the amounts Mr. Collins paid to Mrs. Collins in January, February, March and April 1997 may be deductible by him.
+
+[10] There is no question that in recent years the courts have made retroactive orders for payments of child support that have affected the taxability of the payer and payee. For example, in LeGroulx v. R.,[4] the appellant was ordered in 1995 to pay increased child support for her two children effective December 1, 1992. These amounts were paid in 1995 and the Minister disallowed her corresponding deduction for the said amounts. The issue was whether the 1995 court order was made nunc pro tunc (now for then). In that case, Rule 59.01 of the Ontario Rules of Civil Procedure[5]permitted a court to insert a date in an order other than the date on which it is made. In LeGroulx, the distinguishing feature was that the court was permitted to make a retroactive order and this court relied on paragraph 17(1)(a) of the Divorce Act to permit the deduction.
+
+[11] In The Queen v. Larsson,[6] the Federal Court of Appeal found that a court order providing that the mortgage payments made in earlier years were made pursuant to subsections 56.1(2) and 60.1(2) of the Act was made nunc pro tunc. McDonald J.A. stated at page 5428 that:
+
+. . . While one must assume that a court order is effective from the date on which it is entered, it is equally reasonable to assume that when courts make orders, those orders are intended to be of some force or effect at the time they are made. In the case at bar, the fourth order specifically contemplates the nature of mortgage payments made since 1989 by the taxpayer. At the time the fourth order was made in 1993, though, the matrimonial home had been sold and no more mortgage payments would be made by the taxpayer. It is clear on these facts that if the fourth order were not intended to be of retroactive effect, it would be moot. This is at least an indicator of retroactivity, and may even defeat the presumption against retroactivity.
+
+In my view, it would be perverse to interpret a court's ruling in such a way as to render it moot from its inception. In the case at bar, if the fourth order is not interpreted retroactively, it is of no force or effect from the day it was entered. In such a situation, I can see no other reasonable interpretation than to assume that the British Columbia Supreme Court intended the fourth order to have been made nunc pro tunc.
+
+[12] Rule 322 of the Alberta Rules of Court[7] permits the court to insert a retroactive date on which a judgment or order may take effect. The Court of Queen's Bench of Alberta also has the power pursuant to subsection 17(1) of the Divorce Act to vary, rescind or suspend, prospectively or retroactively, a support order. Clearly, the Alberta court has the discretion to do what it did.[8]
+
+[13] In paragraph 56.1(4)(b) of the Act the "order" that was made before May 1997 is the decree nisi of July 25, 1983 and the order of April 17, 1998 is the variation of the decree nisi. The May 1, 1997 date specified in the variation of the decree nisi as the commencement day, as defined in paragraph 56.1(4)(b), is the earliest of all the possible commencement days specified in subparagraphs 56.1(4)(b)(i) to (iv), inclusive. The "commencement day" on the facts at bar is May 1, 1997, the date specified in Marceau J.'s judgment of April 17, 1998.
+
+[14] The words "commencement day" do not determine the coming into effect of a judgment or order. The jurisprudence referred to earlier is not of any great assistance in considering this appeal other that it confirms that retroactivity is a fact of life and is now well established in income tax law, and this with respect to both the legislation and the jurisprudence. The power of a court to provide for a "commencement day" stems from the Act itself and not from the rules of a court. An agreement may have a "commencement day" different from the day the agreement is made. The definition of "commencement day" clearly contemplates that an agreement or order can specify the commencement day. Logically, this date could only be retroactive in view of the words "is the earliest of" in paragraph 56.1(4)(b). Otherwise, for example, subparagraph (iv) of subsection 56.1(4) would have virtually no meaning. The French version of "commencement day", "date d'exécution" is just as clear and subparagraph (iv) thereof refers to: "le jour précisé dans l'accord ou l'ordonnance".
+
+[15] The appellant's arguments that the payments made by him in 1997 and up to April 1, 1998 were paid pursuant to an order of 1983 cannot stand. The new child support scheme in the Act provides the formula for inclusion/deduction of amounts. The appellant's argument only takes a portion of the formula into account. Paragraph 60(b) provides for the amount that may be deducted, if any. The parties agreed that with respect to 1998 no amount should be deductible by Mr. Collins, even if he were successful in his appeal from the 1998 assessment. With respect to 1997, the formula set out in paragraph 60(b) apparently permits Mr. Collins to deduct the amount of $2,000, representing the amounts paid before the "commencement day", that is, in the months of January, February, March and April 1997.
+
+[16] The appeal for 1997 is allowed only to permit Mr. Collins to deduct an amount in computing his income for the year as determined by the formula in paragraph 60(b). The "commencement date" is May 1, 1997. The appeal from the assessment for the 1998 taxation year is dismissed.
+
+Signed at Ottawa, Canada, this 16th day of August 2001.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-4203(IT)I
+
+STYLE OF CAUSE: Alan R. Collins and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Edmonton, Alberta
+
+DATE OF HEARING: May 7, 2001
+
+AMENDED REASONS FOR JUDGMENT BY: The Hon. Judge Gerald J. Rip
+
+DATE OF AMENDED JUDGMENT: August 16, 2001
+
+APPEARANCES:
+
+For the appellant: The appellant himself
+
+Counsel for the respondent: Gwen Mah
+
+
+
+COUNSEL OF RECORD:
+
+For the appellant:
+
+Name:
+
+Firm:
+
+For the respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-4203(IT)I
+
+BETWEEN:
+
+ALAN R. COLLINS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on May 7, 2001, at Edmondon, Alberta, by
+
+the Honourable Judge Gerald J. Rip
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Gwen Mah
+
+AMENDED Judgment
+
+This judgment is issued in substitution for the judgment signed on June 1, 2001.
+
+The appeal from the assessment made under the Income Tax Act ("Act") for the 1997 taxation year is allowed, without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is permitted to deduct amounts as support amounts in computing his income for the year as determined by the formula in paragraph 60(b) of the Act.
+
+The appeal from the assessment made under the Act for the 1998 taxation years is dismissed.
+
+Signed at Ottawa, Canada, this 16th day of August 2001.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+[1] [1995] 1 C.T.C. 382.
+
+[2] R.S.C. 1985, (2nd Supp.) c.3.
+
+[3] Collins v. Collins, (1999) 221 A.R. 111.
+
+[4] [1999] 1 C.T.C. 2833 (T.C.C.).
+
+[5] R.R.O. 1990, Regulation 194.
+
+[6] 97 DTC 5425 (F.C.A.). See also Howard v. The Queen, 74 DTC 6607 (F.C.T.D.).
+
+[7] Alta. Reg. 390/68, Rule 322 provides that:
+
+Every judgment or order shall be dated as of the day on which it is pronounced and takes effect from that date unless otherwise directed, or by leave of the court, may be ante-dated or post-dated.
+
+[8] It should be pointed out that the Federal Child support guidelines were proclaimed on May 1, 1997. These, as well as the new rules for child support were discussed in a government publication The New Child Support Package dated March 6, 1996 at which it was stated, at page 8, that: "The new tax rules do not take effect until May 1, 1997 to allow time to enact federal child support guidelines, and to prepare for an expected increase in applications to change existing orders to conform to the new child support rules. The new tax rules will apply to all new orders or agreements made on or after May 1, 1997 . . ."
+

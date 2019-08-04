@@ -1,0 +1,168 @@
+Date: 19980515
+
+Docket: 96-4072-IT-G
+
+BETWEEN:
+
+A. & M. JOHNSON CONTRACTING LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan, J.T.C.C.
+
+[1] The only issue in this appeal is the interpretation and application of subsection 152(6) of the Income Tax Act. The parties filed an Agreed Statement of Facts which is set out in its entirety as follows:
+
+The Appellant and the Respondent agree to the following facts for the purpose solely of the trial of this action, and further agree that neither party may offer evidence which is inconsistent with this Statement, but that either may offer evidence in addition to and consistent with this Statement:
+
+1. The Alberta address of the Appellant, A.M. Johnson Contracting Ltd., is 1205,736 - 6th Avenue S.W., Calgary, Alberta, T2P 3T7, and the Appellant’s corporate account number for its taxation year ending November 8, 1995 was 7980-3821.
+
+2. The Appellant is appealing an assessment dated April 12, 1996 in respect of its tax year ending November 8, 1995 (the “Assessment”). A Notice of Objection was filed by the Appellant in respect of the Assessment with the Chief of Appeals at the Tax Centre located in Surrey, B.C. on June 18, 1996. The Assessment was subsequently confirmed by registered mail on July 26, 1996.
+
+3. On November 11, 1995, the Appellant filed a tax return for its taxation year ending November 11, 1995 in which it claimed a loss for tax purposes of $20,515,178. The Appellant also filed that same day a form T2A-Loss Carry-Back Request requesting that a loss of $4,251,861 be carried back to the taxation year ending November 8, 1995. The effect of such a loss carry back reduces the Appellant’s taxable income for that year to nil.
+
+4. There has been no assessment issued by the Minister of National Revenue (the “Minister”) with respect to the Appellant’s tax year ending November 11, 1995 indicating that the loss claimed by the Appellant for that year has been disallowed, or allowing the loss.
+
+5. The issues of the validity or amount of the loss claimed by the Appellant in its return filed November 11, 1995, do not form part of this appeal and are therefore not in issue. Neither party makes any admission with respect to these issues.
+
+There were no witnesses but the parties filed a binder containing the following six agreed trial exhibits:
+
+Exhibit
+
+Description
+
+Date
+
+1.
+
+T2 Income Tax Return of Appellant for taxation year ended November 8, 1995 showing taxable income of $4,251,861
+
+November 8, 1995
+
+2.
+
+T2 Income Tax Return of Appellant for taxation year ended November 11, 1995 showing a loss of $20,515,178
+
+November 11, 1995
+
+3.
+
+Request for Loss Carry-back
+
+November 11, 1995
+
+4.
+
+Notice of Assessment for taxation year ended November 8, 1995
+
+April 12, 1996
+
+5.
+
+Notice of Objection
+
+June 10, 1996
+
+6.
+
+Notice of Confirmation
+
+July 26, 1996
+
+[2] The “loss for tax purposes of $20,515,178” referred to in paragraph 3 of the Agreed Statement of Facts (“ASF”) was a “non-capital loss” within the meaning of paragraph 111(8)(b) of the Act. Accordingly, that loss may be carried back three years and carried forward seven years under paragraph 111(1)(a).
+
+[3] The Appellant claims that, under subsection 152(6), it is entitled to have its tax return for the taxation year ending November 8, 1995 reassessed; and that its taxable income for that taxation year should be reduced to nil. Expressing this claim in different language with respect to the relevant amounts, the Appellant claims that the Minister of National Revenue is required to reassess its taxation year ending November 8, 1995 in order to carry back a portion ($4,251,861) of the non-capital loss ($20,515,178) from a subsequent taxation year so that the Appellant’s taxable income for its taxation year ending November 8, 1995 will be nil. The Respondent claims that subsection 152(6) does not place any such requirement on the Minister. Subsection 152(6) states:
+
+152(6) Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by the taxpayer or on the taxpayer's behalf for the year as
+
+(a) ...
+
+(c) a deduction under section 118.1 in respect of a gift made in a subsequent taxation year or under section 111 in respect of a loss for a subsequent taxation year,
+
+(h) ...
+
+by filing with the Minister, on or before the day on or before which the taxpayer is, or would be if a tax under this Part were payable by the taxpayer for that subsequent taxation year, required by section 150 to file a return of income for that subsequent taxation year, a prescribed form amending the return, the Minister shall reassess the taxpayer's tax for any relevant taxation year (other than a taxation year preceding the particular taxation year) in order to take into account the deduction claimed.
+
+[4] According to paragraph 3 of the ASF, both the tax return for November 11, 1995 and the prescribed form T2A (request for loss carry-back) were filed on November 11, 1995. In other words, they were within the time limits in subsection 152(6). Also, with respect to paragraph 152(6)(c), the Appellant claims no deduction under section 118.1 but only a deduction under section 111. Therefore, in the circumstances of this appeal, the relevant words of subsection 152(6) may be rendered down as follows:
+
+152(6) Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by the taxpayer ... for the year as
+
+(a) ...
+
+(c) a deduction ... under section 111 in respect of a loss for a subsequent taxation year,
+
+(h) ...
+
+by filing with the Minister ... a prescribed form amending the return, the Minister shall reassess the taxpayer's tax for any relevant taxation year ... in order to take into account the deduction claimed.
+
+[5] The opening words of subsection 152(6) provide for the situation where “an amount is subsequently claimed” by a taxpayer for a particular taxation year after the return for that year has been filed. Each paragraph in subsection 152(6) contains the phrase “subsequent taxation year” and refers to a specific “deduction” under a specific section. The closing words after paragraph 152(6)(h) require the Minister to do something if a “prescribed form” has been filed within a certain time limit. In this appeal, the prescribed form was filed in time. Subsection 152(6) seems to impose some obligation on the Minister because the operative clause begins with the words “the Minister shall reassess ... ”. In order to understand the obligation imposed on the Minister, it is necessary to read the words in total context not only within subsection 152(6) but also within section 152. The operative clause in subsection 152(6) states:
+
+... the Minister shall reassess the taxpayer’s tax for any relevant taxation year in order to take into account the deduction claimed.
+
+[6] Having regard to the opening words of subsection 152(6) which provide for an amount “subsequently claimed” for a particular year after the return for that year has been filed, the Appellant argues that it is not necessary for the Minister to assess tax for the subsequent year (November 11, 1995) or to review or audit the subsequent year. It is only necessary for the Minister to reassess the prior year (November 8, 1995) in order to take into account (i.e. to allow) the deduction claimed. In my opinion, this argument is too simplistic and cannot succeed for a number of reasons. First, recent cases interpreting subsection 152(6) are against the Appellant. Second, subsection 152(7) states that the Minister is not bound by any information supplied by a taxpayer. And third, the interpretation sought by the Appellant would produce an unreasonable, and perhaps absurd, result. These three reasons are explained in a lucid manner by Rothstein J. of the Federal Court Trial Division in Greene v. M.N.R., 95 DTC 5078.
+
+[7] The Greene case is similar to this appeal because Mr. Greene reported a large loss in 1988 and was attempting to carry back portions of that loss to 1985, 1986 and 1987. Although the Minister had reassessed 1988 to disallow the reported loss, Mr. Greene went to the Federal Court Trial Division seeking a number of declarations the substance of which would require the Minister to reassess 1985, 1986 and 1987 to allow the loss carry-back as claimed. Mr. Greene was specifically relying on subsection 152(6). I adopt the following analysis of Rothstein J. commencing at page 5081:
+
+At first blush it seemed to me that the words "shall reassess the taxpayer's tax for any relevant taxation year ... in order to take into account the deduction claimed" in subsection 152(6) meant the Minister must allow the deduction claimed. However, upon considering the interpretation given to the words "take into account" in the jurisprudence, and the scheme of section 152 and of reassessments under the Act generally, I have concluded that the words "take into account" in subsection 152(6) mean only that the Minister must consider the deduction claimed and reassess by allowing such portions of the deduction claimed, if any, as he considers appropriate.
+
+I turn first to Finlay v. Canada (Minister of Finance), [1990] 2 F.C. 790 (C.A.) in which MacGuigan, J.A. deals with the term "takes into account". At page 811 he observes that the words "takes into account" can mean either to "consider" or to "meet". He notes that when a person takes something into account, the predominant meaning may well be "to consider" as opposed to "to meet" or "to fulfil":
+
+The verbal phrase "takes into account" is, however, one that requires exact definition, since it can mean either "consider" or "meet".
+
+...
+
+A person may certainly take something into account without entirely adopting it. As used with a person, mere consideration may well be the predominant meaning.
+
+In subsection 152(6), it is the Minister who is to reassess the taxpayer's tax in order to take into account the deduction claimed. The words "to take into account" are used in relation to the reassessment which the Minister performs. Following the dictum of MacGuigan, J.A. in Finlay, because the words are used with reference to a person, "to take into account" in subsection 152(6) may well mean "to consider". Whether they do, or whether they mean "to allow", depends, of course, on the context and the scheme of the Act.
+
+I next turn to section 152. Section 152 deals with assessments. Subsection 152(6), in general terms, deals with reassessments of prior years' tax arising out of events occurring in a subsequent year. The Minister is obliged to reassess tax for those prior years.
+
+Subsection 152(7) provides:
+
+152(7) The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+
+The document to be filed by the taxpayer under subsection 152(6) is a prescribed form amending the return of the earlier year. Subsection 152(7) indicates that regardless of a return or information filed by a taxpayer, the Minister is not bound to accept the return or information in assessing the taxpayer. He may assess the tax payable that he considers appropriate in accordance with the Act. The document filed under subsection 152(6), claiming the deduction for the years 1985, 1986 and 1987, is a return or information that is referred to in subsection 152(7). It follows that the Minister is not bound to reassess by allowing the deduction claimed.
+
+Any other interpretation, it seems to me, could lead to illogical results. If the applicant were correct, the taxpayer, under subsection 152(6), could file the prescribed form claiming an outrageous deduction not supported by any relevant information and the Minister would be obliged to reassess by allowing the deduction claimed. This could not have been the intention of Parliament in using the words "to take into account the deduction claimed" in subsection 152(6). Indeed, subsection 152(7) makes it clear that the Minister is not so bound.
+
+Moreover, I think the scheme of reassessment under the Act favours the respondent's position. In general terms, under section 152, the Minister is not bound to allow any deduction claimed by a taxpayer, but rather, he may consider it and if appropriate, allow or disallow it. Further, the Minister may reassess a taxpayer's tax any time up to three years after the date a notice of assessment is issued. The general scheme of the Act is to permit the Minister to reassess at any time within the relevant limitation period. Within that period, he is not bound by the return or information submitted by a taxpayer. It would be inconsistent with the scheme of reassessment under the Act to interpret subsection 152(6) as requiring the Minister to allow any deduction claimed by a tax payer irrespective of the Minister's view as to its appropriateness.
+
+And at page 5082:
+
+The only basis for the applicant's argument is that the words "to take into account" must mean "to allow". As I have indicated, this is not the only interpretation of these words, and having regard to the context of section 152 of the Act, and for the scheme of reassessment under the Act generally, an interpretation of the words "to take into account" as meaning "to consider" would be the most reasonable.
+
+An appeal by Mr. Greene to the Federal Court of Appeal was dismissed by a unanimous Court with very short oral reasons for judgment: 95 DTC 5684.
+
+[8] Counsel for the Appellant attempted to distinguish the decision in Greene on the basis that the Minister, in Greene, had reassessed the subsequent year (1988) to disallow the loss whereas, in this appeal, it is clear from paragraph 4 of the ASF that no assessment has been issued by the Minister with respect to the Appellant’s taxation year ending November 11, 1995 (the subsequent year). Exhibits 4 and 6 are the notice of assessment for the prior year (November 8, 1995) and the confirmation of that assessment. There is no indication in Exhibit 4 or Exhibit 6 that the Minister considered the Appellant’s request for a loss carry-back (Exhibit 3). This appeal, however, is against the assessment for the prior year (November 8, 1995) and the Appellant could have claimed that it was entitled to deduct, under paragraph 111(1)(a), a portion of the loss from a subsequent year in computing its taxable income for the prior year. Such a claim would have put in dispute whether there was a loss in the subsequent year and the amount of such loss.
+
+[9] For whatever reason, the Appellant did not choose to claim its right to a deduction under paragraph 111(1)(a). Indeed, paragraph 5 of the ASF states that the validity or amount of the loss claimed in the subsequent year “do not form part of this appeal and are therefore not in issue”. Instead, the Appellant claims that the Minister is required to reassess the prior years in order to allow the deduction of the loss as claimed. In my opinion, the Appellant made a bad choice with respect to its potential rights in any appeal under the Income Tax Act for the prior year.
+
+[10] If the Appellant had chosen to claim its right to a deduction under paragraph 111(1)(a), I could have determined whether there was a loss in the subsequent year; the amount of such loss; and whether such loss was adequate to reduce the income of the prior year to nil. In summary, I could have issued a judgment possibly granting relief under paragraph 171(1)(b) of the Act. Such a judgment is clearly within the jurisdiction of this Court.
+
+[11] What the Appellant really seeks is an order of mandamus requiring the Minister to allow the deduction of the claimed loss carry-back in the prior year without any determination by the Minister or this Court as to whether there is a loss in the subsequent year. This Court does not have jurisdiction to grant an order of mandamus. And even if I had such jurisdiction, I am not certain that an order of mandamus could be made against the Minister in the circumstances of this appeal. In Lipsey v. M.N.R. et al, 85 DTC 5080, Strayer J. (as he then was) made the following statement at page 5083:
+
+... I must then consider whether the relief sought in paragraph 7 should be available. It is all predicated on this Court directing the delivery of a valid notice of assessment for the year 1980. Counsel was unable to refer me to any authority that this Court has to direct the issue of a notice of assessment, nor did he establish a statutory basis for such a duty in the Minister to issue an assessment as might be enforceable by mandamus. I assume that such duty as there is arises under subsection 152(1) of the Income Tax Act which provides:
+
+(1) The Minister shall, with all due dispatch, examine a taxpayer's return of income for a taxation year, assess the tax for the year, the interest and penalties, if any, payable. ...
+
+Subsection 152(2) provides:
+
+(2) After examination of a return, the Minister shall send a notice of assessment to the person by whom the return was filed.
+
+Presumably the question of sending a notice under subsection (2) does not arise until the assessment has been completed under subsection (1) which according to that subsection is to be effected "with all due dispatch". This phrase was considered by Fournier J. in Joseph Baptiste Wilfrid Jolicoeur v. The Minister of National Revenue, [1961] Ex. Cr. 85 [60 DTC 1254] at 98 where he said that these words "have the same meaning as ‘with all due diligence’ or ‘within a reasonable time’". I respectfully agree with this interpretation. To issue mandamus the Court must be satisfied that all the conditions have been met for the exercise of the power, and that in the circumstances the official in question has no discretionary power to delay or to refuse taking the step which is sought to be ordered by mandamus. It seems doubtful that a judge could ever be in that position vis-à-vis the issuance of a notice of assessment. If it were possible, the present case is not one in which the Court can be satisfied that an unconditional obligation now exists on the part of the Minister to issue a notice of assessment for 1980. The words "with all due dispatch" invoke a test of reasonability and the evidence does not demonstrate to me that any further delay in issuing this notice of assessment is utterly unreasonable. ...
+
+[12] This appeal was instituted on October 18, 1996 and heard at Calgary on March 31, 1998. Even as I decide this appeal in May 1998, it is still only two and one-half years since the income tax return for the subsequent year was filed. There is no evidence of unreasonable delay on the part of the Minister. As stated above, the Appellant could have chosen to put in dispute its right, under paragraph 111(1)(a), to deduct a loss from a subsequent year when computing its taxable income for the prior year, and I could have decided that dispute possibly granting some relief to the Appellant. Instead, the Appellant has chosen to pursue a claim in which it is not entitled to any relief at all. The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 15th day of May, 1998.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

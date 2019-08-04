@@ -1,0 +1,232 @@
+Date: 20011003
+
+Docket: 98-2519-IT-G
+
+BETWEEN:
+
+KENNETH WAYNE JAMES,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Order
+
+Bowman, A.C.J.
+
+[1] This is a review sought by the respondent of a taxation of costs made by the taxing officer in Vancouver, Mr. Reeve.
+
+[2] The appeal was heard in Victoria, British Columbia. The sole issue was the correctness of the inclusion in the appellant's income of $78,581 as a taxable dividend, subject to a dividend tax credit of $10,477. The taxable dividend of $78,581 was based on a deemed dividend of $62,865, regarded by the Minister as an amount distributed to the appellant on the winding up of the appellant's company's business under subsection 84(2) of the Income Tax Act.
+
+[3] The appellant appealed to this court. He did not elect the informal procedure and so the appeal was heard under the Tax Court of Canada Rules (General Procedure). He paid a filing fee of $400 on the basis that the appeal was a class B proceeding.
+
+[4] Tariff A of Schedule II to the Rules reads in part:
+
+TARIFF OF FEES
+
+Classes Of Proceedings
+
+1. Subject to section 1.1, for purposes of this Tariff and Tariff B, there are three classes of proceedings as follows:
+
+(a) Class A proceedings which include
+
+(i) appeals in which the aggregate of all amounts in issue is less than $50,000, and
+
+(ii) appeals in which a loss has been determined under subsection 152(1.1) of the Income Tax Act and the amount that is in issue is less than $100,000; and
+
+(b) Class B proceedings which include
+
+(i) appeals in which the aggregate of all amounts in issue is $50,000 or more but less than $150,000,
+
+(ii) appeals in which a loss has been determined under subsection 152(1.1) of the Income Tax Act and the amount that is in issue is $100,000 or more but less than $300,000,
+
+(iii) a reference under section 173 or 174 of the Income Tax Act, and
+
+(iv) any proceeding not otherwise specifically provided for under this section; and
+
+(c) Class C proceedings which include
+
+(i) appeals in which the aggregate of all amounts in issue is $150,000, or more, and
+
+(ii) appeals in which a loss has been determined under subsection 152(1.1) of the Income Tax Act and the amount that is in issue is $300,000 or more.
+
+...
+
+Court Fees
+
+2. (1) The following fees shall be paid to the Registry by the party who commences a proceeding, at the time of commencement of the proceeding:
+
+(a) in the case of a Class A proceeding — $250;
+
+(b) in the case of a Class B proceeding — $400; and
+
+(c) in the case of a Class C proceeding — $550.
+
+[5] Section 2.1 of the Tax Court of Canada Act reads:
+
+2.1 For the purposes of this Act, "the aggregate of all amounts" means the total of all amounts assessed or determined by the Minister of National Revenue under the Income Tax Act, but does not include any amount of interest or any amount of loss determined by that Minister.
+
+[6] Sections 15 and 16 of the Interpretation Act read:
+
+15.(1) Definitions or rules of interpretation in an enactment apply to all of the provisions of the enactment, including the provisions that contain those definitions or rules of interpretation.
+
+(2) Where an enactment contains an interpretation section or provision, it shall be read and construed
+
+(a) as being applicable only if a contrary intention does not appear; and
+
+(b) as being applicable to all other enactments relating to the same subject-matter unless a contrary intention appears.
+
+16. Where an enactment confers power to make regulations, expressions used in the regulations have the same respective meanings as in the enactment conferring the power.
+
+[7] "Enactment" is defined in section 2(1) of the Interpretation Act as
+
+"enactment" means an Act or regulation or any portion of an Act or regulation.
+
+[8] It is obvious that the words in Tariff A "the aggregate of all amounts in issue" have the same meaning as in section 2.1 of the Tax Court of Canada Act i.e. the tax and penalties, but not the interest and not the income upon which the tax is based. The Minister assesses tax, not income. This is consistent with the view expressed by Christie A.C.J. in H. Dekker v. Canada, [1993] 2 C.T.C. 3115. In looking at the English version of the section, I thought the matter was clear. However, the waters are muddied by the French version, which reads:
+
+2.1 Pour l'application de la présente loi, " total de tous les montants " s'entend du total de tous les montants déterminés par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu ou à l'égard desquels il a établi une cotisation, à l'exception toutefois des intérêts ou des pertes déterminés par ce ministre.
+
+[9] "Les montants déterminés par le ministre ..." could well refer to the income. The words "ou à l'égard desquels il a établi une cotisation ..." may refer to the income. It is very arguable that the Minister issues an assessment of tax "à l'égard d'un montant de revenu ..." (in respect of an amount of income). Nonetheless, the result that is more consistent with the object of the provision is that the phrase means the tax assessed, not the income. This conclusion is justified by the reference to interest, which would be meaningless if "amount" meant income.
+
+[10] The taxing officer concluded that he did not need to consider whether he had the authority to change the class of the proceeding because the amount in issue was $78,581.
+
+[11] At paragraph [14] of the reasons the taxing officer stated:
+
+The class of an appeal instituted in the Tax Court is not determined by the amount of tax assessed but rather the aggregate of all amounts that were in issue in the Minister's assessment. From an examination of the Notice of Appeal, the Reply and the Agreement as to Certain Facts, the Minister, in assessing the Appellant's 1993 income, included a taxable amount of $78,581 and this is an amount that was in issue. The aggregate of all amounts in issue placed it within the class as filed. Since the aggregate of all amounts in issue was over $50,000 and the appeal was instituted under a Class B, there is no need to decide whether I have the authority to change the class of the proceeding.
+
+[12] With respect, I think the amount in issue for the purposes of Tariff A of Schedule II of the Rules is the tax (and penalties if any) assessed, but excluding interest.
+
+[13] This does not however end the matter. I think the appellant erroneously filed the appeal as a class B proceeding. It should have been class A. The appellant knows how much tax is in issue, as does the Minister. The registry of the court does not at the time of filing know the amount in issue and the matter may not be clear from the notice of appeal. Indeed, unless the assessment is put in evidence neither does the judge hearing the case.
+
+[14] According to the Federal Court of Appeal in Gernhart v. The Queen, 99 DTC 5749, the assessment and other documents cannot be transmitted to the court because to do so is an "unreasonable seizure". Accordingly there is no way that a registry officer of this court can determine what amount is in issue. In any events even if subsection 176(1) of the Income Tax Act had not been struck down as contrary to section 8 of the Charter the documents would not be in the registry of the court at the time of filing. It is therefore unrealistic to expect a registry officer to determine the amount of tax in issue from the notice of appeal.
+
+[15] The question that remains is whether at the time costs are taxed the taxing officer can change the class of proceeding. The appellant relies upon the decision of the Federal Court of Appeal in The Queen v. The Capitol Life Insurance Co. (No. 1), [1988] 2 C.T.C. 101. That was an appeal from the Trial Division of the Federal Court which upheld a classification by the taxing officer of a proceeding as a class III rather than a class II action. Lacombe J. in the Federal Court of Appeal said at pages 104-105:
+
+Classes of actions must be determined at the outset when proceedings are instituted, since fees are required to be paid to the Registry, under subsection 2(1)(a) of Tariff A by the party who commences a proceeding in the Trial Division at the time of commencement. The fees vary according to the class of the proceedings. This cannot be left to conjectures but must be readily ascertained from the pleadings themselves whether it be the statement of claim, a counter-claim, a cross-demand or a third party notice, and not from an exhibit and any other document requiring to be ruled upon by the court. To exclude the application of paragraph 1(3)(b), it suffices that some monetary relief for a precise amount be prayed for in the pleadings. On the other hand, if there is no prayer for any monetary relief, the proceeding cannot be classified otherwise than as a Class II action. The expression: "in which there is an amount involved on the face of the proceedings", found in paragraph 1(3)(a) and (c) must therefore be meant to read: "in which judgment is sought for payment of an amount that is less than $5,000 (paragraph (a)) or that is $5,000 or more and less than $50,000 (paragraph (c))". Paragraph 1(3)(d) is a basket clause for cases not otherwise provided for like those "involving" $50,000 or more.
+
+[16] This statement must be read in the context of the Federal Court tariff which differed significantly from that of this court. Subsection 1(3) of Tariff A of the Federal Court Rules read at the time of this decision (it has since been modified):
+
+1.(3) Unless the Court otherwise directs in respect of a particular step in a proceeding, or in respect of all steps in a particular proceeding,
+
+(a) where a step is a step in a proceeding other than a proceeding to which paragraph (b) applies in which there is an amount involved on the face of the proceedings that is less than $5,000, it shall be classified as a Class I step;
+
+(b) where a step is a step in a proceeding that is, or was in its inception, an appeal to the Trial Division or any other proceeding in the Trial Division where no judgment is being sought for payment of an ascertained amount, it shall be classified as a Class II step;
+
+(c) where a step is a step in a proceeding in which there is an amount involved on the face of the proceedings that is $5,000 or more and less than $50,000, it shall be classified as a Class II step;
+
+(d) where a step is a step in a proceeding not otherwise covered by this paragraph, it shall be classified as a Class III step.
+
+[17] Quite apart from the difference in the wording of the tariffs under the rules of the two courts, I do not read the words in the judgment of Lacombe J. "Classes of actions must be determined at the outset when proceedings are instituted ..." to mean that, at least in this court, such a determination is immutable. A taxpayer may make a mistake in determining the class and the mistake may not be obvious to the registry officer who receives the appeal. While in the ordinary course a registry officer who sees an obvious misclassification will probably bring the mistake to an appellant's attention, it is not the responsibility of the registry of the court to verify the correctness of the class of proceeding. That is the responsibility of the taxpayer or the taxpayer's representative. If a mistake is made and the wrong filing fee paid it does not invalidate the proceeding. If an excessive fee is paid I doubt that there is any mechanism whereby the excess can be repaid since that would involve a payment out of the Consolidated Revenue Fund. If however an appellant is successful the amount paid can be recovered on the taxation of costs. If too low a fee is paid, for example if a class A fee is paid when it should have been a class B fee, the court could ask for the additional fee.[1] These are, however, details that are not germane to the point that needs to be decided here, whether the taxing officer can reclassify, on the taxation of costs, a misclassified proceeding. There is no reason, as a matter of principle, logic or common sense why he or she cannot do so.
+
+[18] Counsel for the respondent also alleged in his written argument that the taxing officer taxed the wrong bill of costs. Evidently he reproduced in his reasons a bill for $8,347.32 although the bill attached to the appointment for taxation was for $7,919.82. The difference seems to be that counsel for the appellant, before Mr. Reeve, produced a bill with an additional $375 for "further examination for discovery" plus some additional GST and SST on the additional fees. There is no reason why a party cannot file an amended bill of costs before the taxing officer. Mr. Reeve taxed off the two items of $375 claimed for considering the notice to admit.
+
+[19] Mr. Brown argued that there should be a separate tariff item to compensate someone for considering or preparing a notice to admit. Unfortunately no existing tariff item does so and I agree that Mr. Reeve as taxing officer has no discretion to allow such an amount. Under section 147 of the Rules the court has a broad discretionary power to award costs and under that discretionary power I am directing that the fee for preparation for hearing should be increased by $350.
+
+[20] The appellant also claimed $20 and $35 for a company office search and certificate relating to the dissolution of his company. These disbursements should have been allowed.
+
+[21] The motion is allowed and the taxation is referred back to the taxing officer in Vancouver:
+
+(a) to determine the proper class of proceeding and tax the bill accordingly;
+
+(b) to allow the disbursement of $55 in respect of the company's office search and certificate; and
+
+(c) to allow an additional $350 under the tariff item relating to preparation for hearing.
+
+[22] I make no order for the costs of this motion.
+
+Signed at Ottawa, Canada, this 3rd day of October 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 98-2519(IT)G
+
+STYLE OF CAUSE: Between Kenneth Wayne James and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Conference call
+
+DATE OF HEARING: September 5, 2001
+
+REASONS FOR ORDER BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF ORDER: October 3, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: David Brown, Esq.
+
+Counsel for the Respondent: Carl Januszczak, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: David Brown, Esq.
+
+Firm: David Brown
+
+Gabriola, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+98-2519((IT)G
+
+BETWEEN:
+
+KENNETH WAYNE JAMES,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Motion heard by way of telephone conference call on September 5, 2001, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: David Brown, Esq.
+
+Counsel for the Respondent: Carl Januszczak, Esq.
+
+ORDER
+
+It is ordered that the respondent's motion for a review of the taxation of costs be allowed and the taxation be referred back to the taxing officer in Vancouver:
+
+(a) to determine the proper class of proceeding and tax the bill accordingly;
+
+(b) to allow the disbursement of $55 in respect of the company's office search and certificate; and
+
+.../2
+
+(c) to allow an additional $350 under the tariff item relating to preparation for hearing.
+
+There will be no order for the costs of this motion.
+
+Signed at Ottawa, Canada, this 3rd day of October 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+[1] I am aware that there may be problems with this conclusion. If an appellant files an appeal as a class A proceeding and it turns out that it should have been class B, can the successful party claim the costs of a class B proceeding? I do not know the answer to this question. It is not relevant to this decision. We will have to cross that bridge when we get to it. Sufficient unto the day ...
+

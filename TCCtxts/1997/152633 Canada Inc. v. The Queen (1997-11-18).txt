@@ -1,0 +1,140 @@
+Date: 19971118
+
+Docket: 95-3575-GST-G
+
+BETWEEN:
+
+152633 CANADA INC. / SAKO AUTO LEASING,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] This is an appeal from an assessment of Goods and Services Tax made under the Excise Tax Act whereby the Minister of National Revenue denied the appellant’s claim for a notional input tax credit under paragraph 120(3)(b) and subsection 176(1) of the Excise Tax Act in the amount of $20,303.
+
+[2] The claim is in respect of vehicles owned by the appellant on January 31, 1991.
+
+[3] Subsection 120(3) of the Act reads:
+
+120(3) Rebate of sales tax — Subject to this section, where a person who, as of January 1, 1991, is registered under Subdivision d of Division V of Part IX has any tax-paid goods in inventory at the beginning of that day,
+
+(a) where the tax-paid goods are goods other than used goods, the Minister shall, on application made by the person, pay to that person a rebate in accordance with subsections (5) and (8); and
+
+(b) where the tax-paid goods are used goods, the goods shall be deemed, for the purposes of section 176, to be used tangible personal property supplied in Canada by way of sale on January 1, 1991 to the person in respect of which tax was not payable by the person and to have been acquired for the purpose of supply in the course of commercial activities of the person for consideration paid on that day equal to 50% of the amount at which the goods would be required to be valued on that date for the purpose of computing the person’s income from a business for the purposes of the Income Tax Act.
+
+[4] The vehicles in question are used vehicles and accordingly the claim is made under paragraph (b) of subsection 120(3).
+
+[5] The sole question is whether the vehicles were in “inventory” at the beginning of January 1, 1991, as that word is used in the opening portion of subsection 120(3).
+
+[6] The appellant’s principal business is the long term leasing of automobiles. It also rents cars, on a short term basis. Paragraph 5 of the notice of appeal is admitted by the respondent:
+
+5. The Appellant is primarily in the long term car leasing business. However, part of the Appellant’s business also involves short term car rental and selling new and used vehicles.
+
+[7] Such an admission is binding on the respondent. However, the evidence was quite clear that the appellant did not acquire new cars for the purposes of immediate resale. The witness, Mr. Korsos stated in answer to a question that I put to him:
+
+... we cannot sell new cars to the market place. ... We would be undermining the purposes of the dealers from which we are buying cars for leasing.
+
+[8] Subject to that qualification, which I do not regard as material to my decision, the admission is consistent with the evidence. The sales that the appellant makes fall into four categories:
+
+(a) Sales of cars to the lessee of a leased automobile either during or at the end of the lease in accordance with the option in the leasing agreement;
+
+(b) retail sales of cars that are acquired from the lessee during or at the end of the lease and put on the appellant’s used car lot;
+
+(c) sales of cars acquired from lessees and “wholesaled” i.e. sent off to a wholesaler where such vehicles are not considered suitable for sale from the appellant’s lot;
+
+(d) sales of cars acquired as trade-ins on the lease or sale of another car from the appellant; such cars are either wholesaled or put on the appellant’s lot.
+
+[9] It is with cars that fall into category (b) that we are principally concerned in this appeal.
+
+[10] During or at the end of a lease, cars may be sold to the lessee or they may be acquired from the lessee, subject to a payment by the lessee or the appellant, depending on the value of the automobile at that point. During the lease, the cars are recorded in the “net investment and finance leases account” (I shall refer to this as the “investment account”). They are depreciated for accounting purposes and capital cost allowance is claimed on them for income tax purposes.
+
+[11] If it is decided to sell, as used cars from the retail lot, a car that has been returned, it is transferred from the investment account to the inventory account. The transfer is effected at the net book value - an accounting concept which may or may not be the undepreciated capital cost. It was also described as the “carrying value”. This amount would be reflected as a credit to the investment account and would be shown as a cost of the automobile in the inventory account. The cost of additional repairs, if any, to the automobile would be added to the cost for the purposes of the inventory account. If the car is sold the profit or loss, (i.e. the difference between the selling price and the cost recorded in the inventory account) would be carried directly to the profit and loss account of the appellant.
+
+[12] This procedure may be compared to that followed where, at the end of the lease, a car is sold to the lessee, or where it is wholesaled. In these cases, the proceeds are credited to the investment account.
+
+[13] For income tax purposes the credits to the investment account, whether on the transfer of the automobile to the inventory account, on the sale to the lessee, or on the disposition through a wholesaler, would be reflected in the calculation of the undepreciated capital cost of the class to which the cars belonged. This was not stated specifically by the witnesses, but it is an inference that I draw from Mr. Karidis’ testimony and from the adjustments made in the reconciliation of net income with taxable income (T2S(1) and T2S(8)).
+
+[14] Where an automobile had been transferred to the inventory account from the investment account and was re-leased, it was transferred back to the investment account, presumably at the value at which it was carried in the inventory account.
+
+[15] In the fiscal period ending June 30, 1991 no capital cost allowance was claimed on automobiles that were in the inventory account at the end of that period. This practice differed from that which prevailed for previous fiscal periods, in which capital cost allowance was claimed on automobiles both in prior years when they were in the investment account and in the years in which they were in the inventory account.
+
+[16] I have dealt with the accounting and tax treatment because it occupied a substantial part of the trial and both counsel relied upon that treatment in support of their respective positions under the Excise Tax Act. The question under paragraph 120(3)(b) of the Excise Tax Act is, as stated above, whether the automobiles were in inventory on January 1, 1991, a day which falls within the fiscal period ending June 30, 1991. No other issue is raised.
+
+[17] The automobiles in question would have been transferred to the inventory account before January 1, 1991. There are all listed under Tab 5 of the Exhibit A-1 under INVENTORY - USED CAR, December 31, 1990.
+
+[18] “Inventory” is defined in subsection 120(1) of the Excise Tax Act as follows:
+
+“inventory” of a person as of any time means items of tax-paid goods that are described in the person’s inventory in Canada at that time and that are
+
+(a) held at that time for sale, lease or rental separately, for a price or rent in money, to others in the ordinary course of commercial activity of the person, or
+
+(b) building materials held at that time for use by the person in a business of constructing, renovating or improving buildings or structures carried on by the person, but not including any such goods that before that time have been incorporated into new construction or a renovation or improvement or have otherwise been delivered to a construction, renovation or improvement job site,
+
+and that are not
+
+(c) capital properties of the person,
+
+(d) held by the person for use in the construction, renovation or improvement of property that is or is to be capital property of person, or
+
+(e) included in the description of any other person’s inventory at that time.
+
+[19] “Capital property” is defined in subsection 120(1) of the Excise Tax Act as follows:
+
+“capital property”, in respect of a person, means property that is, or that would be if the person were a taxpayer under the Income Tax Act, capital property of the person within the meaning of that Act, other than property described in Class 12 or 14 of Schedule II to the Income Tax Regulations.
+
+[20] “Capital property” is defined in section 54 of the Income Tax Act as follows:
+
+In this subdivision,
+
+“capital property” of a taxpayer means
+
+(a) any depreciable property of the taxpayer, and
+
+(b) any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer.
+
+[21] “Depreciable property” is defined in subsection 13(21) of the Income Tax Act as follows:
+
+In this section, section 20 and any regulations made under paragraph 20(1)(a)
+
+“depreciable property” of a taxpayer as of any time in a taxation year means property acquired by the taxpayer in respect of which the taxpayer has been allowed, or would, if the taxpayer owned the property at the end of the year and this Act were read without reference to subsection (26), be entitled to, a deduction under paragraph 20(1)(a) in computing income for that year or a preceding taxation year.
+
+[22] There are one or two preliminary points that should be noted. In the first place, the definition of inventory requires:
+
+(a) that the properties be described in the person’s inventory;
+
+(b) that they be held for sale, lease or rental separately;
+
+(c) that they not be capital properties of the person.
+
+[23] The definition is a rather peculiar one. Property that is held for lease or rental is normally capital property. The definition, however, excludes capital properties, and from this one might reasonably draw the inference that were it not for that exclusion, paragraph (a) of the definition would have included capital properties. The implication therefore is that there may be properties held for lease or rental that are not capital properties. Capital property is, itself, defined in subsection 120(1) of the Excise Tax Act by reference to the meaning in the Income Tax Act. The definition of capital property in section 54 of the Income Tax Act refers to any depreciable property of the taxpayer. This raises a second problem: depreciable property in subsection 13(21) is defined only for the purposes of section 13, section 20 and regulations made under paragraph 20(1)(a). It is not defined for the purposes of the Income Tax Act generally or even for the purposes of section 54. The question is whether one may use the definition of depreciable property in subsection 13(21) in construing that phrase in section 54. The question is critical because capital cost allowance was claimed and allowed on the vehicles in question in years prior to 1991 and they therefore fall within the definition of depreciable property in subsection 13(21). If the definition of depreciable property in subsection 13(21) applies to those words in the definition of capital property in section 54 of the Income Tax Act that definition is incorporated in subsection 120(1) of the Excise Tax Act and the automobiles are, by paragraph (c) of the definition of inventory, capital properties and are excluded from inventory for the purposes of the Act.
+
+[24] I think that the definition in subsection 13(21) of the Income Tax Act applies to the definition of capital property in section 54. I say this because, in the first place, as a matter of statutory construction this conclusion is more consistent with the scheme of the Act. (Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116 at 5120 (S.C.C.)). I need not repeat the numerous other decisions of the Supreme Court of Canada that set out interpretative guidelines. They are well known.
+
+[25] Quite apart from principles of statutory construction, section 15 of the Interpretation Act is quite clear, and specifically paragraph 15(2)(b). Section 15 reads:
+
+15. (1) Definitions or rules of interpretation in an enactment apply to all the provisions of the enactment, including the provisions that contain those definitions or rules of interpretation.
+
+(2) Where an enactment contains an interpretation section or provision, it shall be read and construed
+
+(a) as being applicable only if a contrary intention does not appear; and
+
+(b) as being applicable to all other enactments relating to the same subject-matter unless a contrary intention appears. R.S., c. I-23, s. 14.
+
+[26] I was referred to a number of decisions of this and other courts and while I think that my conclusion is consistent with them, I do not consider it necessary to refer to them.
+
+[27] The appeal from the assessment made under the Excise Tax Act, notice of which is dated June 4, 1991 and bears number 105932453 is dismissed with costs.
+
+Signed at Ottawa, Canada, this 18th day of November 1997.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

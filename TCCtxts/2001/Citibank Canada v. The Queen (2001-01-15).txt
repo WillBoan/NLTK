@@ -1,0 +1,248 @@
+Date: 20010115
+
+Docket: 1999-3261-IT-G
+
+BETWEEN:
+
+CITIBANK CANADA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan J.
+
+[1] The Appellant is a Schedule II chartered bank, chartered under the Bank Act pursuant to the laws of Canada. It is a "specified financial institution" as defined by subsection 248(1) of the Income Tax Act and a "financial institution" as defined by subsection 190(1) of the Income Tax Act (herein "the Act"). In its 1990 taxation year, the Appellant acquired certain preference shares issued by two Canadian corporations each of which had at least one class of shares listed on a stock exchange in Canada. The Appellant received dividends with respect to those preference shares and deducted the amounts of such dividends when computing its taxable income in the honest belief that such deduction was permitted by section 112 of the Act. The Minister of National Revenue disallowed the deduction of such dividends on the assumption that the preference shares were "term preferred shares" as that phrase is used in subsection 112(2.1) and defined in subsection 248(1) of the Act. The only issue in this appeal is whether the preference shares in question were "term preferred shares" as those words are defined in subsection 248(1) of the Act.
+
+[2] The basic facts in this appeal are not in dispute. Almost all of the facts alleged in the Appellant's Notice of Appeal were admitted in the Respondent's Reply to the Notice of Appeal. I shall therefore set out the facts from paragraphs 2 to 13 of the Notice of Appeal all of which are admitted except for parts of paragraphs 4 and 7 which are the subject of special comment below:
+
+2. In its 1990 taxation year the Appellant acquired 25 Cumulative Redeemable Perpetual First Preference Shares in the capital stock of B.C. Gas Inc. (the "B.C. Gas Shares") at a price of $500,000 each, and 10 Cumulative Redeemable Convertible Auction Perpetual First Preferred Shares, Series C in the capital stock of Le Groupe Videotron Ltee. (the "Videotron Shares") at a price of $1,000,000 each.
+
+3. Both B.C. Gas Inc. and Le Groupe Videotron Ltee. are taxable Canadian corporations as defined by subsections 89(1) and 248(1) of the Act.
+
+4. The B.C. Gas Shares and the Videotron Shares (collectively the "Preferred Shares") had in common the following features:
+
+Comment: The Notice of Appeal summarized six features of the Preferred Shares in non-technical terminology but the Respondent's Reply takes the position that the original documents speak for themselves.
+
+5. Neither the non-assessable subordinate voting shares of Le Groupe Videotron Ltee. nor the common shares of B.C. Gas Inc., into which the Videotron Shares and the B.C. Gas Shares respectively were convertible, were term preferred shares as defined by subsection 248(1) of the Act.
+
+6. In its 1990 taxation year the Appellant received dividends of $509,672 on the Videotron Shares and $998,727 on the B.C. Gas Shares (collectively, the "Dividends"), which amounts were included in computing the Appellant's income pursuant to the provisions of paragraph 12(1)(j) and subsection 82(1) of the Act.
+
+7. In computing its taxable income for the 1990 taxation year, the Appellant deducted from its income an amount equal to the Dividends thinking that such deduction was permitted by the provisions of, subsection 112(1) of the Act.
+
+Comment: I have substituted the underlined words for "pursuant to" as used in the Notice of Appeal.
+
+8. The Appellant incurred taxes pursuant to Part VI of the Act of $1,656,095 for the 1990 taxation year and $1,308,696 for its 1991 taxation year which amounts were properly deductible in computing its tax payable for the 1990 taxation year pursuant to subsection 125.2(1) of the Act as it read in 1990.
+
+9. By Notice of Reassessment dated May 7, 1997, the Minister of National Revenue (the "Minister") reassessed the Appellant pursuant to subsection 112(2.1) of the Act disallowing the deduction of the Dividends on the Preferred Shares under subsection 112(1) of the Act in computing the Appellant's taxable income for its 1990 taxation year.
+
+10. By Notice of Objection filed on August 1, 1997, the Appellant objected to the said reassessment.
+
+11. By further reassessment dated June 1, 1999, the Minister again reassessed the Appellant making several uncontested adjustments, but not permitting the deduction of the Dividends on the Preferred Shares in computing the Appellant's taxable income.
+
+12. In the reassessment of June 1, 1999, the Minister deducted non-capital losses arising in the Appellant's 1991 and 1992 taxation years in the total amount of $37,121,000 in computing the Appellant's taxable income for its 1990 taxation year.
+
+13. In the result, the Appellant had taxable income of $10,590,504 which resulted in tax of $2,965,341 from which was deducted the Part VI tax payable for 1990 and 1991 leaving federal Part I tax payable of $550.12 for its 1990 taxation year.
+
+[3] In these reasons for judgment, I will adopt the nomenclature of the pleadings. The preference shares in issue purchased by the Appellant from B.C. Gas Inc. will be referred to as the "B.C. Gas Shares"; and the preference shares in issue purchased by the Appellant from Le Groupe Videotron Ltée. will be referred to as the "Videotron Shares". The Respondent did not admit the summary of features which the Appellant claimed that the B.C. Gas Shares and the Videotron Shares had in common (paragraph 4 of Notice of Appeal) but the parties do agree that Exhibit R-3, tab 1A is an accurate summary in business language of the Share Conversion Formula for the Videotron Shares. Similarly, Exhibit R-4, tab 4A is an accurate summary in business language of the Share Conversion Formula for the B.C. Gas Shares. For all practical purposes, the two conversion formulas are the same.
+
+[4] Exhibit R-4 describes the conditions under which the B.C. Gas Shares were offered. It was a private placement (no prospectus) to raise $25 million. The issue price was $500,000 per share with a minimum subscription of $1 million. The initial term was approximately five years from January 22, 1990 to March 31, 1995 with dividends payable during that term in an amount equal to 8.50% per annum. At the end of the five-year initial term, the B.C. Gas Shares could be converted into common shares in accordance with the following formula (in business language) taken from Exhibit R-4, tab 4A:
+
+Each holder of Perpetual First Preference Shares shall have the right, at the end of the Initial Term, to convert the Perpetual First Preference Shares into Common Shares at the Conversion Ratio in effect on the Date of Conversion.
+
+Conversion Ratio means, at any date, the quotient obtained by dividing $500,000 by the greater of:
+
+(i) the Minimum Conversion Price
+
+($1.00); and
+
+(ii) the Current Market Price per
+
+Common Share determined as at such
+
+Date.
+
+Current Market Price per Common Share, at any date, means the weighted average price at which the Common Shares have traded on the TSE during the 20 most recent trading dates immediately preceding the second trading date before such date.
+
+Notice of Conversion shall set forth the date proposed by the holder on which the conversion is to be effected (Date of Conversion) which date shall be a trading day which falls:
+
+(i) at least 60 days after the date of
+
+sending of such notice; and
+
+(ii) at lease 2 and not more than 5
+
+business days before a Settlement
+
+Date or a Dividend Payment Date.
+
+[5] According to the pleadings, the parties are in agreement that the only issue is whether the B.C. Gas Shares and the Videotron Shares were "term preferred shares" as defined by subsection 248(1) of the Act. In order to appreciate the significance of the issue, it is necessary to understand the taxation of corporate dividends within the scheme of the Act. A dividend paid to a shareholder is income from property as is interest paid on a loan or rent paid for the use of land. Under subsection 82(1), every taxpayer (individual and corporate) is required to include in computing income all taxable dividends received from corporations resident in Canada. The phrase "taxable dividend" is defined in subsection 89(1) but the definition is not relevant for the purpose of this appeal. Under subsection 112(1), where a corporation has received a taxable dividend from a corporation resident in Canada, the receiving corporation may deduct the amount of the taxable dividend from its income for the purpose of computing its taxable income.
+
+[6] The operation of subsections 82(1) and 112(1) permits the tax-free flow of dividends between any two corporations resident in Canada. The scheme of these statutory provisions is based on two propositions: (i) dividends are ordinarily paid by a corporation out of its after-tax profits, sometimes called "retained earnings"; and (ii) if the retained earnings of corporation X were paid as dividends upward through a chain of corporate shareholders resident in Canada, and if those dividends were not free from tax in the hands of the corporate shareholders, the retained earnings of corporation X (having already been taxed) would be eroded by additional income taxes as they passed through a chain of corporate shareholders. The purpose of subsection 112(1) is to avoid taxing corporate profits more than once within a chain of corporate shareholders. Similarly, the purpose of the dividend tax credit granted to individuals under section 121 of the Act is to avoid taxing corporate profits more than once.
+
+[7] The concept of a term preferred share did not exist in the Act prior to 1978. At that time, certain corporations which were not taxable (for whatever reason) and were in need of significant capital could obtain (one is tempted to say borrow) their needed capital at a lower cost if they issued to a lending institution preference shares carrying annual dividends about one per cent greater than the after-tax portion of interest paid on borrowed money. If the dividends from the preference shares were free of tax in the hands of the lending institution, and if the deduction (in computing income) of interest on borrowed money were irrelevant to the corporation because it was not taxable, then the needed capital would be obtained by the corporation at a cost lower than the prevailing annual interest rates and the lending institution would earn a little more than if it had loaned the capital at prevailing annual interest rates. By 1978, this practice of non-taxable corporations raising capital by issuing to lending institutions preference shares with a fixed annual dividend had become widespread in the capital markets of Canada.
+
+[8] Parliament decided to discourage this method of corporate financing by defining a "term preferred share" in subsection 248(1) of the Act and by providing that a dividend received by a financial institution on a term preferred share would not be deductible under section 112. The scene in 1978 is described in a paper delivered by Arthur R.A. Scace at the 1979 Annual Conference of the Canadian Tax Foundation; Conference Report at pages 492-493:
+
+My topics today are the new concept of a term preferred share and the changed definition of an income debenture. These represent the government's response to a form of financing which had become particularly widespread during the 1970s. Thereby, corporations which were unable to utilize an interest deduction because of losses, deductible dividends, capital cost allowance or resource write-offs would issue either a retractable preference share or an income debenture to a bank or other financial institution. Although any dividend or interest paid on such securities was not deductible to the payor, it was also not taxable to the recipient because a deduction was provided under section 112 or subsection 138(6) of the Income Tax Act. Consequently, lenders were prepared to offer a rate which was substantially less than the normal interest cost (often 1 per cent or 2 per cent above ½ of prime). This not only increased the lender's rate of return; at the same time, it improved the borrower's cash flow. Therefore, on the face of the transaction, everyone benefited with the possible exception of the Department of National Revenue.
+
+...
+
+Under Bill C-17, both financial institutions and certain non-financial institutions are subject to the new regime which, essentially, is enforced by the non-deductibility of certain dividends under section 112 ...
+
+[9] The definition of term preferred share is lengthy. It contains hundreds of words and consumes three or four pages in all published editions of the Act. It represents the triumph of detailed, particularized, excessive drafting over common sense. The concept of a term preferred share applies to a relatively small community of sophisticated taxpayers. The remedy might better have been left to ministerial discretion or advance tax rulings or a reference in subsection 112(2.1) to a share that may reasonably be regarded as a debt instrument. We are left, however, with the lengthy definition in subsection 248(1). Fortunately, in this appeal I am required to interpret only one clause within that definition. The taxation year under appeal is 1990. Set out below are those portions of the definition of "term preferred share" (as it applied in 1990) which I regard as relevant to the determination of this appeal.
+
+“term preferred share” of a corporation (in this definition referred to as the “issuing corporation”) means a share of a class of the capital stock of the issuing corporation if the share was issued or acquired after June 28, 1982 and, at the time the share was issued or acquired, the existence of the issuing corporation was, or there was an arrangement under which it could be, limited or, in the case of a share issued after November 16, 1978 if
+
+(a) under the terms or conditions of the share, any agreement relating to the share or any modification of such terms, conditions or agreement,
+
+(i) the owner thereof may cause the share to be redeemed, acquired or cancelled (unless the owner of the share may cause the share to be redeemed, acquired or cancelled by reason only of a right to convert or exchange the share) or cause its paid-up capital to be reduced,
+
+(ii) the issuing corporation or any other person or partnership is or may be required to redeem, acquire or cancel, in whole or in part, the share (unless the requirement to redeem, acquire or cancel the share arises by reason only of a right to convert or exchange the share) or to reduce its paid-up capital,
+
+(iii) the issuing corporation or any other person or partnership provides or may be required to provide any form of guarantee, security or similar indemnity or covenant (including the lending of funds to or the placing of amounts on deposit with, or on behalf of, the holder thereof or any person related thereto) with respect to the share, or
+
+(iv) the share is convertible or exchangeable unless
+
+(A) it is convertible into or exchangeable for
+
+(I) another share of the issuing corporation or a corporation related to the issuing corporation that, if issued, would not be a term preferred share,
+
+(II) ...
+
+[10] The issue in this case depends on the interpretation of the following words from the definition of term preferred share:
+
+248(1) "term preferred share" ... means a share of a class of the capital stock of the issuing corporation if ...
+
+(a) under the terms or conditions of the share ...
+
+(i) ...
+
+(i) ...
+
+(iii) the issuing corporation ... provides ... any form of guarantee, security or similar indemnity or covenant ... with respect to the share.
+
+The Appellant obviously thought that the B.C. Gas Shares and the Videotron Shares were not term preferred shares when it purchased them in January 1990. According to the Respondent's counsel, the Minister of National Revenue concluded that those preference shares were term preferred shares because the conditions of the shares granted to the Appellant the right to convert to common shares at a ratio which was determined at the time of conversion. In a letter dated May 1, 2000 from Respondent's counsel to Appellant's counsel (Exhibit A-2), the Respondent attempted to describe the kind of conversion formula which Revenue Canada would regard as providing a "form of guarantee, security or similar indemnity or covenant" thereby causing a preference share to be a term preferred share, and the kind of conversion formula which Revenue Canada would regard as not creating a term preferred share. A portion of that letter reads as follows:
+
+In the case of the subject shares, it is the understanding of the CCRA (Revenue Canada) that, provided the value of the new shares (common shares) was above a minimum amount (which minimum amount was significantly less than the value of the new shares at the time the convertible shares were issued), the conversion terms would result in Citibank Canada receiving new shares having a value approximately equal to the issue price of the subject shares. The number of new shares was not determined at the time of issue of the subject shares nor was it based on the value of the subject shares at the date of conversion.
+
+An investment in preferred shares that are convertible into common shares at a set rate such that the value of the preferred shares rises and falls with the common shares, is not an investment in term preferred shares. There is no form of guarantee with such an investment. On the other hand, where the conversion formula results in the number of common shares to be received to be determined at the time of conversation, the value of the preferred shares does not so rise and fall since the investor is guaranteed to receive common shares equal in value to a fixed dollar amount. (Exhibit A-2, page 2)
+
+[11] In answer to the Appellant's demand for particulars, the Respondent has confirmed that it is only the pricing formula of the conversion feature which caused the Minister to conclude that the B.C. Gas Shares and the Videotron Shares were term preferred shares. Also, the Minister does not claim that any person or partnership other than the issuing corporation provided any form of guarantee or security with respect to the subject shares. See Exhibit A-3, tab 8. Having regard to the pleadings and the Respondent's answers to the Appellant's demand for particulars, one can see that the parties have come to Court on a truly narrow issue.
+
+[12] Both parties presented this appeal as if the conversion formula for the B.C. Gas Shares (permitting such shares to be converted into common shares of B.C. Gas) was the same as the conversion formula for the Videotron Shares (permitting such shares to be converted into common shares of Le Groupe Videotron). There was no suggestion by either party that the conversion formulas were different in any material way or that I could allow the appeal with respect to one class of shares but dismiss the appeal with respect to the other class of shares. I will therefore consider the arguments of both parties only with respect to the B.C. Gas Shares and the decision I reach with respect to the B.C. Gas Shares will apply equally to the Videotron Shares.
+
+[13] The conversion formula for the B.C. Gas Shares is summarized in business language in paragraph 4 above (taken from Exhibit R-4, tab 4A). The issue price for each B.C. Gas Share was $500,000. Ignoring the minimum conversion price, I would express the conversion formula as follows:
+
+Each holder of a B.C. Gas Share has the right at the end of the initial five-year term to convert that share into common shares of B.C. Gas at the ratio obtained by dividing $500,000 by the current market price of a common share at the date of conversion.
+
+According to Exhibit R-4, tab 7, the common shares of B.C. Gas were trading on the TSE near $15.00 in January 1990 when the Appellant purchased the B.C. Gas Shares. If the common shares were still trading at $15.00 in March 1995 at the end of the initial five-year term, and if a holder of a B.C. Gas Share exercised the right to convert at that time, such holder would receive 33,333 common shares. It is a mathematical axiom that the holder of a B.C. Gas Share would receive on conversion more than 33,333 common shares if the market price of a common share was less than $15.00; and the same holder would receive on conversion less than 33,333 common shares if the market price of a common share was greater than $15.00.
+
+[14] Two simple examples will demonstrate the mathematical axiom. If the market price of a common share were $20.00, the holder of a B.C. Gas Share would receive 25,000 common shares on conversion. If the market price were $10.00, the same holder would receive 50,000 common shares on conversion. There was, however, one limitation. The conversion formula for the B.C. Gas Shares contained a minimum conversion price of $1.00. Therefore, if B.C. Gas fell on hard times and the market price of its common shares fell below $1.00, the holder of a B.C. Gas Share could not receive more than 500,000 common shares on conversion.
+
+[15] Denys Calvin testified as an expert witness for the Appellant. He has extensive experience in equity capital markets. In particular, he established and managed the preferred shares department of TD Securities which underwrote, traded and provided research on both public and privately-placed preferred share issues. His experience is summarized in the first three paragraphs of his report to Appellant's counsel which is Exhibit A-1. Mr. Calvin was asked if the conversion feature of the B.C. Gas Shares or the Videotron Shares provided assurance to the holder that he (the holder) would be able to recoup his investment in those shares. Mr. Calvin answered "no". Set out below is part of his reasoning from his report, Exhibit A-1:
+
+In the case of both the Videotron and B.C. Gas Preferred Shares, the terms and conditions attached to the shares provide a "marketplace" for those shares. ...
+
+Accordingly, if the issuer is financially sound and the instrument continues to meet its financing needs, the Preferred Shares will generally remain outstanding with the dividend rate satisfactory either to existing holders or to those who acquire the shares through the Dealer Bid or Monthly Auction Procedures.
+
+However, if the issuer's financial position weakens so that a satisfactory dividend rate cannot be agreed upon, then exercise of the conversion privilege is likely. This weakening is generally accompanied by a sharp decline in the price of the issuer's common shares. The decline will be considerably exacerbated if a preferred shareholder is aggressively selling the common shares acquired upon conversion.
+
+... The common equity market is remarkably effective at discerning when a large shareholder is a "motivated seller" and will discount the share price to take advantage of such a "buying opportunity".
+
+The shortcoming in assuming that the conversion feature will assure the holder of recouping his investment is that it ignores the dramatic effect the activities of such a selling shareholder will have on the market for and the price of the subordinate voting shares. This effect will be accentuated in a market rendered more volatile by an issuer whose fortunes are weakening. When the preferred shareholder becomes a common shareholder, marketability of his investment has improved, but his exposure to market risk has increased.
+
+[16] In a nutshell, Mr. Calvin's opinion was that the conversion formula in the B.C. Gas Shares did not provide assurance to the holder that he would recover his cost of those shares for three reasons. First, if the financial position of B.C. Gas weakened so that it could not pay a satisfactory dividend rate, the holder would convert to common shares. Second, the price of common shares would have dropped to reflect the weakened position of the issuer, and the holder would receive on conversion a correspondingly greater number of common shares. And third, the holder would have difficulty selling his greater number of common shares in a falling market.
+
+[17] The Respondent is not concerned with the ability of the Appellant to sell common shares of B.C. Gas (after conversion) to recover the amount invested in the B.C. Gas Shares. According to Exhibit A-2 (Question 2), the Minister assumed that the holder, after conversion, would hold common shares with a value equal to the value obtained by multiplying the number of common shares (acquired by conversion) by the closing price of those shares on the TSE. In the absence of a financial disaster within B.C. Gas which would reduce the market price of its common shares to less than $1.00 (the minimum conversion price), the value obtained by such multiplying at the time of conversion would equal the cost of the B.C. Gas Shares.
+
+[18] The evidence of Mr. Calvin is relevant but not persuasive. He opined the obvious conclusion that if B.C. Gas fell on hard times, the holder of a B.C. Gas Share had no assurance that he or she (the holder) would be able in 1995 or later years to recover the 1990 cost of that share. The same could be said for any common share or any other preference share which was clearly not a term preferred share. The same could be said for a five-year term loan made to B.C. Gas in January 1990 if the loan were not adequately secured. I note from Exhibit R-4, tab 7 that B.C. Gas had 20,660,000 common shares issued in January 1990, trading in the range of $15.00. That represents a common share capitalization of $309,900,000. According to Exhibit 3, B.C. Gas raised only $25 million by issuing 50 B.C. Gas Shares at an issue price of $500,000 per share. The amount of capital raised by issuing the B.C. Gas Shares ($25 million) was relatively small compared to the value ($309 million) which the stock market placed on B.C. Gas in January 1990. Although there is no material or expert evidence on the financial health of B.C. Gas in January 1990, it appears to me that B.C. Gas would have had to suffer a significant business disaster before the market price of its common shares would fall below the minimum conversion price of $1.00.
+
+[19] Over strong objections from Appellant's counsel, the Respondent read in many answers given by the Appellant's representative on his examination for discovery. Those answers showed that the Appellant conducted extensive credit reviews of B.C. Gas and Videotron in late 1989 before purchasing the B.C. Gas Shares and the Videotron Shares. The Respondent was seeking to prove that, in the Appellant's corporate view, the amounts advanced to purchase the B.C. Gas Shares and Videotron Shares were more like loans and less like investments in shares. This evidence is relevant but not persuasive. The Appellant is a significant financial institution totally unlike the average individual who buys and sells shares through a stock broker. The Appellant paid $12,500,000 for 25 B.C. Gas Shares and paid $10,000,000 for 10 Videotron Shares. I assume that any financial institution advancing $10 million or more to a listed public company would conduct an extensive credit review of that company whether the money was being advanced as a loan or a purchase of treasury shares increasing the issued capital stock. The Appellant had an obligation to itself to perform due diligence before advancing substantial capital.
+
+[20] To put the question in language closer to the relevant words of the statute, did the conversion formula for the B.C. Gas Shares provide to the Appellant any form of guarantee, security or similar indemnity or covenant? I am required to interpret the words "any form of guarantee, security or similar indemnity or covenant". In Stubart Investments Limited v. The Queen, 84 DTC 6305, the Supreme Court of Canada adopted the modern rule for construing statutes expressed by E.A. Driedger in the following words at page: 6323:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+This modern rule has been confirmed many times by the Supreme Court of Canada as, for example, in Antosko et al v. The Queen, 94 DTC 6314; Friesen v. The Queen, 95 DTC 5551; and Corporation Notre-Dame de Bon-Secours v. City of Québec et al, 95 DTC 5017. In Bon-Secours, Gonthier J. writing for the Court cited the above rule expressed by E.A. Driedger (page 5022) and later summarized the rules for interpreting tax legislation at pages 5023:
+
+A The interpretation of tax legislation should follow the ordinary rules of interpretation;
+
+B A legislative provision should be given a strict or liberal interpretation depending on the purpose underlying it, and that purpose must be identified in light of the context of the statute, its objective and the legislative intent: this is the teleological approach;
+
+C The teleological approach will favour the taxpayer or the tax department depending solely on the legislative provision in question, and not on the existence of predetermined presumptions;
+
+D Substance should be given precedence over form to the extent that this is consistent with the wording and objective of the statute;
+
+E Only a reasonable doubt, not resolved by the ordinary rules of interpretation, will be settled by recourse to the residual presumption in favour of the taxpayer.
+
+[21] I will attempt to follow the above five rules. Rule A appears to be the same as the modern rule expressed by Driedger. When reading words like guarantee, security, indemnity and covenant "in their entire context and in their grammatical and ordinary sense", the question arises whether those words have an ordinary dictionary meaning or a more technical meaning derived from the law as it applies to commerce in general and public listed companies in particular. The concept of a term preferred share applies to a relatively small community of sophisticated taxpayers which includes public listed companies like B.C. Gas and Videotron and financial institutions like the Appellant. In my opinion, when looking at the words guarantee, security, indemnity and covenant "in their entire context", those words ought to have a more technical meaning derived from the law as it applies to commerce and public listed companies. Accordingly, I would look to a law dictionary to find the meaning of those words for the purpose of construing part of the definition of "term preferred share". Black's Law Dictionary, Seventh Edition (1999) defines those words as follows:
+
+guarantee: A promise to answer for the payment of some debt, or the performance of some duty, in case of the failure of another who is liable in the first instance. The term is most common in finance and banking contexts. (page 712)
+
+security: Collateral given or pledged to guarantee the fulfilment of an obligation; esp., the assurance that a creditor will be repaid (usu. with interest) any money or credit extended to a debtor.
+
+(page 1358)
+
+indemnity: A duty to make good any loss, damage, or liability incurred by another. The right of an injured party to claim reimbursement for its loss, damage, or liability from a person who has such a duty.
+
+(page 772)
+
+covenant: A formal agreement or promise, usu. in a contract.
+
+( page 369)
+
+[22] For the reasons set out below, I have concluded that B.C. Gas (as an issuing corporation) did not under the terms and conditions of the B.C. Gas Shares provide to the Appellant "any form of guarantee, security or similar indemnity or covenant" with respect to the B.C. Gas Shares. A guarantee is given by a third party. For example, when A lends money to B, a third party may guarantee to A payment of the loaned amount if B fails to pay. When B.C. Gas issued the subject shares to the Appellant, there was no third party involved. There was not even a promise by B.C. Gas to repay the amount advanced by the Appellant to purchase the shares. After five years, the holder had the right to negotiate for a different dividend rate and, ultimately, the right to convert to common shares. All of the rights and obligations were bilateral between the Appellant and B.C. Gas. There was no third party guarantee. There was not any form of guarantee.
+
+[23] A promise to pay is not security. A promissory note is not security but only evidence in writing of a debt or other obligation. A debtor may provide security to his or her creditor by pledging personal property or conveying real property as in a mortgage. In a debtor/creditor sense, security means the delivery, pledge or conveyance of tangible or intangible property to support the fulfilment of an obligation. On the stock exchanges and in other capital markets, the word "security" may have a different meaning but here, when the Respondent claims that the subject shares are like debt instruments, it is better to interpret "security" in a debtor/creditor sense. B.C. Gas (as an issuing corporation) delivered only a share certificate to the Appellant with respect to the B.C. Gas Shares. B.C. Gas did not deliver, pledge or convey any property of any kind to support any obligation it may have had with respect to the B.C. Gas Shares.
+
+[24] A term preferred share is not taxed like a share (no deduction of dividends under section 112) because the Income Tax Act regards it as a debt instrument. If a particular preference share is secured by the delivery, pledge or conveyance of some property so that the holder of the share is assured of recovering its cost, then that preference share is probably a term preferred share. The word "security" in the definition of "term preferred share" is so closely related to debt that, if the Respondent wants to argue that the B.C. Gas Shares are like debt instruments, the Respondent should be able to demonstrate that the issuing corporation has offered some kind of property (other than its own common shares after conversion) to secure to the holder recovery of the issue price. There was no such property offered by B.C. Gas. There was no security or any form of security.
+
+[25] Many insurance contracts are examples of indemnity in the sense that they create a duty to make good a loss. A third party guarantee is an example of indemnity. A person who purchases shares of capital stock from a listed public company does not ordinarily receive any kind of indemnity with respect to those shares. The person who purchases shares accepts a risk. It may be a greater risk as with common shares or a lesser risk as with preference shares but, in all cases, there is risk with no indemnity. I have not been able to find any form of indemnity with respect to the B.C. Gas Shares. Certainly, the Appellant's right to convert to common shares does not impose on B.C. Gas a duty to make good any loss. The Appellant has no indemnity or any form of indemnity with respect to the B.C. Gas Shares. And finally, B.C. Gas has not made any covenant or form of covenant to the Appellant with respect to the B.C. Gas Shares.
+
+[26] To summarize, the formula which permitted the B.C. Gas Shares to be converted into common shares did not provide to the Appellant "any form of guarantee, security or similar indemnity or covenant" with respect to the B.C. Gas Shares. That conclusion alone, based on the meaning of the words in subparagraph (a)(iii) of the definition of "term preferred share", is sufficient to allow the appeal. There are, however, other arguments to consider.
+
+[27] The persons who drafted the definition of term preferred share were very careful in subparagraph (a)(i) and (a)(ii) to prevent a particular share from being a term preferred share just because of a right to convert or exchange the particular share. Those two subparagraphs contain the following words:
+
+(a) under the terms or conditions of the share, any agreement relating to the share or any modification of such terms, conditions or agreement,
+
+(i) the owner thereof may cause the share to be redeemed, acquired or cancelled (unless the owner of the share may cause the share to be redeemed, acquired or cancelled by reason only of a right to convert or exchange the share) or cause its paid-up capital to be reduced,
+
+(ii) the issuing corporation or any other person or partnership is or may be required to redeem, acquire or cancel, in whole or in part, the share (unless the requirement to redeem, acquire or cancel the share arises by reason only of a right to convert or exchange the share) or to reduce its paid-up capital,
+
+As I understand subparagraph (a)(i), a particular share will be a term preferred share if the owner of the share may cause it to be redeemed, acquired or cancelled but not so if the share is redeemed, acquired or cancelled by reason only of a right to convert or exchange the share. Similarly, in subparagraph (a)(ii), a particular share will be a term preferred share if the issuing corporation may be required to redeem, acquire or cancel the share but not so if the requirement to redeem, acquire or cancel arises by reason only of a right to convert or exchange the share. In other words, the right to convert standing alone does not cause a particular share to be a term preferred share. See also subclause (a)(iv)(A)(I).
+
+[28] Subparagraph (a)(iii) does not refer to the right to convert or exchange but the Respondent argues that the subject shares are term preferred shares only because they may be converted into common shares on a ratio based upon the market price of a common share at the time of conversion. At the same time, the Respondent concedes that a right to convert a preference share into common shares based upon (i) the price of a common share at the time when the preference share was issued; or (ii) the value of the preference share at the time of conversion, would not cause the preference share to be a term preferred share. This is an understandable distinction but it requires me to read fresh words into a definition which is already too long, or to infer a legislative intent from technical words (guarantee, security, indemnity and covenant) which have a clear meaning. In Shell Canada Limited v. The Queen, 99 DTC 5669, McLachlin J. writing for a unanimous Court stated at page 5676:
+
+... This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intent. ...
+
+[29] The definition of "term preferred share" is prolix in the extreme. The persons who drafted that definition did not practise any economy of words or language. One may well ask how many members of parliament understood the definition when it was made law by amendment to the Act. The policy of detailed, particularized drafting invites the challenge of counter-drafting. The legislative drafting team sets out to define a preference share which will be like a debt instrument but will exclude all preference shares which financial institutions may acquire as investments unconnected with any loan or near loan transaction. The team of persons advising listed public companies and financial institutions sets out to draft terms and conditions of a new share which will avoid the statutory definition. The result is a duel of delicate drafting.
+
+[30] I refuse to read into the statutory definition of "term preferred share" any fresh words or to draw any inference with respect to legislative intent which will permit the Minister to capture one share because it has a certain conversion formula but release another share because it has a different conversion formula. I have two reasons for such refusal. First, the legislative drafting team had 10 years from 1979 to 1989 to refine their lengthy statutory definition before taxpayers like the Appellant and B.C. Gas accepted the challenge of counter-drafting to create a share which would stay outside the forbidden area. And second, none of the important words (guarantee, security, indemnity and covenant) in subparagraph (a)(iii) support the Respondent's interpretation of that subparagraph.
+
+[31] Counsel for both parties stated that this is the first case in which a court has been asked to construe any part of the definition of term preferred share. The Respondent relies on the decision of this Court in Esplen v. The Queen, 96 DTC 1272 in which my colleague Bonner J. was required to apply Income Tax Regulation 6202(1)(b) which contains words with respect to "flow-through" shares that are similar to the words in subparagraph (a)(iii) of the definition of term preferred share. Mr. Esplen paid $360,000 to a mining company as consideration for certain shares. Mr. Esplen's appeal was dismissed because of a separate agreement between him and the mining company under which part of the $360,000 was loaned back to him. The decision in Esplen is easily distinguished from this appeal by Citibank.
+
+[32] Counsel for the Respondent argued that the subject shares operate against the object and purpose of the legislation. Driedger speaks of "the object of the Act, and the intention of Parliament". In Bon-Secours, Gonthier J. states in Rule B that the purpose underlying a legislative provision must be identified "in light of the context of the statute, its objective and the legislative intent". Certain provisions of the Income Tax Act apply to all taxpayers while other provisions are aimed at a more restricted community. For example, subsections 12(1), 18(1) and 20(1) set out rules of general application for the computation of income from business or property. By contrast, section 88 sets out specific rules which apply only when a Canadian subsidiary corporation is wound up into its Canadian parent corporation. In my view, it is easier to find object or purpose or legislative intent in section 88 than in subsection 20(1).
+
+[33] The concept of term preferred share is aimed at a relatively small community of taxpayers. Therefore, it should be easy to determine its object or legislative intent. In my opinion, the object of the "term preferred share" definition is to identify a preference share which is like a debt instrument without, at the same time, scooping up all preference shares which financial institutions may purchase unconnected with any loan or near loan transaction. The problem lies in the definition. It is so detailed; so particularized; so long and tedious and excessive in its use of language. The Respondent has put forward the object and purpose argument to show that the subject shares go against the spirit of the legislation. When the definition is drafted with such care, why can the Appellant not argue that it is flowing with (and not against) the spirit of the legislation when it has, with equal care, drafted the terms and conditions of a share which is outside the forbidden area of the definition?
+
+[34] If the object and purpose of the term preferred share concept is to discourage after-tax financing (i.e. the deduction of interest on borrowed money is not relevant because the corporation needing substantial capital does not have income), I would want to know more about B.C. Gas and Videotron (the two issuing corporations) before attempting to determine whether the subject shares were against the object and purpose of the legislation. Would the deduction of interest on substantial borrowed capital be material to either issuing corporation when computing its 1990 income? Were all of the shares which are identical to the subject shares purchased by financial institutions? In the private placement of the subject shares, did a group of financial institutions act together to ensure that all shares would be purchased at the same time? What was the prime rate of interest on borrowed money offered by the Appellant and other holders of identical shares in January 1990 when the subject shares were purchased? What was the best dividend rate paid by publicly listed companies (other than B.C. Gas and Videotron) when issuing preference shares in or around January 1990? The answers to these questions would not necessarily decide the issue in this appeal but the answers would assist in deciding whether the subject shares were against the object and purpose of the legislation.
+
+[35] I am tempted to ask if Parliament could have achieved its legislative intent with equal effectiveness by denying dividend deductions in subsection 112(2.1) to any share "that may reasonably be regarded as" a debt instrument. This legislative device is sometimes used in the Act. It could perhaps avoid any reference to a "term preferred share" and its definition, but the words "debt instrument" would have to be defined!
+
+[36] As stated in paragraph 29 above, the prolix drafting theory which underlies the definition of "term preferred share" challenges taxpayers like the Appellant and public listed companies to draft terms and conditions for preference shares which stay just outside the ambit of the statutory definition. I am satisfied, for the reasons stated above, that the B.C. Gas Shares were not term preferred shares. If the drafting duel were a draw, I would invoke Rule E from Bon-Secours and decide in favour of the taxpayer. In my opinion, however, the drafting duel is not a draw or close to a draw.
+
+[37] The terms and conditions of the Videotron Shares are not materially different from the B.C. Gas Shares. Accordingly, the Videotron Shares are not term preferred shares. The appeal is allowed, with costs.
+
+Signed at Ottawa, Canada, this 15th day of January, 2001.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

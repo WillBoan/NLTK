@@ -1,0 +1,414 @@
+Date: 19980224
+
+Docket: 95-4122-IT-G
+
+BETWEEN:
+
+STONE CONTAINER (CANADA) INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Rip, J.T.C.C.
+
+[1] The appellant Stone Container (Canada) Inc. (“Stone”) appeals from an income tax reassessment issued by the Minister of National Revenue (“Minister”) under the Income Tax Act (“Act”) in respect of the 1987 taxation year.[1] The Minister reassessed under paragraph 165(3)(a) of the Act: Stone objected to a reassessment issued beyond the normal reassessment period for the taxpayer in respect of 1987. The issue before me is whether on the facts of this appeal, the Minister has the authority to reassess after the normal reassessment with regard to a matter other than the one expressly described in the waiver authorizing the Minister to reassess beyond the normal reassessment period.
+
+[2] The evidence at trial consisted of a Partial Agreed Statement of Facts, a joint book of documents, the viva voce evidence of Mr. Claude Pouliot, Director of Tax of Consolidated, at the relevant time, and Mr. Hubert DeGroot, an officer of Designated Appeals in the Montreal District Office of Revenue Canada.
+
+[3] The “Partial Agreed Statement of Facts” reads as follows:
+
+1. The Minister of National Revenue (the “Minister”) originally assessed the Appellant for its 1987 taxation year on 4 August 1988, with income from logging operations in the amount of $66,465,623, and taxable income in the amount of $56,296,310 (the “Original Assessment”).
+
+2. In calculating the Part I tax for the Original Assessment, the Minister correctly calculated the federal abatement under s. 124(1) of the Income Tax Act (Canada) (the “Act”) as $5,629,631, but he incorrectly calculated the logging tax credit under s. 127(1) of the Act as $4,431,042, when it should have been $3,753,087.
+
+3. The Minister reassessed the Appellant on 22 May 1991, with income from logging operations in the amount of $66,465,623, and taxable income in the amount of $58,322,537 (the “First Reassessment”).
+
+4. In calculating the Part I tax for the First Reassessment, the Minister incorrectly calculated the federal abatement and the logging tax credit as $5,832,254 and $4,431,042 respectively, when they should have been $5,002,455 and $3,888,169 respectively.
+
+5. The 1987 taxation year of the Appellant would have ordinarily become statute-barred on 4 August 1992.
+
+6. Unresolved at the time of the issuance of the First Reassessment was an issue relating to a shareholder benefit alleged to have been received by the Appellant during its 1987 taxation year from a related corporation, C.B. Pak Inc. (the “Alleged Shareholder Benefit”).
+
+7. On 4 June 1992, the Appellant filed a Waiver (the “Waiver”) in prescribed form in respect of the 1987 taxation year pursuant to a verbal request from Revenue Canada that the 1987 taxation year be kept open in respect of the Alleged Shareholder Benefit.
+
+8. The text of the Waiver read as follows:
+
+La période normale de nouvelle cotisation prévue au paragraphe 152(4) de la Loi de l’impôt sur le revenu pendant laquelle le Ministre peut établir une nouvelle cotisation ou des cotisations supplémentaires ou fixer des impôts, intérêts ou pénalités, en vertu de la Partie I de la Loi est, par la présente, renoncée pour l’année d’imposition susmentionnée, à l’égard de:
+
+Montant reçu de C.B. Pak Inc. $8,699,449
+
+The text of the Waiver (in translation) read as follows:
+
+The normal reassessment period referred to in subsection 152(4) of the Income Tax Act, within which the Minister may reassess or make additional assessments or assess tax, interest or penalties under Part I of the Act is hereby waived for the taxation year indicated above, in respect of:
+
+Amount received from C.B. Pak Inc. $8,699,449
+
+9. The Minister subsequently reassessed the Appellant on 8 December 1992 with taxable income in the amount of $67,021,986. The increase from the First Reassessment was because of the inclusion in the Appellant’s income of the Alleged Shareholder Benefit (the “Second Reassessment”).
+
+10. At the specific request of the Appellant, the Minister varied the amount of its income from logging operations from $66,465,623 to $71,269,005 in the Second Reassessment.
+
+11. In calculating the Part I tax for the Second Reassessment, the Minister correctly calculated the federal abatement and the logging tax credit as $5,748,626 and $4,468,132 respectively.
+
+12. The Appellant filed a notice of objection to the Second Reassessment, dated 5 March 1993, and the Minister allowed its objection.
+
+13. In allowing the objection, the Minister reassessed the Appellant on 29 December 1993, with income from logging operations in the amount of $71,269,005, and taxable income in the amount of $58,322,537 (the “Third Reassessment”). The decrease in taxable income from the Second Reassessment was because of the deletion of the Alleged Shareholder Benefit.
+
+14. In calculating the Part I tax for the Third Reassessment, the Minister correctly calculated the federal abatement and the logging tax credit as $5,002,455 and $3,888,169 respectively, the same as they should have been, for the First Reassessment.
+
+15. The Appellant duly objected to the Third Reassessment by notice of objection dated 25 March 1994 as regards the adjustments made by the Minister to the federal abatement and the logging tax credit.
+
+16. By notification of confirmation dated 28 September 1995 the Minister confirmed the Third Reassessment.
+
+17. The Appellant consequently appealed to the Tax Court of Canada to have the Third Reassessment varied in accordance with the conclusions of its Notice of Appeal dated 22 December 1995.
+
+18. Schedule A contains a summary of the Original Assessment, the First Reassessment, the Second Reassessment and the Third Reassessment.[2]
+
+[4] Mr. Pouliot confirmed that the waiver he signed on June 4, 1992 was prepared by Revenue Canada.
+
+[5] Mr. Pouliot indicated that he started to work with Consolidated in 1957 but the first taxation year for which he prepared tax returns for the corporation was for the 1987 taxation year. The person who had been responsible for the preparation of Consolidated’s tax return was ill and subsequently died. In preparing the tax returns for 1987, Mr. Pouliot was not aware that the company had business income from the United Kingdom. Thus, he reported that all of the income was earned in Canada.
+
+[6] In cross-examination, Mr. Pouliot stated that when he reviewed the first assessment he thought that all amounts were correct. Then, upon reviewing the notice of the first reassessment, that is the reassessment notice dated May 22, 1991, he realized Consolidated received an advantage in that the amounts of the federal abatement and logging tax credit were excessive.
+
+[7] Earlier, in October 1990, Mr. Pouliot had requested that Revenue Canada grant the taxpayer maximum capital cost allowance and investment tax credits in calculating Consolidated’s income for 1986 and 1987. Revenue Canada complied with the request when preparing the first reassessment. In making the second reassessment (December 8, 1992), Revenue Canada appears to have increased the carry-back of the 1988 investment tax credit. By letter dated April 2, 1993 to Revenue Canada, Mr. Pouliot requested that the reassessment for 1987 reinstate the amount of carry-back of the investment tax credit to the amount in the first reassessment.
+
+[8] At the request of Mr. Chalifoux of Revenue Canada, Mr. Pouliot wrote Mr. Chalifoux on August 13, 1992 advising him that as a result of the Revenue Canada audits for the years 1986, 1987 and 1988 of Consolidated, Revenu Québec had increased Consolidated’s Quebec taxes from logging operations for those years. Income from logging operations in 1987 was $71,269,005.[3] Attached to the letter were copies of Notices of Assessment from Revenu Québec.[4] Mr. Pouliot requested a recalculation of federal tax for the 1986, 1987 and 1988 taxation years to take account of the provincial tax increases. The appellant had earlier objected to the provincial assessment for its 1987 taxation year. Mr. Pouliot stated that when he wrote to Mr. Chalifoux he was of the view that the 1987 taxation year was statute-barred to the federal fisc except, I assume, for the matter specified in the Waiver.
+
+[9] Mr. Hubert DeGroot has worked as a Designated Appeals Officer at the Montreal District Office of Revenue Canada since June 6, 1997. Previously, he worked as an auditor in British Columbia and in the Montreal District Office; he also worked at the Head Office of Revenue Canada. In all, he has been employed by Revenue Canada for 17 years. He explained that when the original assessment of August 4, 1988 was made, Revenue Canada had also assumed that all of Consolidated’s taxable income of $56,296,310 was from a permanent establishment in Canada.[5] The first reassessment corrected this error to take into account income earned from a permanent establishment in the United Kingdom. In Mr. DeGroot’s view, it would have taken an experienced auditor to recognize that a permanent establishment existed outside of Canada.
+
+[10] Revenue Canada, said Mr. DeGroot, considered the letter of April 2, 1993 from Mr. Pouliot to be a request to reallocate tax credits. He acknowledged that he understood that the taxpayer did not anticipate further reassessments.
+
+[11] Mr. DeGroot also said that as a result of the appellant’s request on August 13, 1992, at a time when the 1987 taxation year was statute-barred, the Minister considered that the file was still open and honoured the request. However, Mr. DeGroot said, as the result of the statutory formula to calculate the logging tax credit,[6] there was no change to the logging tax credit.
+
+[12] Mr. DeGroot explained that the original assessment of August 4, 1988 was an immediate assessment made without audit. The first reassessment (May 22, 1991) contained errors.[7] The audit was not complete. The auditor at Revenue Canada ought to have filled out a proper form (form T99) identifying provincial and federal tax. Because the audit was not complete, Revenue Canada requested a form of waiver from the appellant with respect to a benefit Consolidated purported to having received from C.B. Pak Inc. When the second reassessment was made (December 8, 1992), all the calculations were correct. The auditor completed the proper form. The amount of the benefit had been added to income and the abatement and logging tax credit were calculated accordingly. The appellant filed a notice of objection to the second reassessment.
+
+[13] When the third and last reassessment was prepared to allow the objection to the second reassessment, the Minister deleted the benefit from income and correctly recalculated the federal abatement and logging tax credits.[8] The taxable income for Consolidated was the same in both the first and third reassessments. The Minister calculated anew the amounts of the federal abatement and logging tax credit in making the third reassessment. He did not simply adopt the amounts used in the first reassessment which he knew were wrong. There is no question that the calculations of the logging tax credit and federal abatement in the third reassessment are correct.
+
+Positions of Parties
+
+[14] The appellant submitted five propositions that may be summarized as follows:
+
+i) The Minister has no power to assess beyond the normal reassessment period unless he can find statutory authority to do so;
+
+ii) There are exceptions to the rule stated in i). For example, where a waiver has been filed or a taxpayer has acted fraudulently, the Act authorizes the Minister to reassess beyond the normal reassessment period;
+
+iii) The onus is on the Minister to establish the statutory authority to reassess;
+
+iv) The onus is on the Minister to show that a matter assessed was within the scope of a waiver, where a waiver had been filed; and
+
+v) Subsequent conduct can be referred to only in determining parties’ intentions. A waiver cannot bestow more power than what the Minister enjoys under the statute. Accordingly, Mr. Pouliot’s letter of August 13, 1992 to the Minister cannot be used to interpret the waiver or to add to the Minister’s powers. The appellant contends that neither the statute nor the waiver extended to the Minister the authority to adjust the logging tax credit and the federal abatement figures in assessing on December 29, 1993.
+
+[15] The Minister, appellant’s counsel submits, should have reassessed on the basis of the state of the amounts reassessed before the 1987 taxation year became statute-barred. In other words, as I understand the appellant’s position, the first reassessment, dated May 22, 1991, in effect should be the one and valid assessment for 1987. Once the Minister agreed the second reassessment was no good, he is bound to adopt the last reassessment issued within the normal reassessment period. The Minister has no right to make any changes not specified in the form of waiver.
+
+[16] The respondent’s position is that the mistakes made by the Minister in calculating the logging tax credit and federal abatement amounts flowed from an error on the part of the appellant’s employee and therefore, the Minister is free to reassess. However, the Minister does not allege misrepresentation or fraud. He argues that he has authority to correct such mistakes. The Minister also argues that the changes from the logging tax credit amount stemmed from Mr. Pouliot’s letter of August 13, 1992 to him. Finally, as an alternative argument, the Minister submitted that the recalculation of the logging tax credit and federal abatement flowed from changes to income amounts because of the shareholder benefit inclusion; when the Minister deleted the shareholder benefit from income and reassessed, he simply followed the provisions of the Act in calculating tax due by the appellant.
+
+[17] Subparagraph 152(4)(a)(ii) of the Act provides that the Minister may at any time assess tax for taxation year, interest or penalties, if any, payable by a taxpayer, and may at any time, if the taxpayer filing the return has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of that year reassess or make additional assessments, or assess tax, interest or penalties under Part I of the Act, as the circumstances require. Absent misrepresentation that is attributable to neglect, carelessness or wilful default or any fraud in filing of a return or the filing of a waiver, the Minister may only reassess within the “normal reassessment period”. Subsection 152(3.1)[9] defines “normal reassessment period”, the normal reassessment period of Consolidated for its 1987 taxation year is the period that ends four years after the day of mailing of an original assessment under Part 1 of the Act in respect of a taxpayer for the year. The appellant’s normal reassessment period with respect to its 1987 taxation year ended on August 3, 1992.
+
+[18] Subsection 152(4) is precise: unless a waiver has been filed the Minister may not reassess beyond the normal reassessment.[10] Even if the appellant’s employee erred when he prepared the return of income for 1987, the Minister cannot reassess after four years from the date of mailing the original assessment if there is no waiver, misrepresentation or fraud. What the Minister did in making the third reassessment, however, was not a simple correction of a mistake.
+
+[19] I also do not agree with respondent’s counsel that the changes to the logging tax credit resulted from Mr. Pouliot’s letter of August 13, 1992. The letter cannot be said to be a form of waiver, nor in any way a waiver, nor is it a clarification or modification of the intention of the parties when the waiver in question was originally executed.[11]
+
+[20] Subparagraph 152(4)(a)(ii) requires a waiver to be filed in prescribed form within the normal reassessment period and does not permit, in the absence of a proper waiver filed within the prescribed limitation period, reassessment at any time at the taxpayer’s whim. Mr. Pouliot’s letter was not in a prescribed form of a waiver and is dated after the expiry of the relevant normal reassessment period. The letter therefore could not have had the effect of waiving the statutory limitation period to reassess the appellant’s logging income: The Queen v. Marconi, 91 DTC 5626 (F.C.A.) per Mahoney, J.A.
+
+[21] Mr. Pouliot’s letter also does not merely clarify the appellant’s original intention regarding the scope of the reassessment pursuant to the waiver. Following a Revenu Québec assessment, new circumstances had arisen regarding the appellant’s logging income and taxes. There is no evidence before me that suggests that at the time Mr. Pouliot executed the waiver on behalf of the appellant, the appellant had knowledge of these circumstances. The letter cannot be looked upon as having represented a change in the parties’ original intentions regarding the scope of the authority to reassess under the waiver. To give effect to such an argument would permit the parties to achieve indirectly what the statute does not authorize directly, that is, to waive the statutory limitation period to reassess after the expiry of the prescribed period to file a waiver. Such an outcome would run against the Court of Appeal’s judgment in Marconi (supra).
+
+[22] Counsel for the appellant argued that the Minister may only reassess beyond the normal reassessment period in respect of a matter specifically set forth in the waiver. If there is any ambiguity in the waiver, then any wording of the waiver must be interpreted against the Minister: Stanley J. Solberg v. The Queen, [1992] 2 C.T.C, 208 (F.C.T.D.) at 212. The form of waiver is prepared by the Department of National Revenue.
+
+[23] If there is any doubt as to the interpretation of the waiver, the appropriate approach as to its interpretation, said counsel, is to seek to ascertain the intention of the parties as expressed in that document together with any relevant circumstances from which evidence is available: Solberg, supra, 213.
+
+[24] Appellant’s counsel argued that the inclusions of the correct amounts of the logging tax credit and the federal abatement in computing the appellant’s tax for 1987 were not “in respect of” the shareholder benefit specifically described in the form of waiver and therefore, no assessment for 1987 which includes the corrected amounts may be issued to the appellant beyond the normal reassessment period.
+
+[25] Respondent’s counsel referred to the reasons of the Supreme Court of Canada in Nowegijick v. The Queen, 83 DTC 5041, where at 5045, Dickson J. (as he then was) stated that:
+
+[T]he words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+
+[26] In the respondent’s view, the calculations of the federal abatement and the logging tax credit were “in respect of” or “in relation to” the inclusion in income of the shareholder benefit in the second reassessment when the shareholder benefit was deleted from income in the third reassessment, the Minister was accordingly obligated to recalculate the federal abatement and logging tax credit.
+
+[27] The phrase “in respect of” as it is used in the waiver signed by the appellant should not be regarded as wholly limiting the reassessment to the recalculation of the shareholder benefit to the exclusion of all other calculations. To do so would result in the absurd consequence that in having reassessed to include or exclude the shareholder benefit amount, the Minister would then be unable to correspondingly adjust the taxable income, tax payable and other necessarily related amounts. Too narrow a construction of the phrase “in respect of” would render the reassessment process futile, an outcome that could not have been intended by the parties given the very execution of the waiver, and would run counter to the very purpose of a reassessment.[12] On the other hand, nor should the intention be said to have been to grant the Minister boundless authority to reassess -- too broad a construction of the phrase “with respect to” would render the specification of an item in a waiver an equally futile endeavour.
+
+[28] The words “in respect of” in the form of waiver, subject to evidence of a contrary intention, limit the scope of the potential reassessment to (i) the matter specified and (ii) those items the calculation of which necessarily flow from or are immediately connected with the recalculation of the matter in the waiver.
+
+Analysis
+
+[29] The appellant filed a form of waiver in respect of its 1987 taxation year on June 4, 1992. By virtue of the waiver signed by the appellant, the Minister of National Revenue reassessed the appellant (second reassessment) on December 8, 1992. There is no issue between the parties that as a result of the waiver, the Minister had the right to reassess the appellant. The appellant was not satisfied with the second reassessment and, pursuant to subsection 165(1) of the Act, filed a Notice of Objection to the second reassessment.
+
+[30] The duty of the Minister on receipt of a Notice of Objection, according to subsection 165(3), is to reconsider the assessment and vacate, confirm or vary the assessment or reassess, and notify the taxpayer in writing of the Minister’s action. In the case at bar, the Minister received the Notice of Objection from the appellant and proceeded to reconsider the assessment by deleting from income the alleged shareholder benefit of $8,699,449 and then reassessed the appellant accordingly.
+
+[31] Division E of Part I of the Act sets out rules for computation of tax by taxpayers. Tax is computed on a taxpayer’s taxable income. Subdivision b of Division E of Part I entitled “Rules Applicable to Corporations”, which includes sections 123 to 125.4, contains tax rates applicable to corporations.
+
+[32] The federal tax abatement is found in section 124 of the Act. Subsection 124(1) provides for a deduction from tax otherwise payable by the corporation for a taxation year in an amount equal to 10 per cent of the corporation’s taxable income earned in the year in a province.
+
+[33] Subsection c of Division E contains rules permitting all taxpayers to deduct from tax payable certain amounts in respect of foreign taxes paid (section 126) and in respect of logging taxes paid to a province (section 127).
+
+[34] Both sections 124 and 127 do not permit deductions from income of a taxpayer, but from a tax otherwise payable under Part I of the Act to the federal fisc. This is a mechanical application of calculating tax once the taxable income of the taxpayer’s income has been determined. This is what the Minister did once he concluded that the shareholder benefit ought not to be included in income. He deleted the amount from income, the amount of calculated income and taxable income and then proceeded to calculate the tax to be assessed. The Minister’s authority to make the third reassessment came not from the waiver but from subsection 165(3). This is not to say that in making the third reassessment the Minister could have included in the appellant’s income or taxable income any amount that was not included in its income or its taxable income for 1987 prior to the normal reassessment period. Such a reassessment would not have been made pursuant to subsection 165(3).
+
+[35] The Minister, in considering the second reassessment, had the authority to vacate the reassessment. Had he done so, then the result would have been what the taxpayer desired, the rebirth of the first reassessment dated May 22, 1991. But the Minister did not do this and there is nothing to have compelled him to do so.[13] The assessment before me is the third reassessment, which in my view, is a valid assessment. There is no evidence that the Minister did not exercise proper discretion in reassessing the appellant on December 29, 1993. The appeal is dismissed with costs to the respondent.
+
+Signed at Ottawa, Canada, this 24th day of February 1998.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+SCHEDULE A
+
+SUMMARY OF ASSESSMENTS
+
+Original
+
+Assessment
+
+First
+
+Reassessment
+
+Second
+
+Reassessment
+
+Third
+
+Reassessment
+
+Dates of Assessment
+
+4 Aug. 1988
+
+22 May 1991
+
+8 Dec. 1992
+
+29 Dec. 1993
+
+Taxable income
+
+$56,296,310
+
+$58,322,537
+
+$67,021,986
+
+$58,322,537
+
+Basic Tax
+
+25,612,507
+
+26,534,358
+
+30,492,248
+
+26,534,358
+
+Federal Abatement
+
+5,629,631
+
+5,832,254
+
+5,748,626
+
+5,002,455
+
+M & P Deduction
+
+3,539,917
+
+2,713,142
+
+2,713,142
+
+2,716,729
+
+Logging Tax Credit
+
+4,431,042
+
+4,431,042
+
+4,468,132
+
+3,888,169
+
+Political
+
+Contribution Credit
+
+500
+
+500
+
+500
+
+500
+
+Surtax
+
+360,357
+
+381,844
+
+498,263
+
+422,916
+
+Part I Tax Payable Before Investment Tax Credit claimed by the Appellant
+
+12,371,774
+
+13,939,264
+
+18,060,111
+
+15,349,421
+
+Investment Tax Credit
+
+4,927,093
+
+7,299,196
+
+11,157,022
+
+7,310,196
+
+Part I Tax Payable
+
+7,444,681
+
+6,640,067
+
+6,903,089
+
+8,039,224
+
+WHAT SHOULD HAVE BEEN ALLOWED
+
+∙ Federal Abatement
+
+Taxable Income
+
+56,296,310
+
+58,322,537
+
+67,021,986
+
+58,322,537
+
+Provincial Income
+
+56,296,310
+
+50,024,549
+
+57,486,262
+
+50,024,549
+
+Abatement
+
+5,629,631
+
+5,002,455
+
+5,748,626
+
+5,002,455
+
+∙ Logging Tax Credit
+
+(a) Logging Income
+
+66,465,623
+
+66,465,623
+
+71,269,005
+
+71,269,005
+
+(b) Logging Tax
+
+6,646,562
+
+6,646,562
+
+7,126,900
+
+7,126,900
+
+(c) Taxable Income
+
+56,296,310
+
+58,322,537
+
+67,021,986
+
+58,322,537
+
+Lesser of:
+
+6 2/3 percent of (a)
+
+4,431,042
+
+4,431,042
+
+4,751,267
+
+4,751,267
+
+2/3 of (b)
+
+4,431,042
+
+4,431,042
+
+4,751,267
+
+4,751,267
+
+6 2/3 percent of (c)
+
+3,753,087
+
+3,888,169
+
+4,468,132
+
+3,888,169
+
+[1] Stone Container (Canada) Inc., formerly known as Stone - Consolidated Inc., is an amalgamated corporation and the reassessment in issue was made in respect of its predecessor corporation, Consolidated - Bathurst Inc. (“Consolidated”).
+
+[2] Schedule A of the “Partial Agreed Statement of Facts” is attached as Schedule A to these reasons.
+
+[3] See paragraph 10 of “Partial Agreed Statement of Facts”.
+
+[4] Copies of the Notices of Assessment were not attached to the copy of the letter filed as an exhibit and thus I have before me an incomplete document.
+
+[5] See paragraph 4 of “Partial Agreed Statement of Facts”.
+
+[6] S. 127(1) of the Act. See also paragraph 4 of the “Partial Agreed Statement of Facts”.
+
+[7] See paragraph 11 of “Partial Agreed Statement of Facts”.
+
+[8] See paragraphs 13 and 14 of the “Partial Agreed Statement of Facts”.
+
+[9] Subsection 152(3.1) is deemed to have come into force on April 27, 1989: S.C. 1990, c. 39, s. 38(1) (as amended in 1991, c. 49, s. 256.).
+
+[10] Because fraud or misrepresentation are not in issue, I shall refer only to the filing of the waiver as an exception to the Minister’s right to reassess beyond the normal reassessment period.
+
+[11] Subsection 152(4.2) of the Act, which empowers the Minister, notwithstanding subsections 152(4), (4.1) and (5), to reassess tax for certain purposes on application of an “individual”, cannot be relied upon as the appellant is a corporation, which, by virtue of subsection 248(1), is expressly excluded from the meaning of “individual”.
+
+[12] An assessment “is the summation of all the factors representing tax liability,... and the fixation of the total after all the necessary computations have been made.”: Pure Spring Co. v. M.N.R. [1946] CTC 169 at 198 per Thorson, P.
+
+[13] If I were to vacate this third reassessment, then the second reassessment would come into force. This does not appear to be a result desired either by the appellant or the respondent.
+

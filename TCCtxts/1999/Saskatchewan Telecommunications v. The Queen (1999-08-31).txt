@@ -1,0 +1,870 @@
+Date: 19990831
+
+Docket: 97-3845-GST-G
+
+BETWEEN:
+
+SASKATCHEWAN TELECOMMUNICATIONS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Beaubier, J.T.C.C.
+
+[1] This appeal pursuant to the General Procedure was heard at Saskatoon, Saskatchewan on August 12, 1999. The Appellant called Michael Unick, C.A., Manager, Disbursements and Taxation for the Appellant; Gregory Kuse, LLB; and Barbara Carriere. The Respondent called Larry Gruber, auditor on the file.
+
+[2] The Notice of Appeal described the issues as follows:
+
+2.1 SaskTel submits that the issues to be determined include, inter alia, the following:
+
+(a) Whether any portion of the parking provided to the employees of SaskTel in the relevant periods is a "benefit amount" which is required under paragraph 6(1)(a) of the Income Tax Act to be included in computing such employee's income for a taxation year. In determining whether the parking provided to the employees is a "benefit amount", various sub-issues arise, including the following:
+
+(i) whether the parking provided to the SaskTel employees is a supply of a property or service;
+
+(ii) whether an amount in respect of the parking provided to the SaskTel employees is a "benefit", for the purposes of section 6(1)(a) of the Income Tax Act;
+
+(iii) in the event an amount in respect of the parking provided to the SaskTel employees is a "benefit" what the value of such "benefit" is to the employee is for the purposes of section 6(1)(a) of the Income Tax Act;
+
+(b) Whether SaskTel is entitled to the full input tax credit claimed with respect to food, beverages and entertainment or whether 50% of such input tax credits are required to be included in the determination of net tax of SaskTel for the relevant periods.
+
+(c) Whether SaskTel, being an agent of the Provincial Government of the Province of Saskatchewan, can be assessed penalties pursuant to the Excise Tax Act.
+
+(d) Whether any portion of the Minister's assessment is statute barred.
+
+[3] The Assessment Period is September 1, 1992 to December 31, 1995. At the opening of Hearing the Appellant conceded issue (d) and the Respondent conceded issue (c).
+
+[4] Issue (b) must be determined on the basis of Exhibit A-R1, 25, an agreement between the Ministers of Finance of Canada and Saskatchewan which defines GST to be the tax imposed under Part IX of the Excise Tax Act ("Act"), and its regulations as amended. The question then is whether subsection 236(1) of Part IX imposes a tax. It reads:
+
+(1) Where a registrant is the recipient of, or pays an allowance in respect of, a supply of food, beverages or entertainment and subsection 67.1(1) of the Income Tax Act applies, or would apply if the registrant were a taxpayer under that Act, in respect of the supply or allowance, 50% of the total of all amounts, each of which is an input tax credit claimed in a return for a reporting period in a fiscal year of the registrant in respect of the supply or allowance, shall be added in determining the net tax
+
+(a) where the registrant ceases in or at the end of that fiscal year to be registered under Subdivision d, for the last reporting period of the registrant in that fiscal year;
+
+(b) where the reporting period of the registrant in that fiscal year is that fiscal year, for that reporting period; and
+
+(c) in any other case, for the reporting period of the registrant that begins immediately after the end of that fiscal year.
+
+Section 236 was renumbered as subsection 236(1) by S.C. 1994, c. 9, s. 14(1). The portion of subsection 236 preceding paragraph (a) was amended by S.C. 1993, c. 27, s. 97(1), effective December 17, 1990, and formerly read:
+
+â€œ236. (1) Where a registrant is the recipient of, or pays an allowance in respect of, a supply of food, beverages or entertainment and subsection 67.1(1) of the Income Tax Act applies, or would apply if the registrant were a taxpayer under that Act, in respect of the supply or allowance, 20% of the total of all amounts, each of which is an input tax credit claimed in a return for a reporting period in a fiscal year of the registrant in respect of the supply or allowance, shall be added in determining the net tax
+
+[5] The Appellant argues that this does not impose a tax. In this case the Appellant is a recipient of food and beverages of which 20% of the amounts, and after February, 1994, 50% of the amounts are added in determining the net tax. In the Court's view, subsection 236(1) describes the calculations which precede the imposition of the Part IX tax and on this basis the GST is properly imposed. This appeal is dismissed.
+
+[6] The majority of the evidence concerns issue (a). The parties filed a Partial Agreed Statement of Facts, which reads:
+
+The parties to the within action agree, through their respective counsel, to the following facts:
+
+1. Saskatchewan Telecommunications ("SaskTel") is a corporation created pursuant to The Saskatchewan Telecommunications Act, RSS 1978, c.S-34.
+
+2. At all relevant times, SaskTel was registered under subdivision d of Division V of the Excise Tax Act, RSC 1985, c.E-13, as amended (the "Excise Tax Act") and was assigned GST registration number 119452795.
+
+3. During the period from September 1, 1992 to December 31, 1995 "the "Relevant Period"), SaskTel owned parking facilities at the following locations:
+
+(a) 1740 Lorne Street, Regina, Saskatchewan being the Parkade referred to in subparagraph 16(g) of the Minister of National Revenue's (the "Minister") Reply to Notice of Appeal;
+
+(b) 1825 Lorne Street, Regina, Saskatchewan being a Parking Lot referred to in subparagraph 16(k) of the Minister's Reply to Notice of Appeal; and
+
+(c) 140 1st Avenue South, Saskatoon, Saskatchewan being a Parking Lot referred to in subparagraph 16(k) of the Minister's Reply to Notice of Appeal.
+
+4. During the Relevant Period, SaskTel leased parking spaces from the owners of certain parking facilities located in the cities of Saskatoon and Regina as follows:
+
+Location Parkade/Parking Lot
+
+Cornwall Centre Parkade
+
+2114 11th Avenue, Regina
+
+Saskatoon Tower Parkade
+
+125 5th Avenue N. Saskatoon
+
+Sturdy Stone Parkade
+
+124 3rd Avenue N., Saskatoon
+
+Princeton Towers Parkade
+
+123 2nd Avenue S., Saskatoon
+
+Midtown Plaza Parking Lot
+
+122 1st Avenue S., Saskatoon
+
+being parking facilities referred to in subparagraph 16(k) of the Minister's Reply to Notice of Appeal.
+
+5. During the Relevant Period, access to parking spaces in parking facilities either owned by SaskTel or leased by SaskTel from third parties were made available by SaskTel to certain officers and employees. The officers and employees of SaskTel who had access to such parking facilities were:
+
+(a) employees who were employed as either a general manager or a manager who participated in the Management Vehicle Reimbursement Program (the "Management Program Employees");
+
+(b) officers and employees who were not Management Program Employees, namely:
+
+(i) 10 persons employed as executives, holding the offices of president and vice-presidents of the Appellant ("Executives");
+
+(ii) 20 persons employed as general managers who were not Management Program Employees ("General Managers");
+
+(iii) 250 persons employed as managers who were not Management Program Employees ("Out of Scope Managers"); and
+
+(iv) 260 persons employed in a position other than as an Executive, General Manager or an Out of Scope Manger ("In Scope Employees");
+
+collectively referred to as the "Subject Employees".
+
+6. The Subject Employees are the officers and employees which form the basis for the Minister's assessment in the within appeal.
+
+7. The Subject Employees are required to travel away from their regular office in the performance of their duties an average of 78 days per calendar year.
+
+8. During the Relevant Period, the Subject Employees, excepting the Executives and General Managers, were charged by SaskTel the sum of $16.00 per month, plus $1.12 of GST, for parking provided by SaskTel during the months of April to October and the sum of $20.00 per month, plus $1.40 of GST, for parking provided by SaskTel during the months of November to March.
+
+9. During the Relevant Period, SaskTel did not charge the Executives and General Managers for parking in the parking facilities to which the Executives and General Managers had access.
+
+10. During the Relevant Period, the parking facilities in which the Subject Employees were allowed to park were as follows:
+
+Location
+
+Parkade/Parking Lot
+
+# of Subject Employees
+
+Cornwall Centre
+
+2114 11th Avenue, Regina
+
+Parkade
+
+22
+
+1825 Lorne Street, Regina
+
+Parking Lot
+
+Saskatoon Tower
+
+125 5thAvenue.N., Saskatoon
+
+Parkade
+
+19
+
+Sturdy Stone
+
+124 3rd Avenue N., Saskatoon
+
+Parkade
+
+68
+
+Princeton Towers
+
+123 2nd Avenue S., Saskatoon
+
+Parkade
+
+43
+
+Midtown Plaza
+
+122 1st Avenue S., Saskatoon
+
+Parking Lot
+
+13
+
+140 1st Avenue S., Saskatoon
+
+Parking Lot
+
+15
+
+1740 Lorne St., Regina
+
+Parkade
+
+353
+
+TOTAL
+
+540
+
+11. The SaskTel-owned parking facility located at 1740 Lorne Street, Regina, Saskatchewan has 383 individual parking stalls. During the Relevant Period, the number of employees of SaskTel who had access to this parking facility fluctuated up and down, however, at one point during the Relevant Period, 497 employees of SaskTel had access to this parking facility including 353 Subject Employees.
+
+12. The SaskTel-owned parking facility located at 1825 Lorne Street, Regina, Saskatchewan has 7 individual parking stalls. During the Relevant Period, 7 Subject Employees were assigned these parking stalls.
+
+13. The SaskTel-owned parking facility located at 140 1st Avenue South, Saskatoon, Saskatchewan has 69 individual parking stalls. During the Relevant Period, 15 Subject Employees were assigned 15 of the stalls and the remaining stalls were assigned to other employees of SaskTel.
+
+14. During the Relevant Period, SaskTel leased 22 parking spaces from the owners of Cornwall Centre parkade located at 2114 11th Avenue, Regina which were reserved for use by the Executives and certain General Managers. SaskTel paid nothing to the owner of this facility for the parking spaces. The owner of Cornwall Centre parkade during the Relevant Period charged its other parking customers the amount of $85.00 (exclusive of GST) per month or $3.50 per day for a parking space.
+
+15. During the Relevant Period, SaskTel leased 66 parking spaces from the owners of Saskatoon Tower parkade located at 125 5th Avenue North, Saskatoon and assigned 19 of these parking spaces to the Subject Employees. SaskTel paid the following amounts to the owner of this facility for the parking spaces:
+
+(i) 9 stalls @ $85.00 (exclusive of GST);
+
+(ii) 2 stalls @ $65.00 (exclusive of GST);
+
+(iii) 55 stalls @ nil.
+
+The owner of Saskatoon Tower parkade during the Relevant Period charged its other parking customers the amount of $85.00 (exclusive of GST) per month for lower level parking spaces and the amount of $65.00 (exclusive of GST) per month for upper level parking spaces.
+
+16. During the Relevant Period, SaskTel leased 81 parking spaces from the owners of the Sturdy Stone parking lot located at 124 3rd Avenue North, Saskatoon, and assigned 68 of those parking spaces to the Subject Employees. SaskTel paid the following to the owner of this facility for the parking spaces.
+
+(i) 43 stalls @ $60.00 (exclusive of GST);
+
+(ii) 38 stalls @ $55.00 (exclusive of GST).
+
+The owner of the Sturdy Stone parkade during the Relevant Period charged its other parking customers the amount of $5.00 per day for a parking space.
+
+17. During the Relevant Period, SaskTel leased 13 parking spaces from the owners of Midtown Plaza parkade located at 122 1st Avenue South, Saskatoon which were assigned to the Subject Employees. SaskTel paid the following to the owner of this facility for the parking spaces:
+
+(i) 13 stalls @ $45.00 (exclusive of GST) (September 1992 to July 1995)
+
+(ii) 13 stalls @ $50.00 (exclusive of GST) (commencing July 1995)
+
+The owner of Midtown Plaza during the relevant period charged other parking customers the amount of $80.00 (exclusive of GST) per month for an underground parking space and $45.00 (exclusive of GST) per month for an outdoor parking space at its "Blue" lot.
+
+18. During the relevant period, SaskTel leased 44 parking spaces from the owners of the Princeton Towers parkade located at 123 2nd Avenue South, Saskatoon, which were assigned to the Subject Employees. SaskTel paid the following to the owner of this facility for the parking spaces:
+
+(i) 35 stalls @ $60.00 (exclusive of GST);
+
+(ii) 2 stalls @ $85.00 (exclusive of GST);
+
+(iii) 6 stalls @ $20.00 (exclusive of GST).
+
+[7] The assumptions in paragraph 16 of the Reply to the Notice of Appeal read:
+
+16. In so assessing the Appellant, the Minister relied on, inter alia, the following assumptions:
+
+a) the facts stated and admitted above;
+
+b) the Appellant registered under subdivision d Division V of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act") and was assigned GST registration number 119452795;
+
+c) throughout the period September 1, 1992 to December 31, 1995 the reporting period of the Appellant was each fiscal month in that period;
+
+d) the appellant is a corporation involved in commercial activities and at all material times was engaged in the telecommunications service business;
+
+e) the Appellant had offices located in both the Saskatchewan cities of Saskatoon and Regina;
+
+f) the head office of the Appellant is located in Regina, at 2121 Saskatchewan Drive;
+
+g) the appellant owned a multi-level parking facility located in the core downtown area of Regina on property adjacent to it's head office ("the Appellant's Parkade");
+
+h) the Appellant's Parkade has at least 400 parking spaces in which an automobile could be parked;
+
+i) during the relevant period approximately 353 of the parking spaces located in the Appellant's Parkade were supplied by the Appellant to certain of it's employees;
+
+j) access to parking spaces at the Appellant's Parkade is controlled 24 hours of each day by security personnel employed by the Appellant;
+
+k) the Appellant rented additional parking spaces from the owners of certain multi-level parking facilities and parking lots all located in the core downtown areas of Regina and Saskatoon as follows, namely:
+
+Location
+
+Parkade
+
+# of parking
+
+spaces rented
+
+Cornwall Centre Parkade
+
+2114 11th Ave., Regina
+
+Parkade
+
+22
+
+1825 Lorne St., Regina
+
+Parking Lot
+
+Saskatoon Tower Parkade
+
+125 5th Ave. N., Saskatoon
+
+Parkade
+
+28
+
+Sturdy Stone Centre
+
+124 3rd Ave. N., Saskatoon
+
+Parkade
+
+68
+
+Princeton Towers
+
+123 2nd Ave S., Saskatoon
+
+Parkade
+
+44
+
+Midtown Plaza
+
+122 1st Ave. S., Saskatoon
+
+Parking Lot
+
+17
+
+140 1st Ave S., Saskatoon
+
+Parking Lot
+
+12
+
+Total
+
+198
+
+l) each parking space within the Appellant's Parkade and each parking space within a Parkade rented by the Appellant is supplied with a power outlet that can be used to power a block heater or car heater during cold days;
+
+m) each parking space within a Parking Lot rented by the Appellant is not sheltered;
+
+n) each parking space rented by the Appellant has a sign posted thereto that states the space is reserved for use by employees of the Appellant;
+
+o) access to parking spaces in the Appellant's Parkade and parking spaces rented by the Appellant was made available by the Appellant to employees and other persons the Appellant permitted to use a parking space;
+
+p) during the relevant period the Appellant granted permission to make use of and have access to parking in the Appellant's Parkade or in parking spaces rented by the Appellant to employees who were employed as either a General Manager or a Manager who participated in the Management Vehicle reimbursement Program (the "Management Program employees");
+
+q) in addition to the Management Program employees the Appellant granted permission to the following employees to make use of and have access to parking in the Appellant's Parkade or in parking spaces rented by the Appellant, namely:
+
+i) 10 persons employed as Executives, holding office as President and Vice-President of the Appellant;
+
+ii) 20 persons employed as a General Manager who were not Management Program employees ("In-scope General Managers");
+
+iii) approximately 250 persons employed as a Manager who were not Management Program employees ("In-scope Managers");
+
+iv) approximately 260 persons employed in a position other than as an Executive, a General Manager or a Manager ("Out-of-scope Employees");
+
+r) Management Program employees:
+
+i) supervised staff that were located in a number of different locations;
+
+ii) were habitually required to travel away form their regular office in the performance of their duties;
+
+iii) did not pay anything for parking spaces the Appellant supplied to them; and
+
+iv) a taxable benefit did not arise from the parking spaces the Appellant supplied to them;
+
+s) the Executives, In-scope General Managers, In-scope Managers and Out-of-scope Employees were rarely, if at all, required to travel away from their regular office in the performance of their duties;
+
+t) each of the Appellant's employees who was a recipient of a supply made by the Appellant of a parking space was assigned a stall in which to park his or her automobile in the Appellant's Parkade or in a Parking lot rented by the Appellant;
+
+u) during the relevant period the appellant granted permission to Executives and General Managers to make use of and have access to parking in the Appellant's Parkade;
+
+v) during the relevant period the appellant granted permission to employees applying for use and access to parking in the Appellant's Parkade or in parking spaces rented by the Appellant on the basis of the applicant's position and seniority within the Appellant;
+
+w) the Appellant did not realize any revenue or receive any consideration from its employees for the use of parking spaces situated within the Appellant's Parkade or rented by the Appellant other than from the In-scope Managers and the Out-of-scope Employees that the Appellant permitted to make use of and have access to parking in the Appellant's Parkade or in parking spaces rented by the Appellant;
+
+x) the permission granted by the Appellant to employees specified in subparagraph (n) above, was to make use of and have access to parking at any time for the purpose of parking a particular automobile as determined by the employee, including an automobile owned by the employee;
+
+y) the Appellant since 1991 charged In-scope Managers and Out-of-scope Employees the sum of $16.00 per month, plus $1.12 as GST for the use of a parking space during the months of April to October, and the sum of $20.00 per month, plus $1.40 as GST for the use of a parking space during the months of November to March;
+
+z) throughout the relevant period the Appellant received from each of the In-scope Managers and Out-of-scope Employees the sum of $16.00 per month, plus $1.12 as GST for the use of a parking space during the months of April to October, and the sum of $20.00 per month, plus $1.40 as GST for use of a parking space during the months of November to March;
+
+aa) the Appellant received payment by deduction from salary or wages otherwise payable in the monthly amounts specified in subparagraph (s) above, without regard to the employee's actual usage of the parking space in the month;
+
+bb) also located within the Regina downtown core area and adjacent to the Appellant's Parkade was a parking facility owned by third parties known as "the Cornwall Centre Parkade";
+
+cc) the operator of the Cornwall Centre Parkade was engaged in the business of providing parking for profit to persons including employees of other employers with offices in the Regina downtown core area;
+
+dd) the operator of the Cornwall Centre Parkade charged the monthly sum of $85.00 per month plus GST for the right to park one automobile therein at any time at a parking space supplied with a power outlet that can be used to power a block heater or car heater during cold days;
+
+ee) also located within the Saskatoon downtown core area and adjacent to the parking facility rented by the Appellant was a parking facility owned by third parties that is known as "the Midtown Plaza";
+
+ff) the operator of the Midtown Plaza was engaged in the business of providing underground and outdoor parking for profit to persons including employees of other employers with offices in the Saskatoon downtown core area;
+
+gg) the operator of the Midtown Plaza charged the monthly sum of $90.00 per month plus GST for the right to park one automobile therein at any time at an underground parking space supplied with a power outlet that can be used to power a block heater or car heater during cold days, and $50.00 per month plus GST for access to an outdoor parking space not sheltered and without a power outlet;
+
+hh) the Appellant rented 17 outdoor parking spaces situated within the Midtown Plaza Parking Lot located as specified in subparagraph (i) above;
+
+ii) also located within the Saskatoon downtown core area and adjacent to the parking facility rented by the Appellant was a parking facility owned by third parties that is known as "the Saskatoon Tower Parkade";
+
+jj) the operator of the Saskatoon Tower Parkade was engaged in the business of providing parking services for profit to the persons including employees of other employers with offices in the Saskatoon downtown core area;
+
+kk) the operator of the Saskatoon Tower Parkade charged the monthly sum of $85.00 per month plus GST for the right to park one automobile therein at any time at a reserved parking space supplied with a power outlet that can be used to power a block heater or car heater during cold days, and $70.00 per month plus GST for the right to park one automobile therein at any time at a non-reserved parking space supplied with a power outlet that can be used to power a block heater or car heater during cold days;
+
+ll) also located within the Saskatoon downtown core area and adjacent to the parking facility rented by the Appellant was a parking facility owned by third parties that is known as "the Sturdy Stone Centre";
+
+mm) the operator of the Sturdy Stone Centre was engaged in commercial activities and charged the daily sum of $6.60 per day inclusive of GST for the right to park one automobile therein at any time at a non-reserved parking space supplied with a power outlet that can be used to power a block heater or car heater during cold days;
+
+nn) the fair market value of the supply of a parking space in the Appellant's Parkade or of a parking space rented by the Appellant in a Parkade in the downtown core areas of Saskatoon and Regina was throughout the relevant period $90.95 per month, including GST;
+
+oo) the fair market value of the supply of a parking space rented by the Appellant in a Parking Lot in the downtown core areas of Saskatoon and Regina was throughout the relevant period $40.40 per month, including GST;
+
+pp) except for the GST included in the monthly payments made by the In-scope Managers and the Out-of-scope employees, the Appellant did not include any amounts in respect of the supplies of parking spaces it made to its employees in its calculation of its net tax for the reporting periods ending during the relevant period;
+
+qq) the Appellant did not account for and remit the following amounts of tax in respect of the supplies of parking spaces it made to its employees during the period of September 1, 1992 to December 31, 1992;
+
+Category of
+
+employee
+
+Calculation
+
+Parkade or
+
+Parking Lot
+
+Unreported
+
+Tax
+
+Executives &
+
+General Managers
+
+(30 x 4) x
+
+(90.95 x 7/107)
+
+Parkade
+
+714.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(475 x 2) x
+
+[(90.95-21.40) x 7/107]
+
+Parkade
+
+4,323.00
+
+Managers &
+
+Out-of-scope Employees
+
+(475 x 2) x
+
+[(90.95-17.12) x 7/107]
+
+Parkade
+
+4,588.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(35 x 2) x
+
+[(40.00-21.40) x 7/107]
+
+Outdoor
+
+85.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(35 x 2) x
+
+[(40.00-17.12) x 7/107]
+
+Outdoor
+
+105.00
+
+Total
+
+$9,815.00
+
+rr) the Appellant did not account for and remit the following amounts of tax in respect of the supplies of parking spaces it made to its employees during the period of January 1, 1993 to December 31, 1995;
+
+Category of
+
+employee
+
+Calculation
+
+Parkade or
+
+Parking Lot
+
+Unreported
+
+Tax
+
+Executives &
+
+General Managers
+
+(30 x 12) x
+
+(90.95 x 7/107)
+
+x 3
+
+Parkade
+
+6,426.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(Winter)
+
+(475 x 5) x
+
+(90.95-21.40) x 7/107 x 3
+
+Parkade
+
+32,419.00
+
+Managers &
+
+Out-of-scope Employees
+
+(Summer)
+
+(475 x 7) x
+
+(90.95-17.12) x 7/107 x 3
+
+Parkade
+
+48,179.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(Winter)
+
+(35 x 5) x
+
+(40.00-21.40) x 7/107 x 3
+
+Parking Lot
+
+639.00
+
+Managers &
+
+Out-of-scope
+
+Employees
+
+(Summer)
+
+(35 x 7) x
+
+(40.00-17.12) x 7/107 x 3
+
+Parking Lot
+
+1,101.00
+
+Total
+
+$88,764.00
+
+ss) the Appellant did not deduct or withhold any amounts pursuant to the Income Tax Act in respect of parking provided to it's employees;
+
+tt) the Appellant in the course of it's operations was at all relevant times the recipient of supplies of food, beverages and entertainment;
+
+uu) the Appellant was a recipient of supplies of food and beverages from suppliers who received payment directly from the Appellant in amounts inclusive of GST in the relevant years as follows:
+
+Supplier
+
+1992
+
+1993
+
+1994
+
+1995
+
+Beaver foods
+
+1,515
+
+8,606
+
+7,937
+
+Canway foods
+
+45,203
+
+103,461
+
+114,549
+
+112,429
+
+Nice Bunz
+
+4,045
+
+5,802
+
+Riverside
+
+2,070
+
+2,342
+
+Saskatoon Club
+
+936
+
+6,369
+
+8,847
+
+Chicken Delight
+
+340
+
+867
+
+554
+
+719
+
+Total
+
+45,544
+
+106,779
+
+136,193
+
+138,076
+
+vv) the Appellant claimed input tax credits in respect of the supplies of food and beverages specified in subparagraph uu) above in a return for a reporting period ending during the relevant period in amounts as follows:
+
+Year
+
+Input Tax Credit claimed
+
+1992
+
+2,979.00
+
+1993
+
+6,986.00
+
+1994
+
+8,910.00
+
+1995
+
+9,033.00
+
+ww) in addition to the input tax credits referred to in the previous subparagraph the Appellant claimed input tax credits as the recipient of supplies of food, beverages and entertainment from suppliers who received payment in transactions recorded by the Appellant in account #67321007 in amounts inclusive of GST in a return for a reporting period ending during the relevant period in amounts as follows:
+
+Year
+
+Input Tax Credit claimed
+
+1992
+
+6,792.00
+
+1993
+
+7,547.00
+
+1994
+
+8,385.00
+
+1995
+
+9,317.00
+
+xx) in addition to the input tax credits referred to in the previous subparagraph and in subparagraph vv) the Appellant claimed input tax credits as the recipient of supplies of food, beverages and entertainment from suppliers who received payment in transactions recorded by the Appellant in accounts other than #'s 67321007 in amounts inclusive of GST in a return for a reporting period in fiscal years in amounts as follows:
+
+Year
+
+Input Tax Credit claimed
+
+1992
+
+2,453.00
+
+1993
+
+2,725.00
+
+1994
+
+3,028.00
+
+1995
+
+3,364.00
+
+yy) the Appellant did not include 20% of the input tax credits it claimed in respect of the supplies of food, beverages and entertainment specified in subparagraphs vv) to xx) that it received prior to March 1994 and did not include 50% of the input tax credits it claimed in respect of the supplies of food, beverages and entertainment specified in subparagraphs vv) to xx) that it received after February 1994 when determining its net tax and failed to report the following amounts of tax:
+
+Fiscal Year
+
+Amount
+
+1992
+
+1,475.00
+
+1993
+
+3,451.00
+
+1994
+
+9,145.00
+
+1995
+
+10,858.00
+
+Total
+
+$24,929.00
+
+[8] With respect to the assumptions:
+
+(b) Not refuted.
+
+(c) Not refuted.
+
+(d) Agreed to by Mr. Unick.
+
+(e) Not refuted.
+
+(f) Agreed to by Mr. Unick.
+
+(g) Not refuted.
+
+(h) There were 383 parking spaces in the parkade.
+
+(i) Not refuted.
+
+(j) Not refuted.
+
+(k) Correct, but the number of spaces varied somewhat.
+
+(l) Agreed to by Mr. Unick.
+
+(m) Agreed to by Mr. Unick.
+
+(n) Correct except that there were no signs in the Midtown Plaza in Saskatoon.
+
+(o) Agreed to by Mr. Unick.
+
+(p) Not refuted.
+
+(q) Agreed to by Mr. Unick.
+
+(r) Agreed to by Mr. Unick. (But these employee parking locations are not part of the appeal as of the Hearing date.)
+
+(s) In the Partial Agreement Statement of Facts.
+
+(t) Stalls were not assigned except in the Cornwall Centre. Elsewhere the Parkade or Parking Lot was assigned, but not the stall.
+
+(u) Not refuted.
+
+(v) Not refuted.
+
+(w) Agreed to by Mr. Unick.
+
+(x) Not refuted.
+
+(y) Not refuted.
+
+(z) Agreed to by Mr. Unick.
+
+(aa) Agreed to by Mr. Unick, but the subparagraph was not corrected to (z).
+
+(bb) Agreed to by Mr. Unick.
+
+(cc) Agreed to by Mr. Unick.
+
+(dd) In the Partial Agreed Statement of Facts.
+
+(ee) Agreed to by Mr. Unick.
+
+(ff) Agreed to by Mr. Unick except that Mr. Unick did not know if there was "parking for profit".
+
+(gg) Agreed to by Mr. Unick, but the figure $90.00 should be $80.00.
+
+(hh) Agreed to by Mr. Unick.
+
+(ii) Agreed to by Mr. Unick.
+
+(jj) Agreed to by Mr. Unick except that Mr. Unick did not know if the party services were for profit.
+
+(kk) Agreed to by Mr. Unick, but the figure $70.00 should be $65.00.
+
+(ll) Agreed to by Mr. Unick.
+
+(mm) Agreed to by Mr. Unick but the $6.60 figure should be $5.00.
+
+(nn) and (oo) are in dispute.
+
+(pp) Agreed to by Mr. Unick, but he denied that the words "of the supplies" were correct.
+
+(qq) Not refuted.
+
+(rr) Not refuted.
+
+(ss) Agreed to by Mr. Unick.
+
+(tt) Agreed to by Mr. Unick.
+
+(uu) Agreed to by Mr. Unick.
+
+(vv) Agreed to by Mr. Unick.
+
+(ww) Agreed to by Mr. Unick.
+
+(xx) Agreed to by Mr. Unick.
+
+(yy) Agreed to by Mr. Unick on the basis that the Appellant disputes that it owes any tax.
+
+[9] The Respondent did not admit that the basis for the assessment respecting parking was an allegation of employee benefits pursuant to paragraph 6(1)(a) of the Income Tax Act, with a resultant GST adjustment pursuant to Section 173 of the Excise Tax Act. (See paragraphs 1.17 of the Notice of Appeal and 9 of the Reply.) Nor was there an assumption of a benefit to the employees.
+
+[10] Larry Gruber, the auditor, reviewed Exhibit A-R 1, Tab 2, "Summary of Assessment" which states that parts of the assessment are for employee parking benefits. He further testified that the values assessed were based upon the difference between what he calculated to be the fair market value of the parking spaces and the amounts the employees paid. For parkades he calculated the fair market value on the basis of the rates at the Cornwall Parkade as described in assumption (nn). For parking lots, he used the rentals paid by the appellant as described in assumption (oo). Larry Gruber was not qualified as an expert witness in parking lot rates.
+
+[11] The Appellant's evidence is that the employees who were provided parking stalls which remain subject to assessment did not have the use of particular stalls. They were expected by the Appellant to travel, from time to time, from their assigned offices in the course of various duties assigned to them by the Appellant in the course of their employment, which they did. On average this travel occurred on more than 30% of their working days. Their vehicles and they had access to that parking 24 hours a day, 7 days a week throughout the year. The subject employees could use the parking facilities after office hours for their personal use in their discretion. Their usage during office hours was for the benefit of the Appellant. The Appellant provided business parking and its employees used their own vehicles located in that parking for the Appellant's business from time to time as required by their duties. As a result, business travel occurred more quickly and efficiently. This benefited the Appellant, not the employees.
+
+[12] However, each subject employee paid the Appellant the rates described and these rates constituted reimbursement for the personal aspect of their occasional use of the parking after office hours. Thus, any personal benefit was paid for in the rates levied on the employees by the Appellant.
+
+[13] In the Court's view this is an evidentiary issue. The Appellant proved its contention respecting the parking. The Respondent did not prove that the employees received any personal benefit from the parking or that the rates it calculated represented either the correct value or the fair market value of the portion of the parking which constituted personal benefit to the employees. Rather, the Appellant and its employees were at arm's length and they made mutual deals respecting the parking in which each got consideration for what it gave.
+
+[14] Thus, any value which an employee received was for that employee's occasional use of the parking facilities for shopping or entertainment similar to the personal use described by Mr. Unick. The Appellant and its employees agreed on a rate of payment by each employee that is commensurate with the personal parking value that those employees received. For this reason, this portion of the appeal is allowed.
+
+[15] The assessments are referred back to the Minister accordingly.
+
+[16] The Appellant is awarded party and party costs.
+
+Signed at Ottawa, Canada this 31st day of August, 1999.
+
+"D.W. Beaubier"
+
+J.T.C.C.
+

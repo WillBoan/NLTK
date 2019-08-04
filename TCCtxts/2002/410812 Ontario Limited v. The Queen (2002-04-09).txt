@@ -1,0 +1,298 @@
+Date:20020409
+
+Docket: 2001-3861-GST-I
+
+BETWEEN:
+
+410812 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+BOWMAN, A.C.J.
+
+[1] This appeal is from an assessment of Goods and Services Tax ("GST") made under Part IX of the Excise Tax Act for the period from May 1, 1993 to April 30, 1999.
+
+[2] The notice of appeal put in issue a number of matters such as the penalty and interest assessed under section 280, the quantum of the tax, the imposition of a gross negligence penalty under section 285 and the timeliness of the assessment.
+
+[3] At the opening of trial, counsel for the appellant stated that the appellant was abandoning all challenges to the assessment except for the matter of the penalty for gross negligence under section 285, which read at the relevant time
+
+Every person who knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Part, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (in this section referred to as a "return") made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the amount, if any, by which
+
+(a) in the case of net tax for a period,
+
+(i) the amount of net tax of a person for the period
+
+exceeds
+
+(ii) the amount that would be the net tax of the person for the period if the net tax were determined on the basis of the information provided in the return;
+
+(b) in the case of tax payable for a period or transaction,
+
+(i) the amount of tax payable by the person for the period or transaction
+
+exceeds
+
+(ii) the amount that would be the tax payable by the person for the period or transaction if the tax were determined on the basis of the information provided in the return; and
+
+(c) in the case of an application for rebate,
+
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+
+exceeds
+
+(ii) the amount of the rebate payable to the person.
+
+[4] The test is the same as that under subsection 163(2) of the Income Tax Act, which has been the subject of a myriad of cases. Counsel for the appellant handed in a brief of thirty cases and I suspect that this is just the tip of the iceberg.
+
+[5] I need not refer to all of them. The leading cases were dealt with in Findlay v. The Queen, 2000 DTC 6345, where the Federal Court of Appeal adopted the reasoning of Justice Strayer in Venne v. The Queen, 84 DTC 6247, and of Justice Cattanach in Udell v. M.N.R., 70 DTC 6019.
+
+[6] The Federal Court of Appeal at page 6349 adopted the following reasoning of Strayer J. in Venne:
+
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To be sure, the plaintiff did not exercise the care of a reasonable man and, as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+
+With respect to business income, I can more readily recognize that effective surveillance would have been difficult for the plaintiff and would have involved him making and reviewing numerous computations of revenues, expenditures, assets, and liabilities. In other words the errors in business income, small in some years but very substantial in others, would not necessarily have "sprung out" at a person of the taxpayer's background and abilities. While it may have been naive for him to trust his bookkeeper as knowing more about such matters than he did, I do not think it was gross negligence for them to fail to challenge the bookkeeper with respect to the business computations. However egregious the errors committed by the bookkeeper in this respect, it is quite conceivable that they were not in fact noticed by the plaintiff and his neglect in not noticing them fell short of constituting gross negligence.
+
+[7] The court also cited with approval the decision of Cattanach J. in Udell to the effect that the gross negligence of a taxpayer's accountant cannot for the purposes of penalties imposed under subsection 56(2) [now subsection 163(2)] of the Income Tax Act be attributed to the taxpayer.
+
+[8] These principles essentially are the basis upon which all of the other 28 cases cited were decided.
+
+[9] If any broad principle can be deduced from the multiplicity of cases decided under subsection 163(2) of the Income Tax Act it is that courts are reluctant to sanction the imposition of gross negligence penalties unless evidence of a high degree of negligence is clearly established.
+
+[10] In Farm Business Consultants Inc. v. The Queen, 95 DTC 200, the following was said at pages 205-6:
+
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established.3 Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted.4 I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+
+_______________________________________________________
+
+3 Cf. Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; 131 D.L.R. (3d) 559; 25 C.P.C. 72, per Laskin, C.J.C. at 168-171; D.L.R. 562-564; C.P.C. 75-77); Bater v. Bater, [1950] 2 All E.R. 458 at 459; Pallan et al. v. M.N.R., 90 DTC 1102 at 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440 at 2443.
+
+4 This is not simply an extrapolation from the rule in Hodge's Case (1838) 2 Lewin 227; 168 E.R. 1136, applicable in criminal matters such, for example, as section 239 of the Income Tax Act where proof beyond a reasonable doubt is required. It is merely an application of the principle that a penalty may be imposed only where the evidence clearly warrants it. If the evidence is consistent with both the state of mind justifying a penalty under subsection 163(2) and the absence thereof — I hesitate to use the words innocence or guilt in these circumstances — it would mean that the Crown's onus had not been satisfied.
+
+[11] The decision of the Tax Court of Canada was affirmed by the Federal Court of Appeal (96 DTC 6085) which said that the court was satisfied that the trial judge applied the proper principles of law to the facts before him in this case which led him to appropriate findings and ultimately to the proper decision.
+
+[12] One other point should be mentioned before I review the facts. Counsel for the respondent referred to only two cases. SDC Sterling Dev. Corp. v. Canada, [1997] G.S.T.C. 103, and Roberts v. Canada, [1997] G.S.T.C. 58.
+
+[13] These cases did not deal with gross negligence. They involved an unsuccessful challenge to the imposition of penalties under section 280 of the Excise Tax Act on the basis that the reliance on the appellant's accountants constituted "due diligence" (Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49, Consolidated Cdn. Contractors v. Canada, [1998] G.S.T.C. 91).
+
+[14] Such cases are of virtually no assistance in an appeal against gross negligence penalties under section 285. Both the onus of proof and the standard are different. In gross negligence cases, the Crown has the onus and the standard is high, as discussed in the cases referred to above. In due diligence cases the taxpayer has the onus and the standard is also relatively high although not as high as that required to establish gross negligence. It is possibly not fair to attempt to measure the standard of proof in the two types of case against each other because in a sense it is an apples versus oranges comparison. However, one thing is clear: just because a taxpayer cannot succeed in establishing a due diligence defence does not mean that he or she should be penalized under section 285. I should think the point is fairly obvious.
+
+[15] Since the Crown had the onus in respect of the only point in issue the respondent opened and called Mr. William Brown, an experienced auditor, with the CCRA. He performed the audit and it was on his recommendation that the penalty was imposed. I found him an impressive and conscientious witness.
+
+[16] His recommendation for a penalty under section 285 was based in part on work that had been done by a previous auditor. A brief outline of the facts will suffice. 410812 Ontario Limited ("410") is owned and controlled by David Crittenden, a lawyer who has not practised law since 1983. He is a businessman and investor. In 1989, 410 bought a land and building at 111 Forsythe Street, Oakville, Ontario.
+
+[17] The property was leased by Riverside Joint Venture, of which David Crittenden was a principal, to an arm's length tenant who operated a restaurant. That company made payments of mortgage principal and interest directly to the mortgagee and property taxes directly to the municipality. In 1993 a GST audit of the Riverside Joint Venture was conducted. GST had not been collected on the third party payments. Revenue Canada assessed GST on these and the assessment was paid and no objection or appeal was filed.
+
+[18] In 1992 the lease with the arm's length lessor came to an end and the appellant (410) leased the property to Shark Bytes Inc. for five years from December 1, 1992. This was not an arm's length transaction. Clause 3 of the lease read:
+
+3. RENT
+
+The Tenant shall pay during each year of the lease term as rent, all of the expenses incurred in connection with the Demised Premises plus the sum of $1.00 per annum and without limiting the generality of the foregoing such expenses shall include mortgage interest and realty taxes.
+
+[19] Mr. Crittenden drafted the lease.
+
+[20] No amounts were paid directly to the appellant. The tenant paid mortgage principal and interest to the mortgagee, property taxes to the municipality and insurance premiums to the insurer.
+
+[21] No GST was remitted on these payments.
+
+[22] One thing is clear beyond any doubt. The payments to the third party were rent and they represented taxable supplies that were subject to GST. Mr. Crittenden sought to draw a distinction between the third party payments made under the earlier arrangement and those made under the non-arm's length lease of December 1, 1992 on the basis that under the earlier arrangement the tenant made the third party payments unilaterally to ensure that the property was not lost by foreclosure or sold at a tax sale and that the payments under the December 1, 1992 lease were maintenance of the property within a corporate group. I cannot accept this argument for a moment.
+
+[23] Nonetheless, is a penalty justified for the appellant's failure to declare GST on the amounts paid under clause 3 of the lease in the GST returns filed for the period May 1, 1993 to July 31, 1998? Mr. Crittenden stated that he discussed the matter with the appellant's chartered accountant, Mr. Jenkins, who stated that he was of the opinion that no GST was collectible.
+
+[24] Mr. Crittenden also stated that he was under the impression that no GST returns had to be filed. When the CCRA asked the appellant to file returns the trust examiner, Mr. Sicoli, who was doing a payroll audit, was told that 410 was only a holding company and was receiving no rent and had no income. The CCRA suggested, according to Mr. Crittenden, that the appellant file nil returns. I mention in passing that whatever Mr. Sicoli may have told Mr. Crittenden is no defence. He was doing a payroll audit and his observations were based on Mr. Crittenden's statement that 410 was only a holding company with no income.
+
+[25] Later, amended corporate income tax returns were filed and only the principal payments under the mortgage were included in income. The GST returns declared nothing. Why the difference? The accountants prepared the income tax returns, whereas Mr. Crittenden signed and presumably filed the GST returns.
+
+[26] There is a sort of rough-and-ready logic behind the inclusion in income of only the mortgage principal payments. It is this: theoretically all of the third party payments should have come into income and the mortgage interest, realty taxes and insurance premiums would have been deductible to arrive at the same net result as that achieved by including only the mortgage principal payments. The accountant merely telescoped the two operations by netting the inclusions and deductions.
+
+[27] This does not however work in the case of GST, except to the extent that input tax credits are available.
+
+[28] Mr. Brown put in evidence his very comprehensive Penalty Recommendation Report. It was thorough and meticulous and he concluded with a recommendation that the penalty should be imposed. His observations have considerable merit. Essentially, he relies on five factors:
+
+(a) the amounts are material;
+
+(b) the prior period from 1991 to 1993 had a similar failure to declare GST on third party payments;
+
+(c) Mr. Crittenden is a lawyer and was familiar with the obligation to pay GST;
+
+(d) the appellant, through Mr. Crittenden, was involved directly in preparing the returns;
+
+(e) Mr. Crittenden was involved in the financial affairs of the appellant and was aware, or ought to have been aware, of the financial position of the appellant and of its GST obligations.
+
+[29] At the conclusion of Mr. Brown's evidence, counsel for the respondent indicated that he did not intend to call Mr. Crittenden as a witness, but that he was prepared to do so if counsel for the appellant did not.
+
+[30] Mr. Ackerman, counsel for the appellant, then moved for a non-suit and argued that no admissible evidence had been adduced to support the imposition of the penalty. His argument was that a key part of the Crown's case was the prior audit, and the auditor who performed that audit was not called and the portion of Mr. Brown's report that dealt with it was hearsay. I agree. In penalty cases I expect the Crown to follow the rules of evidence, even though the case is in the informal procedure.
+
+[31] I told Mr. Ackerman that he had to make an election whether to call evidence. If he elected not to do so I would rule immediately on his motion. If he elected to call evidence I would reserve on his motion until all the evidence was in. In the result he called Mr. Crittenden. I doubt that it could be said that there was no evidence and I would probably have ruled against the motion, whether at the end of Mr. Brown's evidence or at the end of Mr. Crittenden's evidence. However, the case was ultimately argued on the question whether there was sufficient evidence to justify a penalty.
+
+[32] We are seeing motions for non-suits in this court with increasing frequency. The judges of the court have reached a consensus on the procedure in non-suits (to the extent that it can ever be said that 22 judges are capable of reaching a consensus on anything) and I think it might be useful if I were to set out the guidelines that I have developed and circulated among the members of the court. They are of course not binding but they represent an attempt to put the procedure in non-suits in this court in a relatively comprehensible and organized form. In preparing the guidelines I consulted four authorities:
+
+1. The Law of Evidence in Canada, Second Edition, Sopinka, Lederman and Bryant.
+
+2. The Trial of An Action, Second Edition, Sopinka, Houston and Sopinka.
+
+3. Cross and Tapper on Evidence, Ninth edition.
+
+4. Phipson on Evidence, Fourteenth Edition.
+
+[33] There are several preliminary observations.
+
+(a) The law relating to non-suits appears to be going through an evolution.
+
+(b) To the extent that we can derive assistance from the experience of or practices in other courts, it must be with respect to civil, non-jury cases.
+
+(c) The procedure must be appropriate to this court. What might be suitable in, say, a non-jury matrimonial or libel action, or a case of professional negligence in a court in a province, might not be suitable in a tax appeal.
+
+(d) There are a number of aspects of an income tax appeal in the Tax Court of Canada that may require a different approach to non-suits. Among the differences from other civil actions are the following:
+
+(i) The existence of two procedures, informal and general. In the former the appellants are frequently unrepresented.
+
+(ii) The rules of onus in an income tax appeal are a little complicated. For example the onus on the appellant is to "demolish" the so-called assumptions pleaded by the respondent but the onus may shift to the Crown to establish a new basis for upholding the assessment. Also, the Crown has the onus in the case of penalties and in the case of opening up statute-barred years (the latter being a shifting onus).
+
+[34] Bearing in mind the somewhat peculiar nature of an appeal in this court against an assessment of tax the following guidelines seem workable.
+
+1. The court should not generally entertain motions for non-suits in the informal procedure. I say this not as a technical or legal matter but because I do not think an unrepresented appellant should be faced with a technical motion such as a non-suit. This of course does not apply where the Crown has the onus of proof, as in a penalty case.
+
+2. Where a party — usually the respondent — moves for a non-suit counsel for that party should be put to an election whether to call evidence before the court rules on the motion.
+
+3. If counsel elects to call evidence the judge should reserve on the motion until all the evidence is in. In determining whether there is no evidence the court may of course consider any evidence called by the party moving for the non-suit.
+
+4. If counsel elects to call no evidence the court should immediately rule on the non-suit motion.
+
+5. If the judge rules that there is no evidence supporting the appellant's appeal he or she should, before dismissing the appeal, invite argument on the question whether the assumptions as pleaded support the assessment. If they do the judge should dismiss the appeal. If they do not, one of the alternatives open to the judge is to allow the appeal. If the Crown has pleaded an alternative ground for upholding the assessment, the court should ask whether the Crown intends to call evidence. It is not possible to set out any hard-and-fast rules in this unusual situation. What the court does will depend on the particular circumstances.
+
+6. If the judge dismisses the motion on the basis that there is some evidence supporting the appellant's case two results should flow:
+
+(i) Counsel who brought the motion for a non-suit (usually counsel for the respondent) should be held to his or her election and should not, after losing the motion, be entitled to withdraw the election and call evidence.[1]
+
+(ii) Counsel should then be entitled to argue that, notwithstanding the judge's ruling that there is some evidence supporting the appellant's case (or the case of whoever has the onus), the evidence is insufficient to satisfy the onus. (This is the distinction between no evidence — a question of law for the judge — and insufficient evidence (a question of fact)).
+
+7. Matters can become a little complicated where there is a split onus as, for example, where the appellant has the onus of showing the assessment of tax is wrong, and the Crown has the onus of establishing a penalty, or opening up a statute-barred year or where the Crown raises a new and alternative basis of supporting the assessment. The question arises whether a non-suit motion should be entertained in the middle of a trial where one party has put in its evidence and, if that party thinks that it has made out a prima facie case, so that the onus has shifted to the other party. I see no reason for complicating matters further by cluttering up the proceeding by mid-trial motions. If one party wants to bring a motion for a non-suit that party should be forced to elect whether to call evidence on all aspects of the case and take his or her chances. In other words the ordinary rule should apply. Ultimately, however, the matter is in the discretion of the trial judge.
+
+8. The trial judge should never of his own motion undertake to non-suit a party. It should only be on the motion of a party. This was the view expressed by Rowell C.J.O. in McKenzie v. Bergin, [1937] O.W.N. 200 (C.A.). It is inconsistent with the view expressed by Riddell J.A. in Martin v. Canadian Pacific Railway, [1932] O.R. 571 (C.A.). Apart from this point Riddell J.A.'s judgment in Martin is a very good summary of the rule that I think this court should follow.
+
+The relevant passages in the judgments of Riddell J.A. in Martin and Rowell C.J.O. in McKenzie are quite succinct and it may be worthwhile to reproduce them here.
+
+In Martin, Riddell J.A. said at pages 573-574:
+
+At the close of the plaintiff's case, the trial Judge may non-suit, proprio motu; this is so rare a proceeding that I know of but one instance in nearly half a century of active experience; and it cannot be said that there is any established practice in such a case; in the only case of which I am aware the Divisional Court of the Common Pleas Division held that the defendant not objecting but opposing an appeal from the non-suit was in the same position as if he had moved for the non-suit. This, of course, is not binding upon us; and if the extremely unlikely case should come before the present Divisional Court, it would be disposed of untrammeled by authority.
+
+The usual, indeed, almost universal case is a motion by the defendant; the Judge may pursue any one of three courses.
+
+He may, (1) allow the motion and grant the non-suit, in which case on an appeal, the defendant must abide by the evidence given as though it were the only evidence available, and the appeal will be dealt with on that basis.
+
+Or the Judge may, (2), dismiss the motion, or (3), reserve his decision until the end of the trial; in either of these cases, the defendant may, (a) close his case offering no evidence, in which case he is in the same position as the defendant in the case just mentioned; or, (b) give evidence, in which case the matter is decided on all the evidence offered, and the defendant on an appeal has no relief on the ground that a non-suit should have been ordered—in other words, he has no relief if he has himself furnished the evidence, which gives the plaintiff a proper right of action.
+
+These are the rules of strict practice in our Courts, but they in no way interfere with the action of the Court "in the exercise of its discretion."
+
+In McKenzie, Rowell C.J.O. said at page 201:
+
+Possibly it would not be out of place, in view of the manner in which this action was disposed of at the trial, to suggest procedure which it would be desirable for Judges to follow in dealing with the question of a non-suit and which would result in a saving of expense to both litigants and to the Counties, particularly in jury cases:
+
+(1) The trial Judge should not, of his own motion, undertake to non-suit, but in all cases it should be left for counsel for the defendant to move for a non-suit if he desires to do so.
+
+(2) Even if counsel for the defendant moves for a non-suit, it would be wise and convenient if the trial Judge would reserve his decision on the motion for non-suit and ask the defendant if he desires to put in evidence. If the defendant desires to put in evidence, the case should proceed and the jury's finding obtained. If the learned trial Judge then decided that the non-suit should be granted he could dismiss the action, and, if appeal were taken, this Court would have all the facts before it, including the assessment of damages, and if it should be of opinion that the non-suit should not have been granted the action could be finally disposed of.
+
+(3) If, on the other hand, the defendant said he did not desire to put in any evidence but rested his case on the weakness of the plaintiff's case, then the learned trial Judge could properly dispose of the motion for non-suit.
+
+9. On pages 155-158 of The Trial of An Action there is some discussion of non-suit motions where there are multiple defendants. In the context of an income tax appeal where there are two or more appellants' cases being heard together should a non-suit motion be entertained as against one but not as against the other(s)? Whatever theoretical justification might be found for such a course of action I think that as a matter of principle such a motion should be dismissed. If the court were to allow such a motion as against one appellant and then permit the Crown to adduce evidence against the other it is possible that the Crown's evidence might support the case of the appellant who had been non-suited. This would be anomalous. If the Crown were to bring a motion to have one appellant non-suited the Crown should be forced to elect whether it was going to call evidence as against any of the appellants.
+
+10. There is some debate, discussed in Phipson at page 223 ( ¶ 11-36), about the criteria to be applied in a non-suit motion: should it be whether there is a scintilla of evidence, in which case the motion should be denied, or should it be whether there is any evidence on which the court can reasonably find for the party on whom the burden of proof rests. I am aware that Phipson is discussing the matter in the context of a jury case where the decision is more critical because it involves the fairly serious step of taking the case away from the jury. Phipson favours the second approach: is there any evidence on which the court can reasonably find for the appellant? With respect I do not agree. If there is any evidence supporting the appellant's case I think the motion should be denied. It is premature at the close of the appellant's case to consider questions whether the evidence adduced reasonably supports a finding for the appellant.
+
+[35] It is hoped that these guidelines may be of some assistance where non-suit motions are brought in this court.
+
+[36] Reverting to the case of the penalty imposed under section 285 against the appellant there is much merit in Mr. Brown's position that Mr. Crittenden knew or ought to have known that GST was payable on the third party payments and that failure to declare GST was grossly negligent. That hypothesis is reasonable and viable but the evidence is equally consistent with another viable and reasonable hypothesis, that Mr. Crittenden relied — perhaps wrong-headedly or negligently — on his accountant's opinion that no GST was payable or perhaps he formed an erroneous view of the law. I think Mr. Crittenden was negligent but the evidence is consistent with an hypothesis that does not entail gross negligence as described in the cases cited at the beginning of these reasons. Accordingly the appellant is entitled to the benefit of the doubt.
+
+[37] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to delete the penalty imposed under section 285.
+
+[38] I do not however think that under subsection 18.3009(1) of the Tax Court of Canada Act I can award costs.
+
+Signed at Ottawa, Canada, this 9th day of April 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2001-3861(GST)I
+
+STYLE OF CAUSE: Between 410812 Ontario Limited and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: March 20, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: April 9, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Robert G. Ackerman, Esq.
+
+Counsel for the Respondent: Bobby Sood, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Robert G. Ackerman, Esq.
+
+Firm: Ackerman Law Office
+
+Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-3861(GST)I
+
+BETWEEN:
+
+410812 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on March 20, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Robert G. Ackerman, Esq.
+
+Counsel for the Respondent: Bobby Sood, Esq.
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Excise Tax Act, notice of which is dated July 26, 2001 and bears number 08GP-117220723 be allowed without costs and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment to delete the penalty imposed under section 285 of the Act.
+
+Signed at Ottawa, Canada, this 9th day of April 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+[1] This is the current orthodox view. There is, however, a different view that seems to have some support to the effect that no real purpose is achieved by a rigid adherence to this rule and that a party moving for non-suit is entitled to have the judge's ruling on whether there is any evidence and if the motion fails it is in the interests of justice that that party not be precluded from calling evidence. There is admittedly merit in this view and it would certainly be open to a trial judge to adopt it.
+

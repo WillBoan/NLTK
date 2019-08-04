@@ -1,0 +1,598 @@
+Date: 20010323
+
+Docket: 98-1340-IT-G
+
+BETWEEN:
+
+ENGELBERT FREDETTE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] Engelbert Fredette has instituted an appeal from the income tax assessments made by the Minister of National Revenue (Minister) for the 1991, 1992 and 1993 taxation years (relevant period). The Minister applied the general anti-avoidance rule (GAAR) enunciated in subsection 245(2) of the Income Tax Act (Act) to a series of transactions which enabled Mr. Fredette to hold a three-apartment immovable property (triplex) through two partnerships. In the Minister's view, this series of transactions afforded Mr. Fredette certain undue tax benefits (denied tax benefits). It enabled him to defer the taxation of income earned from the triplex for two years, while deducting in the calendar year interest on the financing of his interest in one of the partnerships, to deduct living expenses relating to one of the apartments in the triplex (apartment at 631 or 631), occupied by him and his spouse, including interest expenses relating to that apartment, and, lastly, to deduct an amount in respect of capital cost allowance (CCA) which was greater than the amount he could have deducted under paragraph 20(1)(a) of the Act and subsection 1100(11) of the Income Tax Regulations (Regulations) if he had held the triplex directly.
+
+[2] Under subsection 245(5) of the Act, the Minister determined the tax consequences for Mr. Fredette for the relevant period on the basis of the assumption that Mr. Fredette held directly the entire triplex, and calculated his income on the basis of the calendar year, excluding from that income all rent and expenses, including interest expenses relating to the apartment at 631. The Minister also disallowed all CCA.
+
+Facts
+
+[3] Mr. Fredette is a police officer employed by the City of Québec. His employment income was $56,908.57 for 1991, $50,430.92 for 1992 and $65,174.35 for 1993. His spouse, Odette Dufresne, worked as an administrative assistant in a notary's office in 1990 and 1991. That office advised its clients on tax planning matters, and Ms. Dufresne wanted to take advantage of the knowledge she had acquired with her employer. She consulted her employers when she and her husband purchased the triplex located at 631, 633 (apartment at 633 or 633) and 635 (apartment at 635 or 635) Rue Ardouin, in Beauport, on May 17, 1990. It was moreover one of her employers, Gilles Naud, who acted as executing notary at the signing of the conveyance.
+
+[4] Although it was apparently decided to hold the triplex through two partnerships, it was initially Mr. Fredette and Ms. Dufresne who purchased the triplex from a couple who were apparently having marital problems. The price was $220,000, of which $64,147.89 was paid in cash on closing. To finance a portion of the cash payment, Mr. Fredette and Ms. Dufresne used $14,148 of their savings and borrowed $35,000 from the Caisse populaire Jacques Cartier (Caisse populaire). This was a loan guaranteed by a second mortgage held by the Caisse populaire. The loan document stipulates that the Caisse populaire's claim is indivisible and that Mr. Fredette and Ms. Dufresne are jointly and severally liable for repayment of the loan. To finance the balance of the cash payment and the balance of the purchase price, it appears that a number of other loans were obtained, including one for $129,852.18 guaranteed by a first mortgage on the triplex, also in favour of the Caisse populaire. This loan had been granted the previous month, on April 15, 1990.
+
+[5] On May 28, 1990, a trust was established for each of the two children of Mr. Fredette and Ms. Dufresne: Pierre-Olivier, aged six, and Vincent, aged four. These were the Pierre-Olivier Trust and the Vincent Trust (children's trusts). Under the deeds of gift in trust, Ms. Dufresne is the trustee.
+
+[6] On June 1, 1990, two general partnerships were formed. The first, Société Ardouin enr. (SA), originally had two partners, Mr. Fredette and Ms. Dufresne, who held respectively 10 "Class A shares" and 10 "Class B shares". SA's fiscal period ended on February 28. The second partnership, Société Dufresne-Fredette enr. (SDF), initially had three partners, namely Mr. Fredette and the children's trusts, each of the trusts holding 10 shares in SDF. SDF's fiscal period ended on January 31.
+
+[7] On June 7, 1900, the two partnerships filed their declarations of general partnership, in which the general purposes for which they had been formed were described as follows:
+
+[TRANSLATION]
+
+2. . . .
+
+1 ° To create a pension fund out of investments in real estate.
+
+2 ° In general, to master the art of making money in real estate, in particular to:
+
+(a) introduce investors to the world of real estate, by promoting, among other things, the use of trusts for minor children;
+
+learn to live through an economic cycle with a real estate investment (three to five years);
+
+(c) learn how an immovable is managed through the advice of a property management professional;
+
+(d) learn ways of holding an immovable by using the services of tax experts;
+
+(e) ensure that the real estate portfolio is sufficiently varied to avoid being penalized by insufficiently diversified investments: shopping centres, condos, seniors' homes, hotel complexes, etc.
+
+[8] In SA's declaration, the following specific purposes were added:
+
+[TRANSLATION]
+
+. . .
+
+5 ° Acquire and hold real estate investments.
+
+6 ° Hold and increase the value of real estate investments by improving, renovating, repairing and maintaining the immovables purchased.
+
+7 ° Rent, manage and administer the said immovables.
+
+8 ° Carry on any activities or affairs related to the aforementioned activities.
+
+[9] In that of SDF, the following specific objectives were added:
+
+[TRANSLATION]
+
+. . .
+
+3 ° Seek out, design and develop real estate investment projects.
+
+4 ° Promote the implementation and realization of real estate investment projects.
+
+5 ° Direct and conduct real estate project implementation studies.
+
+6 ° Pursue consultations with various stakeholders, experts and professionals in the real estate, real estate brokerage, financial and tax consulting and evaluation sectors to determine and/or establish the feasibility of the said projects.
+
+7o Invest in the real estate sector.
+
+[10] Under the partnership agreement, Ms. Dufresne was the only partner who could manage SA's affairs.[1] As manager, Ms. Dufresne was entitled to one percent of the partnership's net income. This net income did not include capital gains. The balance of the income was to be allocated among the partners in proportion to the number of shares they held, without regard to the class of those shares. Capital gains were to be allocated as follows: the holders of Class A shares were entitled to 50 percent of such gains and the holders of Class B shares were entitled to the other 50 percent.
+
+[11] Under the applicable partnership agreement, Mr. Fredette managed SDF's affairs. That partnership's net profits and losses, including capital gains and losses, were to be apportioned among the partners in a manner proportionate to the number of their shares.
+
+[12] By notarial deed dated June 14, 1990, Mr. Fredette and Ms. Dufresne subscribed respectively for 217,800 and 2,200 additional Class A shares of SA. As payment, each transferred his respective interest (Mr. Fredette, 99 percent, and Ms. Dufresne, one percent) in the triplex. Although, in order to comply with the conditions of the mortgage loans granted by the Caisse populaire, SA undertook to assume personal responsibility with respect thereto, Mr. Fredette and Ms. Dufresne agreed that they remained responsible for repaying the loans and for paying the interest (article 2.4 of the notarial deed of June 14, 1990).
+
+[13] That same day, that is, June 14, 1990, Ms. Dufresne transferred her 2,200 Class A shares in SA to SDF in exchange for 2,200 shares in SDF, and Mr. Fredette assigned all the 217,810 Class A shares he held in SA to SDF in exchange for 217,810 shares in SDF. Thus, after these transfers, SDF's partners were Mr. Fredette who held 217,810 shares,[2] Ms. Dufresne with her 2,200 shares, and the children's trusts with 10 shares each. SA now had only two partners, SDF, which held 220,010 Class A shares, and Ms. Dufresne who held a managerial interest entitling her to one percent of net profits (excluding capital gains) and 10 Class B shares.
+
+[14] The document executing the transfer of the triplex to SA by Mr. Fredette and Ms. Dufresne was not registered at the Bureau de la publicité des droits (Registry Office). Mr. Naud confirmed in his testimony that he had recommended waiting to do this in order to defer payment of the transfer duty owed to the Town of Beauport under the Act respecting duties on transfers of immovables (Duties Act).[3] The intention was apparently to register the transfer when SA eventually resold the triplex. This explains why the property tax bill was addressed to Mr. Fredette and not to SA.
+
+[15] Although the transfer of the triplex was not registered at the Registry Office, Ms. Dufresne disclosed to third parties that SA owned the triplex. So it was that she informed the Caisse populaire of the rental property's transfer to SA. Moreover, it may be seen in the loan refinancing document dated June 28, 1993, that SA intervened to acknowledge having taken cognizance of the loan and to consent to it for all legal purposes. When Ms. Dufresne did business with suppliers, in particular insurers, she did so on SA's behalf. In support of her testimony, she filed a home insurance proposal for the period from July 1992 to July 1993 in which the assured is described as being "La Société Ardouin Enr. (Engelbert Fredette and Odette Dufresne)". Lastly, the leases on the apartments in the triplex are in SA's name.
+
+[16] Mr. Naud testified that holding the triplex through a partnership afforded a number of advantages over undivided ownership. The partnership made it possible to create separate economic and legal interests more easily. In this instance, for example, two classes of shares were created, one for the sharing of rental profits (or losses) and the other for the allocation of capital gains. Again according to Mr. Naud, it is easier to handle the problem of forced division in a partnership situation than in the case of undivided ownership. Furthermore, a partnership permits the transfer of a share in an immovable without giving rise to a transfer duty. However, the Duties Act provides for no exceptions where an immovable is transferred to a partnership, even if one holds 99 percent of the shares in that partnership. This moreover was the reason for the wait to register the conveyance at the Registry Office.
+
+[17] Mr. Naud also confirmed that he had informed Ms. Dufresne that the apartment at 631 held by SA could not be considered a "principal residence" for the purposes of section 54 of the Act and that the capital gain realized on its disposition might be subject to tax. Another disadvantage stemmed from the fact that the financing costs increased the cumulative net investment loss account, which had the result of delaying use of the $100,000 capital gains exemption to which Mr. Fredette might be entitled.
+
+[18] On July 31, 1990, Mr. Fredette transferred 10,800 shares in SDF to Promotion immobilière D. F. Inc. (Promotion). Mr. Fredette testified that he did not know who the shareholder of that corporation was. The transfer form does not indicate the consideration which Mr. Fredette received for those shares. It should also be noted that, according to his returns of income following the transfer, Mr. Fredette continued to allocate to himself not only Promotion's share of SDF's income or losses but also the share allocable to the children's trusts in respect of their shares in SDF and, for 1992 and 1993, the share of SA's income which was to go to Ms. Dufresne (that is, the share she had coming to her in her capacity as manager).[4]
+
+[19] Ms. Dufresne described the three apartments in the triplex as follows. The apartment at 631 is located on the ground floor and has an area of 1,584 square feet. It contains three bedrooms, a living room, a dining room, one bathroom and a kitchen. The occupant of this apartment also has access to an unfinished basement. The apartment at 633 adjoins 631 and is similar to it in that, for example, it has an unfinished basement. Although it has only two bedrooms, it has an area of 1,760 square feet. The apartment at 635 is located above 633 and has an area of 880 square feet. It also has two bedrooms, a living room, a dining room and one bathroom. The tenant of this apartment does not have access to a basement, but does on the other hand have access to a shed in the backyard. The tenants are responsible for paying all heating, electricity and hot water costs.
+
+[20] Ms. Dufresne has occupied 631 as a tenant, with her husband, at least since July 1, 1990, two weeks after SA acquired the triplex. It was she who signed the lease both as landlord on behalf of SA and as tenant. The other two apartments are leased to persons to whom Mr. Fredette and Ms. Dufresne are unrelated. The following table shows the monthly rents paid for the three apartments:
+
+Triplex rents
+
+Rent
+
+90-91
+
+91-92
+
+92-93
+
+93-94
+
+631
+
+$650
+
+$675
+
+$685
+
+$690
+
+633
+
+N/A
+
+$600
+
+$600
+
+$600
+
+635
+
+$525
+
+$545
+
+$510
+
+$520
+
+[21] It is possible to establish the following financial figures which I have calculated, except where otherwise indicated, from figures appearing in the schedules prepared by the Minister (Minister's schedules) for the determination of tax consequences. These calculations were based on the calendar year.
+
+91
+
+92
+
+93
+
+Rent[5]
+
+7,950
+
+8,160
+
+8,250
+
+-rental expenses
+
+(2,875)
+
+(2,617)
+
+(2,618)
+
+-interest
+
+(8,666)
+
+(8,372)
+
+(7,027)
+
+Losses before CCA
+
+(3,591)
+
+(2,829)
+
+(1,395)
+
+(7,815)
+
+-CCA[6]
+
+(1,063)
+
+(2,051)
+
+(1,973)
+
+Losses after CCA
+
+(4,654)
+
+(4,880)
+
+(3,368)
+
+(12,902)
+
+91
+
+92
+
+93
+
+Net rent before interest
+
+8,264
+
+8,765
+
+8,397
+
+-interest expense
+
+(14,755)
+
+(14,255)
+
+(11,964)
+
+Losses before CCA
+
+(6,491)
+
+(5,490)
+
+(3,567)
+
+(15,548)
+
+LOSSES: TRIPLEX (BEFORE CCA)
+
+91
+
+92
+
+93
+
+Losses: 633-635
+
+(6,491)
+
+(5,490)
+
+(3,567)
+
+Losses: 631
+
+(3,591)
+
+(2,829)
+
+(1,395)
+
+(10,082)
+
+(8,319)
+
+(4,962)
+
+(23,363)
+
+[22] Ms. Dufresne testified that she and her husband had considered buying another house for their personal use and that SA would then have leased 631 to another tenant. However, Ms. Dufresne and Mr. Fredette were still living in the apartment at 631 in May 2000.
+
+[23] Ms. Simard (auditor), Coordinator of the Tax Avoidance Section, District of Québec, testified to explain the Minister's assessments. In making the assessments, she had assumed that all the transactions conducted by Mr. Fredette and Ms. Dufresne were valid, but she did point out that certain transactions had to be excluded for the purposes of the Act. She also acknowledged that a partnership such as SA which owned a triplex was entitled to adopt a fiscal period different from the calendar year for the purposes of calculating its income during the relevant period.
+
+[24] In her testimony, the auditor indicated the transactions (planned transactions) which, in her view, constituted avoidance transactions for the purposes of section 245 of the Act. First there was the formation of two partnerships which adopted different year-ends; there were also the transfer of the triplex to SA without a transfer of the loans relating thereto, the lease between SA and Ms. Dufresne and the transfer of the shares in SA to SDF by Mr. Fredette and Ms. Dufresne. In the auditor's view, Mr. Fredette had conducted this series of transactions to obtain the denied tax benefits.
+
+[25] The auditor testified that the planned transactions had not been undertaken or arranged primarily for bona fide purposes other than to obtain tax benefits. The purposes described in the partnership declarations and pursued by Mr. Fredette and Ms. Dufresne could have been achieved without using the partnerships. She also thought that the purpose of increasing the children's patrimony through trusts was virtually illusory because the children's trusts each held only 0.005 percent of the shares in SDF. It should also be borne in mind that 50 percent of the capital gain on the triplex when it was resold by SA was to go to Ms. Dufresne, which means that the share of each of the trusts in the capital gain on the triplex represented only 0.0025 percent.
+
+[26] Again according to the auditor, the transactions in question resulted in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. According to paragraphs 18(1)(a) and (h) of the Act,[7] living expenses may not be deducted in computing a taxpayer's income. The auditor considered as living expenses the expenses relating to the apartment at 631, that is, 37 percent of the rental expenses incurred by SA and 37 percent of the interest expenses deducted by Mr. Fredette (expenses relating to 631). This percentage was determined on the basis of the rents paid for each of the apartments. According to the auditor's calculations, these living expenses amount to $4,700 for 1991, $6,200 for 1992 and $4,400 for 1993. These amounts include CCA.
+
+[27] Furthermore, deferring taxation of the income from the triplex for two years goes against the general rule that income must be taxed each year. Lastly, subsection 1100(11) of the Regulations, which prevents any claim of CCA where it creates or increases a rental loss, was also contravened.
+
+[28] In denying the tax benefits in issue, the auditor determined the tax consequences as follows. For tax purposes, she essentially disregarded the existence of SA and SDF. She considered Mr. Fredette as the sole owner of the triplex and calculated all rental income from 633 and 635 on a calendar year basis, thus excluding the income from 631.[8] She also excluded the expenses relating to 631. Lastly, she confirmed that the rental income earned in 1994 was not covered by the Minister's reassessments since it did not relate to the relevant period.
+
+Mr. Fredette's Position
+
+[29] Counsel for Mr. Fredette pointed out, first of all, that the auditor had made her assessment on the assumption that all the transactions undertaken by Mr. Fredette and his spouse had been validly conducted. We are not dealing here with transactions that were invalid and without legal effect. On the contrary, all the transactions in question complied with the provisions of the law, that is to say, of the Civil Code of Lower Canada, which was in effect during the relevant period. According to counsel, none of the planned transactions undertaken by Mr. Fredette resulted in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. Subsection 96(1)[9] of the Act states that the income of a partnership must be computed as though the partnership were a separate person and as if its taxation year were its fiscal period. Subsections 248(1) (definition of "fiscal period")[10] and 249(2)[11] of the Act, read together with subsection 96(1), thus permit a taxpayer to elect for a partnership a fiscal period that ends after the end of the calendar year. The taxpayer may do so the first time without requesting the Minister's permission. Counsel also noted that a taxpayer is entitled to arrange his affairs in such a way as to pay as little tax as possible. He argued that there was no need to resort to subsection 245(2) of the Act to disallow personal expenses. The Minister could have gone about this some other way.
+
+[30] If Mr. Fredette and Ms. Dufresne purchased the triplex personally and had to personally take out the loans to finance the acquisition, it was because of the marital problems the vendors were experiencing. The fact that Mr. Fredette and Ms. Dufresne transferred the immovable to SA while remaining liable with respect to the loans does not constitute a misuse or abuse of the Act. On the contrary, counsel contends that it is the Minister who is acting improperly in applying subsection 245(2) to the facts of this case. In particular, he cites the comments of my colleague Judge Bowman in Jabs Construction Ltd. v. The Queen, 99 DTC 729. In paragraph 48 of that decision, Judge Bowman states that section 245 "should not be used routinely every time the Minister gets upset just because a taxpayer structures a transaction in a tax effective way, or does not structure it in a manner that maximizes the tax."
+
+Respondent's Position
+
+[31] Counsel for the respondent contends that the planned transactions were all avoidance transactions. They were not undertaken or arranged primarily for bona fide purposes (other than to obtain tax benefits). She contends that the fact that SA leased the apartment at 631 to Ms. Dufresne, who lived in it with Mr. Fredette, constituted an avoidance transaction designed to permit the deduction of living expenses, which contravenes paragraphs 18(1)(a) and (h) of the Act. The fact that SA did not assume the obligations arising from the loans and from the debt taken over when the triplex was purchased makes the transaction highly unusual in the business world. In general, when an immovable is sold, the buyer is asked to assume all the mortgages on that immovable.
+
+[32] Counsel argues that SA's being relieved of the obligation to pay the interest expenses constitutes a misuse or abuse of the rules set out in sections 4 and 96 and paragraph 20(1)(a) of the Act. Paragraph 20(1)(a) provides that a taxpayer may claim CCA in accordance with the rules established in the Regulations. According to subsection 1100(11) of the Regulations, a taxpayer may not claim CCA greater than the amount of net rental income (including income received through a partnership) before CCA. When the Act is read as a whole, the rules contained in the Regulations passed under the Act must be taken into account. These rules are incorporated in the Act under paragraph 20(1)(a). In acting as he did, Mr. Fredette enabled SA to earn artificially inflated rental income. That income would have been reduced to nil if SA had had to deduct the interest expenses that Mr. Fredette incurred personally. It therefore seems clear that the transfer of the triplex to SA was undertaken or arranged primarily to obtain tax benefits.
+
+[33] With respect to the use of the two partnerships, counsel for the respondent cast doubt on the benefits described by Mr. Naud. She argued that it is almost as easy to terminate a partnership as to request the division of property held in co-ownership. In particular, she cited articles 1895 and 1896 of the Civil Code of Lower Canada.
+
+[34] She further observed that estate planning for the children's benefit does not appear to constitute a serious reason not only in view of the small interest held by the children's trusts in SDF, but also given the fact that Mr. Fredette included all the income belonging to the children's trusts in his return of income. SDF's existence has more to do with obtaining tax benefits than pursuing other bona fide purposes such as increasing the children's patrimony.
+
+[35] Another misuse or abuse described by counsel is the fact that interest was deducted on the basis of the calendar year, whereas the reporting of rental income was deferred for two years through the use of two partnerships each of which had a different fiscal period, that of the second ending before that of the first.
+
+[36] In counsel's view, the tax consequences determined by the Minister are reasonable. For example, the Minister allowed 63 percent of interest expenses and 63 percent of rental expenses as qualified expenses. She acknowledged, however, that the Minister had assumed there was a reasonable expectation of earning a profit from the rental of the apartments at 633 and 635.
+
+[37] In the alternative, counsel for the respondent contended that there had been no bona fide transfer of the triplex to SA because the deed of transfer had not been registered at the Registry Office. She relied in part on the decision in Bellerose v. Canada, [1999] T.C.J. No. 354. In paragraphs 18 and 19 of that decision, Judge Tardif of this Court writes:
+
+[18] Certain facts provide a highly relevant and above all revealing indication of the nature and reality of the true transactions. The contract transferring the only property that the partnership had as an asset was not registered. Although the appellant said that this was a minor point and unimportant given that consent alone is enough to give effect to a transfer of ownership, the Court does not agree with that assessment, especially since the property was mortgaged; moreover, there could be no transfer without the mortgagee's involvement or at least consent.
+
+[19] Registration is not a mere formality of no consequence. It is of fundamental importance, since only registration informs third parties of the fact that a transfer has occurred. Registration ensures that a transaction is not only open and coherent but also plausible. It also ensures stability and provides protection for third parties. To argue that the registration of a real estate transaction is a mere formality of no importance is absurd, especially where the owner of the property has formally undertaken through his or her signature to notify the mortgagee.
+
+[38] Consequently, SA never became the owner of the triplex and Mr. Fredette and Ms. Dufresne continued to hold it. It is therefore impossible to deduct the expenses relating to the apartment at 631 as rental expenses since they were living expenses. The CCA should therefore be claimed by Mr. Fredette personally and the amount thereof cannot exceed the net rental income after deduction of the interest borne by Mr. Fredette. Lastly, the rental income should be reported on a calendar year basis since it constitutes income earned from property, not from a business. The services provided by SA were those normally provided by a lessor. According to the definition of "fiscal period" in subsection 248(1) of the Act, the notion of fiscal period applies only for the purpose of calculating income earned from a business.
+
+Analysis
+
+[39] It is helpful at the outset to review the relevant statutory provisions. First of all, there are subsections 245(1), (2)and (3), which provide:
+
+245. (1) In this section and in subsection 152(1.11),
+
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by, or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+"transaction" includes an arrangement or event.
+
+(2) General anti-avoidance provision. Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction..
+
+
+
+(3) Avoidance transaction. An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+[My emphasis.]
+
+[40] As may be seen, for the GAAR to apply, there must be no other provision of the Act prohibiting the tax benefit claimed by the taxpayer and denied by the Minister. In the above-cited provisions of the Act, I have underscored the relevant passages supporting this interpretation. Furthermore, if the transactions were undertaken or arranged primarily for bona fide purposes (other than to obtain a tax benefit), those transactions do not constitute avoidance transactions. Lastly, even if the transactions do constitute avoidance transactions, it must be determined whether they resulted, directly or indirectly, in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. This is apparent from subsection 245(4), which states:
+
+(4) Provision not applicable. For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+[41] If the transactions constitute a series of avoidance transactions resulting in a misuse of, or an abuse having regard to, the provisions of the Act, the tax consequences must be determined in a reasonable manner in the circumstances so as to deny an improper tax benefit. In my view, for the tax consequences to be reasonable, they must be determined by attempting as far as possible not to alter the transactions undertaken by the taxpayer.
+
+[42] Let us consider each of the conditions for the application of the GAAR, applying them to the facts of these appeals. As stated above, subsection 245(2) of the Act is a provision to be applied in the last resort. It supposes that the taxpayer has undertaken valid transactions which also comply with each of the provisions of the Act except section 245.
+
+[43] Before applying this section to the facts of these appeals, it is therefore necessary to determine whether other provisions of the Act bar Mr. Fredette from obtaining the tax benefits sought by him.
+
+Alternative Argument
+
+[44] Although the Minister assumed at the time of the assessment that all the planned transactions were valid, counsel for the respondent contended the contrary in her argument. She argued that the transfer of the triplex could not be invoked against the Minister because it had not been registered at the Registry Office. Even though this is an alternative argument, it is more appropriate to decide this matter first. If counsel for the respondent is correct, it will not be necessary to have recourse to the GAAR.
+
+[45] In support of her argument that SA never actually became the owner of the triplex, counsel for the respondent cited the decision in Bellerose, supra, and emphasized the failure to register the transfer at the Registry Office. In Le droit civil canadien, tome 9e, Montréal, Wilson et Lafleur, 1916, Mignault comments on article 2098 of the Civil Code of Lower Canada, which required that all acts inter vivos conveying the ownership of an immovable must be registered by transcription or by recording. This article provided that "in default of such registration, the title of conveyance cannot be invoked against any third party who has purchased the same property from the same vendor for a valuable consideration and whose title is registered." It is clear from this text that the third party contemplated by this rule is a third party who may have purchased the immovable from the same vendor. It does not contemplate at all the tax authorities, who do not purchase the immovable. According to well-settled case law, the tax consequences of a transaction must be determined on the basis of the actual transactions that took place. In this instance, counsel for the respondent readily admits that the couple made a bona fide transfer to SA. This conclusion is moreover consistent with Mignault's statement at page 212:
+
+[TRANSLATION]
+
+This registration admittedly is not necessary for the title to be valid, except in the case of gifts, but it is essential if one wishes to invoke this title against third parties.
+
+[46] In my opinion, the respondent's alternative argument is clearly ill-founded.[12] The Minister is not a third party within the meaning of article 2098 of the C.C.L.C. He did not purchase the triplex. The failure to register does not alter the legal fact that SA is the actual owner of the triplex. The taxing scheme of the Act to be applied here is that governing a partnership which holds a rental property, not that governing an individual holding a similar property in co-ownership.
+
+[47] It is at SA's level that the income of that partnership must be computed, and this must be done on the basis of the fiscal period chosen by it and in accordance with the provisions of the Act, including those respecting CCA. The auditor admitted that a partnership holding a rental property such as that held by SA could compute its income on the basis of a fiscal period which could end after the end of the calendar year. As no one at the hearing cast any doubt on the validity of this interpretation, it would be inappropriate in the circumstances to adopt a different conclusion.[13] This settles the question raised by the alternative argument.
+
+Deduction of Living Expenses
+
+[48] We will now consider the question of the expenses relating to 631. I do not believe it is necessary to resort to subsection 245(2) of the Act to deny the tax benefit resulting from the deduction of those expenses.
+
+[49] On the one hand, one might consider it appropriate for Mr. Fredette, virtually the sole proprietor of SA and SDF, to be able to derive a tax benefit from all the losses incurred in respect of the triplex since the respondent admits there was a reasonable expectation of earning a profit from its rental[14] and that the apartment at 631 was leased at a rent that appears reasonable, particularly when compared to that received for the other two apartments. Indeed, that rent was higher than that charged the tenant of 633, a person with whom SA and Mr. Fredette and Ms. Dufresne were dealing at arm's length. Ms. Dufresne paid $0.41 per square foot, while the tenant of 633, who also had access to an unfinished basement, paid $0.34 per square foot.[15]
+
+[50] On the other hand, if interest expenses[16] are taken into consideration and income (or losses) are calculated on a calendar year basis, one finds oneself compelled to observe that the triplex was rented at a loss each year, even before the deduction of CCA. The same holds true if the calculations are limited to the apartment at 631. The question arises then whether Ms. Dufresne would have leased that apartment from SA if the rental had generated a profit for her husband. I find it entirely unlikely that Mr. Fredette and his spouse would have acted in such a manner. What benefit would Ms. Dufresne have derived from paying a rent on which her husband would have had to pay tax? Why, in addition to paying all the expenses relating to a personal residence, would anyone pay an additional amount (corresponding to the profit margin), a significant portion of which (approximately 50 percent) would have had to be paid as income tax to the tax authorities? That would be tantamount to paying a voluntary tax which, as one might imagine, very few persons would be inclined to do. This is all the more true when one considers that this apartment, according to Mr. Naud, could not benefit from the advantageous tax regime applicable to a principal residence.
+
+[51] In my opinion, Ms. Dufresne leased 631 from SA because she knew perfectly well that Mr. Fredette would make no profit from the rental but instead would incur a substantial rental loss after interest expenses and CCA. Obviously, one can readily imagine that Mr. Fredette and Ms. Dufresne would not have allowed the rent paid for 631 to exceed all the expenses relating to that apartment. Either the couple would have ensured that the expenses relating to 631 increased in order to at least equal the rent, or, as Ms. Dufresne and Mr. Fredette moreover mentioned in their testimony, they would have moved elsewhere and SA would have rented 631 to other tenants. It is easily conceivable that, through SA or another partnership, the couple could have purchased another triplex in which they could have occupied one of the apartments and that this new acquisition would have required new borrowings, which quite obviously would have resulted in further rental losses. By all appearances, SA was renting an apartment at a profit, but, on closer examination, this was all nothing but an illusion. It is reasonable to believe that SA's true intention was not to rent 631 in order to earn income but rather to enable the partners of SA and SDF to have the enjoyment of an apartment.
+
+[52] Clearly, if Mr. Fredette and Ms. Dufresne had contributed to SA a single-family house rather than a triplex in similar circumstances, that contribution would not have made the interest paid on Mr. Fredette's loans any more deductible under paragraph 20(1)(c) of the Act in computing his income. Even after such a transfer, it would have been found that the money had not been borrowed for the purpose of earning income from the house. I believe that this analysis is equally valid in the case of the transfer to a partnership of a triplex of which one part was acquired for the purpose of earning income and the other for another purpose. It seems to me reasonable to conclude that, even after the transfer of the triplex to SA, the money was borrowed in part to earn income and in part for another purpose.
+
+[53] In such circumstances, the expenses relating to 631 cannot be considered as having been incurred for the purpose of earning income. Consequently, SA and Mr. Fredette may not deduct those expenses by reason of the prohibition in paragraph 18(1)(a) of the Act. It is therefore not necessary to apply subsection 245(2) of the Act in order to deny the undue tax benefit claimed by Mr. Fredette.
+
+[54] As to the other tax benefits which the Minister refused to grant Mr. Fredette, that is, the two-year deferral of taxation of rental income and the CCA, I believe that the Minister cannot rely on any provision of the Act, with the exception of section 245(2), to deny them. No argument was advanced to the effect that SA or SDF had no legal existence. On the contrary, it was assumed that both existed.
+
+[55] First of all, paragraphs 96(1)(a) and (b) of the Act provide that a partnership must compute its income as if it were a separate person and its taxation year were its fiscal period. Since it is recognized in the definition of "fiscal period" in subsection 248(1), and in subsection 249(2), that a fiscal period may end after the end of the calendar year and since, during the relevant period, there was no provision limiting this possibility, other than that requiring that a taxpayer wishing to alter his year-end request the Minister's authorization to do so, the Court cannot but observe that SA complied with the provisions of the Act. This analysis is also valid for the choice of SDF's year-end.
+
+[56] As for the interest deduction which Mr. Fredette made in respect of the loans to finance the acquisition of the triplex, it was made in accordance with paragraph 20(1)(c) of the Act, which provides that the interest "paid in the year or payable in respect of the year" may be deducted.[17]
+
+[57] With regard to CCA, in this respect as well, SA complied with the provisions of the Act, that is, paragraph 20(1)(a)—and thus subsection 1100(11) of the Regulations—which provides:
+
+(11) Rental Properties — Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+
+the aggregate of amounts each of which is
+
+(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the income of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such income,
+
+exceeds
+
+(b) the aggregate of amounts each of which is
+
+(i) his loss for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the loss of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such loss.
+
+[58] The amount of CCA claimed by SA is within these limits. It must therefore be determined whether subsection 245(2) of the Act can apply here.
+
+Tax Benefit and Avoidance Transaction
+
+[59] The first question for determination is whether each of the relevant denied tax benefits constitutes a "tax benefit" within the meaning of subsection 245(1) of the Act. These benefits clearly consisted in a reduction or deferral of tax from which Mr. Fredette benefited. It is therefore not necessary to dwell on this question.
+
+[60] It must then be determined whether the relevant planned transactions were avoidance transactions. In general, it seems to me that purchasing a triplex as an investment in order to increase one's patrimony and that of the members of one's family and borrowing to finance that investment constitute transactions undertaken for bona fide purposes other than to obtain a tax benefit. Furthermore, there is nothing disturbing about it, whether the triplex be held directly, in co-ownership, or whether it be held through a partnership or business corporation. These are standard ways of holding immovables.
+
+[61] However, when they decided, through well-established tax planning, to transfer the triplex to SA without transferring the related loans, to interpose between them and the triplex two partnerships each with a fiscal period ending after December 31, and to choose for SDF a fiscal period that ended before SA's, Mr. Fredette and Ms. Dufresne did so mainly to obtain tax benefits, that is, the deferral of taxation of rental income (while deducting interest on a calendar year basis) and an increase in CCA. I therefore come to the conclusion that these planned transactions constitute avoidance transactions.
+
+[62] The two partnerships clearly existed more for the purpose of obtaining tax benefits than of pursuing other bona fide purposes. First of all, the two partnerships were formed on the same day. After the triplex was transferred and the partnerships reorganized, the partners of SDF held (through SDF) 100 percent of the Class A shares in SA, which for all practical purposes entitled them to 99 percent of SA's profits and 50 percent of its capital gains. It would have been simpler to have had only one partnership (let us say SDF) and to give Ms. Dufresne one percent of that partnership's profits and 50 percent of its capital gains for her management work. This would probably have made it easier for the right people to report the respective income of the partners in the right years. In other words, there is not really any reason for the separate existence of SA and SDF, except for the possibility of carrying over rental income for two years.
+
+Misuse or Abuse of the Act
+
+[63] It remains to be determined whether the transactions in issue resulted in a misuse of, or an abuse having regard to, the provisions of the Act read as a whole. I will analyze the income carry-over and CCA tax benefits separately.
+
+Deferral of taxation of rental income for two years and deduction of interest on a calendar year basis
+
+[64] Interposing between the triplex and its owners two partnerships each with a different year-end—SDF's fiscal period ending before SA's—enabled Mr. Fredette to defer the taxation of his share of the rental income for two years. The fact that SA held the triplex and that its fiscal period ended on February 28 enabled Mr. Fredette to defer taxation of his rental income for one year. For example, the rental income for the months from July 1991 (when SA's operations commenced) until December 1991 were taxable in 1992 rather than 1991. Interposing SDF between SA and Mr. Fredette made it possible to defer taxation of the 1991 rental income, which was taxable in 1992 (as a result of SA's fiscal period), for another year, that is, until 1993. The explanation of this result is that SA's February 28, 1992 year-end fell during SDF's fiscal period ending on January 31, 1993.
+
+[65] The fact that Mr. Fredette deducted the interest on a calendar year basis is not in itself an undue tax benefit. That procedure is consistent with the Minister's administrative policy and with the approach adopted by the Minister in computing SA's rental income. In reality, that interest deduction merely exacerbated the tax abuse that the Minister saw in the two-year carry-over of the rental income from the triplex. That is the real problem.
+
+[66] During the relevant period, as noted above, the Act permitted income to be carried over for one year. If Parliament believed there was reason to change its tax policy with respect to this tax benefit, it was open to it to do so. And it did do so in 1995 for the fiscal periods commencing after 1994.[18] Consequently, it cannot be concluded that the one-year carry-over resulted in a misuse of, or an abuse having regard to, the provisions of the Act read as a whole during the relevant period.
+
+[67] However, interposing a second, third or fourth partnership to defer the taxation of income for two, three or four years is quite another matter. One need not look very far to find the provisions of the Act, read as a whole, which are contravened in this manner. Subsection 2(1) of the Act provides that income tax shall be paid on taxable income "for each taxation year". Subsection 2(2) of the Act provides that taxable income for a taxation year is the income for the year. Income from a business or property for a taxation year is included in the calculation of income for that year. Section 12 of the Act contains a set of rules for adding to the income for a taxation year such things as the amounts receivable in respect of services rendered in the course of the year, notwithstanding that those amounts are "not due until a subsequent year" (paragraph 12(1)(b)) and amounts of interest "received or receivable ... in the year" (paragraph 12(1)(c)). A return of income must be filed each year and the income tax paid (subsection 150(1)).
+
+[68] Few, I believe, would find it reasonable to defer the taxation of income in this manner for four years. A line has to be drawn somewhere. In my opinion, it must be drawn at one year in this instance: deferring taxation by more than one year in such an artificial manner through a series of avoidance transactions results in a misuse of, or an abuse having regard to, the provisions of the Act. That violates the spirit, if not the letter, of paragraph 96(1)(b) and subsections 248(1) and 249(2). Parliament's intent in enacting these provisions was not to enable a taxpayer to defer the taxation of his income indefinitely.
+
+CCA
+
+[69] As matters were arranged so that interest expenses were assumed by Mr. Fredette personally and not by SA, it became possible to claim CCA at SA's level since its rental of the apartments at 633 and 635 was generating profits. That is not surprising since one of the major expenses in renting an immovable is often the interest expense. Did the fact that Mr. Fredette and Ms. Dufresne continued to assume personally the obligations arising from the mortgage loans and that this enabled SA to claim higher CCA afford Mr. Fredette an improper tax advantage contemplated by section 245 of the Act?
+
+[70] In my view, there is nothing in the Act preventing the use of a business corporation or a partnership to hold a rental property, and there is nothing obliging a taxpayer to obtain financing for such an immovable through a partnership rather than directly from the partner or partners themselves. On the contrary, the possibility of using a partnership is even expressly recognized in subparagraph 1100(11)(a)(ii) of the Regulations.[19] Furthermore, paragraph 20(1)(c) expressly provides that, in computing his income, a taxpayer may deduct the interest paid with a view to earning income from a business or property. This paragraph also allows a taxpayer to deduct interest on an amount payable for property acquired for use in a business. Thus, if a taxpayer purchases shares in a corporation or holds a rental property personally (alone or in co-ownership) or through a partnership, he may deduct the interest on loans granted to finance the purchase of such property.
+
+[71] Furthermore, paragraph 96(1)(a) requires that SA's income be computed as though it were a separate person, which means that the CCA provided for by paragraph 20(1)(a) of the Act must be claimed by SA and that the interest must be deducted by Mr. Fredette under paragraph 20(1)(c) of the Act. It should be added that this rule has been in effect since 1972 and represents a major change relative to the situation prevailing before that. Prior to 1972, CCA had to be claimed by the partners. This tax regime applicable to partnerships which was in effect during the relevant period was thus not created through an oversight or inadvertently.
+
+[72] The main provision to which the respondent referred in contending that there had been a misuse of, or an abuse having regard to, the provisions of the Act read as a whole is subsection 1100(11) of the Regulations. It is clear in administrative law that an act and regulations, although both enactments, are very different in nature. An act is passed by Parliament or a provincial legislative assembly, whereas regulations are most often adopted by a government (the executive) under the authority of an act. In my view, since subsection 245(4) of the Act does not say "the Act and Regulations read as a whole", one must not take into account the rules adopted by the government in the Regulations. If Parliament had wanted them to be considered, it would have clearly so stated in subsection 245(4) of the Act, as it has done in a number of other provisions of the Act.[20]
+
+[73] In any case, even if subsection 1100(11) of the Regulations had to be considered in determining whether there had been a misuse of, or an abuse having regard to, the provisions of the "Act read as a whole", I would nevertheless come to the conclusion that the relevant planned transactions, which enabled SA to realize greater profits and claim higher CCA than it would have been able to deduct if it had been the debtor with respect to the loans, do not constitute avoidance transactions resulting in a misuse of, or an abuse having regard to, the provisions of the Act.
+
+[74] It may be seen from reading together subsection 1100(11) of the Regulations and paragraph 96(1)(a) of the Act that a partnership may not claim CCA exceeding its net rental income. In this instance, the amount claimed by SA did not exceed the amount of net rental income (before CCA) of that partnership. Thus, strictly speaking, this rule was complied with.
+
+[75] The Minister claims that an expense which SA did not incur, that is, the interest expense incurred by Mr. Fredette, should be deducted in computing SA's rental income. On the one hand, Mr. Fredette had the choice of financing the purchase of the triplex by borrowing himself and contributing the triplex to SA or of arranging matters so that SA itself borrowed the necessary money. In itself, Mr. Fredette's financing his contribution to SA as he did does not result in a misuse of, or an abuse having regard to, the provisions of the Act. It is quite common for a shareholder to borrow in order to subscribe for his shares and finance in that manner the operations of his business corporation, just as it is common for such a corporation to itself borrow in order to finance its own activities. I do not see any reason to give different treatment to a partner who decides to finance the activities of his partnership by borrowing in order to make his contribution to the partnership[21] instead of having it obtain its own financing. Nor do I see any reason to treat differently one partner who borrows in order to make a contribution to his partnership and another who borrows in order to purchase property which he subsequently transfers to the partnership while continuing to be the debtor with respect to the loan. On the other hand, requiring SA to include in computing its income an expense which it did not incur would contravene section 96 of the Act, which requires that the income of that partnership be computed as though it were a separate person.
+
+[76] When it passed section 245 of the Act, Parliament's aim was to put a stop to schemes put in place to create an undue tax benefit for taxpayers. Parliament's intent was not, however, to enable the Minister to force taxpayers to structure their transactions so as to give rise to the greatest possible tax liability. In his explanatory notes on the new section 245 accompanying the bill to amend the Act, the Minister of Finance acknowledged that a taxpayer is entitled to arrange his affairs so as to pay the least tax possible. Section 245 is a powerful tool for discouraging and preventing flagrant abuses of the Act. It cannot serve as a tool for the Minister to force taxpayers to structure their transactions in the manner most favourable to the tax authorities.
+
+New Tax Consequences
+
+[77] To sum up, the tax benefit unduly obtained by Mr. Fredette during the relevant period is limited to the two-year deferral of taxation of the rental income. To eliminate this tax benefit, SDF's income shall be computed on the basis that its fiscal period ended on the same date as SA's. In this way, taxation of the rental income from the triplex may not be deferred for more than one year. For example, the rental income earned by SA from July to December 1991 is taxable in 1992, not 1993.
+
+[78] For all these reasons, the assessments for the 1991, 1992 and 1993 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that, during the relevant period: (1) SDF's fiscal period ended on February 28, (2) in computing SA's income (i) the rent of the apartment at 631 shall be excluded, (ii) his rental expenses shall be limited to 63 percent of total rental expenses (the percentage allowed by the Minister), (iii) there shall be no deduction of the interest paid by Mr. Fredette and Ms. Dufresne and (iv) SA was entitled to CCA calculated in accordance with subsection 1100(11) of the Regulations, and (3) Mr. Fredette could deduct only 63 percent of the interest on the loans obtained to finance the purchase of the triplex. Mr. Fredette and the respondent are entitled to no costs.
+
+Signed at Ottawa, Canada, this 23rd day of March 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 29th day of May 2001.
+
+Erich Klein, Revisor
+
+[1] It was she who looked after having the leases signed, deposited the rent cheques, verified banking transactions, communicated with suppliers and, in particular, with insurers.
+
+[2] It should be noted that, through an apparent oversight, an additional 10 shares were not issued to Mr. Fredette on June 14, 1990.
+
+[3] R.S.Q., c. D-15.1. According to section 6 of that Act, duties are payable only from the registration of the transfer.
+
+[4] It should be added that the share of SA's income which Ms. Dufresne had coming to her and which Mr. Fredette added to his income in 1992 represents income for the 1991 fiscal period. This income was thus carried over, as it were, for two years as though it had been earned through SDF, which was not the case!
+
+[5] Based on the rents in the previous table.
+
+[6] The CCA amounts represent 37 percent of CCA calculated on the basis of the figures in the Minister's schedules.
+
+[7] These two paragraphs provide as follows:
+
+18: General limitations.
+
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+18(1)(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+
+18(1)(h) Personal and living expenses — personal or living expenses of the taxpayer, other than travelling expenses incurred by the taxpayer while away from home in the course of carrying on his business.
+
+[8] The auditor confirmed that she had disallowed the expenses relating to 631 because she had concluded that the existence of the partnerships should be disregarded, and, based on this position, it was then logically impossible to pay oneself rent. It should be noted, however, that the lease was not signed between Mr. Fredette and SA, but rather between Ms. Dufresne and SA.
+
+[9] Subsection 96(1) read as follows in 1993 (it was amended during the relevant period, but this is of no consequence for the purposes of the discussion here):
+
+SECTION 96: General rules.
+
+(1) Where a taxpayer is a member of a partnership, his income, non-capital loss, net capital loss, restricted farm loss and farm loss, if any, for a taxation year, or his taxable income earned in Canada for a taxation year, as the case may be, shall be computed as if
+
+(a) the partnership were a separate person resident in Canada;
+
+(b) the taxation year of the partnership were its fiscal period;
+
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person, and a computation were made of the amount of
+
+(i) each taxable capital gain and allowable capital loss of the partnership from the disposition of property, and
+
+(ii) each income and loss of the partnership from each other source or from sources in a particular place,
+
+for each taxation year of the partnership;
+
+(d) each income or loss of the partnership for a taxation year were computed as if this Act were read without reference to paragraph 20(1)(v.1) and subsections 66.1(1), 66.2(1) and 66.4(1) and as if no deduction were permitted by section 29 of the Income Tax Application Rules, 1971, subsection 65(1) or section 66, 66.1, 66.2 or 66.4;
+
+. . .
+
+(f) the amount of the income of the partnership for a taxation year from any source or from sources in a particular place were the income of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership's taxation year ends, to the extent of the taxpayer's share thereof; and
+
+(g) the amount, if any, by which
+
+(i) the loss of the partnership for a taxation year from any source or sources in a particular place,
+
+exceeds
+
+(ii) . . .
+
+(iii) in any other case, nil
+
+were the loss of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership's taxation year ends, to the extent of the taxpayer's share thereof.
+
+[10] This definition reads as follows:
+
+(1) In this Act,
+
+"Fiscal period"—"fiscal period" means the period for which the accounts of the business of the taxpayer have been ordinarily made up and accepted for purposes of assessment under this Act and, in the absence of an established practice, the fiscal period is that adopted by the taxpayer (but no fiscal period may exceed
+
+(a) in the case of a corporation, 53 weeks, and
+
+(b) in the case of any other taxpayer, 12 months, and no change in a usual and accepted fiscal period may be made for the purposes of this Act without the concurrence of the Minister).
+
+[11] Subsection 249(2) reads as follows:
+
+249(2) References to "taxation year" and "fiscal period".
+
+For the purposes of this Act,,
+
+(a) a reference to a taxation year ending in another year includes a reference to a taxation year ending coincidentally with that other year; and
+
+(b) a reference to a fiscal period of a partnership ending in a taxation year includes a reference to a fiscal period of the partnership ending coincidentally with that year.
+
+[12] In Stubart Investments Limited v. The Queen, 84 DTC 6305, [1984] 1 S.C.R. 536, a similar incomplete transaction argument was made, but without success. See in particular the discussion at page 6309.
+
+[13] As seen above, in the definition as it read during the relevant period, "fiscal period" means the period for which the accounts of "the business" have been ordinarily made up. There is no reference to the fiscal period "of a business or a property" as there is in the new section 249.1 of the Act (in effect for fiscal periods commencing after 1994). It seems reasonable to believe that the auditor assumed that a partnership holding an immovable such as the triplex is operating a business, even if the services provided by SA were those normally provided by an ordinary lessor.
+
+This interpretation by the auditor might be based on certain common law and civil law notions (respecting commercial partnerships such as general partnerships) according to which the operation of a business (in the broad sense, that is to say, any activity carried on for profit) constituted during the relevant period one of the conditions for the existence of a partnership. (See in particular A Practical Guide to Canadian Partnership Law, A.R. Manzer, Canada Law Book Inc., Aurora, par. 2.250, and Jean Marier and André Michaud, C.A., Société en commandite, véhicule pour détenir des immeubles à revenu, Cours de perfectionnement du notariat, 1976, paragraphs 13 to 29.) The fact that a partnership (in common law) or a commercial partnership (in civil law) must carry on an undertaking (or a business) in order to exist could explain why some believe that such a partnership operates a business (within the narrower sense of the Act, which distinguishes between the notions of business and property) and thus has the right to choose a fiscal period ending after the end of the calendar year. This interpretation would be analogous to that adopted by some who contend that there is a presumption that the activities of a business corporation constitute the operation of a business.
+
+However, it is far from certain that a partnership can always be considered as operating a business within the narrower sense of the Act. For example, the rent earned from a triplex generally constitutes income from property, not from a business. Unless one adopts a presumption such as that noted above, there is no logical reason to believe that such an activity would constitute a source of income from a property for an individual and a source of business income for a partnership or business corporation. The nature of the income earned by a person should not depend on the status of that person. This is the approach that my colleagues Judge Bowman and Judge Lamarre adopted in Goldstein v. The Queen, 96 DTC 1029, and Marchand v. R., [1998] 3 C.T.C. 2340, and I share their point of view. The question thus arises as to whether a partnership which does not operate a business but earns income from property can have a fiscal period and whether that period can be different from the calendar year. In particular, how should one apply paragraph 96(1)(b) of the Act, which provides that the taxation year of a partnership is its fiscal period?
+
+In addition to the auditor's presumed interpretation, one might consider this one: the purpose of the new definition of "fiscal period" in section 249.1 of the Act is merely to clarify the application of the Act and does not alter the state of the law on this question. In my view, neither of these interpretations seems entirely satisfactory.
+
+Fortunately, this difficulty disappeared with the adoption of the new section 249.1 of the Act for fiscal periods commencing after 1994. Furthermore, it is now clearer under the provisions of the Civil Code of Québec, which came into force in 1994, that the operation of a business is not a condition for the existence of a general partnership. (See articles 2186 ff., Civil Code of Québec.) However, the difficulty remains with regard to fiscal periods commencing prior to 1994. As none of this was debated before me, it would be inappropriate to decide the question here and I adopt for the purposes of this appeal the same interpretation as that of the auditor.
+
+[14] It should also be noted that the Minister did not disallow the rental losses from the rental of 633 and 635.
+
+[15] However, it is quite surprising that the tenant of 635 paid rent of $0.61 per square foot, almost double that charged the tenant of 633. The question thus arises as to whether these calculations of rent on a per-square-foot basis are accurate.
+
+[16] If the net income generated by the apartment at 631 were calculated only at SA's level, it would be seen that that apartment produced a profit. However, I think it essential to include the interest expenses incurred by Mr. Fredette in determining whether the rental of that apartment actually yielded a profit. Otherwise we would have an incomplete picture of the true economic situation. A significant expense which was essential to the rental of the triplex was not borne by the partnership. It think it entirely appropriate to take interest into account, not only because this approach is dictated by common sense, but also, with respect for those who hold the opposite view, because it is consistent with the provisions of the Act governing the calculation of the income that a taxpayer has earned from a business or property through a partnership.
+
+It must be borne in mind that a partnership is not considered as having separate legal personality either in common law or in civil law. (See, regarding the situation in civil law, the decision by the Quebec Court of Appeal in Ville de Québec c. La Cie d'immeubles Allard Ltée, [1996] R.J.Q. 1566). It is obvious to me that this is what Parliament assumed when it passed subsection 96(1) of the Act, which provides that the income of a partnership must be computed as if the partnership "were a separate person" and each partnership activity (including the ownership of property) were carried on by the partnership "as a separate person". This subsection also provides that the amount of the income of the partnership from any source constitutes the income of the partner from that source to the extent of his share thereof. In Principles of Canadian Income Tax Law, Third Edition (taken from Carswell's TaxPartner), Hogg, Magee and Cook provide a good summary of this taxing scheme for the partners of a partnership under the heading "20.3 Taxation of partnership":
+
+The Income Tax Act recognizes the lack of legal personality of a partnership, and does not treat the partnership as a taxpayer [...]
+
+Partnership income is calculated for tax purposes in a two-step process. The first step is to calculate the income of the partnership "as if the partnership were a separate personresident in Canada" (s. 96(1)(a)). For this step, the partnership is required to recognize all income and take all deductions that would be applicable to a separate person resident in Canada. The second step is to apportion the partnership's income among the individual partners in accordance with their shares in the firm (s. 96(1)(f)). Each individual partner is then obliged to report his or her share of the partnership income as part of his or her income for the year.
+
+The income of each individual partner retains the source-characterization that it had when it was derived by the partnership. Accordingly, the appropriate share of income that was business income in the partnership is treated as business income in the hands of the partner; property income remains property income; and taxable capital gains remain taxable capital gains. This means that the individual partner is subject to the rules applicable to each source of income. For example, a partner's share of partnership dividends from taxable Canadian corporations is grossed up and eligible for the dividend tax credit in the partner's hands. As another example, although the partnership's business income will be a net figure from which all deductions that were applicable at the partnership level have been taken, the individual partner may have further deductions if he or she incurred expenses personally to earn the partnership income (for example, by using a personal automobile in the business or by attending a business conference). As another example, if an individual partner incurred an allowable capital loss in his or her private investments, the loss will be deductible against his or her share of any taxable capital gains derived by the partnership.
+
+[My emphasis. Footnotes omitted.]
+
+Among the expenses incurred by a partner, I believe that not only expenses such as automobile operating expenses, but also interest on money borrowed to finance the partner's contribution to the partnership must be taken into account. As a partnership has no separate legal personality, financing a contribution to the partnership is tantamount to financing the partnership's activities. It is true that the Act states that income must be computed as if the partnership were a separate person and that it also creates property described as an "interest in a partnership" (see in particular sections 53, 98 and 100). It could thus be contended that the payment of interest on money borrowed to finance a contribution to a partnership is the same as financing the acquisition of an "interest in a partnership" and that this loan interest is deductible in computing income earned from such a partnership interest, as would be the case if shares of a business corporation were involved.
+
+In my view, this approach is incorrect. When a business corporation, which has a legal personality separate from that of its shareholders, distributes its profits to its shareholders, those profits lose their character of profits of the corporation and become dividends in the shareholders' hands. The shareholders do not receive income from a business, they receive dividends, that is to say, income from property (the shares). Unlike shareholders, partners receive, not only in fact (in accordance with the principles of business law), but also for tax purposes (in accordance with the rule in paragraph 96(1)(f), which in a way defeats the fiction created by paragraphs 96(1)(a)and (c)), income from a business operated by the partnership or from a property held by that partnership. In other words, the partner's source of income is the same as the partnership's. In addition, elsewhere in the Act there is no provision creating the fiction that the income of a partner is earned from an "interest in a partnership". It must therefore be concluded that the partner derives his income from the activities of the partnership itself, not from property (the interest in the partnership) and that the interest expenses incurred by that partner to finance his contribution were incurred to obtain that business income (or income from property held by the partnership). Consequently, under paragraph 20(1)(c) of the Act, interest should be deducted from the share of partnership income going to the partner, just as the other expenses personally incurred by the partner are deducted under section 9 or other specific provisions of the Act, and this is done while at the same time adopting the same fiscal period as that of the partnership.
+
+It should be noted that this interpretation is contrary to that adopted by the Minister in paragraph 15 of his Interpretation Bulletin IT-318R. (Moreover, Mr. Fredette was in all likelihood following this interpretation by the Minister when he deducted his interest on a calendar year basis. If the Minister had adopted my approach, the interest would have been computed on the basis of the same fiscal period as SDF's and there would have been none of the lack of matching of which the Minister complains.) I have also considered the decision by my colleague Judge Bowman in Allen v. Canada, 99 DTC 968. After drafting these reasons, I learned of the Federal Court of Appeal's decision (The Queen v. Milewski, 2000 DTC 6559) confirming the decision in Allen. I note that in that case there was no question of any personal benefit obtained by the taxpayers and that Judge Bowman thought it "obvious" (paragraph 21 of the decision) that the partnership was carrying on a business with a reasonable expectation of profit.
+
+[17] This deduction is also consistent with the Minister's administrative policy. See Interpretation Bulletin IT-138R, paragraph 15.
+
+[18] As seen above, for fiscal periods commencing after 1994, the Act was amended by the addition, in particular, of section 249.1. Section 34.1 was also added. This was a significant reform of the tax rules for computing income from a business, more particularly as regards the fiscal period which individuals may adopt. Under these new rules, SA and SDF would have been required to adopt the calendar year as their fiscal period and Mr. Fredette would have been unable to carry over income.
+
+[19] The relevant provision reads as follows:
+
+(11) Rental Properties — Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+
+(a) the aggregate of amounts each of which is
+
+(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the income of a partnershipfor the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such income . . .
+
+[My emphasis.]
+
+[20] For a more thorough analysis, see the decision I rendered at the same time as this decision in Rousseau-Houle v. The Queen, 98-1946(IT)G.
+
+[21] Such a scenario as this is even explicitly described in subsection 18(2.1) of the Act.
+

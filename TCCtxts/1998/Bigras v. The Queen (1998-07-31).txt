@@ -1,0 +1,306 @@
+Date: 19980731
+
+Docket: 96-588-IT-G
+
+BETWEEN:
+
+JEAN-LUC BIGRAS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+P. R. DUSSAULT, J.T.C.C.
+
+[1] The appellant is appealing an assessment made on July 4, 1994 in respect of his 1990 taxation year. By this assessment, the Minister of National Revenue (the "Minister") disallowed, with respect to a gain which resulted from a sale of shares occurring in 1988 but a part of which was not declared until 1990 as a reserve claimed the preceding year, the capital gains deduction provided for under section 110.6 of the Income Tax Act (the "Act").
+
+[2] The deduction was disallowed on the ground that the anti-avoidance provision of subsection 245(1.1) applies in this instance. This provision, which was applicable to a series of transactions or events commencing after November 21, 1985, has since been repealed and replaced by the new general anti-avoidance provision of section 245 of the Act. Subsection 245(1.1) was applicable to transactions that were part of a series of transactions commencing before September 13, 1988 and ending before 1989.[1] During the period in question, subsection 245(1.1) of the Act read as follows:
+
+(1.1) Idem. Where it may reasonably be considered that one of the purposes of a series of transactions or events is that an individual convert into a capital gain from the disposition of property an amount that would
+
+(a) but for one or more of such transactions or events in the series, or
+
+(b) on a disposition by him of property in respect of which the property is a substituted property
+
+otherwise have been received by the individual and included in computing his income under paragraph 3(a), no amount shall be deducted by the individual under section 110.6 in respect of that capital gain.
+
+[3] In the amended Reply to the Notice of Appeal, the respondent further submits that the appellant is not entitled to the deduction under section 110.6 of the Act because the sale of the shares produced business income and not a capital gain, as, according to the respondent, the appellant acquired the shares for the purpose of immediately reselling them at a profit.
+
+[4] Counsel for the parties submitted a partial agreement on the facts and documentary evidence but reserved the right to present additional evidence not inconsistent with the terms of the agreement. The facts agreed upon are as follows:
+
+[TRANSLATION]
+
+1. Until June 15, 1988, the appellant was the sole shareholder of Les Entreprises Jean-Luc Bigras Ltée (hereinafter "JLB Ltée").
+
+2. JLB Ltée was incorporated in 1980 and its business thereafter consisted in the purchase and sale of land.
+
+3. The only issued and outstanding shares of JLB Ltée were 100 common shares held by the appellant since the incorporation of JLB Ltée. Each of these shares was a qualified small business corporation share as defined in subsection 110.6(1) of the Income Tax Act (hereinafter the "Act") R.S.C. 1985 (5th Supp.).
+
+4. The appellant's paid-up capital and adjusted cost base (hereinafter the "ACB") for each of the said JLB Ltée common shares was $1.
+
+5. On November 16, 1987, the appellant received from third parties an offer to purchase with respect to all of the shares of JLB Ltée or of any other company that might own certain land belonging to JLB Ltée and described in the said offer (hereinafter the "Land").
+
+- See document at tab 49, Volume II, which for reference purposes is designated as "C-49".
+
+6. The Land represented at least 80% of the value of the JLB Ltée land inventory at the time of the said offer.
+
+7. The initial purchase offer was $400,000 with a price of $422,500 finally being agreed upon on November 17, 1987.
+
+8. The appellant, through his accountant, Michel Désilets, C.A., consulted Jacques Pontbriand, C.A., M.Fisc., to review the tax aspects of the offer to purchase described in paragraph 5 above.
+
+9. On April 15, 1988, Jacques Pontbriand, C.A., M.Fisc., completed his review by submitting a written report.
+
+- See document at tab 52, Volume III, which for reference purposes is designated as "C-52".
+
+10. On May 18, 1988, 161978 Canada Inc. (hereinafter "161978 Inc.") was incorporated and issued the following capital stock:
+
+a. 10 Class A voting and participating shares to the appellant; and
+
+b. 90 Class D voting and non-participating shares to JLB Ltée.
+
+11. The said shares of 161878 [sic] Inc. had an ACB and paid-up capital of $1 per share.
+
+12. On May 18, 1988, 161979 Canada Inc. (hereinafter "161979 Inc.") was incorporated and issued the following capital stock:
+
+(a) 12 Class A voting and participating shares to the appellant; and
+
+(b) 110 Class D voting and non-participating shares to 161978 Inc.
+
+13. The said shares of 161979 Inc. had an ACB and paid-up capital of $1 per share.
+
+14. On June 16, 1988, the following transactions were successively carried out:
+
+(a) JLB Ltée sold some of the Land it owned to 161978 Inc. for $422,500. This sale price was paid by means of a $22,500 cash payment and the issuing of a non-interest-bearing note in the amount of $400,000 to the order of JLB Ltée., payable on demand on May 1, 1991;
+
+- See document at tab 6, Volume I, which for reference purposes is designated as "C-6".
+
+(b) 161978 Inc. sold the Land to 161979 Inc. for $422,500. This sale price was paid by the issuing of a non-interest-bearing note in the amount of $422,500 to the order of 161978 Inc., payable on demand;
+
+- See document at tab 7, Volume I, which for reference purposes is designated as "C-7".
+
+(c) The appellant sold to 161979 Inc. 44 of his common shares in JLB Ltée and received in exchange 44 Class A voting and participating shares in 161979 Inc. The fair market value of the 44 JLB Ltée shares sold by the appellant was declared to be $211,250. An election under section 85 of the Act was made so that the appellant's proceeds of disposition of the 44 JLB Ltée common shares were deemed to be equal to $44, that is, their ACB;
+
+- See documents at tabs 8 to 10, Volume I of this binder, which for reference purposes are designated as “C-8 to C-10”.
+
+(d) JLB Ltée purchased for cancellation the 44 common shares of its capital stock now held by 161979 Inc. for the sum of $211,250. Under subsection 84(3) of the Act, JLB Ltée was deemed to have paid a dividend of $211,206, and 161979 Inc. was deemed to have received a dividend of $211,206, at the time of this purchase for cancellation. The price was paid by issuing a demand note in the amount of $211,250 to the order of 161979 Inc.;
+
+- See documents at tabs 11 to 13, Volume I, which for reference purposes are designated as “C-11 to C-13”.
+
+(e) 161979 Inc. assigned to 161978 Inc. JLB Ltée's $211,250 debt arising from the redemption of the 44 common shares of JLB Ltée, and 161978 Inc. accepted the said debt in partial payment of the amount owed to it by 161979 Inc. under the contract of sale of the Land entered into between 161978 Inc. and 161979 Inc., described in greater detail in subparagraph (b) above.
+
+- See documents at tabs 14 to 17, Volume I, which for reference purposes are designated as “C-14 to C-17”.
+
+(f) The appellant sold to 161979 Inc. another 44 of his common shares in JLB Ltée and received in exchange another 44 Class A voting and participating shares in 161979 Inc. The fair market value of these 44 JLB Ltée shares sold by the appellant was declared to be $211,250. An election under section 85 of the Act was made so that the appellant's proceeds of disposition of the appellant of the 44 JLB Ltée common shares were deemed to be equal to $44, that is, their ACB;
+
+- See documents at tabs 18 to 20, Volume I, which for reference purposes are designated as “C-18 to C-20”.
+
+(g) JLB Ltée purchased for cancellation the 44 common shares of its capital stock now held by 161979 Inc. for the sum of $211,250. Under subsection 84(3) of the Act, JLB Ltée was deemed to have paid a dividend of $211,206 and 161979 Inc. was deemed to have received a dividend of $211,206 at the time of this purchase for cancellation. The price was paid by issuing a demand note in the amount of $211,250 to the order of 161979 Inc.
+
+- See documents at tabs 21 to 23, Volume I, which for reference purposes are designated as “C-21 to C-23”.
+
+(h) 161979 Inc. assigned to 161978 Inc. JLB Ltée's $211,250 debt arising from the redemption of the 44 common shares of JLB Ltée, this assignment being in payment of the balance due to 161978 Inc. by 161979 Inc. under the contract of sale of the Land entered into between these two parties and described in greater detail in subparagraph (b) above;
+
+- See documents at tabs 24 to 27, Volume I, which for reference purposes are designated as “C-24 to C-27”.
+
+(i) 161978 Inc. redeemed for the amount of $90 the 90 of its Class D shares held by JLB Ltée; and 161979 Inc. redeemed for the amount of $110 the 110 of its Class D shares held by 161978 Inc.
+
+15. Following the transactions described in the preceding paragraph, the only 161979 Inc. shares issued and outstanding were the 100 Class A shares held by the appellant and each of those shares constituted a qualified small business corporation share as defined in subsection 110.6(1) of the Act.
+
+16. On June 23, 1988, the appellant sold his 100 Class A shares in 161979 Inc. to Gestion G. Brunet Inc. and Gestion T.V.J.F. Inc. (hereinafter the “purchaser”) for $422,500 payable as follows:
+
+(a) a $22,500 cash payment upon acceptance of the offer to purchase dated November 16, 1987;
+
+(b) a $100,000 cash payment at the time of sale; and
+
+(c) $300,000 payable on or before May 1, 1993, in accordance with the agreed upon terms and conditions and rates of interest, specifically:
+
+- $80,000 on or before May 1, 1989;
+
+- $60,000 on or before May 1, 1990;
+
+- $160,000 on or before May 1, 1993.
+
+- See the document at tab 28, Volume I, which for reference purposes is designated as “C-28”.
+
+17. The sale concluded on June 23, 1988 gave effect to the offer to purchase of November 16, 1987 described in paragraph 5 above.
+
+18. At all relevant times, the purchaser was dealing at arm’s length with the appellant, JLB Ltée, 161978 Inc. and 161979 Inc.
+
+19. In his 1988 income tax return the appellant declared a capital gain of $422,488 earned on the disposition of the 100 Class A shares of 161979 Inc., less a reserve of $300,000, for a capital gain of $122,488 and a taxable capital gain of $81,658.66.
+
+20. In his 1989 income tax return the appellant declared a capital gain on the inclusion of the $300,000 reserve, less a new reserve of $220,000, for a capital gain of $80,000 and a taxable capital gain of $60,000.
+
+21. In his 1990 income tax return the appellant declared a capital gain on the inclusion of the $220,000 reserve, for a capital gain of $220,000 and a taxable capital gain of $165,000.
+
+22. In each of his income tax returns for 1988 to 1990 the appellant claimed, under subsection 110.6(2.1) of the Act, a deduction equal to the amount of the taxable capital gains included in his income.
+
+23. As a result of the transaction described in subparagraph 14(b) above, 161978 Inc. did not realize a profit on the resale of the Land to 161979 Inc.
+
+24. Beginning on August 10, 1992 and until March 11, 1994, Jacques Pontbriand, C.A., M.Fisc., and Pierre Jolin of the Audit Division of the Department of National Revenue had discussions concerning the transactions described above.
+
+- See documents at tabs 53 to 60, Volume III, which for reference purposes are designated as “C-53 to C-60”.
+
+25. In a reassessment dated July 4, 1994, the Minister of National Revenue (hereinafter the “MNR”) disallowed the deduction of $165,000 claimed by the appellant for the 1990 taxation year on the ground that subsection 245(1.1) of the Act applied.
+
+- See documents at tab 61, Volume III, which for reference purposes are designated as “C-61”.
+
+26. On September 27, 1994, the appellant duly objected to the July 4, 1994 reassessment.
+
+- See document at tab 62, Volume III, which for reference purposes is designated as “C-62”.
+
+27. Discussions then took place between the MNR's representatives and Jacques Pontbriand, C.A., M.Fisc.
+
+- See documents at tabs 63 to 65, Volume III, which for reference purposes are designated as “C-63 to C-65”.
+
+28. On November 9, 1995, the MNR confirmed the July 4, 1994 reassessment on the ground:
+
+THAT ONE OF THE PURPOSES OF THE SERIES OF TRANSACTIONS CARRIED OUT BETWEEN MAY 18, 1988 AND JUNE 23, 1988 WAS TO ENABLE MR. BIGRAS TO CONVERT INTO A CAPITAL GAIN A DIVIDEND AMOUNT THAT WOULD OTHERWISE HAVE BEEN RECEIVED BY HIM AND INCLUDED IN HIS INCOME.
+
+- See document at tab 51, Volume II, which for reference purposes is designated as “C-51”.
+
+[5] It was at the request of Michel Désilets, the appellant’s accountant, that Jacques Pontbriand, a chartered accountant specializing in tax matters, planned the transactions described above in the partial agreement on the facts following an offer of $422,500 received by the appellant for all of the shares of the capital stock of JLB Ltée or of any other company that might own certain lands held by JLB Ltée. According to Mr. Pontbriand, the aim was to structure the transaction in such a way that it would be acceptable to both parties. On the one hand, the sale by the appellant of his shares of JLB Ltée's capital stock would have resulted in his realizing a capital gain that would have been eliminated through the deduction under section 110.6 of the Act. However, this solution did not suit the purchasers because the low cost of the land held by JLB Ltée would have meant too high an amount of deferred tax for them. On the other hand, the sale of the land by JLB Ltée at its fair market value did suit the purchasers because it eliminated the deferred tax problem, but was not acceptable to the appellant who would not then have been able to take advantage of the deduction under section 110.6 of the Act. According to Mr. Pontbriand, since the appellant wanted to sell his shares without any tax consequences by taking this deduction, the plan worked out essentially avoided the deferred tax problem by transferring the land at its fair market value to a new company in order to increase its cost while also rolling over the shares in JLB Ltée's capital stock held by the appellant into the new company in exchange for shares in that company's capital stock. The plan was for the appellant to then sell the newly acquired shares in the new company's capital stock to the third party purchasers, thereby realizing a capital gain eligible for the deduction under section 110.6 of the Act. As can be seen on reading the transactions described in the partial agreement on the facts, in order to avoid certain technical difficulties Mr. Pontbriand planned on using two new companies to achieve his objectives.
+
+[7] On June 23, 1988, the appellant sold his 100 Class A shares of 161979 Inc.'s capital stock to third party purchasers for $422,500, thereby realizing a capital gain of $422,488.
+
+[8] Given the terms of payment of the price of the shares, the appellant claimed in 1988 a reserve of $300,000 and declared a capital gain of $122,488 and a taxable capital gain of $81,658.66. In 1989, he claimed a new reserve of $220,000 and declared a capital gain of $80,000 and a taxable capital gain of $60,000. Lastly, in 1990, the appellant declared a capital gain of $220,000 (that is, the amount of the reserve claimed in 1989) and a taxable capital gain of $165,000.
+
+[9] Although the appellant claimed the capital gains deduction under section 110.6 of the Act for 1988, 1989 and 1990, it was not until after a two-year audit and numerous discussions that a reassessment was finally made on July 4, 1994 with respect to the 1990 taxation year alone, as time had by then expired for the 1988 and 1989 taxation years. According to Mr. Pontbriand, Pierre Jolin, the Revenue Canada auditor, initially questioned the reserve claimed by JLB Ltée with respect to the sale of the land, and then questioned the validity of the election with respect to one of the rollovers of 44 shares of JLB Ltée's capital stock by the appellant into 161979 Inc. These issues were ultimately resolved and Mr. Jolin then invoked subsection 245(1.1) of the Act in disallowing the deduction claimed by the appellant under section 110.6 of the Act for his 1990 taxation year.
+
+[10] It should be pointed out immediately that it was not until November 1996 that the respondent, following a court order allowing the filing of an amended Reply to the Notice of Appeal, added a new justification for the refusal to allow the appellant's deduction under section 110.6 of the Act, namely, that the appellant had acquired the 161979 Inc. shares for the purpose of immediately reselling them at a profit so that the disposition of the shares would have produced business income rather than a capital gain.
+
+[11] During his testimony, Mr. Pontbriand admitted that the shares of 161979 Inc.'s capital stock acquired by the appellant had to be resold quickly because, according to the plan put forward, the value of the shares of JLB Ltée's capital stock held by the appellant was in fact to be transferred to the new company so that this value would be reflected in the shares of the capital stock of that company which were acquired by the appellant following the rollover of his shares of JLB Ltée's capital stock.
+
+[12] The appellant's testimony added little to that of Mr. Pontbriand except for the confirmation that the third party purchasers were basically interested in certain land in Ste-Marthe, which JLB Ltée could moreover have sold directly.
+
+[13] According to Mr. Bigras, JLB Ltée owned only one other, small, parcel of land that it resold to him at a loss a short time later. JLB Ltée then apparently ceased all operations.
+
+[14] Mr. Bigras confirmed that the various transactions were carried out to implement the recommendations of Mr. Pontbriand and of Mr. Bigras's accountant, Mr. Désilets, whom Mr. Bigras trusted, in order to pay less tax. Mr. Bigras added that the third party purchasers had made it clear during negotiations that they were not interested in acquiring "an old company because of potential debts".
+
+[15] Before reviewing the argument of counsel for the parties, it would be useful to point out that, during examination for discovery,[2] Pierre Jolin admitted that the fact that JLB Ltée had been the owner of the land since 1980 could not be denied. Moreover, although he acknowledged that JLB Ltée was entitled to receive the proceeds of the sale of the land, he nevertheless considered that it was the profit realized by JLB Ltée on the sale of that land, namely an amount of approximately $306,000 less related taxes (but not taking into account other losses unrelated to the sale), that might have been received by the appellant as a dividend (the least expensive hypothesis), or even as wages or as a gift, but for the series of transactions. Mr. Jolin did, however, admit that JLB Ltée had declared no dividend nor any bonus or salary. Mr. Jolin further confirmed that there was no relation between the $306,000 which, according to him, was received by the appellant and the last portion of the taxable capital gain included in 1990, that is, the amount of $165,000, except for the fact that subsection 245(1.1) of the Act was in fact applied in disallowing the section 110.6 deduction with respect to this portion. He stated however that the sale by the appellant of his shares of JLB Ltée's capital stock (to third parties) would have given rise to a capital gain and to the capital gains deduction.
+
+[16] Counsel for the appellant began by emphasizing the admission that the desired land represented at least 80% of the value of the land inventory of JLB Ltée at the time of the offer of November 17, 1987. He argued that, in reality, the proportion was equal to 88% since the appellant assigned to 161979 Inc. 88 of the 100 shares of JLB Ltée's capital stock belonging to him. Referring to the decision of the Federal Court, Trial Division in Imapro Corporation v. The Queen, 92 DTC 6487 at page 6494, he argued that the transaction involved in a manner of speaking the sale of virtually all of JLB Ltée's business, thereby producing a capital gain and not business income according to the decision of the Supreme Court of Canada in Frankel Corporation Ltd. v. M.N.R., [1959] S.C.R. 713, 59 DTC 1161. Thus, according to counsel for the appellant, the decision of the Supreme Court of Canada in Fraser v. M.N.R., [1964] S.C.R. 657, 64 DTC 5224 could not apply because the sale by the appellant of his shares of JLB Ltée's capital stock could not be considered to be another way of disposing of property (the land) the sale of which would have generated business income.
+
+[17] I admit having some difficulty understanding the relevance and soundness of this argument as a basis for concluding that the decision in Fraser, supra, in which the sale of shares of a company was held to be simply another way of disposing of land held for resale which, upon disposition, would have produced business income, does not apply.
+
+[18] Section 23 of the Act clearly establishes that upon disposing of a business or part of that business or upon or after fully or partially ceasing to carry on the business, property sold that was included in the inventory of the business is deemed to have been sold in the course of carrying on the business. Section 23 replaced the former section 85E applicable to sales of property included in the inventory of a business from April 5, 1955. This provision was introduced specifically for the purpose of neutralizing the effect of the decision of the Supreme Court of Canada in Frankel, supra.
+
+[19] Does this mean that the principle laid down by the Supreme Court of Canada in Fraser, supra, is applicable to the facts of the instant case? It is my view that the answer must be a categorical no. There is no evidence that the appellant ever held the land of which JLB Ltée had been the owner since 1980. The appellant was a shareholder of JLB Ltée and nothing more. To settle this point it will suffice here to refer to the words of my colleague judge Bowman in Rudacel Investment Co. Ltd. v. M.N.R., 92 DTC 1118, on which counsel for the appellant also relied. In my view, those comments, found on page 1121, are directly applicable to this case. They read as follows:
+
+Kinwest, a separate juridical entity, acquired land and engaged for five years in the business of developing and selling it. The shareholders' ownership of shares in Kinwest was a capital investment in a business enterprise carried on by a separate legal entity. Kinwest's business and its profits from that business were its own and not those of its shareholders. That principle has been entrenched in our law for at least a century. The Fraser case neither erodes the principle nor blurs the distinction.
+
+[20] There is no doubt that the shares of JLB Ltée's capital stock held by the appellant were capital property in his hands. Their disposition to a third party therefore could only have produced a capital gain and not business income.
+
+[21] Before examining the question of the application of subsection 245(1.1) of the Act, logic demands that one deal first with the respondent's new claim that the sale by the appellant to third party purchasers of the shares of 161979 Inc.'s capital stock would have yielded business income. The allegation behind this claim is that these shares were acquired by the appellant for the purpose of reselling them immediately at a profit. Counsel for the respondent therefore argued that the appellant would not have been entitled to the capital gains deduction under section 110.6 of the Act but for the application of subsection 245(1.1) of the Act.
+
+[22] The appellant held his shares of JLB Ltée's capital stock as capital property. The value of these shares reflected the value of the land held by JLB Ltée. Given the offer received on November 16, 1987, the appellant was in a position to sell his shares and realize a capital gain measurable according to the value of the land desired by the third party purchasers. Under Mr. Pontbriand's tax planning scheme, the appellant instead transferred 88 of the 100 shares he held in JLB Ltée's capital stock to 161979 Inc. by using the rollover provided for in section 85 of the Act and by agreeing to an amount equal to the adjusted cost base of the shares, namely $1 per share, for the purposes of the transactions. In exchange, he received 88 shares of 161979 Inc.'s capital stock with the same adjusted cost base. Having already subscribed for 12 shares whose adjusted cost base was the same, the appellant held, after the various transactions, 100 shares of 161979 Inc.'s capital stock, its only shares issued and outstanding at the time. Further, 161979 Inc. had acquired the desired land for an amount equal to their fair market value, that is, $422,500. It is easy to understand that the market value of the 88 shares in JLB Ltée, declared as being $422,500 for the purposes of the election made under section 85 of the Act, was thereupon transferred or carried over to the 100 shares of 161979 Inc's capital stock held by the appellant. This value also reflected the value of the land acquired by 161979 Inc. It seems clear to me that the shares of 161979 Inc.'s capital stock held by the appellant were thus, for the most part, simply substituted for the 88 shares of JLB Ltée's capital stock that he held. In my view, the new shares must therefore be of the same nature as the old ones, that is, capital property. As for the other 12 shares subscribed for when the company was incorporated, they were so subscribed for simply to counterbalance the 12 shares of JLB Ltée's capital stock excluded from the transactions. In my view, it was not even necessary for them to be issued and acquired by the appellant.
+
+[23] In short, it is my view that the shares of 161979 Inc.'s capital stock acquired by the appellant were simply acquired to replace the shares of JLB Ltée's capital stock that he held as capital property and which were transferred to 161979 Inc. under the tax planning scheme devised by Mr. Pontbriand. The appellant was not in the business of trading shares and transactions carried out solely for the purposes of such planning cannot be characterized as "an adventure or concern in the nature of trade" such that the disposition of the property involved in those transactions could generate business income. The following extract from the majority decision of the Federal Court of Appeal in Canada v. Loewen, [1994] 3 F.C. 83, at page 98, is more than sufficient to resolve the question:
+
+The test for an adventure in the nature of trade is an objective one based upon the standard of the "ordinary trader or dealer." If the Income Tax Act is to deem a transaction to produce a notional profit, that profit must not be treated as real for the purposes of applying the test. In the context of the present case that means that the question to be asked must be whether such a purely notional profit would serve to induce a trader to enter into the transaction. In my view, it is clear that it would not. The real and only inducement here was the tax credit but that, as we have seen, cannot serve to turn the transaction into an adventure in the nature of trade.
+
+I conclude, therefore, as did the Tax Court Judge, that the appellant's purchase and subsequent redemption of the SRTC debenture was not an adventure in the nature of trade and that his deemed gain therefrom should be treated as a capital gain and not as income.
+
+(Emphasis added.)
+
+[24] I would simply add that, in the instant case, the acquisition by the appellant of shares of 161979 Inc.'s capital stock to replace shares he held in the capital stock of JLB Ltée did not in itself produce any benefit of a business nature since the shares of 161979 Inc.'s capital stock held by the appellant before their sale to the third party purchasers had exactly the same value as the 88 shares of JLB Ltée's capital stock that were transferred to 161979 Inc. using the rollover provided for in section 85 of the Act.
+
+[25] The fact that the value of 88 shares of JLB Ltée's capital stock held by the appellant was transferred to 100 shares of 161979 Inc.'s capital stock rather than 88 is of little importance since the appellant was, after all the transactions, the sole owner of all of the shares then issued and outstanding.
+
+[26] This brings us to the question of subsection 245(1.1) of the Act.
+
+[27] The application of paragraph 245(1.1)(b) was not raised by the respondent and rightly so since the 100 shares of 161979 Inc.'s capital stock are essentially property substituted for the 88 shares of JLB Ltée's capital stock held previously by the appellant. Since these shares were capital property in his hands, their disposition could only have produced a capital gain and not income that should be included under paragraph 3(a) of the Act.
+
+[28] In fact, the respondent invoked paragraph 245(1.1)(a) of the Act on the ground that one of the purposes of the series of transactions or events was to enable the appellant to convert into a capital gain an amount which would otherwise have been received from JLB Ltée as a dividend, salary or bonus or in some other form and thus included in his income under paragraph 3(a) of the Act. The respondent assumed that the sale of the land by JLB Ltée to 161978 Inc. produced a profit and that that profit net of tax, or if one prefers, that surplus, would have been received by the appellant as income in one form or another that he would have had to include in computing his income in accordance with paragraph 3(a) of the Act but for one or more operations or events in the series.
+
+[29] Counsel for the appellant, while admitting that there was indeed a series of transactions or events, argued that the appellant simply converted a capital gain that he could have realized by disposing of his shares of JLB Ltée's capital stock into a capital gain realized by disposing instead of the shares of 161979 Inc.'s capital stock. In his view, the appellant was not entitled to anything other than a capital gain: not a dividend, not salary and not a bonus.
+
+[30] As for the entitlement to dividends, counsel for the appellant relied on the analysis of this question found in La Compagnie au Québec - les aspects juridiques by Maurice and Paul Martel, Éditions Wilson & Lafleur, Martel Ltée, 1994, Montréal. At pages 345 and 346, the authors comment as follows:
+
+[TRANSLATION]
+
+1 — Entitlement to profits: dividends. It is the shareholder's right to receive part of the company's profits, in proportion to his investment in the company. This sharing in the profits occurs through the payment of dividends by the company. The shareholder's entitlement to the dividends is, however, subject to a precondition: the dividends must be declared. The declaration of dividends is at the discretion of the directors. Indeed, it is for the directors alone to determine the amount of profits that the company will distribute as dividends; they are entirely at liberty to decide that these profits will not be distributed at all, but will be reinvested in the companyor will serve as a "reserve fund". The directors are free to declare dividends or not when the company has profits, and the courts will not intervene to change their decision except in the event of fraud or bad faith. This approach is based on the principle that the directors must consider the interest of the company as a whole before that of the shareholders individually or even collectively.
+
+(Emphasis added; footnotes omitted.)
+
+[31] According to counsel for the appellant, the intent of subsection 245(1.1) was to cover only situations such as that in Fraser, supra. In this regard, counsel referred to the technical notes published at the time this provision was introduced by the Honourable Michael Wilson, Minister of Finance. Those notes are the "Technical Notes relating to the Bill amending the Income Tax Act and other related acts" (Bill C-84), November 1985, at pages 138 to 140.
+
+[32] In my view, subsection 245(1.1) was not intended solely to cover situations similar to that found in Fraser,supra. Although the criterion set out in paragraph 245(1.1)(b) may, at first glance, appear to have been enacted for that purpose, it may legitimately be asked what the limits are to the principle laid down in Fraser,supra. While the principle is probably applicable to property other than property that is part of a taxpayer's inventory, it is not certain that it would apply where a company was not created for the sole purpose of disposing of a specific property. Given its very broad wording, paragraph 245(1.1)(b) presumably could have applied to situations not covered by the principle laid down in Fraser, supra, just as it could also have applied following the disposition of an interest in a company or a trust.[3] Furthermore, as we know, the application of the principle laid down by the Supreme Court of Canada results in business income and not a capital gain on the sale of shares of the capital stock of a company to which property included in a taxpayer's inventory has previously been transferred. Thus, it was not necessary to apply the rule set forth in paragraph 245(1.1)(b) of the Act in order to disallow in such circumstances the capital gains deduction provided for under section 110.6 of the Act.
+
+[33] To illustrate the application of this new provision and specifically of paragraph 245(1.1)(b), the technical notes accompanying the introduction of subsection 245(1.1) refer to tax-deferred transfers under the rollover provisions of the Act followed by a sale of shares or other interests acquired as a result of such transfers. However, other types of situations were also covered, as indicated by the following paragraph on page 140 of those notes:
+
+New subsection 245(1.1) is also aimed at those cases where an individual entitled to receive ordinary income rearranges his affairs through a series of related transactions, the purpose of which is to convert ordinary income that may reasonably be considered to have accrued up to the time the series begins into an exempt capital gain. The provision may apply where an individual converts ordinary income such as dividends, rent or interest into a capital gain through a series of transactions or events. For example, if an individual sells shares cum-dividend and following the dividend payment date reacquires the shares, new subsection 245(1.1) may apply. However, the provision will not ordinarily apply where an individual converts one investment into another. For example, an individual who substitutes his investment in a debt obligation for a new investment in common shares.
+
+(Emphasis added.)
+
+[34] This part of the technical notes deals more specifically with the application of paragraph 245(1.1)(a) of the Act.
+
+[35] It is clear from a reading of this provision that it is appropriate to review the purpose of a series of transactions or events only where there has in fact been a conversion into a capital gain of an amount that would have been received by an individual and included in computing his income under paragraph 3(a) of the Act but for one or more transactions or events in the series. In my view, such wording indicates that the provision is aimed at the conversion of an amount that an individual avoided receiving through one or more transactions or events in the series and that would have been income had it been received; it would consequently be normal to include such amount in computing that individual's income under paragraph 3(a) of the Act. This interpretation is moreover in keeping with the above-cited paragraph from the technical notes. The example provided therein of the sale of shares cum dividend and the reacquisition of the shares following the dividend payment date illustrates particularly well the type of conversion being targeted. However, in order to determine whether an amount is covered by paragraph 245(1.1)(a), it is first necessary to be able to say that an individual initially had, in one capacity or another, some entitlement to receive the amount in question as it is mainly the fact that this amount would have been received, but for its conversion by one or more transactions or events in the series, that gives rise to the application of the provision.
+
+[36] In the instant case, the appellant was not entitled to receive any amount as "ordinary income" before the series of transactions began. There was nothing that he might have received in the way of salary, bonus or dividends because he was not entitled on any basis to any amount that might have accrued and that might have been received by him and included in computing his income under paragraph 3(a) of the Act.
+
+[37] More particularly, the appellant was not entitled to receive any dividend because no dividend had been declared. Since it is JLB Ltée's surplus resulting from the sale of the land that is specifically in question, and that counsel for the respondent, like Revenue Canada auditor Pierre Jolin, stated the appellant would have been entitled to receive, and that would thus have been included in computing his income had it been distributed in one way or another, it is my view that the appellant was not entitled to receive such a surplus.
+
+[38] The recent unanimous decision of the Supreme Court of Canada in Neuman v. The Queen, 98 DTC 6297, strongly confirms this point of view. That case involved the application of subsection 56(2) of the Act in a situation where there had been a selective declaration and payment of dividends on two different classes of shares of the capital stock of a company in accordance with a so-called "discretionary dividend" clause in the company's articles of incorporation. Subsection 56(2) reads as follows:
+
+A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to him.
+
+[39] In that case, the question was essentially whether the dividends declared and paid with respect to a particular class of shares (Class F) held exclusively by the appellant's spouse should be attributed to the appellant who held the only voting share and all of another class (Class G) of shares of the company's capital stock. The appellant acquired the latter class of shares through a transfer, under subsection 85(1) of the Act, of the shares of another company with a fair market value of $120,000. The shares of a different class held by his spouse had been acquired for a nominal amount. The spouse was elected the company's sole director. Following receipt of a dividend of $20,000 on the shares that were held by the company and that had been acquired in the rollover under subsection 85(1) of the Act, the appellant's spouse, as director, declared a dividend of $14,800 on the Class F shares she held and a dividend of $5,000 on the Class G shares held by the appellant. Upon receipt of the $14,800, the appellant's spouse loaned him an equivalent amount guaranteed by a demand note. This brief summary of the facts is sufficient for present purposes.
+
+[40] In his analysis, Iacobucci J., writing for the Supreme Court of Canada, acknowledged (paragraph 32 of his reasons) that "in order for s. 56(2) to apply, four preconditions, each of which is detailed in the language of s. 56(2) itself, must be present". In the same paragraph, he sets out the fourth precondition as follows:
+
+the payment would have been included in the reassessed taxpayer's income if it had been received by him or her.
+
+[41] Referring in particular to the reasons of Dickson C.J. in McClurg v. Canada, [1990] 3 S.C.R. 1020, Iacobucci J. essentially concluded that dividend income did not satisfy this condition because it assumes the existence of an entitlement to the retained earnings of a company. In his view, a shareholder has no such entitlement since, if dividends are not paid to a shareholder, they remain part of the company's retained earnings.
+
+[42] Here are Dickson C.J.'s comments on this point in paragraphs 46 to 49 of his reasons:
+
+46 This Court concluded that, as a general rule, s. 56(2) does not apply to dividend income since, until a dividend is declared, the profits belong to the corporation as retained earnings. The declaration of a dividend cannot be said, therefore, to be a diversion of a benefit which the taxpayer would have otherwise received (at p. 1052). Dickson, C.J. explained the ruling as follows (at p. 1052):
+
+While it is always open to the courts to "pierce the corporate veil" in order to prevent parties from benefitting from increasingly complex and intricate tax avoidance techniques, in my view a dividend payment does not fall within the scope of s. 56(2). The purpose of s. 56(2) is to ensure that payments which otherwise would have been received by the taxpayer are not diverted to a third party as an anti-avoidance technique. This purpose is not frustrated because, in the corporate law context, until a dividend is declared, the profits belong to a corporation as a juridical person: [B. Welling, Corporate Law in Canada (1984), at pp. 609-10]. Had a dividend not been declared and paid to a third party, it would not otherwise have been received by the taxpayer. Rather, the amount simply would have been retained as earnings by the company. Consequently, as a general rule, a dividend payment cannot reasonably be considered a benefit diverted from a taxpayer to a third party within the contemplation of s. 56(2).
+
+[Emphasis added.]
+
+47 Although not explicitly stated, Dickson, C.J.'s preceding comments concern the fourth precondition to the application of s. 56(2): that the payment would have been included in the reassessed taxpayer's income if it had been received by him or her. In essence, dividend income does not satisfy this prerequisite to attribution since the reassessed taxpayer would not have received the income had it not been paid to the shareholder. In effect, this Court implicitly interpreted the fourth precondition to include an entitlement requirement; entitlement is used in the sense that the reassessed taxpayer would have otherwise received the payments in dispute. This was correctly noted by Rothstein, J. at the Federal Court, Trial Division in similar terms where he acknowledged that Dickson, C.J.C. qualified the application of s. 56(2) by requiring that the payment in issue "would otherwise have been obtained by the reassessed taxpayer" (p. 164).
+
+48 An entitlement requirement in the sense I have described is consistent with the stated purpose of s. 56(2), which is to capture and attribute to the reassessed taxpayer "receipts which he or she otherwise would have obtained" (McClurg, at p. 1051). Dividend income cannot pass the fourth test because the dividend, if not paid to a shareholder, remains with the corporation as retained earnings; the reassessed taxpayer, as either director or shareholder of the corporation, has no entitlement to the money.
+
+49 This is the only interpretation which makes sense and which avoids absurdity in the application of s. 56(2), as noted by Dickson, C.J. (at p. 1053):
+
+. . . but for the declaration (and allocation), the dividend would remain part of the retained earnings of the company. That cannot legitimately be considered as within the parameters of the legislative intent of s. 56(2). If this Court were to find otherwise, corporate directors potentially could be found liable for the tax consequences of any declaration of dividends made to a third party . . . this would be an unrealistic interpretation of the subsection consistent with neither its object nor its spirit. It would violate fundamental principles of corporate law and the realities of commercial practice and would "overshoot" the legislative purpose of the section.
+
+[43] One of the conditions for the application of paragraph 245(1.1)(a) is that an individual have converted into a capital gain "an amount that would but for one or more [. . . ] transactions or events in the series, [. . . ] otherwise have been received by the individual and included in computing his income under paragraph 3(a)". In my view, while such wording may have some similarity to that in subsection 56(2) in that it establishes as a condition that the taxpayer would have received an amount as income in the absence of the transactions in question, it enunciates even more explicitly than subsection 56(2) of the Act the condition respecting the existence of an unequivocal entitlement to an amount that would have been received and included in computing income but for the conversion carried out through one or more transactions or events in the series.
+
+[44] This confirms my conclusion that paragraph 245(1.1)(a), as worded, could only apply to an amount that an individual was entitled to receive but which he avoided receiving by converting it into a capital gain through a series of transactions or events. Prior to the commencement of the series of transactions or events, the appellant had no entitlement to the surpluses or retained earnings of JLB Ltée since no dividend had been declared at that time. Nor was he entitled to receive any amount as salary, or bonus, or any other amount of income on any basis whatsoever.
+
+[45] While subsection 245(1.1) must be analyzed by disregarding one or more transactions in a series, it is not permissible in my view to add one or more transactions that never occurred in order to argue that an individual would have been entitled to an amount that would have been received and included in computing his income but for one or more transactions or events in the series.[4] Therefore one cannot attribute to the appellant an entitlement that he did not have by assuming the existence of a transaction (like the declaration of a dividend) that never occurred through which he could have acquired an entitlement to receive an amount as "ordinary income".
+
+[46] I therefore find that subsection 245(1.1) and more specifically paragraph 245(1.1)(a) cannot be applied so as to disallow the capital gains deduction claimed by the appellant under section 110.6 of the Act for his 1990 taxation year.
+
+[47] For the above reasons, the appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the capital gains deduction under section 110.6 of the Act for his 1990 taxation year; the whole with costs.
+
+Signed at Ottawa, Canada, this 31st day of July 1998.
+
+"P. R. Dussault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 30th day of September 1998.
+
+Erich Klein, Revisor
+
+[1] S.C. 1988, c. 55, section 185.
+
+[2] See Exhibit A-1.
+
+[3] See the analysis by Wendy Templeton, "Anti-Avoidance and the Capital Gains Exemption: Part II" (1986) 34 Can. Tax J. p. 446, at pages 448 and 449.
+
+[4] See in this regard the analysis by Wendy Templeton, op cit., note 3 supra, at page 448.
+

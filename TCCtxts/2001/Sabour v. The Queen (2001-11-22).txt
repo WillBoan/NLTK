@@ -1,0 +1,236 @@
+Date: 20011122
+
+Docket: 2000-5195-IT-I
+
+BETWEEN:
+
+MOHAMMAD SABOUR,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowie J.
+
+[1] This appeal concerns the Appellant's claim that, in computing his income for the 1998 taxation year, he is entitled to deduct the amount of $8,129 paid by him to his lawyer for services in connection with the negotiation and execution of a separation agreement between him and his former spouse. The appeal was heard under the Court's informal procedure.
+
+[2] The facts are not in dispute. The parties entered into an Agreed Statement of Facts, which I reproduce here in its entirety:
+
+1. The Appellant and his former spouse, Nahid Azad (the "Former Spouse") married on April 25, 1974 and separated in June, 1993.
+
+2. The Appellant and Former Spouse have three children, Azadeh, born on December 7, 1974, Arash, born on August 7, 1977 and Camron, born on January 6, 1989.
+
+3. During the 1998 taxation year, the Appellant paid legal expenses in the amount of $8,129.
+
+4. The Appellant and the Former Spouse entered into a separation agreement dated June 7, 1999 (the "Agreement").
+
+5. By judgment issued July 28, 1999, the Ontario Superior Court of Justice pronounced the divorce of the Appellant and the Former Spouse.
+
+6. Under the terms of the Agreement referred to in paragraph 4 above, the Former Spouse was required to transfer $50,000 invested in a Registered Retirement Savings plan to the Appellant.
+
+7. The Former Spouse transferred $50,000 invested in a Registered Retirement Savings plan to the Appellant on June 12, 1999, pursuant to the Agreement referred to in paragraph 4 above.
+
+Paragraphs 6 and 7 are perhaps not entirely clear. The $50,000 amount (the amount) was transferred from a Registered Retirement Savings Plan (RRSP) owned by the former spouse into one owned by the Appellant. The effect of subsection 146(16) of the Income Tax Act (the Act) is that the former spouse is not subject to tax in respect of the amount on account of the transfer. However, the Appellant will be subject to tax on it, either upon its withdrawal in a lump sum, when he receives it in the form of annuity payments, or upon his death.[1]
+
+[3] The Appellant testified that his former spouse, a physician, earned about $250,000 per year, and that he earned about $85,000. He is now 65 years of age, and in poor health; his former spouse is some 17 years younger than he is. For all these reasons, his concern at the time of their separation was that she make a suitable contribution to his income after his retirement, which he considered to be imminent. He also testified that the $8,129 was the portion of his legal fees in connection with the separation which was attributable entirely to the negotiation of clause number 10 in the separation agreement, which deals with spousal support. The division of their marital property had been concluded in December 1994. None of this evidence was challenged by the Respondent.
+
+[4] The Appellant's position is that the amount was paid into his RRSP to provide for his support following his retirement, and that on the authority of Evans v. M.N.R.[2] and Sembinelli v. The Queen[3], the legal fees that he paid are deductible as an amount expended for the purpose of gaining or producing income from property. His right to maintenance, he says, is to be found in the Family Law Act[4] of Ontario and in the Divorce Act,[5]and it is "property" within the expanded definition of that word found in section 248 of the Act. As the legal fees were paid to enforce that right, they are deductible pursuant to paragraph 18(1)(a).
+
+[5] Counsel for the Respondent referred me to the judgment of Archambault J. in Bergeron v. The Queen,[6] wherein he suggests that legal fees incurred in connection with support payments between spouses, or former spouses, can never qualify for deduction under paragraph 18(1)(a) of the Act, because those support payments cannot properly be characterized as income from property. Counsel also argued that the legal fees would not be deductible in any event, as they were not paid to gain or produce income, because the $50,000 amount is capital, not income. Finally, counsel argued that if I found the amount to be income, then it could only be exempt income as defined in section 248 of the Act. The amount, she argued, is not included in computing the Appellant's income, because paragraph 146(16)(c) provides that upon a transfer of an amount from the RRSP of one person to that of another to implement a term in a separation agreement, "the amount shall not, solely because of the payment or transfer, be included in computing the income of the transferor or the transferor's spouse or former spouse". Nor can the amount meet the exception for a "support amount", because the definition of that term in subsection 56.1(4) requires that it be "... payable or receivable as an allowance on a periodic basis ...".
+
+[6] For convenience, I reproduce here the relevant sections of the Act:
+
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+
+(c) an outlay or expense to the extent that it may reasonably be regarded as having been made or incurred for the purpose of gaining or producing exempt income or in connection with property the income from which would be exempt;
+
+...
+
+56.1(4)"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+...
+
+146(16)Notwithstanding any other provision in this section, a registered retirement savings plan may at any time be revised or amended to provide for the payment or transfer before the maturity of the plan, on behalf of the annuitant under the plan (in this subsection referred to as the "transferor"), of any property thereunder by the issuer thereof
+
+...
+
+(b) to a registered retirement savings plan or registered retirement income fund under which the spouse or common-law partner or former spouse or common-law partner of the transferor is the annuitant, where the transferor and the transferor's spouse or common-law partner or former spouse or common-law partner are living separate and apart and the payment or transfer is made under a decree, order or judgment of a competent tribunal, or under a written separation agreement, relating to a division of property between the transferor and the transferor's spouse or common-law partner or former spouse or common-law partner in settlement of rights arising out of, or on the breakdown of, their marriage or common-law partnership,
+
+and, where there has been such a payment or transfer of such property on behalf of the transferor before the maturity of the plan,
+
+(c) the amount of the payment or transfer shall not, solely because of the payment or transfer, be included in computing the income of the transferor or the transferor's spouse or common-law partner or former spouse or common-law partner,
+
+...
+
+248(1) In this Act,
+
+...
+
+"exempt income" means property received or acquired by a person in such circumstances that it is, because of any provision of Part I, not included in computing the person's income, but does not include a dividend on a share or a support amount (as defined in subsection 56.1(4));
+
+[7] With the greatest of respect to my colleague Judge Archambault, I am of the opinion that it is much too late for this Court to conclude that support payments cannot qualify as income from property for the purpose of permitting a deduction under paragraph 18(1)(a). Forty years ago the Tax Appeal Board, apparently with the concurrence of counsel for the Minister, allowed the deduction of legal fees incurred by the Appellant in pursuit of a support order.[7] Some twenty years later, in The Queen v. Burgess,[8] Cattanach J. reaffirmed the general proposition that where a right to spousal maintenance exists, it is a property right, and the legal fees expended to enforce it are deductible under paragraph 18(1)(a). The taxpayer was unsuccessful, but only because Cattanach J. was of the view that an order for maintenance made within a judgment granting a divorce created a new right, rather than enforcing an existing one, and so the deduction was barred by paragraph 18(1)(b). I note parenthetically my agreement with Judge Bowman's comments as to that distinction which he expressed at paragraph 32 of his Reasons for Judgment in Nissim v. The Queen.[9]
+
+[8] Since Burgess, there have been decisions of this Court too numerous to catalogue applying the principle. Among those cited to me by the Appellant are Sol v. The Queen,[10] where Sarchuk J., following a decision of O'Connor J.,[11] permitted the deduction of legal fees expended to obtain a variation upward of the amount of child support previously awarded to the Appellant, and Gallien v. The Queen,[12] where Lamarre Proulx J. reached a conclusion contrary to that of Cattanach J. in Burgess,[13] and allowed the deduction under paragraph 18(1)(a) of that portion of the legal fees in the Appellant's divorce proceeding which were attributable to obtaining support payments by way of corollary relief. In arriving at this decision Judge Lamarre Proulx relied on the earlier decisions of this Court in Nissim[14] and Donald.[15] Counsel for the Appellant also referred me to the decision of Lamarre Proulx J. in Sembinelli,[16] where the Appellant succeeded in her claim to deduct under paragraph 18(1)(a) the legal expenses she had incurred to resist her former husband's motion to rescind an Order requiring him to make support payments to her. This decision was affirmed by the Federal Court of Appeal upon an application for judicial review.[17] The very brief reasons of the Court were given by Hugessen J.A., who endorsed the reasoning of Lamarre Proulx J., and added:
+
+... the claim in regard to which the expenses were incurred was a claim to income to which the Respondent was entitled, and [the legal] expenses were properly incurred in order to obtain payment of that income ...
+
+[9] I note also that in McColl v. The Queen,[18] Hamlyn J., considering a claim to deduct the legal fees incurred in obtaining an Order for child support, considered Bergeron[19] and decided not to apply it, preferring to treat the right to child support as a pre-existing right under the Family Law Act of Ontario, and the legal fees as an amount spent to enforce that right. In my view he was correct to do so.
+
+[10] As Archambault J. has said, the line of reasoning that he developed in Bergeron was not specifically considered in any of the decided cases. Nevertheless, I believe that such a long line of authority in this Court, endorsed as it has been by the Federal Court of Appeal, should be followed until it has been overruled by a higher Court, or the Act has been amended by Parliament. It is not totally irrelevant to this conclusion that the position of the Minister, as expressed in Interpretation Bulletin IT-99R5, paragraphs 17 to 20, is that legal fees spent to obtain support amounts from a spouse or a former spouse are deductible, so long as the amounts are not capital amounts, on the authority of Burgess.[20]
+
+[11] In considering whether the amount in question here is in the nature of income or capital, I start with this statement of Fauteux J. in M.N.R. v. Algoma Central Railway:[21]
+
+Parliament did not define the expressions "outlay ... of capital" or "payment on account of capital". There being no statutory criterion, the application or non-application of these expressions to any particular expenditures must depend upon the facts of the particular case. We do not think that any single test applies in making that determination and agree with the view expressed, in a recent decision of the Privy Council, B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia [[1966] A.C. 224, [1965] 3 All E.R. 209.], by Lord Pearce. In referring to the matter of determining whether an expenditure was of a capital or an income nature, he said, at p. 264:
+
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a commonsense appreciation of all the guiding features which must provide the ultimate answer.
+
+In R. v. McKimmon,[22] the Federal Court of Appeal enumerated some of the factors to be taken into account in determining this question in the context of an amount paid as maintenance. It is not necessary to reiterate those here, as it is beyond question that the payment in this case would, if it had not been paid into an RRSP in the name of the Appellant, be considered the payment of a capital amount. What, then, is the effect of the fact that the payment was made from the RRSP of the former spouse to the RRSP of the Appellant?
+
+[12] The amount has not been subject to tax as income in the hands of the former spouse. Nor was it subject to tax upon the transfer. There is no doubt that the intention of the Appellant was that the amount would accumulate, free of tax, to provide him with an annuity on his retirement at some unspecified time in the future. That annuity, and any lump sum that the Appellant might choose to withdraw from the RRSP in the meantime, will be subject to tax in his hands under paragraph 56(1)(h), and subsection 146(8) of the Act. Nevertheless, a capital amount which carries with it a liability to future taxation is still a capital amount. If the Appellant were to withdraw the amount from his RRSP, paying the resulting income tax, as is open to him, the remainder would clearly be a capital amount in his hands, and its character cannot be changed by his expression of intention to do otherwise. The Appellant's argument, in effect, is that because the amount will be taxed at some time in the future it must be income. The potential for the amount to be taxed in the future was no doubt a factor in the negotiation of the quantum, but it cannot change the character of the amount from capital to income. The present case is the converse of Evans,[23] where the majority held that legal fees spent to enforce the right to an income under an estate were deductible, because what the taxpayer there secured for herself was only the income for her lifetime from a share of the estate; the capital from which it flowed remained in the hands of the trustees to be distributed to another upon her death. Here the capital, carrying with it the nascent liability to taxation, has passed to the taxpayer, and it is open to him to deal with it as chooses.
+
+[13] Counsel for the Appellant argued that the amount in question here should be considered income for the purposes of paragraph 18(1)(a), because Dr. Sabour will at some future time be required to pay tax on the income that he derives from it. He cited no authority that supports that proposition, nor have I been able to find any, although it might be said to find some support, at least by analogy, in the Supreme Court's recent judgment in Ludco v. Canada.[24] Even if the Appellant were able to surmount this hurdle, however, he could not, in my view, succeed, because the amount would then fall within the definition of "exempt income" in section 248. Paragraph 18(1)(c) would therefore apply to prohibit deduction of the legal fees. For convenience, I repeat here the definition of "exempt income".
+
+"exempt income" means property received or acquired by a person in such circumstances that it is, because of any provision of Part I, not included in computing the person's income, but does not include a dividend on a share or a support amount (as defined in subsection 56.1(4));
+
+" revenu exonéré "* Les biens reçus ou acquis par une personne dans des circonstances faisant qu'ils ne sont pas inclus, par l'effet d'une disposition de la partie I, dans le calcul de son revenu. Ne sont pas un revenu exonéré le dividende sur une action et la pension alimentaire au sens du paragraphe 56.1(4).
+
+[14] It is clear from both the English and the French text of this definition that it applies to the transfer from the RRSP of the former spouse to that of the Appellant. That transfer is exempt from taxation by reason of paragraph 146(16)(c). While subsequent annuity payments, or withdrawals of lump sums, will be taxed in the Appellant's hands, those cannot be characterized as the amounts "... received or acquired ..." to which the definition applies. Any annuity payments that the Appellant might later derive from the amount transferred would be different amounts. It is the $50,000 amount transferred that is the amount "... received or acquired ..." for purposes of the definition. Counsel for the Appellant argued that the amount here in question is excluded from that which is, by definition, exempt income, because it is a support amount. However, the definition of "exempt income" very clearly excludes only a support amount that falls within the definition of that expression found in subsection 56.1(4). That definition begins with the words "'support amount' means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient ...". A lump sum payment therefore cannot be a "support amount", and so cannot be within that which is excluded from the definition of "exempt income" by its concluding words.
+
+[15] Whether the amount is considered to be capital or income, therefore, the legal fees expended by the Appellant in pursuit of it are not deductible by him in computing his income. The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 22nd day of November, 2001.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-5195(IT)I
+
+STYLE OF CAUSE: Mohammad Sabour and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATE OF HEARING: June 21, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: November 9, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Philip W. Augustine and Tony Chambers
+
+Counsel for the Respondent: Anne-Marie Lévesque and Patrick Folz
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Philip W. Augustine
+
+Firm: Augustine Bater Polowin LLP
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-5195(IT)I
+
+BETWEEN:
+
+MOHAMMAD SABOUR,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on June 21, 2001, at Ottawa, Ontario, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Counsel for the Appellant: Philip W. Augustine and Tony Chambers
+
+Counsel for the Respondent: Anne-Marie Lévesque and Patrick Folz
+
+JUDGMENT
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1998 taxation year is dismissed.
+
+Signed at Ottawa, Canada, this 22nd day of November, 2001.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] The Act, paragraph 56(1)(h) and section 146.
+
+[2] [1960] S.C.R. 391.
+
+[3] [1993] T.C.J. No. 236; aff'd 94 DTC 6636 (FCA).
+
+[4] R.S.O. 1990, Chap. F.3.
+
+[5] R.S.C. 1985, c.3 (2nd Supp.), c.4.
+
+[6] 99 DTC 1265.
+
+[7] Boos v. M.N.R., 61 DTC 520.
+
+[8] [1982] 1 F.C. 849 (F.C.T.D.)
+
+[9] [1998] 4 C.T.C. 2496; [1999] 1 C.T.C. 2119
+
+[10] [2001] 1 C.T.C. 2152
+
+[11] Wakeman v. The Queen [1996] 3 C.T.C. 2165.
+
+[12] 2000 DTC 2514.
+
+[13] supra.
+
+[14] supra.
+
+[15] [1999] 1 C.T.C. 2025.
+
+[16] supra.
+
+[17] 94 DTC 6636.
+
+[18] 2000 DTC 2148.
+
+[19] supra.
+
+[20] supra.
+
+[21] [1968] S.C.R. 447.
+
+[22] 90 DTC 6088 at 6090-1.
+
+[23] supra.
+
+[24] 2001 SCC 62 at paragraph 61.
+

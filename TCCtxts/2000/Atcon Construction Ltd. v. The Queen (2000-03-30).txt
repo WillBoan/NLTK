@@ -1,0 +1,206 @@
+Date: 20000330
+
+Docket: 98-687-IT-G
+
+BETWEEN:
+
+ATCON CONSTRUCTION LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+[1] This is an appeal with respect to the Appellant's 1991 taxation year.
+
+[2] The Appellant Atcon Construction Ltd. ("Atcon") operates a quarry at Belldune, New Brunswick. At the quarry, Atcon processes the quarry rock into products that it sells to its customers. The quarry operation is a 24-hour, 5 day a week continuous operation that involves, depending on the particular product specification; drilling, blasting, sorting, crushing, screening, and if required additional sorting, crushing and screening. The Atcon method of quarry operation is to employ a tight pattern of drilling and blasting so that after the blast some product is ready for sale whereas the balance of the rock is crushed and screened until the ultimate desired size is achieved. The products range from large size, Armour Stone, Rip Rap and Shot Rock through to smaller sized 0-3", 0-1 ¼" and 0- ¾" rock.[1] The products are continually tested to meet customers standards and requirements.
+
+THE REASSESSMENT
+
+[3] On February 3, 1994, the Minister of National Revenue (the "Minister") reassessed the Appellant for its 1991 taxation year. The Minister allowed $63,156 additional in capital cost allowance but reduced the investment tax credit carry-forward balance for purchases that were made in the 1989, 1990 and 1991 taxation years from $1,084,363 to $506,296. The Appellant objected to the reassessment by Notice of Objection dated May 4, 1994. Upon confirming the reassessment on December 8, 1997, the Minister revised the investment tax credit and allowed only $179,668.
+
+[4] Atcon asserts the quarry rock it produces is a manufacturing and processing operation that is one continuous process resulting in a final product and does not involve the extraction of minerals from the rock. Atcon further asserts that the equipment used in the process should be classified as "certified property" as defined in subsection 127(9) of the Income Tax Act (the "Act") as opposed to "qualified property". By classifying the equipment as "qualified property", that meant that the investment tax credit rate was 15% instead of the 30% that would have been allowed had the Minister classified the equipment as "certified property". The Minister came to the "qualified property" conclusion based on the finding that the equipment was not part of a "facility" as defined in section 2 of the Regional Development Incentives Act (the "RDIA").
+
+THE LEGISLATIVE PURPOSE AND SCHEME
+
+[5] Subsection 127(5) of the Act reads as follows:
+
+Investment tax credit. - There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount not exceeding the least of
+
+(a) his annual investment tax credit limit for the year.
+
+[6] Subsection 127(9) of the Act defines "certified property", "investment tax credit", "qualified property" and "specified percentage" as follows:
+
+"certified property" of a taxpayer means any property (other than an approved project property) described in paragraph (a) or (b) of the definition "qualified property"
+
+(a) that was acquired by the taxpayer
+
+(i) after October 28, 1980 and
+
+(A) before 1987, or
+
+(B) before 1988 where the property is
+
+(I) a building under construction before
+
+1987,
+
+(II) machinery and equipment ordered in
+
+writing by the taxpayer before 1987,
+
+(ii) after 1986 and before 1989, other than a property
+
+included in subparagraph (i), or (iii) after 1988,
+
+and that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by him, and
+
+(b) that is part of a facility as defined for the purposes of the Regional Development Incentives Act and was acquired primarily for use by the taxpayer in a prescribed area.
+
+[emphasis added]
+
+...
+
+"investment tax credit"...means the amount, if any, by which the aggregate of
+
+(a) the aggregate of all amounts each of which is the specified percentage of
+
+(i) the capital cost to him of a qualified property...or certified property acquired by him in the year;
+
+...
+
+"qualified property" of a taxpayer means...that is
+
+...
+
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+
+that has not been used,...before it was acquired by the taxpayer and that is
+
+(c) to be used by him in Canada primarily for the purpose of
+
+(i) manufacturing or processing goods for sale or lease,
+
+...
+
+"specified percentage" means
+
+(a) in respect of a qualified property
+
+...
+
+(iii) acquired primarily for use in the Province of Newfoundland, Prince Edward Island, Nova Scotia or New Brunswick or the Gaspé Peninsula,
+
+...
+
+(B) after 1988, 15%,
+
+(d) in respect of certified property
+
+...
+
+(iii) in any other case, 30%.
+
+[7] The purpose of the RDIA is to promote economic growth. The RDIA provides for development incentives for businesses in the manufacturing sector but does not provide the same for businesses in the resource sector.
+
+[8] The preamble of the RDIA reads as follows:
+
+An Act to provide incentives for the development of productive employment opportunities in regions of Canada determined to require special measures to facilitate economic expansion and social adjustment.
+
+[9] Section 2 of the RDIA defines "facility" as such:
+
+"facility" means the structures, machinery and equipment that constitute the necessary components of a manufacturing or processing operation, other than an initial processing operation in a resource-based industry.
+
+[emphasis added]
+
+[10] Section 15 of the RDIA says:
+
+The Governor in Council may make regulations
+
+(a) defining for the purposes of this Act the expressions "manufacturing or processing operation", "initial processing operation", "resource-based industry" and "commercial operation".
+
+[11] Subsection 2(2) of the Regulations Respecting Regional Development Incentives defines "initial processing operation" and "manufacturing or processing operation" as follows:
+
+"initial processing operation" means an operation the product of which is a fuel or a material mainly used for further processing or manufacturing,
+
+...
+
+"manufacturing or processing operation" means an operation whereby any goods, products, commodities or wares are created, fabricated, refined or made more marketable, but does not include
+
+...
+
+(c) the extracting of minerals by any method.
+
+[emphasis added]
+
+ANALYSIS
+
+[12] The process in the making of the Appellant's drilled, blasted, crushed and screened saleable rock products is an operation whereby the commodities produced are made through the process more valuable and marketable. The equipment[2] used from drilling through to completed product are all components in the production scheme. The production method adopted by the Appellant including the patterned drilling and blasting the quarry rock through to final screening of the rock product, I conclude, is integrated continuous manufacturing or processing operation. The product in the process is complete and not subject to further manufacturing or processing. Therefore, the limitation of "initial processing operation" is not applicable to the Appellant's production method.
+
+[13] I must now determine if this manufacturing and processing operation falls within the exclusion (i.e.) is "extracting of minerals by any method"?
+
+[14] The expert evidence, was as expected, conflicting. The Appellant's expert, Mr. F. Dwight Ball, a private sector consulting geologist, concluded, "Minerals are not being concentrated nor extracted, rock is simply being quarried and turned directly into a suite of products". The Respondent's expert, Dr. Donald A. Cranstone, a geologist, employed in the public sector as a mineral economist, concluded that "Atcon Construction Ltd. was engaged in "extracting minerals" from its basalt-rock quarry near Belledune, New Brunswick". Dr. Cranstone also, by way of rebuttal, reviewed Mr. Ball's report and found in its conclusion that "Atcon ... was not engaged in extracting minerals from its Belledune quarry is insupportable".[3]
+
+[15] He also states within a broad definition of mineral that basalt rock is a mineral. He also concludes the basalt rock at the Acton quarry is made up of many minerals including plagioclase, pyroxene, quartz and opaque oxide.[4]
+
+[16] The Respondent cited Judge Bowman in Coastal Construction & Excavating Ltd. v. R., [1996] 3 C.T.C. 2845 where the taxpayer claimed that a centrifuge and two excavators purchased by it for use in the reclamation of coal waste at an abandoned mine site were "certified property" under subsection 127(9) of the Act at paragraph 22 the judge states:
+
+I can think of no words that more aptly describe what the appellant was doing than "the extracting of minerals". The initial extraction took place when the ore and waste were removed from the underground and separated, but no principle of statutory construction and no application of the plain meaning of the word "extracting" would justify my restricting the meaning to the initial operation. The waste, when removed and deposited on the ground, formed part of the terrain where it stayed for years until the appellant embarked on the secondary operation of extracting from the waste the coal that was not extracted in the initial operation.
+
+[emphasis added]
+
+[17] Judge Bowman concluded the equipment was "qualified property" because the taxpayer was clearly involved in the extraction of minerals in both the primary and secondary operations when the ore and waste were removed from the underground and separated.
+
+[18] In the instant case, the basalt rock was in fact removed from the quarry face, however, the composite minerals of basalt rock were not being extracted or separated in any sense.
+
+[19] In Nova Scotia Sand and Gravel Limited v. The Queen, 80 DTC 6298 (F.C.A.), the Court interpreted the definition "producing industrial minerals" as found in paragraph 125.1 (3)(b) of the Act. The Court stated at page 6301:
+
+... it was not intended by the use of the expression "producing industrial minerals" to include the processing of industrial minerals to produce specialized industrial mineral products of the kind produced by the appellant's processing operations.
+
+[20] The Court also stated at page 6300:
+
+... it is noticeable that what is excluded by items (i) farming and fishing, (ii) logging, (iv) operating an oil or gas well and (v) extracting minerals from a mineral resource, if they are to be considered as manufacturing or processing operations at all, are at any rate essentially operations for the production of raw or resource material.
+
+[21] The Court therefore concluded the sand and gravel operation was a manufacturing or processing operation and the exclusion of "producing industrial minerals" was not meant to include the processing of industrial minerals to produce the sand and gravel products of Nova Scotia Sand and Gravel Limited. It is also clear from the decision that a distinction was made between the production of raw or resource material as being excluded and the processing of industrial minerals to produce mineral products which the Court found was not excluded, that is, not extracting minerals from a mineral resource.
+
+[22] The Federal Court (Trial Division) has considered the question in another context. In Double N Earth Movers Ltd. v. Canada, [1998] F.C.J. No. 1033 (Q.L.), Justice Campbell stated:
+
+[para13] By definition, "mining" in s. 69(1) concerns activity respecting "a mineral resource". In the decision under appeal, however, even though gravel is a non-mineral resource, the Minister found that the restoration of land strip-mined for gravel is considered "mining" for the purposes of the fuel tax rebate. For this finding to be lawful, the Minister must be taken to concede that, in the definition of "mining" in s. 69(1), the phrase "the restoration of strip-mined land to a usable condition" is to be read exclusive of the other provisions of the definition.
+
+[23] What the Appellant does with the quarry rock is to process the rock with its minerals intact as it is originally found on the quarry rock face to saleable products. I conclude that quarry rock is composed of minerals but that minerals are not extracted in any sense from the rock and that rock product is simply sized.
+
+[24] The operation is a manufacturing or processing operation whereby quarry rock is processed through a continuous production method from drilling to final screening. This process is not the process of extracting minerals by any method, it is the processing of rock by sizing to produce a useable final saleable product of crushed rock.
+
+[25] Thus the Appellant in the manufacturing or processing operation does not extract minerals by any method.
+
+CONCLUSION
+
+[26] The Appellant's operation involves property that is part of a facility therefore it is "certified property".
+
+DECISION
+
+[27] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's list of equipment as found in Exhibit R-2 is "certified property" within the meaning of subsection 127(9) of the Income Tax Act.
+
+[28] Costs to the Appellant.
+
+Signed at Ottawa, Canada, this 30th day of March 2000.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+[1] The products and prices were set out in Exhibit R-1, Tab 24.
+
+[2] Exhibit R-2.
+
+[3] Exhibit R-3.
+
+[4] Exhibit R-4, Table 1.
+

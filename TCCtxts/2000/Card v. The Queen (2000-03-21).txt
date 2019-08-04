@@ -1,0 +1,328 @@
+Date: 20000321
+
+Docket: 98-1642-IT-G
+
+BETWEEN:
+
+BARRY R. CARD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Beaubier, J.T.C.C.
+
+[1] This appeal pursuant to the General Procedure was heard at London, Ontario on March 14, 2000. The Appellant called John VanderHoeven, C.A.; Paul Knill, a lawyer; Fausto Boniferro, a lawyer; and the Appellant also testified. Paragraphs 12 to 15 of the Reply read:
+
+12. The Minister of National Revenue (the "Minister") assessed the Appellant for the 1995 year by Notice of Assessment dated July 3, 1997 to increase the Appellant's reported Net Professional Income by $197,576.00 and to increase the Appellant's reported Interest Income by $9,054.
+
+13. In so Assessing the Appellant, the Minister relied on, inter alia, the following assumptions:
+
+a) The Appellant reported Net Professional Income for the 1995 taxation year in the amount of $88,217.23 and Interest Income in the amount of $20.00;
+
+b) the Appellant's Net Professional Income for the 1995 taxation year is in the amount of $285,792.98 and his Interest Income is in the amount of $9,074, as per the calculations in schedule A;
+
+c) the Appellant is a lawyer who was a partner with the law firm Siskind, Cromarty, Ivey & Dowler (hereinafter the "Partnership");
+
+d) The relations between the Appellant and other law firm partners were governed by a Partnership Agreement dated February 1, 1994 (hereinafter the "Partnership Agreement");
+
+e) The fiscal period of the Partnership ended January 31, 1995;
+
+f) The Appellant withdrew from the Partnership effective January 31, 1995;
+
+g) At all relevant times, the partnership had elected not to include in income work in progress pursuant to sections 34 and 96 of the Act;
+
+h) For the fiscal period ending on January 31, 1995, the Partnership allocated the net earnings according to the Partnership Agreement;
+
+i) In computing the net earnings for each partner, the Partnership allocated to the Appellant an amount of $273,296.00 for the fiscal period ending January 31, 1995;
+
+j) The Appellant had no rights with respect to the income to be produced by the work in progress in subsequent fiscal periods; and
+
+k) The Minister properly calculated the interest.
+
+B. ISSUES TO BE DECIDED
+
+14. The issue is whether the Minister properly assessed the Appellant by increasing the reported Net Professional Income by $197,576.00 and by increasing the reported Interest Income by $9,054.
+
+C. STATUTORY PROVISIONS RELIED ON
+
+15. He relies on sections 3, 9, 34, 34.2, 96 and 249.1 on subsections 12(1) and 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Suppl), as amended (the "Act") and section 229 of the Income Tax Regulations, Consolidated Regulations of Canada, c. 945, as amended.
+
+[2] All assumptions except 13(b) and (i) are correct. (b) is in dispute. Instead of "net earnings", (i) should read "income for tax purposes" whereupon it would be correct.
+
+[3] The following paragraphs of the Partnership Agreement titled "with effect from February 1, 1994", (Exhibit R-1, Tab 6), are important:
+
+1.03 DETERMINATION OF OWNERSHIP INTERESTS
+
+The assets (other than real estate) of the firm shall be owned and the liabilities of the firm shall be shared by the partners from time to time in accordance with their respective capital accounts. Each partner shall maintain a capital account in the firm in accordance with the provisions of section 2.06. For the purposes of this agreement, the term "capital account percentage" shall mean with respect to each partner the percentage which such partner's capital account is to the total of capital accounts of all partners in the firm.
+
+Ownership interest in the firm's real estate and other terms of the partners agreement governing real estate owned by the firm are set out in Schedule A.
+
+...
+
+2.04 ACCRUAL ACCOUNTING SYSTEM AND WIP
+
+The accounts of the firm shall be maintained on a full accrual system according to generally accepted account principles. All lawyers and those employees who are designated by the Managing Partner must docket their time to the client files on which they work. The firm shall maintain records of the time dockets and the value of time based upon billing rates assigned by the Managing Partner. Docketed time which has not been billed or written off is referred to as "Work in Progress" ("WIP").
+
+2.05 NET LOSS
+
+If expenses exceed the revenues of the firm, then resulting in a net loss, such net loss shall be borne by the partners in accordance with their capital account percentages and such net loss will be charged against each partner's capital account.
+
+2.06 CAPITAL ACCOUNTS
+
+Each partner shall maintain a capital account in the firm at a monetary level to be determined by the Compensation Committee, with reference to the permanent capital needs of the firm established from time to time of the partnership, in accordance with the following guidelines:
+
+(i) levels of capital shall be equated to percentages of net income;
+
+(ii) a minimum capital account of $75,000 and a maximum capital account of $200,000 is established;
+
+(iii) a capital account must be created in the amount of $25,000 by each partner on his/her admission to the partnership with a further sum of $25,000 being contributed at the end of the second year following admission to the partnership and as to the remaining $25,000 at the end of the third year following admission to the partnership and thereafter shall be maintained in accordance with this section 2.06;
+
+(iv) partners whose capital account is required by the Compensation Committee because of the application of subsection (i) hereof to be increased shall be allowed a minimum of three and maximum of five years to increase such capital account;
+
+(v) partners whose capital accounts are being reduced because of the application of subsection (i) hereof will receive a return of capital over a three to five year period;
+
+(vi) with the exception of the initial capital payment of new partners, partners may increase capital accounts either by way of cash infusion or by way of drawing less from the firm than their percentage of net income. In the case of partners who borrow funds from the bankers to create or increase their capital account, the firm will provide to the banker of letter of comfort (but not a guarantee), with respect to each such partner;
+
+(vii) interest shall be paid on partners' capital accounts at the same rate at which the firm pays interest to its banker. Interest shall be calculated on the amount of the capital accounts determined at the commencement of each fiscal year and shall be payable quarter-yearly in arrears. In addition, monthly statements reflecting billings, cash collected and time docketed will be prepared,
+
+...
+
+2.09 NON-CASH ASSETS
+
+Any introduction or withdrawal of any assets, other than cash, by a partner will be on terms and conditions determined by the partners in the firm, having full regard to the income tax implications of such transactions.
+
+...
+
+5.02 RETIREMENT, DEATH, PERMANENT DISABILITY AND REMOVAL OF PARTNERS
+
+A partner shall cease to be a partner of the firm:
+
+(i) on the date of the death of such partner;
+
+(ii) on the date when the firm determines that such partner is unable to perform his or her duties as partner because of his or her long term disability, as defined in the policy of insurance insuring the majority of partners of the firm; or
+
+(iii) on the expiry of the period specified in a written notice of termination given to the firm by a partner provided such notice specified a date not less than three months following the date on which it is given and provided such notice is effective on the expiry of fiscal quarter-year; or
+
+(iv) upon the date a partner is deemed to retire pursuant to Section 5.06 or the date such partner is removed from the partnership pursuant to section 5.07;
+
+(each of the foregoing dates being referred to as "termination date")
+
+5.03 PAYMENTS TO DEPARTING PARTNERS
+
+...
+
+(b) WITHDRAWAL
+
+Where a partner ceases to be a partner pursuant to subsections (iii) and (iv) of Section 5.02, he/she shall be paid by the partnership the amount of his/her capital account determined, in each case on the termination date, in three equal instalments, the first f such instalments to be made on the first anniversary date of the termination date and the second and third instalments to be made on the second and third anniversary dates of the termination date respectively.
+
+In the case of payments made pursuant to 5.03(a) and (b), interest at the rate paid by the firm to its bankers calculated from the termination date shall be paid on the unpaid balance of such partner's capital account quarter-yearly on each fiscal quarter year of the firm until the capital account is paid in full.
+
+The amount of the capital account of such departing partner shall, irrespective of the date on which such termination takes place, be determined with reference to the capital account of such partner at the commencement of the fiscal year in which he/she leaves the firm adjusted as follows:
+
+(i) by increasing the capital account by the amount of net income allocated to such departing partner by the Compensation Committee for the period ending on the termination date in question, which allocation the Compensation Committee shall determine in its discretion, acting reasonably, having regard to the principles established pursuant to Section 2.02 as applied to the net income of the firm earned to the termination date. Notwithstanding the foregoing the Compensation Committee shall, if the determination date is other than a fiscal year end, be entitled to make such estimates as it shall deem appropriate in arriving at the allocation of net income. In the event that the departing partner shall disagree with the amount of net income allocated to him or her by the Compensation Committee, the allocation so made shall, at the request of the departing partner, be reviewed by the firm's accountants who shall for such purpose act as experts and whose review and determination of income of the departing partners shall be final and binding upon the firm and the departing partner. The costs of such review shall be borne by the firm and the departing partner equally.
+
+(ii) by reducing the capital account by all drawings made to such partner up to and including the termination date.
+
+...
+
+5.05 LIMITATION ON PAYMENTS
+
+In any fiscal year, the firm shall not make payments of capital exceeding 4.5% of the net income of the firm for the preceding fiscal year (the "payment limit"), to partners who have ceased to be partners pursuant to section 5.02, to partners who have elected under section 5.04 and to partners who are on medical leave or disability pursuant to section 5.01. Should payments to such persons exceed the payment limit, payments to all such persons shall abate proportionally so that the total amount paid in the fiscal year is limited to the payment limit. The years over which such payments are to be made shall be extended accordingly until the amount payable under this agreement is paid in full.
+
+...
+
+5.08 REMOVAL OF MATERIAL
+
+A retiring partner who remains in practice in the Province of Ontario is entitled to receive from the firm any files, wills, documents, minute books, seals or other material to which a client is entitled, upon delivering to the firm a signed direction by the client so entitled, and upon payment to the firm of any outstanding accounts for fees or disbursements rendered to such client.
+
+Except with respect to "fee on completion files", as established by written retainer, at the time that any uncompleted file is delivered from the firm to a retiring partner, the firm shall require that it be interim billed and paid. With respect to "fee on completion files", the retiring partner and the Managing Partner or his or her designate shall agree upon the value in dollars of the work in progress for that file and disbursements which are due to the firm. The retiring partner agrees that upon completing the said file, he or she will deliver to the firm the agreed upon amount for the work, and disbursements that has been done or incurred on the file by the firm prior to its delivery to the retiring partner.
+
+...
+
+[4] The major issue in this appeal is work in progress ("WIP") which is defined in paragraph 2.04 as "Docketed time which has not been billed or written off". It is also referred to in paragraph 5.08, the value in dollars of which is agreed to be "due to the firm".
+
+[5] The Appellant retired from the law firm (to join another law firm in London) at the expiry of its fiscal year, January 31, 1995. In about May a partners' meeting reviewed alternative schedules submitted by their accountants, KPMG (Mr. VanderHoeven). They then voted that the Appellant would not be allocated any work in progress for that year end, but at the same time allocated $357,750 of work in progress to one partner who never docketed time. The allocations were done based on partnership points and on the basis that, in essence, the Appellant was no longer a partner and had no points.
+
+[6] In particular, Mr. Boniferro pointed out that the allocation did not affect the Appellant's capital account or his net earnings allocation as determined by the Compensation Committee under Article II of the Partnership Agreement. It did affect his income (loss) for tax purposes as set out in Exhibit R-1, Tab 8. Once a partner withdrew, his existing work in progress was crystallized, whereas the continuing partners had the following risks:
+
+(1) That the firm would have to pay out the withdrawing partner, based on his fixed WIP.
+
+(2) That existing work in progress might never be paid.
+
+(3) That there would be a cost to collect existing work in progress.
+
+By contrast the withdrawing Appellant remained liable for guarantees of the firm debts from which he had not been released. At the conclusion of Mr. Boniferro's testimony, the following exchange occurred:
+
+Q. As far as Exhibit A-2 – and this is my last question – would you agree that if the partnership had considered it fair to adjust the incomes of all partners on the basis of the WIP being shared in accordance with the partnership, that the resulting schedule would be the one that appears as alternative A?
+
+A. Yes, that's my understanding.
+
+[7] The alternatives respecting Mr. Card as entered in evidence are as follows:
+
+Allocated by the Partnership
+
+Adopted by Mr. Card
+
+KPMG's Schedule A
+
+Net earnings allocated
+
+$137,920
+
+$137,920
+
+$137,920
+
+Building depreciation adjustment
+
+(16,720)
+
+(16,702)
+
+(16,720)
+
+Net earnings per financial statements
+
+121,218
+
+121,218
+
+121,218
+
+Add 1994 work in progress
+
+125,351
+
+125,331
+
+125,351
+
+Deduct 1995 work in progress
+
+0
+
+172,629
+
+172,356
+
+Add 1994 unbilled disbursements
+
+19,411
+
+19,411
+
+19,411
+
+Deduct 1995 unbilled disbursements
+
+0
+
+35,822
+
+35,765
+
+Add non-deductible meals and entertainment
+
+1,349
+
+1,349
+
+1,349
+
+Add depreciation
+
+9,631
+
+9,631
+
+9,631
+
+Deduct CCA
+
+3,664
+
+3,664
+
+3,664
+
+Income (loss) for tax purposes
+
+273,296
+
+64,845
+
+65,175
+
+As can be seen, the differences are in the portions underlined. All relate to the 1995 WIP. The remarkable thing is that Mr. Card did not have access to KPMG's figures until this hearing.
+
+[8] Subsection 96(1) of the Income Tax Act describes a partner's income from a partnership as, in essence, the partner's share thereof. It reads, in part:
+
+96.(1) Where a taxpayer is a member of a partnership, the taxpayer's income, non-capital loss, net capital loss, restricted farm loss and farm loss, if any, for a taxation year, or the taxpayer's taxable income earned in Canada for a taxation year, as the case may be, shall be computed as if
+
+(a) the partnership were a separate person resident in Canada;
+
+(b) the taxation year of the partnership were its fiscal period;
+
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person, and a computation were made of the amount of
+
+(i) each taxable capital gain and allowable capital loss of the partnership from the disposition of property, and
+
+(ii) each income and loss of the partnership from each other source or from sources in a particular place,
+
+for each taxation year of the partnership;
+
+(d) each income or loss of the partnership for a taxation year were computed as if this Act were read without reference to paragraphs 12(1)(z.5) and 20(1)(v.1), section 34.1 and subsections 66.1(1), 66.2(1) and 66.4(1) and as if no deduction were permitted under any of section 29 of the Income Tax Application Rules, subsections 34.2(4) and 65(1) and sections 66, 66.1, 66.2 and 66.4;
+
+...
+
+Thereupon subsection 96(1.1) reads:
+
+96(1.1) For the purposes of subsection (1) and sections 34.1, 34.2, 101, 103 and 249.1,
+
+(a) where the principal activity of a partnership is carrying on a business in Canada and its members have entered into an agreement to allocate a share of the income or loss of the partnership from any source or from sources in a particular place, as the case may be, to any taxpayer who at any time ceased to be a member of
+
+(i) the partnership, or
+
+(ii) a partnership that at any time has ceased to exist or would, but for subsection 98(1), have ceased to exist, and either
+
+(A) the members of that partnership, or
+
+(B) the members of another partnership in which, immediately after that time, any of the members referred to in clause (A) became members
+
+have agreed to make such an allocation
+
+or to the taxpayer's spouse, estate or heirs or to any person referred to in subsection (1.3), the taxpayer, spouse, estate, heirs or person, as the case may be, shall be deemed to be a member of the partnership; and
+
+(b) all amounts each of which is an amount equal to the share of the income or loss referred to in this subsection allocated to a taxpayer from a partnership in respect of a particular fiscal period of the partnership shall, notwithstanding any other provision of this Act, be included in computing the taxpayer's income for the taxation year in which that fiscal period of the partnership ends.
+
+[9] In this case, the remaining partners themselves voted the WIP allocation of which the Appellant complains at the May 1995 meeting.
+
+[10] Section 34 of the Income Tax Act reads:
+
+34. In computing the income of a taxpayer for a taxation year from a business that is the professional practice of an accountant, dentist, lawyer, medical doctor, veterinarian or chiropractor, the following rules apply:
+
+(a) where the taxpayer so elects in the taxpayer's return of income under this Part for the year, there shall not be included any amount in respect of work in progress at the end of the year; and
+
+(b) where the taxpayer has made an election under this section, paragraph (a) shall apply in computing the taxpayer's income from the business for all subsequent taxation years unless the taxpayer, with the concurrence of the Minister and on such terms and conditions as are specified by the Minister, revokes the election to have that paragraph apply.
+
+[11] The law partnership performed the allocation in its discretion. There is no evidence that the allocation was fraudulent. At the conclusion of his testimony, Mr. Boniferro admitted that if the partners had allocated WIP according, in essence, to the partnership points it would have worked out, approximately, to what the Appellant proposes. In exact amount, it would be that described in Exhibit A-2, Schedule A. The fact that the partners did not do this may be a question for arbitration according to the Partnership Agreement or for another court. However, on the evidence, Sections 96 and 34 were complied with by the partnership and the allocation was made by the partnership as assessed. The remaining partners filed according to that allocation and the firm statement with that allocation was delivered to the Appellant who adopted and filed a different statement which did not accord with the partnership's allocation. The Income Tax Act requires that the partnership's allocation is the one which must be assessed upon. That was done. Therefore that assessment is confirmed.
+
+[12] There is no evidence that the interest amounts which the Appellant disputed were improperly assessed. Therefore that assessment is confirmed.
+
+[13] The appeal is dismissed.
+
+[14] The Respondent is awarded party and party costs.
+
+Signed at Ottawa, Canada this 21st day of March 2000.
+
+"D.W. Beaubier"
+
+J.T.C.C.
+

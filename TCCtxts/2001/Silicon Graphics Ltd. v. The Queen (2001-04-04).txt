@@ -1,0 +1,120 @@
+Date: 20010404
+
+Docket: 2000-1201-IT-G
+
+BETWEEN:
+
+SILICON GRAPHICS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Teskey, J.
+
+[1] The Appellant appeals from a determination of loss pursuant to the Income Tax Act (the "Act") for the taxation years ending January 31, 1992 and 1993.
+
+Issue
+
+[2] The issue between the parties is whether throughout the two taxation years ending January 31, 1992 and 1993, a predecessor corporation, Alias Research Inc. ("Alias") was a Canadian controlled private corporation ("CCPC") within the meaning of either subsections 125(7) or 256(5.1) of the Act, throughout those taxation years.
+
+The Act
+
+[3] A CCPC is defined at paragraph 125(7)(a) of the Act and reads:
+
+“Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation) or by any combination thereof;
+
+[4] There is no issue between the parties as to whether Alias was a private Canadian corporation. What is in issue is the meaning of the following words in the above definition, "controlled, directly or indirectly in any manner whatever, by one or more non-resident persons".
+
+[5] The phrase "controlled, directly or indirectly in any manner whatever" is defined in subsection 256(5.1) of the Act and is referred to as the de facto control test. It reads as follows:
+
+For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller”) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm's length and such influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of such agreement or arrangement.
+
+[6] Thus, what must be decided is control, either de jure control or de facto control.
+
+Facts re: De Jure Control
+
+[7] There is no dispute between the parties as to facts to make a determination under this heading. It is the interpretation of these subsections that is in issue in regards to control.
+
+[8] To determine this part, the relevant facts are:
+
+(a) From February 13, 1985 until July 17, 1990, Alias was not a public-traded corporation. The majority of outstanding shares of Alias during this time were held by Canadian residents;
+
+(b) On July 17, 1990, which was during Alias's 1991 taxation year, Alias made an initial public offering ("the IPO") of common shares through NASDAQ in the United States. The total number of issued and outstanding common shares following the public offering was 5,049,836. No shares other than common shares were outstanding after the IPO;
+
+(c) Alias subsequently issued common shares as a result of private placements, exercise of employee share options, consideration paid for corporate acquisitions and fees for services rendered by third parties, from November of 1990 through the end of Alias's 1993 taxation year. By January 31, 1993, there were approximately 8,187,241 issued and outstanding common shares of Alias;
+
+(d) Following the IPO and thereafter, including to the end of Alias's 1993 taxation year, more than 50% of the common shares were held by non-residents of Canada;
+
+(e) The majority of the Board of Directors and the entire management team were residents of Canada;
+
+(f) Alias's principal place of business was in Toronto, Ontario;
+
+(g) The Toronto management team annually prepared a slate of people to be elected to the Board of Directors, which slate was always accepted by the shareholders.
+
+[9] Although there were a great number of facts before the Court, including a Partial Statement of Agreed Facts, I believe the facts set forth in paragraph 8 above are all that is required to determine who had de jure control of Alias.
+
+De jureControl
+
+[10] Control, by itself, means de jure control.
+
+[11] Iacobucci J. of the Supreme Court of Canada, in Duha Printers (Western) Ltd. v.The Queen, 98 DTC 6334, said in paragraph 36:
+
+36. Thus, de jure control has emerged as the Canadian standard, with the test for such control generally accepted to be whether the controlling party enjoys, by virtue of its shareholdings, the ability to elect the majority of the board of directors. However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. That is, although the directors generally have, by operation of the corporate law statute governing the corporation, the formal right to direct the management of the corporation, the majority shareholder enjoys the indirect exercise of this control through his or her ability to elect the board of directors. Thus, it is in reality the majority shareholder, not the directors per se, who is in effective control of the corporation. This was expressly recognized by Jackett, P. when setting out the test in Buckerfield's. Indeed, the very authority cited for the test was the following dictum of Viscount Simon, L.C., in British American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13, at p. 15:
+
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes.
+
+[Emphasis added.]
+
+again at paragraph 50:
+
+... it is clear that the general test for de jure control remains majority voting control over the corporation, as manifested by the ability to elect the directors of the corporation. ...
+
+and again at paragraph 54:
+
+... the major concern of the de jure test is to ascertain which shareholder or shareholders have the voting power to elect a majority of the directors. The test neither requires nor permits an inquiry into whether a given director is the nominee of any shareholder, or any relationship or allegiance between the directors and the shareholders.
+
+[12] My colleague Lamarre J., in her reasons for judgement in Bilodeau v. Canada, [1999] T.C.J. No. 633 (Q.L.) said in paragraph 15 thereof:
+
+I do not agree with counsel for the appellant that de jure control in the case at bar requires alliances between the various shareholders. Counsel for the appellant is here confusing de facto control with effective control.
+
+and in paragraph 19:
+
+In the case at bar, it was therefore not necessary for the two public corporations (NBC and Perron) to join forces, act together or form an alliance to exercise de jure control. What matters is that, between the two of them, they owned a majority of Chambord's shares giving them the voting power to elect a majority of the directors.
+
+[13] The Appellant very ably puts forth the proposition that the case law and various Department of Finance Technical Notes that there must be "sufficient common connection to be in a position to exercise control."
+
+[14] I reject this position. Once the number of non-resident shareholders reaches 50 percent plus one, the control and right to elect the Board of Directors has passed to those non-resident shareholders and a common connection between those non-resident shareholders is not a requirement. Thus, a corporation which has more than 50 percent non-resident shareholders is no longer a Canadian controlled corporation. Effective control whether exercised or not is held by the non-resident shareholders.
+
+[15] The Appellant argues that I should look at the 1997 amendment of the Act to determine the proper interpretation of these provisions. I reject this position and concur with Associate Chief Judge Bowman of this Court, in Canadian Occidental U.S. Petroleum Corporation v. The Queen, [2001] T.C.J. No. 112 (Q.L.).
+
+[25] The short answer to the contention that I should look to subsequent legislation as an aid to interpreting prior legislation is that section 45 of the Interpretation Act prohibits just that. It reads:
+
+45(1) The repeal of an enactment in whole or in part shall not be deemed to be or to involve a declaration that the enactment was previously in force or was considered by Parliament or other body or person by whom the enactment was enacted to have been previously in force.
+
+(2) The amendment of an enactment shall not be deemed to be or to involve a declaration that the law under that enactment was or was considered by Parliament or other body or person by whom the enactment was enacted to have been different from the law as it is under the enactment as amended.
+
+(3) The repeal or amendment of an enactment in whole or in part shall not be deemed to be or to involve any declaration as to the previous state of the law.
+
+(4) A re-enactment, revision, consolidation or amendment of an enactment shall not be deemed to be or to involve an adoption of the construction that has by judicial decision or otherwise been placed on the language used in the enactment or on similar language.
+
+[26] The most extensive discussion of the rule is found in Mountain Park Coals Limited v. Minister of National Revenue, [1952] Ex.C.R. 560. The law is well settled on this point. Indeed Iacobucci J. in Ikea Ltd. v. Canada, [1998] 1 S.C.R. 196 at 208 treated it as self-evident that subsequent legislation could not have any bearing on the interpretation of a prior provision.
+
+[27] Quite apart from section 45 of the Interpretation Act and the jurisprudence on the point, there are cogent reasons for not looking to subsequent legislation as an aid to interpretation. Different people looking at the same subsequent amendment could come to precisely the opposite conclusion about its effect. One person might draw the inference that Parliament was merely making explicit what was always implicit. Another might conclude that Parliament was seeking to correct deficiencies in the prior legislation. Another might conclude that Parliament was intending to change the law. These uncertainties make subsequent legislation a wholly unreliable guide to interpretation.
+
+[16] It was common ground that upon a finding that de jure control was in the hands of the non-resident shareholders as a result of their numbers exceeding 50 percent, that I should not deal with de facto control.
+
+[17] The appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 4th day of April, 2001.
+
+"Gordon Teskey"
+
+J.T.C.C.
+

@@ -1,0 +1,322 @@
+Date: 20001214
+
+Docket: 97-2841-GST-G
+
+BETWEEN:
+
+ITA TRAVEL AGENCY LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment made by the Minister of National Revenue ("Minister") under Part IX of the Excise Tax Act ("Act") for the period from June 1, 1992 to March 31, 1996, whereby the appellant was assessed for an amount of $396,871 in respect of unremitted goods and services tax ("GST") (which amount resulted from increasing the GST payable by $280,175 and decreasing the input tax credit by $116,696).
+
+[2] The appellant is a company incorporated under the laws of Ontario whose principal place of business is in Ottawa. At all material times, the appellant carried on business as a licensed travel agency engaged in the sale of travel and related goods and services to the public. During the period from June 1, 1992 to March 31, 1996 (the period at issue), the appellant, as a travel agency, provided travel services to corporate and individual clients. These services included the making of travel reservations and bookings as well as the management of travel services for particular corporate customers. According to the appellant, it was compensated for these services on a commission or fee-for-service basis and had to charge GST on such commissions or fees.
+
+[3] In addition to the services described above -- and this is the issue in the present appeal -- the appellant claims that it engaged in the purchase and resale of discounted airline tickets. The resale of those discounted tickets applied primarily to travel outside Canada, which is a zero-rated supply for GST purposes. The appellant submits that unlike the commission arrangements which apply to travel services provided by travel agencies to airlines, in the case of discounted airline tickets it is the airlines that advertise and sell the tickets to resellers on a net-fare basis. According to the appellant, it received no commission from the airlines for selling those tickets and accordingly had no liability to charge and remit any GST with respect to those net-fare tickets.
+
+[4] The respondent on the other hand is of the view that with respect to those discounted airline tickets, the appellant was selling international transportation services (zero-rated supplies) to travellers on behalf of air carriers and that for providing those services the appellant received a commission from the air carriers upon which the appellant had to collect GST. In other words, the respondent takes the view that the appellant does not purchase the tickets for resale itself, but rather acts as agent for the air carriers in selling the discounted tickets to travellers. According to the respondent, the commission is the consideration received for that service provided by the appellant to the air carriers, which is a taxable supply.
+
+[5] The appellant's response is that the Minister erred in characterizing the discount on tickets sold to the appellant for resale as a commission, on which GST is payable.
+
+Issue
+
+[6] The problem in a nutshell is this: where a full-fare ticket is sold by the agent on behalf of the airline it receives a commission upon which GST is payable, at least during the period in question.
+
+[7] Where the agent sells a discounted (or "net-fare") ticket, it does not receive a commission in the sense in which that term is conventionally used as a percentage of the selling price. Rather the ticket can be sold by the agent at a significant discount to customers.
+
+[8] The airline treats the difference between the full fare and discounted price as a "commission". The term is not particularly meaningful in the context of this case except that commission generally connotes consideration for doing something.
+
+[9] Consideration, under subsection 123(1) of the Act:
+
+includes any amount that is payable for a supply by operation of law.
+
+Subsection 165(1) of the Act reads:
+
+Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+
+The real question is whether the difference between the full fare and the discounted price is "consideration".
+
+[10] The problem arose from the fact that the airlines appear to have treated the full amount of the discount as a "commission" and therefore "consideration" within the meaning of subsection 165(1). They calculated GST on that amount, paid the amount so calculated to the appellant in the expectation that the appellant would remit it to Her Majesty the Queen, which the appellant did not.
+
+[11] There are therefore two questions.
+
+(a) Is the amount of the discount "consideration" for a supply and therefore subject to GST?
+
+(b) If it is not, and if the 7% GST is not exigible on the discount, and was erroneously paid by the airlines to the appellant, what should the appellant have done with it?
+
+Evidence
+
+[12] The airlines form and control the International Air Transport Association ("IATA"), which performs a number of different functions on behalf of airlines around the world. One of its accomplishments is the creation of the Billing Settlement Plan ("BSP") which is a neutral system that operates on behalf of approximately 104 participating airlines in Canada and about 4,000 travel agencies. Through the BSP there exists for all 4,000 accredited agencies in Canada (including the appellant) a reporting schedule whereby the travel agencies report their total sales on a weekly basis. Basically, this is a settlement program that balances the money owed by the travel agencies to the airlines and vice versa. It is a reconciliation system devised for making the appropriate remittances between the agencies and the airlines. The whole process is standard for both the travel agencies and the airlines.
+
+[13] On the reporting schedule the travel agencies also show an amount of commission for each sale. If it is a regular sale, the commission shown is normally eight to ten per cent of the base fare. If it is a net-fare sale, the difference between the full fare and the net fare appears as a commission payable to the travel agency. An amount for GST on that commission is also calculated and appears on the schedule as an amount payable by the airlines to the travel agencies.
+
+[14] Mr. Said Ibrahim, who has been a travel consultant for eight years with the appellant, testified that the commission amount on the sale of a ticket is not always the same and not always expressed as a percentage. Mr. Ibrahim also explained that on a regular transaction, the travel agency would receive a commission calculated as a percentage (usually between eight and ten per cent as mentioned above) of the fare. He explained that a net fare was a fixed price set by the airlines for a certain destination and for certain dates. In his words, net fares are simply what the agency has to pay the airline. When he sells net-fare tickets to customers, he indicates on the invoice the official published fare (the full fare) and the discount number that is used by the travel agency to get from the full fare to the net fare quoted to the client. In fact, in a net-fare transaction, the travel agency can charge any amount that the market will bear. Usually, the travel agency will charge the client the net fare and the various transportation taxes applicable to which it would add its profit margin, which could vary between $25 and $50 over and above the net fare payable to the airlines.
+
+[15] In a cash transaction, the client would pay only the net amount charged to him and the travel agency would remit to the airline the net fare amount plus the applicable transportation taxes. The BSP report would show for a cash sale the net amount due to the airline by the travel agency, that is the full fare amount net of what is called the commission and the GST on that commission. In a credit card transaction, the client would be charged the full fare and the airline would remit to the travel agency the amount of what is called the commission and the amount of the GST calculated on that commission. The travel agency would in turn reimburse the client the discount by issuing a cheque for that amount. The end result is the same for the client whether he makes a cash payment or pays by credit card.
+
+[16] Ms. Brenda Chénier, the appellant's controller, testified that the price that is actually printed on an airline ticket (i.e. the full fare) is the "manufacturer retail sales price". According to her, this figure comes from the airlines and it is required by them to be printed on the ticket. She stated furthermore that on the ticket and in the report to the airlines the difference between the actual price charged to the client and the full fare is referred to as a commission. In fact, she said it was the only way to put that discount through the system. In other words, she testified that the commission indicated in the report was more an accounting entry than a proper commission. But she insisted that the appellant did not receive a commission as such on the net-fare tickets. She concedes however that the appellant received the GST on the commission on a net-fare ticket through the BSP settlement process.
+
+[17] Ms. Chénier testified that initially the GST on the discounted amount of a net-fare transaction was remitted to Revenue Canada. However, as the appellant did not in fact receive the commission on a net-fare transaction, Ms. Chénier later came to the conclusion that the appellant did not have to pay all the GST on the commissions. This is why she applied for input tax credits. More specifically, from June 1992 to March 31, 1994, Ms. Chénier would remit to Revenue Canada the reported GST on the commission. She would then claim an input tax credit so that the amount of GST that was actually remitted to Revenue Canada was equal to seven per cent of the actual profit on a net-fare transaction, which she considered to be the real commission or consideration received by the appellant on such a transaction. In other words, the appellant would calculate how much profit was actually received on the sale of the net-fare airline ticket. The appellant would then deduct from the GST received on discounts from the airlines seven per cent of its actual profit and would claim the net amount as an input tax credit. Ms. Chénier acknowledges that she claimed input tax credits in order to be able to remit to Revenue Canada only the GST on the profit on a net-fare transaction. She admits, however, that the appellant did not buy or supply a service on which it paid GST. It is clear from her testimony that the appellant paid no GST entitling it to claim input tax credits. The input tax credits were claimed solely in order to discount the amount that it had to remit to Revenue Canada. As a matter of fact, in April 1994, Ms. Chénier changed her practice and instead of claiming input tax credits, she simply remitted to Revenue Canada the GST on the appellant's actual profit and not the whole amount of GST credited by the airlines. However, the appellant never repaid the airlines or issued them a credit note for the excess GST collected.
+
+[18] Mr. Joseph Saab, the principal owner of the appellant, also said that the discount characterized as a commission in the BSP report was nothing more than an "accounting plug entry". Indeed, he pointed out the fallacy and absurdity of characterizing the discount as a commission in the following terms in volume 1 of the transcript, at page 167:
+
+I mean, if my net fare is $1,000, $1,125. Why would they give me a commission of $1,200, or $1,208 in this case. I don't understand.
+
+[19] In fact, it is worth noting that in the net fare transactions, the percentage of commission shown in the BSP report is well over the eight to ten per cent commission agreed upon between the travel agencies and the airlines for regular ticket sales. In the transactions referred to by the parties, the percentage is around 50 per cent, or even a little bit more, of the base fare. Mr. Saab pointed out that it would make absolutely no business sense if an airline paid more in commission than it received from the appellant as consideration for a net-fare ticket.
+
+[20] For a better understanding of the situation, I will reproduce a chart based on one BSP report (Exhibit A-6) showing two net-fare sales -- one in which payment was by credit card (so that it was the airline that owed money to the travel agency), and one which was a cash transaction (so that it was the travel agency that owed money to the airline) -- and one regular sale.
+
+Full Fare
+
+Base Fare*
+
+Applicable Transportation Taxes
+
+of Commission
+
+Commission
+
+GST on
+
+Commission
+
+Net
+
+Remittances
+
+1. $2,405.25
+
+$2,333.00
+
+$72.75
+
+51.78%
+
+$1,208.00
+
+$84.56
+
+$1,112.69
+
+2. $1,949.63
+
+$1,897.00
+
+$52.63
+
+49.92%
+
+$ 947.00
+
+$66.29
+
+$1,013.29-
+
+3. $ 469.41
+
+$ 395.10
+
+$74.31
+
+8%
+
+$ 31.61
+
+$ 2.21
+
+$ 33.82-
+
+* the base fare is the full fare net of the applicable transportation taxes.
+
+1. Net-fare sale cash: the travel agent remits $1,112.69 to the airline (that is, the full fare of $2,405.25 less commission of $1,208.00 and less GST on commission of $84.56.
+
+2. Net-fare sale by credit card: the airline remits $1,013.29 to the travel agency (that is, the commission of $947.00 plus GST on commission of $66.29).
+
+3. Regular sale by credit card: the airline remits $33.82 to the travel agency (that is, the commission of $31.61 plus the GST on commission of $2.21).
+
+[21] According to Mr. Wayne Oliver, an IATA employment manager for the BSP Canada Processing Centre, it is the travel agency's responsibility to enter the commission that is to be paid on the ticket issued, either as a percentage or as a dollar amount. The BSP has no control over the input of that amount. The travel agency reports the commission through its own computer reservation system ("CRS"). In fact, there is a worldwide standard which specifies the information that the CRS has to report to the BSP. The BSP uses that amount of commission shown on the ticket for reconciliation purposes; it processes the very same report (showing the commission entries, the GST on commission and net remittances) completed by the travel agency, and sends it to the airlines. Mr. Oliver testified that the amount of commission reported by the travel agency is a figure arrived at bilaterally by the travel agency and the airline. It is not the mandate of the BSP on behalf of the airlines to rule on whether the commission is right or not for any one transaction. The airlines claim an input tax credit for the GST paid on each commission.
+
+[22] In cross-examination, Mr. Oliver admitted that this report makes no provision for net fares, which are what the travel agencies must remit to the airlines. It is the full fare and not the net fare that appears on the airline ticket. If a travel agency has a particular net-fare agreement with a particular airline, it will show the adjustment in the commission box. Mr. Oliver explained that this was the airline's decision and the IATA had no say in the matter.
+
+[23] Mr. Oliver acknowledged however that the real economic transaction between the airline and the travel agency is based on the net fare and the applicable transportation taxes. The commission is effectively designed to bring the result from the full fare down to the net-fare level. Indeed, in order for the ticket to be printed, a figure must appear as a commission. Mr. Oliver testified that this template has been in effect for years. He said that when the GST was introduced, they had to find a way to display it for the travel agencies and this was done in consultation with them. He said that he never received comments from travel agencies relating to the calculation of the GST on the commission.
+
+[24] According to Michelle Routhier, who worked for Revenue Canada, GST client services, she assessed the appellant on the basis of the BSP reports only. She took the total GST that was indicated as being paid by the airlines on the "super commissions" as she called what seems to be the commission on net sales and used that to calculate the GST payable. She ignored the actual invoices between the appellant and the customer and was not aware of the nature of a net-fare transaction.
+
+Appellant's argument
+
+[25] The appellant submits that the trade practice in respect of the sale of net-fare tickets varies from the standard practice of the BSP in that the BSP is predicated on the travel agency acting as agent only and receiving a fixed rate of commission in respect of services provided. According to the appellant, net-fare tickets are provided to travel agencies, as principals, for resale. The amount to be paid to the airline is fixed as a set amount and required the agency to determine its own profitability based upon its ability to resell the ticket at a higher price. The appellant submits that all sale prices charged to the travel agencies are net prices and as such deviate from the normal commission arrangements whereby the travel agencies are paid a fixed percentage of the final sale price of the ticket to the end user. The appellant states that because the travel covered by the tickets is zero rated, no GST is payable on the travel portion of the consideration. However, the airline does receive input tax credits for the GST payable on any commissions paid to the travel agencies. According to the appellant, it is in the interest of the airlines, notwithstanding the economic reality of the transaction, to treat the entire discount on net fares as commission in order to maximize the input tax credits available to the airlines.
+
+[26] According to counsel for the appellant, the commissions in the BSP report were used as an adjustment to arrive at the net-fare yield between the airlines and the travel agencies. It is uncontradicted that the net fare is a price that is presented to the agency by the airline as the price that the airline wishes to be paid in respect of any one flight. Counsel submits that the commission is a balancing entry necessary to arrive at the negotiated model that existed with respect to net-fare transactions.
+
+[27] Counsel submits that under subsection 165(1) of the Act, GST is exigible in respect of the value of the consideration for the supply. The Act is not designed to tax an artificial transaction, and this is what the Minister, in his view, is attempting to do. Counsel submits that, with respect to net-fare tickets, the appellant received no commission and therefore no consideration on which GST is payable. Counsel submits that GST is only payable on the commission actually earned, that is, on the amount of the real economic receipt.
+
+Respondent's argument
+
+[28] The respondent is of the view that the appellant's position amounts to taking trust money paid to them by the airlines and turning it into profit. Counsel emphasizes the fact that there are two transactions: one recorded on the invoice to the customer, which reflects the full fare, the other recorded on the BSP report, reflecting an agreement between the airlines and the travel agencies. According to the respondent, the appellant acted as an agent for the air carriers; as such it sold tickets to travellers at the full tariff price determined by the air carriers and was invoiced by them accordingly. The appellant then effectively reduced its income by offering discounts and rebates to travellers. However, the respondent submits that this reduction in income did not reduce the amount of commissions paid by the air carriers to the appellant, which are the consideration upon which the GST is determined. The supply here is the services to airlines and it is based on an agreement between the airlines and the travel agencies which is reflected in the BSP report.
+
+[29] Counsel adds that the appellant's profit margin is embedded in that commission amount. What is wrong, argues counsel, is taking the GST on this commission, putting it in the agency's pocket and calling it a profit. So in fact, the profit realized by the appellant on each net-fare transaction was the sum of the actual profit (less GST on that profit) and the GST collected from the airlines and not remitted to Revenue Canada.
+
+[30] Counsel argues that GST is a flow–through tax. Here the GST was not flowing through. It was collected by the appellant but not remitted to Revenue Canada. The structure and context of the Act do not allow turning GST into profit. Either the GST is properly collected and then remitted or it is improperly collected, in which case the Act has mechanisms for the repayment of the GST to the party from whom it was so collected.
+
+[31] Finally, counsel for the respondent submits that the appellant did not purchase the net-fare tickets from the air carriers, and so there was no basis upon which the appellant could claim input tax credits with respect to the net-fare tickets.
+
+Analysis
+
+[32] This case turns mainly on one question: were the amounts of the discounts that the Minister and the BSP reports characterize as commissions true commissions or a true consideration, i.e. amounts that were payable for a supply, as defined in subsection 123(1) of the Act? If they were, the parties do not dispute that the GST collected by the appellant on the so-called commissions must be remitted to the respondent. If they were not, was the appellant entitled to a credit for amounts remitted to the Receiver General stemming from GST erroneously overcharged and collected from the airlines?
+
+Commissions
+
+[33] As a general proposition, it is not disputed that commissions received by the travel agency from the airlines are the consideration for services supplied to the airlines. Now are the amounts of the discounts true commissions?
+
+[34] The Concise Oxford Dictionary (Oxford: Oxford University Press, 1990) defines a commission as “a percentage paid to the agent from the profits of goods etc. sold, or business obtained”. According to that definition, something must be actually paid to someone in order for an amount to constitute a commission, and that amount must be expressed as a percentage.
+
+[35] In Black’s Law Dictionary (St. Paul, Minn: West Publishing Co., 1990), the definition of commission reads as follows:
+
+The recompense, compensation or reward of an agent, salesman, executor, trustee, receiver, factor, broker, or bailee, when the same is calculated as a percentage on the amount of his transactions or on the profit to the principal. Weiner v. Swales, 217 Md. 123, 141 A.2d 749, 750. A fee paid to an agent or employee for transacting a piece of business or performing a service. Fryar v. Currin, App., 280 S.C. 241, 312 S.E. 2d 16, 18. Compensation to an administrator or other fiduciary for the faithful discharge of his duties.
+
+[36] From this definition, we see that commission entails the actual payment of an amount of money calculated as a percentage on the amount of a transaction or on the profit to the principal.
+
+[37] In Campbell v. National Trust Co. Ltd., [1931] 1 W.W.R. 465, Lord Russell of the Privy Council defined a commission as follows at page 471:
+
+The verbal agreement between Campbell and Wallberg stipulated for the payment of "a commission," but there was no indication of the amount thereof, or how such amount was to be ascertained. Nor does the evidence contain any suggestion that there existed any custom applicable to the present case, by reference to which the amount of commission could be ascertained. In these circumstances the contract can only mean that Campbell shall be paid a proper lump sum in remuneration for his services in introducing Clarke. It is no objection to this view that a commission frequently, or even commonly, takes the form of a percentage. The word “commission” may quite properly, both from a legal and commercial point of view, be employed as denoting a lump sum which represents no percentage on anything, as, for instance, an agreement to pay a commission of £ 500.
+
+[38] In Consolboard Inc. v. MacMillan Bloedel (1982), 63 C.P.R. (2d) 1, [varied by 74 C.P.R. (2d) 199 (F.C.A.), but not with respect to the question addressed here], Cattanach J. of the Federal Court, Trial Division spoke about the meaning of the words "commission" and "discount". In that case, the defendant, the producing mill, shipped its products to a sales subsidiary which warehoused the finished product and sold it to the trade. As compensation for its efforts, and as the basis for its income and ultimate profit, the sales subsidiary received a predetermined percentage of the sale price to the consumer. The sales subsidiary also arranged direct car sales and those cars were shipped directly to the customer by the mill from the mill by various means of transport. The sales subsidiary was paid an allowance of five per cent on the sale price to the purchaser to allow it a profit for its efforts in making the sale. During the evidence and in argument, this allowance had been called a "discount" or a "commission". Cattanach J. of the Federal Court, Trial Division defined the words "commission" and "discount" in these terms at page 22:
+
+. . . Those words cannot be words of art in a commercial sense, neither are they technical words in any art or science. Therefore they must be given their meaning as used in common parlance.
+
+In commerce a commission is a percentage of a price of a product paid to an agent or like person who transacts business on behalf of others, as compensation for his efforts.
+
+Likewise in commerce a discount on the sale of an article of trade is an abatement or deduction from the nominal value or price of that article.
+
+The nub of the controversy is whether the allowance paid to the sales subsidiary is a "commission" or a "discount".
+
+If it is the former it is an expense in the mill's operation and is properly deducted from income.
+
+If it is the latter then it is not part of the price to the consumer and should be deducted from the net mill return.
+
+[39] The allowance paid to the sales subsidiary had no effect whatsoever on the sale price to the consumer. The direct car sales allowances were therefore considered not to be discounts as they did not result in a lesser price to the consumer at the retail level. They were held to be operating expenses of the mill in selling its product and therefore to be commissions.
+
+[40] Finally, in Pelko Electric Inc. v. Lenchyshyn, 31 C.P.R. (3d) 340, varied by 32 C.P.R. (3d) 225 (Ontario Court of Appeal), Southey J. of the Ontario High Court described a commission as follows at pages 384-385:
+
+. . . In Webster’s New World Dictionary, 2nd college ed. (1980), the appropriate meaning [of "commission" as used in a royalty agreement between the parties] is given as follows:
+
+a percentage of the money taken in on sales, given as pay to a salesclerk or agent, often in addition to salary or wages
+
+
+
+The following is given as the appropriate meaning in the Shorter Oxford English Dictionary (1980):
+
+10. A pro rata remuneration for work done as agent.
+
+Pro rata is described in the same dictionary as being equivalent to "according to the rate", and is given the meanings:
+
+in proportion to the value or extent (of his interest); proportionally. Also attrib. or as adj., proportional.
+
+[41] Therefore, there seems to be two defining characteristics of a commission. First, a commission is an amount that is actually paid or credited to someone. It does not include artificial, notional or fictitious payments or credits. In my view, an accounting entry cannot be a commission. Second, a commission is usually expressed as a percentage, or if it is expressed as a lump sum amount, it must at least be proportionate to the work done or to the value of the item sold. In the present case, I find that Mr. Saab raised a very solid point in that it is a bit awkward to classify a discount as a commission where the amount of commission notionally paid by the airlines is higher than the amount received from the travel agencies as consideration for a net-fare ticket. In the particular case of net fares, the reduction in price reflected as a commission in the BSP report would be more accurately referred to as a discount as, to use the terms of Cattanach J. in the Consolboard case, it definitely resulted in a lesser price to the consumer at the retail level.
+
+[42] The evidence is clear that for regular sales the travel agencies receive a commission in the range of eight to ten per cent of the price of the ticket. To paraphrase Lord Russell in Campbell, supra, this is certainly an indication that there exists an applicable custom by reference to which an amount of commission can be ascertained. A 50 per cent commission on the base fare (which in fact represents 100 per cent or more on the net fare) is certainly not customary for travel agents and it is obvious to me that it is for their own benefit that the airlines have treated the reduction in price on net fares as a commission, i.e. in order to claim input tax credits. As to the argument that the agents have agreed to such characterization through the BSP report, my answer is found in a particular comment by Master Hilliard of the Ontario High Court in Re Brooks Steam Motors Ltd., [1934] 2 D.L.R. 648 at page 650:
+
+. . . you can give a commission of 90% as long as it is a commission; but merely calling it a commission does not make it a commission.
+
+[43] In characterizing the discounted amounts as commissions, the Minister relied on a statement of facts, as found in the respondent’s Reply to the Notice of Appeal, that proved to be, I find, inaccurate.
+
+[44] Indeed, the Minister assumed that the appellant received a commission from the air carriers and that the commissions paid to the appellant were calculated as a percentage of the ticket price. The evidence has demonstrated that the commission which the BSP report shows with respect to net sales is nothing more than an accounting entry to balance the result between the full fare and the net fare. It is clear from the evidence that no such super commissions, as the Minister called them, were in fact paid to the appellant. It is also clear from the evidence that on a net-fare transaction the figure that is entered in the commission box on a ticket is expressed in dollars. It is not expressed as a percentage of the ticket price.
+
+[45] Furthermore, the Minister is of the view that it is the appellant who in fact reduces the full purchase price of the ticket to the traveller by offering a discount. I agree with counsel for the appellant that such a statement ignores the concept of net fares. In my view, the appellant does not offer a discount; it is the airlines that offer a discount. As disclosed by the documents filed in evidence, the whole net fare arrangement is premised on business decisions that are made by the air carriers.
+
+[46] I therefore conclude that the appellant has demonstrated that it did not receive commissions from the airlines on net-fare tickets. From the evidence and the case law, it is apparent that what the Minister and the BSP reports characterize as a commission is not a true commission and therefore not a true consideration within the meaning of the Act.
+
+[47] The consequences of such a finding should not however benefit the appellant. Indeed, as the appellant did not receive a true consideration, it should not have collected GST on those amounts designated as commissions. What were the obligations of the appellant in the circumstances?
+
+Appellant's obligations with respect to GST erroneously collected
+
+[48] The relevant sections of the Act, read as follows:
+
+221. (1) Collection of tax – Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+
+222. (1) Amounts collected held in trust – Subject to subsection (1.1), where a person collects an amount as or on account of tax under Division II, the person shall, for all purposes, be deemed to hold the amount in trust for Her Majesty until it is remitted to the Receiver General or withdrawn under subsection (2).
+
+225. (1) Net tax – Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+
+A – B
+
+where
+
+A is the total of
+
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+
+B is the total of
+
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period. [Emphasis added.]
+
+228. (2) Remittance – Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+
+232. (1) Refund or adjustment of tax - Where a particular person has charged to, or collected from, another person an amount as or on account of tax under Division II in excess of the tax under that Division that was collectible by the particular person from the other person, the particular person may, within two years after the day the amount was so charged or collected,
+
+(a) where the excess amount was charged but not collected, adjust the amount of tax charged; and
+
+(b) where the excess amount was collected, refund or credit the excess amount to that other person.
+
+. . .
+
+(3) Credit or debit notes – Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+
+. . .
+
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person;
+
+261. (1) Rebate of payment made in error – Where a person has paid an amount
+
+(a) as or on account of, or
+
+(b) that was taken into account as,
+
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+
+[49] Pursuant to subsection 228(2), taxpayers making taxable supplies, are obligated to remit to the Receiver General the net tax for a reporting period. Subsection 225(1) defines "net tax" to include "all amounts that became collectible" and "all other amounts collected . . . as or on account of tax". Thus, under subsection 225(1), all amounts collected as tax, even if collected in error, should be included in the calculation of "net tax", and pursuant to subsection 228(2), they should be remitted to the Receiver General (see D. M. Sherman, Canada GST Service (Scarborough: Carswell, looseleaf) Binder C4, at page 225-103). In the present case, all amounts collected by the appellant as GST in the period at issue, including all amounts collected in error, were part of the appellant's net tax for that period and remittable to the Receiver General under subsection 228(2). Section 261 provides for a rebate to a person who has paid an amount as or on account of net tax where the amount was not payable or remittable by the person claiming the rebate. Here the tax collected in error was paid by the airline carriers not by the appellant. In Reference re Quebec Sales Tax, [1994] G.S.T.C. 44 (S.C.C.), the Supreme Court of Canada noted at page 44-8:
+
+. . . Registrants therefore do not pay the tax or bear the burden, as stated above, they merely function as tax collectors transferring the revenues to the government [. . .].
+
+[50] The scheme of the Act is such that the airline carriers who overpaid GST could either receive a refund for such overpayment directly from the appellant under subsection 232(1) within a certain time limit or, otherwise, apply for a refund from the Minister under subsection 261(1) (which in this particular case could I suppose, be set off against the input tax credits claimed by the airlines on the GST paid on the commissions). This recourse is not available to the supplier (i.e. the travel agency in the present case).
+
+[51] As well, since the appellant did not refund or credit the airlines for excess taxes charged, it cannot deduct such amounts in its net tax calculation under paragraph 232(3)(b).
+
+[52] Consequently, the appellant had an obligation to remit all the GST erroneously collected on the so-called commissions and is not entitled to a refund under the Act.
+
+[53] It is also clear that the appellant claimed input tax credits contrary to the provisions of the Act. Section 169 of the Act states the following:
+
+169. (1) General rule for [input tax] credits – Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+
+A x B
+
+where
+
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable;
+
+. . .
+
+[54] It is not disputed that the appellant did not acquire a service and did not supply a service with respect to which it paid tax on the so-called commissions. A taxpayer is entitled to an input tax credit only if he has paid tax to a registrant and it is recorded. In the present case, there is no legal basis for having claimed the input tax credits. The appellant took the wrong course. It could have given the airlines a refund or a credit for the excess GST collected. This was not done. As explained above, it is not the appellant who is entitled to a refund under the Act, but rather the airlines who in fact paid the GST.
+
+[55] In view of the above comments, I find that although I have concluded that the appellant did not receive any commission or any consideration from the airlines with respect to net-fare tickets on which it had to collect GST, I also conclude that having erroneously collected tax, it had to remit that tax to the Receiver General in accordance with the provisions of the Act. In the circumstances, I have no choice but to confirm the assessment. The appeal is therefore dismissed with costs.
+
+Signed at Ottawa, Canada, this 14th day of December 2000.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+

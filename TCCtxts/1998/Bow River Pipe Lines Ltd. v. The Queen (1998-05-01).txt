@@ -1,0 +1,258 @@
+Date:19980501
+
+Docket: 94-619-IT-G
+
+BETWEEN:
+
+BOW RIVER PIPE LINES LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Christie, A.C.J.T.C.
+
+[1] With reference to its 1987 to 1991 taxation years inclusive the appellant increased the cost to it of certain Canadian resource property and added the increase (“the COGPE addition”) to its cumulative Canadian oil and gas property expense (“CCOGPE”) account in respect of Canadian resource property. In reassessing the Minister of National Revenue (“the Minister”) disallowed the deductions claimed by the appellant in respect of the COGPE addition. The appellant objected, but the reassessments were confirmed by the Minister. Appeals to this court followed which were dismissed: 96 DTC 1770. The reason for the dismissal is that the appellant relied on subsection 98(5) of the Income Tax Act (“the Act”). At the hearing of those appeals the parties agreed that the purport of subsection 98(5) is correctly set out in volume 3 of the Canadian Tax Reporter at 13,227-8 as follows:
+
+“Subsection 98(5) permits a tax-free rollover where, within three months of the termination of a Canadian partnership defined in section 102, one but not more than one of the partners commences to carry on the business of the previous partnership as a sole proprietor, using the partnership property received by him as proceeds of disposition of his partnership interest. As a matter of law, a partnership ceases to exist when one partner acquires the partnership interests of all other partners.”
+
+Of particular importance to the appellant’s case was paragraph 98(5)(d) which was repealed by Statutes of Canada, 1983, c. 55, subsection 26(4) subject to certain transitional provisions that required the appellant “to become a member of a partnership”. I concluded that this condition precedent had not been met and accordingly the appeals were dismissed.
+
+[2] After the judgment had been signed and entered and it, together with the reasons for judgment, had been sent to the parties counsel for the appellant made application under section 168 of the Tax Court of Canada Rules (General Procedure) for reconsideration of the terms of the judgment. Section 168 provides:
+
+“168. Where the Court has pronounced a judgment disposing of an appeal any party may within ten days after that party has knowledge of the judgment, move the Court to reconsider the terms of the judgment on the grounds only,
+
+(a) that the judgment does not accord with the reasons for judgment, if any, or
+
+(b) that some matter that should have been dealt with in the judgment has been overlooked or accidentally omitted.”
+
+The application was refused: 96 DTC 1414. I said this at page 1416:
+
+“The appellant not being within the ambit of paragraph 168(1)(a) of the Rules, the remaining question is whether paragraph 168(1)(b) applies. The appellant now seeks to have the appeals against the reassessments in question allowed on the alternative ground that it is entitled to succeed regardless of whether it was a partner. I do not think this can properly be regarded as a matter described in paragraph 168(1)(b). It is something that was not even alluded to in the pleadings, in the evidence, in argument at trial or in the written submissions made after trial before judgment was issued.
+
+The application is dismissed.”
+
+[3] The judgment dismissing the appeals was appealed to the Federal Court of Appeal: 97 DTC 5385. That court agreed that the appellant did not meet the condition precedent of partnership already referred to. It also agreed that the application under section 168 was properly refused. Nevertheless it concluded that the appellant should be given an opportunity to raise its alternative argument before this court. Perhaps the best way to explain this is to repeat what Desjardins J.A., who delivered the reasons for the Federal Court of Appeal, had to say in this regard: 97 DTC at pages 5399 - 5401:
+
+“The appellant argues that it is entitled to succeed even if it did not qualify, as I have found, under the transitional provisions. According to counsel, the issue in this case, as it was framed by the respondent in Her Amended Reply to the Notice of Appeal, was whether the appellant was ‘entitled to add the amount of $5,874,367 (‘COGPE addition’) to its cumulative Canadian Oil and Gas Property Expense (‘CCOGPE’) account in respect of Canadian resource property it received on the termination of LRRP’. It is counsel's position that if the appellant falls out of the ‘rollover’ provision contained in paragraph 98(5)(d), then the appellant falls into the provisions that generally govern the acquisition of resource properties by taxpayers other than partners. More particularly, paragraphs 66.4(5)(a) and (b) (which respectively define ‘Canadian oil and gas property expense’ and ‘Cumulative Canadian oil and gas expense’) provide that taxpayers generally are entitled to add the cost of the resource properties to their COGPE pools. Counsel argues that such cost is at least $5,874,367.
+
+That argument was not raised at trial. The appellant sought to raise it once the judgment had been rendered, pursuant to section 168 of the Tax Court of Canada Rules (General Procedure) (‘the Rules’). The Tax Court judge denied the application on the basis that the argument ‘was not even alluded to in the pleadings, in the evidence, in argument at trial or in the written submissions made after trial before judgment was issued’.
+
+The Tax Court judge's decision is unassailable. The conditions set out by section 168 of the Rules were obviously not met. His decision does not, however, dispose of the matter, since a court of appeal has a discretion to hear in appeal an argument that was not raised below.
+
+The general rule, as noted by Major, J. in Athey v. Leonati, [1996] 3 S.C.R. 458 at 478 is ‘that an appellant may not raise a point that was not pleaded, or argued in the trial court, unless all the relevant evidence is in the record’. I take it, from Athey, that where all relevant evidence is part of the record and where the opposing party suffers no prejudice, it would be an error for a court of appeal to refuse to consider the argument.
+
+The respondent does not invoke prejudice. She alleges, rather, that there is no evidence in the record which would allow the Court to decide the issue and, in the alternative, that all the relevant evidence is not in the record.
+
+I agree with the respondent that the first test set out in Athey is not met. However, in the very peculiar circumstances of this case, the explanation as to why there is a problem with respect to the evidence in the record lies in respondent's failure to properly amend Her Reply to the Notice of Appeal, which in turn led the appellant to present and argue the case on a wrong footing.
+
+Here is what happened. In Her Reply to the Notice of Appeal filed on May 27, 1994, the respondent made the following assumption:
+
+3. (u) The cost to Appellant of the Canadian resource property received on the termination of LRRP was $5,874,367.00.
+
+That assumption was all the appellant needed to rest its case in as far as the argument based on paragraphs 66.4(5)(a) and (b) was concerned.
+
+In an Amended Reply to the Notice of Appeal dated February 21, 1996, five days prior to the hearing before the Tax Court, the respondent replaced Her [sic][1] 3(u) assumption with the following:
+
+3. (u) in its 1986 taxation year, Appellant increased the cost amount of the Canadian resource property received on the termination of the LRRP by $5,874,367.00.
+
+The problem is, the respondent forgot to underline the amended assumption in Her Amended Reply to the Notice of Appeal, contrary to the requirements of subsection 55(2) of the General Procedure Rules of the Tax Court of Canada, with the result that counsel for the appellant was led to believe that the former assumption had been maintained. While it is true that pursuant to section 7 of the Rules, non-compliance does not render a proceeding a nullity, the fact is that the parties, because of respondent's non-compliance with the Rules, were at odds with each other, without even knowing it, over the applicable assumption.
+
+Counsel for the respondent graciously conceded that were the decision of the Tax Court to be confirmed — as I think it should be — the appellant would be entitled, pursuant to paragraphs 66.4(5)(a) and (b), to add the cost, if any, of the resource property to its Canadian Oil and Gas Property Expense, and that the most equitable way to deal with the present situation would be to remit the matter back to the Tax Court of Canada for the determination of the cost, if any, to the appellant of the Canadian resource property it received on the termination of the Lone Rock Resources Limited Partnership.
+
+On the authority of subparagraph 52(c)(ii) of the Federal Court Act which gives the Court of Appeal the discretionary power, in the case of an appeal other than an appeal from the Trial Division, to ‘refer the matter back for determination in accordance with such directions as it considers to be appropriate’, I have reached the conclusion that the new argument raised before us by the appellant with respect to the cost amount should be considered by this Court, but that in the special circumstances of this case, where arguably more complete evidence is required, it would be appropriate to have it determined by the Tax Court of Canada on the evidence that is in the record or on such further evidence as it may allow.
+
+I am, therefore, prepared to allow the appeal — which is otherwise dismissed but only to the extent of remitting the matter back to the Tax Court of Canada for determination of the cost, if any, which the appellant is entitled to add to its cumulative Canadian Oil and Gas Property Expense account, pursuant to paragraphs 66.4(5)(a) and (b) of the Income Tax Act, in respect of Canadian resource property it received on the termination of the Lone Rock Resources Limited Partnership.”
+
+[4] In order to deal with what has been remitted to this court by the Court of Appeal eleven of the steps taken in the failed attempt by the appellant to secure a tax-free rollover under subsection 98(5) shall be reviewed. Those steps created legal consequences that cannot be ignored in the present context. Simply put, the question is: what was the price paid by the appellant, if any, for the Canadian resource property that is relevant to this appeal? The steps referred to involved three corporations and a limited partnership: the appellant; 335827 Alberta Ltd. (“335827”); Lone Rock Resources Ltd. (“Lone Rock”) which became the sole shareholder of 335827 on November 8, 1985; and LRR limited partnership (“the Limited Partnership”). What follows is a summary of those steps and the dates on which they were taken.
+
+14 January 1986
+
+(A) 335827 and Lone Rock enter into a limited partnership agreement. 335827 is the general partner and Lone Rock is the sole limited partner.
+
+(B) 335827 and Lone Rock sign a certificate pursuant to subsection 51(2) of the Partnership Act of Alberta. Subsection 51(1) provides that a limited partnership is “formed” when such a certificate “is filed with and recorded by the Registrar”.[2] Clauses 5 and 8 of the certificate read:
+
+“5. The Limited Partner shall contribute in assets, various petroleum and natural gas rights, tangibles and miscellaneous interests in accordance with the provisions of a proposed Roll-Over Agreement between the Limited Partner and the Partnership which contributed assets shall have a fair value of approximately $12,500,000.00.
+
+The General Partner shall contribute, in cash, the sum of $1,200.00.
+
+8. The Limited Partner, by reason of its contribution, is entitled to receive 99.99% of all profits of the Partnership and the General Partner, by virtue of its contribution [$1,200.00], is entitled to receive 0.01% of the profits of the Partnership.”
+
+(C) A roll-over agreement is entered into with Lone Rock as vendor and the Limited Partnership. The introductory clauses refer to the partnership agreement of January 14, 1986 and relate that pursuant to that agreement Lone Rock agreed to make a certain contribution to the capital of the partnership in consideration for a 99.99% interest in the partnership. Clause 3.01 reads:
+
+“3.0l Subject to the terms and conditions of this Agreement, and in consideration of the Partnership Interest (the receipt and sufficiency of which is hereby acknowledged by the Vendor) the Vendor hereby transfers and assigns to the Partnership, as a contribution to the capital of the Partnership, and the Partnership hereby accepts and takes from the Vendor, the Contributed Assets, as and from the Effective Date, subject only to the respective terms and conditions of the Leases and the Related Agreements.”
+
+Under clause 1.01 “Effective Date”, “Contributed Assets”, “Lands”, “Leases”, “Miscellaneous Interests”, “Petroleum and Natural Gas Rights”, “Tangibles” are all defined as follows:
+
+“‘Effective Date’ means 12:01 a.m. on the 15th day of January, 1986;
+
+‘Contributed Assets’ means the Petroleum and Natural Gas Rights, the Tangibles and the Miscellaneous Interests;
+
+‘Lands’ means all of the lands in, or in respect of, which the Vendor holds or is entitled to acquire any right, title, estate or beneficial interest of whatsoever nature or kind and whether vested or contingent and whether legal or equitable, including without limitation those lands more particularly described in Schedule ‘A’[3] hereto, and includes the Petroleum Substances within, upon or under the Lands, together with the right to explore for and recover same insofar as such rights are granted by the Leases;
+
+‘Leases’ means all permits, licences or other documents of title by virtue of which the holder thereof is entitled to drill for, win, take or remove the Petroleum Substances underlying all or any part of the Lands;
+
+‘Miscellaneous Interests’ means all of the Vendor’s right, title, estate and beneficial interest in and to all property, assets and rights, other than the Petroleum and Natural Gas Rights or the Tangibles, pertaining to the Petroleum and Natural Gas Rights, the Lands or the Leases and to which Vendor was entitled at the Effective Date including, but not in limitation of the generality of the foregoing:
+
+(i) all contracts, agreements, documents, production sales contracts and division orders relating to the Petroleum and Natural Gas Rights, the Lands or any rights in relation thereto, including the Related Agreements;
+
+(ii) all subsisting rights to enter upon, use and occupy the surface of any of the Lands;
+
+(iii) copies of all books, records, agreements, documents, geological and engineering reports and data which relate directly to the Petroleum and Natural Gas Rights, the Lands or the Leases;
+
+(iv) all oil and/or gas wells situate on the Lands and all casing therein; and[4]
+
+(v) all Petroleum Substances in the course of production from the Lands but not at the Effective Date beyond the point of delivery to the purchaser of production from the Lands.
+
+‘Petroleum and Natural Gas Rights’ means all of the Vendor’s right, title, estate and beneficial interest in the Leases and the Lands.
+
+‘Tangibles’[5] means all of the Vendor’s right, title, estate and interest in and to all tangible depreciable property and assets (except casing) situate in, on or about the Lands, appurtenant thereto or used in connection therewith and with production operations thereon including, but not in limitation of the generality of the foregoing, appurtenant to or used in connection with all producing or shut-in wells located on the Lands.”
+
+15 January 1986
+
+(D) Lone Rock and all of its shareholders enter into a share purchase agreement with the appellant whereby the latter acquired all of the shares of Lone Rock. The agreement states at the commencement thereof: “This agreement made as of the 29th day of October 1985”. It also states that: “‘Closing Time’ means 2 p.m., local time at the place of closing (Calgary) on the 15th day of January 1986 or such other time or date as may be agreed by the purchaser and vendors”. The purchase price is $6,289,430.00 plus $7,053,840.82 which was paid to the Bank of Montreal to discharge a debt owed to that bank by Lone Rock. The physical assets of Lone Rock are set out in Appendices “A”, “B” and “J” of the share purchase agreement. Appendix “A” is the same as Schedule “A” to the roll-over agreement dated January 14, 1986 between Lone Rock and the Limited Partnership (supra), i.e. it identifies numerous leases in Alberta, Saskatchewan and British Columbia together with the legal descriptions to the property pertaining thereto; Appendix “B” consists of wells that are identified by well name, location and status, namely, shut-in-gas, suspended or producing; Appendix “J” consists of 61 pages and is “Field and Warehouse Inventory”. It consists of such things as buildings, valves, pumping units, etc. The property listed in Appendix “J” appears not to be Canadian resource property. That kind of property is defined under paragraph 66(15)(c) of the Act. Subparagraph 66(15)(c)(iii) reads:
+
+“(iii) any oil or gas well in Canada or any real property in Canada the principal value of which depends upon its petroleum or natural gas content (but not including any depreciable property used or to be used in connection with the extraction or removal of petroleum or natural gas therefrom).”
+
+29 September 1986
+
+(E) Lone Rock as transferor and the appellant as transferee enter into a “Distribution Agreement” whereby Lone Rock “assigns, transfers and conveys to and sets over unto the transferee all of the right, title and interest of the transferor in and to all its property, assets and business”. The intention behind this transfer as evidenced by the ineffective notice described in the following paragraph was to substitute the appellant for Lone Rock as the limited partner in the Limited Partnership. The transfer would include the 99.99% interest that Lone Rock had in the Limited Partnership. Even though the appellant never became a partner this was authorized under section 65 of the Partnership Act. Subsections 65(1) and (3) provide:
+
+“65(1) A limited partner’s interest is assignable.
+
+...
+
+(3) An assignee who does not become a substituted limited partner has no right
+
+(a) to require any information or account of the partnership transactions, or
+
+(b) to inspect the partnership books,
+
+but is entitled only to receive the share of the profits or other compensation by way of income, or the return of his contribution, to which his assignor would otherwise be entitled.”
+
+(F) 335827 and the appellant execute a “Notice to Amend Certificate” whereby the appellant is substituted for Lone Rock as the limited partner in the Limited Partnership. This was ineffective because, as was held by this court and the Federal Court of Appeal, the appellant never became a partner in the Limited Partnership.
+
+(G) The Registrar issues a certificate of dissolution regarding Lone Rock under the authority of the Business Corporations Act of Alberta. Subsection 203(6) of that Act provides: “The corporation ceases to exist on the date shown in the certificate of dissolution”. The date shown on the certificate is September 29, 1986. In my opinion the legal consequence is that the partnership was terminated on this date.
+
+30 September 1986
+
+(H) 335827 as transferor and the appellant as transferee enter into a “Distribution Agreement” whereby the transferor “hereby assigns, transfers and conveys to and sets over unto the transferee all of the right, title and interest of the transferor in and to all its property, assets and business”. This includes the .01% interest that 335827 has in the Limited Partnership. What is said under (E) supra applies.
+
+(I) The Limited Partnership and the appellant enter into a “Distribution Agreement” whereby “the partnership hereby assigns, transfers and conveys to and sets over unto Bow River [the appellant] all of the right, title and interest of the partnership in and to all of its property, assets and business.” This would purportedly include the Canadian resource property transferred to the Limited Partnership by Lone Rock pursuant to the Agreement entered into on January 14, 1986 - paragraph (C) supra.
+
+(J) 335827 and the appellant issue a Notice to Cancel Certificate of the Limited Partnership. The Notice reads:
+
+“THE UNDERSIGNED hereby give notice that the Certificate of Limited Partnership of LLR Limited Partnership (the ‘Partnership’) registered in the Central Registry for the Province of Alberta as L.P. 2925 on the 14th day of January, 1986 is cancelled due to the dissolution of the Partnership, effective September 30, 1986.”
+
+This has reference to the certificate issued under section 51 of the Partnership Act. Notice of the cancellation of such a certificate under section 68 can only be signed by partners.
+
+(K) The Registrar of Companies issued a certificate of dissolution of 335827. The date of dissolution in the certificate is September 30, 1986.
+
+[5] It will be seen from the foregoing that the only price paid or money expended by the appellant under any of the agreements referred to was in respect of its purchase of the shares of Lone Rock on January 15, 1986. This did not result in the appellant acquiring the Canadian resource property if for no other reason than that the property had been transferred to the Limited Partnership at 12:01 A.M. on January 15, 1986 in accordance with the agreement made between Lone Rock and the Limited Partnership on January 14, 1986. That property thereupon became partnership property.[6] Nor did Lone Rock’s 99.99% interest in the Limited Partnership pass to the appellant under the share purchase agreement. That property remained with Lone Rock.
+
+[6] In Braun v. The Custodian, [1944] Ex. C.R. 30 Thorson P. said at p. 40: “A share is intangible property, a chose in action, a relationship between the shareholder and the company involving rights and duties.” Moreover a shareholder of a corporation and the corporation are distinct and separate legal entities. This has been the prevailing view since the decision of the House of Lords in Salomon v. Salomon & Co. Ltd., [1897] A.C. 22. Subsection 15(1) of the Business Corporations Act of Alberta provides: “15(1) A corporation has the capacity and, subject to this Act, the rights, powers and privileges of a natural person.” The assets of a corporation are property of the corporation and not of its shareholders. While the shares of corporation A may be transferred to another corporation or an individual, the property of A remains with it. In Williams & Humbert v. W. & H. Trade Marks Ltd., [1986] A.C. 368, Lord Templeman said at p. 429:
+
+“... the principle (of distinguishing between a corporation and its shareholders) established in Salomon v. A. Salomon & Co. Ltd. [1897] A.C. 22 [was] re-affirmed in E.B.M. Co. Ltd. v. Dominion Bank [1937] 3 All E.R. 555 where Lord Russell of Killowen said at page 564 that it was:
+
+‘of supreme importance that the distinction should be clearly marked, observed and maintained between an incorporated company’s legal entity and its actions, assets, rights and liabilities on the one hand and the individual shareholders and their actions, assets, rights and liabilities on the other hand.’ ” [7]
+
+In Appleby v. Minister of National Revenue, [1975] 2 S.C.R. 805 Pigeon J. said at page 813: [8]
+
+“Ever since Salomon v. Salomon & Co, [1897] A.C. 22, it has been accepted that although the shares of a limited company may be beneficially owned by the same person who also manages it, its business is nevertheless in law that of a distinct entity, a legal person having its own rights and obligations. The Income Tax Act unmistakably implies that this rule holds good for tax purposes.”
+
+Palmer’s Company Law, 23rd (1982) ed. at p. 384:
+
+“A share in a company is the expression of a proprietary relationship: the shareholder is the proportionate owner of the company but he does not own the company’s assets which belong to the company as a separate and independent legal entity.”
+
+See also: Corporation Law in Canadian Business by Frank R. Taylor at pages 4 and 5; Corporate Law in Canada, The Governing Principles, 2nd ed. (1991), by Bruce Welling at p. 82; Canadian Companies by Wegenast at pages 1 and 2.
+
+[7] The purchase of the shares, therefore did not involve any outlay or expense incurred by the appellant for Canadian resource property or for an interest in the Limited Partnership.
+
+[8] By agreement dated September 30, 1986 (H supra) there was a professed transfer by the Limited Partnership of all its property, assets and business to the appellant. But the partnership had ceased to exist the previous day upon the dissolution of Lone Rock (G supra). Paragraph 1(d) of the Partnership Act of Alberta provides:
+
+“1. In this Act,
+
+(a) ‘partnership’ means the relationship that subsists between persons carrying on a business in common with a view to profit;”
+
+Reference is also made to paragraphs 50(2)(b) and 68(1)(b) of the Partnership Act. They provide:
+
+“50(2) A limited partnership shall consist of
+
+...
+
+(b) one or more persons who are limited partners.
+
+68(1) A certificate shall be cancelled when
+
+...
+
+(b) all limited partners cease to be limited partners.”
+
+In Lindley & Banks on Partnership, 17th (1995) ed. this is said at page 8:
+
+“SECTION 1(1) of the Partnership Act 1890 provides as follows:
+
+‘Partnership is the relation which subsists between persons carrying on a business in common with a view of profit.’
+
+From this statutory definition it appears that, before a partnership can be said to exist, three conditions must be satisfied, i.e. there must be (1) a business (2) which is carried on by two or more persons in common (3) with ‘a view of profit.’ Views differ as to whether a fourth condition should also be imported, namely an agreement to share any profits realized. Each of these conditions, actual or supposed, will now be considered in turn.”
+
+Paragraph 98(1)(a) of the Act provides:
+
+“98(1) For the purposes of this Act, where, but for this subsection, at any time after 1971 a partnership would be regarded as having ceased to exist, the following rules apply:
+
+(a) until such time as all of the partnership property and any property substituted therefor has been distributed to the persons entitled by law to receive it, the partnership shall be deemed not to have ceased to exist, and each person who was a partner shall be deemed not to have ceased to be a partner.”
+
+In my opinion this paragraph did not operate to extend the life of the Limited Partnership or the existence of the partners because there is no apparent purpose under the Act for such an extension. There is no evidence or suggestion that the existence of the partnership or that of the partners needed to be extended in order to determine partnership income or the liability to tax of the partners or the appellant in relation to that income or for any other relevant tax purpose affecting them or it.
+
+[9] The appellant did become the owner of the Canadian resource property that was partnership property of the Limited Partnership. But this came about upon the dissolution of the Limited Partnership on September 29, 1986. At that moment the appellant held a 99.99% interest in the partnership and there is no suggestion or evidence that the partnership property represented by that interest could have devolved on any corporation or individual other than the appellant. The dissolution came about not by reason of an expenditure or outlay of funds by the appellant. It occurred by reason of a tax planning scheme designed to secure a tax-free roll-over under subsection 98(5) having gone off the rails because the appellant was not made a partner in the Limited Partnership.
+
+[10] Mr. Brad D. Narfason, C.A. gave expert testimony on the question of the fair market value of the appellant’s interest in the partnership “immediately before the dissolution of the partnership on September 30, 1986”. The fact that the Limited Partnership ceased to exist on September 29, 1986 has already been dealt with. The fair market value is said to be $12,276,297. The witness treated the fair market value of an interest in a partnership as being synonymous with the fair market value of the Canadian resource property on the termination of the partnership.[9] The appellant argued that the cost to it of acquiring those properties was equal to the value of what it gave up to acquire them, namely the interest in the partnership, or $12,276,297. That approach was dealt with by the Federal Court of Appeal in The Queen v. Kettle River Sawmills Ltd. and another, 94 DTC 6086, leave to appeal to the Supreme Court of Canada refused: [1994] 2 S.C.R. vii. One of the issues was the capital cost of certain timber resource properties in British Columbia. Hugessen J.A. said at page 6092:
+
+“In the first place, both tax law and the common use of language draw a clear distinction between cost and value. Cost means the money or money’s worth which is given up by somebody to get something. It is generally viewed as an objectively determinable historical fact, the answer to the question ‘how much was paid?’ Value, on the other hand, contains a far higher component of subjectivity and judgment. One of the classic tests involves positing a hypothetical buyer who does not have to buy and a hypothetical seller who does not have to sell. But there are many cases, notably where there is no readily determinable market, where not even that degree of objectivity is attainable. To put the matter at its simplest, cost is what you have paid for something, value is what another will give you for it; the two are not synonymous.
+
+...
+
+The trial judge was, of course, perfectly right to read the D'Auteuil Lumber case as standing for the proposition that the cost of an asset to a taxpayer is what he has given up to get it. He was, however, with respect, wrong to think that these taxpayers, the respondents, had given up the fair market value of their quotas when they renewed their licences. Indeed, far from giving them up, the respondents, by the renewal of their licences, were exercising and enjoying the rights which they had in virtue of their quotas. In D'Auteuil Lumber, the taxpayer had actually given up the right to compensation for expropriation but, as far as I can see, neither of these taxpayers gave up anything at all. The fact that they chose not to sell their quotas is no more an indication that they gave up the value thereof than is the fact that I choose not to sell my house or my car an indication that I have given up their value. As the trial judge himself said, the respondents ‘rolled over’ their quotas and that is a very different thing from giving them up.” [footnote omitted]
+
+[11] It was said in argument that under the agreement of September 29, 1986 between Lone Rock as transferor and the appellant as transferee whereby Lone Rock "assigns, transfers and conveys to and sets over unto the transferee all of the right, title and interest of the transferor in and to all its property, assets and business" the appellant became entitled under subsection 65(3) of the Partnership Act to receive the share of the profits or other compensation by way of income, or the return of its contribution to which Lone Rock would otherwise be entitled. It was further said that the appellant gave up that entitlement in return for the Canadian resource property held by the Limited Partnership. That raises two questions: (i) when did the appellant's entitlement cease? The entitlement ceased to exist on September 29, 1986 when Lone Rock was dissolved, thereby ending the Limited Partnership; and (ii) to whom was the entitlement given? Not the partnership. Both it and any interest therein ceased to exist upon the dissolution of Lone Rock. The only other player involved in the various steps described in these reasons was 335827 and it cannot be regarded as being the recipient of that entitlement.
+
+[12] In fact, there was no giving up by the appellant to another involved. It received the resource properties upon the dissolution of the Limited Partnership. Any right which may have arisen by operation of subsection 65(3) of the Partnership Act would have been satisfied upon the appellant’s receipt of the resource properties. Such a right would have been extinguished, not because it had been given up, but because the resource property having devolved upon the appellant, any such right ceased to exist.
+
+[13] My conclusion is that the cost which the appellant is entitled to add to its cumulative Canadian Oil and Gas Property Expense account, pursuant to paragraphs 66.4(5)(a) and (b) of the Act, in respect of Canadian resource property it received on the termination of the Limited Partnership is nil.
+
+Signed at Ottawa, Canada, this 1st day of May 1998.
+
+²D.H. Christie²
+
+A.C.J.T.C.C.
+
+[1] This parenthetical insertion appears in the report of the appeal.
+
+[2] The certificate was registered on January 14, 1986. See infra under paragraph (J).
+
+[3] Schedule “A” identifies numerous leases in Alberta, Saskatchewan and British Columbia together with the legal descriptions of the property pertaining thereto. This corresponds to Appendix “A” in the share purchase agreement - 15 January 1986 (D) infra.
+
+[4] This corresponds to Appendix “B” in the share purchase agreement - 15 January 1986 (D) infra.
+
+[5] This corresponds to Appendix “J” in the share purchase agreement - 15 January 1986 (D) infra.
+
+[6] Paragraph 1(e) of the Partnership Act of Alberta provides:
+
+“1. In this Act,
+
+...
+
+(e) ‘partnership property’ means property and rights and interests in property originally brought into the partnership stock, or acquired, whether by purchase or otherwise, on account of the firm, or for the purposes of and in the course of the partnership business.”
+
+[7] This was an appeal to the Judicial Committee of the Privy Council from a judgment of the Ontario Court of Appeal: [1934] O.R. 560.
+
+[8] While the passage cited is from a dissenting judgment there is nothing in the majority reasons that in any way detracts from its validity.
+
+[9] As indicated in paragraph (D) supra more than Canadian resource property was transferred to the Limited Partnership by Lone Rock on January 15, 1986.
+

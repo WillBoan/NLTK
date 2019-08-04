@@ -1,0 +1,216 @@
+Date: 20010924
+
+Docket: 2001-1203-IT-I
+
+BETWEEN:
+
+DARRELL B. HOLLANDS
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Teskey, J.
+
+[1] The Appellant appeals his assessments of income tax under the Income Tax Act (the "Act") for the 1998 and 1999. In his Notice of Appeal, he elected the informal procedure.
+
+Issue
+
+[2] The sole issue before the Court is whether the Appellant is entitled to deduct, in the years 1998 and 1999, child support payments.
+
+Facts
+
+[3] The facts in this case are not in dispute and are as follows:
+
+(a) The Appellant and Margaret Shawn Tamara Meyer lived together in a conjugal relationship from July 1985 until February 1986.
+
+(b) In June of 1986 a Summons was issued to the Appellant in the Court of Queen's Bench of Alberta claiming an affiliation and maintenance order.
+
+(c) The Appellant contacted Ione Iverson, a worker at the Child Maintenance Services. As a result of that, support for the infant was agreed upon and a Paternity Agreement was entered into on the 28th of August, 1986 and was filed with the Court of Queen's Bench of Alberta.
+
+(d) On the 14th of November, 1995, the mother of the child wrote to the Appellant requesting more funds, and on the 30th of that month in that year the two agreed in writing to an additional $280 per month, for a total of $400 per month for support of this child.
+
+[4] In computing income for the 1998 and 1999 taxation years, the Appellant claimed a deduction for child support in the amount of $4,800 for 1998 and $1,440 for 1999.
+
+[5] The Minister of National Revenue (the "Minister") disallowed the deductions when assessing the Appellant.
+
+Respondent's Position
+
+[6] The right to deduct child support is derived from paragraph 60(b) of the Act. It reads:
+
+60 There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+
+...
+
+(b) support — the total of all amounts each of which is an amount determined by the formula
+
+A - (B + C)
+
+where
+
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+
+[7] By subsection 60.1(4), the definitions in subsection 56.1(4) apply to section 60. Subsection 56.1(4) refers to the deductibility of "support amount". Support amount is defined as follows:
+
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+[8] Counsel for the Respondent argues that the child support payments made were not deductible by the Appellant for the taxation years 1998 and 1999 as the payments were not "support amounts" as defined under paragraph 56.1(4)(b) and thus not deductible under paragraph 60(b). The Respondent submits that the Appellant is not entitled to the deductions because the support payments were not payable under an order made by a competent tribunal, in accordance with the laws of the province as required by paragraph 56.1(4)(b). The Respondent also submits that the deductions are not permitted under paragraph 56.1(4)(a) as the Appellant and Margaret Shawn Tamara Meyer ("Ms. Meyer") are not former spouses for the purposes of the Act.
+
+Analysis
+
+[9] The agreement entered into by the Appellant and Ms. Meyer was an agreement entered into under section 10 of the Maintenance and Recovery Act of Alberta ("Recovery Act") (Revised Statutes of Alberta, 1980, Chap. M-2). Subsection 10(1) of the Recovery Act reads:
+
+10(1) A putative father may enter into an agreement
+
+a) with the Director, or
+
+b) with the Director and the mother,
+
+whereby he undertakes to pay the whole or any part of all or any of the expenses referred to in section 21, if the amounts to be paid are acceptable to the Director and if the agreement contains the putative father's admission that he caused or possibly caused the pregnancy of the mother.
+
+[10] The 1986 agreement was entered into by the Appellant ("putative father"), Ms. Meyer (the "mother") and the Director under the authority of section 4 of the Maintenance Enforcement Act (the "Enforcement Act") (Statutes of Alberta, 1985, Chap. M-0.5) and was filed with the Court of Queen's Bench of Alberta.
+
+[11] Subsection 1(2) of the Enforcement Act reads:
+
+An agreement entered into under section 10 or 51 of the Maintenance and Recovery Act is deemed to be a maintenance order under this Act.
+
+Paragraph 1(1)(e) that Act reads:
+
+"maintenance order" means an order or interim order of a court in Alberta or an order, other than a provisional order that has not been confirmed, registered under the Reciprocal Enforcement of Maintenance Orders Act that has a provision requiring the payment of maintenance.
+
+Subsection 12(1) of that Act reads:
+
+The Director or a creditor may file with the Court of Queen's Bench a maintenance order that is not otherwise filed with the Court and, on being filed, the parts of the maintenance order that relate to maintenance are deemed to be a judgment of the Court of Queen's Bench.
+
+[12] The Respondent directed the Court to the decision of Fantini v. The Queen [1998] 2 C.T.C. 2256. The facts in that case are almost identical to the case at hand. In that case my colleague Bowman J. (as he then was) decided that the Alberta statute, which deemed a maintenance agreement to be an order by a court did not make it a court order for the purposes of the Income Tax Act. Bowman J. in his reasons for judgment stated:
+
+... Here we have the Minister of National Revenue seeking to transpose a provincial statutory fiction into a federal statute. That cannot be done. Of course Parliament could by appropriate language in a federal statute adopt, for the purposes of that statute, a provincial statutory fiction. That is not however what happened here. ...
+
+[13] I respectfully disagree with this position. By using the phrase "an order made by a competent tribunal in accordance with the laws of a province" in paragraph 56.1(4)(b) of the Act, Parliament has decided to transpose the laws of a province concerning orders into a federal statute. If the laws of a province operate to create a statutory fiction then it is not for the Minister to decide otherwise. The agreement therefore is a court order.
+
+[14] In the case of Hillis v. The Queen, 83 DTC 5365, Pratte J. of the Federal Court of Appeal determined that a deeming provision of a Saskatchewan statute could have that artificial meaning apply for the purposes of the Act. In the case of Dale v. The Queen, 97 DTC 5252, Robertson J. for the Federal Court of Appeal stated at page 5256:
+
+... If the legislature of a province authorizes its courts to deem something to have occurred on a date already past, then it is not for the Minister to undermine the legislation by refusing to recognize the clear effect of the deemed event. ...
+
+[15] I find that the Paternity Agreement of 1986 requiring the Appellant to pay child support in the amount of $120 per month is a court order for the purposes of paragraph 56.1(4)(b) of the Act. Paragraph 56.1(4)(b) provides that, for a payment to be considered a support amount, the payment must be receivable under an order made by a competent tribunal, in accordance with the laws of a province. Subsection 12(1) of the Enforcement Act deems the Paternity Agreement to be an order made by the court. The laws of the province of Alberta dictate that the agreement is to be deemed an order made by the court.
+
+[16] Accordingly, I find that the child support payments of $120 per month made by the Appellant to Ms. Meyer in the 1998 and 1999 taxation years were paid pursuant to an order made by a competent tribunal, in accordance with the laws of a province, as required by paragraph 56.1(4)(b), and is therefore deductible by the Appellant.
+
+[17] The Respondent also argued that the child support payments were not deductible, as the payments were not made to a former spouse. Under paragraph 56.1(4)(a), the payments of $120 per month were also made pursuant to a written agreement and the $280 per month support payments were also made pursuant to the amending written agreement of 1995 are not deductible because Ms. Meyer is not a "former spouse".
+
+[18] The definition of "spouse" is found in subsection 252(4) of the Act as it read in 1998 and 1999. The subsection reads as follows:
+
+In this Act,
+
+(a) words referring to a spouse at any time of a taxpayer include the person of the opposite sex who cohabits at that time with the taxpayer in a conjugal relationship and
+
+(i) has so cohabited with the taxpayer throughout a 12-month period ending before that time, or
+
+(ii) would be a parent of a child of whom the taxpayer would be a parent, if this Act were read without reference to paragraph (1)(e) and subparagraph (2)(a)(iii)
+
+and, for the purposes of this paragraph, where at any time the taxpayer and the person cohabit in a conjugal relationship, they shall, at any particular time after that time, be deemed to be cohabiting in a conjugal relationship unless they were not cohabiting at the particular time for a period of at least 90 days that includes the particular time because of a breakdown of their conjugal relationship;
+
+(b) references to marriage shall be read as if a conjugal relationship between 2 individuals who are, because of paragraph (a), spouses of each other were a marriage;
+
+(c) provisions that apply to a person who is married apply to a person who is, because of paragraph (a), a spouse of a taxpayer; and
+
+(d) provisions that apply to a person who is unmarried do not apply to a person who is, because of paragraph (a), a spouse of a taxpayer.
+
+[emphasis added]
+
+[19] This subsection was added in 1994 applicable after 1992. Under the transitional rule, this expanded meaning of "spouse" is to be read as being a part of the Act effective January 1, 1993. Since the Act is being read in this case in respect of payments made in the 1998 and 1999 taxation years, the expanded definition of "spouse" applies. In Scott v. Canada, [2001] T.C.J. No. 437 (Q.L.), a case with very similar facts. My colleague Hershfield J. stated at paragraph 7:
+
+... The expanded definition does not put a limit on how far to look back. To the contrary, it stipulates, in effect "any time" as the available look back time. The expanded definition applies at "any time" the relationship needs to be examined including relationships that started, or started and ended, prior to 1993 ... If Parliament had intended that common law relationships before 1993 could not be recognized, the cohabitation period referred to in subsection 252(4) could similarly have referenced relevant dates as to when the cohabitation had to commence or end. The effective date alone being 1993, does not do that in my view, at least in this case where the express language of the amended provision invites a construction that permits (dictates) examining a relationship "at any time" which, as stated, clearly includes a time before the effective date of the amendment. ...
+
+[20] I agree with the above analysis of the timing of the applicability of subsection 252(4). Section 140(4) of the Income Tax Amendments Revision Act (Schedule VIII, 1994, c. 7) introducing this amendment did not state that the conjugal relationship referred to in subsection 252(4) must have existed after 1992. The section simply states that subsection 252(4) is to apply after 1992.
+
+[21] The definition of "spouse" in subparagraph 252(4)(a)(ii) places the Appellant and Ms. Meyer as former spouses and therefore qualify as such for the purpose of determining "support amounts". Ms. Meyer is a person of the opposite sex who had cohabited with the Appellant, she and he being the parents of the child. Pursuant to paragraph 56.1(4)(a), the $400 in child support paid per month pursuant to the written agreement entered into on August 28, 1986 and amended on November 30, 1995 are deductible by the Appellant, as the payments were receivable by a former spouse (as defined by subparagraph 252(4)(a)(ii)) under a written agreement entered into in 1986 and amended in writing in 1995.
+
+[22] For these reasons the appeals are allowed, with costs, and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct from income the amounts of $4,800 and $1,440, in 1998 and 1999 respectively, paid as support to Margaret Shawn Tamara Meyer for the benefit of their child Christopher Brad Meyer born on November 4, 1984.
+
+Signed at Ottawa, Canada, this 24th day of September, 2001
+
+"Gordon Teskey"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-1203(IT)I
+
+STYLE OF CAUSE: Darrell B. Hollands and The Queen
+
+PLACE OF HEARING: Edmonton, Alberta
+
+DATE OF HEARING: August 22, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Gordon Teskey
+
+DATE OF JUDGMENT: September 24, 2001
+
+APPEARANCES:
+
+Agent for the Appellant: Karen Hollands
+
+Counsel for the Respondent: Mark Heseltine
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-1203(IT)I
+
+BETWEEN:
+
+DARRELL B. HOLLANDS
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on August 22, 2001 at Edmonton, Alberta, by
+
+the Honourable Judge Gordon Teskey
+
+Appearances
+
+Agent for the Appellant: Karen Hollands
+
+Counsel for the Respondent: Mark Heseltine
+
+JUDGMENT
+
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, with costs, and the assessments are referred back to the Minister for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 24th day of September 2001.
+
+"Gordon Teskey"
+
+J.T.C.C.
+

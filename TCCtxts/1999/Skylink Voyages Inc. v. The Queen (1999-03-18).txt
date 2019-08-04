@@ -1,0 +1,240 @@
+Date: 19990317
+
+Docket: 96-4400-GST-G
+
+BETWEEN:
+
+SKYLINK VOYAGES INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Archambault, J.T.C.C.
+
+[1] During the relevant period, namely from September 1, 1991 to July 31, 1995, Skylink Voyages Inc. (Skylink) operated a wholesale travel agency, essentially acting as an intermediary between airlines and retail travel agencies (retail agencies). The Quebec Minister of Revenue issued on behalf of the Minister of National Revenue (Minister) a notice of assessment under the Excise Tax Act (Act) for the relevant period. The Minister determined that Skylink should have collected the goods and services tax (GST) in respect of collection charges (collection charges) for amounts owed by credit card issuers (issuers) and charges for the cancellation of airline reservations (cancellation charges), which charges are billed to retail agencies.
+
+[2] In its Notice of Appeal, Skylink claims that no GST is owed in respect of the collection charges because they are for a financial service which is not subject to the GST. It also claims that the cancellation charges are zero-rated because they relate to travel to destinations outside Canada and the United States. In its argument at the hearing, Skylink abandoned this last argument and claimed instead that it had not provided any service and that it was therefore not required to collect the GST on cancellation charges.
+
+Facts
+
+[3] Skylink is a registered supplier for the purposes of the Act. For a better understanding of the nature of the services provided by Skylink which are the subject of the dispute in the instant case, it is helpful to describe the circumstances in which they were provided. Generally speaking, when a customer wishes to travel by air outside Canada, he contacts a retail agency. That agency then turns to Skylink to reserve a seat with an airline. To meet the needs of the customer in question, Skylink consults the reservation systems of various airlines by computer. Once it has found a flight that may suit the retail agency's customer, Skylink reserves a seat for a 10-day period and notifies the retail agency that it has done so.
+
+[4] If the reservation suits the customer, the retail agency then asks him to pay the ticket price. Payment is usually made by credit card. In some instances, the retail agency has no agreement with the issuer of the credit card used by its customer and so asks Skylink to act as an intermediary by claiming the price of the airline ticket from the issuer. Thus it is Skylink, and not the retail agency as would normally be the case, whose name appears as the merchant on the slip or small receipt attesting the credit card payment.
+
+[5] It is also Skylink that issues the airline ticket on behalf of the airline selected. In addition to the usual information there appears on the ticket the following: "Skylink Voyages / Agent / Coupon / Agency". According to the agreements with the airlines, Skylink receives a commission from the airline for issuing the ticket. This compensation appears under the heading "commission" on the ticket copies that were filed as exhibits at the hearing.[1]
+
+[6] Skylink then sends the retail agency the ticket along with an invoice separately showing the ticket price and the amount of taxes and the collection charges. The collection charges were a lump sum of $15 which, according to Skylink's estimate, merely reimbursed it for the 2.2 to 3 percent discount which the issuer deducted from the amount on the credit card slip. According to Micheline Sinnett, a Skylink employee, that company makes no profit on these collection charges. However, she did not provide any figures or supporting documentation.
+
+[7] Ms. Sinnett confirmed that, in certain circumstances, Skylink had to absorb the loss resulting from non-payment of the invoice by the issuer or, if the payment was made, from any reimbursement of the amount to the issuer by Skylink. Such a situation could arise if a customer ordered a ticket by telephone, did not sign the credit card slip and refused to acknowledge that he had used his credit card to purchase the airline ticket. In those circumstances, issuers give the customer the benefit of the doubt. Skylink then asks the retail agency to repay it the amount that the issuer refused to pay or that Skylink has had to pay back to the issuer. However, if the retail agency has declared bankruptcy or if for some other reason it becomes impossible to obtain reimbursement from the retail agency, Skylink must absorb the loss.
+
+[8] If a passenger decides to cancel shortly¾generally less than one week¾ after making a reservation, the retail agency must pay Skylink certain charges, which also appear separately on the invoice forwarded to the retail agency by Skylink. These charges may be indicated as a penalty, as cancellation charges or, when the cancelled ticket is replaced by another, as replacement charges. The amount of the charges is generally agreed upon in advance between the retail agency and Skylink, that is, when the ticket is ordered by the retail agency. When a seat reservation is cancelled in such circumstances, Skylink receives no commission from the airlines since no ticket has yet been issued. If the cancellation occurs after the ticket has been issued, cancellation charges are owed solely to the airline. In that instance, the retail agency is not required to pay Skylink a penalty.
+
+Analysis
+
+Cancellation charges
+
+[9] First I would like to address what I believe is the easiest question, that of the cancellation charges. Counsel for Skylink claimed that cancellation charges are not subject to any GST because there has been no taxable supply and the existence of such a supply is the essential condition for the application of the tax provided for under section 165 of the Act.
+
+[10] It is perfectly clear that no GST is payable if no taxable supply was made by Skylink. Consequently, it must be determined here whether such a supply was made. In section 123 of the Act, "taxable supply" is defined as "a supply that is made in the course of a commercial activity". In that same section, a "supply" is defined as follows: "subject to sections 133 and 134, the provision of property or a service in any manner, including the sale, transfer, barter, exchange, licence, rental, lease, gift or disposition."
+
+[11] We will now analyze the legal framework in which Skylink provides its services. Skylink's business is to act as an intermediary between retail agencies and the airlines. At the retail agencies' request, Skylink consults the reservation systems of various airlines and reserves a seat for the retail agency's customer. If the reservation suits the customer, the ticket is issued by Skylink as the airline's mandatary and Skylink is paid by the airline.
+
+[12] However, if no ticket is issued by the airline, Skylink is not entitled to a commission. And yet Skylink has provided services: it has done the necessary searches in the airlines' reservation systems and made a reservation. Services have been provided, but it receives no remuneration from an airline. It is therefore not surprising that Skylink has agreed with the retail agencies that, in such circumstances, those agencies should pay Skylink for its services. Regardless of whether that payment be characterized as cancellation charges, a penalty or replacement charges, its true nature is remuneration for services which Skylink has provided to the retail agencies.
+
+[13] Counsel for Skylink attempted to liken these cancellation charges to a fine for a violation of the Highway Safety Code, relying in particular on the decision rendered in 152633 Canada Inc. (Sako Auto Leasing) v. The Queen, [1997] G.S.T.C. 50. In that case, my colleague Judge Lamarre held that a fine paid for such a violation does not constitute a service contemplated by the Act. In my opinion, the penalty charged to the retail agencies by Skylink cannot be equated with a fine paid for a violation of the Highway Safety Code. The true nature of the penalty is that it is a fee for the provision of services. Sako Auto Leasing is thus not applicable in the instant case.
+
+[14] Consequently, I believe that Skylink's arguments are without foundation. In this case, Skylink provided services to travel agencies. These services were provided in Canada and were not tax-exempt. Skylink should have collected the GST in respect of the cancellation charges, penalty charges and replacement charges.
+
+Collection charges
+
+[15] There remains the question of the collection charges which Skylink billed to the retail agencies. Counsel for Skylink advanced three arguments in support of its claims. The first is based on the premise that the collection charges are in the nature of fees for services rather than an expense. These fees were paid for financial services within the meaning of either paragraphs (i) and (l) of the definition of "financial service" in section 123 of the Act or paragraphs (m) and (t) of that same definition. I reproduce hereunder the most relevant parts of that definition:
+
+"financial service" means
+
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+
+. . .
+
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+
+. . .
+
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+
+. . .
+
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+
+. . .
+
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+
+(m) a prescribed service,
+
+but does not include
+
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+
+. . .
+
+(t) a prescribed service.
+
+[My emphasis.]
+
+[16] Counsel's second argument was that the collection charges were incurred by Skylink as the mandatary of the retail agencies. This argument is based on the premise that the collection charges are in the nature of a disbursement made in supplying a service (for example, an airline reservation). The final argument was that these charges were not billed for "supplies" within the meaning of the Act.
+
+[17] Generally speaking, financial services are exempt supplies not subject to the GST.[2] Hence the importance of determining whether the service provided by Skylink constitutes a "financial service" under the definition of that expression in the Act. This definition is also important for an understanding of the second part of Skylink's argument, that is to say that Skylink was acting as the travel agencies' mandatary. I intend to decide this question first.
+
+[18] The services that constitute a "financial service" within the meaning of section 123 of the Act include those provided by an issuer pursuant to an agreement respecting the payment of the amount of a credit card slip. It is therefore clear that no GST is payable in respect of the discount which the issuer takes in paying Skylink the amount indicated on the slip signed by a customer. If this service provided by the issuer had been provided directly to the retail agency, the result would have been the same: the supply would also have been exempt.
+
+[19] The Minister claims that, if the discount taken by the issuer on payment of the amount of the credit card slip to Skylink is in the nature of a disbursement which Skylink collects from the retail agencies, the amount so collected is subject to the GST. One can understand why this might trouble Skylink since, in such instances, it would not be permitted to do indirectly what it can do directly. However, section 178 of the Act[3] supports the Minister's position. Generally speaking, the amount which the recipient of a service repays to the supplier for costs incurred in making the supply is deemed to be part of the consideration for the supply. However, there is an exception, namely where the supplier has incurred these charges as the recipient's mandatary.
+
+[20] In the case at bar, Skylink wishes to invoke this exception, arguing that it claimed payment of the amount of the credit card slip as the retail agency's agent.
+
+[21] As Judge Kempo stated at the end of her judgment in Parkland Crane Service Ltd., [1994] GTC 1067, the burden of proving that there was a mandator-mandatary relationship is on the taxpayer who alleges it. Under the Civil Code of Quebec (C.C.Q.), such a relationship clearly exists under a contract of mandate. Articles 2130 ff. of the C.C.Q. deal with this type of contract. Mandate is defined in article 2130 as "a contract by which a person, the mandator, empowers another person, the mandatary, to represent him in the performance of a juridical act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power".
+
+[22] No evidence was adduced in this case to establish the existence of such a contractual relationship between the retail agencies and Skylink. It was not established that Skylink had agreed with the retail agencies that it would act as their mandatary by requesting payment from the issuers. Nor is there any evidence that Skylink informed the issuers that it was acting as the retail agencies' mandatary.[4]
+
+[23] In addition, the fact that Skylink did not ask the retail agency for reimbursement of the exact amount of the expense it incurred on the retail agency's behalf raises a serious doubt as to whether such a mandate existed. The $15 billed for each collection of an amount owed to a retail agency more closely resembles a fee for services than a disbursement made in the supply of a service. Consequently, I do not believe that this argument can be accepted.
+
+[24] Counsel for Skylink argued that, even if Skylink was not acting as a mandatary, it provided a "financial service" to the retail agencies by agreeing to act as an intermediary to obtain payment of the amount of the credit card slip. For a clearer understanding of the legal framework of the relationship between a customer and the issuer on the one hand and the issuer and a merchant on the other, it would be appropriate to cite Nicole L'Heureux, Droit de la consommation, 4e édition, Les Éditions Yvon Blais Ltée, Cowansville, who describes these relationships, which she characterizes as triangular, as follows at pages 141 and 142:
+
+[TRANSLATION]
+
+Credit cards enable merchants to receive the price of goods or services provided, not from the purchaser cardholder, but from the issuer. How can this involvement of the issuer be explained? The payment by the issuer has the appearance of a prepayment resulting from an advance of funds to the customer which the issuer must then recover from its customer for the vendor or the supplier of goods and services. The issuer plays the role of intermediary between the merchant and the cardholder, who, by virtue of the contract between the issuer and the merchant, does not immediately pay for his purchase. He receives credit from the issuer, and also from the merchant who participates in the transaction.
+
+This is a sui generis contract, called a variable credit contract, a kind of framework agreement enabling the issuer to advance credit to a specific person and to become the assignee of the claims of the vendor or of the supplier of services to that person.
+
+[My emphasis.]
+
+[25] In this passage, the issuer is described as the "assignee of the claims of the vendor or of the supplier of services". The mini-bill thus becomes a debt instrument which the supplier transfers to the issuer in exchange for payment of the amount of money owed it.
+
+[26] In the instant case, an intermediary, Skylink, was added to this triangular relationship. Skylink came between the merchant (the retail agency), which made the sale to its customer, and the issuer. Skylink did not seek payment of the credit card slip amount for its own benefit, but rather for the benefit of the retail agency. Skylink moreover passed on to the agency the cost represented by the issuer's discount.[5]
+
+[27] When Skylink obtains from the issuer payment of an amount owed by the customer to the retail agency for the price of the airline ticket, this service appears to me to be in the nature of a collection service. In consideration of this service, Skylink charges the amount of $15, which roughly corresponds to the discount deducted when the credit card slip is submitted to the issuer. It seems to me that this service is provided here more to oblige the retail agency than to make a profit. Skylink's remuneration consists of the commissions it receives from the airlines for issuing airline tickets.
+
+[28] In thus acting as an intermediary in the collection of the amount of the credit card slip, does Skylink provide a "financial service" within the meaning of section 123 of the Act? First of all, I must note that the wording of the definition of that term is far from clear. Even after a number of readings, it is difficult to understand its entire scope. How then can ordinary taxpayers grasp the extent of their tax liabilities?[6] Tax provisions should be drafted so that ordinary people can readily understand them without having to expend excessive amounts of time or money.
+
+[29] In the instant case, I believe that the service provided by Skylink is that described in paragraph (l) of the definition of "financial service". Skylink did indeed arrange for one of the services described in paragraphs (a) to (i) of that definition. More specifically, paragraph (l) could be combined with paragraphs (a), (d) or (i) of the definition, and the service provided by Skylink could thus be described as "arranging for the receipt of money [by the retail agent] by crediting accounts [of the banking company]" (paragraphs (l) and (a)).
+
+[30] The service provided by Skylink could also be described as "arranging for the transfer of ownership or repayment of a financial instrument" (paragraphs (l) and (d)). According to section 123 of the Act, a "financial instrument" includes a "debt security", which means a "right to be paid ". In the instant case, the credit card slip is that financial instrument and it gave Skylink, which submitted it to the issuer, the right to receive the amount indicated thereon.
+
+[31] However, the most apposite combination appears to me to be that of paragraphs (l) and (i): Skylink was "arranging for a service provided pursuant to the terms and conditions of an agreement relating to payments of amounts for which a credit card voucher was issued". Skylink obtained payment of the amount of the credit card slip from the issuer pursuant to the obligation that the issuer had toward the credit card holder.
+
+[32] Even though it can be concluded that the service provided by Skylink constituted one of the services described in paragraphs (a) to (m) of the definition of "financial service", it is important to determine whether that service is excluded under paragraphs (n) to (t). In my view, paragraph (n) does not apply here since Skylink arranged not for obtaining payment of the ticket price, but rather for obtaining payment of the amount of the credit card slip by the issuer.
+
+[33] The only other paragraph that could apply in the instant case is paragraph (t), which concerns prescribed services. The services contemplated by paragraph (t) are set out in section 4 of the Financial Services (GST) Regulations (Regulations), which, at the relevant time, read as follows:[7]
+
+4. (1) In this section,
+
+"instrument" means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+
+"person at risk", in respect of an instrument in relation to which a service referred to in subsection (2) is provided, means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or of a guarantee, an acceptance or an indemnity in respect of that instrument.
+
+(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+
+(a) the transfer, collection or processing of information, and
+
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+
+(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+
+(a) a person at risk;
+
+. . .
+
+[My emphasis.]
+
+[34] The wording of paragraph 4(2)(b) of the Regulations, like that of the definition of "financial service", does not seem to me to be very clear. Are the services provided by Skylink in collecting the amount of a credit card slip in the nature of an administrative service? This expression is not defined. In a broad sense, the collection service provided by Skylink could be recognized as constituting such a service. However, not all administrative services are excluded from the definition of "financial service" under paragraph (t). First of all, "any administrative service that is solely the making of the payment or the taking of the receipt [...] of other amounts"is not a prescribed service. Furthermore, an administrative service provided by a person at risk as defined in subsection 4(1) of the Regulations is also not excluded from the definition of "financial service".
+
+[35] For a better understanding of the scope of these Regulations, it is helpful to cite the backgrounder accompanying the draft regulations on financial services[8] which the Minister of Finance made public in press release No. 90-141 on October 25, 1990. The Minister stated the following in section 4 of that document:
+
+The Financial Services (GST) Regulations will also exclude certain services from the definition "financial service". This exclusion will only apply to services that would otherwise be included by virtue of paragraphs (a) to (l) of subsection 123(1) of the amended Excise Tax Act. The distinction between financial and other types of services is not always straightforward -- for example, data processing and administrative services offered in conjunction with a financial transaction could be considered to be part of the financial service or separate administrative services. These Regulations will exclude from the definition "financial service" specified administrative services provided by certain third parties in conjunction with financial services. Thus, where a financial institution provides a financial service such as a loan, but debt collection services in relation to the loan are provided by a third party, the debt collection service will not be considered to be a financial service and will be fully taxable. [My emphasis.]
+
+[36] This backgrounder is consistent with the more explicit one that the Minister of Finance had previously made public in August 1990 in his press release no. 90-103, in which he stated that the collection by a bank of an amount it has lent constitutes a financial service while the debt collection services provided by third parties are not financial services and are therefore taxable supplies. The Minister wrote as follows in that previous backgrounder:
+
+B. Third-Party Administrative Services
+
+. . .
+
+For example, certain administrative activities -- such as the collection of amounts by a bank in connection with a loan which was issued by the bank and the mailing out of monthly statements by that bank -- cannot really be separated from the service of providing the loan itself. Such activities are clearly exempt under paragraphs (a) to (l) of the definition of a financial service and will remain exempt.
+
+However, financial institutions sometimes provide data processing or administrative services in respect of financial services or instruments, but do not provide the underlying financial instrument -- the services are provided on a third-party basis by the financial institutions. Examples include debt collection services and administrative-services-only (ASO) provided in respect of health insurance services. Under a broad based sales tax, these types of services should be taxable.
+
+As a result, services which are purely administrative and provided on a third-party basis will be excluded from the definition of a financial service as a result of a regulation to be issued under paragraph (t) of the definition of a financial service. This regulation will provide that these services be taxable and will thereby further clarify the application of the tax in this area.
+
+[My emphasis.]
+
+[37] In light of this backgrounder, but at the same time recognizing the predominance of the wording of the provisions in force during the relevant years, one may wonder to what extent the collection service provided by Skylink can be considered as a service contemplated by paragraph (t) of the definition of "financial service".
+
+[38] First of all, it must be determined whether this service was an administrative service that was "solely the . . . taking of the receipt . . . of other amounts". It seems to me that the answer must be that they were. I do not see here any other kind of service. To collect the amount of the credit card slip, Skylink forwarded it to the issuer. Once it received payment from the issuer, Skylink handed the money over to the retail agency. These are all actions that must be taken to collect on a claim. If this interpretation is valid, the collection service provided by Skylink is not excluded from the definition of "financial service". And yet that does not appear to be consistent with the purpose stated by the Minister of Finance in the backgrounder cited above because the service in question here is a collection service provided by a third party. However, the text I must apply is that of the Regulations, not that of the backgrounder accompanying the draft regulations.
+
+[39] If my interpretation of paragraph 4(2)(b) of the Regulations were to prove incorrect, the question would then arise as to the applicability of the second exception. In my opinion, the administrative services provided by Skylink were so provided by a person at risk. Skylink is exposed to a financial risk by virtue of the acquisition, ownership or issuance of an instrument (the credit card slip) in relation to which the administrative service was provided. In my opinion, Skylink acquired the credit card slip with a view to collecting on it for the retail agency's benefit. As I have concluded that, in so doing, Skylink was not acting as the retail agency's mandatary, it goes without saying that Skylink is the owner of the credit card slip. In transferring it to the issuer, Skylink wanted to obtain payment of the amount appearing thereon.
+
+[40] By accepting ownership of the credit card slip, Skylink took a financial risk, albeit a slight one. Under the terms and conditions of its agreement with the issuer, Skylink could be required to pay back to the issuer the amount of the credit card slip. For example, if a customer does not sign the slip and disputes its validity, the issuer is entitled to require Skylink to repay it the amount appearing on the slip. As a rule, Skylink will recover this amount from the retail agency. However, in some instances, as a result of bankruptcy or for some other reason, the retail agency may be unable to reimburse Skylink. Ultimately, Skylink is exposed to the financial risk arising from the supply of administrative services with regard to the collection of the amount of the credit card slip.
+
+[41] Consequently, in my view, the exclusion provided for in paragraph (t) of the definition of "financial service" in section 123 of the Act does not apply to the circumstances of this appeal. As the collection services provided to the retail agencies by Skylink constitute financial services which are exempt supplies, Skylink did not have to collect the GST.
+
+[42] In view of the foregoing, it is not necessary to comment on the other arguments put forward by counsel for Skylink.
+
+[43] For these reasons, Skylink's appeal is allowed and the notice of assessment is referred back to the Minister for reconsideration and reassessment on the basis that the cancellation charges constitute taxable supplies and the collection charges constitute exempt supplies. The appellant is entitled to its costs.
+
+Signed at Ottawa, Canada, this 17th day of March 1999.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 14th day of January 2000.
+
+Erich Klein, Revisor
+
+[1] The amounts were in fact erased for reasons of confidentiality before the copies were filed at the hearing.
+
+[2] According to section 165 of the Act, GST is payable in respect of a "taxable supply", which means a supply that is made in the course of a commercial activity. A commercial activity means "a business carried on by [a] person . . . except to the extent to which the business involves the making of exempt supplies by the person". The "exempt supply" referred to here is that covered in Schedule V of the Act. Financial services appear in Part VII of that schedule.
+
+[3] Section 178 of the Act was repealed on April 24, 1996, however, that provision is considered merely to have reiterated an already recognized common law rule.
+
+[4] A mandatary is clearly not obligated to reveal to the third person with whom he contracts that he is acting as a mandatary. In such cases, he is liable to the third person as though he had acted in his own name. See article 2157 of the C.C.Q.
+
+[5] The cost of the discount must generally be borne by the merchant, who does not pass it on directly to his customer. This cost is part of the merchant's overhead. Ms. L'Heureux writes as follows in her aforementioned work, at page 143:
+
+[TRANSLATION]
+
+Merchants who accept credit card payments at their establishments must bear the cost of the discount on each credit card slip for which they request payment from the issuer. The discount rate generally varies according to the volume of business which the merchant transacts with the issuer. This cost is allocated over the merchant's operations as a whole.
+
+[6] In view of the fact that these are highly specialized and often very technical matters, I dare hope that financial institutions are better able to understand their scope.
+
+[7] It should be noted that, on November 5, 1991, the Minister of Finance stated in a press release that he intended to amend the definition of "person at risk". However, it was not until October 1998 that the draft regulations were made public, and these regulations had not yet come into force when these reasons were signed. It should be mentioned that, once they do, their effect will be retroactive to December 31, 1990. The parties did not mention the application of these draft regulations in their argument. For my part, I do not see how I could consider them since they have not yet been passed by the Governor in Council and are not in force at the time of the making of this decision.
+
+[8] These draft regulations are quite similar to those that were in fact passed. The relevant provisions of the draft regulations are as follows:
+
+3. (1) In this section,
+
+"instrument" means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+
+"person at risk" means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of an instrument in respect of which a service referred to in paragraph (2)(a) or (b), as the case may be, is provided, or by virtue of the acquisition, ownership or issuance by that person of a guarantee, an acceptance or an indemnity in respect of that instrument.
+
+(2) The following services, other than the services described in section 2, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Excise Tax Act:
+
+(a) the transfer, collection or processing of information and,
+
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely making the payment or taking the receipt,
+
+except where the service is supplied with respect to an instrument by
+
+(c) a person at risk,
+
+(d) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or a person closely related to the person at risk, or
+
+(e) an agent, salesperson or broker in relation to the transfer of ownership of an instrument for a person at risk or a person closely related to the person at risk.
+

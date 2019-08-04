@@ -1,0 +1,114 @@
+Date: 19971205
+
+Docket: 96-3863-IT-I
+
+BETWEEN:
+
+SHEILA FANTINI,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the 1993 and 1994 taxation years. They involve a narrow question of law concerning the effect on a provision of the Income Tax Act of a deeming provision in a provincial statute.
+
+[2] On July 28, 1993, the appellant and Stephen Woodburn entered into a Maintenance Agreement under the Alberta Parentage and Maintenance Act. Mr. Woodburn acknowledged that he was or may be the father of Sheila Fantini’s child, Tiara Fantini who was born on January 7, 1993. He agreed to pay to the appellant $300 per month for the child’s maintenance until the child’s 18th birthday. The appellant and Stephen Woodburn were never married and never lived together.
+
+[3] The agreement was witnessed and affidavits of execution were sworn before a commissioner for oaths. The agreement was an agreement entered into under section 6 of the Parentage and Maintenance Act of Alberta (Statutes of Alberta 1990, Chap. P-0.7). Section 6 of that Act reads:
+
+6(1) A parent may enter into an agreement in the form prescribed in the regulations with
+
+(a) the Director,
+
+(b) the other parent, or
+
+(c) any other person having the care and control of the parent’s child,
+
+whereby the parent agrees to pay any or all of the expenses referred to in subsection (2).
+
+(2) An agreement may refer to any or all of the following expenses:
+
+(a) reasonable expenses for the maintenance of the mother
+
+(i) during a period not exceeding 3 months preceding the birth of the child,
+
+(ii) at the birth of the child, and
+
+(iii) during a period after the birth of the child;
+
+(b) reasonable expenses for the maintenance of the child before the date of the agreement;
+
+(c) monthly or periodic payments for the maintenance of the child until the child reaches the age of 18 years;
+
+(d) expenses of the burial of the child if the child dies before the date of the agreement;
+
+(e) expenses incurred for the purpose of determining parentage.
+
+(3) An agreement may provide that the liability of a parent for the expenses referred to in subsection (2), other than for the maintenance of a child under subsection (2)(c), shall be satisfied by the payment of an amount specified in the agreement.
+
+(4) An agreement to which a father is a party must contain his acknowledgment that he is or may be the father.
+
+(5) The parties to a filed agreement may vary the agreement at any time by entering into a new agreement and filing the new agreement with the Director of Maintenance Enforcement.
+
+(6) An agreement that is not entered into in accordance with this section does not prevent a person from making an application under section 7.
+
+[4] The agreement was filed with the Director of Maintenance Enforcement and also with the Court of Queen’s Bench of Alberta.
+
+[5] Subsection 1(2) of the Maintenance Enforcement Act of Alberta (Statutes of Alberta 1985, Chap. M-0.5) reads:
+
+(2) An agreement entered into under section 6 of the Parentage and Maintenance Act or section 51 of the Income Support Recovery Act is deemed to be a maintenance order under this Act.
+
+[6] Paragraph 1(1)(e) of that Act reads:
+
+(e) “maintenance order” means an order or interim order of a court in Alberta or an order, other than a provisional order that has not been confirmed, registered under the Reciprocal Enforcement of Maintenance Orders Act that has a provision requiring the payment of maintenance.
+
+[7] Subsection 12(1) of that Act reads:
+
+12(1) The Director or a creditor may file with the Court of Queen’s Bench a maintenance order that is not otherwise filed with the Court and, on being filed, the parts of the maintenance order that relate to maintenance are deemed to be a judgment of the Court of Queen’s Bench.
+
+[8] The payments were duly made to the appellant by Mr. Woodburn in 1993 and 1994. In fact, there was no order of any court.
+
+[9] The Minister of National Revenue has taxed the payments, which amount to $1,200 in 1993 and $3,600 in 1994, in the appellant’s hands under paragraph 56(1)(c) of the Income Tax Act which read as follows in the years in question:
+
+56.(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+...
+
+(c) an amount received by the taxpayer in the year as an allowance payable on a periodic basis for the maintenance of the taxpayer, children of the taxpayer or both the taxpayer and the children if
+
+(i) at the time the amount was received and throughout the remainder of the year the taxpayer was living separate and apart from the person who was required to make the payment,
+
+(ii) the person who was required to make the payment is the natural parent of a child of the taxpayer, and
+
+(iii) the amount was received under an order made by a competent tribunal in accordance with the laws of a province.
+
+[10] Counsel for the appellant put in evidence a technical interpretation, an interpretation bulletin and an opinion of the Department of Justice, all to the effect that payments made under such agreements, even though enforceable as an order of the court, do not meet the requirement of having been “received under an order made by a competent tribunal in accordance with the laws of a province”.
+
+[11] It was stated in Nowegijick v. The Queen et al., 83 DTC 5041 (S.C.C.) at 5044, referring to Harel v. The Deputy Minister of Revenue of the Province of Quebec, [1978] 1 S.C.R. 851, that “administrative policy and interpretation are not determinative but are entitled to weight and can be an “important factor” in case of doubt about the meaning of legislation.”
+
+[12] It is rare that one needs to refer to administrative policy and interpretation. Generally I am reluctant to cast doubt on an administrative practice that is reasonable and beneficial to the taxpayer but ultimately it is the court that must decide. In this case I completely agree with the policy. It is not clear whether this case represents a change in policy or is merely an aberration. In any event the appellant should not have been assessed as she was.
+
+[13] There was in fact no court order that the father make the payments in question. The fact that a provincial statute deems a maintenance agreement to be an order made by court (obviously for the purposes of the Maintenance Enforcement Act) does not make it an order for purposes of the federal Income Tax Act. This is not a constitutional matter of legislative competence. It is a simple matter of statutory construction. As James L.J. said in Ex parte Walton; In re Levy, 17 Ch. D. 746 at 756:
+
+When a statute enacts that something shall be deemed to have been done, which in fact and truth was not done, the Court is entitled and bound to ascertain for what purposes and between what persons the statutory fiction is to be resorted to.
+
+[14] That observation was made in the context of the interpretation of one statute. It applies a fortiori in this case. Here we have the Minister of National Revenue seeking to transpose a provincial statutory fiction into a federal statute. That cannot be done. Of course Parliament could by appropriate language in a federal statute adopt, for the purposes of that statute, a provincial statutory fiction. That is not however what happened here. The point seems self-evident.
+
+[15] I am not unmindful of the decision of the Federal Court of Appeal in Hillis v. The Queen, 83 DTC 5365 where the effect of a deeming provision in a Saskatchewan statute was considered in relation to when an estate became indefeasibly vested. This I think is an illustration of the principle, as stated in Dale v. The Queen, 97 DTC 5252, that the Minister takes legal relationships between subjects as he finds them and they are in most cases governed by provincial law. It does not follow from that case that something that is deemed to by something that it is not for the purposes of a provincial statute can have that artificial meaning apply for the purposes of the Income Tax Act.
+
+[16] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment to delete from the appellant’s income for 1993 and 1994 the amounts of $1,200 and $3,600 respectively.
+
+[17] Counsel for the appellant asked that before I render judgment he be given an opportunity to speak to costs. I would ask that the parties communicate with the court as soon as possible to deal with the matter of costs. The matter can be dealt with by conference call.
+
+Signed at Ottawa, Canada, this 5th day of December 1997.
+
+J.T.C.C.
+

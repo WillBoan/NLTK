@@ -1,0 +1,274 @@
+Date: 20011130
+
+Docket: 1999-2167-IT-G
+
+BETWEEN:
+
+TOD T. MANRELL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+____________________________________________________________________
+
+Counsel for the Appellant: Werner H.G. Heinrich and David Graham
+
+Counsel for the Respondent: Peter M. Kremer and Rosemary Fincham
+
+____________________________________________________________________
+
+
+
+Reasonsfor Judgment
+
+(Delivered orally from the Bench at Vancouver, British Columbia, on October 25, 2001)
+
+McArthur J.
+
+[1] These appeals are from assessments of tax for the 1996 and 1997 taxation years. The issue is whether payments under a non-competition agreement are taxable on capital account or whether they constitute a non-taxable receipt. I commend counsel for the parties for narrowing the issues in an Agreed Statement of Facts, the relevant paragraphs of which are as follows:
+
+1. The Appellant is a businessman.
+
+2. The Appellant is the sole shareholder of Llernam Holdings Ltd. ("Llernam Holdings").
+
+3. Llernam Holdings is the sole shareholder of Allwest Industries Incorporated ("Allwest") and an 80% shareholder of 322597 BC Ltd. ("322597).
+
+4. Allwest was the sole shareholder of BC Plastic Industries Ltd. ("BC Plastic") prior to June 16, 1995.
+
+5. 322597 was a 50% shareholder of Canada Cap Snap Corporation ("Cap Snap") prior to June 16, 1995.
+
+6. The Appellant was also a 70% shareholder in Alberta Plastic Industries Ltd. ("Alberta Plastic") prior to June 16, 1995.
+
+7. ...
+
+8. BC Plastic and Alberta Plastic manufacture plastic moulds while Cap Snap manufactures caps for those moulds.
+
+9. The Appellant, Allwest, 322597, Bob Williamson, and Bruce Gallop (collectively, the "Vendors") entered into an agreement dated June 16, 1995 (the "Share Purchase Agreement") to sell their respective shares (the "Shares") in Alberta Plastic, BC Plastic and Cap Snap (collectively, the "Companies") to 3154823 Canada Inc. (the "Purchaser").
+
+10. The Vendors and the Purchaser dealt at arm's length.
+
+11. ...
+
+12. The Share Purchase Agreement (section 2.2) specified, inter alia, that the Vendors be paid the sum of $14,626,000 for their shares and shareholder loans.
+
+13. The Appellant received total proceeds of $3,927,078 for his shares and on account of amounts due to the shareholders under the Share Purchase Agreement.
+
+14. It was a condition of the sale of the Shares that the Appellant, Gallop, Williamson, Llernam Holdings, Allwest and 322597 BC Ltd. enter into non-competition agreements with the Purchaser and the companies being sold. ...
+
+15. The $3,438,699 consideration received by the Appellant for entering into the Non-Competition Agreement was allocated as follows:
+
+(i) Appellant $979,575
+
+(ii) Allwest 2,193,193
+
+(iii) 322597 265,932
+
+16. The Appellant's $979,575 in non-competition payments were paid to him in four annual instalments of $244,894 beginning on June 16, 1995.
+
+17. The Appellant reported the non-competition payments as proceeds of disposition of shares in accordance with paragraph 6 of Revenue Canada's Interpretation Bulletin IT-330R. ...
+
+18. The Appellant reported the amount of $244,894 of the $979,575 payable under the Non-Competition Agreement as a capital gain in his return of income for his 1995 taxation year and claimed a $734,681 capital gain reserve in respect of the balance of the instalments payable.
+
+19. The Appellant included the instalment payments of $244,894 received in each of his 1996 and 1997 taxation years in income and debited his capital gain reserve by the said amounts in each of the said years.
+
+20. ...
+
+21. The Minister of National Revenue (the "Minister") initially assessed the Appellant by notices of assessment dated May 20, 1997 for his 1996 taxation year and June 18, 1998 for his 1997 taxation year on the basis the returns were correct as filed.
+
+22. The Appellant objected to the said assessments by notices of objection. ...
+
+23. The Minister confirmed the said assessments by notice of confirmation dated January 22, 1999. ...
+
+The exhibits referred as attachments to the Agreed Statement of Facts have not been reproduced but relevant extractions are quoted later.
+
+[2] The facts having been agreed to, the parties provided written arguments and made oral submissions at the hearing. The relevant provisions of the Income Tax Act are subparagraph 3(b)(i)(A), section 38, subsections 39(1) and 248(1) - definition of "property", and section 54 -definition of "disposition". These sections read in part as follows:
+
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+
+(a) ...
+
+(b) determine the amount, if any, by which
+
+(i) the total of
+
+(A) all of the taxpayer's taxable capital gains for the year from dispositions of property other than listed personal property, and
+
+...
+
+38 For the purposes of this Act,
+
+(a) a taxpayer's taxable capital gain for a taxation year from the disposition of any property is 3/4 of the taxpayer's capital gain for the year from the disposition of that property;
+
+39(1) For the purposes of this Act,
+
+(a) a taxpayer's capital gain for a taxation year from the disposition of any property is the taxpayer's gain for the year determined under this subdivision (to the extent of the amount thereof that would not, if section 3 were read without reference to the expression "other than a taxable capital gain from the disposition of a property" in paragraph 3(a) and without reference to paragraph 3(b), be included in computing the taxpayer's income for the year or any other taxation year) from the disposition of any property of the taxpayer other than
+
+...
+
+54 In this subdivision,
+
+"disposition" of any property, except as expressly otherwise provided, includes
+
+(a) any transaction or event entitling a taxpayer to proceeds of disposition of property,
+
+...
+
+248(1) In this Act
+
+"property" means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+
+(a) right of any kind whatever, a share or a chose in action,
+
+(b) unless a contrary intention is evident, money,
+
+(c) timber resource property, and
+
+(d) the work in progress of a business that is a profession;
+
+[3] In a nutshell, the relevant facts are that in 1995, the Appellant and others entered into a share purchase agreement for the sale of their share interests in a plastic bottle manufacturing business. They also gave up their right to earn income under certain conditions from any competitive business. Section 1.5 of the share purchase agreement described the vendor corporate assets as follows:
+
+"Assets" shall mean all of the Acquired Companies' assets at the Closing (excluding (i) cash, (ii) the Leased Assets and (iii) the Insurance Claims), including, without limitation, all of the Acquired Companies' right, title and interest in accounts receivable, choses in action, rights under agreements, trademarks, trade names, patents, patent applications, patent licenses, computer software, shop rights, goodwill, customer lists, equipment, furniture and fixtures, raw materials, work in process, inventory and all other property both tangible and intangible, including without limitation the Equipment. ...
+
+The share purchase agreement provided that, in exchange for a non-compete agreement, the purchaser would pay the vendors $4 million. I shall refer to the amounts as "payments". A payment of $1 million was payable on closing and the balance of $3 million was payable in three equal annual instalments. These payments were included in the purchase price of the shares. The share purchase agreement was executed in conjunction with the non-compete agreement. Section 3.1 of the non-compete agreement reads as follows:
+
+Non-Compete Agreement Sellers agree that they will not at any time during the Term directly or indirectly engage in the Territory, or have any interest in any Conflicting Organization or other entity (whether as an employee, officer, director, agent, security holder, partner, creditor, consultant, licensor, licensee, or otherwise) that engages in the Territory, or is preparing to engage in the Territory, any activity in which the activity is the same as, similar to, or competitive with any business now carried on by any Acquired Company or Parent. The restrictions contained in this Section 3.1 shall not prohibit Sellers from holding not more than five percent (5%) in the aggregate of the securities of a corporation with a class of securities registered with the United States Securities and Exchange Commission under the Securities Exchange Act of 1934 or listed for trading on a recognized Canadian stock exchange, provided that Sellers do not engage in any other prohibited conduct under this Section 3.
+
+[4] Originally, the Appellant declared his share of the payments received as capital gains. Having become aware of the decision in Fortino v. The Queen,[1] the Appellant now argues that the payments are not taxable. Ironically, the issues in the Fortino decision are easily distinguished from the present ones and Fortino is more of a liability than an asset to the Appellant's position.[2]
+
+[5] The Appellant's position is that the agreement to not exercise the Appellant's right to compete does not constitute "property" for the purposes of the Income Tax Act. The payments under the non-compete agreement, therefore, are not taxable on account of capital as the payments do not constitute a gain from the disposition of property. The Appellant advances three arguments in support of this position.
+
+[6] First, subsection 248(1) defines "property" to mean property. This section restricts the definition of "property" under the Act to the common law concept of property. The Appellant asserts that, at common law, the ability to compete is not considered property. In support of this, he states that courts of England and Australia, in the cases of Kirby (Inspector of Taxation) v. Thorne EMI plc (1987)[3] and Hepples v. Federal Commissioner of Taxation[4] have considered this issue and have determined that the ability to compete is not property at common law. These cases considered whether non-competition payments were equivalent to property pursuant to the Finance Act 1965 in England and the Income Tax Assessment Act 1936 in Australia. Both courts came to the conclusion that the payments did not constitute property at common law or within the meaning of their Acts. The Appellant submits that the reasoning of these courts should be followed in the interpretation of property under section 248 of the Income Tax Act.
+
+[7] He further states that, apart from the English and Australian jurisprudence, Canadian courts also support this position. He asserts that Canadian courts have determined that at common law the skills possessed by the Appellant which give him ability to compete, do not constitute property. The Appellant submits that if the Canadian courts have decided that skills, training, knowledge, information, experience and background are not property at common law, then the Appellant's ability to use them would not constitute property either.
+
+[8] The second argument is that the phrase "right of any kind whatever" in subsection 248(1) has not expanded the common law definition of "property" so as to include the ability to compete as property under the Act. The Appellant adds that if the legislature had intended to expand the ordinary meaning of the word property, it would have said "property shall be deemed to mean", (and I emphasize the word "deemed"), rather than "property" means "property of any kind". Further, the use of the word "includes" does not expand the definition of "property" beyond its ordinary meaning, but merely sets out for the purposes of clarity, that the items listed in paragraphs (a) to (d) are, in the view of Parliament, property at common law. The Appellant submits that the rights referred to in the phrase "right of any kind whatever" refer to rights contained in the common law "bundle of rights" theory of ownership. The need to include the individual bundle of rights as part of the definition of "property" was to avoid the argument that while one of the bundle of rights of a particular property had been disposed of, the property in its entirety had not been disposed of.
+
+[9] Third, and in the alternative, the Appellant states that if the phrase "right of any kind whatever" does expand the common law definition, it does so only to include rights which have similar characteristics to property which the ability to compete does not have. The Appellant asserts that for a right to be characterized as property, it must be a right in respect of other property, or a right which could be legally enforced against a specific person. A right, by its nature, places an obligation on someone else. The right to work and compete is not an existing right forcible against others and, therefore, capable of disposition, but rather the agreement not to compete is the creation of a right of property in the hands of others. The creation of a right is not synonymous with the existence of a right in the first place.
+
+[10] If the court finds that the Appellant's ability to compete is "property" within the meaning of the Act, the Appellant submits that he has done nothing to dispose of his property. The Appellant states that he has done nothing which would fall within the dictionary meaning of "disposition" and that the only portion of the definition of "disposition" in the Act which could apply would require the Appellant to have sold the rights. The Appellant submits that he has not sold his rights, but simply covenanted not to exercise them.
+
+[11] Finally, I shall address the Appellant's rebuttal concerning windfall. While the Appellant is confident that the payment under the terms of the non-compete agreement was a windfall, he submits that whether it is a windfall is completely irrelevant. He adds that having shown that the payment was neither income from a source, a taxable capital gain from the disposition of property, nor a taxable net gain from the disposition of listed personal property, he need do no more. The payment, whether it is a windfall, must be a non-taxable capital receipt.
+
+[12] The Respondent argues that the Appellant's assertion that the non-compete agreement payments are a non-taxable receipt is equivalent to arguing that the receipt is a windfall. The Respondent states that windfalls can be described as receipts from a source in respect of which the recipient does not have, nor does it not have reason to have expectation of return. The Respondent adds that the payments received by the Appellant may not be categorized as windfalls pursuant to the factors discussed by Le Dain J. of the Federal Court of Appeal in the decision of The Queen v. Cranswick.[5] The Respondent contends that the payments are properly characterized as proceeds of disposition of property resulting in a capital gain. This finding results from the fact that the Appellant disposed of a variety of rights, including right, title and interest to the innovations, right to the use of confidential information, right to compete in a way within a specified territory for at least five years, and right to solicit employees.
+
+[13] The Respondent states that to dispose of the above rights, the Appellant made a promise not to do something in connection with these rights and then sold these promises. The Respondent further submits that the payments are not only proceeds of disposition from the sale of the Appellant's rights, they may also be characterized as proceeds of disposition from the sale of shares of the associated business under the share purchase agreement and, therefore, on account of capital. In support of this, the Respondent states that the payments were negotiated as part of the share purchase agreement and were part of the purchase price.[6] The Respondent adds that, unlike the Australian and English Acts, property as defined in subsection 248(1) is broad enough to include the non-compete payments, and relies on the cases of the M.N.R. v. Dominion Natural Gas Co.[7] and Golden v. The Queen.[8]
+
+[14] The Respondent submits that although the term "property" has been found not to include a taxpayer's personal skills and knowledge, it has been found to include the right to enter into a business and the promise to do or not to do certain things. The difference between personal skills and knowledge, and the right to enter into business and compete, or the promise not to compete, is that the latter can be bought, sold and disposed of by agreement between parties. He further concludes that the Appellant sold a package of rights. These rights were property within the broad meaning of subsection 248(1)of the Act and the proceeds of disposition, the sale price is subject to tax by virtue of sections 38 and 39 of the Act.
+
+Analysis:
+
+[15] Counsel for the Appellant presented a creative argument, however, I cannot accept it. The Appellant states that the word "property" be given its common law definition because subsection 248(1) defines "property" to mean property, which imports the common law concept of property. He concludes that the ability to compete is not property at common law. I believe this may be accurate but not relevant. Property is defined in subsection 248(1) as "property of any kind whatsoever, whether real or personal or corporeal or incorporeal, and without restricting the generality of the foregoing, includes a right of any kind whatsoever". These words cannot simply be ignored.
+
+[16] The definition provided for in subsection 248(1) does not restrict the word "property" to a common law definition. The word "property" cannot be read without the remainder of the section. It is not necessary to resort to the definitions of "property" in the English and Australian Acts and courts. The English Act does not refer to rights as being property, although the Australian Act does refer to any other right. It does not include the very broad Canadian Income Tax Act definition. There is no need to look further than the Canadian jurisprudence.
+
+[17] I accept the Respondent's position with respect to whether the right to compete is property. The following argument was provided:
+
+... As the Supreme Court of Canada held in Golden v. R.,
+
+This extremely broad definition of "property" leaves very little in the non-property classification. It would appear to include a contract right, and might in circumstances include a right to assert the covenant by a vendor to deliver know-how.
+
+When considering the Act's broad definition of "property", the Federal Court of Appeal, cited Lord Langdale as having stated in Jones v. Skinner[9] that the word property is the "most comprehensive of all terms which can be used inasmuch as it is indicative and descriptive of every possible interest which the party can have". Kieboom v. M.N.R.[10]
+
+Property includes "practically any type of economic interest, and covers practically any sort of interest that a person may have. The generality of the expression may be understood in the context of this Act which deals with the taxation of any form of business income to a taxpayer, whatever its source".[11]
+
+The term "property" has been found not to include a taxpayer's personal skills and knowledge,[12] but it has been found to include the right to enter into a business, and the promise to do or not to do certain things.[13] The difference between personal skills and knowledge, and the right to enter into a business and compete or promise not to compete, is that the latter can be bought and sold and disposed of by agreement between parties.
+
+The Supreme Court of Canada has held that the right to supply gas in a specified area is a capital asset.[14] Similarly, payments made on account of non-competition agreements have been found to be payments expended for the purchase of a capital asset.[15] As such, the disposition of this property is to be considered on account of capital and taxable under subsections 38(1) and 39(1) of the ITA.
+
+The applicability of the Act's capital gains provisions to non-competition payments was considered in Fortino, supra, where Judge Lamarre stated:
+
+In fact, the Appellants received an amount not to operate their business in certain areas for a certain period of time. By accepting such a covenant, the Appellants surrendered a potential source of profit. Loblaws was, in a sense, acquiring a right from the appellants that they had previously held against it. The appellants' capital assets were, in a sense, sterilized.
+
+I therefore conclude that the NCA payment received by the appellants from Loblaws were more in the nature of a capital receipt and were not income from a productive source under section 3.[16] (Emphasis added)
+
+I agree with the above reasoning and adopt it as my own in the present appeals. The fact situation in Fortino mirrors the present one.
+
+[18] The Appellant further argued that the phrase "right of any kind" does not expand the definition of "property". As stated earlier, the phrase "property means property", cannot be interpreted without the expanded subsection 248(1) definition. It is clear that the legislature intended defining the word "property" as broadly as possible. The "bundle of rights" theory of property refers to the incidence of ownership and is not helpful as to the definition of property itself. The context of a right of any kind whatsoever, used in the definition of "property" in the Act, does not support the Appellant's theory that this phrase does not define the property itself, but the rights of ownership. The complete phrase is "a right of any kind whatever, a share or chose in action". If a "right of any kind whatever" was referring not to the definition of "property" but to the rights of ownership, it would not be grouped with other defining words of property.
+
+[19] The Appellant did not dispose of his personal talent, aptitude and knowledge that were used to operate a bottle manufacturing business. I believe this would be contrary to public policy. He disposed of many rights including his right to compete. He sold these rights. The proceeds for these rights also included payment for the shares, for his interest in innovations, confidential information and his right to solicit former employees. The purchaser acquired the Appellant's promise not to compete and, in doing so, his capital asset being ultimately the bottling manufacturing business. The share purchase agreement established an enforceable legal obligation in favour of the purchaser. The payments under the non-competition agreement were part of the share purchase agreement price. The first $1 million was treated as part of the purchase price for the shares. How can these payments not be considered on account of capital account? A right to conduct business has been treated as a capital asset and I refer to M.N.R. v. Dominion Natural Gas Co., supra.
+
+[20] The Appellant further argued that alternatively, if the phrase "right of any kind whatever" does expand the common law, it does so only to include those rights that have the characteristics of property. Counsel refers to approximately 15 cases wherein courts have interpreted the phrase "right of any kind whatever" in the definition of "property" in subsection 248(1) and the Income Tax Act. He concludes that the "right" was either property or a legally enforceable right against a specific person.
+
+[21] I believe, as stated earlier, that the subsection 248(1) definition of "property" is not founded on or restricted by the common law. The Appellant did not dispose of or sell his right to work. He disposed of his right to compete with the purchaser. This is a very real capital asset and he entered a legally enforceable contract.
+
+[22] The Appellant's final submission is that if the right to compete is "property", the Appellant did not dispose of it. I find that the Appellant did not give up or dispose of his right to work and earn income. He did dispose of his right to make plastic bottles in competition with the purchaser. In return for disposing that right, he received the payment that is inextricably connected to the payment for the shares and other rights mentioned earlier, although this is irrelevant in that the parties have agreed that section 42 does not apply. The Appellant has disposed of his right to compete through the means of a covenant restricting his actions. A right can generally not be disposed of in any other way. To restrict the definition of "disposition" in the way suggested by the Appellant would have the effect of finding that, although rights are included as property, this property could never be disposed of pursuant to the Act.
+
+[23] I believe that the reason there is so little helpful jurisprudence on this subject is because of Interpretation Bulletin IT-330R which states that a receipt from a non-compete agreement is capital and taxpayers have been treating it as a capital gain.
+
+[24] I find that the Appellant disposed of property within the meaning of sections 38 and 39 and the payments are taxable capital gains. The appeals are dismissed, with costs.
+
+Signed at Ottawa, Canada, this 30th day of November, 2001.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-2167(IT)G
+
+STYLE OF CAUSE: Tod T. Manrell and Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: October 23, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.H. McArthur
+
+DATE OF JUDGMENT: October 30, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Werner H.G. Heinrich and David Graham
+
+Counsel for the Respondent: Peter M. Kremer and Rosemary Fincham
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Werner H.G. Heinrich
+
+Firm: Koffman Kalef
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] 97 DTC 55.
+
+[2] While the facts in Fortino were similar to the present case, the issue was entirely different. The only question before Lamarre J. was whether the payments were income from a source under section 3 of the Act. She found the non-compete agreement payments were not income from a source in section 3. In dictum, she stated they were more in the nature of a capital receipt but that was not an issue before her.
+
+[3] [1988] 2 All E.R. 947 (C.A.).
+
+[4] 91 ATC 4808 (Australian High Court).
+
+[5] 82 DTC 6073.
+
+[6] While this is included in the Respondent's written argument, the parties agreed that section 42 of the Act was not in issue.
+
+[7] 1940 CarswellNat 43 (S.C.C.).
+
+[8] 1986 CarswellNat 236 (S.C.C.).
+
+[9] (1986), 5 L.J. (N.S.) ch, 87, p. 98.
+
+[10] 1991 Carswell Nat 308 (F.C.A.)
+
+[11] Capitale, cie d'assurance générale v. R., 1998 CarswellNat 1182 (F.C.A.).
+
+[12] Rapistan Canada Ltd. v. M.N.R., 1974 CarswellNat 191 (F.C.A.); Slobodrian v. R., 1998 CarswellNat 808 (T.C.C.).
+
+[13] MFC Bancorp Ltd. v. R., 1999 CarswellNat 1640 (T.C.C.); Rapistan, supra.
+
+[14] M.N.R. v. Dominion Natural Gas Co., supra.
+
+[15] Cumberland Investments Limited v. The Queen, 75 DTC 5309 (F.C.A.).
+
+[16] This decision was upheld by the Federal Court of Appeal (2000 DTC 6060).
+

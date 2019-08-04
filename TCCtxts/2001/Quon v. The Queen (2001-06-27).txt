@@ -1,0 +1,190 @@
+Date: 20010627
+
+Docket: 98-915-GST-I, 98-917-GST-I
+
+BETWEEN:
+
+ANSON QUON and EDWARD GRYSCHUK,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Order
+
+Mogan J.
+
+[1] The above appeals were heard together on common evidence. The two Appellants (Anson Quon and Edward Gryschuk) were directors of Edan Food Sales Inc. ("the Company"). They were assessed under section 323 of the Excise Tax Act in their capacity as directors of the Company for the Company's failure to remit approximately $23,800 in respect of the goods and services tax ("GST"). The two Appellants appealed from their assessments claiming that they satisfied the due diligence test in subsection 323(3). Each Appellant elected to have the informal procedure apply to his appeal.
+
+[2] On April 26, 2001, I signed Reasons for Judgment and formal Judgments allowing both appeals. In the last sentence of my Reasons, I stated:
+
+The appeals are allowed, with such costs as are permitted treating both appeals as only one appeal.
+
+I was attempting to indicate that I would award costs if costs were permitted in the circumstances of these two appeals. The formal Judgment in the appeal of Anson Quon stated:
+
+The appeal from the assessment (goods and services tax) made under subsection 323(1) of the Excise Tax Act, notice of which is dated June 10, 1996 and bears number 59535 is allowed, with costs, and the assessment is vacated.
+
+The formal Judgment in the appeal of Edward Gryschuk was the same except for the number of the assessment notice. I was not purporting to decide in the words of the formal Judgments that each Appellant was, in law, entitled to costs; but was assuming that each formal Judgment would be read in conjunction with the last sentence of my Reasons. On June 25, 2001, I heard a motion by the Respondent for an Order amending the formal Judgments to allow the appeals but without costs. (Emphasis added).
+
+[3] It is the Respondent's position that the Appellants are not entitled to costs because they do not satisfy the conditions in subsection 9(1) of the Rules of Practice and Procedure of this Court with respect to GST appeals:
+
+9(1) Costs on an appeal shall be at the discretion of the judge by whom the appeal is disposed of in the circumstances set out in subsection 18.3009(1) of the Act which provides:
+
+18.3009(1) Where an appeal referred to in section 18.3001 is allowed, the Court
+
+(a) shall reimburse to the person who brought the appeal the filing fee paid under paragraph 18.15(3)(b) by that person; and
+
+(b) where the judgment reduces the amount of tax, net tax, rebate, interest and penalties in issue in the appeal by more than one-half, may award costs, in accordance with the rules of the Court, to the person who brought the appeal where
+
+(i) the "amount in dispute" was equal to or less than $7,000, and
+
+(ii) the aggregate of supplies for the prior fiscal year of that person was equal to or less than $1,000,000.
+
+According to the Respondent's Reply to each Notice of Appeal, the amount assessed against each Appellant comprised the following three elements:
+
+Net Tax $20,536.30
+
+Interest 1,677.75
+
+Penalty 1,633.07
+
+$23,847.12
+
+The phrase "amount in dispute" is defined in the Tax Court of Canada Act as follows:
+
+2.2(2) For the purposes of this Act, the "amount in dispute" in an appeal means
+
+(a) the amount of tax, net tax and rebate, within the meaning of Part IX of the Excise Tax Act, that is in issue in the appeal;
+
+(b) any interest or penalty under Part IX of the Excise Tax Act that is in issue in the appeal; and
+
+(c) any amount of tax, net tax or rebate, within the meaning of Part IX of the Excise Tax Act, that is likely to be affected by the appeal in any other appeal, assessment or proposed assessment of the person who has brought the appeal.
+
+[4] Returning to subsection 18.3009(1) of the Tax Court of Canada Act quoted above as part of subsection 9(1) of the Rules, the Respondent submits that the Appellants cannot satisfy the condition in subparagraph 18.3009(1)(b)(i) because the "amount in dispute" was not less than $23,847.12 and certainly far in excess of $7,000.
+
+[5] It is the Appellant's position that subsection 9(1) of the Rules of Practice and Procedure of this Court with respect to GST appeals does not contemplate an appeal by a person who may be vicariously liable like a director of a corporation who has been assessed under section 323 of the GST legislation. The definition of "amount in dispute" in subsection 2.2(2) of the Tax Court of Canada Act refers to tax, net tax, interest and penalty. The same words appear in paragraph 18.3009(1)(b) of the same Act. Counsel for the Appellants argues that an assessment against a director under section 323 of the GST legislation represents vicarious third party liability for a corporation's "failure to remit". As such, only the primary corporate taxpayer has a liability in respect of tax, interest or penalty. The director is assessed under section 323 for the global amount which the corporation failed to remit. The relevant parts of section 323 are:
+
+323(1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+
+[6] A director of a corporation may be liable under subsection (1) only if the corporation has failed "to remit an amount of net tax". When that condition is met, the directors are jointly and severally liable "to pay that amount and any interest thereon or penalties relating thereto". In these two appeals by Messrs. Quon and Gryschuk, there was no dispute concerning the amounts of tax, interest or penalty. The only question was whether they could satisfy the due diligence test in subsection 323(3). Therefore, each Appellant had an all-or-nothing appeal with respect to the global amount on which he was assessed.
+
+[7] I am inclined to the view that the Appellants are entitled to costs. In civil litigation, the successful party will ordinarily be awarded costs. This principle is reflected in section 147 of the Rules of General Procedure of this Court:
+
+147(1) Subject to the provisions of the Act, the Court shall have full discretionary power over the payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+
+147(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+
+(a) the result of the proceeding,
+
+(b) ...
+
+The two Appellants (Messrs. Quon and Gryschuk) were 100% successful in their appeals against the assessments issued to them as directors of the Company. At first blush, the words in paragraph 18.3009(1)(b) do not apply to these appeals because the individual Appellants were not attempting to reduce the amount of tax, net tax, interest or penalty. They were simply trying to avoid vicarious liability with respect to the global amount ($23,847.12) assessed against them as directors. If the Company had appealed, there may have been any number of issues concerning the Company's basic liability for tax or net tax or interest or penalty under the various charging provisions of the GST legislation; and the Company would have been attempting to reduce one or more of the amounts assessed against it. The Judgments in these appeals did not reduce or extinguish any liability of the Company with respect to tax, net tax, interest or penalty; and did not reduce or extinguish the liability of any other person who may have been a director of the Company.
+
+[8] It appears to me that the $7,000 ceiling in subparagraph 18.3009(1)(b)(i) is intended to prevent a taxpayer, primarily liable under the GST legislation (and not vicariously liable like a corporate director), from recovering any costs at all if the taxpayer has elected the informal procedure when there was a significant amount in dispute.
+
+[9] The Rules of Practice and Procedure of this Court with respect to GST appeals are relatively short, only 18 in number. Accepting the fact that a taxpayer may elect the informal procedure and achieve success without regard to the amount in dispute, there are bound to be gaps in the Rules. I am satisfied that there is a gap in section 9 of the GST Rules with respect to a corporate director who successfully appeals from an assessment issued to him or her under section 323 of the GST legislation.
+
+[10] Section 18.3001 of the Tax Court of Canada Act permits a person, filing a notice of appeal under the GST legislation, to elect the informal procedure:
+
+18.3001 Subject to section 18.3002, where a person has so elected in the notice of appeal for an appeal under Part IX of the Excise Tax Act or at such later time as is provided in the rules of the Court, this section and sections 18.3003 to 18.302 apply, with such modifications as the circumstances require, in respect of the appeal.
+
+For the purposes of this motion by the Respondent concerning costs under subsection 18.3009(1), the important words in section 18.3001 are "with such modifications as the circumstances require". Section 18.3009 is clearly within the group of sections 18.3003 to 18.301. In my opinion, subsection 18.3009(1) should be modified in the following circumstances:
+
+(i) a director of a corporation has appealed from an assessment issued under section 323 of the GST legislation and has elected the informal procedure;
+
+(ii) the director/Appellant is not attempting to reduce the amount of tax, net tax, interest or penalty previously assessed against the corporation;
+
+(iii) the director/Appellant is attempting to avoid personal liability only by proving due diligence within the meaning of subsection 323(3); and
+
+(iv) the personal liability of the director/Appellant under subsection 323(1) is greater than $7,000 but reasonably low having regard to the $7,000 limitation in subparagraph 18.3009(1)(b)(i), and having regard to the costs of litigation.
+
+[11] In the circumstances of these two appeals, I regard the personal liability for $23,847.12 of each Appellant under subsection 323(1) as reasonably low having regard to the $7,000 statutory limitation and the costs of litigation. The opening words of subsection 9(1) of the GST Rules state: "Costs on an appeal shall be at the discretion of the judge ... ." In these appeals, I exercised my discretion to award the Appellants such costs as may be permitted without determining at that time whether, in law, the Appellants were entitled to any costs. Having heard this motion, however, I now determine that the Appellants are entitled to costs; and those costs are to be awarded as if there were only one appeal. The Respondent's motion is dismissed.
+
+Signed at Ottawa, Canada, this 27th day of June, 2001.
+
+"M.A. Mogan"
+
+J.T.C.C.
+
+COURT FILE NO.: 98-915(GST)I and 98-917(GST)I
+
+STYLE OF CAUSE: Anson Quon and Edward Gryschuk and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATE OF HEARING: June 25, 2001
+
+REASONS FOR ORDER BY: The Honourable Judge M.A. Mogan
+
+DATE OF ORDER: June 27, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Michael Ezri
+
+Counsel for the Respondent: A. Christina Tari
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: A. Christina Tari
+
+Firm: Richler and Tari
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+98-915(GST)I
+
+98-917(GST)I
+
+BETWEEN:
+
+ANSON QUON and EDWARD GRYSCHUK,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Motion heard by telephone conference on June 25, 2001, at Ottawa, Ontario, by
+
+the Honourable Judge M.A. Mogan
+
+Appearances
+
+Counsel for the Appellants: A. Christina Tari
+
+Counsel for the Respondent: Michael Ezri
+
+ORDER
+
+Upon motion by counsel for the Respondent for an Order amending the Judgments of the Honourable Judge M.A. Mogan dated April 26, 2001, to allow the appeals, without costs;
+
+And upon reading the pleadings in these appeals and the correspondence of counsel for the parties with respect to costs;
+
+And upon hearing counsel for the parties;
+
+It is ordered that the Respondent's motion is dismissed, without costs.
+
+Signed at Ottawa, Canada, this 27th day of June, 2001.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

@@ -1,0 +1,368 @@
+Date: 19990921
+
+Docket: 96-1829-IT-G
+
+BETWEEN:
+
+CENTRE PARKING INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+LAMARRE, J.T.C.C.
+
+[1] These are appeals from assessments issued in accordance with the Income Tax Act (the "Act") in respect of the appellant's 1987, 1990, 1991 and 1992 taxation years. In assessing the appellant for 1990, 1991 and 1992, the Minister of National Revenue (the "Minister") disallowed reserves claimed for doubtful debts, deductions for bad debts and losses claimed as non-capital losses on advances made to related corporations and consequently did not accept to carry-back those non-capital losses to 1987. The amounts at issue are listed in paragraph 11 of the Partial Agreed Statement of Facts which is reproduced below.
+
+1. Centre Parking Inc. (the "Appellant") was incorporated in 1978.
+
+2. The Appellant was continued on December 5, 1991 without limit on the business that it could carry on. The officer and the director of the Appellant is Alfred Dignard. The shareholders of the Appellant, during the years 1987 to 1992 inclusive ("the period in question"), were as follows:
+
+Alfred Dignard 54 Common shares
+
+Claire Dignard 20 Common shares
+
+Guy Dignard 14 Common shares
+
+André Dignard 14 Common shares
+
+(Claire, Guy and André are the wife and sons of Alfred Dignard)
+
+3. Beeandee Holdings Limited was incorporated in 1970. The shareholders of Beeandee, during the period in question, were as follows:
+
+Alfred Dignard 51 Common shares
+
+Bernard Dignard 49 Common shares
+
+The directors and officers of Beeandee during the period in question were:
+
+Alfred Dignard
+
+Bernard Dignard
+
+(Bernard is the brother of Alfred Dignard)
+
+4. Place D'Embrun Place Inc. was incorporated in December, 1986. The shareholders, during the period in question, were as follows:
+
+Alfred Dignard 45 Common shares
+
+Bernard Dignard 45 Common shares
+
+Bernard Dignard In Trust 1 Common share
+
+Beeandee Holdings Limited 50 Common shares
+
+Centre Parking Inc. 10 Common shares
+
+Claire Dignard 3 Common shares
+
+Other unrelated shareholders 40 Common shares
+
+The directors and officers were:
+
+Alfred Dignard
+
+Bernard Dignard
+
+5. 709276 Ontario Ltd. was incorporated in 1987. The shareholders, during the period in question, were as follows:
+
+Barry Arnold Sullivan 50 Common shares
+
+Centre Parking Inc. 50 Common shares
+
+The directors and officers were:
+
+Alfred Dignard
+
+Barry Sullivan
+
+6. The following outlays by the Appellant were in respect of the payroll liabilities of Place D'Embrun Place Inc. and 709276 Ontario Inc. during the period of 1988 to 1990:
+
+Place D'Embrun Place Inc. $96,625
+
+709276 Ontario Inc. $51,452
+
+7. The Appellant advanced $85,733 to Beeandee Holdings Ltd. during the period of 1989 and 1990. The Appellant further paid the Beeandee Holdings Ltd. loan to the CIBC in the amount of $116,410. The Appellant was able to recover from Beeandee Holdings Ltd. the amount of $41,400.
+
+8. On March 21, 1991 the CIBC transferred the amount of $116,410.34 from the account of the Appellant to pay a portion of the outstanding debt of Beeandee Holdings Ltd. The Appellant was a guarantor of the said debt.
+
+9. On June 13, 1991 the CIBC transferred the amount of $325,000.00 from the account of the Appellant to pay a portion of the outstanding debt of Place D'Embrun Place Inc. The Appellant was a guarantor of the said debt.
+
+10. On December 16, 1992 the Appellant paid the Sun Life Trust Company the amount of $100,000 on account of the mortgage of Place D'Embrun Place Inc. The Appellant was a guarantor of the mortgage.
+
+Company Year Purpose Advance Amount
+
+Advanced
+
+Place D'Embrun Place Inc. 1988 Payrolls and Operating $ 71,797
+
+Expenses
+
+Jan 1988 Beeandee $ 40,000
+
+(Construction Costs)
+
+May 1989 Beeandee $ 75,000
+
+(Construction Costs)
+
+1989 Interest $ 33,200
+
+1989 Payrolls & Kiminco $112,344
+
+Loan
+
+1990 Payrolls & Kiminco $ 10,823
+
+Loan
+
+June 1991 CIBC Guarantee $325,000
+
+Dec 1992 Sun Life Guarantee $100,000
+
+Rent Guarantees $ 44,785
+
+Beeandee Holdings Ltd. 1989 Payrolls Etc. $ 48,828
+
+1990 Payrolls Etc. $ 36,905
+
+June 1991 CIBC Loan $116,410
+
+1991 Less 2nd Mtgs $(41,400)
+
+709276 Ontario Ltd. 1988 Advances $ 40,000
+
+1988 Payrolls $ 28,327
+
+1989 Deposit Error $ 4,146
+
+1989 Payrolls $ 23,126
+
+1989 Interest Charge $ 8,200
+
+1990 Leasehold Improvements$ 47,490
+
+1990 Payment Received $ (6,408)
+
+11. The following are the amounts in issue:
+
+Treatment by
+
+Amounts in Issue Deduction Claimed the Minister
+
+Beeandee Holdings Ltd.
+
+1990 $81,852 provision for doubtful account not allowed
+
+1991 $78,891 loan written off not allowed
+
+Place D'Embrun Place Inc.
+
+1990 $ 44,785 Rent Guarantees Loan capital loss
+
+written off
+
+1990 $338,148 provision for $304,948 capital
+
+doubtful account loss and $33,200
+
+bad debt expense
+
+1991 $ 5,016 Advances
+
+loan written off capital loss
+
+$325,000 Paid CIBC loan
+
+loan written off capital loss
+
+1992 $100,000 Paid Sun Life guarantee
+
+loan written off capital loss
+
+709276 Ontario Ltd.
+
+1991 $100,000 provision for doubtful account not allowed
+
+1992 $ 44,880 loan written off ABIL $108,660
+
+($144,800 x 75%)
+
+and $8,200 bad
+
+debt expense
+
+Facts
+
+[2] During the years at issue, the appellant, which is controlled by Mr. Alfred Dignard, was in the business of providing on a contract basis to owners of commercial buildings or vacant lands management services for their parking facilities. The appellant would enter into an agreement with the owners whereby it would pay rent for the use of those facilities. The appellant would collect fees from people parking there (on either a daily or a monthly basis, with payment being received in the latter case on the first day of the month) and would pay the rent to the landlord on the 15th of the following month. Any surplus reflected in the difference between the rental charge and the amount earned from the parking fees was the appellant's gross profit. Aside from that profit, the appellant had access to the cash flow generated from the fees charged during the course of the month and held until such time as it had to pay the rent. Mr. Clifford T. Lebarron, who in 1983 was the manager of commercial development for the Canadian Imperial Bank of Commerce ("CIBC") and who was dealing at that time with the appellant, estimated those short-term funds at approximately $250,000 to $300,000 on a monthly basis. He said that he had made a cash management proposal to Alfred Dignard involving the investment of these surplus funds so as to obtain a better return on investment. Mr. Lebarron left the CIBC in 1985.
+
+[3] Alfred Dignard also controlled another company, Beeandee Holdings Limited ("Beeandee"). That company had been involved in buying and selling real estate (including apartment buildings) since its inception in 1970. In 1980, Alfred Dignard transferred 49 per cent of Beeandee to his brother Bernard Dignard. The company was then involved in sewer and waterline construction. In 1984, they proposed to carry out a project in the town of Embrun, Ontario, for the construction of 40 residences through Beeandee. This project had been completely sold out and pre-insured by Canada Mortgage and Housing and all bridge financing had been arranged with National Trust when for some reason National Trust withdrew its proposal. Alfred Dignard thereupon approached Mr. Lebarron and the CIBC approved a bridge-financing loan to Beeandee for $2 million. According to Mr. Lebarron, this was Messrs. Alfred and Bernard Dignard's first project and therefore the bank required that the appellant and the Dignards provide their corporate and personal guarantees as additional security. For the bank, the surplus funds available to the appellant as a consequence of its parking activities reduced the potential risk associated with the project. They expected that the bridge loan would be reimbursed within 90 to 120 days.
+
+[4] Ultimately, the bridge financing was not used to its full extent as it was understood that the appellant would make short-term advances out of its surplus cash flow. The project was a complete success. Construction was completed on schedule and the CIBC loan was paid off in full out of all the takeout mortgage advances.
+
+[5] According to Guy Jodoin, the accountant for the appellant and Beeandee, the appellant lent approximately $500,000 to Beeandee for that project. The appellant received $24,000 in interest on that loan over a period of eight months and this was reported in its financial statements. The appellant also made a pre-sale purchase of three townhouses at the beginning of the project at a cost of $70,000 each. This transaction was part of the financing plan as the more houses were sold ahead of time, the easier it was to get the mortgage financing. Alfred Dignard felt that the appellant could sell those houses for $90,000 each.
+
+[6] Alfred Dignard also owned a 25-acre parcel of land on which he decided to build a shopping centre. The appellant and Beeandee did not have experience in commercial property development. At the suggestion of Mr. Jodoin, Place D'Embrun Place Inc. ("Place d'Embrun") was incorporated for the purpose of the proposed development and the land was transferred to it. Alfred Dignard wanted to control that new corporation. The appellant mortgaged two of its three townhouses in Embrun and used the funds to purchase ten shares for $100,000 in Place d'Embrun. A private placement proposal was drafted by Mr. Jodoin in December 1986 in order to raise another $400,000 by selling shares in Place d'Embrun. Alfred Dignard had calculated that Place d'Embrun needed a capital investment of $500,000 in order to be able to start the project.
+
+[7] It was stated in the private placement proposal that Place d'Embrun was to build the mall in conjunction with Beeandee, which would have control and management of the property. The name of the appellant did not appear at all in that proposal as Alfred Dignard did not want the appellant's clients in its parking business to be aware of its financial involvement in that project. Those clients might have been concerned that, had the project gotten into trouble, they would lose the rental income that the appellant collected on their behalf.
+
+[8] The plan initially was that Beeandee would construct the mall (Place d'Embrun) at a cost of $4,6 million. Rental income projections of $800,000 per year were made for the next six years (1987-1992) in order to make the undertaking look as profitable as possible. Mr. Jodoin said that with this proposal he and Alfred Dignard wanted to show potential investors interested in a long-term investment that they would get a good rate of return. In fact, the long-term goal of the company (Place d'Embrun) as indicated in the proposal was "to efficiently manage the mall with a view to profit for long-term shareholders of the project" (exhibit A-1, Tab 26). The share repurchase agreement later drafted by the lawyers however provided the investors with an option to have their shares bought back by the company within a period of six months after two years (Exhibit A-1, Tab 43).
+
+[9] Alfred Dignard approached Keith Doyle of National Trust to have him help find investors. Mr. Dignard promised to pay Mr. Doyle a commission of $1,000 on each share the latter sold personally and $250 per share on all shares sold. According to Mr. Doyle, Mr. Dignard told him that he would pay him on the sale of the mall which, he hoped, would happen within two years of its completion. The money was raised quickly and 194 shares at $10,000 each were issued to different shareholders (including the appellant, Beeandee, and Alfred and Bernard Dignard). Alfred Dignard and his family kept control of Place d'Embrun. Mr. Jodoin explained that they made sure in issuing the Place d'Embrun shares that Mr. Dignard and the group of corporations controlled by him and his family could sell if they wanted to, just by passing a resolution through Beeandee, the appellant and Place d'Embrun.
+
+[10] Alfred Dignard testified that he subsequently dealt with another lender (Morguard Investments Ltd.), which promised to finance the construction of the mall for $2,500,000 on the strength of Alfred Dignard's representations that he had found two major tenants (the Jean Coutu pharmacy and the fast food chain Burger King). However, when the time came to draw this money, the construction having progressed to a 10 per cent stage, the lender made no advance because Mr. Dignard had not fulfilled his obligations, the two major tenants having never finalized their leases.
+
+[11] Alfred Dignard then turned to Mr. Doyle who was now working as a mortgage broker with Coulter Financial Corporation ("Coulter"). Coulter offered to finance the initial construction upon certain conditions. Coulter would advance $600,000 immediately if Mr. Dignard agreed to sign a promissory note for a $50,000 finder's fee for Coulter. I understand from Alfred Dignard's testimony that he paid $35,000 on that promissory note. In October 1988, an appraisal report was sent to Coulter by the firm of Pigeon Roy. This report estimated the market value of the mall after completion and with all tenants in place at $10,500,000. With that report in hand, Coulter agreed to provide $2,8 million in financing upon Place d'Embrun's signing a management contract with Coulter's own manager, Claude Lévesque. Coulter finally sent a letter to Place d'Embrun on March 3, 1989 for the attention of Bernard Dignard, president, proposing an arrangement for the financing of the whole project. In that proposal, Coulter included a clause stipulating that if the property should be sold through them, they would be entitled to a 5 per cent real estate fee, of which 2.5 per cent would be a finder's fee. Mr. Doyle explained that Alfred Dignard wanted short-term financing and that he felt the property would be sold within two years of its completion. Coulter would thereupon have received its commission and Mr. Doyle expected to receive 20 per cent of the total fees paid to Coulter. Mr. Doyle was in fact never paid and he did not know if Coulter did ultimately advance the money. Alfred Dignard said that the money was not advanced by Coulter. He said that Mr. Lévesque did not concentrate exclusively on the Place d'Embrun project, which was therefore not well managed and this might have been the cause for Coulter's withdrawal.
+
+[12] Coulter however introduced Alfred Dignard to another mortgage company (Counsel Trust), which agreed to lend money to Place d'Embrun for the purpose of finishing the first phase of the mall. Counsel Trust required that the mall have a professional manager. Claude Lévesque was therefore hired by the appellant to manage the Place d'Embrun mall exclusively. Counsel Trust also reserved the right to finance the second phase. This second phase presupposed the purchase of adjacent land and the finding of two anchor tenants. Alfred Dignard testified that, at that time, he planned to pay the full cost of the shopping centre through Counsel Trust. However, the two prospective anchor tenants, Greenberg Department Stores and the grocery store chain Steinberg, began having their own internal problems and slowed down the negotiations with Place d'Embrun. Mr. Dignard further stated that Coulter then went bankrupt and from that moment Place d'Embrun was in real financial trouble as it lost its connection to the money source.
+
+[13] Alfred Dignard said that, at that point, he tried to sell the first phase of the mall (Place d'Embrun). While he received quite a few offers, none of them came to fruition as they were mostly conditional on the completion of the shopping centre. Mr. Dignard said that he needed to find a partner to invest cash so that the mall could be finished.
+
+[14] In late 1989, Alfred Dignard was introduced to Dave Westfall who was the director of corporate financing for Douglas MacDonald Development Corporation ("MacDonald Co."). That corporation was involved in housing development, shopping centres, apartments and office buildings. Its net assets were worth $300,000,000. When MacDonald Co. was approached, the first phase of the mall was completed and substantially leased out. In fact, the mall opened in May 1988. According to Mr. Dignard, the cash flow from the mall was about $30,000 a month at that time. Mr. Westfall testified that the reason they wanted to get involved in Place d'Embrun was that that property had excess land and negotiations were still going on with Steinberg and Greenberg to be the two anchor tenants for the second phase consisting of an additional 50,000 square feet of office or retail space. On November 9, 1989, a memorandum of agreement was signed between MacDonald Co. and Place d'Embrun whereby MacDonald Co. agreed to advance to Place d'Embrun an amount of $1,200,000 to be secured by a second mortgage on the subject land. Under this agreement, MacDonald Co. would also receive a direct 50 per cent interest in the shopping centre. On May 22, 1990, Douglas MacDonald ("MacDonald") personally took a $1,5 million five-year debenture on the assets of Place d'Embrun. This was done when MacDonald finally agreed to enter personally into a partnership with Place d'Embrun.
+
+[15] According to Mr. Westfall, the purpose of getting involved in this transaction was definitely to develop the property for sale. MacDonald was not looking at the property on a long-term basis because it was in a francophone milieu and MacDonald was not in a position to deal with that. It was appealing for him as a quick flip. MacDonald was the majority shareholder of MacDonald Co. and the intention all along was that MacDonald would participate in this transaction on his own account.
+
+[16] MacDonald and Place d'Embrun eventually entered into a co-tenancy agreement (Exhibit A-1, Tab 18) in the month of June 1990. Pursuant to the provisions of that co-tenancy agreement, MacDonald was to take a 50 per cent interest in the mall and Place d'Embrun was the legal entity having ownership of the other half on behalf of all the other shareholders. MacDonald wanted to deal only with Alfred Dignard and the appellant as it was they who were providing the cash flow for the project. At that time, MacDonald had already advanced $950,000 from his personal bank account. He was supposed to provide basically all the additional financing required for the project, which was estimated at $4,000,000. MacDonald's personal net worth was then approximately $80,000,000 and his personal intervention was going to facilitate the obtaining of permanent financing.
+
+[17] The co-tenancy agreement provided that the mall could be sold before or after the advance of monies under the permanent financing. Different scenarios, depending on the total cost of the project, were envisaged as to how the proceeds of disposition would be distributed in the case of a sale. Basically, the debts of Place d'Embrun as set out in the schedule attached to the Co-tenancy Agreement (schedule G.1) were to be repaid first. The profits would then be distributed so that MacDonald would recover his investment first and any remaining profits would be split equally between MacDonald and Place d'Embrun.
+
+[18] Schedule G.1 which listed all accounts payable by Place d'Embrun did not show the appellant as a creditor for all the advances it had made to Place d'Embrun. Mr. Westfall explained that there was not enough money provided by the construction financing to be able to repay the appellant's advances and MacDonald did not want to invest money to reimburse those advances. He was agreeable to financing the second phase but not to repaying the appellant out of his own pocket. However, according to Mr. Westfall, the appellant could have expected to be repaid within a two-year period out of the profits on the sale which, based upon the $10,5 million appraisal value, were estimated at $1,000,000.
+
+[19] The sale never occurred. Sometime between the months of May and August 1990, after MacDonald had already expended $950,000 on this project, Steinberg decided to hold in abeyance all its new real estate projects and Greenberg went bankrupt in that same year. MacDonald also went bankrupt. Sun Life Trust Company, which had taken over Counsel Trust, foreclosed on the mortgage on the property, took possession of the mall and discharged the appellant's liability with respect thereto in 1991.
+
+[20] According to Alfred Dignard, who did not have any experience in that particular field, the mall was in trouble from start to finish. At the outset, he did not want to invest the appellant's money in the project because he could only play with the parking lot revenue on a 45-day basis. His initial plan was to raise $500,000 by issuing shares. Mall construction was set to start in the spring of 1987 and by December 1987 Place d'Embrun had financial problems. This is what necessitated the appellant's advancing money for the project throughout this period in order to be able to finish the mall and open it. The appellant did not charge interest on those advances at the time as Alfred Dignard knew that the project was not yet viable. He said that his intention was to charge interest retroactively when construction was completed.
+
+[21] Alfred Dignard used the appellant's clients' money as leverage in getting the bank to lend money for the project. This is why the appellant also had to sign, in February 1987, a guarantee securing the loans made by the CIBC to Place d'Embrun and in fact had to pay substantial amounts on that guarantee in 1991. The appellant did not receive any payment from Place d'Embrun for signing the guarantee. The guarantee was signed before the appellant became a shareholder in Place d'Embrun in July 1987. The appellant also guaranteed loans made by the CIBC to Beeandee without any consideration from Beeandee. In fact, in 1991, the CIBC made withdrawals from the appellant's bank account in repayment of the loan to Beeandee.
+
+[22] The appellant also loaned money to 709276 Ontario Ltd. ("Deli") of which the appellant owned 50 per cent and an individual, Barry Sullivan, the other 50 per cent. The Deli was operated in the mall and Mr. Sullivan managed the store under the supervision of Alfred Dignard. The Deli signed a demand promissory note on January 1, 1990, in favour of the appellant as to 84.5 per cent and in favour of Mr. Sullivan as to 15.5 per cent, in the amount of $178,753 with interest thereon calculated at the rate of 16 per cent per annum. A chattel mortgage was given by the Deli as collateral security for the promissory note. However, Mr. Dignard testified that he did not force Mr. Sullivan to repay his part of the loan because he hoped the appellant would be paid back through Steinberg which was supposed to buy the Deli. Mr. Jodoin testified that Mr. Sullivan was going to ask for overtime pay if Mr. Dignard did not abandon the claim on the loan, which Mr. Dignard finally did. Finally, the Deli was charged $8,200 in interest.
+
+[23] Mr. Jodoin testified that the appellant was in charge of office management for the mall project and that Alfred Dignard was to be personally involved in the supervision of the construction, in the financing and in the leasing. Mr. Jodoin had to set up the payroll accounts for Place d'Embrun. He said that the appellant hired mall maintenance and security employees and then billed Place d'Embrun and Beeandee monthly for those employees. The appellant did the same with the owners of the parking lots, however it charged them management fees while Place d'Embrun and Beeandee were charged none. Mr. Jodoin said that he was instructed by Alfred Dignard to charge interest on all unpaid amounts. Mr. Jodoin encouraged Mr. Dignard to wait until the construction of the mall was completed to recover retroactively from Place d'Embrun and Beeandee management fees and interest together with the advances. Mr. Dignard insisted however on charging some interest, and invoices were prepared for a total amount of $33,200 in 1989.
+
+[24] In cross-examination, it was shown that Claude Lévesque, who was appointed manager of the mall, dealt with Place d'Embrun directly with respect to his employment. Alfred Dignard said that he dealt with Mr. Lévesque through Place d'Embrun because he did not want the name of the appellant to appear in any document relating to the mall. But he said that Place d'Embrun did not have enough money to pay Mr. Lévesque and that this was why the appellant had to pay him.
+
+[25] The appellant's tax returns prepared by Mr. Jodoin and signed by Alfred Dignard that were filed in evidence showed that the business activity of the appellant consisted 100 per cent in parking lot management. Mr. Jodoin said that these returns were only bureaucratic forms and, according to him, the appellant was involved in various other activities including moneylending. Indeed, the appellant provided bridge financing, and also handled the management of the mall and the supervision of the construction through Mr. Dignard. However, in the financial statements filed by the appellant for 1987 through 1992, over 90 per cent of the gross income generated by the appellant came from parking lot management. Interest represented only a very secondary source of income and, apart from the amount of $33,200 charged to Place d'Embrun and $8,200 charged to the Deli (which were subsequently written off as bad debts), all interest income came from bank deposits. In 1992, no interest was charged on the advances because the mall had been lost to Sun Life. There is no indication of income generated from management services or payroll services.
+
+[26] The financial statements of the appellant filed in evidence for the years at issue show that the advances to Beeandee and Place d'Embrun were interest-free with no fixed repayment terms. According to Mr. Jodoin, this is because the bridge financing and the interim emergency cheques issued by the appellant to Place d'Embrun and Beeandee, and the accounts receivable for services, including payroll services provided by the appellant for Place d'Embrun and Beeandee, were not found in any formal document (no promissory notes nor any legal mortgage document were signed). Mr. Jodoin said that where there is no formal document signed with respect to such advances, the accounting practice is to show interest-free advances in the financial statements. In the words of Mr. Jodoin:
+
+the only thing that you have to show in the notes [in the financial statements] are liabilities of the company, and to advise the reader: "Be careful when you are reading these financial reports, there are liabilities that this company is involved with, that they may have to pay up some day. (p.70, vol.1, Transcript)
+
+[27] Mr. Jodoin stated that such notes are intended for the readers of the financial statements, bankers and potential lenders of money to the taxpayer corporation.
+
+[28] In the appellant's 1987 financial statements filed with its tax return in April 1988, the advances were shown under current assets on the balance sheet. Mr. Jodoin said they were presented that way because at that time the project was just getting started. Those advances should normally have been repaid within 30 to 60 days. In the appellant's 1988 financial statements, those same advances were shown under long-term investments on the balance sheet because it was evident at that time that the advances were not going to be repaid during the current year.
+
+[29] The profit on the townhouses sold by the appellant was reported as a capital gain in the appellant's tax return. Mr. Jodoin said that at that time, the appellant had no history of trading. After that, the appellant invested only in Place d'Embrun and did not invest in any other project as it was virtually bankrupt.
+
+Submissions of the parties
+
+[30] Counsel for the appellant submits that all the amounts in issue and summarized in paragraph 11 of the Partial Agreed Statement of Facts are current losses incurred by the appellant during the years at issue that should be allowed as expenses deductible against its income.
+
+[31] Counsel for the appellant put forward two alternative arguments in support of his position. The first of these is that the appellant was involved in an adventure in the nature of trade consisting of building and disposing of the mall and that all the advances are therefore deductible from income. The second is that the appellant advanced the funds in the ordinary course of its own business and that the losses sustained are therefore deductible from income.
+
+[32] The respondent submits that none of the losses at issue are deductible since the appellant was not involved in an adventure of the nature of trade and did not advance the funds or guarantee the loans in the ordinary course of its business.
+
+Analysis
+
+[33] The appellant's argument relies on the two recognized exceptions to the general proposition that losses of the nature described above are on capital account. Indeed in the most recent decision on that subject, Easton et al. v. The Queen et al., 97 DTC 5464, the Federal Court of Appeal stated the following at p. 5468:
+
+As a general proposition, it is safe to conclude that an advance or outlay made by a shareholder to or on behalf of the corporation will be treated as a loan extended for the purpose of providing that corporation with working capital. In the event the loan is not repaid the loss is deemed to be of a capital nature for one of two reasons. Either the loan was given to generate a stream of income for the taxpayer, as is characteristic of an investment, or it was given to enable the corporation to carry on its business such that the shareholder would secure an enduring benefit in the form of dividends or an increase in share value. As the law presumes that shares are acquired for investment purposes it seems only too reasonable to presume that a loss arising from an advance or outlay made by a shareholder is also on capital account. The same considerations apply to shareholder guarantees for loans made to corporations. In The Minister of National Revenue v. Steer, [1967] S.C.R. 34, it was held that a guarantee given to a bank for a company's indebtedness by the taxpayer in consideration for shares in the company was to be treated as a deferred loan to the company and that monies paid to discharge that indebtedness were to be treated as a capital loss. That case, however, does not stand for the proposition that every time a corporation fails to reimburse a shareholder with respect to an advance, outlay or payment on a guarantee that the loss is necessarily on capital account. There is only a rebuttable presumption of such. I turn now to the circumstances in which that presumption can be rebutted.
+
+There are two recognized exceptions to the general proposition that losses of the nature described above are on capital account. First, the taxpayer may be able to establish that the loan was made in the ordinary course of the taxpayer's business. The classic example is the taxpayer/shareholder who is in the business of lending money or granting guarantees. The exception, however, also extends to cases where the advance or outlay was made for income-producing purposes related to the taxpayer's own business and not that of the corporation in which he or she holds shares. For example, in L. Berman & Co. Ltd. v. M.N.R., [1961] C.T.C. 237 (Ex. Ct.) the corporate taxpayer made voluntary payments to the suppliers of its subsidiary for the purpose of protecting its own goodwill. The subsidiary had defaulted on its obligations and as the taxpayer had been doing business with the suppliers it wished to continue doing so in future. [Berman was cited with apparent approval in the Supreme Court decision in Stewart & Morrison Ltd. v. M.N.R., [1974] S.C.R. 477 at 479.]
+
+The second exception is found in Freud [Freud v. M.N.R., [1969] S.C.R. 75]. Where a taxpayer holds shares in a corporation as a trading asset and not as an investment then any loss arising from an incidental outlay, including payment on a guarantee, will be on income account. This exception is applicable in the case of those who are held to be traders in shares. For those who do not fall within this category, it will be necessary to establish that the shares were acquired as an adventure in the nature of trade. I do not perceive this "exceptional circumstance" as constituting a window of opportunity for taxpayers seeking to deduct losses. I say this because there is a rebuttable presumption that shares are acquired as capital assets: see Mandryk v. The Queen, 92 DTC 6329 (F.C.A.) at 6634.
+
+[34] The appellant submits that it meets those two exceptions. With respect to the first, the appellant is of the view that all the advances and payments under guarantees were made in the ordinary course of its business or for income-producing purposes related to its business. Counsel for the appellant argued that the appellant, as a general business practice, advanced funds to earn short-term interest returns in the ordinary course of its business. According to counsel, the appellant has a history of providing interim financing. For example, the appellant regularly loaned its parking receipts to its local bank and earned interest on those sums; it had provided cash advances, mortgages and loan guarantees in the field of real estate development prior to the mall project and, in 1989, it charged both Place d'Embrun and the Deli interest and received interest income on its advances to them.
+
+[35] Counsel for the respondent submits that lending money and earning interest were not part of the appellant's normal business activities. According to counsel, all of the amounts in issue were in respect of advances and loans constituting payments on account of capital within the meaning of paragraph 18(1)(b) of the Act and none of these advances were deductible as current expenses. Counsel pointed out that the advances and loans were treated as investments in the appellant's financial statements, which also showed that 95 per cent of the appellant's revenues came from parking.
+
+[36] The case of Newton v. Pyke, (1908) T.L.R. 127, cited by the Income Tax Appeal Board in Orban v. M.N.R., 54 DTC 148, has been referred to as authority for the proposition that there must be a certain degree of system and continuity about loan transactions before such transactions can be considered to be the carrying on of a moneylending business.
+
+[37] In R.S. Jackson Promotions Limited v. M.N.R., 85 DTC 145, the taxpayer became involved in investing its surplus earnings in mortgages. It lost substantial sums of money on one mortgage, which losses it tried to deduct as a bad debt expense. The Minister had disallowed the deduction on the basis that the taxpayer was not carrying on a business as a moneylender. Judge Sarchuk of this Court concluded as follows at pages 148 and 149:
+
+I have concluded in the particular circumstances of this case that the appellant was not in the business of lending money but was investing its surplus assets. The appellant did not conduct this activity as a money-lender would. It never bought or sold mortgages at a discount and never borrowed money for the purpose of its alleged money-lending business but only invested its retained earnings. Money-lending was not one of the business objects of the corporation. It was not ready and willing to lend to all and sundry; there was no pattern of making funds available to potential borrowers nor was there a seeking out of borrowers; all mortgage loans were granted to the same individual and were made through one law firm. The appellant did not hold itself out as a money-lender either by advertising or word-of-mouth, was not licensed or listed as a money-lender and had no commercial organization. The number of loan transactions was extremely limited totalling ten in a period of six years. The principal officer in addition to his promotional and media activities was the principal of a high school in Ottawa from 1971 to 1974 and in 1975 and 1976 coached the Toronto football team and devoted little if any time to "managing" the business. There was no active business-like involvement by the appellant in the production of this income. In addition to the foregoing in its 1975, 1976, 1977, 1978 and 1980 taxation years the appellant did not take the interest earned into account in its active business income (for purposes of a small business deduction pursuant to section 125 of the Act) but rather treated such amounts as investment income.
+
+...
+
+The presence or absence of any single factor referred to does not by itself establish whether that the appellant was not carrying on the business of money-lending. It is the cumulative effect of this evidence that leads the Court to that conclusion in the case at bar.
+
+[38] In the present case, the appellant never held itself out as a moneylender and never loaned any funds to an unrelated company. The appellant's financial statements described most of the loans as interest-free and as having no fixed terms of repayment. In the words of the accountant, Mr. Jodoin, this indicates to the reader of the financial statements that the company borrowing the money would not have any liability to pay interest and might never have to pay back the loan itself. Furthermore, the only two loans on which interest was charged during the relevant period were subsequently written off as bad debts. Finally, there were no corporate resolutions, no documents (except for one promissory note which appeared only after interest was charged to the Deli) and no fees or arrangements for the payment of fees in return for guarantees given.
+
+[39] I agree with counsel for the respondent that the advances made and guarantees given by the appellant bare no relation to the way in which an ordinary creditor would make such loans or advances. These loans by the appellant did not have the characteristics of systematic loans. All these loans were made sporadically whenever Place d'Embrun, Beeandee or the Deli were in desperate need of cash throughout the entire time the mall project was in progress. In the words of Alfred Dignard, that project was in trouble almost from the start and he did not want the name of the appellant to appear in any document relating to Place d'Embrun. In those circumstances, it certainly cannot be said that the appellant, whose principal business was parking lot management, was also in the business of moneylending or that moneylending was an integral part of its business operations or that any funds were advanced in the course of the appellant's own business. The fact that the appellant made special arrangements with CIBC to maximize the return on investment on its short-term surplus does not mean that the appellant was a moneylender or advanced funds in the course of its business. It is sufficient to look at interest income versus income from parking lot management in the financial statements to conclude that the income from the surplus funds was very secondary to and did not constitute the appellant's main profit-generating business activities. The appellant was in fact only investing its surplus funds.
+
+[40] I therefore conclude that the appellant did not fall within the first exception stated by the Federal Court of Appeal in the Easton case, as the advances, loans and guarantees were not made or given in the ordinary course of the appellant's business.
+
+[41] With respect to the second exception, the appellant submits that it held the shares in Place d'Embrun as a trading asset because it acquired them as part of an adventure in the nature of trade.
+
+[42] Counsel for the appellant argues that the appellant took part, along with Beeandee and the Dignards, in a joint venture to develop and dispose of the mall and that this was an adventure in the nature of trade. According to counsel, this group of joint venturers was enlarged by the participation of MacDonald who was a professional developer.
+
+[43] J.A. Yogis in the Canadian Law Dictionary defines a "joint venture" as:
+
+A business undertaking by two or more parties in which profits, losses and control are shared. Though the term is often considered synonymous with partnership, a joint venture may connote an enterprise of a more limited scope and duration, though there is the same sort of mutual liability.
+
+[44] Dukelow and Nuse in The Dictionary of Canadian Law cite the definition of "joint venture" found in the Investment Canada Act, R.S.C. 1985 (1st Supp.), c. 28, s. 3., which says:
+
+"joint venture" means an association of two or more persons or entities, where the relationship among those associated persons or entities does not, under the laws in force in Canada, constitute a corporation, a partnership or a trust and where, in the case of an investment to which this Act applies, all the undivided ownership interests in the assets of the Canadian business or in the voting interests of the entity that is the subject of the investment are or will be owned by all the persons or entities that are so associated;
+
+[45] The facts in the present case indicate that the mall project was not carried out by a group of joint venturers but by a corporation, Place d'Embrun. The appellant did not contribute to the project as a partner or joint venturer. It injected cash into a related corporation when the latter could not find any elsewhere. Furthermore, the definition of joint venture offered by Yogis indicates that such a venture entails a level of mutual liability not present in the case at bar. In fact, witnesses for the appellant testified that the latter was not originally involved in the project because of a desire to avoid any liability on the part of the appellant. Moreover, the fact that MacDonald may have participated in the project as a business venture does not mean that the appellant's status changed, as MacDonald held a 50 per cent share in the mall, with the other half belonging to Place d'Embrun.
+
+[46] It now remains to be determined whether the appellant held its shares in Place d'Embrun as trading assets. Counsel for the respondent submitted that even if Place d'Embrun was involved in an adventure in the nature of trade to develop and sell the mall, this would not mean that the appellant's losses were on income account.
+
+[47] Counsel said that the development and sale of the mall could have been accomplished by the appellant directly but Alfred Dignard chose to do it through Place d'Embrun. The appellant therefore now has to show that it purchased and held its shares as trading assets.
+
+[48] In Fraser v. M.N.R., [1964] S.C.R. 657, the appellant taxpayer and an associate purchased lands which were subsequently transferred to two corporations in return for all the shares in the corporations. The taxpayer eventually made a profit from the sale of those shares. The fact that the taxpayer had incorporated companies to hold the real estate was held by the Supreme Court of Canada to make no difference. It was simply an alternative method for achieving the same end: to realize a profit from the sale of the land.
+
+[49] In Freud v. M.N.R., [1969] S.C.R. 75, Pigeon J. speaking for the court stated the following at pp. 80-81:
+
+...In the Fraser case, the basic operation was the acquisition of land with a view to a profit upon resale so that it became a trading asset. The conclusion reached implies that the acquisition of shares in companies incorporated for the purpose of holding such land was of the same nature seeing that upon selling the shares instead of the land itself, the profit was a trading profit not a capital profit on the realization of an investment.
+
+[50] In Freud, the individual taxpayer advanced sums of money to an American company that he incorporated for the purpose of promoting and developing his invention, a prototype sports car. Shortly thereafter, the taxpayer abandoned the project and sought to deduct the amount advanced from other income. The Supreme Court of Canada allowed the deduction of this loss on the basis that the advance was to be characterized as trade and not as an investment in that particular case.
+
+[51] The true import of the Freud case was explained by Robertson J. in the Easton case, supra, as follows at p. 5467:
+
+...In other words, if a shareholder can establish that his or her shares were acquired as trading assets, and not for investment purposes, then any loss arising from an advance or outlay made by the shareholder to or on behalf of the corporation, including payments on a guarantee, will also be taxed on income account. ...
+
+[52] In Irrigation Industries Ltd. v. M.N.R., 62 DTC 1131 (S.C.C.), Martland J., speaking for the majority, stated at p. 1133:
+
+...In my opinion, a person who puts money into a business enterprise by the purchase of the shares of a company on an isolated occasion, and not as a part of his regular business, cannot be said to have engaged in an adventure in the nature of trade merely because the purchase was speculative in that, at that time, he did not intend to hold the shares indefinitely, but intended, if possible, to sell them at a profit as soon as he reasonably could. I think that there must be clearer indications of "trade" than this before it can be said that there has been an adventure in the nature of trade.
+
+[53] The Supreme Court of Canada referred to the positive and negative tests reviewed by Thorson P. of the Exchequer Court of Canada in M.N.R. v. Taylor, 56 DTC 1125, which are applicable in determining whether or not a particular transaction constituted an adventure in the nature of trade.
+
+[54] The positive tests are whether the person dealt with the property purchased by him in the same way as a dealer would ordinarily do and whether the nature and quantity of the subject matter of the transaction may exclude the possibility that its sale was the realization of an investment, or otherwise of a capital nature, or that it could have been disposed of otherwise than as a trade transaction. On the negative side, the tests are summarized as follows by Cartwright J. in Irrigation Industries Ltd. at p. 1137:
+
+(i) The singleness or isolation of a transaction cannot be a test of whether it was an adventure in the nature of trade – it is the nature of the transaction, not its singleness or isolation that is to be determined.
+
+(ii) It is not essential to a transaction being an adventure in the nature of trade that an organization be set up to carry it into effect.
+
+(iii) The fact that a transaction is totally different in nature from any of the other activities of the taxpayer and that he has never entered upon a transaction of that kind before or since does not, of itself, take it out of the category of being an adventure in the nature of trade.
+
+(iv) The intention to sell the purchased property at a profit is not of itself a test of whether the profit is subject to tax for the intention to make a profit may be just as much the purpose of an investment transaction as of a trading one. The considerations prompting the transaction may be of such a business nature as to invest it with the character of an adventure in the nature of trade even without any intention of making a profit on the sale of the purchased commodity.
+
+[55] In the present case, the appellant owned 10 common shares out of 194 shares issued by Place d'Embrun. It is true that the appellant borrowed from banks and used clients' money to finance its advances to Place d'Embrun. It is equally true that the appellant is controlled by the Dignards, who indirectly also controlled Place d'Embrun and could have forced Place d'Embrun to sell the mall. However, it is clear from the evidence that Alfred Dignard did not want the appellant to invest more than its surplus funds in the mall project when it was launched. As Alfred Dignard said, the intent at first was to use the appellant's clients' money as leverage to get the bank to lend money for the Place d'Embrun project. Mr. Dignard did not want to put the name of the appellant on any document related to Place d'Embrun, the reason being that he did not want the appellant's clients in the parking lot business to become concerned about payment of their rental income.
+
+[56] Furthermore, while Mr. Westfall and Mr. Doyle testified that they expected to be repaid within a two-year period out of the proceeds of the sale of the mall, it is not clear from the evidence what Alfred Dignard intended to do with Place d'Embrun when he decided that the appellant would participate financially in the mall. He acknowledged that he did not have experience in the construction and operation of shopping centres. However, based on the profits realized on the 40 townhouses through Beeandee, Mr. Dignard thought he could make money on Place d'Embrun. Did he intend to make a profit by selling the mall when completed and drawing dividends out of Place d'Embrun, or simply to keep the mall with a view to deriving a stream of income therefrom? Or did the appellant acquire the shares in Place d'Embrun with the intent to sell, hopefully at a profit?
+
+[57] As was said by Lord Normand in C.I.R. v. Fraser, (1942) 24 T.C. 498, cited by Martland J. in Irrigation Industries Ltd. at p. 1134:
+
+...A man may purchase stocks and shares with a view to selling them at an early date at a profit, but, if he does so, he is purchasing something which is itself an investment, a potential source of revenue to him while he holds it.
+
+[58] Indeed, Place d'Embrun derived rental income from the mall and Mr. Dignard intended that the appellant draw some income from snow removal and maintenance of the mall. The initial proposal for Place d'Embrun indicated that the long-term goal of the company was to efficiently manage the mall with a view to making a profit for long-term shareholders in the project. Furthermore, the decision of the Supreme Court of Canada in Irrigation Industries, makes it clear that the question of whether securities are purchased with the purchaser's own funds, or with borrowed money is not a significant factor in determining whether the acquisition and subsequent sale is or is not an investment (see Struan Robertson v. The Queen, 98 DTC 6227 (F.C.A.)).
+
+[59] The situation here is comparable to that in Easton where the appellants purchased land for subdivision and later conveyed it to their holding companies. The appellants in that case suffered losses when they honoured guarantees of their holding companies' indebtedness. The taxpayers failed to establish in that case that the guarantee was given at a time when they intended to sell the shares in their respective holding companies at a profit.
+
+[60] In the present case, the appellant has not convinced me on the balance of probabilities that when it made the loans or gave the guarantees, it intended to sell the shares at a profit. At least, this was not clear from the evidence adduced before me. In my opinion, the evidence shows rather that the appellant invested money in Place d'Embrun in consideration for shares, and that the appellant merely advanced working capital to that related company.
+
+[61] I therefore conclude that the appellant has failed to rebut the presumption that the losses arising from the loans or the payment on the guarantees are on capital account. The appellant also failed to establish that it fitted into any of the exceptions to that general presumption. Indeed, it did not show that the loans and guarantees were given in the ordinary course of its business. The appellant also failed to establish that the shares in Place d'Embrun were held as trading assets and therefore that loans and payments on guarantees were incidental expenses giving rise to losses on income account.
+
+[62] The appeals are dismissed with costs.
+
+Signed at Ottawa, Canada, this 21st day of September 1999.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+

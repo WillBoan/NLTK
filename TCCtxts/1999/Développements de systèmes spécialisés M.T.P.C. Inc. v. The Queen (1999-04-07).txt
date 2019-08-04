@@ -1,0 +1,164 @@
+Date: 19990406
+
+Docket: 97-1184-IT-G
+
+BETWEEN:
+
+LES DÉVELOPPEMENTS DE SYSTÈMES SPÉCIALISÉS M.T.P.C. INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This appeal concerns the 1995 taxation year. The issue is whether expenditures made that year were for scientific research and experimental development (“SR & ED”) within the meaning of subsection 2900(1) of the Income Tax Regulations (“the Regulations”).
+
+[2] The position of the Minister of National Revenue (“the Minister”) is that the expenditures in question were not for SR & ED and that the appellant is therefore not entitled to an investment tax credit under subsection 127(5) of the Income Tax Act (“the Act”) or a refundable investment tax credit under section 127.1 of the Act.
+
+[3] The facts on which the Minister relied in reassessing the appellant are set out as follows in paragraph 7 of the Reply to the Notice of Appeal (“the Reply”):
+
+[TRANSLATION]
+
+(a) For the 1995 taxation year, the appellant claimed $113,112 in expenditures for two scientific research and experimental development projects;
+
+(b) In its tax return for the 1995 taxation year, the appellant claimed an investment tax credit of $41,722;
+
+(c) The expenditures referred to in subparagraph (a) and the credit referred to in subparagraph (b) were claimed in respect of two projects, the Vision project and the Laitgiciel project;
+
+(d) Ninety percent of the expenditures claimed were for the Vision project and 10 percent were for the Laitgiciel project;
+
+(e) The Vision project is an integrated system for managing new and used car sales; the project is divided into four modules: repair service, sales service, parts service and accounting;
+
+(f) The Vision project qualifies in part—in a proportion of 20 percent—as a scientific research and experimental development project;
+
+(g) For the Vision project, the appellant can claim a deduction under section 37 of the Income Tax Act for 20 percent of the expenditures it claimed with respect to that project; it can also claim an investment tax credit of $8,185 under section 127.1 of the Income Tax Act;
+
+(h) The Laitgiciel project is software that enables milkmen to manage their dairy product delivery routes and their inventory of perishable goods and to bill their customers;
+
+(i) The Laitgiciel project is not scientific research and experimental development;
+
+(j) For the Laitgiciel project, the appellant cannot claim a deduction under section 37 of the Income Tax Act or an investment tax credit under section 127.1 of the Income Tax Act;
+
+(k) Expenditures of $81,914 incurred by the appellant in respect of the two projects are deductible business expenses, while expenditures of $10,845 are capital expenditures;
+
+(l) A breakdown of what was allowed and what was disallowed can be found in the four appended tables, which are an integral part of the Reply to the Notice of Appeal.
+
+[4] Prior to the hearing of the appeal, Pierre Charron, the appellant’s president, was given authorization to represent the appellant. He was the only lay witness who testified. Each party had one expert witness. The appellant’s expert report was filed the week before the hearing, well after the deadline set out in section 145 of the Tax Court of Canada Rules (General Procedure). Counsel for the respondent told the Court that while Revenue Canada was not greatly prejudiced by the late filing of the report in this case, Mr. Charron had been told at the status hearing that the document had to be filed 30 days before the hearing date. She therefore asked that, if the appeal was successful, this factor be considered when awarding costs. The Court allowed the report to be filed late, and it was filed as Exhibit A-1.
+
+[5] The appellant’s agent admitted subparagraphs 7(a) to (d) of the Reply. As regards subparagraph 7(e), he explained that the Vision project has just one module, namely the repair service. The other services referred to may be added if development of the software continues. As regards subparagraphs 7(f) and (g), the appellant argued that 100 percent of the Vision project should qualify because this part was essential to the other components of the project. Subparagraph 7(h) was admitted, while subparagraph 7(i) was denied.
+
+[6] The individuals involved in the research activities were the appellant’s agent, Pierre Charron, and Pierre Bisaillon, who was Mr. Charron's partner in 1995. Mr. Charron initially obtained a CEGEP diploma in administration and subsequently obtained a bachelor’s degree in information systems from the École des hautes études commerciales in 1985. He worked as a sales representative for a number of businesses and then started the appellant’s business in October 1989. Mr. Bisaillon has a CEGEP diploma in the pure sciences and has also completed three years of computer engineering at the École Polytechnique.
+
+[7] The Vision project is software that assists in managing the services sector of a car dealership. The goal of the Laitgiciel project was to create a system to enable milkmen to bill their customers directly while on their milk routes, to collect from those customers and to manage an inventory of perishable goods (page 9 of the addendum at Tab 5 of Exhibit I-1, Form T661).
+
+[8] In 1995, the company’s main source of income was sales of software, equipment and a technician’s technical services. Those sales brought in about $100,000.
+
+[9] The appellant’s agent filed as Exhibit A-2 a report written by Mr. S. Matwin, who taught computer science, that was prepared at the request of Revenue Canada’s Appeals Division. The appellant's agent referred to the second last paragraph on page 6, which reads as follows:
+
+[TRANSLATION]
+
+. . .
+
+However, we have to acknowledge that the data transmission component of the VISION project represents an advance. That component is responsible for just one of the several VISION system functions, which means that only part of the VISION project meets the eligibility criteria set out in Circular 86-4. We are not recommending any change to the proportion of the work (20%) considered to be scientific research and experimental development under subsection 2900(1) of the Income Tax Regulations.
+
+[10] It should be noted, however, that the scientific advisor found the following on the same page of the report:
+
+[TRANSLATION]
+
+The work—preliminary analysis, functional analysis, programming—is all part of routine computer systems development activities. There is no starting hypothesis or documentation describing studies or tests.
+
+. . .
+
+As regards the LAITGICIEL project, nothing in the description of the software’s functions (billing, inventory management, service management) represents an advance in software technology. The company’s argument that LAITGICIEL is the only software in its category is a characteristic of LAITGICIEL in terms of its potential market, but not in technological terms. The file does not contain any testimony as to the technological risks encountered while working on this project. There is nothing to suggest that any methodology other than the routine approach to delivery and inventory systems was used. The LAITGICIEL project is therefore not eligible.
+
+[11] Mr. Charron explained that initially the main problem was the chosen environment. The appellant wanted the software to operate in a DOS environment with a network system which did not require a major investment. The Laitgiciel and Vision projects began in April 1994 and ended in March 1995. At that time, there was a complete version on a DOS platform. For the 1996 fiscal year, the appellant claimed the Vision project as scientific research and development because of the project’s transfer to the Windows platform, but that project was not completed.
+
+[12] Vahé Kassardjian testified as an expert for the appellant. He is the president and director of research and development of a business that develops cross-platform software for new media. He described his occupation as being a computer specialist. In 1988, he obtained a B.Sc. in mathematics and computer science from the Université de Montréal, and in 1992 he obtained an M.Sc. in computer science from the same university. He also has many businesses and publications to his credit.
+
+[13] Mr. Kassardjian said that all of the appellant’s files were meticulously organized and perfectly coherent. I refer to his report filed as Exhibit A-1, in which he describes two of the appellant’s activities that he feels deserve to be characterized as SR & ED in addition to those allowed by the Minister. He states the following at page 5:
+
+[TRANSLATION]
+
+Dynamic dialog generation (point 4)
+
+The issue of static vs. dynamic user interface management is a major research subject in respect of which there are no deterministic solutions to date. A great deal of research is being done in both universities and industry (often more in the latter than the former) on the various aspects of this subject. The challenges range from cognitive ergonomics to interface encoding compression.
+
+In its Vision project, Les développements de systèmes spécialisés M.T.P.C. Inc. encountered problems that are part of advanced research subjects but that were specific to its project and had to be resolved in a unique way specific to the chosen development environment. In my view, the dynamic dialog generation solution in Vision and Laitgiciel constitutes a scientific advance. The reason for that research being undertaken constitutes a technological uncertainty.
+
+Memory configuration (point 7)
+
+Point 7 in the appellant’s letter of October 30 refers to an experimental process designed to achieve an optimal memory configuration while maintaining a reasonable execution speed.
+
+Although the methods used to establish and evaluate the various memory configurations are part of standard computer science practice, the appellant’s team was nevertheless faced with a problem of technological uncertainty (the impossibility of knowing from the outset or during the project whether there is a solution to the problem to be addressed and, if there is, how much time it will take to implement it) and had to move toward an experimental process involving successive evaluations of prototypes.
+
+[14] Charilaos Fakiris, the respondent’s expert witness, explained that he made an initial visit to the company, which gave him a demonstration of its software for the Vision and Laitgiciel projects. Based on that visit, the demonstration and the documents received, he decided that neither project involved a technological advance. The taxpayer then contacted Mr. Fakiris to arrange a second meeting, which was held at Revenue Canada’s offices. Mr. Fakiris asked Mr. Charron to send him a written account of the items raised at that meeting. Those items are set out in the letter of October 30, 1995, found at Tab 7 of Exhibit R-1, which describes seven points involving technological problems.
+
+[15] Further to the meeting and the letter, Mr. Fakiris again concluded that the Laitgiciel project was ineligible. With regard to the Vision software, he found that there may have been some problems related to the Paradox database management system. Those problems had to do with programming. According to Mr. Fakiris, they were not true technological uncertainties. All the same, he considered the activities described under points 1 and 2 of the letter of October 30, 1995 (Tab 7 of Exhibit R-1) to be eligible. He estimated the proportion of time and work related to those activities at 20 percent.
+
+[16] Mr. Fakiris’ response to the assertions made by the appellant’s expert witness, as set out above, is as follows. His response to the assertion on the point concerning dynamic interface management can be found at pages 170-71 of the transcript:
+
+[TRANSLATION]
+
+Yes, there are some problems with dynamic interface management, but they’ve been around a long time. When I was a teacher, again at the military college in Saint-Jean-sur-Richelieu starting in 1984—and I gave database courses and systems design and development courses—we had dynamic management systems and they were like class projects. There really were some problems, I’ve admitted that there are some problems, but it can’t be said that there is technological uncertainty, especially for the ’94-’95 fiscal year. There may be some problems to be fixed, to be solved, to provide a solution for, but there are no more major problems that would justify saying that yes, for dynamic interface management today or during the fiscal year in question, ’94-’95, there was a major problem or there was technological uncertainty.
+
+Q. But you heard Mr. Kassardjian tell us earlier that he felt there were uncertainties and that he believed finding a solution to them advanced computer science.
+
+A. I totally disagree with Mr. Kassardjian. If it’s really possible to consider dynamic interface management a technological advance in computer science in 1994-95, that’s quite something. I heard that, and I consider it unacceptable to say that dynamic interface management was a technological advance in computer science in 1994-95.
+
+Once again, Mr. Charron or Mr. Bisaillon may have run into some problems; I agree with that, I’ve admitted that, I agree with . . . but it can’t be said that, we can’t go so far as to say that there was a technological advance in computer science. I don’t accept that and I don’t agree with that at all.
+
+[17] The following is Mr. Fakiris’ response to the second point raised by the appellant’s expert, which concerns memory configuration. It can be found at pages 171-72 and 180-82:
+
+[TRANSLATION]
+
+Q. Now, as for point 7, which concerns memory configuration, once again on that aspect Mr. Kassardjian felt that there were uncertainties in that area. What is your opinion on that point specifically?
+
+A. Again, I totally agree with Mr. Kassardjian regarding point 7, page 5, second paragraph, where he speaks of memory management standard practice, exactly, it’s standard practice in memory management.
+
+Once again, of course, there are some problems; it depends on the level. Memory management, it depends on the system involved: for example, with Vision here, I find that it’s quite a simple system, so the software is fairly simple. It can’t be said that there are technological uncertainties when it comes to memory management. Once again, as I see it, we’re dealing with standard practice with the Vision software. There may be some problems, there may still be major problems, but they have to do with the development of software much more complex than the Vision software.
+
+Page 180:
+
+But I can tell you that because—but based on what I know—that dynamic interface management and memory management for software like Vision, which is really not at all complex—once again I feel that it was really standard practice.
+
+Q. The things that were done, with respect to point 4 and point 7, were they known in the industry, or do you know what was being done in the industry as regards those two points?
+
+A. Based on my experience as a teacher at the military college and with the development of a number of manuals, with student projects, I feel that yes, dynamic interface management perhaps wasn’t—again, perhaps, it depends on the level at which software development occurs. There may be some problems, but again it depends on the level. Of course, if the development level is more complex, because, of course, when . . . we receive research and development projects with different complexity levels, maybe there will really be technological uncertainty problems.
+
+But again, I find that the Vision and Laitgiciel softwares are really at a very simple level. In general, overall, what’s involved is setting up a relational database and, with a Paradox database management system—working with SQL, of course, to query another database and with Paradox to manage that database. That, in general terms, is exactly what the Vision and Laitgiciel projects do.
+
+Now during development, and once again this was at the preliminary level—it was the first fiscal year the taxpayer had worked on the project—he ran into some problems, but we can’t say there was technological uncertainty.
+
+The next year, the ’95-’96 fiscal year, the project was even more advanced and another scientific advisor who’s a colleague of . . . and once again he didn’t consider it eligible. It isn’t really a research and development project. It’s really a lot of work, I agree with Mr. Charron that there’s a lot of work involved, a lot of programming. But unfortunately, it didn’t fit within the context of our Revenue Canada program. It can’t be said that there’s a technological advance in computer science or, of course, that there are a number of technological uncertainties.
+
+It’s good work; as Mr. Charron said, it’s unique, but when we . . . in the Revenue Canada circular, innovation does not always equal research and development. It’s a new product, it’s a lot of work, because in computer science we sometimes work for hours and hours, sometimes all night, but the only thing I can say, to finish up on this, is that it didn’t fit within the context of our research and development program: there was no technological advance and no technological uncertainty.
+
+[18] The conclusion reached by both of the Minister’s scientific advisors is that the appellant’s activities were in the realm of standard practice and did not involve any technological advances. I refer to what Mr. Fakiris said at page 167:
+
+[TRANSLATION]
+
+If with—based on my experience, based on the research and development projects we receive in computer science, I really consider the Vision and Laitgiciel projects to be standard practice. It’s basic work, it’s really standard practice.
+
+Conclusion
+
+[19] It seems to me that it would be more satisfactory for the taxpayer—and it would certainly be so for the Court—if the scientific advisor at the appeal level had not seen the report filed by the scientific advisor at the first level. However, I cannot find any description of technological uncertainty in the document describing the research undertaken, which is attached to Form T661. All that is discussed is the novelty and usefulness of the product the appellant wanted to develop. The subsequent letter of October 30, 1995, describes the problems (listed as seven points) encountered while the new softwares were being developed. The Minister’s scientific advisor, with difficulty, accepted points 1 and 2 as eligible. The appellant’s expert witness felt that the activities described under points 4 and 7 deserved to be characterized as SR & ED. The Minister’s scientific advisors strongly believed that the scientific or technological knowledge needed to solve the problems encountered should normally have already existed and that there was no technological advance in this case because everything was a matter of standard practice. In my view, the contrary has not been shown on the balance of evidence.
+
+[20] It is my opinion that there has been no proof of any systematic search, as required by subsection 2900(1) of the Regulations, in respect of the activities involved in this appeal. As noted by the Minister’s scientific advisor at the appeal level, some of whose comments are set out in paragraph 10 of these reasons, in this case there was no formulation of hypotheses nor was there documentation describing studies or tests. The appellant’s documents describe a programming project that encountered problems, but they do not describe a systematic investigation or search carried out in a field of science or technology by means of experiment or analysis. The projects were business projects and not SR & ED projects.
+
+[21] The appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 6th day of April 1999.
+
+“Louise Lamarre Proulx”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

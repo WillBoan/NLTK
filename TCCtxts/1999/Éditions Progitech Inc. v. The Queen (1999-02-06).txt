@@ -1,0 +1,158 @@
+Date: 19990205
+
+Docket: 98-2596-IT-I
+
+BETWEEN:
+
+LES ÉDITIONS PROGITECH INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal, brought under the informal procedure, respecting an investment tax credit for scientific research and experimental development ("SR & ED").
+
+[2] Jacques Nault is the appellant's president and is acting as agent for the appellant in this case. Software development costs were incurred, most of which consisted of the salary paid to Mr. Nault, who is the appellant's sole shareholder and only employee. Mr. Nault represents himself as a software designer and the appellant's object is the production of accounting software. Mr. Nault is both a programmer and a chartered accountant by training.
+
+[3] The claim for SR & ED expenditures (form T661) for 1997 was filed as Exhibit A-9. It is dated January 14, 1998 and itemizes eight projects, each of which, except for the last, was spread over a one-month period. As for the last project, it is stated to have begun in July 1997 but no end date is mentioned.
+
+[4] In response to this claim, a scientific adviser and an auditor of the Minister of National Revenue (the "Minister") went to the appellant's premises on March 18, 1998. The scientific adviser, Charilaos Fakiris, produced an initial report, included in Exhibit A-5, in which he concluded that the projects were not eligible for the tax credit for the 1997 fiscal year. The appellant objected and a second report, included in Exhibit A-5, was thereupon written by an outside scientific adviser. According to that report, all the documents submitted by the appellant were subjected to a thorough review. The report contains a good description of the appellant's projects:
+
+[TRANSLATION]
+
+Based on the description given on form T661, the computer science work involved in the projects consisted essentially in the following in 1997:
+
+projects 1, 2 and 3: amend source code to change menus, reports and error messages and test proper operation following changes;
+
+project 4: change presentation of menus and conduct tests to exploit computer's graphics capabilities and integrate mouse into software; these tests led to the conclusion that it was necessary to wait for the Windows 95 versions in order to integrate these functions into the software;
+
+project 5: prepare first draft of the "action bar menu" software package;
+
+project 6: sorting algorithm was designed, checked, programmed and tested;
+
+project 7: saving algorithm was designed, checked, programmed and tested;
+
+project 8: the following improvements were made:
+
+a form feed (paper feed) code was deleted to correct a printing problem on laser printers and other printing problems were also corrected;
+
+view format options were introduced for cash receipts, cash disbursements, general journal and bank reconciliation.
+
+[5] The report concludes that these projects did not constitute scientific research or experimental development. I cite the following passages from the chapter in the report entitled "Evaluation", at page 4:
+
+[TRANSLATION]
+
+The taxpayer developed its accounting software over a number of years. The work claimed in 1997 is the continuation of this development activity. Most of the 1997 projects lasted about one month and consisted in carrying out clearly defined tasks and often in making improvements to existing software.
+
+SR & ED must be a systematic investigation undertaken for the advancement of science or technology. The technology involved in this claim is information technology (computer science).
+
+The taxpayer uses C language in its software development work. C language was developed in 1972 and has been the subject of standards developed by the ANSI (American National Standards Institute, Committee X3J11) and the ISO (International Organization for Standardization) since 1989. This language is very widely taught and used.
+
+. . .
+
+. . . the description concerns routine aspects of programming. There is no indication that the taxpayer has undertaken a systematic investigation to eliminate technological uncertainty and to achieve technological advancement. The description of the functional improvements made to the software packages offers no evidence of experimental development, given the absence of a goal of technological progress in computer science.
+
+. . .
+
+Even considering the small size of the business and all the possible implications of that as regards its knowledge base, it cannot be said that the three SR & ED criteria have been met. Based on the information presented, the taxpayer has not gone beyond common software development techniques and has not aimed at achieving technological advancement in computer science.
+
+[6] A third report, written by Mr. Fakiris, was produced as an expert report and filed as Exhibit I-1. Mr. Fakiris, who testified as an expert for the respondent, has a bachelor of science degree (mathematics and statistics) obtained at the Faculty of Science at the University of Athens in 1974. In 1983, he earned a master's degree in computer science (office automation and data bases) from the Computer Science Department at Concordia University in Montréal. From 1985 to 1989, he did doctoral studies in computer science (expert systems and artificial intelligence) at the Department of Computer Science at the Université de Montréal in Montréal, and, from 1990 to 1991, did advanced studies in computer science (expert systems and artificial intelligence) at the Ottawa-Carleton Institute for Computer Science in Ottawa. He was a lecturer at the Computer Science Department of Concordia University from 1980 to 1982. From January 1981 to May 1985, he was also a lecturer at the Computer Science Department at Vanier College in St-Laurent, and, from May 1982 to July 1994, he worked as a programmer/analyst at MDDC Systèmes in Pointe-Claire. He was an assistant professor at the Department of Computer Science at the Collège Militaire Royal de Saint-Jean, from August 1984 to July 1985. From January 1996 until the present, he has been a lecturer at the Computer Science Department at O'Sullivan College in Montréal. He has also been a computer science adviser with Revenue Canada since August 1995.
+
+[7] Mr. Fakiris reviewed and analyzed the projects as described by the appellant in its claim (Exhibit A-9). He made the same comment concerning each of the first three projects. It appears in Exhibit I-1 and reads as follows:
+
+[TRANSLATION]
+
+. . . The taxpayer modified the source code to change (translate) the menus, reports and error messages, then tested the software to see whether it was operating properly. This work may be considered as constituting standard practice for persons with acceptable skills in computer science. . . .
+
+The comment on the fourth project is as follows:
+
+[TRANSLATION]
+
+. . . The taxpayer changed the presentation of the menus and conducted tests to exploit the computer's graphics capabilities and to integrate the mouse into the software. The tests led to the conclusion that it was necessary to wait for the Windows 95 versions in order to integrate these functions into the software. The integration of the mouse does not in any way constitute technological progress in computer science. On the contrary, the description concerns routine aspects of programming. . . .
+
+The expert made the following comment about the fifth project :
+
+[TRANSLATION]
+
+. . . The technical work done during the period from April to May 1997 consisted in making a first draft of the "action bar menu" software package. This work may be considered as constituting standard practice in the field of computer science. . . .
+
+The comment on project 6 is as follows:
+
+[TRANSLATION]
+
+. . . The technical work done during the month of May 1997 consisted in designing, checking, programming and testing a sorting algorithm for sorting ledger transactions.
+
+The comment on project 7 is virtually identical. The expert concluded that no scientific research had been done, particularly since the evidence concerning projects 6 and 7 showed that the algorithms were not designed by the appellant, but were existing algorithms that he had checked and tested. The expert's comments on project 8 are as follows:
+
+[TRANSLATION]
+
+The development during the period from July to December 1997 consisted of improvements made to the existing "Chequebook 2.6" software. . . .
+
+[8] The general conclusion is that the work performed was standard practice in the field of computer science.
+
+[9] Subsection 2900(1) of the Income Tax Regulations (the "Regulations") reads as follows:
+
+For the purposes of this Part and sections 37 and 37.1 of the Act, "scientific research and experimental development" means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) work with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support, of the work described in paragraph (a), (b) or (c),
+
+but does not include work with respect to
+
+(e) market research or sales promotion,
+
+(f) quality control or routine testing of materials, devices, products or processes,
+
+(g) research in the social sciences or the humanities,
+
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+
+(j) style changes, or
+
+(k) routine data collection.
+
+[10] The agent for the appellant suggested that this subsection gives priority to product development, not technological advancement. I cannot agree. The very wording of the Regulations establishes that experimental development is work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto. Technological advancement is an essential element of the notion of experimental development.
+
+[11] The appellant also referred to paragraph 2.11 of Information Circular 86-4R3, which reads as follows, at page 6:
+
+2.11. Application of criteria
+
+The three criteria of IC 86-4R3 must be applied within the context of the taxpayer's business environment.
+
+Scientific research and experimental development varies in content as well as in the complexity of the technology in a given field. The technical uncertainties encountered by one taxpayer may well be looked upon as facts easily obtained by another. The judgment as to eligibility should be made within the context and environment of a single company and its field of business. Specifically, the activities undertaken to resolve technical uncertainties are eligible if the taxpayer cannot obtain the solutions through commonly available sources of knowledge and experience in the business context of the firm.
+
+[12] In the expert report referred to in paragraph [6] of these Reasons, the small size of the business was taken into consideration but it was concluded that the taxpayer had not gone beyond common software development techniques.
+
+[13] The agent for the appellant also argued that the work performed by the appellant constituted experimental development because it was the product of the imagination and inspiration of its designer who, through experimentation, attempted to bring his idea to fruition by drawing on all his knowledge for this project in the technology field. Mr. Nault, the agent for the appellant, maintained that only a person with this combination of technical knowledge, that is to say, a programmer with training as a chartered accountant, could create the software Mr. Nault is attempting to create.
+
+[14] Counsel for the respondent submitted that Mr. Fakiris's testimony should prevail. He has the academic knowledge and many years of experience teaching programming, as well as practical programming experience. It is my opinion that, given his knowledge and experience, Mr. Fakiris is able to determine whether the development of a piece of software is just a matter of common practice or whether it is of real technological interest. In any case, Mr. Nault admitted a number of times that several of his projects were a matter of common practice. In addition, the evidence revealed that, although matters were more complex in certain instances, Mr. Nault did not have the necessary expertise to establish the assumptions required in order to resolve the uncertainties. Mr. Fakiris believes that today everything Mr. Nault did could be done by a person with a Cegep-level education in computer science. Counsel for the respondent also argued that it was not enough to show that the activities brought about a product or a result different from what existed on the market; it had to be proven that there had been technological advancement.
+
+[15] Mr. Nault laid great stress on the fact that his project should be looked at as a whole, and not in its various elements as the specialists did. However, as counsel for the respondent suggested, although the product may be different, that does not necessarily mean that there has been technological advancement. According to the experts, everything developed by Mr. Nault was a matter of common practice; it was not technological advancement. The product may have been improved, but no technological uncertainty was resolved. The knowledge was already accessible.
+
+[16] It is my view that with regard to his development activities the appellant has demonstrated neither the existence of technological uncertainties nor the making of valid assumptions for resolving them. Rather I find that the evidence revealed the normal activity of a programmer who wishes to develop a new piece of software based on an existing computer language. Where there were technological uncertainties or where there were barriers in the appellant's way, Mr. Nault could only observe them and wait for someone else to provide the necessary tools to resolve the difficulty. The development of the software might have constituted development of a new product, but it was based on existing techniques. There was thus no scientific research or experimental development.
+
+[17] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 5th day of February 1999.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

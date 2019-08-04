@@ -1,0 +1,156 @@
+Date: 20020408
+
+Docket: 2001-2820-GST-I
+
+BETWEEN:
+
+URANUS AUTO SALES INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+____________________________________________________________________
+
+Agent for the Appellant: Alam Kawaja
+
+Counsel for the Respondent: Brianna Caryll
+
+____________________________________________________________________
+
+Reasonsfor Judgment
+
+(Delivered orally from the Bench at Toronto, Ontario, on March 7, 2002)
+
+Bowie J.
+
+[1] This Appellant is truly a one individual company. Noorollah Ahrari is the only shareholder, the only officer and the only employee. The company's business at all relevant times was the purchase and resale of used automobiles.
+
+[2] The appeal before me is from a Notice of Reassessment for goods and services tax (GST) under Part IX of the Excise Tax Act for the period between January 1, 1996 and January 31, 1999. By that assessment, as it was amended after objection, the Appellant was required to pay additional GST of $17,039.72, plus penalties and interest.
+
+[3] At the conclusion of the evidence for the Appellant, his agent informed me that there were two, and only two, matters in dispute. One of those is the exact volume of sales transacted by the Appellant of vehicles not for export, and therefore subject to tax at the rate of 7%. The other is whether sales in the amount of C$163,182 in total for the three years were properly considered by the Minister to be domestic sales subject to GST, or were in fact export sales, and therefore zero-rated commodities on which no tax was exigible.
+
+[4] As to the first issue, the Appellant has put itself at a considerable disadvantage by failing to comply with section 286 of the Act. That section requires that a person in business must keep records from which the liability under the Act may be determined. It is clear from the evidence of both Mr. Ahrari and the assessor, Mr. Bandali, that this Appellant did not keep what might be called normal business books and records. There was no sales ledger, and no ledger account to show the GST collected and remitted.
+
+[5] The assessor, when he began his audit, was presented with Exhibit A-1 which consists of cash flow statements and a summary list of expenses month-by-month for each of the three years under appeal. These had been prepared by his accountant, Mr. Sheikhzadeh, who had been his accountant since 1994. Apparently at the request of the assessor, Mr. Ahrari had Mr. Sheikhzadeh prepare Exhibit A-2, which purports to be unaudited statements of income and expenses for the business for the years 1996, 1997 and 1998. No books were kept or statements prepared for this business contemporaneously, and Mr. Sheikhzadeh did not testify and so could not explain the manner in which he prepared either the cash flow statements or the statements of income and expenses. The assessor testified that, having seen Exhibits A-1 and A-2, he asked Mr. Ahrari if he operated his business on a cash basis, and was told "yes". He then proceeded to conduct an audit on that assumption, and to assess GST on the basis that the cash receipts in each year, as provided to him, constituted the sales of vehicles. In essence, he applied 7% tax to the total sales so determined.
+
+[6] The assessor was shown bills of sale for a number of vehicles on which the purchaser's address was shown as being in the United States, or in two instances in Germany. He did not accept that these were in fact export sales, and so he did not zero-rate them in his assessment. In the result, he added $77,177 to the sales figures based on his analysis of the cash accounts, and assessed GST of 7% or $5,395. He also added GST in respect of the purported export sales. This was apparently done using the sales data from the Appellant's income statements supplied to him, but treating all of the sales as domestic sales. This produced a further liability for GST of $21,796.
+
+[7] On objection, the appeals officer reduced the assessment by some $10,151. She testified that she had available to her the bank statements to show the opening and closing balances, as well as the sales invoices. Her analysis of these led her to believe that the cash receipts should have been increased by approximately $125,000 rather than by the $77,177 applied by Mr. Bandali. However, she was not sufficiently satisfied of this to add GST on this amount to the assessment. Instead, she reduced the amount assessed as I have indicated, largely on the basis that certain invoices had been double counted, and that Mr. Bandali had applied 7% GST to the gross receipts of the business rather than to the net receipts. Like the assessor, she did not accept that any of the sales were for export, and therefore zero-rated.
+
+[8] Mr. Ram Kaushal gave evidence for the Appellant. I refused to permit him to offer an opinion as to whether or not the assessment was made in accordance with appropriate accounting standards, as the Appellant's agent asked him to do, as no attempt had been made to satisfy Rule 7 of the Tax Court of Canada (Informal Procedure) Rules respecting a written statement of opinion evidence, nor was any effort made to establish his qualifications to offer an opinion. He then attempted to show that the assessor had been in error when adding $77,177 to the sales of the business for the period under assessment. He admitted, however, that he had not made any actual computation of his own of the Appellant's volume of sales.
+
+[9] In my view, the best evidence as to the Appellant's gross sales was that of Ms. Kelly, the appeals officer. The Appellant has simply not shown that the Minister's computation of the gross sales and the tax payable on them (leaving aside the export issue) is wrong. The Appellant produced two documents which were submitted in evidence as Exhibits A-3 and A-4. Exhibit A-3 is a handwritten document with an illegible signature at the bottom of it bearing the date February 10, 1999; more exactly, it is a photocopy of such handwritten document. It purports to declare that the maker, Said Gajehbiglo, paid amounts totalling $52,705 in 1997 and $10,470 in 1998 by way of a loan to Uranus Auto Sales Inc. The maker of the document was not available to authenticate it, nor was there any evidence other than that of Mr. Ahrari to authenticate this document.
+
+[10] Exhibit A-4 is a typewritten sheet signed by no one, enumerating six items which total $19,728. It is headed "Disbursements Against Borrowings and Personal Loans" and it says, "Paid to Mrs. Forozan Vafie". Again, this document could not be identified. I do not find Mr. Ahrari's oral evidence with respect to either of these documents, self-serving as it is, to be persuasive. I do not accept his suggestion that these amounts were all injections of cash, by way of borrowings, into the business, and therefore amounts that should be deducted from the sales figures computed by Ms. Kelly.
+
+[11] I turn now to the matter of the sales which the Appellant says were for export. The Minister's position, as expressed by the assessor and by the appeals officer in their evidence, and by counsel in argument, is that the Appellant cannot satisfy paragraph 1(d) of Schedule VI, Part V of the Act, because he does not have Form 7501 for each of the vehicles said to have been sold for export. I shall come back to the matter of this form shortly.
+
+[12] In all there are 17 vehicles on which the Appellant did not collect GST because it considered them to be export sales: in 1996 there were two vehicles which the Appellant claims were exported to the United States and two to Germany, having a total consideration of US$29,800, which translates to C$40,528; in 1997, three vehicles to the United States aggregating US$28,500 or C$39,330; in 1998, ten vehicles to the United States for an aggregate consideration of US$56,300 or C$83,324. The GST assessed for these, after adjustment by Ms. Kelly, is $10,675.46.
+
+[13] The provisions of the Act that apply are subsection 165(1) which provides that the rate of tax for a zero-rated supply is 0%, and subsection 123(1) which defines a zero-rated supply to mean a supply included in Schedule VI. The part of Schedule VI, Part V that applies here is section 1, the relevant part of which reads:
+
+1. A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property where
+
+(a) the recipient exports the property as soon after the property is delivered by the person to the recipient as is reasonable having regard to the circumstances surrounding the exportation and, where applicable, to the normal business practice of the recipient;
+
+...
+
+(d) the person maintains evidence satisfactory to the Minister of the exportation of the property by the recipient or, where the recipient is authorized under subsection 221.1(2) of the Act, the recipient provides the person with a certificate in which the recipient certifies that the property will be exported in the circumstances described in paragraphs (a) to (c).
+
+There is no suggestion in this case that the certificate provision in the latter part of paragraph (d) would have any application. To qualify as zero-rated, then, in the context of the present case, goods must be shown first to have been sold to a person who intends to export them, and second, to have been exported as soon as is reasonable. In addition, the vendor must maintain evidence satisfactory to the Minister of the exportation of the property by the purchaser.
+
+[14] The Appellant's evidence, that of Mr. Ahrari, was that it was audited for the periods 1994 and 1995, that the evidence as to exportation that it had kept in respect of those years was exactly what he had when he was audited for 1996, 1997 and 1998; that is, it had copies of bills of sale which showed a U.S. address for the purchaser. These, he said, were satisfactory to the Minister at the time of the first audit. The export sales were accepted as such. Mr. Ahrari was not told then, or at any later time, that for the future the Minister would require some higher standard of evidence as to exportation to satisfy paragraph (d) of section 1 of Part V of Schedule VI, until such time as Mr. Bandali audited him in 1999, and told him that he needed Form 7501.
+
+[15] Mr. Ahrari also gave evidence that the Appellant was audited subsequent to Mr. Bandali's audit and that on that occasion, the Minister accepted the same evidence in respect of export sales as in 1994 and 1995. None of this evidence was seriously challenged, nor was it rebutted.
+
+[16] I turn now to the Reply to the Notice of Appeal filed by the Deputy Attorney General of Canada in this matter. The substance of it is to be found in paragraph 4, which I shall reproduce in its entirety:
+
+4. In so reassessing the Appellant, pursuant to the Assessment, the Minister made the following assumptions of fact:
+
+(a) the Appellant was registered for purposes of Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the 'Act') at all material times;
+
+(b) the Appellant operated a used car sales business;
+
+(c) the Appellant failed to maintain adequate books and records for the Period;
+
+(d) the Appellant failed to report all the Goods and Services Tax (the 'GST') collectible pursuant to section 221 of the Act;
+
+(e) the Minister used information available to him including cash flow statements and financial statements to him to determine that the Appellant failed to account for GST in the amount of $17,039.72;
+
+(f) the Appellant did not provide and maintain adequate documentation to substantiate and differentiate 0% taxable supplies from 7% taxable supplies;
+
+(g) the Appellant was required to report and remit additional GST in the amount of not less than $17,039.72; and
+
+(h) penalty and interest were properly assessed on the amount of net tax the Appellant failed to remit as and when required to the Receiver General for Canada for the Period and on the net tax refundable claimed by the Appellant from the Receiver General for Canada to which it was not entitled.
+
+The Deputy Attorney General of Canada then states the issues to be decided by this Court in the following cryptic terms:
+
+5. The issue is whether the Minister properly reassessed the Appellant additional GST.
+
+Part C of the Reply, entitled "Statutory Provisions, Grounds Relied on and Relief Sought" is no more than a recitation of various sections of the Act, not including incidentally, Schedule VI, Part V, wherein the entire issue relating to exportation arises, plus the bald assertion once more that the Appellant had failed to collect and remit GST of $17,039.72, and had not kept proper records.
+
+[17] Nowhere in this Reply could anybody, even on the most minute examination, discern that there was an issue before the Court as to exportation of these vehicles.
+
+[18] The first three subparagraphs of paragraph 4 indeed do assert facts which the Minister presumably assumed, namely that the Appellant was registered under the Act, failed to maintain adequate books and records and operated a used car sales business. Beyond that, all of the assumptions found in this Reply constitute either bald assertions of conclusions of law, or at the best some minor factual matters mixed inextricably with conclusions of law.
+
+[19] Counsel for the Attorney General was not able to refer me to any statutory, or even published, requirement that Form 7501 was required to be obtained in order to comply with section 1(d) of Part V of Schedule VI. Indeed, she said that she herself had never seen the form. I can find no reference to it in the Act, or the Regulations under the Act, or in the standard reference works available to me relating to GST. The GST forms published do not appear to have any numbers consisting of four digits. The evidence of the assessor and of the appeals officer leads me to believe that this may very well be a form that is required under U.S. customs law in relation to the importation of a vehicle into that country, but I am far from certain of that.
+
+[20] In any event, the Appellant here was led to believe by the first auditor that his duplicate bills of sale were evidence satisfactory to the Minister. This despite the obvious catch-22 that it can only be established that a vehicle qualifies as zero-rated after it has been sold and in fact exported. The Minister has chosen not to promulgate any regulation along the lines of the Input Tax Credit Information Regulations which would fix an objective standard of proof which people in business could then reasonably be required to meet. He now seeks to move the goal posts from where he once placed them, without any notice whatsoever which would enable the taxpayer to adjust its business practice accordingly. He comes to Court, represented by the Deputy Attorney General of Canada, and argues that subsections 1(a) and (d) of Part V of Schedule VI have not been met, when his Reply makes no reference whatsoever to the exportation issue, or to the standard of evidence which the Minister requires from time to time or even to Schedule VI.
+
+[21] It was decided long ago that where an Act confers a discretion on the Minister he must exercise that discretion on proper legal principles: see Pioneer Laundry & Dry Cleaner v. M.N.R. [1940] A.C. 147; and Wrights' Canadian Ropes v. M.N.R., 2 DTC 794. Proper legal principles require that the Appellant have notice that will permit it to comply with a revised standard established subsequent to the Minister's recognition of a lesser standard as being adequate.
+
+[22] It is trite, too, that an Appellant must have some notice from the pleadings of the case that it is expected to meet. The Minister has not pleaded in this case, either by way of an assumption or otherwise, that the vehicles were not exported, or that the Appellant did not maintain satisfactory evidence of that fact, other than the vague statement in subparagraph 4(f) of the Reply that the Appellant did not provide and maintain adequate documentation to substantiate and differentiate 0% taxable supplies from 7% taxable supplies.
+
+[23] In Hickman Motors Ltd. v. The Queen, [1997] 2 S.C.R. 336, Madam Justice L'Heureux-Dube said at page 378, in discussing the onus of proof:
+
+...The Minister, in making assessments, proceeds on assumptions...and the initial onus is on the taxpayer to 'demolish' the Minister's assumptions in the assessment...The initial burden is only to 'demolish' the exact assumptions made by the Minister but no more: (emphasis in the original)
+
+[24] The Appellant in this case has not been put on notice of any assumption underlying the assessment that the vehicles were not exported, or that there was any lack of intention on the part of the purchasers to export them, nor has it been given any notice of a standard of evidence required by the Minister to meet paragraph (d) of section 1 which differs from that which satisfied the first assessor.
+
+[25] The appeal is therefore allowed as to this issue, and the export vehicles are zero-rated supplies. The assessment is referred back to the Minister for reconsideration and reassessment on that basis. The interest and penalties will be adjusted accordingly. This is not a case in which I can award costs, nor would I do so if it were open to me.
+
+Signed at Ottawa, Canada, this 8th day of April, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-2820(GST)G
+
+STYLE OF CAUSE: Uranus Auto Sales Inc. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: March 5, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: March 11, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Alam Kawaja
+
+Counsel for the Respondent: Brianna Caryll
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm: N/A
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+

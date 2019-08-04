@@ -1,0 +1,112 @@
+Date: 19980723
+
+Docket: 96-4797-IT-I
+
+BETWEEN:
+
+SHEILA ROWE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Brulé, J.T.C.C.
+
+[1] The appellant appeals from an assessment of tax in which the respondent denied the full amount of property claimed by the appellant as a tax free capital gain in respect of the 1992 taxation year.
+
+Facts
+
+[2] The appellant sold a mixed-use commercial and residential property, for which she claimed a capital gains exemption on the gain on the residential portion of the sale. The Minister of National Revenue (the "Minister") in assessing the appellant, disallowed a portion of the capital gains exemption on the basis that the appellant's division of land as between residential use and commercial use was incorrect. In filing her tax return, the appellant allocated 53,796.60 square feet of property as part of her principal residence. The Minister only allowed 33,474.57 square feet plus an additional 1,200 square feet in respect of land upon which a personal-use shed was located (for a total of 34,674.57 square feet), on the basis that only this amount of property was necessary for the use and enjoyment of the principal residence.
+
+(I note in passing that both parties consistently refer to the square footage of the property as opposed to its size in metres or hectares. This causes a certain degree of inconvenience because the Income Tax Act (the "Act") of course refers to size in metric measurements; it is really no different from the Minister assessing a taxpayer in terms of $US dollars, which would clearly be absurd.)
+
+Issue
+
+[3] Was the Minister's allocation of land as between the principal residence and the commercial property correct?
+
+Analysis
+
+[4] In reassessing the appellant, the Minister relied upon the following assumptions of fact:
+
+a) that the appellant was the owner of property known as civic numbers 16-18 ("16-18") and 20-26 ("20-26") Main Highway, Long Pond, Newfoundland;
+
+b) that 16-18 was a commercial property from which the rental revenue was received by the appellant and reported as income in the calculation of taxable income;
+
+c) that part of 20-26 was the appellant's principal residence and the remainder was vacant land;
+
+d) that the total area of all the property owned by the appellant in this location was 86,275.75 square feet ("the property");
+
+e) that in March, 1991 the appellant moved from the property to 11 Limerick Place, St. John's Newfoundland;
+
+f) that the appellant rented out the house located on the property for part of 1991 and part of 1992;
+
+g) that the appellant did not make an election, pursuant to subsection 45(2) of the Act in her 1991 income tax return;
+
+h) that in February, 1992 negotiations to sell the property began;
+
+i) that in September, 1992 the appellant sold the property for the sum of $345,000 to AMALCO Foods, which tore down the buildings and constructed a supermarket on the site;
+
+j) that prior to the completion of the sale the first 200 feet of the property was rezoned as Commercial General and the remainder was rezoned as Residential Medium Density;
+
+k) that the appraisal completed on the appellant's behalf found that only 29,992 square feet of the land was attributable to the principal residence not including the shed used by the appellant;
+
+l) that no more than 34,674.57 square feet of the land was reasonably regarded as contributing to the use and enjoyment of the house as a residence including the shed and path leading thereto;
+
+m) that the fair market value of the land attributable to the principal residence at the time of sale was $138,596 and no more;
+
+n) that the remaining 51,601 square feet of land was commercial property ("the commercial property");
+
+o) that the adjusted cost base of the commercial property was no more than $57,550;
+
+p) that the fair market value of the commercial property at the time of sale was $206,404;
+
+q) that the commercial property was a capital asset disposed of by the appellant and the proceeds thereof was a capital gain;
+
+r) that the maximum capital gains exemption to which the appellant was entitled for the 1992 taxation year was $75,000;
+
+s) that the calculation of the appellant's taxable capital gain from the disposition of the property (exclusive of the residence) was $104,255.53.
+
+[5] The general rule under subparagraph 40(2)(g)(ii) of the Act is that a Canadian resident is not taxable on a capital gain realized from the sale of his or her principal residence.
+
+[6] "Principal Residence" is defined under paragraph 54(g) of the 1992 Act as follows:
+
+"principal residence" of a taxpayer for a taxation year means a particular property that is a housing unit...
+
+(i) ordinarily inhabited in the year by the taxpayer
+
+[...]
+
+except that, subject to section 54.1, in no case shall any such housing unit, interest or share, as the case may be, be considered to be a taxpayer's principal residence for a year
+
+(c) ... unless the particular property was designated by the taxpayer in prescribed from and manner to be the taxpayer's principal residence for the year and no other property has been designated for the purposes of this definition ...
+
+[...]
+
+and, for the purpose of this definition,
+
+(e) the principal residence of a taxpayer for a taxation year shall be deemed to include ... the land subjacent to the housing unit and such portion of any immediately contiguous land as can reasonably be regarded as contributing to the use and enjoyment of the housing unit as a residence, except that where the total area of the subjacent land and of that portion exceeds 1/2 hectare, the excess shall be deemed not to have contributed to the use and enjoyment of the housing unit as a residence unless the taxpayer establishes that it was necessary to such use and enjoyment [...]
+
+[7] In this appeal, the appellant has sold adjoining plots of mixed-use land that is zoned both residential and commercial. The evidence is clear that the appellant's principal residence was located on a portion of the land which was sold by her. The appellant had not designated that property as her principal residence pursuant to subsection 45(2) of the Act, however the Minister waived this requirement. The dispute between the appellant and the Minister is as to the allowable portion of the gain on the sale which is attributable to the appellant's principal residence and therefore subject to the capital gains exemption.
+
+[8] The appellant, in filing her return, presumed that .5 of a hectare (52,216 sq. feet) of land upon which her principal residence was situated automatically qualified as part of the principal residence of the taxpayer pursuant to the Act, and allocated the proceeds of sale on the property accordingly. However, on a plain reading of paragraph (g) of the definition of "principal residence" found in s. 54 of the Act, it is clear that the provision merely creates a rebuttable presumption that all land exceeding .5 hectare is not part of the principal residence of the taxpayer. That land that is less than .5 hectare and is subjacent (underlying) and contiguous (running alongside) to the principal residence still must "reasonably be regarded as contributing to the use and enjoyment of the housing unit as a residence".
+
+[9] Strayer, J. (as he then was) said the following in Fourt v. the Queen, 91 DTC 5631 (F.C.T.D.) at 5633:
+
+"Firstly, the burden of proof on the taxpayer in respect of the disposition of land under 1/2 hectare is very considerably less than the burden of proof in respect of land of more than 1/2 hectare. There is a common thread running through both, namely, that it must be shown that the land disposed of contributed to the "use and enjoyment of the housing unit as a residence". But it is sufficient in respect of the smaller dispositions to show that the land disposed of "may reasonably be regarded as contributing" to that use and enjoyment, whereas in respect of the larger dispositions the taxpayer must establish that it was "necessary to such use and enjoyment". Secondly, it appears to me that the actual use and enjoyment made by the taxpayer of the property is considerably more important in the application of the test with respect to dispositions of land of less than 1/2 hectare. I need not enter the debate as to whether the test of what is "necessary" in respect of larger dispositions is an objective or subjective test. With respect to the test for smaller dispositions, however, the only requirement is that the land "reasonably be regarded as contributing". The word "reasonably" implies some kind of objective test in the sense that the Court is not obliged to indulge the most extravagant or fanciful views of a taxpayer as to how contiguous land contributes to the use and enjoyment of her residence. But where there is credible evidence, as there is here, of actual use and enjoyment by the taxpayer of the contiguous land in connection with her house, and such use and enjoyment is not exaggerated or unnatural sort, a great deal of weight must be attached to it in assessing whether such use can be reasonably regarded as contributing to the taxpayer's use and enjoyment of his residence."
+
+[10] The case of Fourt (supra) has not been considered in any subsequent reported cases.
+
+[11] In view of the above and especially of the evidence given at the trial the appeal is hereby dismissed.
+
+Signed at Ottawa, Canada, this 23rd day of July 1998.
+
+"J.A. Brulé"
+
+J.T.C.C.
+

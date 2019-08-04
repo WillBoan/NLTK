@@ -1,0 +1,228 @@
+Date: 20020322
+
+Docket: 2001-829-GST-I
+
+BETWEEN:
+
+LYUDMILA SHVARTSMAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment bearing number PACT-031MC and dated January 22, 2001 that was made by the Minister of National Revenue ("Minister") and whereby the appellant was assessed, pursuant to subsections 225(1), 228(2) and 280(1) of the Excise Tax Act ("Act"), for an adjusted net tax of $8,051.95 together with $759.39 in interest and a penalty of $1,143.75 in respect of the period from July 1, 1995 to December 31, 1998.
+
+[2] The adjusted net tax was calculated on the basis of the taxable supplies made by the appellant in the course of her business as a registered patent agent, and of the input tax credits allowed to the appellant.
+
+[3] The appellant objects to the adjusted net tax as calculated by the Minister in respect of the following points.
+
+A. Calculation of taxable supplies
+
+[4] The Minister determined the amount of the taxable supplies by reviewing the appellant's bank deposits in her Canadian and U.S. dollar bank accounts. In so doing, he excluded from the taxable supplies the amounts that were proven to be transfers from one account to another.
+
+[5] The appellant submits that some amounts indicated in Exhibits A-5, A-6 and A-8 as withdrawals from the U.S. dollar account and deposits in the Canadian dollar account, or vice versa, on the same day were erroneously considered not to be proven transfers and were therefore included twice by the Minister as taxable supplies. The Minister refused to consider those amounts as transfers from one account to another on the basis that the appellant did not prove them by means of deposit and withdrawal slips.
+
+[6] I find it sufficiently clear from the copies of the bank books filed in evidence that the amounts referred to by the appellant were transfers from one account to another. The abbreviation "FOREX" appears beside those amounts and I do not believe it necessary to be an expert to conclude that it stands for "foreign exchange". I therefore find that those amounts should not have been added twice in calculating the taxable supplies. The following amounts shall therefore be excluded from the taxable supplies for the purpose of calculating the adjusted net tax:
+
+Exhibit A-5 C$6,000.00
+
+C$ 339.17
+
+Exhibit A-6 US$ 900.00
+
+US$ 350.00
+
+US$2,000.00
+
+Exhibit A-8 US$ 500.00
+
+B. Amounts of goods and services tax ("GST") collectible on the taxable supplies
+
+[7] In determining the amount of GST that was collectible, the Minister was of the view that the appellant should have collected GST on services rendered by foreign professionals at her request that she charged back to her clients. In the appellant's view, she was simply acting as an agent for her clients when she asked foreign associates to render services in relation to patents outside Canada and the United States. Therefore, she submits that the services billed by non-resident professionals did not attract GST when charged back to her clients.
+
+[8] Under former section 178 of the Act, "where in making a supply of a service a person incurs an expense for which the person is reimbursed by the recipient of the supply, the reimbursement shall be deemed to be part of the consideration for the supply of the service [and therefore taxable], except to the extent that the expense was incurred by the person as an agent of the recipient [in which case it is not taxable]". Section 178 of the Act was repealed on April 24, 1996, on the basis that it was unnecessary as the treatment it provided for already flowed from the legal nature of these transactions (see Revenue Canada's Technical Information Bulletin B-075, "Proposed Changes to the GST" (April 23, 1996)).
+
+[9] The question is therefore whether the appellant incurred the foreign associates' fees as an agent for her clients or on her own account, as part of the service provided to her clients. The appellant relies on the GST/HST ("Goods and Services Tax/Harmonized Sales Tax") Policy Statement P-209, which reads as follows at pages 1, 2, 3, 4 and 6:
+
+P-209 Date of Issue: March 11, 1997
+
+Final Version: October 7, 1998
+
+GST/HST POLICY STATEMENT P-209:
+
+LAWYERS' DISBURSEMENTS
+
+. . .
+
+Effective Date:
+
+January 1, 1991
+
+Issue and Decision:
+
+In this policy statement, the phrase "lawyers' disbursements" refers to any number of expenses that a lawyer may incur in the course of providing legal services, and for which a particular client will subsequently reimburse the lawyer. . . .
+
+In this policy statement, each disbursement is classified as either "incurred as agent" or "not incurred as agent". The phrase "incurred as agent" indicates that the disbursement described is generally incurred in a lawyer's capacity as agent for a particular client. As such, no Goods and Services Tax/Harmonized Sales Tax (GST/HST) is exigible on the subsequent reimbursement by the client. The phrase "not incurred as agent" indicates that the disbursement described is generally incurred otherwise then [sic] in a lawyer's capacity as agent for a particular client. As such, GST/HST is exigible on the subsequent reimbursement by the client (to the extent that GST/HST is exigible on the consideration for the service provided by the lawyer to the client). The classification of each disbursement is based on the application of the principles of agency to a typical transaction involving that disbursement. Policy statement P-182, titled Determining the meaning of "agent" and "agency" was used as the basis for this analysis.
+
+. . .
+
+Intellectual property practice area
+
+Intellectual property includes various rights, such as patents, trademarks, copyrights, industrial design rights, plant breeders' rights, and rights to integrated circuit topography. This practice area involves the investigation of, the preparation of, the registration of, the enforcement of or the defence of these rights.
+
+Common disbursements incurred as agent:
+
+. . .
+
+Fees paid to foreign persons and related disbursements:
+
+In performing certain duties in respect of intellectual property, a lawyer may need to obtain the services of a non-resident lawyer (or a non-resident patent agent/trademark agent). In such cases the client is made aware of and approves the selection of the non-resident professional. The Canadian lawyer has no professional input on the proceedings undertaken by the non-resident, but acts as a conduit for the information to and from the non-resident. The non-resident will typically bill for both professional services and related disbursements. While ultimately the client is responsible for the non-resident's account, the normal practice is for the non-resident to invoice the Canadian lawyer.
+
+Note that if the Canadian lawyer uses the services of a non-resident professional as an input in making a supply to the client, such disbursements would not be incurred as agent.
+
+[10] The appellant is of the view that she did not use the services of non-resident professionals as an input in making a supply to her clients.
+
+[11] On the basis of the decisions of the Federal Court of Appeal in Glengarry Bingo Association v. Canada, [1999] G.S.T.C. 15, and C.I. Mutual Funds Inc. v. Canada, [1999] G.S.T.C. 12, I do not find that the appellant was acting as an agent for her clients when she subcontracted work to non-resident professionals in supplying her services to her clients.
+
+[12] The non-resident professionals' fees were part of the services provided by the appellant to her clients. The evidence does not reveal that the appellant's clients were at risk in respect of her obligations to the non-resident professionals whose services she retained. Nor does the evidence reveal that the appellant's clients were involved in any capacity in the hiring of the non-resident professionals. In summary, there is no evidence that the appellant's clients were responsible for her obligations as regards the non-resident professionals' services.
+
+[13] It is my view that the appellant did not demonstrate that she held herself out as an agent when contracting with the non-resident professionals. Rather, the evidence discloses that she used their services as an input in making a supply to her clients (see Exhibit A-9).
+
+[14] For these reasons, I conclude that the non-resident professionals' fees were not disbursements incurred by the appellant as an agent for her clients and that she should have charged them GST on those services. I therefore find that the assessment should stand on this point.
+
+C. Input tax credits ("ITCs") for GST paid to subcontractors prior to 1997
+
+[15] No amounts were allowed to the appellant as ITCs for GST paid to subcontractors prior to 1997, on the basis that the appellant failed to provide sufficient documentation supporting the GST paid to subcontractors. The appellant filed as Exhibit A-12 a few invoices showing that she had paid GST to subcontractors. I will therefore allow ITCs on the basis of those invoices only.
+
+D. ITCs claimed on expenses paid for use of the vehicle
+
+[16] The Minister determined that the appellant's car was used 25 per cent of the time for business purposes. Therefore, the appellant was allowed ITCs on only 25 per cent of the automobile expenses.
+
+[17] The appellant said the car was driven by her son, who was assisting her in the business. She said that he paid for gasoline using his credit card and that she reimbursed him afterwards. She admits that her son was studying law in Quebec City and used the car to go there quite often. She admits that she did not pay a salary to her son. I find that the appellant has not demonstrated that the car was used more than 25 per cent of the time for business purposes. Therefore, the assessment will remain unchanged on this point.
+
+E. ITCs claimed on expenses relating to telephone lines
+
+[18] The appellant used two telephone lines from her home. The Minister allowed ITCs on all expenses relating to one telephone line. The appellant says that she very rarely used the telephone for personal reasons. However, she admits that her mother lives outside Canada. Her son was studying in Quebec City during the week in the course of the period at issue. I find that the expenses relating to one telephone line are reasonably attributable to the business. The assessment will remain unchanged on this point.
+
+F. ITCs on expenses for furnishing the reception room
+
+[19] The appellant worked in her apartment. One room was used for her office. She says that she used another room for receiving clients. This last room was also used by her son when he was in Montreal.
+
+[20] She therefore claims that 50 per cent of the cost of her apartment was related to her business. The Minister allowed 25 per cent.
+
+[21] Taking into account the facts that the appellant's son was in Quebec City 40 per cent of the time (approximately three days a week according to the appellant's testimony) and that the appellant worked in her home and received clients there, I am prepared to allow her ITCs on 40 per cent of her home expenses (rental, heating and electricity).
+
+G. ITCs on other expenses claimed
+
+[22] The appellant claims an ITC on the cost of a computer bought by her son. However, the Minister disallowed ITCs on all expenses incurred by the appellant's son, and the appellant has not demonstrated that the Minister was wrong in that regard.
+
+Conclusion
+
+[23] For all these reasons, the appeal is allowed and the adjusted net tax owed by the appellant for the period at issue shall be recalculated as follows:
+
+- the taxable supplies shall be reduced by the amounts indicated in Exhibits A-5, A-6 and A-8 that are referred to in paragraph 6 of these reasons; and
+
+- the ITCs shall be recalculated to take into account the GST paid to subcontractors as per Exhibit A-12, and on the basis that 40 per cent (rather than 25 per cent) of the appellant's home expenses were incurred for business purposes.
+
+In all other respects, the assessment will remain unchanged.
+
+Signed at Ottawa, Canada, this 22nd day of March 2002.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-829(GST)I
+
+STYLE OF CAUSE: Lyudmila Shvartsman and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Montreal, Quebec
+
+DATE OF HEARING: March 4, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Lucie Lamarre
+
+DATE OF JUDGMENT: March 22, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Gérald Danis
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-829(GST)I
+
+BETWEEN:
+
+LYUDMILA SHVARTSMAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on March 4, 2002, at Montreal, Quebec, by
+
+the Honourable Judge Lucie Lamarre
+
+Appearances
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Gérald Danis
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act ("Act") for the period from July 1, 1995 to December 31, 1998, notice of which is dated January 22, 2001 and bears number PACT-031MC, is allowed without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the adjusted net tax owed by the appellant for the period at issue shall be recalculated as set out below.
+
+The following amounts found in Exhibits A-5, A-6 and A-8 shall be excluded from the taxable supplies for the purpose of calculating the adjusted net tax:
+
+Exhibit A-5 C$6,000.00
+
+C$ 339.17
+
+Exhibit A-6 US$ 900.00
+
+US$ 350.00
+
+US$2,000.00
+
+Exhibit A-8 US$ 500.00
+
+The ITCs shall be recalculated to take into account the GST paid to subcontractors as per Exhibit A-12, and on the basis that 40 per cent (rather than 25 per cent) of the appellant's home expenses were incurred for business purposes.
+
+In all other respects, the assessment will remain unchanged.
+
+Signed at Ottawa, Canada, this 22nd day of March 2002.
+
+" Lucie Lamarre "
+
+J.T.C.C.
+

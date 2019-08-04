@@ -1,0 +1,142 @@
+Date: 19990805
+
+Docket: 97-3715-IT-G
+
+BETWEEN:
+
+IAN KATZ,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+[1] The Appellant appeals his assessment for the 1995 taxation year. The Appellant, a Canadian resident, was an employee and shareholder of Standard Securities Capital Corporation ("SSCC"), a corporation resident in Canada. In 1995, the Appellant owned 16,557 common shares (the "shares") in SSCC. The aggregate adjusted cost base to the Appellant of those shares was $75,978. In addition to those shares, the Appellant owned $250,920 of subordinated debt in SSCC.
+
+[2] On or about July 1995, the Appellant agreed to resign as an employee. At that time he sold the shares for consideration of $91,641 and assigned $142,561 of the subordinated debt to Winthrope Investments Ltd. for no consideration and retired $108,359 of the subordinated debt for consideration of $108,359. SSCC issued to the Appellant a T5 showing a taxable dividend for the sale of the shares.
+
+[3] The Appellant submits that it was his understanding that he was selling the shares directly to other shareholders and that the sale would result in a capital gain of $15,641 (in other words not a taxable dividend). The Appellant states that because SSCC issued the T5 he was forced to file his 1995 tax return on the basis that the shares were acquired for cancellation and that he had realized a deemed dividend and incurred an allowable business investment loss ("ABIL") on the disposition of the shares. The Appellant was able to demonstrate to the Minister of National Revenue (the "Minister") that the T5 was incorrect as it did not take into account the full paid-up capital of the shares. The Minister reduced the deemed dividend to reflect the full paid-up capital of the shares, however, he disallowed the Appellant’s claim for an ABIL.
+
+[4] The Minister submits that the Appellant incurred a deemed dividend upon the acquisition by SSCC of all the Appellant's shares. Pursuant to paragraph 84(3)(b), a deemed dividend of $84,815 was said to have been received by the Appellant with proceeds of disposition being $6,826. The Minister found that since the adjusted cost base of the redeemed shares was $75,978, the Appellant incurred a capital loss of $69,152 as a result of the disposition. The Respondent submits that the Appellant claimed capital gains deductions in 1986, 1987, 1988 and 1990 and therefore pursuant to subsection 39(9) any business investment loss otherwise calculated pursuant to paragraph 39(1)(c) would be nil.
+
+ISSUES
+
+[5] Is the sale of the Appellant's shares in SSCC a dividend or a capital gain?
+
+[6] Is the Appellant entitled to a business investment loss ("BIL")?
+
+THE EVIDENCE AT TRIAL
+
+[7] The Appellant has been in business for a number of years and was an experienced employee and director of SSCC for a period of time.
+
+[8] After some difficult discussions and as a result of negotiations with SSCC, the Appellant agreed to sell all of his interest in SSCC and SSCC agreed to purchase all of his interest. The Appellant stated that in the original draft of the agreement he was to transfer his shares to specified shareholders, however he asked that the clause be changed as he felt not all of the shareholders under this transaction were dealt with fairly. As a result, the appellant signed an agreement that included the following clauses:
+
+Katz wishes to sell all of his interest in SSCC and SSCC is desirous of purchasing his said interest upon the terms and conditions herein contained.
+
+...
+
+2. Katz agrees to transfer his common shares as SSCC will in writing direct.
+
+...
+
+5. Katz agrees to execute all corporate minutes to date as requested by SSCC's solicitor and any and all documents necessary to give effect to the terms and conditions of this Agreement.
+
+6. The parties agree to execute and exchange mutual Releases in favour of each other with respect to all claims of every nature and kind which each may have against the other, save and except for any matters provided for in this Agreement.[1]
+
+[9] The agreement was complied with and the funds were paid. The shares were acquired by SSCC and apparently thereafter were re-issued to others.
+
+[10] The Appellant stated the decision of SSCC to issue a T5 showing a taxable dividend because of the operation of subsection 84(3) was contrary to his understanding that the whole transaction was a sale of shares solely on capital account.
+
+[11] He alleges incompetence on the part of the SSCC professional advisors and questions the actions of certain SSCC officials. He also submitted that SSCC never recorded the transaction of redemption or re-issuance of shares.
+
+LEGISLATION
+
+CHARACTERIZATION OF THE PROCEEDS
+
+OF DISPOSITION TO A CORPORATION OF SHARES
+
+[12] The applicable subsection is 84(3) of the Income Tax Act (the "Act") which reads:
+
+Where at any time after December 31, 1977 a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever (otherwise than by way of a transaction described in subsection (2)) any of the shares of any class of its capital stock,
+
+(a) the corporation shall be deemed to have paid at that time a dividend on a separate class of shares comprising the shares so redeemed, acquired or cancelled equal to the amount, if any, by which the amount paid by the corporation on the redemption, acquisition or cancellation, as the case may be, of those shares exceeds the paid-up capital in respect of those shares immediately before that time; and
+
+(b) a dividend shall be deemed to have been received at that time by each person who held any of the shares of that separate class at that time equal to that portion of the amount of the excess determined under paragraph (a) that the number of those shares held by the person immediately before that time is of the total number of shares of that separate class that the corporation has redeemed, acquired or cancelled, at that time.
+
+[13] In summary, a resident corporation is deemed to have paid a dividend if it redeems, acquires or cancels any of the shares of any class of its capital stock and pays an amount in excess of the paid-up capital of its shares.
+
+CAPITAL LOSS AS A 'BIL'
+
+[14] An ABIL is defined in paragraph 38(c) of the Act as ¾ of a BIL as defined in paragraph 39(1)(c). The relevant parts of paragraph 39(1)(c) of the Act reads as follows:
+
+For the purposes of this Act,
+
+...
+
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+
+(i) to which subsection 50(1) applies, or
+
+(ii) to a person with whom the taxpayer was dealing at arm’s length
+
+of any property that is
+
+(iii) a share of the capital stock of a small business corporation, or
+
+...
+
+exceeds the total of
+
+...
+
+(viii) the amount determined in respect of the taxpayer under subsection (9) or (10), as the case may be.
+
+[15] Under paragraph 39(1)(c) a BIL is defined to be a capital loss realized on a disposition after 1977 of shares of a small business corporation. The purpose of the BIL and the ABIL is to provide the taxpayer with preferential treatment for certain types of capital losses. Unlike other capital losses which can only be used to offset capital gains (pursuant to paragraph 3(b)), capital losses which fall within the definition of a BIL can be used to offset income from any source income (pursuant to paragraph 3(d) of the Act).
+
+[16] Subsection 39(9) of the Act provides for the reduction in a taxpayer's BIL until the taxpayer has realized business investment losses equal to previous years' capital gains which are eligible for the capital gains exemption under section 110.6.
+
+ANALYSIS
+
+[17] After discussion, consultation and amendments, the Appellant signed the agreement. This created a contractual relationship. The text of the agreement is clear. SSCC purchased the shares of the Appellant.
+
+[18] The Appellant's submission that his understanding of the intention of the agreement as to who bought the shares is not supported by the written text of the agreement and the actions of SSCC and the Appellant.
+
+[19] Because SSCC acquired the shares of the appellant, the appellant is deemed to have received a dividend of $84,815 pursuant to subsection 84(3).
+
+[20] The acquisition of shares by SSCC results in proceeds of disposition to the Appellant. However, pursuant to section 54 deemed dividends are not included in the proceeds of disposition. The proceeds of disposition were $6,826, that is, the difference between the amount received ($91,641) and the amount deemed to be a dividend ($84,815). The Appellant therefore incurred a capital loss of $69,152[2] and an allowable capital loss of $51,864[3].
+
+[21] A capital loss under certain circumstances is also a BIL[4]. As to the Appellant's alternative plea that he should be entitled to claim an ABIL[5] it appears to be of little practical use to the Appellant. The Appellant was allowed capital gains exemptions in the amounts of $22,180, $25,820, $2,667 and $5,575 for the taxation years 1986, 1987, 1988 and 1990. Pursuant to subsection 39(9) as a result of the capital gains exemptions previously claimed, the Appellant's BIL is reduced to nil.
+
+CONCLUSION
+
+[22] I conclude the Appellant sold his shares of SSCC to SSCC. As a result of subsection 84(3), SSCC is deemed to have paid a dividend when it purchased and acquired all of the Appellant's shares in SSCC. The Minister's assessment was correct.
+
+DECISION
+
+[23] The appeal is dismissed.
+
+[24] The Respondent is entitled to costs.
+
+Signed at Ottawa, Canada, this 5th day of August 1999.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+[1] Exhibit R-1, tab 6 at pages 57 and 58.
+
+[2] The difference between the aggregate adjusted cost base ($75,978) and the proceeds of disposition ($6,826).
+
+[3] Paragraph 38(b).
+
+[4] Paragraph 39(1)(c).
+
+[5] Paragraph 38(c).
+

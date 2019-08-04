@@ -1,0 +1,1042 @@
+Date: 20011115
+
+Docket: 97-3264-IT-G
+
+BETWEEN:
+
+PETER M. BROWN,
+
+Appellant,
+
+and
+
+
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Rip, J.T.C.C.
+
+INTRODUCTION
+
+[1] Mr. Peter Brown appeals income tax assessments for 1993, 1994, 1995 and 1996 in which the Minister of National Revenue ("Minister"), among other things, denied the deduction in 1993 and 1994 of his share of purported business losses from a partnership and interest expenses claimed in respect of acquiring units in the partnership. For 1995, the respondent deleted income reported by the appellant from the partnership and disallowed interest expenses. The appeal for 1996 is with respect to a consequential adjustment made to the appellant's minimum tax carry-forward.
+
+[2] In December 1993, Peter Brown, the appellant, purported to acquire 80 units in the CEG Partnership ("Partnership" or "CEG Partnership"), a general partnership formed under the law of Ontario. The CEG Partnership purported to acquire for the purchase price of US$8,170,000 an undivided interest in 11 computer programs ("computer programs" or "computer games") from American Softworks Corporation ("ASC"), a corporation incorporated in the United States of America. The Partnership and ASC purported to carry on the business of selling computer games in a joint venture.
+
+[3] The Partnership added the aggregate costs of the computer programs to the capital cost of its Class 12 assets, as defined by section 1100 and Schedule II(o) to the Regulations to the Income Tax Act ("Act") and, pursuant to paragraph 20(1)(a) of the Act, deducted capital cost allowance in computing its income for 1993 and 1994. The Partnership incurred a loss in 1993 and 1994 and, in computing his income for those years, the appellant deducted his share of the Partnership's loss, interest and expenses relating to his interest in the Partnership. In 1995 the Partnership earned a profit.
+
+Issues
+
+[4] The issues in these appeals are:
+
+a) Did the Partnership acquire the 11 computer programs?
+
+b) Did the Partnership acquire the 11 computer programs for the purpose of producing income from a business?
+
+c) Did the Partnership carry on business during the years in appeal with a reasonable expectation of profit?
+
+d) Did ASC and the Partnership deal with each other at arm's length and if not, then for the purposes of subsections 69(1) and (2) of the Act, what was the fair market value of the computer programs as at December 31, 1993? (The Minister reassessed on the basis the fair market value of the computer programs was no more than US$225,000).
+
+e) Did the amount of a note, referred to as the "Acquisition Note", from the Partnership to ASC form part of the Partnership's capital cost of the computer programs or is the amount of the Acquisition Note a contingent liability?
+
+f) If, as a result of certain events taking place after December 31, 1993, was the appellant deemed to be a limited partner (subsections 96(2.1) and (2.2))[1] and was his "at-risk amount" nil, (paragraph 96(2.4)(b))?[2]
+
+g) Were the computer programs "available for use", within the meaning of subsections 13(26) and (27) of the Act,[3] at the end of 1993?
+
+h) Were the capital cost allowance claimed by the Partnership and the resulting business losses claimed by the appellant in 1993 and 1994 reasonable in the circumstances, within the meaning of section 67 of the Act?
+
+The Transaction
+
+[5] At commencement of trial the parties admitted, among other things, the following facts:[4]
+
+1. CEG Partnership (the "Partnership") was, until October 1, 1993, a limited partnership formed under and governed by the laws of Ontario. By agreement dated October 1, 1993 (the "Partnership Agreement") the Partnership was reconstituted by its members as a general partnership.
+
+2. On October 1, 1993, the partners of the Partnership were CEG Corporation and Mr. Graham Turner.
+
+3. On October 1, 1993 the sole registered shareholder of CEG Corporation was Mr. Turner.
+
+4. The Partnership's fiscal year end was set at December 31 under Section 2.04 of the Partnership Agreement.
+
+5. The Partnership was registered as a "tax shelter" under Section 237.1 of the Income Tax Act under number TS028910.
+
+6. By Management Agreement dated October 1, 1993, CEG Corporation agreed to be the managing partner of the Partnership for a fee of 2% of the distributable cash of the Partnership up to a maximum of US$100,000 in any fiscal period.
+
+7. American Softworks Corporation ("ASC") is a corporation formed under the laws of the State of Delaware, USA.
+
+8. By agreement dated as of October 1, 1993, the Partnership entered into an agreement (the "Software Agreement") with ASC, which provided, inter alia;
+
+(a) at closing, the Partnership was to purchase a percentage interest in the Computer Programs depending on the amount of funds raised, subject to a minimum 27.27% interest in all 22 Computer Programs or, alternatively, a 100% interest in six Computer Programs (Part II - Section 3);
+
+(b) the Partnership was to pay the purchase price for the Computer Programs as follows:
+
+(i) by paying to ASC in cash an amount equal to 17.5% of the aggregate unit value less the costs of issue on closing;
+
+(ii) by assigning to ASC the Promissory Notes received on closing by the Partnership from each partner, representing a further 22.5% of the aggregate unit value; and
+
+(iii) as to the remaining 60% of the aggregate unit value, by the Partnership issuing an Acquisition Note to ASC (Part II - Section 4);
+
+(c) ASC was appointed the Partnership's agent to maintain, develop, enhance, distribute and market the Computer Programs and video games worldwide, and to grant licenses or sub-licenses and make sub-distribution arrangements and provide maintenance and warranty services on the Computer Programs and video games on behalf of the Partnership (Part III - Section 1);
+
+(d) profits were to be shared as follows:
+
+(i) until the Acquisition Note was fully paid, the Partnership would receive 82.5% of the Gross Profits (as defined in the Offering Memorandum - Tab 19) and ASC would receive the remaining 17.5%;
+
+(ii) on the next US$25,000,000 of Gross Profits after payment of the Acquisition Note in full, the Partnership would receive 60% of Gross Profits and ASC would receive 40%;
+
+(iii) thereafter, the Partnership would receive 50% of Gross Profits and ASC would receive 50% (Part III - Section 6);
+
+(e) until the Acquisition Note was paid in full, the Partnership agreed to apply all amounts received by it under the Software Agreement firstly by paying ASC an amount equal to the accrued interest on the Acquisition Note; secondly, by paying ASC 45% of the balance on account of the principal owing on the Acquisition Note; and thirdly, after the deduction of applicable U.S. taxes, the Partnership was entitled to retain the remaining balance (Part III - Section 7);
+
+(f) ASC was required during 1994 and 1995 to first market and distribute the Partnership's 16-bit Computer Programs and video games before distributing any other 16-bit video games (Part III - Section 10), except for certain games that ASC was presently publishing listed in Schedule "1".[5]
+
+9. Pursuant to the Software Agreement, ASC was solely responsible for the costs to be incurred in developing and marketing the Computer Programs and video games.
+
+10. By Confidential Offering Memorandum dated October 29, 1993 (the "Offering Memorandum"), the Partnership offered for sale at minimum of 450 units and a maximum of 1,650 units at US$10,000 per unit.
+
+11. By Amending Agreement made December 8, 1993 and executed December 26, 1993, ASC and the Partnership agreed to amend Part II - Section 3 of the Software Agreement to clarify that ASC had the option of selling an equal undivided percentage interest in each of the 22 Computer Programs, or 100% of a lesser number of Computer Programs depending on the number of Partnership units sold, subject to a minimum of a 27.27% undivided interest in all 22 Computer Programs or 100% of at least six Computer Programs.
+
+12. ASC entered into the following agreements (among others) with software developers to acquire certain Computer Programs:
+
+(a) an agreement dated as of October 1, 1993 signed on December 30, 1993 with Imagitec Design Inc.
+
+(b) an agreement dated as of October 1, 1993 signed on December 30, 1993 with Radical Entertainment Ltd.;
+
+(c) an agreement dated as of October 1, 1993 signed on December 30, 1993 with Millenium Interactive Limited;
+
+(d) an agreement made December 31, 1993 with Electro Brain Corp.[6]
+
+13. ASC signed a bill of sale in respect of 11 Computer Programs sold to the Partnership on December 31, 1993 for US$8,170,000.[7]
+
+14. The Partnership agreed to pay for the Computer Programs it acquired on closing by delivering to ASC a promissory note due on December 31, 2003 bearing simple interest at 6% annually (the "Acquisition Note") to satisfy US$4,950,000 of the purchase price, by agreeing to assign promissory notes received from investors in the Partnership to satisfy a further US$1,856,250 of the purchase price, and by agreeing to pay cash to satisfy the remaining US$1,443,750 of the purchase price.[8]
+
+15. On December 31, 1993, the Partnership accepted subscriptions from 28 investors for a total of 825 units at US$10,000 each (total subscription price: US$8,250,000).
+
+16. The Appellant subscribed for 80 units of the Partnership. MacLachlan Investments Corporation, a corporation of which the Appellant is the president and controlling shareholder, subscribed for 30 units of the Partnership.
+
+17. Mr. Tryon Williams subscribed for 15 units of the Partnership.
+
+18. Mr. Noel Bambrough subscribed for 235 units of the Partnership. A corporation controlled by Mr. Noel Bambrough, 1015745 Ontario Inc., subscribed for 30 units of the Partnership.
+
+19. Each subscriber for a unit of the Partnership was to satisfy the US$10,000 payable to the Partnership as follows - US$6,000 by assuming a proportionate share of the Acquisition Note, US$2,250 by issuing a promissory note, and US$1,750 in cash.[9]
+
+20. Under an Assumption of Acquisition Note agreement each general partner personally assumed liability for a portion of the Acquisition Note, agreeing to pay ASC the principal and interest under the Acquisition Note on December 31, 2003.
+
+21. Each general partner irrevocably directed the Partnership to pay ASC out of each partner's share of distributable cash an amount equal to 100% of the amount owed by that partner for payment of interest under the Assumption Note, with 45% of the balance to be applied to the outstanding principal.
+
+22. Pursuant to a Pledge Agreement, the Appellant pledged his Partnership units and any proceeds therefrom as security for payment of the Acquisition Note.
+
+23. The Partnership did not release any video games incorporating the Computer Programs until 1994.
+
+24. The Partnership added the full acquisition cost of the Computer Programs of US$8,170,000 (CDN$10,798,290) to class 12 and claimed capital cost allowance of CDN$5,399,145 in both 1993 and 1994. The remaining capital contributed by the partners of US$80,000 (CDN$105,736) was used to pay costs incurred by the Partnership in connection with the issue of 825 units.
+
+25. The capital cost allowance claim by the Partnership of CDN$5,399,145 in each of 1993 and 1994 was calculated as follows:
+
+Purchase price: US$8,170,000 (CDN$10,798,290)
+
+Issue costs: US$80,000 (CDN$105,736)
+
+TOTAL: US$8,250,000
+
+CCA (50% of purchase price):
+
+CDN$10,798,290 x 50% = CDN$5,399,145 claimed in each year.
+
+26. The Software Agreement was amended further by agreement made as of April 21, 1995 (the "Sharing Ratio Amendment") which was to be effective retroactively to January 1, 1994. By this agreement, a definition of "Net Sales" was added and Part II - Section 6 of the Software Agreement was amended to provide the Partnership with 100% of the Gross Profits (as defined) and/or Net Sales (as defined) up to the amount required to pay all accrued and unpaid interest on the Acquisition Note; thereafter the Partnership was entitled to receive the greater of 26.25% of Net Sales and 50% of Gross Profits, less any amount paid to the Partnership to enable the partners to pay interest on the outstanding Acquisition Note, with the balance going to ASC.
+
+27. The revised ratio contained the Sharing Ratio Amendment was reflected in the Partnership's 1994 financial statements dated March 15, 1994.
+
+28. In 1994, ASC reported total sales of Partnership games incorporating the Computer Programs of US$3,141,566 (Tab 115). Under the sharing ratio in the Sharing Ratio Amendment, the Partnership's share of these sales worked out to US$578,919 or CDN$798,746.
+
+29. In his 1993 and 1994 income tax returns, the Appellant claimed, in respect of his Partnership units, business losses of CDN$533,790 and CDN$448,404, respectively, and interest expenses of CDN$11,009 and CDN$45,727, respectively.
+
+30. The Partnership's share of the profits for the 1995 fiscal period were CDN$411,780.
+
+31. In his 1995 income tax return, the Appellant, in respect of his Partnership units, reported business income of CDN$38,606 and claimed interest expenses of CDN$42,255.
+
+32. The Partnership and ASC signed a written agreement on December 22, 1995 (the "Super Copa Agreement") dated as of May 1995 evidencing the Partnership's agreement to license the Super Copa Computer Program during 1994 and then acquiring the Super Copa Computer Program on January 1, 1995.
+
+33. As contemplated by the Super Copa Agreement, the Partnership and ASC entered into an agreement made as of August 1, 1995, signed in December 1995, whereby ASC repurchased one of the original 11 Computer Programs. The repurchased Computer Program was not identified in that agreement.
+
+34. By agreement dated December 28, 1995, the Partnership and ASC agreed to further amend the Software Agreement.
+
+35. By agreement made as of December 31, 1995 ("Amending Agreement No.3"), the Partnership and ASC agreed to further amend the Software Agreement with effect from December 31, 1995.
+
+[6] The Offering Memorandum defines the term "Computer Programs" to mean
+
+the computer software programs commercially developed and formatted for play on Nintendo and Sega 16-Bit hardware platforms and [being purchased] together with all enhancements and improvements thereto, but excludes any intellectual property rights in titles, trademarks, tradenames, characters and other personal and proprietary interests of third parties which are not being acquired. Also excluded are registered and unregistered trademarks, logos, labels or any intellectual properties of Nintendo of America, Sega Enterprises Ltd. or American Softworks Corporation.
+
+[7] The Software Agreement states that in addition to the definition in paragraph 6 above,
+
+"Computer Programs mean that electronic software code version or form of the software in which the program logic is readable, including any subsequent correction, modification, enhancements and updates for the software."
+
+[8] The term "Video Games" in the Offering Memorandum means cartridges made to play on Super Nintendo and Sega 16-Bit hardware platforms containing the "Computer Programs". (I assume that a video game is the product offered for sale to the public.) A video game, as defined, is not a game that is played on a personal computer, the latter is a computer game.
+
+[9] Among the representations and warranties given by ASC to the Partnership was the following, set out in paragraph 6(e) of the Software Agreement:
+
+that ASC shall achieve sales of video games of not less than an average of 135,000 game units per video game or a total of 2,970,000 total video game units based on 22 Computer Program titles by December 31, 1998. ASC acknowledges that the Partnership has been induced to enter into this agreement based on this representation.[10]
+
+I refer to this provision as the "Representation".
+
+[10] Mr. Williams explained that in fact the 11 engines purchased were for six games. Of the six, five game titles were for both Sega and Nintendo platforms. These five games have the same design document but they are ten engines because there is different assembler language required for each platform. A sixth engine was for only one platform.
+
+[11] ASC is a publisher of video games. It acquired the basics of a game from the games' developers. ASC then sold an undivided interest in the engines to the Partnership. Mr. Peter Main, Executive Vice-President of Nintendo, a leading developer and publisher of games and manufacturer of machines (or platforms) on which games are played, described the function of the developers and publishers. Using real estate analogy, Mr. Main referred to the developers as the land assemblers and contractors who "lay down the code" to create the basic engine that runs the game. The publishers are the interior decorators and real estate agents who package and sell the product. Sometimes publishers are integrated with the developer, that is, they are under the same ownership. An example is Electronic Arts Corporation ("EA"), the leading, if not dominant creator-developer, publisher and seller of video games. In many cases, however, the publishers seek out the developers who have created game engines.
+
+[12] During trial the terms "games" and "game engine" were used, often indiscriminately. This led to some confusion at trial as to whether the Partnership acquired games or engines from ASC. The appellant claims the Partnership purchased engines. The respondent says the Partnership acquired games only. Class 12 Property includes computer software other than systems software. Computer software for purposes of Class 12 includes application software, that is, programs that do work the users of the software are directly interested in.[11]
+
+[13] According to Mr. Williams there are two parts to a computer chip that is a computer program: the engine and the shell. The game's computer chip is referred to as a eprom.[12] A game engine is "the core of a computer game that is the base of the program". The engine has a graphic element around it which is called the shell; the shell can easily be modified. An engine can be used to produce more than one game, for example, the graphics or shell of a car racing game can be changed into a horse racing game; the racing part of the game is the engine. The engine, as Mr. Main stated, contains the source code, the program that produces the game. Mr. Wilkinson, President of Radical Entertainment, added that the engine is the programming or coding of the game, the source code, with art and audio track attached, as I understand it, to create the game.
+
+[14] Mr. Williams explained how Nintento and Sega 16-bit video games were developed in 1993. The programmer would write a program in assembler language on a personal computer. The program contains the source code. When the program was completed, the program would be read into another program, a proprietary development system owned by Nintendo or Sega, called an assembler. Each licensed developer of Nintendo and Sega would have the appropriate development system. The program would go through a translation program to produce what is called object code, the code that the Nintendo or Sega machine would read. The program enters the particular machine by means of a cartridge; the cartridge contains a "tiny black chip", the eprom.[13]
+
+[15] When the eprom is completed, it is sent to the manufacturer (e.g. Nintendo or Sega) for approval. Once approved, the publisher submits the eprom and the art work masters for packaging and manuals, among other things, to the manufacturer for final approval. The publisher then orders from the manufacturer the desired number of games and upon receipt, sells the games to distributors and major retailers for sale to the public.
+
+[16] The appellant says the Partnership acquired ownership of game engines, not the right to the games alone. Mr. Williams testified that the Partnership acquired game engines that would enable "the partnership to produce as many games as we wished over time from that engine". However, Mr. Graham Turner, Canadian counsel for CEG Corporation, the Partnership's managing partner, as well as for ASC, wrote to Revenue Canada on August 30, 1995. Mr. Turner compared the CEG Partnership to another partnership promoted by Mr. Williams, the "PEG Partnership", and advised "that CEG is basically 'games software' whereas PEG is 'games engines'". He apparently enclosed an extract from the PEG Offering Memorandum that described the difference but that enclosure was not included with the letter.[14]
+
+[17] Mr. Williams disagreed with Mr. Turner's description. In his view the Offering Memorandum referred to an engine. Mr. Kosovitch also understood that ASC acquired engines from developers and sold the engines to the Partnership. Mr. Wilkinson testified that when Radical sold a computer program to ASC, Radical was "effectively selling them [ASC] the underlying engine for a hockey game . . .".
+
+[18] The definition of "computer software programs" and "computer programs" in the Offering Memorandum and the Software Agreement contemplates engines. Although the game engine forms a significant part of a game, once the game is complete, the game user is generally ignorant of the engine and does not discern which functions of the game are attributable to the engine and which are due to the shell. It would appear that the confusion between games and engines was probably due to the difficulty of discussing or referring to specific engines without conceptually viewing the engines as games that had some pieces missing rather than engines that, with additional work, would eventually become a game. The agreements between ASC and the developers indicate that the subject of the transactions are engines. There was no doubt in Mr. Wilkinson's mind, for example, that Radical was selling an engine. There is also no doubt that as far as ASC and the Partnership are concerned, they believe that the Partnership acquired engines.
+
+[19] I do not agree with the respondent counsel's submission that "it would not have made sense for CEG to acquire 11 separate engines to produce 11 video games". Although each game engine can produce many games, the engines are limited in the scope of games they can produce. If the Partnership had acquired fewer engines, the end games could realistically have been very similar and would possibly have been competing against one another. This would have increased the risk substantially to the Partnership. Further, if counsel is correct, then it would have made the most sense for ASC to purchase only three or four engines and then sell the Partnership 11 games produced from those engines (as in this scenario the Partnership would not have been aware that more than one game was produced from the same engine). If ASC were purportedly to sell games and not engines this scenario may make the most commercial sense. The fact that they did not follow this course of action suggests that game engines formed the object of the transaction between ASC and the Partnership. Notwithstanding that words such as "games" and "programs" were used by witnesses, these words refer to what was purportedly purchased by the Partnership, that is, game engines.
+
+TESTIMONY
+
+Peter Brown
+
+[20] The appellant Peter Brown is Chairman and Chief Executive Officer of Canaccord Capital Corporation ("Canaccord"), a stock brokerage. Because of his position, Mr. Brown stated, many investment opportunities are presented to him, of which the CEG Partnership was one.
+
+[21] Sometime before October 1993, Mr. Williams approached either Mr. Brown or Mr. Robert McNair, a Vice-President of Canaccord at the time, with the opportunity to invest in the CEG Partnership. Mr. Williams was a client of Mr. McNair. With the encouragement of ASC's officers Mr. Williams organized the Partnership, eventually negotiated the acquisition of the games and through a corporation, managed the Partnership. Previously he had created and marketed at least one other partnership investment. After 1993, he continued to organize other computer program partnerships with ASC and sell units to investors.
+
+[22] Mr. Brown had known Mr. Williams since the 1960's. Mr. Williams was "involved" in technology and had a substantial interest in a video game company which was sold to EA. Mr. Williams subsequently became President of EA Canada and a Vice-President and member of the Executive Committee of EA. He retired from EA in June 1993. Mr. Brown had utilized the services of Mr. Williams as a technology resource as part of "due diligence" in a previous technology investment. He had utmost confidence in Mr. Williams.
+
+[23] Mr. Brown denied he purchased units in the Partnership for a tax loss; he declared that in 1993 investments in video games were very promising and he expected to make money.
+
+Tryon Williams and Steven Grossman
+
+[24] It was while working at EA that Mr. Williams first met Mr. Steven Grossman, a principal of ASC. An affiliated company of ASC, Entertainment Marketing & Communications International, Ltd. ("EMCI"), had been retained by EA to assist in marketing product. Mr. Williams "probably" informed Mr. Grossman of his impending departure from EA and Mr. Grossman expressed his hope Mr. Williams could help ASC in the future.
+
+[25] On May 26, 1993 Mr. Grossman sent a memorandum to Mr. Williams outlining a proposed software joint venture for Canadian taxpayers. Mr. Grossman and his associate, Mr. William Kosovitch, were Canadians residing in the United States. Mr. Kosovitch is a chartered accountant and had worked as tax manager for a national auditing firm in Canada. In the memorandum Mr. Grossman referred to Mr. Williams as the "godfather" of software joint ventures. He referred to ASC as "our little company" that "had been coasting along for 18 months funded by $1.5 million of our own capital". With Mr. Williams' help ASC could become a "serious" player. Mr. Grossman informed Mr. Williams that ASC was licensed by Nintendo in North America and Europe to publish four games and expected to obtain a Sega license "in the coming weeks". EMCI's "marketing sizzle" would also be attractive to investors. EMCI carried on the business of marketing and had contacts with movie studios and major consumer product corporations. It also had relationships with licensors of media properties and entertainment figures. ASC expected that EMCI's contacts would significantly benefit it in marketing its video games by using the latter's marketing and cross promotion expertise.
+
+[26] According to Mr. Grossman, ASC had originally sought to obtain financing by means of an initial public offering of its shares but since the corporation was new the valuation to be accorded to ASC was "very low" and investors wanted "an inordinate amount of stock for $7 - $10 million of initial funding". Thus, Mr. Grossman again got in touch with Mr. Williams in August 1993 and by memorandum dated August 26, asked him to assist ASC with a "Class 12 offering" for a series of 16-bit games for play on machines (or platforms) manufactured by Nintendo and Sega.
+
+[27] By September 15, 1993 Mr. Williams had agreed to "consider participating in ASC's Class 12 efforts as General Partner". In a memorandum of that date, Mr. Grossman informed Mr. Williams that ASC had identified a number of "state-of-the-art game engines" to be used to develop for fishing, boxing, dirt bike, roller hockey and educational games, and that each "engine . . . could justify a valuation of $1.2 - 1.5 million US . . .".
+
+[28] In Mr. Williams' view this was too high a price and he told Mr. Grossman "it would be difficult to sell a partnership [with] those numbers . . ." Mr. Williams did assert that the "going rate" for a game engine from a developer with a good track record was not more than US$1,000,000. Lesser foreign developers would sell game engines for US$15,000. The usual cost varied between US$210,000 and US$768,000. He testified that he and Mr. Grossman went back and forth many times on the price; he considered that the price not be more than US$750,000 per game. However, even in mid-September ASC contemplated selling 22 games for US$16,800,000, (or US$763,636 per game).
+
+[29] On September 27, 1993 Mr. Grossman wrote to Mr. Williams that he "understands" the latter's concern with an aggressive valuation and that he was prepared to adjust the valuation to US$750,000 per game engine, based on a previous sale that he referred to as a known industry benchmark. By letter dated October 1, 1993, Mr. Williams informed Mr. Grossman that he was prepared to present the Partnership to a "select group of investors" based on the adjusted valuation on condition that he would be managing partner of the Partnership, among other things.
+
+[30] In September, Mr. Kosovitch had requested Mr. Michael Ozerkevich, the principal of emc partners,[15] to prepare a valuation in support of the offering of the computer programs to investors.
+
+[31] In the meantime Mr. Brown was performing due diligence by contacting people he knew in the gaming industry. Mr. McNair did a great part of the due diligence for Mr. Brown, the former testified. Mr. Brown got in touch with Mr. Peter Main of Nintendo. Mr. Main confirmed that the asking price by ASC of US$750,000 per game was reasonable. He also advised that the principals of ASC had a good reputation in the electronic game business.
+
+[32] At the same time Mr. Williams was reviewing games at the location of the developers. Both he and employees of the developer would play the game, he said, but he could not remember what games he looked at or their titles.
+
+State of 16-bit Software
+
+[33] There was a major difference of opinion between the parties concerning the demand for 16-bit software at the end of 1993. The respondent assumed that the demand for 16-bit software had declined by 1993. Sega and Nintendo were scheduled to introduce 32-bit hardware in 1994; Nintendo announced it would start selling 64-bit hardware in 1995. These machines were more powerful than 16-bit machines and, according to the respondent, were not much more expensive than the 16-bit platforms.
+
+Mr. Peter Main
+
+[34] Mr. Main testified that at the end of 1993 Nintendo was actively pursuing sales of video games on their 16-bit platform and it was possible that the games that ASC was developing as a licensee of Nintendo would make it to the retail market, even though the games were at different stages of development. Mr. Main believed in 1993 that the 16-bit technology was in year two of what was thought to be a five-year cycle, based on the history of the previous generation of 8-bit machines and the time it takes to move software from one generation to another on the same platform. (A generation is the stage a developer improves the platform and the software used with the platform). He did acknowledge that before the end of 1993 there were market forces suggesting the demise of 16-bit technology. In late 1993 and early 1994, 32-bit technology was being introduced but Nintendo believed in late 1993 that the 16-bit market had a bright future. Mr. Main stated, that even at time of trial, the 16-bit market was still active, although in cross-examination he acknowledged that the demise of 16-bit technology occurred before 1994.
+
+[35] Mr. Main's evidence was very helpful in assisting me to understand the video game industry as it related to the appeals at bar and the thinking of the industry in late 1993. He explained that the video game industry consists of three parts: (1) sales of hardware, the machines (or platforms) manufactured by Nintendo and Sega; (2) software (or game) sales; and (3) accessory sales. The hardware is sold at low margins to create a base that the games (the software) would be played on. The software is sold at higher margins. Companies like EA create games and companies like Nintendo license the use of their hardware to companies like EA. However, Nintendo and Sega also create their own games as well so that both the hardware and the games may be put on the market at the same time.
+
+[36] About 75 titles for 16-bit platforms were being sold in North America in November 1993. Mr. Main categorized games into three categories based on sales: Triple "A", (over one million unit sales); Double "A" (about 750,000 units); Single "C" (about 250,000 units). A game selling 150,000 to 200,000 units, for example, is a "poor game".
+
+Mr. R.E. McNair
+
+[37] Mr. McNair was not overly concerned with the possible entry into the market of 32-bit technology. After all, at the end of 1993, between 45,000,000 to 50,000,000 units of 16-bit platforms had been sold. He was convinced that the 16-bit technology was popular and had a strong base. The market for 16-bit technology collapsed in 1994, after a downturn in 1993.
+
+[38] Mr. Salyer, an officer of EA, had informed Mr. Coleman, another principal of ASC, that sales of the average 16-bit product (Nintendo or Sega) exceed 150,000 units and/or $1,500,000 gross profit to the publisher on a worldwide basis.
+
+[39] I accept Mr. McNair's evidence that at the end of 1993, a reasonable person would have expected the 16-bit games to continue in popularity after 1993. But I would have been concerned how long the popularity would last. To suggest, as the Crown does, that at the end of 1993, 32-bit technology would make 16-bit machines obsolete within a year or two is hindsight, notwithstanding articles in popular magazines.
+
+[40] In his discussions with Mr. McNair, Mr. Main discussed the costs generally associated with the development of a software title by a licensee for Nintendo's Super Nintendo Entertainment System ("SNES"). He explained in a letter of November 19, 1993 that the "up-front development costs of a specific title will be dependent upon a variety of factors including memory size of the game and whether or not the game is based on an original work or a license obtained for an existing work (i.e. in movie, sports team, etc.)". The "ball park" costs for total development of a game could vary from US$210,000 to US$768,000; this includes game design and programming (from $200,000 to $750,000) and packaging design and development (from $10,000 to $18,000). The addition of a licensing fee (i.e. third party copyright) could, in Mr. Main's estimate, add up to US$1,000,000 to these costs. Subsequent costs to development would include manufacturing cost (such as Nintendo royalty plus complete software, manuals and packaging F.O.B. Kyoto) which could range from US$16.80 to US$28.00 per game depending on memory size and costs of transportation, distribution, marketing, among other costs. The Offering Memorandum states that development and licensing costs to a publisher for a typical game ranges from US$200,000 to US$400,000.
+
+[41] Mr. Main told Mr. McNair that a good video game is one that "is fun, exciting and challenging". He explained that the bulk of a game's sales takes place within the first 90 days of its release but continues for a 12-month period, depending on the date of the game's release. Christmas sales represent from 40 per cent to 50 per cent of all games' sales.
+
+[42] In performing due diligence for Mr. Brown, Mr. McNair did not recall "specifically" reviewing the joint venture's projected financial statements for 1994, 1995 and 1996 sent to him by ASC. The income statement projected sales of 300,000 game units in 1994, 2,260,000 games in 1995 and 1,640,000 games in 1996. Total game units sold during the three years would aggregate 4.2 million units or 190,000 units per game. Earlier Mr. McNair testified that a game selling 200,000 units is a "good" game. (I note Mr. Main's differed as to numbers constituting a good game.) However, if one purchases a group of games, "all you need is one home run of one million games" to have success. To Mr. McNair, the projection of 190,000 average sales per unit was reasonable "even if there is no analysis of the games".
+
+[43] The Offering Memorandum refers to an "independent valuation report" of the games prepared by "emc partners" valuing a 100 per cent interest in the 22 games to be not less than US$16,500,000. This is Mr. Ozerkevich's report. Mr. McNair could not recall looking at this valuation report in the course of performing due diligence for Mr. Brown. But, he said, he did discuss the report and the qualifications of the people who prepared the report with Mr. Williams. With this verbal information, he felt he had no need to review the emc valuation as part of his due diligence. Based on conversations with Mr. Main, Mr. McNair saw no need to review any licensing agreements between ASC and Nintendo. He saw no impediments in the exploitation of the games since ASC was a licensee.
+
+[44] Mr. McNair was not disturbed at the fact that the license agreement with Nintendo limited ASC to not more than six licensed products in any 12-month period. In October 1993 ASC distributed a document entitled Nintendo/Sega Investment Opportunity Overview. ASC reported that its games had been "published profitably" for both Nintendo's 8-bit and 16-bit platforms. The games to be published by ASC for Nintendo were listed, and three of the games were to be distributed in the latter part of 1993 or early 1994. Thus, as respondent's counsel suggested, if three games were already slotted for Nintendo, there would only be room for three more games for the Partnership in the twelve-month period.
+
+Larry Van Hatten
+
+[45] The audit firm of Ellis Foster acts on behalf of the appellant and most of Canaccord's executives, according to Larry Van Hatten, partner in charge of Mr. Brown's account. Mr. Brown relied "quite heavily" on Ellis Foster "to do due diligence on deals" and requested Mr. Van Hatten to look at the CEG Partnership proposal "from a tax perspective and also due diligence".
+
+[46] Mr. Van Hatten described himself as a quarterback at his firm and asked an associate, Jeff Mann, a "details person", to review the material, get in touch with counsel, check the financial statements and the valuation as well as look at the promoters. He would talk to the people in the industry. The Toronto affiliate of the accounting firm would do some due diligence on the valuation since the valuators, emc, were from Toronto.
+
+[47] Mr. Van Hatten reviewed the Offering Memorandum and prepared notes of various items of concern, such as the joint and several liability of the partners, fees to Mr. Williams, valuation of the games, cash components of the purchase price versus the promissory notes, capital cost allowance and ASC's warranty (the Representation) of sales per game. Mr. Van Hatten projected what the average per unit value would be for Mr. Brown to break even on the investment. He also prepared a list of items concerning Mr. Brown's risks in the investment.
+
+[48] After receiving Mr. Mann's report, Mr. Van Hatten advised the appellant that there would be a business carried on by the Partnership, "there was some potential upside, but there was also some risk involved in getting involved in this deal."
+
+[49] The solicitor for Canaccord and the appellant, Mr. R. Stewart, confirmed to Mr. Mann that the representation on sales by ASC "will not relieve the investors from payment of the notes in the event the sale volumes are not reached." All the warranty does, wrote Mr. Stewart, is provide a cause of action for damages for its breach. Mr. Van Hatten was comforted by this opinion.
+
+[50] Mr. Van Hatten was reluctant to answer questions put to him by respondent's counsel. He could not recall seeing or reviewing the Software Agreement or the emc valuation report. He could not recall reviewing the Projected Financial Statements of the Partnership. He was "sure" that Mr. Mann reviewed the Partnership's projected cash flow documents as well as the other documents. He appeared not to be overly concerned by the failure of his firm's Toronto affiliate to find out anything about emc. Apparently emc's office was located in a home in the Borough of East York, as it then was, and that emc's principal, Michael Ozerkevich, was not a member of any recognized appraisal institute such as the Canadian Institute of Chartered Business Valuators or the Appraisal Institute of Canada. The Toronto affiliate was unable to find anyone familiar with the name, Michael Ozerkevich.
+
+[51] In reply to respondent's counsel, Mr. Van Hatten agreed that, based on the material in the Offering Memorandum, the Partnership was structured so that an investor's cash outlay was less than his or her total income tax savings. In fact, there would be a cash surplus of US$1,366 per unit. [The projected financial statements of the joint venture of ASC and the Partnership for 1994, 1995 and 1996 sent by Mr. Kosovitch on November 10, 1993 to Mr. Williams were prepared on the basis of the Partnership acquiring 22 games.]
+
+Noel Raymond Bambrough
+
+[52] Noel Bambrough is also an investor in the CEG Partnership. I found his evidence forthright and credible. Mr. Bambrough was a shareholder in a cable television company, which was sold to Shaw Communications Inc. ("Shaw"). In 1993 Mr. Bambrough was Executive Vice-President of Shaw and was also looking to invest the money he received on the sale of his shares. He preferred an investment where he had some knowledge, he said.
+
+[53] The CEG Partnership was brought to his attention by his lawyers. He understood video games and their potential relationship to cable television. He "figured that if the games [were] not big winners, [they] could be released to cable t.v. channels". There were predictions at the time that interactive channels would soon be available on cable.
+
+[54] Mr. Bambrough exchanged information with Mr. Brown and discussed the investment with Mr. Main. His lawyers reviewed the Software Agreement with ASC and advised him on income tax matters relating to the investment. Mr. Bambrough was cautioned of his personal risk under the Promissory Note.
+
+[55] According to Mr. Bambrough's accountants who reviewed the emc report, he said, the values in the report were at the low range; the witness said he got comfort from this. He was also comforted by the discounted cash flow valuation because the cable television industry also used this approach in valuing assets.
+
+[56] Mr. Bambrough and his advisors also met Messrs. Grossman and Kosovitch of ASC to query them, "evaluate their knowledge and judge them as individuals". In satisfaction of a condition of his investment in CEG Partnership - he was the largest single investor in the Partnership - he was made a director of ASC in 1994. Mr. Williams also was elected to ASC's board of directors.
+
+[57] When he was negotiating to acquire his interest in CEG Partnership, Mr. Bambrough was aware of the impending market for 32-bit games but his "information was that there were 13 million platforms of 16-bit and would grow to 50-60 millions in one and a half to two years", peaking at 60 million units when 32-bit platforms would replace the 16-bit machines. "There was lots of time to make money on the 16-bit". If 135,000 units per game were sold, the value of the notes would be covered.
+
+[58] Mr. Bambrough understood that the games to be purchased were "ready to go", except for some graphics that required completion; there were no impediments preventing their issue. However, not all the games were marketed, which he found out "probably" in late 1995. At a meeting of the ASC board of directors on May 4, 1995 he learned "not for the first time" of the state of 16-bit platforms and "was concerned". Mr. Bambrough had been in "regular contact" with Messrs. Grossman and Williams and in 1994 he was satisfied everything was being done and things were moving along as originally anticipated. In late 1994, new manufacturers were moving into the market and he began to get worried.
+
+Amendments to Software Agreement
+
+Number 1
+
+[59] In 1994 and 1995 Mr. Williams sold units in computer program partnerships for ASC, called the AVC Limited Partnership ("AVC Partnership") and the PEG Limited Partnership ("PEG Partnership"), respectively. The AVC and PEG Partnerships had a more advantageous profit sharing arrangement for their partners than did the CEG Partnership. According to Mr. Brown, Mr. Williams went "to bat for us" to obtain the benefits of the AVC Partnership. This lead to the first amendment to the Software Agreement. On April 21, 1995, the profit sharing arrangement between ASC and the Partnership was amended, effective as of January 1, 1994, so that the profit sharing formula for all partnerships would be equal. (This is the "Sharing Ratio Amendment" in the agreed statement of facts in paragraph 5, which I refer to as "Amendment No. 1").
+
+[60] Mr. Turner, ASC's solicitor, had informed the CEG Partners that under this amendment, the CEG Partnership would receive 100 per cent of Net Sales up to the amount required to pay interest on the Acquisition Note and, therefore, the greater of 26.25 per cent of Net Sales and 50 per cent of Gross Profits, less any amount paid to the Partnership to pay interest on the Acquisition Note. As a result of the amendment, the Partnership's share of profits increased by approximately US$300,000 for 1994 and the "pay down of the Acquisition Note", according to Mr. Turner, was increased by about US$120,000.
+
+Number 2
+
+[61] ASC and the Partnership then amended "as of December 31, 1995",[16] the Software Agreement entered into and amended "as of April 25, (sic) 1995" so that, among other things, for fiscal periods after 1994 the Partnership would be entitled to 100 per cent of Gross Profits and/or Net Sales up to a maximum of $300,000 and thereafter, ASC would receive the excess. (I refer to this Agreement as "Amendment No. 2".) Also, on December 31, 2003, a subsidiary of ASC, Hypersoft Games Ltd., would acquire up to 825 units in the CEG Partnership for the consideration of US$8,000 per unit plus an amount equal to a percentage of the value of the publicly traded capital stock of ASC on December 31, 2003. The purchase price was to be satisfied by Hypersoft offsetting the remaining balance on the Acquisition Notes at the time (US$4,870,097) and held by ASC, with the balance payable in cash or publicly traded ASC shares, at Hypersoft's option. However, if the net sales of the video games did not exceed US$8,000,000 by the end of 1995, the Partnership had the option, exercisable between January 1, 1996 and March 15, 1996 to "reamend the Software Agreement" to replace the provision in Amendment No. 2 with the provisions as they read on April 25, (sic) 1995.
+
+[62] According to Mr. Kosovitch, Amendment No. 2 would allow the Partnership to share profits up to an amount of interest on the Acquisition Note, US$292,242. In his view, this would give the appearance on ASC's financial statements that the corporation was profitable and help it to become a public corporation.
+
+Number 3
+
+[63] Finally, another amendment to the Software Agreement ("Amendment No. 3") was "made as of this 31st day of December, 1995", between ASC and the Partnership. Mr. Williams testified that this amendment was the result of the fall of the 16-bit market in 1995 and the obvious errors in the projected sales of games prepared in 1993. In fact, the joint venture's sales of games were extremely disappointing and neither a SNES or Sega Genesis version of Fun Islands/Trolls game was marketed. The Canondale Cup/TransFighters game sold less than 10,000 units. The SNES version of the hockey game was never marketed and the Sega Genesis version was abandoned. The Pico products were not marketed. The Sega Copa game sold about 24,000 units. The only remotely successful game was TNN Fishing which sold approximately 150,000 units for both platforms. The value of the Partnership units had obviously declined significantly.
+
+[64] This amendment provided that for 1995 and 1996 fiscal periods the Partnership would receive 100 per cent of the Gross Profits and/or Net Sales up to US$300,000 and for ASC to obtain any excess. For fiscal periods after 1996, the Partnership would receive 100 per cent of Gross Profits and/or Net Sales "up to the amount required to pay all accrued and unpaid interest on the Acquisition Notes". In 1997 and subsequent years the Partnership would also be entitled to receive the greater of 26.5 per cent of Net Sales and 50 per cent of Gross Profits less any amount paid to the Partnership to pay interest on the Acquisition Notes in the year and ASC would receive the balance of Gross Profits and/or Net Sales.
+
+[65] Amendment No. 3 also provided for ASC to pay the Partnership US$300,000 per annum for the years 1995 through 2003 inclusive for the design concepts of the video game "TNN Bass Tournament of Champions". The amount of US$300,000 was to be included in calculating Gross Profits and Net Sales. In fact, the Partnership was now being guaranteed a minimum of US$300,000 in annual revenue by ASC. The Representation clause was deleted from the Software Agreement.
+
+[66] Also, the Partnership Agreement was amended to permit partners on December 31, 2003 to retract partnership units for US$8,000 per unit plus capital stock in ASC, if publicly traded. ("Redemption Option") ASC agreed to provide financial assistance to the Partnership to permit the Partners to retract their Partnership units, and, as security for its obligation, ASC pledged the Acquisition Notes of the Partners that were currently pledged to ASC. ASC also agreed to issue to the Partnership, for a nominal cash amount, common stock of ASC representing the balance of the retraction price up to 1/4 of 1 per cent of the closing reported publicly traded common stock value of ASC on December 31, 2003; the common stock would be used as part of the proceeds payable to the Partners on retracting their Partnership units, if ASC were to be listed for public trading on any stock exchange.
+
+[67] Mr. Kosovitch said Amendment No. 3 was also beneficial to ASC because for an aggregate cost of approximately US$1,700,000 in 2003 (excluding the offset of the Acquisition Note), ASC would include US$500,000 on its Statement of Income for 1995. Mr. Grossman confirmed that ASC was prepared to surrender the Acquisition Note of US$5,900 per unit (i.e. US$4,867,500 or 825 units x 5,900) for the US$500,000. Surely the principals of ASC were aware that its chance of collecting on the note was slim, unless sales picked up tremendously.
+
+Other Matters
+
+"Super Copa"
+
+[68] In 1995 ASC sold a computer game, "Super Copa" to the CEG Partnership for US$750,000. This game was virtually identical to another soccer game called "Tony Meolo's Sidekicks Soccer" that had been marketed in the United States and "World Soccer" in Europe and another name in Japan. The "Super Copa" game could not be marketed in the United States and was aimed at the Latin American market. The consideration was a promissory note ("new note") by the Partnership to ASC in the amount of US$750,000, with interest at 6 per cent, and due and payable on July 31, 1995. Profit allocation was identical to that in the Software Agreement. If the new note was not paid off by July 31, 1995, the Partnership would have the option to cause ASC to purchase other games for US$750,000. One of the games acquired in 1993 and could not be identified was returned to ASC. Mr. Grossman testified that according to the Software Agreement, ASC was prevented from distributing its own 16-bit games before it distributed the Partnership's games. The transfer of "Super Copa" to the Partnership was "a good faith" effort by ASC to try to increase sales of the Partnership's games since 16-bit games were not attaining projected sales, according to the appellant's witnesses.
+
+"Pico"
+
+[69] In a memorandum dated June 29, 1994 from Mr. Kosovitch to the director of ASC, including Messrs. Williams and Bambrough, the game Pink Panther-Pico is referred as a CEG product. In a memorandum of July 21, 1994, on ASC letterhead, Messrs. Williams and Grossman advise the CEG Partners that "Pink Panther I and II (Pico)" or ("Magic Islands and Shapes and Colors") will be released in October 1994 and February 1995. The Pink Panther games were to be played on "Sega's new Pico educational system". These games were not marketed.
+
+[70] Mr. Williams recalled that the Pico platform was based on a computer chip introduced in 1994 and was aimed at the educational marketplace with a younger demographic. The source code for the Pico computer chip was the same as for Sega. A larger change to the shell was required for Pico. The Pico games, he stated, were like the original Sega puzzle games but built on a different platform. Mr. Williams believed the Trolls Racing and Diggers games were adopted to the Pico platform.
+
+[71] The Pico system did not exist at the end of 1993. An investor in the Partnership in December 1993 would be aware only of games for the Sega Genesis and Super Nintendo Systems. Mr. Williams testified that the investors "would have to know and believe and have faith in the people that they're dealing with what they are buying 11 computer programs that will produce a business". As far as Mr. Williams is concerned the investors are "buying a library of programs that would produce hopefully a whole raft of successful video games".
+
+ANALYSIS
+
+Arm's Length
+
+[72] In the Minister's view, ASC and the CEG Partnership were not dealing at arm's length when the Partnership acquired the computer programs from ASC and the Partnership did not acquire computer programs at fair market value.
+
+[73] I agree with the Crown that ASC, Mr. Williams, CEG Management, the Partnership and, therefore, the Partners did not deal at arm's length.
+
+[74] CEG Corporation, the managing partner of the Partnership, was essentially controlled by ASC prior to December 31, 1993 and after 1993. Mr. Garth Turner, the solicitor for ASC, prepared documents relating to the purchase and sale of the computer programs, as well as ancillary documents for the Partnership itself. He was also the sole registered shareholder of CEG Management as at the date the agreements were made, as of October 1, 1993, until December 21, 1993 and continued as director of CEG Corporation until February 7, 1994 when Mr. Williams became the sole director. Mr. Turner was again elected director of CEG Corporation in May 1995 when the number of directors was increased to two.
+
+[75] Mr. Williams did negotiate the purchase price for the computer programs. He says he got the price down from the original suggested asking price of between US$1,200,000 and US$1,500,000 to US$750,000. Mr. Kosovitch stated there were also discussions as to the division of earnings between ASC and the Partnership. According to Messrs. Williams and Grossman, there was hard bargaining between the two of them over a five to six week period in about September 1993. By October 1, 1993, Mr. Williams had agreed to the purchase price of US$750,000 for each computer game although it appears the actual engines had not yet been identified or examined by him.
+
+[76] I was not impressed by the testimony of Messrs. Williams, Grossman and Kosovitch relating to the negotiations of the purchase price. A person of Mr. Williams' experience and knowledge in the video game industry put too much faith in Mr. Ozerkevich's valuation and ASC's ability to sell the projected number of game units, in particular since ASC previously had sold perhaps 75,000 units of one game ("Skuljogger") but none of its six other games sold more than 50,000 units, some much less. Also, there is no evidence that any of the developers who sold engines to ASC had developed games selling over, say, 100,000 units, except for Radical which had one "big hit", selling 600,000 units of a "Bevis and Butthead" game after 1993. But the success of Bevis and Butthead, Mr. Wilkinson admitted, was largely due to its licensed characters. As at December 30, 1993, Radical had not sold more than 50,000 units of any other game, however. I also question the faith Mr. Brown and his advisor put in Mr. Ozerkevich, in particular after Mr. Van Hatten failed to obtain information about Mr. Ozerkevich's bona fides. Indeed, Mr. Ozerkevich simply confirmed a price that ASC had already determined, according to Mr. Kosovitch.
+
+[77] Mr. Williams was not only the managing partner of the Partnership, through CEG Corporation, once he became shareholder and director, but he was also the sales agent of units in the Partnership. A corporation he controlled, Tarpen Research Corporation ("Tarpen"), received approximately US$160,000 in commissions.
+
+[78] In 1994 Mr. Williams became a director of ASC. During the years 1993 to 1997 Mr. Williams sold or promoted the sale of units in several tax shelter investments with ASC, including the CEG Partnership and, through corporations, was managing partner of the tax shelters. He was not dealing at arm's length with ASC; he acted in concert with ASC and had the same interest as ASC, to direct or dictate the conduct of others. Memoranda on ASC letterheads from Mr. Williams himself and with Mr. Grossman were sent to Partners in 1994. It was Mr. Grossman who, on March 7, 1994, welcomed the Partners to the Partnership. In the opinion of Thurlow J., as he then was,
+
+. . . the "mind" that directs may be that of the combination as a whole acting in concert or that of any one of them in carrying out particular parts or functions of what the common object involves. Moreover as I see it no distinction is to be made for this purpose between persons who act for themselves in exercising control over another and those who, however numerous, act through a representative . . .[17]
+
+[79] The Acquisition Note was not a debt instrument that would have been transacted by parties at arm's length. The Acquisition Note was to mature on December 31, 2003, ten years after the transaction and beyond the time when it was reasonable to assume that the computer games would generate income. Mr. Main expected the market for the 16-bit machines to last five years; Mr. Grossman expected the 16-bit market to continue until 1996. The note was not assignable and the security for the note was units of the Partnership. There was no evidence that was reasonable to conclude that an arm's length vendor would agree to defer the balance of the purchase price for the computer programs, approximately US$5,000,000, on the strength of such a note.
+
+[80] There were also transactions after 1993, which suggest that ASC and Mr. Williams and the partners of the Partnership were not dealing at arm's length. This includes the exchange of an unknown and presumably unsuccessful computer program by the Partnership for the Super Copa game, a game that had already been marketed under other names and the apparent arbitrary inclusion of games to be played on the Pico platform without approval by, or prior notice to, the Partners. Games and their titles were also not determined until after 1993. Mr. Williams' attitude was that the Partners invested in a library of programs and depended on his goodwill (and that of the principals of ASC) to make sure their investment was a success. If games had to be traded off to improve performance of the investment, so be it.
+
+[81] The agreement requiring ASC to purchase another Partnership game if the Super Copa Acquisition Note was not paid in full from the Partnership's profits by the note's maturity date, July 31, 1995 was signed on December 22, 1995 when the parties were aware the note would not be paid off. Mr. Grossman testified that the Partnership was offered this proposal because some of the Partnership's properties were not going to be released.
+
+[82] Amending Agreements Number 1, 2 and 3 provided for the Partnership's revenue for 1994 to increase by approximately US$300,000, for a change in the allocation of profits in favour of the Partnership, for the sale of the Partnership units and lastly a guarantee of income to the Partnership sufficient to pay interest on the Acquisition Note and the partners of the Partnership being liberated from their obligations on the Acquisition Note in 2003. I do not accept Mr. Kosovitch's explanation that the amendments were to benefit ASC in its pursuit of becoming a publicly traded corporation. It appears to me that these changes were motivated by the joint venture's poor sales and the disappointing income from the Partnership's investment in the computer programs. The amendments were dictated by the relationship of the parties. Amendments were made to the Software Agreement because of the non-arm's length relationship between ASC, Mr. Williams and the Partnership.
+
+Valuations
+
+[83] Since I have found that the ASC, Mr. Williams and the members of the Partnership were not dealing at arm's length, I shall determine if the Partnership paid ASC the fair-market value of the computer programs for purposes of section 69 of the Act, notwithstanding my conclusion that the Partnership is a limited partnership and the appellant's at-risk amount, within the meaning of subsection 96(2.1), (2.2) and paragraph 96(2.4)(b),[18] was nil.
+
+[84] Five witnesses testified as to the value of the computer programs purchased by the CEG Partnership.
+
+By A.R. Jones (Respondent)
+
+[85] In the view of Mr. Allen Raymond Jones, a Chartered Business Valuator with the Canadian Customs and Revenue Agency ("CCRA"), all 11 games were worth $275,000. This value was used to assess.
+
+[86] Mr. Jones had valued software previously but not computer or video games. He completed his valuation on April 23, 1997. The CCRA hired a Mr. Gordos as an expert in software to assist Mr. Jones. I do not give much weight to Mr. Jones' valuation since, among other things, he assumed that in November 1993 "a bigger, faster system [i.e. 32-bit technology] would cause investor angst in investing in an earlier system." He stated that 32-bit games were on the market in October 1993 and he was wrong.
+
+[87] Mr. Jones was also informed by Mr. Gordos that, based on only one eprom, all the games were of a poor quality and he therefore discounted their value.
+
+[88] Mr. Jones did not retain any notes of conversations or meetings he had during the course of preparing his report. In reviewing various articles, game technology journals and magazines, Mr. Jones did not examine the qualifications of the authors. He also ignored any possible sequels of a game which, according to Mr. Wilkinson of Radical, is coveted by developers because of their lower cost and risk.
+
+By M.J. Ozerkevich (Appellant)
+
+[89] I also do not give much weight to the valuation produced by Mr. Ozerkevich for ASC. He valued 22 games at US$16,500,000. Counsel for the respondent did not dispute Mr. Ozerkevich's right to give expert evidence notwithstanding his lack of qualifications. I do not minimize Mr. Ozerkevich's evidence simply because of his lack of formal qualifications. Rather, I do so because his evidence lacked any concrete basis on which I could find comfort. For example, he based part of his valuation on his understanding that one game, initially entitled Mountain Bike Rally, was to be a violent action warrior game but it actually became a mountain bike racing game. A game described as a puzzle game in his report became a fishing game.
+
+[90] Mr. Ozerkevich's valuation (sometimes referred to as the "emc report") was based on game engines and some artwork that were to become games. According to the emc report Mr. Ozerkevich performed a technical review of the games to verify the existence of the software and supporting documentation and verify the "functionality" of the games described in the Offering Memorandum. Mr. Ozerkevich travelled to ASC's head office in Connecticut to perform various tests on Sega and Nintendo development machines. Mr. Ozerkevich confirmed that actual games existed, a code existed and the language was assembler. Working game prototypes were in various stages of development. However, eventually ASC and the Partnership elected not to proceed with many of the games he viewed. His valuation does not reflect, therefore, the value of properties that were purportedly acquired by the Partnership.
+
+[91] I also am concerned that although no game previously marketed by ASC sold more than 50,000 units Mr. Ozerkevich assumed that each of the games sold to the Partnership would average sales of 191,000 units. He also accepted as fact that ASC had a Sega license, something it did not have at the time of his report.
+
+[92] However, Mr. Ozerkevich's report was used as a reference by the two valuators engaged by the litigants. There is information in his report that is relevant, but not necessarily significant.
+
+Valuations for Trial
+
+[93] Messrs. Richard Wise and Andrew Richard Michelin, partners in the business valuation firm of Wise, Blackman gave expert evidence for the appellant as to the value of the computer programs sold to the CEG Partnership as at December 31, 1993. They valued the computer programs at between US$9,250,000 to US$10,200,000.
+
+[94] Mr. Howard Rosen of Low, Rosen, Taylor and Sariano testified for the respondent. His value of the computer games is US$1,255,000 to US$2,135,000 if ten engines are being valued, and US$60,300 to US$127,400 if only the Chavez 2 games for Nintendo and Sega are being valued. In preparing his report, Mr. Rosen retained the services of Mr. Vincent Lam, a professional engineer and technical consultant, to determine the status of the games on December 31, 1993, and Mr. G. Gabelhouse, Chairman and Chief Executive Officer of Fairfield Research Inc. ("Fairfield") of Lincoln, Nebraska, a researcher and provider of information of video games. Both Messrs. Wise and Michelin and Mr. Rosen valued the games by applying the discounted cash flow method of valuation mainly because there was no history regarding what potential profit the games may yield. The discounted case flow method determines the present day value of the revenue and cash flow that an asset will generate if commercially exploited.
+
+Wise Blackman Report (Appellant)
+
+[95] Mr. Michelin was primarily responsible for preparing the Wise Blackman report. Mr. Wise also testified. Mr. Michelin reviewed the emc report, Mr. Jones' report and other documents, including game descriptions and financial statements of ASC and the ASC/CEG Partnership joint venture for various periods, licensing agreements, agreements between ASC and developers for the purchase of the games, industry and economic sources and interviewed Messrs. Kosovitch and Williams. Neither Mr. Wise nor Mr. Michelin examined, or caused to be examined on their behalf, the computer games in issue, preferring to rely on documents and on interviews with Messrs. Kosovitch and Williams for the state of the games.
+
+[96] In preparing the valuations, Messrs. Wise and Michelin applied a discount rate in the range of 29 per cent to 33 per cent to each year's adjusted discretionary cash flow throughout the three year projection period (to December 31, 1996) and an extended projection period ending on December 31, 1998. The choice of a discount rate is subjective, Mr. Michelin acknowledged, and depends on the weight given to the various factors. These included industry factors, such as predicted growth of video games. Mr. Michelin also believed, based on his research, that it was reasonable for ASC to sell 160,000 units per game in North America. Another factor was that ASC specified in its marketing strategy the agreements with developers, the experience of ASC management as marketers who previously brought games to market and the presence of Mr. Williams as manager of the Partnership. Another positive factor was that the "tax shield" reduced the risk and accelerated depreciation encouraged investment. Negative factors included dependency on Nintendo and Sega and that the games and engines were new.
+
+[97] Messrs. Wise and Michelin valued the games as a pool of 11 games and not individually. In Mr. Wise's view some of the games would do better, and some worse than others. A hypothetical purchaser, Mr. Wise stated, would look to the projected cash flow from the pool in setting a price to pay for the games as a group and not individually.
+
+[98] Mr. Michelin did not examine the games themselves nor did he engage anyone to determine their state on December 31, 1993. He assumed the games existed. In cross-examination he stated that on reviewing the Bill of Sale, he had difficulty determining which engine was used for which game.
+
+[99] Messrs. Wise and Michelin also gave weight to the anticipated cross promotion and marketing efforts by EMCI on behalf of the Partnership. The cross promotion and marketing were part of a business plan to ensure the games would be commercially exploited. The authors were also satisfied that ASC previously had "successfully published" games in the past but did not delve into ASC's game publishing history. One of the games, Super James Pond, was stated to have sold over one million units in Europe. However, Mr. Rosen was advised this game was co-published with EA. Mr. Michell Hayward of Milennium, a game developer who sold four games to ASC, informed Mr. Rosen that Super James Pond for the Sega Genesis sold approximately 270,000 units in Europe and was published by EA in 1992. ASC purchased the publishing rights to the SNES version of the Super James Pond from Milennium and ASC released the game in 1993; it did not sell well relative to the Sega Genesis version. Total sales revenue by ASC from game sales in 1993 approximated US$1.7 million, or 45,000 units, assuming a sale price of US$38 per unit. Mr. Michelin stated in his report that Mr. Williams informed them "that it was rare for a title to have less than 50,000 units sold" and sales of "hit" titles would exceed 500,000 units. I agree with Mr. Rosen that this does not indicate ASC "successfully published" video games in the past.
+
+[100] Also considered by Messrs. Wise and Michelin was the residual value of the games. At the end of a projection period the purchaser of the games still owns the games and the games have a value. Messrs. Wise and Michelin attributed a value to the games beyond the projection period which they estimated as 10 per cent to 15 per cent of the present value of the discretionary cash flow; they calculated the discretionary cash flow to be between $841,000 to $1,331,000, based upon what they believe a willing buyer and willing seller would negotiate with respect to residual value. It is the aggregate of the discretionary cash flow during the projection period, $8,407,000 to $8,873,000, and the residual value of the games that makes up the range of fair-market value of the games determined by Messrs. Wise and Michelin.
+
+Mr. H. Rosen (Respondent)
+
+[101] In his report Mr. Rosen wrote that he was provided with only two prototype versions of games as they existed in December 1993. He had no objective evidence that the remaining nine games existed at the end of December 1993. The appellant's representative did provide him with eight prototypes of the 11 games acquired at December 31, 1993 but he was unable to reconcile seven of these games to the emc report and the Software Agreement.
+
+[102] Mr. Rosen also noted he was not provided with copies of various agreements, the emc report, executed licensing agreements and correspondence between ASC, CEG, Nintendo and Sega for the SNES and Sega Genesis systems, respectively, in respect of the computer programs. He retained Mr. Gabelhouse to provide him with a listing of game publishers for SNES and Sega Genesis as at the end of 1993. Mr. Gabelhouse determined that ASC does not appear on the industry lists which include publishers of video games with up to 1/10th of one per cent of market share of games sold under the 16-bit platforms.
+
+[103] Accordingly, in making his valuation, Mr. Rosen ignored nine of the missing games and accorded a fair market value as at December 1993 to only two games, Chavez II Boxing (for both SNES and Sega Genesis) at $60,300 to $127,400.
+
+[104] Mr. Rosen's valuation was influenced by Mr. Lam's technical report. Mr. Lam reviewed the state of the game cartridges provided to Mr. Rosen and based on their complexity, attempted to estimate the development effort required to complete the games. Mr. Lam has a background in software development, quality assurance and telecommunications. He works for ROQUI Management Services Ltd., a corporation that oversees software product development for a various range of applications, performs end-to-end software quality assurance function and technical due diligence as well as assessing product and test monitoring software.
+
+[105] Mr. Lam defended his report at trial, describing what the eproms contained, the developmental stage of the software based on the specifications of what the software was intended to do and the developmental effort or cost, based on industry standards, that went into bringing the software to the state it was when he reviewed it. Mr. Lam stated he compared the eproms to video games available on the market in 1993 in terms of playability and availability for use. Mr. Lam reviewed eight different game cartridges: Super Troll Island (SNES), TNN Bass Tournament of Champions (SNES), Chavez II Boxing (SNES), Mountain Bike Rally (SNES), RHI Roller Hockey 95 (SNES), Super Copa (SNES), Magic Islands (Sega Pico) and Shapes and Colors (Sega Pico). He also used prototype cartridges and production (or market available) cartridges in his tests. Mr. Lam estimated the degree to which the games were completed. He also discovered the names of persons credited as owner of a game. His results are:
+
+Game
+
+Estimated
+
+Per Cent Completion
+
+Owner or Publisher
+
+and Year Published
+
+Super Troll Island (SNES)
+
+100
+
+Publisher ASC, 1993
+
+TNN Bass Tournament of Champions (SNES)
+
+85
+
+(C) 1993 CEG Partnership
+
+Chavez II (SNES)
+
+96
+
+(C) 1993 CEG Partnership
+
+Chavez II (Sega Series)
+
+100
+
+Mountain Bike Rally (SNES)
+
+91
+
+RHI Roller Hockey (SNES)
+
+97
+
+(C) 1995 CEG Partnership
+
+Magic Islands (Sega Pico)
+
+60
+
+CEG/ASC
+
+Shapes & Colors (Sega Pico)
+
+63
+
+CEG/ASC
+
+Super Copa (SNES)
+
+94
+
+Brett Hull Hockey (Sega Genesis)
+
+100
+
+TNN Outdoor Bass 96 (Sega Genesis)
+
+100
+
+The three Sega Genesis games were reviewed by Mr. Lam after he received the other eight games and were operational when he reviewed them. The Super Copa game was acquired after 1994 and is not included among games (or computer programs) owned by the CEG Partnership in 1993 and 1994.
+
+[106] Mr. Lam estimated the cost of developing the games at between US$1,600,000 and US$3,300,000. [19]
+
+[107] Mr. Lam assumed that the software for the games was written in C language rather than assembler. Evidence by the appellant was that the games were written in assembler. If he had made his calculations on the basis of assembler language, he acknowledged his estimates of total development costs could be higher by a factor of 2.5, or as high as $5,500,000 without considering a profit factor or that the engines may be used again. This severely affected the import of Mr. Lam's evidence.
+
+Valuation Analysis
+
+[108] I do not question the cash flow method of valuation used by both Messrs. Michelin and Rosen. What the Partnership acquired from ASC were 11 engines and ASC's obligation to complete the shells and create games.
+
+[109] The discounted cash flow method of valuation requires the valuator to anticipate cash flow from the valued asset. An engine in and by itself cannot create income or cash flow since an engine alone is of no value in the marketplace, except to a developer or publisher. An engine cannot be valued in a vacuum when applying a discounted cash flow; notional games must be projected by the valuator. To value future income stream one must assume that game shells will be placed on the engines and the completed games will be sold commercially. Thus, what is to be valued is a completed game produced from an engine plus any value from the continued use of the engine beyond the first group of games. In other words, a valuator must assume the engines will eventually have shells over laid and the finished games will be sold. (Mr. Rosen intimated this in commenting on the emc report.) In the appeals at bar, on December 31, 1993 the Partnership acquired 11 engines and complete and incomplete shells, or 11 computer programs in various states of completion.
+
+[110] The appellant's position is that any valuation of the engines should also take into account their value after the first game from each engine is produced. The cost of creating future games from the engines would be a fraction of the cost of developing new games. In the case at bar seven of the 11 engines had produced games prior to their sale to the Partnership. On the whole, these games were not successful[20] and did not merit a sequel. This was known, or ought to have been known, by the principals of ASC and Mr. Williams and they ought to have questioned, at least, the quality of the engines they were acquiring. This would be particularly true if any one of the first 11 games became popular and the owner of the particular engine were able to produce a sequel. One problem I have with this submission is that seven of the 11 engines had been used to produce games before ASC purchased them from their developers. There is evidence that perhaps only one of the games, Chavez Boxing, was popular and merited a sequel.[21] So, at valuation date, the valuators knew, or ought to have known, what quality of engine they were to value. They knew, or ought to have known, the track record of the developers and the publishers, two important factors, witnesses testified, in valuing games.
+
+[111] At the end of 1993 there was, at best, a window of about three years to produce 16-bit games. The time required to determine if the joint venture's games were successful and then decide to develop, and actually develop, sequels, and market the sequels would bring the joint venture awfully close to the window being shut.
+
+[112] The evidence suggests that in 1993 a prospective purchaser would know the 32-bit platform was on the horizon and the 16-bit platform would eventually decline. In 1993, however, it appears it was reasonable to believe that the video market for the 16-bit platform may continue into 1997, but that after 1995 sales would be slowly declining.
+
+[113] If one considers the time, effort and cost of development, licensing and putting the product on market, it is reasonable for a valuator to assume that the purchased engines would reasonably produce the first 11 games and perhaps two or three more, at the very most.
+
+[114] Based on the history of the 8-bit platform, Mr. Main referred to the five-year life cycle of platforms and predicted that the 16-bit platform would see its life cycle extend out through 1996. In 1993, it was also logical to assume there would be a software cycle lag behind the platform that would occur with the 16-bit platform as it did with the 8-bit. Consumers, especially consumers who had already moved from an 8-bit platform to a 16-bit platform, would most likely continue to use the platform they already owned for a while after the new platform was introduced. Further, Mr. Gabelhouse had predicted in 1993 that there would be a 9% increase of sales of 16-bit games for 1994 over 1993, indicating that in 1993, sales of 16-bit games were still believed to be on the upswing and would not begin to decline for a couple of years. It was predicted by the Software Industry Factbook ("Factbook") that platform sales would begin to decrease in 1993; however, even if fewer people were buying platforms, the amount of consumers who owned 16-bit platforms would still be increasing, but at a slower rate. In my view, after 1993 there was still a market for 16-bit games, however, the predicted eventual and slow decline of the popularity of 16-bit games must be taken into account in projecting the number of units to be sold after 1993.
+
+[115] The appellant's witnesses also suggested that a further value that the engines may have beyond the initial 11 games would be for use in a "code library" to utilize the reusable source code (as was discussed by Mr. Lam). A "code library" of source code and algorithms would decrease the development time of new games and engines even if the new games were not made directly from the original engine. There is no evidence, however, that the engines would be useful for this purpose due to the emergence of the 32-bit platform. The newer technology was on compact disks and not cartridges. It is very likely the code would not transfer well to the 32-bit platform. Although this would depend on how much Nintendo and Sega accounted for backward compatibility in their new platform, usually, these types of games use a lot of platform specific code. In 1993 there was no backward compatibility on platforms as there is on today's games. Therefore, any "code library" would likely only be useful during the lifespan of the 16-bit platform. A prospective purchaser would probably not have the available time to make use of this aspect of the engine and would not assign it any value.
+
+[116] The respondent claimed that since ASC granted to the developers of the engines the right to use elements of the source code of the engines on a royalty free basis, the value of the engines was reduced. Mr. Michelin conceded this may be so. The agreements provide that the developers may only use those aspects of the programming code that relate to general concepts of play and not to any identifiable portions of the overall engine.
+
+[117] These agreements do not appear to detract from the value of the engines to a prospective purchaser. I accept the appellant's submissions that the purpose of these agreements was to protect the developer from possible copyright infringement if they were to use a portion of the code used in the engine. Mr. Lam testified that a particular engine may have hundreds or thousands of subroutines. It appears that if developers, by selling the engine, were restricted by copyright from using any portion of the source code in the original engine, they would put them in a difficult position of having to reinvent the wheel. Copyright would restrict the developer from using the code from the engine for any small movement or element and would put programmers in the uncomfortable position of ensuring that they do not use any algorithms used in the sold engine.
+
+[118] Further, the license back agreements would only operate to lower the valuation findings if the license back agreements would cause the assets to produce lower revenues. If the developer is precluded from utilizing the source code in a way that would complete against the games marketed by the purchaser, then these agreements would not prejudice the future value of income produced by the engines and, therefore, would not affect the fair market value of the engines.
+
+[119] The respondent argued that to assess the commercial viability of the computer programs the games cannot be viewed as a pool; it is important to assess the individual attributes of each specific game. This is linked to the respondent's assertion that the CEG Partnership purchased games and not engines.
+
+[120] I have concluded that CEG Partnership purchased engines, not games. I have stated that the engines cannot be valued in a vacuum, notional or possible games must be projected by valuators. It is not the games, however, that are the subject of the valuation. Although the quality of a particular engine may be examined, even a high quality engine may produce unprofitable games. A single engine may produce both a "hit" and a game that does not sell well at all. In valuing engines, therefore, it is improper to place too much emphasis on the quality of the possible or notional games that may be overlaid to produce the future income.
+
+[121] If I am wrong and the Partnership purchased games and not engines, there is no reliable evidence before me as to the quality of the specific games alleged to have been purchased. For the purposes of valuation, quality does not refer simply to technical quality but to the commercial viability of the game. In asking whether each specific game is a quality or good game, a prospective purchaser is interested in this information for the purposes of discerning whether the specific game will sell, not whether the game will be critically acclaimed. In analysing the games, an opinion, therefore, would have to be reliable not simply as to whether the program code was complex and well programmed, but whether this particular game could be projected to interest the video game public with information available in 1993 and compared to other product available in 1993.
+
+[122] Mr. Ozerkevich provided an analysis as to the quality of the games. As I previously stated, I am not at all confident that he analysed the engines that were purchased; the games and prospective games that overlaid the engines at the time of his analysis were vastly different than the shell of the games later on. Similarly, I am not confident that the games Mr. Williams saw at the developer's facilities in early autumn 1993 were the actual games sold to ASC. Mr. Lam also analysed versions of the games, but at a later stage. Mr. Lam, however, did not have any special expertise in the area of determining the commercial quality of a game as of 1993. Although Mr. Lam has considerable knowledge of computer software in general, it is doubtful he would be able to discern the commercial viability of the games he analysed in comparison to what was selling in 1993, what other popular games at the time were like and what would appeal to "gamers" in this time period. On the other hand, Mr. Gabelhouse provided the most reliable information by looking at the specific genre of the games compared to what types of games were selling at the valuation date. However, in my opinion, Mr. Gabelhouse did not opine as to the quality of the specific games. He was analysing statistical data only. He did not actually view the games himself but relied on Mr. Lam's findings as to quality. In looking at the genres of the games, Mr. Gabelhouse was providing more of a refined average (the average within the specific genre) rather than an opinion of the quality of the games. His opinion, therefore is more useful in modifying the projections of the pooling approach than commenting on the commercial viability of the computer programs based on the individual attributes of the games.
+
+[123] Even if there were reliable evidence presented as to the quality of the games at the time of valuation, it would probably still be difficult, if not impossible, to predict which games would be a commercial "hit". Like movies, all of the elements of a "hit" may be there but it may still flop. Mr. Wilkinson testified that even if you have a high quality game that is critically acclaimed it still may not sell well. Although he stated that a low quality game would not sell, there was other evidence that a low quality, even a low cost, simplistic game, may sell well simply because of the brand name, such as Disney, attached. Mr. Main stated that a good game was something "viseral" and that it was "very, very difficult" to define. If there was reliable data as to the quality of the games this would be a factor in the valuation. Due to the fact that it is game engines being valued and to the difficulty in predicting a commercially viable game, however, this factor would operate to modify the pooling approach and not form the sole basis of the valuation.
+
+[124] Much of the testimony of the valuators dealt with what would be a reasonable projection of units sold as of the valuation date. This issue forms the crux of what a purchaser would have expected to pay for the engines, and therefore what a fair market value for the engines was.[22]
+
+[125] As I have discussed above, due to the lack of evidence I do not believe that games, that is the engine and shell, should be valued individually on their particular merits and chances of becoming a commercial success. Alternatively, however, I do not think that the games can be valued strictly by assuming that the games produced from the engines would be representative of the market and emulate the average game for the market. The question that ought to be asked is what are the average game sales that ASC could expect to produce from each engine, having regard to market conditions. While this question still relies on the averaging principles of the pooling approach, it takes into account conditions that are relevant to the specific situation so the averaging results are not skewed unrealistically.
+
+[126] There is a conceptual problem with valuing the assets as a pool. To qualify as a depreciable asset under class 12, each "computer software" asset must be added separately to the class. The pooling approach attempts to find what a prospective purchaser would pay for all 11 engines as a pool. This should not be a barrier to claiming capital cost allowance on the assets. The method of valuation is simply a commercial reality of determining how much a purchaser would pay for a group of assets. Once the value of the group of assets is found, and assuming all assets are being considered equal, the actual price paid would then be divided by the number of assets to find the amount the purchaser would be willing to pay for each asset. Although the price of each engine is dependent on the fact that the purchaser is purchasing all 11, a price is still being paid for each specific engine and may be added to the class as such. If one asset has a greater value, an adjustment could be made to the allocation of the purchase price of the properties acquired.
+
+[127] I refer to Mr. Gabelhouse's evidence. He testified that in determining what a game could be projected to sell he would look at a number of factors, but predominantly "the history of title success, because that's all you really have to go on, other than the nature of the games themselves". The history and position of ASC and even the developers are very important factors.[23]
+
+[128] Evidence shows that of the eight games that ASC previously published, all sold less than 50,000 units. Although it is not unreasonable to project that ASC may have learned from their previous experience and would therefore do better with their next group of sales, the increase would have to be projected as incremental and not dramatic unless there are specific reliable indicators to the contrary.
+
+[129] Mr. Gabelhouse testified that in 1993, the top 50 publishers accounted for 96.4% of the 16-bit sales. ASC was not among the top 50 publishers and only had 2/10ths of 1% of the market share for SNES and Sega Genesis. Mr. Gabelhouse opined that if the Partnership titles had sold the number of game units that ASC projected in the joint venture's pro forma Income Statements for 1994, 1995 and 1996 (based on 22 games) that is, 190,900 units sales per title (or 4,200,000 units) that amount would have catapulted ASC to the seventh largest publisher with a 2.8 per cent share of the market and a 5,600 per cent increase in market share. I accept the respondent's submissions that it would be unrealistic for a prospective purchaser to expect that ASC would have been capable of increasing their market share to this extent.
+
+[130] In analysing ASC's past performance of title success, it is apparent that in projecting a value for the pool of games a prospective purchaser could not expect that one of the game titles would sell extraordinarily well. The appellant noted the game of Tetris in an attempt to demonstrate that a company does not need to be a dominant company to produce a "hit".[24] There is no evidence before me that the infrequency of a non-dominant company producing a "hit" is not unlike winning a lottery. I do not believe that in the pooling approach the appellant should take into account the possibility of one of the 11 games being a "hit". Valuations should be performed on a conservative basis. ASC did not have the experience or expertise of EA, for example, and EA's experience and success cannot be a guide to ASC's future income stream.
+
+[131] Mr. Michelin accepted the appellant's position that ASC could add value to the computer programs through its ability to cross promote and market, and the fact that it, or rather EMCI had distribution licenses from Sega and Nintendo and license agreements with major brand names. I do not agree that a prospective purchaser at valuation date would pay more for the video game engines based on these factors.
+
+[132] The ability of ASC to cross promote and market the video games would add little to no value at valuation date as these attributes were not proven, nor tangible and were not reflected in ASC's past history of title sales. There is no evidence that cross-promotion is a factor in valuing computer games.
+
+[133] The only license agreement provided at trial was the Trolls game license from Russ Berrie Company. It was demonstrated at trial that by the valuation date this license would be known to have little to no value. In considering the price of computer programs, prospective purchasers would not give significant weight to ASC's representations that it could acquire valuable license agreements. At most, the ability by ASC to obtain such licenses would only be a "sweetener" to a prospective purchaser.
+
+[134] Although the acquisition by ASC of licenses from Sega and Nintendo to distribute the games would induce a purchaser to pay more for the engines, ASC did not have a Sega license at valuation date. Further, the licenses were not for worldwide distribution. For example, Japan was an exempt market. The appellant's valuations rely on the representation that ASC would be able to sell games into territories for which they had no license. The Sega and Nintendo licensing agreements in evidence specifically preclude a licensee from sublicensing or transferring the license and rights without prior written consent of the licensor and no distribution agreements were produced for verification. Whatever value the distribution licenses may have added to the purchase price of the engines is mitigated by the uncertainty of the Sega license and the limited nature of both Nintendo and Sega licenses, once received.
+
+[135] ASC projected that it would sell an average of 191,000 units per game. This projection was largely based on Table 5-17: Units Sold Per Cartridge Title of the Factbook. The Factbook projected that for 1992, 184,000 and 44,285 units per game would be sold for Super NES and Genesis, respectively. Mr. Michelin assumed that this number was for North American sales only and doubled the total to 456,570. He thus concluded an average of 228,285 units per title per platform would be sold.
+
+[136] Mr. Michelin erred in assuming that the table demonstrated only North American sales. The introduction to Chapter 5 of the Factbook states that "Entertainment software sales represent worldwide wholesale entertainment software dollar sales of U.S.-based publishers". Further, Mr. Michelin stated that if the tables in chapter 5 of the Factbook were prepared in a consistent way, Table 5-17 was representative of worldwide sales. If the table is based on worldwide sales, then the average unit per title projected to be sold is 114,143. I am also influenced by the fact that the 1992 numbers provided by the Factbook are projections and not actual sales. As of December 31, 1993 a prospective purchaser would be expected to have more current information.
+
+[137] I accept the testimony of Mr. Gabelhouse with regard to the use of the median value as opposed to the average. As I have stated, the pooling approach must be adjusted to account for the fact that ASC is not a well established publisher with a successful history of game releases. It is therefore more appropriate to exclude "outlyers"[25] in the calculation of unit sales that could be projected in 1993. ASC could not expect to produce a "hit", and it is "hits" that skews the average upwards. The report submitted by Mr. Gabelhouse shows that the median number of units sold per game is approximately 50,000.
+
+[138] Mr. Gabelhouse also performed an analysis by genre of the games proposed to be released by ASC. He found that the total library of titles, in 1993, could be projected to sell between 203,000 and 300,000 units.[26] Pursuant to this analysis, Mr. Gabelhouse believed that based on attributes of the games, ASC would have unit sales per title below the median of the market.
+
+[139] Lastly, I also accept Mr. Gabelhouse's testimony that although there was an expected increase in the market of 16-bit game sales for 1994, there was an expected decline in sales per game title due to an increase in the number of titles released and higher competition for shelf space. This factor, combined with the expected slow decline of the 16-bit market beyond 1994, would illustrate that the market mean of sales per title, as of 1993, would be projected to decrease.
+
+[140] A prospective purchaser for this pool of programs would most likely not base its projections of sales purely on the aggregate behaviour of the average game on the market. The pooled average for the engines would be adjusted downwards compared to the industry average based on the title success history of ASC, attributes of the games expected to be released, the expected depression of the market due to over saturation in 1994 and a slow decline in the 16-bit market for the following years. The projections would most likely not be adjusted upwards on the basis of any value that ASC may add to the games.
+
+[141] In my view, a reasonable projection of units sold, based on the modified pooling approach would be 50,000 units per game. However, at the end of the day I would also adjust downwards the number of mean units sold to account for the projected oversaturation of titles in the market and to slow decline in 16-bit sales. This projection is based on the mean units sold in 1993. This basis is justified by ASC's past history of title results and added efforts in the future. I would adjust the sales upwards to 55,000 to account for the fact that an investor may consider that ASC may significantly improve its performance due to past experience and to account for the factor that one title, while not being a "hit", may sell more than 50,000 units but, at the same time, some games may be failures. Because of the time factor previously mentioned, perhaps another three 16-bit games, at most, could be developed from among the acquired engines. The total units sold would approach 770,000. This is an optimistic scenario but, I think, should be the basis of the valuation in the making of new assessments.
+
+[142] The discount rate was set at 29 per cent to 33 per cent by Mr. Michelin and 35 per cent to 40 per cent by Mr. Rosen. I believe the largest risk to a prospective purchaser is that ASC may not be able to obtain consent from Nintendo or Sega to market a game outside of North and South America. Other risks would include the possibility that the games would not be released in a timely manner, or not released at all, and that the games may not achieve the projected sales.
+
+[143] Mr. Michelin's discount rate is not unreasonable, although his projections were overly optimistic and have no substantial foundation. If the projections are adjusted upwards, the discount factor would rise accordingly as the risk of obtaining the projected sales would be greater. Further, as stated by Mr. Rosen, the calculations should find after tax values. The engines should not be assigned any residual value.
+
+Acquired to Produce Income
+
+[144] I find that the Partnership acquired the computer programs for the purpose of producing income from the business of selling computer games to the public, even though the price paid for the computer programs was too high. Indeed, the Partnership did sell computer games to the public. In Ludco Enterprises Ltd. v. Canada,[27] the Supreme Court held that for purposes of subparagraph 20(1)(c)(i), "income" refers to income generally that is an amount that would be subject to tax, not net income. I do not see the reason for "income" to mean anything else in section 1102(1)(c) of the Regulations to the Act. Subparagraph 20(1)(c)(i) refers to money borrowed "for the purpose of earning income" and section 1102(1)(c) of the Regulations refers to property acquired "for the purpose of gaining or producing income". In both provisions the character of the income is the same. The object of both provisions is to create an incentive to accommodate or acquire capital with the potential to produce income.
+
+[145] I do not pretend that the appellant acquired units in the Partnership solely to earn income and that he was not concerned with the potential tax benefits a tax shelter can bring. I think I am safe in inferring that the tax aspects of the transaction were a significant factor in the appellant's decision. However, there is uncontradicted evidence by the appellant and Mr. Bambrough, for example, that these unit owners of the Partnership anticipated earning income from the computer programs. In 1993, Mr. Gabelhouse would have predicted a 9 per cent increase in 16-bit games from 1993 to 1994. There was a reasonable potential for income to the Partnership. That the partners of the Partnership may have invested to save tax does not necessarily mean the Partnership did not acquire computer programs for the purpose of gaining or producing income from a business within the meaning of section 1102(1)(c) of the Regulations.
+
+[146] In Ludco, the Supreme Court held that the sufficiency of income earned by an investor who borrowed money to invest is not a compelling factor. And the Supreme Court also held that the purpose of the borrowing in paragraph 20(1)(c)(i), that is, to earn income, need not be the exclusive, primary or dominant purpose, or that multiple purposes are to be somehow ranked in importance. Absent a sham, window dressing or other vitiating circumstances, a taxpayer's ancillary purpose may nonetheless be a bona fide objective of his or her investment, equally capable of providing the requisite purpose for income deductibility. Even if the saving of tax was a principal motive of Mr. Brown, this would not nullify the intent of the Partnership to acquire the computer programs for the purpose of earning income.
+
+Reasonable Expectation of Profit
+
+[147] The reasonable expectation of profit (hereinafter "REOP") test is found in the Supreme Court of Canada judgment of Moldowan v. The Queen,[28] where Dickson, J. stated:
+
+Although originally disputed, it is now accepted that in order to have a "source of income" the taxpayer must have a profit or a reasonable expectation of profit. Source of income, thus, is an equivalent term to business: Dorfman v. M.N.R. [72 DTC 6131], [1972] C.T.C. 151.[29]
+
+[148] In defining the phrase "a reasonable expectation of profit", Dickson, J. stated:
+
+...whether a taxpayer has a reasonable expectation of profit is an objective determination to be made from all of the facts. The following criteria should be considered: the profit and loss experience in past years, the taxpayer's training, the taxpayer's intended course of action, the capability of the venture as capitalized to show a profit after charging capital cost allowance. The list is not intended to be exhaustive. The factors will differ with the nature and extent of the undertaking: The Queen v. Matthews [74 DTC 6193]. One would not expect a farmer who purchased a productive going operation to suffer the same start-up losses as the man who begins a tree farm on raw land.[30]
+
+[149] In Tonn et al., v. The Queen,[31] Linden, J.A. interpreted the REOP test as follows:
+
+The primary use of Moldowan as an objective test, therefore, is the prevention of inappropriate reductions in tax; it is not intended as a vehicle for the wholesale judicial second-guessing of business judgments. A note of caution must be sounded for instances where the test is applied commercial operations. Errors in business judgment, unless the Act stipulates otherwise, do not prohibit one from claiming deductions for losses arising from those errors.[32] [Emphasis added]
+
+[150] The Crown says that the Partnership did not carry on business with a reasonable expectation of profit. The purpose of a partnership is for the partners to carry on a business with a view to profit.[33] The joint venture of the Partnership and ASC did bring completed games to the marketplace: TNN Bass Tournament (Nintendo and Sega), Chavez II (Nintendo and Sega), Cannondale Cup (Nintendo) and Super Copa (Nintendo). A bona fide business within the definition of that word in section 248(1) was being carried on during the years in appeal. The Partnership had a source of income.
+
+[151] Subsection 9(1) of the Act provides that a taxpayer's income for a taxation year from a business is the taxpayer's profit for the year. The Act neither identifies nor describes the legal characteristics of "income". For the purposes of paragraph 20(1)(c), at least, income does not mean profit.[34] In the appeal at bar, Mr. Brown and Mr. Bambrough were two experienced, successful businessmen who, notwithstanding that the Partnership did not deal at arm's length with Mr. Williams and ASC and apparently paid more than the market value for the computer programs, nevertheless made a business decision to enter into the transaction not only to save tax but also because they reasonably expected to make a profit from the computer programs. They knew what they were doing. They, or persons on their behalf, spoke to people like Mr. Main who were knowledgeable in the business. In 1993, Mr. Brown stated, he considered shares of computer game companies such as EA as growth stocks and thought this investment would be successful. Mr. Bambrough saw other opportunities to exploit the investment if game sales were disappointing. There was, in the view of these taxpayers, a reasonable expectation of profit from selling computer games. I am reluctant to substitute my decision for theirs.
+
+[152] In deciding this question I have given some weight to the fact that ASC and the Partnership did not deal with each other at arm's length and that the transaction was a tax shelter. It is abundantly clear that ASC wanted to have happy investors. ASC agreed on at least three occasions to change the allocation of income from the 11 computer programs. ASC even swapped a game with the Partnership in 1995 when it realized their projected income from the computer games was off base. The relationship between ASC and Mr. Williams ensured, at the very least, that the appellant and the other partners of the Partnership would not be out of pocket and they could reasonably expect to make a profit from their investment at the same time as saving tax in 1993 and 1994. Indeed, because of its planned or ongoing joint ventures with other partnerships, ASC had an interest in ensuring the Partnership earn a profit from the investment.
+
+Contingent Liability/At-Risk Amount
+
+[153] If the purchase price, or any part thereof, for the computer programs, was a contingent liability, that amount, or portion thereof, would not form part of the capital cost of the asset to the Partnership unless and until the contingency would arise, if ever. Since a contingency is an event which may or may not occur, a contingent liability depends on its existence as a true liability upon an event which may or may not happen. Only when the event happens does the liability exist. [35]
+
+[154] The appellant argues that there is nothing on the face of the Acquisition Note suggesting any contingency. However, the Note is subject to the terms of the Software Agreement, in particular, the Representation clause. Counsel argued even if the Representation clause was actionable by the Partnership, the right of action did not nullify the debt represented by the Acquisition Note. Any damages for breach of warranty would be taxable in its own right to the Partnership either on income or capital account.
+
+[155] The respondent is of the view that the appellant's liability on the Acquisition Note was a contingent liability. The respondent submits that in determining whether the liability is a contingent liability one must consider all of the agreements entered into by the individual partners, the CEG Partnership and ASC and the surrounding circumstances, including events leading up to, and subsequent to, the making of the agreements.[36] In the respondent's view such a consideration will lead to the conclusion that the repayment of the Acquisition Note was conditional upon a minimum level of sales being achieved, as described in the Representation. Thus, the liability set out in the Acquisition Note was a contingent liability that is not part of the capital cost of the games.
+
+[156] The Minister says the note was contingent because interest and principal on the Acquisition Note were payable only out of profits allocated to the Partnership during the period ending December 31, 2003, when the interest and principal on the Note were payable. Also, the Acquisition Note was secured by the Partnership units which, the Minister believes, had little or no value in 1993 and would be worthless ten years later since the market for 16-bit games would be over. On the other hand, the appellant believed, based on legal advice, that he was personally liable on the Acquisition Note if earnings were insufficient. Mr. Bambrough also held this belief.
+
+[157] The Minister noted that the audited consolidated balance sheets of ASC as of December 31, 1993 and 1994 does not include the Acquisition Note as a receivable. A note to the financial statements of ASC states that ASC made representations that the joint venture "would achieve a minimum number of unit sales by December 31, 1998." The note adds that the Partnership's contribution to the joint venture was $2,897,789. There is no reference at all to the amount of the Acquisition Note.
+
+[158] The Representation clause, according to the Minister, was not a "best efforts" provision without value as several witnesses, including the appellant, claimed. The language of the Software Agreement and surrounding circumstances belie that claim, in particular since in paragraph 6(e) of the Software Agreement ASC recognizes that the clause "induced" the Partnership to enter the agreement.
+
+[159] In their letter to counsel, the appellant's accountants, Ellis Foster, indicate that the Representation sets the minimum level of game sales that approximates the break-even point where after-tax sales revenues will provide the partners with enough cash to repay the Acquisition Note plus interest; if minimum sales were not achieved, ASC would not demand payment of the Acquisition Note. Mr. Stewart, appellant's solicitor, advised that in the event the represented sales volumes are not achieved the partners would have a cause of action for damages for a breach of warranty which may not amount to an equivalent amount on the balance due on the Acquisition Note and may not provide an absolute set off.
+
+[160] Furthermore, respondent states, Amendment No.3 relieved the Partners of any liability on the Acquisition Note once it became apparent that sales of the 16-bit games would not reach the break-even point. Mr. Brown acknowledged that when it was obvious that sales of 16-bit games would not reach "the targets (an average of 135,000 units per game) to earn out the notes", the "best exit strategy" was to agree to redeem the Partnership units. Mr. Kosovitch stated that this Amendment was to benefit ASC and improve its Income Statement. I agree with the respondent's counsel that the only reason for Amendment No.3 was that ASC knew that it would never collect on the Acquisition Note unless sufficient games were sold.
+
+[161] Appellant's counsel argued that his client is not deemed to be a limited partner by virtue of subsection 96(2.4) and the calculation of a at-risk amount is unnecessary. A taxpayer's at-risk amount, in respect of a partnership of which the taxpayer is a limited partner, at a given time, is set out in subsection 96(2.2). Alternatively, counsel for the appellant declared that even if the appellant is deemed to be a limited partner, subsections 96(2.1) and (2.2) do not reduce his at-risk amount in 1993 or 1994. Counsel explained - and I agree - that the at-risk issue is a two-step analysis. First one considers subsection 96(2.4), which can deem partners of what is otherwise a general partnership to be limited partners in certain enumerated circumstances. Then, if subsection 96(2.4) applies, the second step is to determine the effect, if any, of the at-risk rules set out in subsections 96(2.1) and (2.2).
+
+[162] The relevant portions of subsections 96(2.1) and (2.2) read as follows for 1993: [37]
+
+(2.1) Notwithstanding subsection (1), where a taxpayer is, at any time in a taxation year, a limited partner of a partnership, the amount, if any, by which
+
+(a) the total of all amounts each of which is the taxpayer's share of the amount of any loss of the partnership, determined in accordance with subsection (1), for a fiscal period of the partnership ending in the taxation year from a business. . .
+
+exceeds
+
+(b) the amount, if any, by which
+
+(i) the taxpayer's at-risk amount in respect of the partnership at the end of the fiscal period
+
+exceeds the total of
+
+(ii) the amount required by subsection 127(8) in respect of the partnership to be added in computing the investment tax credit of the taxpayer for the taxation year.
+
+(iii) the taxpayer's share of any losses of the partnership for the fiscal period from a farming business, and
+
+. . . .
+
+shall
+
+(c) not be deducted in computing his income for the year,
+
+(d) not be included in computing his non-capital loss for the year, and
+
+(e) be deemed to be his limited partnership loss in respect of the partnership for the year.
+
+(2.2) For the purposes of this section and sections 111 and 127, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of . . . .
+
+(a) the adjusted cost base to the taxpayer of the taxpayer's partnership interest at that time, computed in accordance with subsection (2.3) where applicable,
+
+(b) where the particular time is the end of the fiscal period of the partnership, the taxpayer's share of the income of the partnership from a source for that fiscal period computed under the method described in subparagraph 53(1)(e)(i), and
+
+(b.1) where the particular time is the end of the fiscal period of the partnership, the amount referred to in subparagraph 53(1)(e)(viii) in respect of the taxpayer for that fiscal period
+
+exceeds the total of
+
+(c) all amounts each of which is an amount owing at that time to the partnership, or to a person or partnership not dealing at arm's length with the partnership, by the taxpayer or by a person or partnership not dealing at arm's length with the taxpayer, other than any amount deducted under subparagraph 53(2)(c)(i.3) in computing the adjusted cost base, or under section 143.2 in computing the cost, to the taxpayer of the taxpayer's partnership interest at that time; and
+
+(d) any amount or benefit that the taxpayer or a person not dealing at arm's length with the taxpayer is entitled, either immediately or in the future and either absolutely or contingently, to receive or to obtain, whether by way of reimbursement, compensation, revenue guarantee, proceeds of disposition, loan or any other form of indebtedness or in any other form or manner whatever, granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain because the taxpayer is a member of the partnership or holds or disposes of an interest in the partnership . . . .
+
+[163] The respondent asserts that the appellant is subject to the at-risk rules for at least two possible reasons: the Representation in the Software Agreement guarantees a level of proceeds to the appellant and the amendments, in particular Amendment No. 3, permit the Partner to redeem each partnership unit for US$8,000 and provide for ASC to pay US$300,000 annually to the Partnership for certain rights. These are also among the reasons the liability on the Acquisition Note was contingent.
+
+[164] The provisions of the Acquisition Note were ". . . subject to the terms" of the Software Agreement and paragraph 6(e) of that agreement contained the Representation clause which, the partners acknowledge, "induced" the Partnership enter into the Software Agreement.
+
+[165] The appellant says that the Representation was merely a representation and was included for the sole purpose of "moral suasion". No legal effect was intended since there is no reference to any sales price. Prices for games could be the original retail price or, if a game did not sell well, a much reduced price. Thus, in the appellant's view, the Representation is not a guarantee of minimum revenue to the level of a break-even point, as suggested by the Crown, and does not trigger the at-risk rules, as suggested by the Crown. The Representation refers to minimum units only.
+
+[166] According to the Minister, the Representation clause is a term of the Software Agreement (and Acquisition Note) and not a mere representation in the terms of the law of contract or tort. The parties intended to act on this clause. The Representation clause is a warranty made by ASC to the Partnership.
+
+[167] The Representation clause may be either a term of the contract or a mere representation. A term of a contract is a provision of the contract, which states or makes explicit an obligation or set of obligations imposed on one or more parties to the contract. Failure to fulfill terms of a contract gives rise to an action for breach of contract.[38]
+
+[168] A representation, however, is a statement or assertion made by one party to the other before or at the time of the contract of some matter or circumstance relating to it. Representations are non-contractual. If they are not true, the appropriate remedy is not an action for breach of contract, but the avoidance or recision of a contract entered into in consequence of the representation and, possibly, a tort for damages. An untrue representation, a misrepresentation, may entitle the person to who the representation was made to avoid the contract, if the contract was fraudulently made, or entitle the person to rescind the contract, if the representation was innocent, or possibly, entitle the person to sue in tort for damages if the representation was negligently made.[39]
+
+[169] As the appellant's counsel asserted in the case at bar, one must look at the intent of the parties to determine whether the Representation was a mere representation or a warranty as to performance by ASC. Intention is a question of fact.[40]
+
+[170] The Representation clause is not a condition of the Software Agreement since its non-performance would not go to the "whole root and consideration" of the contract and the aggrieved party may sue for rescission of the contract as well as damages.[41] A warranty refers to a term in a contract, which does not go to the root of the agreement between the parties.[42] A warranty expresses some lesser obligation; the failure to perform can give rise to an action for damages but not for the right to repudiate the contract.
+
+[171] That the Representation clause states the Partnership was "induced" to enter the Software Agreement in my view precludes the appellant or ASC to argue that the Representation did not form an inducement and was not a term of the agreement. If the Partnership had brought action against ASC, it is unlikely ASC would be permitted to argue, that despite the wording of paragraph 6(e), the Representation was not intended to be acted upon and did not in fact form an inducement. The warranty was in contractual form.[43]
+
+[172] The Representation clause expressly warrants that the games would have "an average of 135,000 game units per video . . .". ASC warranted that the games would have a certain level of sales. Mr. Brown noted the "targets" to "earn out the notes" would not be reached and that was a reason to amend the Software Agreement. While the prices of the games may vary at various times for various reasons and therefore no actual dollar amount of sales may be apparent, the games were being sold and revenue was being produced as a result of the sales.
+
+[173] Certain revenue is being warranted. I do not agree with the argument of appellant's counsel that the Representation clause, if a term of the agreement, is only actionable as a claim for damages and therefore cannot form the requisite "benefit" under subsections 96(2.2) and (2.4). The issue is whether the appellant was entitled to a benefit, not what his action may have been if the Representation was breached. The vast majority of the benefits enumerated under 96(2.2) would result in a claim for damages if the contracting party breached the term of the agreement promising the benefit.
+
+[174] By the conduct and words of the parties, it is clear that they intended for Representation clause to constitute a warranty and the clause did constitute a warranty that was a term of the Software Agreement. The Representation was a benefit pursuant to paragraph 96(2.2)(d) of the Act, both in 1993 and 1994. As the appellant is entitled to a benefit under subsection 96(2.2), he is deemed to be a limited partner pursuant to subsection 96(2.4) of the Act and is therefore subject to the at-risk provisions of the Act.
+
+[175] Amending Agreement No. 3 granted the appellant the right to cause the Partnership to redeem each unit for US$8,000 plus stock in ASC. The Partners would also be liberated from any purported liability under the Acquisition Note. Financial assistance would be provided by ASC to facilitate the redemption of the units.
+
+[176] Subsection 96(2.4) states that a partner is a limited partner of a partnership at a particular time if, at that time or within three years of the particular time, any of the conditions in paragraphs 96(2.4)(a), (b), (c) or (d) is met.
+
+[177] Appellant's counsel argued that the provisions of subsection 96(2.4) do not operate retroactively. And, in any event, even if the appellant is deemed to be a limited partner, then subsections 96(2.1) and (2.2) do not reduce his at-risk amount in 1993 or 1994 because the appellant was not entitled to any amount described in paragraph 96(2.2)(d) at the time the at-risk calculations are relevant, i.e. December 31 of 1993 and 1994, and, thus, no adjustment occurs.
+
+[178] In the appellant's view "the most appropriate interpretation of subsection 96(2.4) is that the entitlement to receive an amount or benefit described in subsection 96(2.2) must exist at the time in question for subsection 96(2.4) to operate". Entitlements arising subsequently should not operate to retroactively deem a partner to be a limited partner in previous taxation years.
+
+[179] The issue, therefore, is whether the wording of subsection 96(2.4) operates such that the Amending Agreement No. 3 would cause the appellant to be a limited partner in 1993 and 1994 when the losses were claimed.
+
+[180] The appellant relied on the case Laplante v. The Queen,[44] for his assertion that the Act would only deem him to be a limited partner for the year 1995 and three years after. In Laplante, the taxpayer sustained losses as a general partner in 1988 and 1989. Although the taxpayer had entered into a limited partnership agreement in 1987, the agreement was not registered until 1990. The issue before Brulé T.C.J., was whether the unregistered partnership agreement of 1988 and 1989 would deem the taxpayer to be a limited partner pursuant to paragraph 96(2.4)(a). Judge Brulé found that the section did not apply since the partnership was unregistered and therefore the taxpayer was not a deemed limited partner.
+
+[181] It is true that if subsection 96(2.4) operates retroactively for three years, the eventual registration of the partnership in 1990 would cause the taxpayer to become a limited partner in 1988 and 1989. Judge Brulé, however, apparently was not concerned with timing in his analysis and it does not appear that he considered this application of subsection 96(2.4).
+
+[182] In McKeown v. The Queen,[45] Garon C.J., considered whether transfer agreements entered into in 1993 and 1994, providing for the redemption of the taxpayer's shares would deem the taxpayer to be a limited partner pursuant to paragraph 96(2.4)(b) in the years in which the losses were claimed, 1991 and 1992. Chief Judge Garon stated:[46]
+
+It follows from paragraphs 96(2.4)(b) and 96(2.2)(d) . . . that a member is a limited partner where, at the time in question or within three years after that time, the member is entitled to receive or obtain, in any form or manner whatever, any amount or benefit referred to in paragraph 96(2.2)(d) if that amount or benefit is granted or to be granted "for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain by reason of being a member of the partnership or by reason of holding or disposing of an interest in the partnership".
+
+. . . .
+
+Given the facts of this case, I must determine whether, in the case of the redemption of the appellant's shares in Commu-Sys Enr. and Cablotel Enr. by Loron Inc. and Noreco Inc., the consideration for the share transfer - which consideration consisted in the cancellation of the appellant's debts resulting from the loans made to him by those two finance companies - could have been an amount or benefit for him under paragraphs 96(2.4)(b) and 96(2.2)(d) of the Act.
+
+[183] Chief Judge Garon found that the transfer agreements in 1993 and 1994 did form a benefit for the purposes of the at-risk rules. The taxpayer was, therefore, deemed to be a limited partner by paragraph 96(2.2)(d) in the years of 1991 and 1992 and was not entitled to the deduction of his losses. Also relevant is that Chief Judge Garon made this finding despite the assertion of the taxpayer that "no representation was made to him - either before or at the time he purchased his shares in Commu-Sys Enr. and Cablotel Enr. - that his shares would be redeemed".
+
+[184] The decision in McKeown follows the general opinion of commentators.[47] The Redemption Option is a benefit contemplated by paragraph 96(2.2)(d). It is clear from a plain reading of paragraph 96(2.2)(d) that it operates retroactively such that the benefit gained in 1995 would deem the appellant to be a limited partner in the years of 1993 and 1994. I do not accept the argument of the appellant that since he was not entitled to any amount described in paragraph 96(2.2)(d) in 1993 and 1994, there would be no adjustment pursuant to at-risk calculations.
+
+[185] The phrase "at that time" in paragraph 96(2.4)(b) refers to the time in question in appeal (when the losses were claimed) and therefore the wording of "or within three years after that time" operates retroactively. The Redemption Option deems the appellant to be a limited partner in 1993 and 1994.
+
+[186] The 1993 and 1994 at-risk calculations would be affected since pursuant to the Redemption Option the appellant did not have any money at risk. It would be illogical for me to find that the appellant was a deemed limited partner in 1993 and 1994 because a benefit was found under paragraph 96(2.2)(d), and then subsequently find that there was no benefit pursuant to this section for the purposes of the at-risk calculation in 1993 and 1994.
+
+[187] The Redemption Option forms a benefit pursuant to paragraph 96(2.2)(d) and the appellant is deemed to be a limited partner in 1993 and 1994 and subject to the at-risk calculations in these years.
+
+[188] As I have held, the Representation clause that induced the appellant to enter into the agreement and form a term of the agreement is also a benefit under the broad wording of paragraph 96(2.2)(d). The appellant is therefore deemed a limited partner pursuant to paragraph 96(2.4)(b) and subject to the at-risk provisions. His "at-risk" amount is zero.
+
+[189] I agree with the respondent that all the evidence shows that the liability represented by Acquisition Note was subject to the Representation clause, among other provisions of the Software Agreement and Amendments No. 1, 2 and 3. The liability on the Acquisition Note was a contingent liability. The amount of the purchase price for the computer programs cannot therefore form part of the capital cost of the computer programs as at December 31, 1993 and 1994. I cannot see how the capital cost of the computer programs can be unaffected in 1993 when one considers the relationship between the vendor and purchaser of the property and that in all probability subsequent events were driven by this relationship.
+
+"Available for Use"
+
+[190] Subsection 13(26) of the Act states that in computing a taxpayer's income for a taxation year from a business or property, no amount shall be included in calculating the undepreciated capital cost to the taxpayer before the time at which the property is considered to have become "available for use" by the taxpayer. Subsections 13(27) to 13(32) set out the rules to interpret the words "available for use". The applicable provision of the Act interpreting the words "available for use" on the facts at bar is in paragraph 13(27)(d).[48]
+
+[191] The respondent's primary argument is based on the assumption that the Partnership was contracting to acquire completed games rather than engines. Counsel argues that since the games were not completed by December 31, 1993, the properties were not commercially saleable and therefore not available for use. I have held that what the Partnership acquired were engines plus the services of ASC to complete the shells. The fact that shells were not completed as of December 31, 1993 does not immediately preclude the appellant from deducting capital cost allowance pursuant to the "available for use" conditions.
+
+[192] Respondent's counsel also stated that "even if the Court finds that computer programs purchased by CEG were 'game engines' as opposed to 'games', the 'game engines' were not without further programming, capable of producing a commercially saleable product and were, thus, not available for use". In respondent's view the engines, absent a shell, would not form a "game master", that is, a means to mass produce the games, and could not, by themselves, be capable of mass producing commercially saleable game cartridges. The respondent also claims that as of December 31, 1993, the game engines were not delivered to the Partnership or ASC.
+
+[193] Finally, respondent's counsel submitted that as of December 31, 1993 neither the Partnership nor ASC had in its possession property that would be capable of producing from the engine a video game cartridge that could be sold commercially.
+
+[194] The appellant states that the developers constitute the "other person" referred to in subparagraph 13(27)(d)(ii) who would use the property for the benefit of the taxpayer. Pursuant to this interpretation, therefore, it is not relevant that the engines were not delivered to ASC or the Partnership at the end of 1993. Also, the appellant's counsel argued that the engines were properties that were subject to the available for use rules, and that as of December 31, 1993, the engines were in a finished state. Each developer, the "other person", was in turn using the completed engines to create shells.[49] They would process the source code of the engines through a development machine to produce machine code, merge the shells (which would be manipulated by the machine code) and create the intermediate product.[50] The appellant states that this intermediate product would be the "game master" which is capable of mass producing cartridges to be sold commercially. He concludes, therefore, that the engines were capable of producing intermediate products that would be used by the taxpayer to produce a commercially saleable product.
+
+[195] In the appeals at bar seven of the 11 engines had been used to produce other video games. At least seven engines were complete and only required new shells. Aside from Mr. Lam's analysis of game completeness, there is no evidence on the state of the other four engines. Mr. Williams, did testify that all the engines were completed engines at the end of 1993. However, two of the four engines produced the more successful game, TNN Bass Fishing, but no games were released from the other two engines.
+
+[196] On the balance of probability I conclude that all 11 game engines were complete. The fact that all did not produce games is a determination made after 1993. At time of acquisition, however, it was probable that the engines were complete and available for use, although the shells were yet to be developed.
+
+[197] Counsel have not referred me to, nor have I found, any case law regarding the interpretation of "commercially saleable", nor the application of subparagraph 13(27)(d)(ii).[51] It appears from reading this provision that the draftsman may have contemplated only corporeal property but not property such as shells, engines of intellectual property. This may be the cause of difficulty in analyzing this provision. In the view of Revenue Canada, at the time, property which is capable of producing a commercially saleable product must have "the capability of performing its task at such a rate and of such quality, that a profit could reasonably be expected to ensue". The Department adds that "this would equally be true where the piece of equipment possesses [this capability] but at that particular point in time cannot perform the function for which it is intended".[52]
+
+[198] I do not believe that it is necessary, nor desirable, to import a reasonable expectation of profit test into the available for use rules. The words "commercially saleable" should be given their ordinary meaning of being capable of being sold commercially.
+
+[199] The wording of subparagraph 13(27)(d)(ii) supports the appellant's interpretation. The creation of the machine code as an intermediate product satisfies the requirements of subsection 13(26) and paragraph 13(27)(d).[53]
+
+Conclusion
+
+My answer to the questions before me are:
+
+a) The Partnership acquired 11 computer software programs.
+
+b) The Partnership acquired the 11 programs for the purpose of producing income from a business.
+
+c) The Partnership carried on a business with a reasonable expectation of profit.
+
+d) The Partnership and ASC did not deal at arm's length. The price the Partnership purported to pay for the computer programs was greater than the fair market value of the computer programs. I am not fixing a value. Having regard to my other findings, in particular, that the appellant's at-risk amount is nil, it may not be necessary to determine the fair market value of the engines as of December 31, 1993. In any event, if a valuation is necessary to determine fair market value of the engines as of December 31, 1993 for the purposes of making reassessments, these reasons are to serve as the basis of such valuation.
+
+e) The Acquisition Note was a contingent liability.
+
+f) The Partnership is deemed to be a limited partnership and the appellant's at-risk amount is nil: subsections 96(2.1), (2.2) and paragraph 96(2.4)(b).
+
+g) The computer programs were "available for use" on December 31, 1993 in accordance with subsections 13(26) and (27) of the Act.
+
+[200] Since I have determined that there were errors in the parties' determinations of fair market value of the 11 computer programs and that the purported price of US$8,250,000 for the computer programs was in excess of their aggregate fair market value, I need not - as counsel for the appellant suggested - consider whether the price of US$8,250,000 was reasonable in the circumstances for purposes of section 67 of the Act.
+
+[201] The appeals will be allowed and the assessments will be referred back to the Minister, if necessary, for reconsideration and reassessment in accordance with these reasons. Pursuant to subsection 169(1) of the Tax Court of Canada Rules (General Procedure), counsel for the respondent will prepare a draft judgment to implement my decision which shall be approved as to form by counsel for the appellant. A conference call will be arranged if counsel require directions to settle the terms of the judgment. Counsel shall also make submissions with respect to costs, once judgment has been approved.
+
+Signed at Ottawa, Canada this 15th day of November 2001.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+COURT FILE NO.: 97-3264(IT)G
+
+STYLE OF CAUSE: Peter M. Brown and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: May 8, 2000
+
+REASONS FOR JUDGMENT BY: The Hon. Judge Gerald J. Rip
+
+DATE OF JUDGMENT: November 15, 2001.
+
+APPEARANCES:
+
+Counsel for the appellant: Craig C. Sturrock
+
+David R. Davies
+
+Counsel for the respondent: D. Graham Reynolds
+
+Lise Macdonnell
+
+COUNSEL OF RECORD:
+
+For the appellant:
+
+Name: Craig C. Sturrock and
+
+David R. Davies
+
+Barristers & Solicitors
+
+Firm: Thorsteinssons
+
+2703 - 595 Burrard Street
+
+Vancouver, B.C. V7X 1J2
+
+For the respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+97-3264(IT)G
+
+BETWEEN:
+
+PETER M. BROWN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+ADDENDUM TO REASONS FOR JUDGMENT
+
+In my Reasons for Judgment in Peter M. Brown and Her Majesty the Queen, dated November 15, 2001, I concluded that the appellant's at-risk amount, for the purpose of subsection 96(2.1) and pursuant to subsection 96(2.2) of the Income Tax Act, was nil.
+
+It is the at-risk amount only of the Promissory Note component of the total purchase price that is nil. I did not intend that the at-risk amount of the cash component of the purchase price to be nil.
+
+I wish to thank counsel for bringing this to my attention during a telephone conference call of today.
+
+Signed at Ottawa, Canada, this 6th day of December 2001
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+97-3264(IT)G
+
+BETWEEN:
+
+PETER M. BROWN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on May 8, 2000 at Toronto, Ontario, by
+
+the Honourable Judge Gerald J. Rip
+
+Appearances
+
+Counsel for the appellant: Craig C. Sturrock
+
+David R. Davies
+
+Counsel for the respondent: D. Graham Reynolds
+
+Lisa Macdonell
+
+JUDGMENT
+
+The appeals from the assessments made under the Income Tax Act for the 1993, 1994, 1995 and 1996 taxation years are
+
+Signed at Ottawa, Canada, this day of 2001
+
+[1] Infra, para.162.
+
+[2] A general partner may in certain circumstances become a limited partner under the Act. Subsection 96(2.4) of the Act provides that for the purposes of section 96:
+
+. . . a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within 3 years after that time,
+
+(a) by operation of any law governing the partnership arrangement, the liability of the member as a member of the partnership is limited;
+
+(b) the member or a person not dealing at arm's length with the member is entitled, either immediately or in the future and either absolutely or contingently, to receive an amount or to obtain a benefit that would be described in paragraph (2.2)(d) if that paragraph were read without reference to subparagraphs (ii) and (vi);...
+
+[3] Pursuant to subsection 13(26) of the Act no amount shall be included in a taxpayer's undepreciated capital cost of property unless the property has become "available for use by the taxpayer". Paragraph 13(27)(d), amended by S.C. 1998, c. 19 applicable to property acquired after 1989, for example, provides that the property in question is considered to be "available for use" at
+
+(d) the time the property
+
+(i) is delivered to the taxpayer, or to a person or partnership (in this paragraph referred to as the "other person") that will use the property for the benefit of the taxpayer, or, where the property is not of a type that is deliverable, is made available to the taxpayer or the other person, and
+
+(ii) is capable, either alone or in combination with other property in the possession at that time of the taxpayer or the other person, of being used by or for the benefit of the taxpayer or the other person to produce a commercially saleable product or to perform a commercially saleable service, including an intermediate product or service that is used or consumed, or to be used or consumed, by or for the benefit of the taxpayer or the other person in producing or performing any such product or service,
+
+[4] I have added my own footnotes to the agreed facts. I have deleted tab references to the Joint Book of Documents.
+
+[5] A computer program or video game is played on platforms or machines that are computers. The leading manufacturers of platforms in 1993 were the Japanese parent corporations of Nintendo of America Inc. and of Sega Enterprises Corporation. A 16-bit machine is a computer that works with data in groups of 16-bits at a time. A bit is a unit of information storage capacity, or memory. In a 16-bit machine its data bus can transfer 16-bits at a time. A bus is a set of hardware lines (conductors) used for data transfer among the components of a computer system. A bus is essentially a shared highway that connects different parts of the system - including the microprocessor, disk-drive, controller, memory, and input/output parts - and enables them to transfer information. Buses are characterized by the number of bits they can transfer at a single time. The greater the number of bits, the richer the colours of the game, the more lifelike its characters and the more realistic the actions of the game. Source: Microsoft Press (R) Computer and Internet Dictionary, (C) 1997, 1998 Microsoft Corporation. Portions, The Microsoft Press (R) Computer Dictionary, 3rd Edition (C) 1997 by Microsoft Press.
+
+[6] ASC agreed to pay developers between US$100,000 to US$150,000 for an engine compatible with a Super Nintendo platform and as much as US$275,000 for an engine compatible with both Super Nintendo and Sega Genesis platforms. In addition to the purchase price, ASC agreed to pay additional royalties to the developer. These royalties ranged from between US$2.00 to $4.00 per unit, sometimes depending on the level of unit sales. The developers retained the right to use certain elements from the source code for their own benefit on a royalty free basis. The developers were also obliged to complete the unfinished games for each engine that was sold.
+
+The software purchase agreements between ASC and the developers follow generally the same format. While the agreements do not name the specific engines, some developers have assigned the software programs working titles. The agreements generally describe the assets as "certain computer and video game software programs for interactive electronic home video game(s) which is suitable for play on home video game entertainment systems, such as the Super Nintendo Entertainment System ("SNES") and the Sega Genesis System ("SGS") and which has been listed under the working titles on Schedule A (the "Game(s)")." The Electro Brain Agreement deviates slightly from this format by not referring to a schedule but instead adds "and which is currently being published and marketed as Boxing Legends of the Ring". In Schedule A to the agreements with Imagitec, Radical and Millennium, ASC has assigned a working title to each software program. Imagitec, however, did not assign a developer's working title to either of the two engines sold to ASC. Radical Entertainment did assign a developer's working title to one of three engines it sold to ASC while Millennium Interactive assigned a developer's working title to one of four engines sold. Certain purchase agreements restricted the sales of finished games to various geographic areas of the world.
+
+Apparently seven of the 11 game engines had previously been used to produce other video games. Two of the hockey engines acquired from Radical were used to produce Brett Hull Hockey (Sega Genesis and SNES). A SNES engine used to produce Canondale Cup, infra, had been used to produce a game for Life Fitness. Two boxing engines acquired from Electro Brain were used to produce "Legends of the Ring", a boxing game,; these versions were released as Chavez Boxing II. Two engines acquired from Millenium had earlier produced Super Games Pond and Super Troll Islands, (see following footnotes 7 and 8).
+
+[7] The titles to the eleven computer programs in the Schedule to the Bill of Sale were:
+
+WORKING TITLE FORMAT STYLE
+
+Boxing Round 2a Sega/Nintendo Sports
+
+Fun Islandsb Sega/Nintendo Action
+
+Diggersc Sega/Nintendo Puzzle
+
+TransFightersd Nintendo SNES Action
+
+Roller Warriorse Sega/Nintendo Driving
+
+Trolls Racingf Sega/Nintendo Driving
+
+___________________________________
+
+a Previously Chavez Boxing 1992 and became Chavez Boxing 2.
+
+b According to Mr. Grossman of ASC, these were not published. The Wise Blackman Valuation Report refers to these games as "Shapes and Colors" and "Magic Islands" to be manufactured for the Sega Pico platform.
+
+c These became Troll Fishing and later, according to the Wise Blackman Report, TNN Bass.
+
+d This was Mountain Bike Rally, developed by Radical. ASC refers to this game as Canondale Cup but did not market the game.
+
+e Both Mr. Williams, the principal of the Partnership's managing partner, and Mr. Kosovitch, also of ASC, said the title should be "Roller Hockey" and not "Roller Warriors".
+
+f These were abandoned and not marketed. The Wise Blackman Report refers to these games as "Super Troll Islands".
+
+[8] In a memorandum dated March 7, 1994 to the Partners, Mr. Grossman of ASC gave a "snapshot of the line-up" of games as of that date:
+
+Title Format Licence Release Date
+
+Super Copa Soccer Nintendo No Q2'94
+
+Canondale Cup Nintendo Canondale Q2'94
+
+Super Troll Islands Sega Yes Q3'94
+
+Chavez Boxing 2 Sega/Nintendo Yes Q3'94
+
+Motor Sports (TBD) Sega/Nintendo Yes Q4'94
+
+Fishing Sega/Nintendo Yes Q4'94
+
+Kids Title (TBD) Sega/Nintendo Yes Q1'95
+
+[9] Mr. Brown paid US$140,000 by certified cheque, executed and delivered a Promissory Note in the amount of US$180,000 bearing interest at 7 per cent per annum and executed and delivered Assumption of the Acquisition Note in the amount of US$480,000.
+
+[10] Since only 11 programs were sold by ASC, the total of 2,970,000 game units should be adjusted to 1,485,000 units (11 x 135,000).
+
+[11] See paragraphs 6 and 7 for definition of computer program in the Offering Memorandum and Software Agreement.
+
+[12] Eprom is the acronym for "Electronic Programmable Read Only Memory", basically a computer chip that contains the computer game.
+
+[13] The process of developing 32-bit games is not the same as for 16-bit games. For example, 32-bit games are on compact disks, not cartridges. The language is different and there is no eprom created for the newer process.
+
+[14] When a letter is produced in evidence and that letter refers to any document enclosed with the letter, the enclosure is part of the letter and should be produced as well. Otherwise the Court has an incomplete document before it.
+
+[15] "Emc partners" is not related to EMCI. For ease of reading I refer to Mr. Ozerkevich's business name in lower case, emc, as he does.
+
+[16] I cannot tell when this Agreement was executed. It was amended "as of December 31, 1995" but the parties acknowledge its terms and conditions "this 28th day of December, 1995". By letter of April 4, 1996, in which there are enclosed documents (including a memorandum dated December 29, 1995, from Mr. Williams to Mr. Kosovitch advising he is prepared to accept the amendments on behalf of the Partners) dealing with the proposed amendments to the Software Agreement, CEG Corporation, over the signature of Mr. Williams, requests the CEG Partners to decide whether they wish to accept the amendment before they have to file their 1995 tax returns.
+
+[17] See Swiss Bank Corporation et al. v. M.N.R., 71 DTC 5235 (Ex. Ct.), at p. 5241; aff'd 72 DTC 6470 (S.C.C.).
+
+[18] See paragraph 153 f., infra.
+
+[19] A description of the method used by Mr. Lam to estimate the cost of a game would not add to reader's understanding of the appeal.
+
+[20] See paragraph 63 of these reasons.
+
+[21] The engine that produced Roller Hockey also produced Brett Hull Hockey. The Brett Hull Hockey game initially was developed by Radical and published by Accolade for the Sega Genesis and SNES platforms prior to the sale of the engines to ASC. A sequel was published for the SNES platform. The dates of the release of these games are not clear, but the sequel appears to have been released after 1994 and would have little impact on valuation in 1993.
+
+[22] I query that if the owner of the engines is to pay ASC 12.5 per cent of the income stream of games produced from the engines, whether a potential purchaser would be willing to pay the full purchase price determined by future revenues from the games if he or she was obliged to allocate part of the income stream to ASC.
+
+[23] Mr. Gabelhouse also performed an analysis based on the nature (genre) of the games themselves, infra.
+
+[24] The Tetris game, developed in Russia, one of the earliest successful computer games, was acquired for about US$15,000 and had about US$200,000,000 in sales.
+
+[25] In the game industry, according to Mr. Gabelhouse, an "outlyer" is reference to a game that will sell either unusually well or unusually poor.
+
+[26] I have excluded "Super Copa" from Mr. Gabelhouse's calculations as this engine did not form part of the agreement as of December 31, 1993.
+
+[27] 2001 SCC 62. See paras. 46 to 65 inclusively.
+
+[28] 77 DTC 5213 (S.C.C.
+
+[29] Ibid, at 5215.
+
+[30] Supra note 2 at 5215.
+
+[31] 96 DTC 6001.
+
+[32] Ibid, at 6012. See, also, reasons of the Federal Court of Appeal in A.G. of Canada v. Mastri el al., 97 DTC 5420, Stewart v. The Queen, 2000 DTC 6163 (on appeal to the Supreme Court), Walls and Buvyer v. The Queen, 2000 DTC 6025 (on appeal to the Supreme Court), among others.
+
+[33] Partnership Act, R.S.O. 1990, c. P.5, s.2, for example.
+
+[34] Ludco, supra.
+
+[35] Mandell v. The Queen, 78 DTC 6518 (F.C.A.); approved 80 DTC 6148 (S.C.C.). In Quebec a contingent liability would include a conditional obligation.
+
+[36] Barbican Properties Inc. v. The Queen, 97 DTC 122 (T.C.C.) aff'd 97 DTC 5008 (F.C.A.). See also Urischuck v. The Queen, 93 DTC 5120 (F.C.A.).
+
+[37] Paragraph 96(2.2)(d) was amended by S.C. 1998, c. 19, s. 123(1) applicable after November 1994. For the purposes of the appeal at bar, the amendment is not conceptually different from the provision as it read prior to December 1994. See footnote 2, supra, for paragraph 96(2.4).
+
+[38] See S.M. Waddams, The Law of Contracts, 4th Ed. (Toronto: Canada Law Book Inc., 1999) and G.H.L. Fridman, The Law of Contract in Canada, 4th Ed. (Toronto: Carswell, 1999).
+
+[39] Ibid.
+
+[40] Irvine v. Parker (1903), 40 N.S.R. 392 at 395 (N.S.C.A.) and see also Bannerman v. White and others (1861), 142 E.R. 685 and Heilbut, Symons & Co. v. Buckleton, [1913] A.C. 30 at 51 per Lord Moulton.
+
+[41] See First City Trust Co. v. Triple Five Corp.Ltd. (1989) 57 D.L.R. (4th) 554 (Alta. C.A.); leave to appeal to S.C.C. refused (1989), 70 Alta. L.R. (2d) 1iii (note) (S.C.C.).
+
+[42] The Black's Law Dictionary, 7th Ed. defines warranty as "[a]n express or implied promise that something in furtherance of the contract is guaranteed by one of the contracting parties; esp., a seller's promise that the thing being sold is as represented or promised".
+
+[43] Routledge v. McKay and others, [1954] 1 All E.R. 855 (C.A.) at 859. See also Lord Denning in Oscar Chess, Ltd. v. Williams, [1957] 1 All E.R. 325 (C.A.) at 329.
+
+[44] 96 DTC 1196 (T.C.C.).
+
+[45] 2001 CarswellNat 811. Official English translation http://decision.tcc-cci.gc.ca/en/2001/html/2001tcc96732.html.
+
+[46] Ibid. at para. 407, 409 [emphasis added].
+
+[47] See for example Carswell Tax Partner, 2001-Release 8 at 7 "At-Risk Amount".
+
+[48] See footnote 3, supra.
+
+[49] The appellant does not refer to the creation of the shells, however, as the shells were not complete, I believe this is a step the developer must take before creating the machine code.
+
+[50] In the oral submissions, the appellant's counsel states that the data files (shell) and source code (engines) are merged to create the machine code. In the written submissions, counsel states that the source code is processed through the development machine to produce the machine code before the data files are merged. I do not believe, however, that this distinction affects the outcome of the available for use analysis.
+
+[51] Paragraph 13(27)(d) was amended by S.C. 1998, c.19, which added reference to "the other person" on which the appellant is relying. Although the section was amended after 1993, it is effective for all property acquired after 1989.
+
+[52] Technical Interpretation, Interpretation of the proposed "available for use" rules in the draft legislation dated July 1990, June 1991.
+
+[53] I should note that before the developers are able to create the machine code (the intermediate product), they must create the shells. It could be argued that the engines, as of December 31, 1993, would not have been capable, in and of themselves, of creating the intermediate product and the developers did not have the shells "in their possession at that time". However, it is the engines that are being used in and of themselves to create the shells, and ultimately the machine code. The creation of intermediate products will usually take more than one step and this should not be a bar to a taxpayer being entitled to capital cost allowance pursuant to the available for use rules. Although the developers had to create the shells, the developers were still able to use the engines for the benefit of the taxpayer to create an intermediate product.
+

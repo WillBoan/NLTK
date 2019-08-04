@@ -1,0 +1,158 @@
+Date: 19991006
+
+Docket: 97-140-IT-G
+
+BETWEEN:
+
+MAI TAI (MATTHEW) CHAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bonner, J.T.C.C.
+
+[1] This is an appeal from an assessment of income tax for the Appellant's 1992 taxation year. There are substantive and procedural issues.
+
+[2] The Appellant was a beneficiary under a trust. Upon receipt of disquieting information with regard to the conduct of one of the trustees, he sued the trustees for various forms of relief including an accounting and payment of what was due to him. The action was settled on the basis that one of the trustees would pay a sum of money to the Appellant (the "settlement amount") and, in consideration, the Appellant would both release the trustees from liability to him under the trust deed and disclaim his beneficial interest in the trust property. The Appellant filed his return of income on the basis that by the settlement he disposed of the capital property which had been held in trust for him and realized a taxable capital gain on the disposition. The property was identified in the return of income as 3,500 shares of Ng Cheong Tong Limited. The Minister of National Revenue ("Minister") assessed tax on much the same basis. He found that by virtue of the settlement the Appellant disposed of that same capital property but he assumed that the adjusted cost base was less than declared and that the taxable capital gain on the disposition was therefore greater than declared.
+
+[3] The substantive issue is whether the settlement transaction is one giving rise to a gain to be calculated under paragraph 107(1)(a) or subsection 107(2) of the Income Tax Act ("Act"). The Appellant contends that the settlement amount was property of the trust which was "distributed by the trust" to the Appellant "in satisfaction of ... his capital interest in the trust" within the meaning of subsection 107(2) of the Act. If that is what happened there is a rollover; the Appellant is deemed by paragraph 107(2)(c) to have disposed of the capital interest for proceeds equal to the cost at which he is deemed by paragraph 107(2)(b) to have acquired the property of the trust. The Respondent contends there was a simple disposition by the Appellant of his capital interest in the trust within the meaning of the opening words of subsection 107(1) of the Act. The procedural issues are whether the Respondent is entitled to defend the assessment of tax on grounds which are not, in every minute detail, exactly the same as those on which the assessment was made and where the onus lies in relation to certain facts not found or assumed by the Minister of National Revenue ("Minister") when the assessment was made.
+
+[4] The parties filed an Agreed Statement of Facts which reads in part as follows:
+
+1. The Appellant was born on November 17, 1950 and until June, 1988 was resident in Hong Kong.
+
+2. In August, 1992 the Appellant became aware for the first time that he was a beneficiary of a trust ("Trust") established by his father Chan Cham Por ("Father") and his mother Chan Leung Sam Mui ("Mother") on June 15, 1964 of which Father and Mother were the trustees.
+
+3. The Appellant was advised that the principal asset of the Trust was 21,500 shares of Ng Cheong Tong Limited ("NCTL"), a corporation incorporated in Hong Kong.
+
+4. By Writ of Summons issued on August 26, 1992 out of the Supreme Court of Hong Kong, High Court ("Action"), the Appellant brought a claim against Father and Mother ...
+
+5. Pursuant to a settlement of the Action by a Consent Order of the Supreme Court of Hong Kong, High Court dated September 3, 1992 the Appellant received the sum of HK $12,138,000 ($1,867,385) ("Settlement Amount").
+
+6. By virtue of the settlement of the Action, the Appellant disposed of all of his capital interest in the Trust for proceeds equal to the Settlement Amount.
+
+7. At all relevant times prior to the settlement of the Action the Appellant was a beneficiary of the Trust.
+
+8. In preparing the Appellant's 1992 income tax return ... the Appellant's accounting advisors characterized the Settlement Amount as proceeds from the disposition by the Appellant of 3,500 shares of NCTL[1] and reported such disposition as follows:
+
+Proceeds of Disposition $1,867,385
+
+Adjusted Cost Base ("ACB") 1,680,000
+
+Total Capital Gain Realized $187,385
+
+Taxable Capital Gain $140,539
+
+9. By a Notice of Reassessment dated August 24, 1995 ("Reassessment") ... the Minister reassessed the Appellant's 1992 taxation year on the basis that the Appellant disposed of 3,500 shares of NCTL and by reducing the ACB utilized in calculating the Appellant's capital gain to $1,180,000, and thereby increasing the taxable capital gain to $515,539.
+
+10. The reassessment was confirmed by a Notice of Confirmation dated October 22, 1996 ...
+
+[5] The Notice of Confirmation followed a Notice of Objection to the assessment. That objection was made on the basis that "the taxpayer believes that the adjusted cost base used to calculate the capital gain as disclosed in his 1992 personal tax filling was reasonable". The objection did not suggest that the settlement constituted a distribution by the trust of trust property.
+
+[6] The Trust Deed recites that 3,500 shares of NCTL were transferred to the Appellant's father and mother jointly as trustees for the Appellant. The obligations and powers of the trustees are set out in paragraphs 1 and 2 of the Trust Deed as follows:
+
+NOW THIS DEED WITNESSETH as follows:
+
+1. The Trustees hereby declare themselves trustees of the said 21,500 shares for the said Chan Fi Tak, Chan Chi Tak, Chan Kai Tak, Chan Wing Tak, Chan Po Tack, Chan Ma Tai [the Appellant] and Chan Sau Tak (hereinafter called the Beneficiaries) as to their aforementioned respective number of shares absolutely and that they will hold the said 21,500 shares upon trust:
+
+(a) to pay apply despose [sic] of despose [sic] of and deal with the said 21,500 shares and all dividents [sic] bonuses and other moneys to which they may at any time hereafter become entitled in respect of the same or any of them and to exercise all voting and other powers and rights attached or hereafter to be attached to the same or any of them in such meaner [sic] in all respects as they shall deem to be in the best interest of and of the most benefit to the Beneficiaries; and
+
+(b) if and whenever requested by such of the Beneficiaries so long as such of the Beneficiaries are over 21 years of age so to do to use their best endeavours to procure the shares to which such of the Beneficiaries is or are entitled to be transferred into the name or names of such of the Beneficiaries in the Books of the Company and to execute and do all instruments and things necessary for that purpose.
+
+2. The power of appointing a new trustee or new trustees hereof is vested in the Trustees.
+
+[7] The relationship between the Appellant and his father was distant. In July of 1992 the Appellant both learned of the existence of the trust and received information from his brother indicating that NCTL had agreed to sell a building that was its principal asset and that it planned to distribute the proceeds. The Appellant consulted solicitors and some investigation of NCTL ensued. No reliable evidence was adduced at the hearing of this appeal with respect to the financial state or assets of NCTL.
+
+[8] The Appellant testified that he saw a directors resolution of NCTL declaring an interim dividend of $1,000.00 (HK) per share and authorizing immediate payment thereof. Apparently the document recited an intention to declare a further dividend upon receipt of the final instalment of the sale price anticipated for September 3, 1992.
+
+[9] The Writ of Summons referred to in paragraph 4 of the Agreed Statement of Facts was issued on August 26, 192 and the action was settled within a week. The Consent Order was based on an agreement between the parties to settle the litigation on the basis that:
+
+(1) The 1st Defendant [father] to pay to the Plaintiff the sums of HK$3,500,000.00 and HK$8,638,000.00 through the Plaintiff's solicitors by way of cash or bank draft (drawn or issued by a licensed bank in Hong Kong) at or before 4:00 p.m. on 9th September, 1992.
+
+(2) The Plaintiff to deliver to the 1st and 2nd Defendants, upon payment under paragraph (1) above by the 1st Defendant, a Deed of Release and Disclaimer duly executed by the Plaintiff in the form as in Annex A hereof.
+
+The Deed of Release and Disclaimer commenced with a recital that the Appellant "was and still is the beneficial owner of 3,500 shares in the Company".
+
+The document provided that:
+
+1. In consideration of the said Mr. Chan [father] paying to the Undersigned the sums of HK$3,500,000.00 and HK$8,638,000.00 and pursuant to a Consent Order made by The Honourable Deputy Judge Burrell in Chambers on the 3rd day of September 1992, the Undersigned hereby release [sic] the said Mr. and Madam Chan from any and all their duties liabilities whatsoever (whether joint or several) under the said Trust Deed.
+
+2. Further, also in consideration of the said payment of the said sums of HK$3,500,000.00 and HK$8,638,000.00 and also pursuant to the Consent Order refer to in paragraph 1 above, the Undersigned hereby disclaim [sic] all his beneficial rights interest and entitlements arising out of or in respect of the said 3,500 shares in the Company.
+
+[10] Subsections 107(1), and (2) of the Act are at the base of the present dispute. They read in part:
+
+107.(1) Where a taxpayer has disposed of all or any part of his capital interest in a trust,
+
+(a) where the trust is a personal trust or a prescribed trust, for the purposes of computing the taxpayer's taxable capital gain, if any, from the disposition of the interest or part thereof, as the case may be, the adjusted cost base to the taxpayer thereof immediately before the disposition shall be deemed to be an amount equal to the greater of the adjusted cost base to the taxpayer thereof otherwise determined immediately before that time and the cost amount to the taxpayer thereof immediately before that time,
+
+...
+
+except that where the interest was an interest in an inter vivos trust not resident in Canada that was purchased by the taxpayer, paragraph (a) does not apply in respect of the disposition of all or any part thereof except where subsection (2) is applicable in respect of any distribution of property by the trust to him in satisfaction of that interest or that part thereof, as the case may be.
+
+(2) Where at any time any property of a personal trust or a prescribed trust has been distributed by the trust to a taxpayer who was a beneficiary under the trust in satisfaction of all or any part of his capital interest in the trust, the following rules apply:
+
+(a) the trust shall be deemed to have disposed of the property for proceeds of disposition equal to its cost amount to the trust immediately before that time;
+
+(b) the taxpayer shall be deemed to have acquired the property at a cost equal to the aggregate of its cost amount to the trust immediately before that time and the amount, if any, by which
+
+(i) the adjusted cost base to him of the capital interest or part thereof, as the case may be, immediately before that time as determined for the purposes of paragraph (1)(b)
+
+exceeds
+
+(ii) the cost amount to him of the capital interest or part thereof, as the case may be, immediately before that time;
+
+(c) the taxpayer shall be deemed to have disposed of all or part, as the case may be, of the capital interest for proceeds equal to the cost at which he is deemed by paragraph (b) to have acquired the property, minus the amount of any debt assumed by the taxpayer or of any other legal obligation assumed by him to pay any amount, if the distribution of the property to him was conditional upon the assumption by him of the debt or obligation;
+
+[11] As is evident from the Agreed Statement of Facts, the Appellant and Respondent now agree that the settlement effected a disposition by the Appellant of his entire capital interest in the trust. The key question is whether the money paid to the Appellant was property of the trust which was "distributed" by the trust in satisfaction of the Appellant's interest. The Appellant argues that it was because, counsel submits, the trustee used funds of the trust the source of which was the dividends paid by NCTL on the 3,500 shares held in trust for the Appellant.
+
+[12] While it seems clear that the amount paid is equal to the dividends paid by NCTL in August and September of 1992 on 3,500 shares it has not been established that payment by the Appellant's father was a "distribution" by the trust within the meaning of subsection 107(2). Subsections 107(1) and (2) were enacted to provide different tax treatments for two essentially different transactions which result in the disposition of a taxpayer's capital interest in a trust. Subsection 107(1) deals with ordinary dispositions by way of sale or gift of the taxpayer's interest in the trust. Subsection 107(2) is tailored to suit cases in which a trust "distributes" the property of a trust to a beneficiary thereby reducing or eliminating the latter's beneficial interest. A rollover is provided in the case of a subsection 107(2) transaction because there is, in substance, no disposition whereby a gain could be realized. The beneficiary in such a case holds, after the transaction has been completed, full title to the property of which previously was a beneficial owner. A leading Canadian text on the law of trusts states the position as follows:
+
+... Perhaps the foremost example of this recognition of the beneficiary is the Act's provision that in most cases, if the trustees distribute capital property to a capital beneficiary, something which they would do in fulfilment of the terms of the trust, the transfer, though a disposition in nature, does not cause any capital gain accrued to that point to be taxable to the trust. In other words, there is a so-called "roll-over" to the beneficiary. Capital gain only becomes taxable when the beneficiary himself later disposes of the asset or assets in question. In a very clear fashion this "roll-over" reflects the interest which, whoever he may be, the beneficiary had in the asset or assets in question while held in title by the trustees.[2]
+
+[13] Here the payment to the Appellant was not a "distribution" of trust property to the Appellant for it was not an action taken by the trustee in response to his obligations under the trust. The word "distribute" in the context of subsection 107(2) refers to an allotment of trust property to a beneficiary in accordance with his proportionate share. Such a distribution, being an action taken by the trustee in response to fiduciary duty, is one for which consideration cannot be exacted except in accordance with a provision in the trust deed. Here the deed of release and disclaimer is quite inconsistent with any sort of distribution of property of the trust in the form of cash to the Appellant qua beneficiary. The Appellant's father demanded and received consideration as provided in the form of the deed of release and disclaimer. The deed transferred to the father and the mother beneficial ownership in the 3,500 shares which they had previously held in trust. The transaction was, quite simply, a sale. The disclaimer of the Appellant's beneficial interest in the shares cannot be dismissed as an empty gesture. It formed part of the consideration for the payment to the Appellant of the money. Subsection 107(2) of the Act therefore does not apply.
+
+[14] There are two procedural issues. First, the Appellant argues that the assessment under appeal was made on August 24, 1995 on the basis that the Appellant realized a taxable capital gain from the disposition of 3,500 shares of NCTL. Because the initial assessment for the Appellant's 1992 taxation year had been made on August 16, 1993 the normal reassessment period for the taxpayer in respect of the 1992 taxation year under subsection 152(4) of the Act expired on August 15, 1996. According to the Appellant, when the Respondent filed the Reply to the Notice of Appeal on March 20, 1997 it was too late for the Respondent to assert that the Appellant was liable for tax on a basis (disposition of his interest in the trust to his father) different from the basis of the August 24, 1995 reassessment (disposition of NCTL shares). The Appellant asserts that the Respondent may not advance an alternative basis for reassessment after the applicable limitation period has expired and in that regard refers to the decision of the Supreme Court of Canada in Her Majesty the Queen v. Continental Bank of Canada.[3]
+
+[15] The second procedural issue relates to onus. The Appellant asserts that the Respondent bears the onus of proof concerning the nature of the settlement amount. Counsel submits that because the Minister assessed the Appellant on the basis that he disposed of shares of NCTL, the Respondent bears the onus in respect of what counsel describes as "... an alternative basis of assessment completely different from the basis on which the reassessment was made and confirmed".
+
+[16] The answer to the first of the procedural arguments is found in legislation enacted to overrule what was said on this point by the Supreme Court of Canada in Continental Bank. Subsections 63.1(2) and (3) of S.C. 1999 c. 22 read:
+
+(2) Section 152 of the Act is amended by adding the following after subsection (8):
+
+(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+
+(3) Subsections (1) and (2) are applicable to appeals disposed of after the day on which this Act is assented to.
+
+The Act was assented to on June 17, 1999.
+
+[17] Counsel for the Appellant argues that the appeal was "disposed of" within the meaning of subsection 63.1(3) when judgment was reserved at the conclusion of the hearing prior to June 17, 1999 and that in consequence the new subsection 152(9) does not apply. I do not agree. The obvious purpose of the legislation was to permit alternative arguments in all litigation except where final judgment has been issued prior to the coming into force of the amendment. Litigation is not "disposed of" until it is brought to a conclusion by the issuance of judgment.
+
+[18] Counsel argues in alternative that, if subsection 152(9) does apply, the subsection does not allow the Minister to advance a factual basis for reassessment different from the factual basis assumed by the Minister in making the original assessment (in this case disposition of 3,500 shares of NCTL). Counsel asserts that the amending legislation permits an alternative argument only if it can be supported by the facts assumed by the Minister when the original assessment was made. Reliance on a different view of the facts is not, on this theory, permitted. Again, I do not agree. I can find nothing in either the language or the purpose of the legislation which supports the restriction which the Appellant seeks to place on the language of subsection 152(9) "the Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period ...". It is difficult to imagine a rational basis for reading such a restriction into the subsection. Allowing the Minister to plead and to establish that the assessment of tax which he has made is supportable having regard to the law and to facts of which the Minister was unaware when he made the assessment does not, as counsel suggests, constitute allowing the Minister to appeal from his own assessment. Clearly the Act does not permit the Minister to appeal from his own assessment, but that is not an accurate description of what the Minister now seeks to do. He does not suggest that his assessment was wrong. Rather, he suggests that the assessment is right but for reasons of which he was previously unaware. The Appellant's argument confuses the reasons for making an assessment with the assessment itself. What is assessed is not a reason but rather is "the tax for the year". I refer to subsection 152(1) of the Act. The amendment to section 152 emphasizes the existence of the distinction between the assessment and the arguments which may support it and thus makes it clear that it can be said that the Minister is attempting to appeal his assessment only where the Minister is seeking to increase the amount of tax assessed.[4] It is therefore open to the Respondent to argue as, I note, the Appellant did also, that the property disposed of was something other than shares of NCTL.
+
+[19] Finally, I observe that no discussion of onus is necessary. There can be no doubt on the evidence that, by the settlement transaction, the Appellant disposed of his capital interest in the trust. For the foregoing reasons the appeal will be dismissed with costs.
+
+Signed at Ottawa, Canada, this 6th day of October 1999.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+[1] The Appellant's tax return was prepared by accounting advisors but it was the Appellant's return; he signed it and thus adopted the accountants' characterization .
+
+[2] Waters, Law of Trusts in Canada, 2nd ed. at 466
+
+[3] 98 DTC 6501
+
+[4] Compare Vineland Quarries and Crushed Stone Limited v. M.N.R., 70 DTC 6043
+

@@ -1,0 +1,112 @@
+Date: 20000302
+
+Docket: 98-2438-GST-I
+
+BETWEEN:
+
+897366 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] This appeal from an assessment made under the Excise Tax Act came on for hearing on January 19, 2000. It was obvious that Mr. Carlile, the owner of the appellant, was not ready to proceed and so I adjourned the case for a month to permit him to assemble his evidence. I also urged him to meet with the representatives of the Department of National Revenue in an attempt to see whether a resolution of the case could be achieved.
+
+[2] The case is one that should not have come to court. It involves the purely mechanical process of determining the appellant's sales, computing the GST on them and netting against that the tax on his purchases of goods and services used in the business (input tax credits).
+
+[3] The Minister concluded that in the period from January 1, 1991 to December 31, 1995 the appellant had underreported GST by $45,714.03 and had overstated his input tax credits ("ITCs") by $4,629.90. He also imposed penalties.
+
+[4] The basic assumption was that the appellant's bank deposits represented sales. These deposits were $2,973,846, subject to certain adjustments to which the appellant does not object, which resulted in gross revenue of $2,799,333. GST computed at 7/107 of that figure came to $183,134. GST of $137,240 had been reported leaving a shortfall of $45,714. With the disallowed ITCs of $4,629.90, the appellant's net liability was $50,343.93.
+
+[5] When the matter came on again for hearing on February 15, 2000, the appellant had not met with the Department of National Revenue or with respondent's counsel. Mr. Carlile produced a book on the morning of trial containing the appellant's calculation of its GST liability. The appellant calculates its GST for the period at $135,346.46, about $2,000 less than that reported.
+
+[6] One major difference between the appellant's figures and the Department's is found in the bank statements. The auditor calculated the total deposits during the period to be $2,973,845.68. The appellant found variances which he detailed in Exhibit A-2, his book of documents, in the amount of $228,054.06.
+
+[7] I am inclined to agree that there may — I emphasize may — be variances within a range of indeterminate magnitude, but I think the appellant's problems before me may be the same as the problem he had with the assessors of the Department of National Revenue — communication. A certain portion of Mr. Carlile's evidence consisted of complaints about the way the audit was conducted.
+
+[8] In GST appeals we have seen too frequently appellants, usually unrepresented, appear in court with boxes of invoices and take the position that the Department of National Revenue was uncooperative and failed to consider the evidence. The Department usually makes similar allegations about the taxpayer and intones ritually that the taxpayer "failed to keep adequate books and records". In the result, the court is called on, in effect, to perform an audit that should have been performed long before the matter came to court. That is not the function of the court. In cases of this sort, the proper procedure is that set out in Merchant v. The Queen, 98 DTC 1734 at pages 1735-6:
+
+[7] Where a large number of documents, such as invoices, have to be proved it is a waste of the court's time to put them in evidence seriatim. The approach set out in Wigmore on Evidence (3rd Ed.) Vol IV, at s. 1230 commends itself:
+
+s. 1230(11):...Where a fact could be ascertained only by the inspection of a large number of documents made up of very numerous detailed statements — as, the net balance resulting from a year's vouchers of a treasurer or a year's accounts in a bank-ledger — it is obvious that it would often be practically out of the question to apply the present principle by requiring the production of the entire mass of documents and entries to be perused by the jury or read aloud to them. The convenience of trials demands that other evidence be allowed to be offered, in the shape of the testimony of a competent witness who has perused the entire mass and will state summarily the net result. Such a practice is well-established to be proper.
+
+[8] This passage was cited with approval by Wakeling, J.A. in Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1 at p. 24 (Sask. C.A.) and by MacPherson, J. in R. v. Fichter, Kaufmann et al., 37 S.R. 128 (Sask. Q.B.) at p. 129. I am in respectful agreement.
+
+[9] Mr. Carlile did provide a summary in the book marked Exhibit A-2, but without some foundation being laid and some explanations I could not determine from that exhibit that the appellant's figures were more reliable than the Minister's. While I would not expect boxes of invoices to be put in evidence, if the long lists of figures in Exhibit A-2 are to have any meaning, they should be accompanied at least by some elucidation of what they mean and why they differ from the Minister's figures.
+
+[10] Mr. Carlile contended that a substantial number of items upon which tax was levied were transfers between closely related companies. He put in evidence a letter signed on behalf of 897366 Ontario Limited and 897367 Ontario Limited purporting to elect with respect of supplies between closely related corporations. It is not clear to me that these two corporations were closely related within the meaning of section 128. 897366 was controlled by Mr. Carlile and his family. 897367 is owned, as to 52%, by Jeremy Tallboy, an unrelated individual and as to 48% by the appellant and his wife. In any event, the evidence does not disclose what supplies, if any, were transferred between these entities. Mr. Carlile testified that 897366 was purchasing supplies on behalf of 897367 — upwards of $500,000 worth — and was being paid by an assignment of 897367's receivables. He stated that he was doing this because the appellant was owed over $200,000 by Principal Franchising Inc., which had taken over 897367's business when it went bankrupt, and he was hoping that by buying supplies for it it would become profitable and Principal Franchising Inc. would sell it at a profit and pay the appellant the amount it owed to it.
+
+[11] I accept what Mr. Carlile says, as far as it goes, about the appellant's reasons for what it did, but it is of scant assistance in deciding anything about the appellant's tax liability.
+
+[12] The most that I can do for the appellant is the following:
+
+1. In computing the appellant's bank deposits that evidenced sales, the auditor allowed a deduction of $69,000 for shareholder advances. This figure should be $73,711.77.
+
+2. There should also be a deduction of $9,990, being a portion of a settlement amount received from Principal Franchising Inc.
+
+3. Penalties of $18,524.27 and $12,585.98 were levied. The penalty of $18,524.27 appears to have been imposed under section 280. This penalty is subject to a due diligence defence, but on the evidence I do not think the appellant has made out such a defence.
+
+[13] The penalty of $12,585.98 is imposed under section 285. This requires that an omission or false statement in a return be made knowingly or in circumstances amounting to gross negligence. The onus is upon the Crown to establish these elements and this the Crown has failed completely to do. Subsection 163(3) of the Income Tax Act specifically places the burden of proof on the Crown in appeals from penalties imposed under subsection 163(2). There is no provision in the Excise Tax Act that corresponds to subsection 163(3) with respect to section 285 penalties, although the wording in section 285 is virtually identical to that in subsection 163(2). It would be a remarkable result if the onus of proof lay on the Crown in one case and on the taxpayers in another. In A. Pashovitz v. M.N.R., [1961] C.T.C. 288, 61 DTC 1167, Thurlow J. held that in an appeal under old section 51A which imposed a penalty for wilfully... evading or attempting to evade tax payable..., since the penalty is "civil", the onus lay on the taxpayer. Such a conclusion is surprising, even by 1961 standards. Thurlow J.'s conclusion is based solely on the observations of Rand J. and Kellock J. in Johnston v. M.N.R., [1948] S.C.R. 486. That case is, of course, the leading case on onus of proof in appeals from assessments of tax. It is silent on the onus where penalties are involved. Thurlow J. observed the proceedings relating to penalty are of a civil nature, but he could "see no sufficient reason for making any distinction as to the onus of proof..." [between appeals from assessments of tax and assessment of penalties.] Well, I can see plenty of reasons for making such a distinction. If someone not only accuses me of the reprehensible and indeed criminal act of tax evasion but also seeks to punish me for it I would expect my accuser to substantiate the allegation regardless of how many mollifying epithets, such as "civil" or "administrative" are used to cushion the blow. A punishment for dishonest or reckless behaviour is still a punishment. The same is true of a penalty imposed to punish conduct described in section 285 of the Excise Tax Act. It appears axiomatic that where a government imposes a penalty upon a subject for conduct in which a necessary ingredient is mens rea of intent or recklessness, it is incumbent upon that government to justify its action.
+
+[14] I am fortified in my view that in an appeal from a penalty under section 285, the onus is on the Minister to establish the elements justifying the penalty by a decision of Rip J. in Alex Excavating Inc. v. Canada, [1995] G.S.T.C. 57 at page 57-13:
+
+The question whether the Crown had the burden of establishing the facts justifying the assessment of the s. 285 penalty was not raised at trial. Counsel for the respondent produced Mrs. Dickson to give evidence establishing the facts justifying the penalty. Counsel was correct in doing so.
+
+Both the Excise Tax Act and the Income Tax Act were enacted to raise revenue for the Government of Canada. They are not strictly speaking different statutes in pari materia since the taxes are different. However, s. 285 of the Act and subsec. 163(2) of the ITA both touch on the same subject, that is, penalizing a person who knowingly, or under circumstances amounting to gross negligence, in the carrying out of a statutory duty, makes a false statement in a return from which a tax is calculated. The language of s. 285 and subsec. 163(2) of the ITA are similar and they target the same mischief5. I cannot imagine that in this situation Parliament intended that the Minister have the burden of establishing the facts justifying a penalty assessed by the Income Tax Act and shift the burden of establishing the facts vacating the penalty on the taxpayer in the Excise Tax Act. It is implicit in s. 285 that the burden of establishing the facts justifying the assessment of the penalty issued pursuant to that section is on the Minister6.
+
+(footnotes omitted)
+
+[15] I am in complete and respectful agreement with the observations of Rip J.
+
+[16] Further support for this position is found in the statement of Robertson J.A. in Consolidated Cdn. Contractors Inc. v. Canada, (F.C.A.),[1998] G.S.T.C. 91 at page 91-16 where he said:
+
+[50] In my view, the Minister's argument is really two-sided. First, it suggests that the aforementioned provisions demonstrate Parliament's intention to establish absolute liability with respect to the penalty provision in s. 280. This is a reasonable inference which assists the Minister in discharging his onus to rebut the presumption in favour of strict liability: see Nassau Walnut Investments, supra, at p.299. But it is not dispositive of the issue. I say this because ss. 285, 323 and 327 are distinguishable on the basis that they place a duty on the Minister to establish that a registrant's conduct falls within those provisions. By contrast, an implied due diligence defence with respect to s. 280 places the onus on the registrant to establish that he or she had exercised reasonable care in remitting the correct amount of GST. With respect to s. 323, it does not necessarily follow that because an Act expressly provides for a defence in one instance, it is not available in others: see Nassau Walnut, supra.
+
+(emphasis added)
+
+[17] The matter of the penalty was not pursued in the cross-examination of Mr. Carlile, and no revenue assessor was called as a witness. The appellant's returns were not even put in evidence. Mr. Carlile struck me as an honest, conscientious man who tried as best he could, using a computer program, to calculate his GST liability. That he was unable to show that his calculations were to be preferred to the Minister's is no reason to doubly penalize him. Even if I were inclined to follow Thurlow J. and put the onus on the taxpayer, I would, based on my observation of the witness, hold that the necessary elements under section 285 were absent.
+
+[18] It seems that the GST assessors have gotten a little carried away with penalties. Until the Federal Court of Appeal set them straight in Consolidated Cdn. Contractors Inc. (supra), following Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, they were blithely and routinely imposing no fault penalties every time their calculations differed from those of the taxpayers. It seems they have now transferred that attitude to section 285 penalties.
+
+[19] The fact that not a shred of evidence supporting the section 285 penalties was adduced leads me to conclude that the Crown had none, either at trial or on assessing. The imposition of penalties under section 285 requires a serious and deliberate consideration by the taxing authority of the taxpayer's conduct to determine whether it demonstrates a degree of wilfulness or gross negligence justifying the penalty. Section 285 is not there to permit assessors to punish taxpayers for being frustrating or annoying. It cannot be overemphasized that penalties may only be imposed under section 285 in the clearest of cases, and after an assiduous scrutiny of the evidence.
+
+[20] In Farm Business Consultants Inc. v. The Queen, 95 DTC 200 (aff'd F.C.A., 96 DTC 6085) at pages 205-206, the following discussion of the civil onus of proof required in the case of penalties appears:
+
+...that subparagraph 152(4)(a)(i) has as its purpose the opening up of returns for statute-barred years where items of income, for a wide variety of reasons, are omitted or misstated, whereas subsection 163(2) is a penal provision and that in applying it if there is doubt as to the type of conduct to which the misrepresentation is attributable the benefit of that doubt should be given to the taxpayer. In Udell v. M.N.R., 70 DTC 6019 Cattanach, J. said at page 6025:
+
+There is no doubt that section 56(2) is a penal section. In construing a penal section there is the unimpeachable authority of Lord Esher in Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629, to the effect that if the words of a penal section are capable of an interpretation that would, and one that would not, inflict the penalty, the latter must prevail. He said at page 638:
+
+We must be very careful in construing that section because if imposes a penalty. If there is a reasonable interpretation which will avoid the penalty in any particular case, we must adopt that construction.
+
+and at page 6026:
+
+I take it to be a clear rule of construction that in the imposition of a tax or a duty, and still more of a penalty if there be any fair and reasonable doubt the statute is to be construed so as to give the party sought to be charged the benefit of the doubt.
+
+See also Holley v. M.N.R., 89 DTC 366 at 369; De Graaf v. The Queen, 85 DTC 5280.
+
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established3. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted4.
+
+____________________________
+
+3 Cf. Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; 131 D.L.R. (3d) 559; 25 C.P.C. 72, per Laskin, C.J.C. at 168-171; D.L.R. 562-564; C.P.C. 75-77); Bater v. Bater, [1950] 2 All E.R. 458 at 459; Pallan et al. v. M.N.R., 90 DTC 1102 at 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440 at 2443.
+
+4This is not simply an extrapolation from the rule in Hodge's Case (1838) 2 Lewin 227; 168 E.R. 1136, applicable in criminal matters such, for example, as section 239 of the Income Tax Act where proof beyond a reasonable doubt is required. It is merely an application of the principle that a penalty may be imposed only where the evidence clearly warrants it. If the evidence is consistent with both the state of mind justifying a penalty under subsection 163(2) and the absence thereof — I hesitate to use the words innocence or guilt in these circumstances — it would mean that the Crown's onus had not been satisfied.
+
+[21] I regard the imposition of section 285 penalties in this case as wholly unjustified.
+
+[22] The penalties under section 285 are deleted and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to adjust the tax in accordance with these reasons.
+
+Signed at Ottawa, Canada, this 2nd day of March 2000.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

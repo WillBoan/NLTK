@@ -1,0 +1,170 @@
+Date: 20001218
+
+Docket: 1999-5130-IT-I
+
+BETWEEN:
+
+GINETTE OUELLET,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+FACTS
+
+[1] This is an appeal for the 1997 taxation year.
+
+[2] In computing income for the 1997 taxation year, the Appellant failed to report the amount of $5,305.00 as alimony income.
+
+[3] The Minister of National Revenue ("Minister") assessed the Appellant for the 1997 taxation year, Notice of Assessment thereof mailed May 22, 1998.
+
+[4] In reassessing the Appellant by Notice of Reassessment mailed April 15, 1999, the Minister added the amount of $5,284.00 to the Appellant's income as alimony income.
+
+[5] Ginette Ouellet and her former spouse, Brian Hedman, had one child during their marriage, Logan Daniel Hedman, born January 13, 1983. The Appellant and Mr. Hedman divorced on May 1, 1987. Pursuant to the Divorce Order ("Order"), Brian Hedman was required to pay the Appellant's child maintenance, pursuant to a sliding scale providing that as Mr. Hedman's income increased, the obligation for support would increase, in accordance with the formula set out in the Order. The Order also had separate provisions for the indexing of the child support pursuant to the Consumer Price Index for Canada with such increases to occur on March 31 of every year. The Order has never been modified or replaced since. At all material times, the Appellant and Mr. Hedman were living separate and apart.
+
+[6] The Appellant submits that the child support she received should not be considered as income, since the Order stated that the sum of $5,000.00 payable each year by Mr. Hedman and increased as set out in the Order, shall be tax-free to the recipient. She further submits that the amounts should be considered as instalments of a lump sum rather than periodic payments.
+
+[7] The Minister submits that Brian Hedman paid the child support in 1997 in the amount of $5,305.00 in several payments as follows. Payments in the amounts of $425.34, $425.35, $425.35, $2,589.24 and $440.35 were made to the Family Responsibility Office ("FRO") on January 22, 1997, February 24, 1997, March 21, 1997, December 19, 1997 and December 31, 1997, respectively. Those payments were deposited directly into the Appellant's bank account by the FRO. On or about October 5, 1997, Brian Hedman also gave the Appellant a cheque in the amount of $1,000.00, for a total amount of $5,305.00. The Minister therefore contends that the amounts received by the Appellant were support amounts as defined in the Income Tax Act ("Act") that should be included in the Appellant's income.
+
+ISSUE
+
+[8] The issue is whether the Minister, in computing the Appellant's income, properly included the child support payments she received in the 1997 taxation year.
+
+STATUTORY FRAMEWORK
+
+[9] The relevant provisions of the Act read as follows:
+
+56. (1) Amounts to be included in income for year — Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+...
+
+(b) support — the total of all amounts each of which is an amount determined by the formula
+
+A – (B + C)
+
+where
+
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began after its commencement day, and
+
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year; [emphasis added]
+
+56.1(4) “commencement day” at any time of an agreement or order means
+
+(a) where the agreement or order is made after April 1997, the day it is made; and
+
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act. [emphasis added]
+
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and [...] [emphasis added]
+
+“child support amount” means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or former spouse of the payer or who is a parent of a child of whom the payer is a natural parent.
+
+ANALYSIS
+
+THE PROVISION IN DISPUTE
+
+[10] The provision of the Divorce Order of the Supreme Court of Ontario, paragraph 2(j), provides as follows:
+
+(j) THIS COURT ORDERS AND ADJUDGES that under the Divorce Act the Petitioner and the Respondent agree that the sum of $5,000.00 of child support in each and every year as called for under this Agreement shall be tax free to the Respondent in that the Respondent need not claim the same as income on her income tax return, nor shall the Petitioner claim the same as a tax deduction on his income tax return. However, all sums paid by the Petitioner to the Respondent over $5,000.00 in each and every year shall be treated by the Respondent as income and by the Petitioner as a deduction on their respective tax returns and so claimed by each on their respective income tax returns.
+
+PERIODIC PAYMENTS
+
+VERSUS LUMP SUM PAYMENT
+
+[11] Pursuant to subsection 56.1(4) of the Act, only amounts payable on a periodic basis are to be considered as "support amounts". Thus, a lump sum payment is not a "support amount" as defined by the Act. Whether an amount should be considered as payable on a periodic basis or as a lump sum is a question of fact.
+
+[12] The Federal Court of Appeal in The Queen v. McKimmon[1] has developed the following analytical criteria:
+
+The problem of distinguishing between periodic payments made as an allowance for maintenance, which are deductible for income tax purposes, and periodic payments made as instalments of a lump or capital sum, which are not so deductible, is one which has given rise to considerable discussion and jurisprudence. [...] [T]he Court is required to look at all the circumstances surrounding the payment and to determine what, in the light of those circumstances, is its proper characterization. [...]
+
+The following are, as it seems to me, some of the considerations which may properly be taken into account in making such a determination. The list is not, of course, intended to be exhaustive.
+
+1. The length of the periods at which the payments are made. Amounts which are paid weekly or monthly are fairly easily characterized as allowances for maintenance. Where the payments are at longer intervals, the matter becomes less clear. While it is not impossible, it would appear to me to be difficult to envisage payments made at intervals of greater than one year as being allowances for maintenance.
+
+2. The amount of the payments in relation to the income and living standards of both payer and recipient. Where a payment represents a very substantial portion of a taxpayer's income or even exceeds it, it is difficult to view it as being an allowance for maintenance. On the other hand, where the payment is no greater than might be expected to be required to maintain the recipient's standard of living, it is more likely to qualify as such an allowance.
+
+3. Whether the payments are to bear interest prior to their due date. It is more common to associate an obligation to pay interest with a lump sum payable by instalments than it is with a true allowance for maintenance.
+
+4. Whether the amounts envisaged can be paid by anticipation at the option of the payer or can be accelerated as a penalty at the option of the recipient in the event of default. Prepayment and acceleration provisions are commonly associated with obligations to pay capital sums and would not normally be associated with an allowance for maintenance.
+
+5. Whether the payments allow a significant degree of capital accumulation by the recipient. Clearly not every capital payment is excluded from an allowance for maintenance: common experience indicates that such things as life insurance premiums and blended monthly mortgage payments, while they allow an accumulation of capital over time, are a normal expense of living which are paid from income and can properly form part of an allowance for maintenance. On the other hand, an allowance for maintenance should not allow the accumulation, over a short period, of a significant pool of capital.
+
+6. Whether the payments are stipulated to continue for an indefinite period or whether they are for a fixed term. An allowance for maintenance will more commonly provide for its continuance either for an indefinite period or to some event (such as the coming of age of a child) which will cause a material change in the needs of the recipient. Sums payable over a fixed term, on the other hand, may be more readily seen as being of a capital nature.
+
+7. Whether the agreed payments can be assigned and whether the obligation to pay survives the lifetime of either the payer or the recipient. An allowance for maintenance is normally personal to the recipient and is therefore unassignable and terminates at death. A lump or capital sum, on the other hand, will normally form part of the estate of the recipient, is assignable and will survive him.
+
+8. Whether the payments purport to release the payer from any future obligations to pay maintenance. Where there is such a release, it is easier to view the payments as being the commutation or purchase of the capital price of an allowance for maintenance.[2] [footnotes omitted; emphasis added]
+
+[13] In relation to the facts of this case I find the McKimmon criteria results in the following findings:
+
+1. The payments were to be made at intervals of one year, such intervals which are not excluded by the Federal Court of Appeal to be periodic payments.
+
+2. The payments in the amount of $5,000.00, as increased pursuant to the Order, are not likely to represent a very substantial portion of Brian Hedman's income and are no greater than what might be expected to maintain the Appellant's child's standard of living.
+
+3. While the Order provides for interest on payments in respect of which there is a default, no interest is payable prior to the payments' due date.
+
+4. There is no mention of the possibility of anticipated payments in the Order.
+
+5. The payments in the amount of $5,000.00, as increased pursuant to the Order, are not likely to allow a significant degree of capital accumulation by the Appellant.
+
+6. The payments are stipulated in the Order to continue to enable the child to complete one post-secondary school degree. The continuance of the payments thus depends on an event that will cause a material change in the needs of the recipient.
+
+7. The payments cannot be assigned and there is no mention in the Order providing the survival of the obligation after the lifetime of the payer or the recipient.
+
+8. While the Order provides that the Appellant and Brian Hedman "neither shall be obligated to make any payments in the nature of support, alimony, maintenance, or any similar payment [...] to or for the benefit of the other", such release is not, pursuant to the wording of the Order, related to the payments for the benefit of the child. In my opinion, the payments received by the Appellant do not purport to release Brian Hedman from any future obligations to pay maintenance. From this I conclude that the amounts received by the Appellant are in the nature of periodic payments rather than instalments of a lump sum.
+
+REQUIREMENT OF NON-INCLUSION IN THE ORDER
+
+[14] The Appellant's liability for income tax does not depend on what the Order provided in this regard. Indeed, the jurisprudence states clearly that liability for income tax does not stem from a separation agreement or a court order, but from the provisions of the Act.
+
+[15] In The Queen v. Sigglekow,[3] the taxpayer was, pursuant to a divorce decree, entitled to a "tax free" maintenance and support from a former spouse for the care of her son. Relying on the decree, she did not include in her income the amounts she received pursuant to it. The Minister reassessed and included the amounts. The Federal Court - Trial Division ruled that the Minister's reassessment was entirely correct since "there could be no question that such sums actually received by the Defendant fall precisely with the terms of section 56 and should, therefore, have been included in her income".[4]
+
+[16] More recently, in Bates v. The Queen,[5] Mogan T.C.C.J. relied in the reasons given in Sigglekow to dismiss a similar appeal. While Judge Mogan concluded that the Order did not effectively provide "tax free" support payments, he concluded that, in any event, the Order could not bind the Minister in this regard.[6] The following part of his reasons is relevant:
+
+The superior court of any province has jurisdiction to order payments for the maintenance of spouse or children upon the break-up of a marriage. That jurisdiction does not include the authority to determine the character of those payments as being taxable or tax free for purposes of the Income Tax Act. Once the superior court of a province has ordered maintenance payments on a marriage break-up, the character of those payments as taxable or not taxable will be determined by the conditions in paragraphs 56(1)(b) and 56(1)(c) of the Income Tax Act.[7] [emphasis added]
+
+CONCLUSION
+
+[17] I therefore conclude the allowance paid to the Appellant by Brian Hedman was on a periodic basis for the maintenance of Logan Daniel Hedman under the Order of the Supreme Court of Ontario and is to be included in computing the Appellant's income for the 1997 taxation year in accordance with paragraph 56(1)(b) of the Act.
+
+DECISION
+
+[18] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 18th day of December 2000.
+
+"D. Hamlyn
+
+J.T.C.C.
+
+[1] 90 DTC 6088.
+
+[2] Ibid., at pp. 6090-6091.
+
+[3] 85 DTC 5471 (F.C.T.D.).
+
+[4] Ibid. at p. 5473.
+
+[5] 98 DTC 1919 (T.C.C.).
+
+[6] Mogan J. also refers to the reasons given by Brulé J. in Arshinoff v. The Queen, [1994] 1 C.T.C. 2850 and by Sarchuk J. in Halligan v. The Queen, [1996] 2 C.T.C. 2555.
+
+[7] Ibid. at p. 1924.
+

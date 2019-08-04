@@ -1,0 +1,470 @@
+Date: 20011108
+
+Docket: 1999-4847-IT-G
+
+BETWEEN:
+
+MIMETIX PHARMACEUTICALS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment made by the Minister of National Revenue ("Minister") under the Income Tax Act ("Act") with respect to the appellant's 1996 taxation year. In assessing the appellant, the Minister:
+
+(a) revised the qualified expenditures for the purposes of investment tax credits from $1,964,600 as claimed by the appellant[1] down to $1,755,573, the difference of $209,027 having been disallowed as a qualified expenditure;
+
+(b) calculated investment tax credits at a rate of 20 per cent instead of the 35 per cent rate used by the appellant;[2] and
+
+(c) denied refundable investment tax credits in the amount of $600,599 claimed by the appellant.
+
+[2] With respect to paragraph 1(a) above, it is my understanding that the qualified expenditures were reduced by an amount of $209,027 with respect to a piece of equipment, the "Collette mixer", that the appellant had leased prior to its acquisition thereof. The respondent submits that the Collette mixer had been used by the appellant before its acquisition and consequently that the expenditure for its acquisition was a prescribed expenditure within the meaning of paragraph 2902(b) of the Income Tax Regulations ("Regulations"). Therefore, the expenditure was not a qualified expenditure within the meaning of subsection 127(9) of the Act for purposes of the investment tax credit provided for in subsection 127(5) of the Act.
+
+[3] With respect to paragraph 1(b) above, the respondent submits that under subsections 127(5) and 127(9) of the Act the appellant was only entitled to deduct as investment tax credits from tax otherwise payable 20 per cent of qualified expenditures and not the 35 per cent claimed by the appellant, which, if I understand correctly, tried to take advantage of an additional investment tax credit under subsection 127(10.1) of the Act. The respondent took the position that the appellant was not a Canadian-controlled private corporation ("CCPC") within the meaning of subsection 125(7) of the Act during the 1996 taxation year, and therefore was not allowed to deduct more than 20 per cent of qualified expenditures as investment tax credits.
+
+[4] Finally, with respect to paragraph 1(c) above, the respondent submits that for the same reason, i.e. that it was not a CCPC in 1996, the appellant did not meet the definition of "qualifying corporation" set out in subsection 127.1(2) of the Act and was therefore not entitled to a refundable scientific research and experimental development ("SR & ED") tax credit for that year pursuant to subsection 127.1(1) of the Act.[3]
+
+Statutory Provisions
+
+[5] The relevant portions of the sections of the Act and the Regulations referred to above are reproduced below:
+
+Income Tax Act
+
+4125(7)3
+
+(7) Definitions. In this section,
+
+. . .
+
+"Canadian-controlled private corporation" - "Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+
+(a) controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), or by any combination thereof,
+
+(b) that would, if each share of the capital stock of a corporation that is owned by a non-resident person or a public corporation (other than a prescribed venture capital corporation) were owned by a particular person, be controlled by the particular person, or
+
+(c) a class of the shares of the capital stock of which is listed on a prescribed stock exchange;
+
+4127(5)3
+
+(5) Investment tax credit. There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount not exceeding the lesser of
+
+(a) the total of
+
+(i) the taxpayer's investment tax credit at the end of the year in respect of property acquired before the end of the year or of the taxpayer's SR & ED qualified expenditure pool at the end of the year or of a preceding taxation year, and
+
+
+
+(ii) the lesser of
+
+(A) the taxpayer's investment tax credit at the end of the year in respect of property acquired in a subsequent taxation year or of the taxpayer's SR & ED qualified expenditure pool at the end of a subsequent taxation year to the extent that an investment tax credit was not deductible under this subsection or subsection 180.1(1.2) for the subsequent year, and
+
+(B) the amount, if any, by which the taxpayer's tax otherwise payable under this Part for the year exceeds the amount, if any, determined under subparagraph (i), and . . .
+
+4127(9)3
+
+(9) Idem. In this section,
+
+"investment tax credit" - "investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the total of
+
+(a) the total of all amounts each of which is the specified percentage of the capital cost to the taxpayer of certified property or qualified property acquired by the taxpayer in the year,
+
+(a.1) 20% of the taxpayer's SR & ED qualified expenditure pool at the end of the year . . .
+
+"non-qualifying corporation" - "non-qualifying corporation" at any time means
+
+(a) a corporation that is, at that time, not a Canadian-controlled private corporation . . .
+
+"qualified expenditure" - "qualified expenditure" incurred by a taxpayer in a taxation year means
+
+(a) an amount that is an expenditure incurred in the year by the taxpayer in respect of scientific research and experimental development that is an expenditure
+
+. . .
+
+but does not include
+
+(c) a prescribed expenditure incurred in the year by the taxpayer . . .
+
+"specified percentage" - "specified percentage" means
+
+. . .
+
+(e) in respect of a qualified expenditure
+
+. . .
+
+(iv) made by a taxpayer
+
+(A) after the taxpayer's 1984 taxation year and before 1995, or
+
+(B) after 1994 under a written agreement entered into by the taxpayer before February 22, 1994,
+
+(other than a qualified expenditure in respect of which subparagraph (ii) applies) in respect of scientific research and experimental development to be carried out in
+
+(C) the Province of Newfoundland, Prince Edward Island, Nova Scotia or New Brunswick or the Gaspé Peninsula, 30%, and
+
+(D) in any other area in Canada, 20%, and
+
+(v) made by a taxpayer after 1994, 20% where the amount is not an amount to which clause (iv)(B) applies . . .
+
+4127(10.1)3
+
+(10.1) Additions to investment tax credit. For the purpose of paragraph (e) of the definition "investment tax credit" in subsection (9), where a corporation was throughout a taxation year a Canadian-controlled private corporation, there shall be added in computing the corporation's investment tax credit at the end of the year the amount that is 15% of the least of
+
+(a) such amount as the corporation claims;
+
+(b) the SR & ED qualified expenditure pool of the corporation at the end of the year; and
+
+(c) the corporation's expenditure limit for the year.
+
+SECTION 127.1: Refundable investment tax credit.
+
+(1) Where a taxpayer (other than a person exempt from tax under section 149) files
+
+(a) with the taxpayer's return of income (other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(f) or subsection 150(4)) for a taxation year, or
+
+(b) with a prescribed form amending a return referred to in paragraph (a)
+
+a prescribed form containing prescribed information, the taxpayer is deemed to have paid on the taxpayer's balance-due day for the year an amount on account of the taxpayer's tax payable under this Part for the year equal to the lesser of
+
+(c) the taxpayer's refundable investment tax credit for the year, and
+
+(d) the amount designated by the taxpayer in the prescribed form.
+
+4127.1(2)3
+
+(2) Definitions. In this section,
+
+. . .
+
+"qualifying corporation" - "qualifying corporation" for a particular taxation year that ends in a calendar year means
+
+(a) a corporation that is a Canadian-controlled private corporation throughout the particular year (other than a corporation associated with another corporation in the particular year) the taxable income of which for its immediately preceding taxation year (determined before taking into consideration the specified future tax consequences for that preceding year) does not exceed its business limit for that preceding year, or
+
+(b) a corporation that is a Canadian-controlled private corporation throughout the particular year and associated with another corporation in the particular year, where the total of all amounts each of which is the taxable income of the corporation or such an associated corporation for its last taxation year that ended in the preceding calendar year (determined before taking into consideration the specified future tax consequences for that last year) does not exceed the total of all amounts each of which is the business limit of the corporation or such an associated corporation for that last year;
+
+"refundable investment tax credit" - "refundable investment tax credit" of a taxpayer for a taxation year means, in the case of a taxpayer who is
+
+(a) a qualifying corporation for the year,
+
+(b) an individual other than a trust, or
+
+(c) a trust each beneficiary of which is a person referred to in paragraph (a) or (b),
+
+an amount equal to 40% of the amount, if any . . .
+
+Income Tax Regulations
+
+2902. For the purposes of the definition "qualified expenditure" in subsection 127(9) of the Act, a prescribed expenditure is
+
+. . .
+
+(b) an expenditure of a capital nature incurred by a taxpayer in respect of
+
+. . .
+
+(iii) the acquisition of property that has been used or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer.
+
+Issues
+
+[6] The parties agree that this appeal can be narrowed down to two issues. The first is whether the appellant was a CCPC in its 1996 taxation year. The second is whether the acquisition of the Collette mixer was a prescribed expenditure within the meaning of subparagraph 2902(b)(iii) of the Regulations.
+
+I. First issue: Was the appellant a CCPC in its 1996 taxation year?
+
+[7] The appellant will be considered a CCPC in 1996 if it can be shown that it was not in that year a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, as required by subsection 125(7) of the Act. Both parties agreed that no one had de jure control over the appellant. The issue is rather whether the appellant was controlled in fact, directly or indirectly in any manner whatever, by a non-resident. In other words, it has to be determined whether the non-resident corporation Mimetix Inc. ("Mimetix"), which owned 50 per cent of the voting shares of the appellant in 1996, exercised de facto control over the latter corporation within the meaning of subsection 256(5.1) of the Act which reads as follows:
+
+4256(5.1)3
+
+(5.1) Control in fact. For the purposes of this Act, where the expression "controlled, directly or indirectly in any manner whatever," is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the "controller") at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm's length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+
+Facts
+
+[8] The appellant was incorporated in Canada in 1994 to carry out research and development with respect to a pharmaceutical product known as DIAC, a powdered form of diatomic iodine devised as an effective treatment for women with fibrocystic breast disease. The original patent for the DIAC formula was registered by the late Dr. Ghent, who resided in Kingston, Ontario, at that time. In 1993, Dr. Ghent's estate negotiated with Mimetix, an American company, a licensing arrangement with respect to DIAC under which Mimetix would own an exclusive licence for that product. Mimetix paid a licence fee of US$100,000. In January 1995, Mimetix sub-licensed to the appellant, for no consideration, the non-exclusive right to conduct in Canada the clinical trials and other investigations involving the licensed product and to manufacture and proceed with the development of the product with a view to obtaining approval for commercial sale in Canada.
+
+[9] Under the sub-licence agreement, the appellant had the right to utilize third party contractors, subject to prior approval by Mimetix, to perform or to conduct certain aspects of such development. The appellant thus hired contractors or consultants to carry out the clinical trials, both in Canada and in the U.S. The appellant also hired a firm named Custom Pharmaceuticals ("Custom"), a wholly-owned subsidiary of a Canadian company named Patheon Inc. (which had invested in Mimetix in 1994), located in Fort Erie, Ontario, to look after the day-to-day manufacturing of the product. The appellant used land owned by Custom to build a plant in Fort Erie. The appellant invested approximately $600,000 in that plant according to its balance sheet as of December 31, 1996.
+
+[10] The administration of the appellant was carried out from San Francisco in the U.S. by Mimetix because, as James Wooder, the only director of the appellant to testify explained, that was a lot cheaper for the appellant. It is not clear from his testimony whether Mimetix charged the appellant any fee for the administration services provided, although it appears from the appellant's financial statements for the 1996 taxation year that the appellant did pay someone administration fees totalling $12,000 in that year. However, at his examination for discovery, Mr. Wooder testified that no payments were made for those services.
+
+[11] At the time of its incorporation in November 1994 the appellant issued 100 common voting shares at $1.00 each, of which 50 were subscribed for by Mimetix, and the other 50 by Robert Tedford, a Canadian resident and a senior director at Patheon. At that time, there were three directors elected to the appellant's board of directors: Robert Tedford, Donald Eaton, an American resident who was the chairman and chief executive officer of Mimetix, and a third person, Nick DiPietro, a Canadian resident.
+
+[12] On June 20, 1995, Nick DiPietro and Robert Tedford tendered their resignations as directors of the appellant. On the same date, Dr. Marie-Madeleine Bernard, a Canadian resident who apparently was employed by the appellant as its Canadian medical director, and Ewart Budgell, also a Canadian resident, who is apparently an accountant and an occasional consultant for Patheon, were elected to fill the vacancies created on the appellant's board of directors. Robert Tedford, however, remained an officer of the appellant, along with Donald Eaton. On January 31, 1996, Dr. Marie-Madeleine Bernard tendered her resignation as a director of the appellant and she was replaced on the same day by James Wooder,[4] a Canadian resident who is vice-president of Helix Investments, Canada, a Canadian venture capital firm investing in early-stage technology companies, that had just invested $3 million in Mimetix. On the same date, Robert Tedford transferred 25 common shares to James Wooder.[5] Messrs. Wooder, Eaton and Tedford were also appointed as officers of the appellant: Mr. Wooder as president, Mr. Eaton as vice-president and secretary/treasurer, and Mr. Tedford also as a vice-president.
+
+[13] To summarize, from January 31, 1996 and during the balance of that year, Mimetix owned 50 common shares in the capital stock of the appellant, and Robert Tedford and James Wooder owned 25 common shares each. There were three directors elected to the board of directors, namely Donald Eaton, James Wooder and Ewart Budgell. In addition, Donald Eaton, James Wooder and Robert Tedford were appointed as officers of the appellant.
+
+[14] According to Mr. Wooder's testimony, he became a shareholder and was elected as a director of the appellant when Helix (the corporation for which he was acting as vice-president) invested $3 million in Mimetix. If Helix had not invested in Mimetix, he would not have become a shareholder and director of the appellant. As a matter of fact, he was elected at the same time to Mimetix's board of directors.
+
+[15] In his testimony, Mr. Wooder said that he never met or talked to the appellant's other Canadian director, Mr. Budgell. Although they both signed the resolutions of the board of directors, they signed them separately and never discussed anything together, as they did not know each other. Mr. Wooder also said that he occasionally met Mr. Eaton or Mr. Tedford in San Francisco in the U.S. or in Toronto, Canada, to "get an update on what was happening in both companies [the appellant and Mimetix]".[6] Although every director was an authorized signing officer for the appellant, it appears that in June 1995, Mr. Eaton unilaterally added an authorized signing officer Sam Teichman, M.D., an American cardiologist hired as president and chief operating officer for Mimetix.[7] This was done without any resolution of the appellant's board of directors. Apparently Dr. Teichman was appointed for his expertise in clinical trials and in the pharmaceutical industry. From then on, it was Dr. Teichman who approved and signed all the appellant's invoices, entered into contracts with different contractors, signed agreements for the conduct of clinical trials and generally took care of the appellant's business administration. In fact, it appears that the reason for Dr. Marie-Madeleine Bernard's departure in January 1996 was a conflict in views between her and Dr. Teichman. According to a letter sent by the appellant's counsel, Mark L. Siegel, to Revenue Canada on April 21, 1999,[8] "[f]ollowing [Dr. Bernard's] departure from the [appellant] Corporation, [the appellant] made the decision that, since the [appellant] Corporation had established a structure which could rely upon the medical expertise and research planning and management provided by persons employed by the research companies retained by the [appellant] Corporation, it would make economic sense to eliminate the cost of having a separate medical director in Canada. . . . Dr. Teichman signed the contracts with the research companies since, given his medical expertise, he was in a position to provide the professional knowledge necessary to ensure that the contracts would meet the needs of the Canadian [appellant] corporation".
+
+[16] Mr. Wooder testified that he had met Dr. Teichman either in San Francisco or in Toronto. However, In Mr. Wooder's own words, Mr. Eaton was the sole director who had been involved with the appellant since its creation. Apart from Dr. Teichman, it seems that only Mr. Eaton signed cheques and other documents for the appellant. Moreover, it was Mr. Eaton who signed the sub-licence agreement on behalf of Mimetix and the appellant. As a matter of fact, Mimetix had been investing in redeemable and retractable preferred shares of the appellant since December 1994. By the end of 1996 Mimetix had invested $3 million in the appellant, and close to $4,5 million by the end of 1997.[9] Mimetix had also loaned the appellant an amount of $1,1 million, interest free, as per the appellant's 1996 financial statements. No other shareholder owned preferred shares in 1996 or loaned money to the appellant in that year.
+
+[17] Mr. Wooder, who is experienced in the field of venture capital and who sat on the boards of directors of many different companies, explained that he agreed to become a director and officer of the appellant solely because he viewed the appellant as a virtual corporation, i.e. a corporation with virtually no employees that utilized the services of several major pharmaceutical research companies in Canada to carry out its day-to-day research activities, rather than having its own employees. Those companies, using their expertise in the relevant area, would provide the management and planning functions with respect to the research studies. In Mr. Wooder's view, the directors and officers of a virtual corporation have little to do and it is not necessary for them to have real knowledge of its operations or to be involved in day-to-day management functions. As a matter of fact, it was demonstrated in cross-examination that Mr. Wooder had very little knowledge not only of the appellant's business operations but also of its board of directors, even though he was the president of the appellant.
+
+[18] Mr. Wooder's vision of his role as a director of the appellant is in direct contradiction of the remarks made by Mr. Eaton in a letter sent to Revenue Canada on May 20, 1998.[10] In that letter, Mr. Eaton stated that "[t]he overall responsibility for the [appellant's] day to day operations during 1996, rested with the [appellant's] Board of Directors, who, from time to time were assisted by Sam Teichman, M.D., Marie-Madeleine Bernard, M.D. (for a portion of 1996), Cato Pharma Canada [the Custom Pharmaceuticals division of Patheon Inc. in Toronto], Alison Ghent [Dr. Ghent's wife], and Custom Pharmaceuticals (Patheon)". Mr. Eaton also said in that letter that "[d]uring 1996, the [appellant's] Directors performed the normal functions of a board of directors, which included management of the day to day operations of the business, plus approving corporate policies and resolutions".
+
+[19] Mr. Wooder disagreed with Mr. Eaton's statement that the board of directors was responsible for day-to-day operations. He tried to explain that Mr. Eaton probably meant to say that the board of directors was responsible for day-to-day administration. Mr. Wooder explained that in fact Mr. Eaton was heavily involved in administration, for he was signing the cheques and contracts and was working closely with Dr. Teichman. Also, all documentation went through Mimetix in San Francisco (including the appellant's tax return, which showed Mimetix's address, and the bank statements).
+
+[20] In 1997 the clinical trials were completed and the licensed product did not prove to be effective. Mr. Wooder testified that just prior to the completion of the trials the appellant raised US$3 million from a Canadian company by the name of Working Ventures Canadian Fund Inc. ("Working Ventures") in consideration of 800,000 preferred shares of the appellant. At that time, Working Venture had one of its representatives elected to the appellant's board of directors and a resolution of the board was apparently passed requiring at least two signatures for transactions involving the bank account (this resolution was not, however, filed in evidence). From then on, Mr. Eaton apparently could not unilaterally transfer funds to Mimetix and he eventually resigned as a director.
+
+Appellant's Arguments
+
+[21] Counsel for the appellant submits that the appellant was at all times a CCPC within the meaning of subsections 125(7) and 256(5.1) of the Act. The appellant was not in the taxation year at issue directly controlled by one or more non-resident persons. Indeed, 50 per cent of the voting shares were owned by residents of Canada. Furthermore, counsel submits that the appellant was not indirectly controlled by one or more non-resident persons, since its board of directors was controlled by residents of Canada (two directors out of three were Canadian residents). In his view, the fact that administrative personnel of Mimetix was performing bookkeeping, banking and contract-signing functions for the appellant did not mean that the board of directors' control of the appellant had been usurped, since that administrative personnel was acting under the authority of the board of directors.
+
+[22] Furthermore, counsel submits that many other factors are present which enable one to conclude that control was exercised in Canada. The DIAC product was invented in Canada and approved by the Health Protection Branch of Health Canada. All the pharmaceutical activities took place in Canada out of a plant built by the appellant in Fort Erie, Ontario. The research was done in Canada through different Canadian contractors hired by the appellant, and the manufacturing of the product was done by Custom, a Canadian company located in Fort Erie. The majority of the board of directors were Canadian residents and included Mr. Wooder, who had extensive knowledge as a venture capitalist and as a director of corporations. The majority of the officers of the appellant were Canadian residents, including Mr. Tedford, who was vice-president of the appellant, a major investor through Patheon and the owner of Custom, both of which companies are Canadian. Mr. Tedford had knowledge of the pharmaceutical field and there was therefore no need for the board of directors to take an active role in the day-to-day operations of the appellant.
+
+[23] In counsel's view, the fact that Mimetix owned a significant number of non-voting retractable preferred shares in the appellant, or that the appellant was indebted to its non-resident shareholder Mimetix, does not mean that Mimetix had effective control of the appellant. He submits that the preferred shares were acquired by Mimetix as part of its long-term investment in the appellant. The mere fact that a type of share would allow a shareholder to call for the redemption of such shares does not in itself result in that shareholder being in a position to control the corporation in which it holds those shares. Indeed, under the Canada Business Corporations Act ("CBC Act"), shares cannot be redeemed if that would render the company insolvent (see subsection 36(2) of the CBC Act).
+
+[24] With respect to the intercompany debt owed to Mimetix, it related to the acquisition of equipment by the appellant for use in its business activities in Canada. In counsel's view, the loan was made for commercial purposes and did not result in the appellant being made subject to financial pressure or control by Mimetix.
+
+[25] Counsel referred to the decision by the Federal Court of Appeal in Robson Leather Co. Ltd. v. M.N.R., 77 DTC 5106, in stating that those factors (a debt relationship existing between a shareholder and a corporation, or a shareholder holding retractable preferred shares in the corporation) can only be considered to give control to a shareholder where the corporation is in financial difficulty and the other shareholders are not in as financially secure a position as the shareholder holding the debt or the retractable shares. In the present case, the appellant was not in financial difficulty, as evidenced by the financial statements showing that the appellant spent millions of dollars in Canada on scientific research relating to the development of a pharmaceutical product. In addition, the resident shareholders of the appellant and its directors were financially stable and would not be subject to economic pressure from the non-resident shareholder, Mimetix.
+
+[26] Counsel also referred to this Court's decision in Zinkhofer et al. v. M.N.R., 91 DTC 643, in which Judge Sobier, as he then was, held that the existence of a debt relationship or of retractable preferred shares could not result in control since one consequence of that would be that major creditors who are not shareholders of the corporation would be considered to control the corporation.
+
+[27] Counsel also referred to Birmount Holdings Ltd. v. The Queen, 78 DTC 6254 (F.C.A.), in emphasizing that the control and central management of a corporation is a factor to be considered in determining who controls the corporation. In his view, the fact that the appellant was incorporated in Canada, that it carried on all its business activities in Canada, that it filed Canadian income tax returns and that Mimetix did not overrule the Canadian directors of the appellant in terms of their decisions with respect to the operations of the appellant, demonstrates that the central management and control was in Canada.
+
+[28] Counsel finally concludes that if the evidence has not shown to the Court's satisfaction that control of the appellant was exercised by Canadian residents (which he does not believe to be the case), it certainly has demonstrated that control was not exercised in the U.S. by the non-resident shareholder Mimetix, and that is sufficient to be able to declare that the appellant was a CCPC in 1996. The best illustration of that is that in 1997 Mr. Eaton was blocked by the appellant's board of directors in his attempt to transfer money from the appellant to Mimetix.
+
+Respondent's Argument
+
+[29] Counsel for the respondent submits that the meaning of control, as defined in Buckerfield's Ltd. et al. v. M.N.R., 64 DTC 5301 (Ex. Ct. of Canada), has changed, at least since the addition of subsection 256(5.1), in defining the concept of control in the Act by including de facto control. (See Société Foncière d'Investissement Inc. v. Canada, [1995] T.C.J. No. 1568 (T.C.C.) (Q.L.).)
+
+[30] Counsel for the respondent submits that the appellant was controlled in fact by a non-resident person in 1996. In his view, the appellant was indeed controlled by Mimetix, the American shareholder, in 1996. The fact that Mimetix had invested $3 million in preferred shares and made an interest-free loan of $1,1 million to the appellant is, in his view, very relevant to the present matter, especially if we take into account that the other shareholders had only invested $25 each in common shares. How can one say that with an investment of $25 each the Canadian shareholders had control over the appellant when the non-resident shareholder had invested over $4 million in the appellant? Indeed, the evidence disclosed that Mimetix, through Mr. Eaton, kept a very close eye on the appellant's affairs. All the exhibits show that the documents relating to the appellant's business went through Mimetix or through Dr. Teichman, the expert in the pharmaceutical industry who was hired on Mimetix's own decision.
+
+[31] Counsel submits that where the research is done is not relevant nor is it relevant that the equipment used in the appellant's business was located in Canada. What is relevant for the purpose of determining whether the appellant was a CCPC is to find out who in 1996 controlled that corporation in fact within the meaning of subsection 256(5.1) of the Act, regardless of whether it was a virtual corporation, as argued by counsel for the appellant, or not.
+
+[32] In counsel's view, it is abundantly clear from the evidence that the two Canadian directors, who, according to the appellant's argument, were supposed to control the appellant, in fact knew almost nothing about the appellant (for example, Mr. Wooder did not know at the time of his examination for discovery how many employees were working for the appellant, who had signing authority for the appellant, etc.).
+
+[33] Counsel is of the opinion that Mimetix had financial control over the appellant and had a controlling influence over the appellant's affairs. This is best illustrated, in his view, by the fact that Dr. Marie-Madeleine Bernard, who was a Canadian director of the appellant, had to leave following a conflict with Dr. Teichman, who was not even a shareholder, director or officer of the appellant, but was hired by Mr. Eaton on his own decision, without any resolution of the board of directors. Counsel submits that it is difficult to argue in the circumstances that the board of directors in Canada had control over the appellant's affairs. In his view, the situation might have changed in 1997 with the arrival of a new shareholder, Working Venture. But things were different in 1996 and this Court is called upon to deal with the 1996 taxation year only.
+
+[34] For these reasons, counsel submits that the appellant was controlled by the non-resident corporation Mimetix in 1996 and therefore did not qualify as a CCPC.
+
+Analysis
+
+[35] The appellant has to show that it was a CCPC throughout its 1996 taxation year in order to benefit from a higher rate of investment tax credit and from a refundable investment tax credit (see subsection 127(10.1) and section 127.1 of the Act).
+
+[36] In order for a corporation to qualify as a CCPC, it must be shown among other things that that corporation was not in the year at issue controlled, directly or indirectly in any manner whatever, by non-residents. That is the issue here.
+
+[37] The term "control" is not defined in the Act. Control usually means the right of control that rests on ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors (see Buckerfield's, supra). Such control is referred to as de jure control. In other words, the owners of the majority of the voting power in a company are de jure the persons who are in effective control of its affairs and fortunes (which statement has been approved by the Supreme Court of Canada in M.N.R. v. Dworkin Furs(Pembroke) Ltd. et al., 67 DTC 5035 and more recently in Duha Printers (Western) Ltd. v. The Queen,98 DTC 6334).
+
+[38] However, subsection 256(5.1) has incorporated a de facto control concept for the purposes of the Act. As Iacobucci J. observed in Duha Printers, supra, at p. 6344:
+
+52. . . . Parliament has now recognized the distinction between de jure and de facto control, adopting the latter as the new standard for the associated corporation rules by means of s. 256(5.1) of the Income Tax Act, enacted in 1988.
+
+[39] Under subsection 256(5.1), a corporation is considered to be controlled, directly or indirectly in any manner whatever, by another person (the "controller") if the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation. This is de facto control, and determining its existence necessitates a review of all the facts in each particular situation. Subsection 256(5.1) provides an exception to the above rule where the corporation and the controller are dealing at arm's length and the controller's influence is derived from an agreement or similar arrangement, the main purpose of which is to govern the relationship between the parties regarding the manner in which a business carried on by the corporation is to be conducted. This exception has not been argued in the present case.
+
+[40] In the recent Interpretation Bulletin IT-64R4 entitled Corporations: Association and Control - Final Draft, dated June 26, 2001, subsection 256(5.1) and the concept of de facto control are discussed in the following terms at paragraphs 21 and 23:
+
+21. De facto control goes beyond de jure control and includes the ability to control "in fact" by any direct or indirect influence. De facto control may exist even without the ownership of any shares. It can take many forms, e.g., the ability of a person to change the board of directors or reverse its decisions, to make alternative decisions concerning the actions of the corporation in the short, medium or long term, to directly or indirectly terminate the corporation or its business, or to appropriate its profits and property. The existence of any such influence, even if it is not actually exercised, would be sufficient to result in de facto control.
+
+. . .
+
+23. Whether a person or group of persons can be said to have de facto control of a corporation, notwithstanding that they do not legally control more than 50 per cent of its voting shares, will depend on each factual situation. The following are some general factors that may be used in determining whether de facto control exists:
+
+(a) the percentage of ownership of voting shares (when such ownership is not more than 50 per cent) in relation to the holdings of other shareholders;
+
+(b) ownership of a large debt of a corporation which may become payable on demand (unless exempted by subsection 256(3) or (6)) or a substantial investment in retractable preferred shares;
+
+(c) shareholder agreements including the holding of a casting vote;
+
+(d) commercial or contractual relationships of the corporation, e.g., economic dependence on a single supplier or customer;
+
+(e) possession of a unique expertise that is required to operate the business; and
+
+(f) the influence that a family member, who is a shareholder, creditor, supplier, etc., of a corporation, may have over another family member who is a shareholder of the corporation.
+
+. . .
+
+In addition to the general factors described above, the composition of the board of directors and the control of day-to-day management and operation of the business would be considered.
+
+[41] In Duha Printers, supra, Iacobucci J. alluded to the fact that although external agreements should not have any place in the analysis of control de jure, they were relevant in determining the existence of de facto control (p. 6345).
+
+[42] In the present case, several elements must be examined in conjunction with each other to determine whether de facto control existed in 1996.
+
+[43] In my view, the evidence discloses that not only did Mr. Eaton and Dr. Teichman control the day-to-day operations of the appellant from San Francisco but they also controlled its fortune by making all the decisions. Counsel for the appellant argued that all decisions were nevertheless taken under the authority of its board of directors. The board of directors was composed of three people, namely Messrs. Wooder, Eaton and Budgell. No evidence was adduced as to Mr. Budgell's role in the appellant. The only thing we know is that he is Canadian, that he was an accountant working occasionally for Custom and that he never met the other Canadian director, Mr. Wooder. As for Mr. Wooder, he was a director and the president of the appellant. One would assume that, holding these positions, he would be relatively well informed about the appellant. This assumption is reinforced by the duties of the president as stated in the "Organizational and General Administrative Resolutions of the Board of Directors of [the appellant] . . .". Those duties are described as follows in Exhibit A-2, Tab 44, pp. 8-9:
+
+(a) PRESIDENT. The President shall be the chief operating officer and shall have the powers and duties conferred upon him by the by-laws of the Corporation and by this resolution and such other powers and duties as the Board of Directors may determine. The President shall exercise a general control of and supervision over the affairs and business of the Corporation, except to the extent that the Board of Directors shall otherwise determine.
+
+[44] It is obvious from the evidence that Mr. Wooder did not exercise such control and supervision over the affairs and business of the appellant. With respect to the administrative services provided by Mimetix to the appellant, Mr. Wooder testified that the sole reason for having the services provided by Mimetix was that they were thereby obtained at a lesser cost than if they were provided in Canada. Mr. Wooder did not know if any monies were paid for the administrative services but assumed that the $12,000 shown for the year on the appellant's financial statements represented the consideration for those services. In addition, Mr. Wooder did not even know who the authorized signing officers for the appellant were, and he never met the other Canadian director, Mr. Budgell. Furthermore, with the exception of the acquisition of the Collette mixer, he was not aware of any of the contracts signed by the appellant in the operation of its business. It seems quite unusual for a director and president of a company to be uninformed to such a degree. Mr. Wooder admitted that if Helix had not invested $3 million in Mimetix, he would not have been appointed to the appellant's board of directors. It is therefore erroneous to assert, as does counsel for the appellant, that the administrative personnel in the U.S. was acting under the authority and supervision of the appellant's board of directors. Mr. Eaton alone was not the board of directors.
+
+[45] Indeed the evidence discloses that the only director that exercised such control and supervision was Mr. Eaton, the non-resident director. He was the one who took or approved all of the decisions, the main one being the hiring of Dr. Teichman, who replaced the Canadian medical doctor, Dr. Bernard. That decision was taken without the approval of the board of directors. It does not appear that either Mr. Wooder or Mr. Budgell was consulted at that time; at least the evidence does not show that to have been the case.
+
+[46] Dr. Teichman was authorized by Mr. Eaton to sign all agreements, invoices and cheques with respect to the appellant's business operations. All work contracted out to third parties was authorized and approved not by the board of directors but by Mr. Eaton and Dr. Teichman. What all this shows is that Mimetix in fact had control over the appellant. Indeed, the non-resident corporation Mimetix was, through Dr. Teichman and Mr. Eaton, both non-residents of Canada, the controlling mind of the appellant. Furthermore, no evidence was brought forward as to the role played by Mr. Tedford, one Canadian officer of the appellant. The only thing we know is that Patheon, for which Mr. Tedford was working, invested in Mimetix in 1994, not in the appellant. I will not therefore give any weight to the appellant's counsel's submission that Mr. Tedford had influence over the appellant in 1996. At least, the documentary evidence does not reveal that to have been the case.
+
+[47] To explain Mr. Wooder's lack of knowledge and authority, the appellant's counsel submitted that the appellant was a virtual corporation and as such would employ individuals possessing the requisite expertise to carry out work on a contract basis. These contractors would not only perform the required task but would also look after the management aspect of that task. Therefore, the directors and officers would have little knowledge of the activities of the appellant. This explanation is however inconsistent with the role played by Mr. Eaton in the 1996 taxation year. He, as a director, was the only one who was at all times aware of the expertise that the appellant required and he acted appropriately to meet those requirements.
+
+[48] Furthermore, even though the appellant was not in as bad a financial situation as existed in Robson, supra (although I note that the appellant suffered a $1,6 million loss in 1996 and a $2,5 million loss in 1997), I would nevertheless conclude that Mimetix, being the only investor in the appellant's business in 1996, was in a position to exert the kind of pressure that enabled it to have its will prevail with respect to that business. This conclusion is reinforced, in my view, by other instances in which the appellant has not dealt with Mimetix on a commercial basis. Indeed, it was seen that even though Mimetix paid US$100,000 to acquire the licence for DIAC, a sub-licence was granted to the appellant for no consideration. As well, when Mimetix loaned $1,1 million to the appellant, there was no interest charged. With respect to the administrative services, the evidence is unclear as to the cost to the appellant of such services but if there were any costs they would have been minimal. All this, in my view, certainly constitutes a form of economic controlling influence exercised by Mimetix over the appellant in 1996, and that is precisely what is covered by the definition of de facto control in subsection 256(5.1) of the Act.
+
+[49] That being so, and since the concept of control has been broadened with the addition of subsection 256(5.1), I do not find that the appellant can rely on the Zinkhofer decision, supra, which had to do with capital losses suffered in taxation years preceding that amendment to the Act. Indeed, economic controlling influence does not have any bearing on de jure control, which was, in my view, the basis of Judge Sobier's decision in Zinkhofer.
+
+[50] Furthermore, de facto control of a corporation may shift from one shareholder to another based on external factors, as is recognized in the following terms in one academic commentary referred to by counsel for the appellant (D.S. Ewens and S.J. Hugo, "The Effect of Bill C-139 on Certain Corporate Reorganizations." 88 Canadian Tax Journal 1021 at pp. 1032-33):
+
+. . . With the new factual control test, a shareholder may find himself considered to be in control of a corporation because of changes in economic conditions, either external or internal to the corporation.
+
+Such could have been the case here in 1997, with the injection of new funds by a new shareholder, Working Ventures, but that is not at issue here.
+
+[51] Finally, I do not find that the decision of the Federal Court of Appeal in Birmount Holdings Ltd., supra, referred to by counsel for the appellant has any relevance in the present case. In Birmount, the Federal Court of Appeal had to examine whether the central management and control of a corporation was in Canada in order to determine whether that corporation was a Canadian resident. That case did not deal with the issue of who was controlling the corporation but rather had to do with where the central management and control was exercised for residency purposes. In any matter, I certainly do not agree with counsel for the appellant's assertion that Mimetix did not overrule the Canadian directors of the appellant in terms of their decisions with respect to the operations of the appellant. To the contrary, the evidence rather supports the position that the Canadian directors made no decisions regarding the appellant's operations at all.
+
+Conclusion
+
+[52] I therefore conclude from all the facts that the appellant was in fact controlled by Mimetix, the non-resident shareholder, in 1996, and consequently was not a CCPC in that year, within the meaning of subsections 125(7) and 256(5.1) of the Act.
+
+II. Second issue: The Collette mixer
+
+[53] With respect to that second issue, it has to be determined whether the Collette mixer had been used, or acquired for use or lease, for any purpose whatever before it was acquired by the appellant. If the answer to that question is affirmative, then the acquisition of the Collette mixer would have to be classified as a prescribed expenditure within the meaning of subparagraph 2902(b)(iii) of the Regulations and therefore would not qualify for the investment tax credit under subsections 127(5) and 127(9) of the Act. If, on the other hand, the answer is negative, the acquisition of the Collette mixer by the appellant would not be a prescribed expenditure and would qualify for the investment tax credit.
+
+Facts
+
+[54] The Collette mixer was a critical piece of equipment used for the production of the diatomic iodine in powdered form. In April 1995 it was shipped brand new to Custom in Fort Erie and was only used in the appellant's facility there. It was first rented by the appellant from the owner GEI Processing, Inc.[11]
+
+[55] The rental charge was $15,000 per month for a minimum rental period of six months and thereafter rental was to be on a month-to-month basis. The renter (the appellant) had to carry at its own expense, the necessary insurance to protect the owner and renter against all risks to the equipment or any liability arising from the use of the said equipment. The insurance value was to be $300,000.
+
+[56] The rental agreement stated that the title to the rented equipment was to remain in the name of the owner. It also stated that all materials to be processed with the rental equipment had to be disclosed to the owner for approval prior to introduction into the equipment. At the end of the rental period, the equipment had to be returned thoroughly cleaned, free of all residues, and this cleaning was to be done at the renter's expense. The material and labour costs for repair or replacement of damaged or missing components were to be billed to the renter at cost plus 10 per cent. Furthermore, the cost of component failures due to misoperation, accident, etc. was to be the renter's responsibility. However, the cost of component failure during normal operation was to be assumed by the owner. Under the agreement, no credit was to be given towards purchase.
+
+[57] In October 1996, that is, 18 months later, the appellant purchased the Collette mixer from the owner for $288,241 less a 50 per cent credit for rental ($105,000) that was negotiated at that time to reduce the purchase price. It accordingly made out a cheque to GEI Processing Inc. in the amount of $183,241.
+
+Appellant's Argument
+
+[58] It is the position of the appellant that the method of financing the acquisition of the Collette mixer -- through a lease and purchase mechanism -- was no different than a situation where a purchaser chooses to finance the acquisition of an asset through installment payments. It is not disputed that the physical location of the Collette mixer never changed from the date of its delivery to the plant in Fort Erie and that that new piece of equipment had only been used by the appellant. The appellant submits that where an initial user and lessee of eligible property acquires ownership of such property from the original lessor of the property (which is the case here), that user should be entitled to an investment tax credit with respect to its acquisition cost of the property and the expenditure for such property should not be a prescribed expenditure within the meaning of subparagraph 2902(b)(iii) of the Regulations.
+
+Respondent's Argument
+
+[59] Counsel for the respondent submits that the appellant acquired the Collette mixer not when it signed the lease agreement in April 1995 but rather when it purchased it in October 1996. When the appellant purchased the Collette mixer in 1996, that piece of equipment had been used.
+
+[60] Counsel submits that the acquisition of property signifies acquisition of the ownership of that property. In his view, the lease agreement has all the ingredients of the rental, and not sale, of property. Particularly, clause 5 of that agreement[12] indicates that the title to the rented equipment was to remain in the name of the lessor (GEI Processing Inc.). Moreover, clause 9 says that the material and labour cost for repair or replacement of damaged or missing components is to be billed to the renter at cost plus 10 per cent. In counsel's view, if the appellant had been the owner under the rental agreement, there would not have been an extra 10 per cent payable.
+
+[61] Counsel for the respondent therefore concludes that the Collette mixer was only acquired by the appellant in October 1996 and that at that time it had been used. The Collette mixer therefore represented a prescribed expenditure within the meaning of subparagraph 2902(b)(iii) of the Regulations.
+
+Analysis
+
+[62] An expenditure of a capital nature will be a prescribed expenditure pursuant to subparagraph 2902(b)(iii) if it relates to the acquisition of property that has been used or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer.
+
+[63] It is not disputed that the Collette mixer was used by the appellant right from the moment it was leased. The question that remains is whether it was acquired by the appellant at the time the rental agreement was entered into in April 1995, in which case it would not be a prescribed expenditure, or at the time it was finally purchased in October 1996, in which case it would be a prescribed expenditure.
+
+[64] The meaning of the word "acquired" was considered in M.N.R. v. Wardean Drilling Ltd., 69 DTC 5194 (Ex. Ct. of Canada), a case in which Cattanach J. had to determine when an oil platform was "acquired" in order to ascertain when capital cost allowance might be claimed. He stated at p. 5197:
+
+In my opinion the proper test as to when property is acquired must relate to the title to the property in question or to the normal incidents of title, either actual or constructive, such as possession, use and risk.
+
+[65] In R. v. Construction Bérou Inc., 1999 CarswellNat 2502 (F.C.A.), a leasing company acquired trucks from a supplier and entered into a leasing contract with the taxpayer regarding the trucks for a term of 65 months with an option to purchase at the 60th month at a favourable price. The leasing contract made the taxpayer liable to indemnify the leasing company for any loss resulting from the use of the trucks and to continue to make monthly payments regardless of the use or destruction of the trucks, and prevented him from selling or subleasing the trucks. The contract also stipulated that the taxpayer would not acquire title or the right of ownership unless the full purchase option price was paid.
+
+[66] The majority of the Federal Court of Appeal decided that the lease agreement was not an ordinary lease but was in substance a sale agreement as the taxpayer had acquired the beneficial ownership of trucks although not the legal title. The majority of the Court therefore considered that the trucks were acquired by the taxpayer at the time it entered into the lease agreement. In his dissenting judgment, Noël J.A. decided that the leasing contract did not have the effect of a sale of any kind. Noël J.A. stated that one common principle of contract law in both common law and civil law is the concept of the "intent" of the parties in interpreting a contract between them. In his view, the intent of the parties was that the ownership of the trucks was not to be transferred at the time the leasing contract was entered into.
+
+[67] Here I do find that the majority decision in Construction Bérou, supra, can be distinguished on the facts. Indeed, the appellant had agreed to lease the equipment for a minimum period of only six months, after which the rental was to be on a month-to-month basis. No option to purchase was referred to in the lease agreement, even though it was specified that there would be no credit towards purchase.
+
+[68] What is involved here is obviously not a long-term lease with an option to purchase at a price substantially less than the probable fair market value of the property at the time of exercising the option. In fact, as I said before, there was no option to purchase provided for in the lease agreement, which presupposes that the owner did not want to commit itself at the time of that agreement (this is reinforced by the clause stating that there would be no credit towards purchase). Furthermore, there was no evidence brought forward concerning the fair market value of the Collette mixer, with the exception of the insurance clause that provides an approximate value of the rental equipment at the time the rental agreement was entered into. That value was established at $300,000 and the purchase price was fixed 18 months later at $288,241 and reduced by an amount of $105,000, which corresponded to only seven months of rental payments. This is certainly not a case where, as in Construction Bérou, supra, the renter was offered the possibility of acquiring the property at the end of the rental period at a very favourable price.
+
+[69] Furthermore, it is not a case where the appellant (the renter) bore all the risks attached to ownership. For example, the cost of component failure of the Collette mixer during normal operation was to be borne by the owner.
+
+[70] Finally, as noted by counsel for the respondent, if the appellant had acquired the property when the lease agreement was entered into, it is most probable that it would not have accepted a clause in that agreement charging the renter (the appellant) cost plus 10 per cent for the repair or replacement of damaged or missing components.
+
+Conclusion
+
+[71] For all these reasons, I therefore conclude that the appellant did not acquire the Collette mixer in April 1995, when it entered into a lease agreement with GEI Processing, Inc., but rather acquired it in October 1996, when the purchase agreement was signed.
+
+[72] The Collette mixer having already been used when acquired by the appellant, the acquisition of that piece of equipment was therefore a prescribed expenditure within the meaning of subparagraph 2902(b)(iii) of the Regulations and did not qualify for an investment tax credit within the meaning of subsection 127(9) of the Act.
+
+Decision
+
+[73] From the foregoing, the appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 8th day of November 2001.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-4847(IT)G
+
+STYLE OF CAUSE: Mimetix Pharmaceuticals Inc. v. The Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATE OF HEARING: March 7, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Lucie Lamarre
+
+DATE OF JUDGMENT: November 8, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Alan P. Gardner
+
+Counsel for the Respondent: Richard Gobeil
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Alan P. Gardner
+
+Firm: Gowling Lafleur Henderson, LLP
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-4847(IT)G
+
+BETWEEN:
+
+MIMETIX PHARMACEUTICALS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on March 7, 2001, at Ottawa, Ontario, by
+
+the Honourable Judge Lucie Lamarre
+
+Appearances
+
+Counsel for the Appellant: Alan P. Gardner
+
+Counsel for the Respondent: Richard Gobeil
+
+JUDGMENT
+
+The appeal from the assessment made under the Income Tax Act for the 1996 taxation year is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 8th day of November 2001.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[1] See Exhibit A-1, Tab 6.
+
+[2] See the tax return filed as Exhibit A-1, Tab 4.
+
+[3] The appellant having shown a loss in its 1996 taxation year as per Exhibit A-1, Tab 4.
+
+[4] See Exhibit A-2, Tab 44, pp. 58-59.
+
+[5] See Exhibit A-2, Tab 44, p. 60.
+
+[6] Transcript, p. 13.
+
+[7] See Exhibit A-3.
+
+[8] See Exhibit A-1, Tab 7, pp. 7-8.
+
+[9] See the appellant's shareholders' ledger, Exhibit A-2, Tab 49.
+
+[10] See Exhibit A-1, Tab 9.
+
+[11] See Exhibit A-2, Tab 39, Rental Agreement, entered into in April 1995.
+
+[12] See Exhibit A-2, Tab 39.
+

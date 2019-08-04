@@ -1,0 +1,356 @@
+Date: 20020321
+
+Docket: 1999-4538-IT-G
+
+BETWEEN:
+
+BRUCE E. MORLEY LAW CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Hershfield, J.T.C.C.
+
+[1] This is an appeal under the Tax Court of Canada Rules (General Procedure) from an assessment of tax with respect to the 1994 taxation year in which the Minister of National Revenue (the "Minister") disallowed the Appellant's claim for a small business deduction on income of $68,468.00 and, pursuant to paragraph 18(1)(p) of the Income Tax Act (the "Act"), a deduction of expenses in the amount of $44,745.00. Both turn on whether the Appellant's business is a "personal services business" within the meaning of section 125 of the Act.
+
+[2] The following are set out in the Notice of Appeal as the material facts:
+
+1. The Appellant ("BEM Corp.") is a law corporation licensed under the provisions of the British Columbia Legal Professions Act to carry on the practice of law in British Columbia and has in fact carried on the practice of law since June 15, 1994.
+
+2. The person principally providing such services during the 1994 taxation year was Bruce Morley, a member of the Law Society of British Columbia. Bruce Morley provides such services as an employee of BEM Corp. pursuant to terms of an employment contract between himself and BEM Corp. dated June 15, 1994.
+
+3. As part of its business activities, BEM Corp. has provided legal services to Clearly Canadian Beverage Corporation ("Clearly Canadian") and in computing its income for the 1994 taxation year under Part I of the Income Tax Act (Canada) BEM Corp. has deducted the expenses it has incurred in providing such services. In calculating income tax payable, BEM Corp. claimed the small business deduction under section 125(1) of the Income Tax Act (Canada).
+
+4. The income tax return of BEM Corp. for its 1994 taxation year was filed on or about June 30, 1995 and a Notice of Assessment accepting the return as filed was issued on September 18, 1995.
+
+5. By Notice of Reassessment dated May 14, 1998, the Minister reassessed BEM Corp. on the basis that the legal services provided by BEM Corp. to Clearly Canadian constituted a "personal services business" as defined by Section 125(7) of the Income Tax Act. On that basis the Minister disallowed:
+
+(a) the expenses of BEM Corp. had deducted in computing its income other than those permitted by Section 18(1)(p) of the Income Tax Act; and
+
+(b) the small business deduction under section 125(1) of the Income Tax Act.
+
+6. By Notice of Objection dated July 31, 1998 BEM Corp. appealed the Notice of Reassessment.
+
+7. By Notice of Confirmation dated August 6, 1999 the Minister confirmed the Notice of Reassessment.
+
+[3] The following assumptions set out in paragraph 4 of the Reply to the Notice of Appeal are not disputed:
+
+. . .
+
+(b) at all material times Bruce Morley ("Morley") was a "specified shareholder" of the Appellant within the meaning of that term in subsection 248(1) of the Income Tax Act;
+
+(c) the Appellant did not employ more than five full-time employees during the years under appeal;
+
+(d) Morley performed legal services (the "Services") on behalf of the Appellant for Clearly Canadian Beverage Corporation ("CCBC");
+
+(e) the Appellant and CCBC were not associated during the years under appeal;
+
+(f) during the years under appeal Morley was employed by CCBC as a director and as its Vice-President, Legal Services;
+
+. . .
+
+(h) the Appellant entered into a contract with CCBC entitled "Legal Services Agreement" which provided for the payment of fixed monthly amounts to the Appellant for the Services;
+
+(i) the Legal Services Agreement stipulated that CCBC would reimburse the Appellant for any expenses incurred by the Appellant in the course of providing the Services and that CCBC would indemnify the Appellant and its employees against any claims made against them by third parties;
+
+(j) the Legal Services Agreement provided that the Appellant would be included as a named insured in all of CCBC's insurance policies to provide the Appellant with the benefit of that coverage in the event of claims made against it by third parties arising out of the performance of the Services;
+
+[4] The following additional assumptions in paragraph 4 of the Reply to the Notice of Appeal are in issue:
+
+(g) but for the existence of the Appellant, Morley would have reasonably been regarded as an officer or employee of CCBC in respect of the Services;
+
+...
+
+(k) the Services were services that Morley would have been reasonably expected to provide to CCBC in his capacity as a director and Vice-President, Legal Services and member of the management team of CCBC;
+
+(l) CCBC exercised the same degree of control and supervision of Morley in the performance of his duties under the Legal Services Agreement as it did for the duties he performed as Vice-President, Legal Services under his employment contract;
+
+(m) the Services were in the nature of those normally provided by an in-house lawyer;
+
+(n) the Appellant did not have any risk of loss or chance of profit in providing the Services;
+
+(o) if the Legal Services Agreements had been concluded between Morley and CCBC the contract would have been a contract of service;
+
+(p) the Services were integral to the business operations of CCBC;
+
+ISSUE TO BE DECIDED
+
+[5] As stated, the issues to be decided turn on whether the services provided by BEM Corp. to Clearly Canadian constitute a personal services business within the meaning of subsection 125(7) of the Act. That subsection provides the following definition:
+
+"personal services business" carried on by a corporation in a taxation year means a business of providing services where
+
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an "incorporated employee"), or
+
+(b) any person related to the incorporated employee
+
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+
+[6] Given the facts as agreed to by the parties the sole question in this case is whether the incorporated employee (Morley) would reasonably be regarded as an officer and employee of the recipient of the services (Clearly Canadian) but for the existence of the company (BEM Corp.) that provided the services. This question can be broken down to three preliminary questions:
+
+(1) Whether the definition of "personal services business" necessarily constitutes the business between BEM Corp. and Clearly Canadian as a personal services business of BEM Corp. simply by virtue of the fact that its principal Morley (the incorporated employee) was in fact an officer and director of BEM Corp. during the currency of the business. If such employment is fatal to the assertion that the corporation's business is not a personal services business, then no officer or director of a company would be entitled, by using a corporation to provide independent contractor services unrelated to the employment services, to the small business deduction unless the office was given up. Such finding in this case would result in the failure of the appeal. If such finding is not warranted, the analysis continues;
+
+(2) What is the relevance, if any, of the employment responsibilities of the incorporated employee to Clearly Canadian that arise by virtue of his direct employment with Clearly Canadian. To say, in response to question (1) above, that such employment is not itself decisive, is not to say that it is not relevant. It may have relevance in the determination of whether Morley, the incorporated employee, would reasonably be regarded, but for the existence of the corporation, as an employee of the recipient of the corporate services. That there is not a clear separation of the role of each service provider (Morley as an officer and Morley as an incorporated employee) under each engagement is arguably of paramount importance in this determination. If the roles of each service provider are distinct or any blurring does not on the facts of this case result in a finding that BEM Corp.'s business is a personal services business, then the analysis continues to consider a final question;
+
+(3) Whether the contact between BEM Corp. and Clearly Canadian is itself essentially an employment contract or a contract engaging independent contractor services. The analysis here would have to consider whether the contract between the companies is a contract of service or a contract for services. The four-in-one test described in the Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 case might then be invoked to determine the true nature of that particular relationship[1].
+
+FACTS
+
+[7] Two witnesses testified at the trial of this matter; namely, Douglas Mason the President of Clearly Canadian at all material times and Bruce Morley. Both were called by the Appellant. Their testimony support a finding that, amongst other things, the services to be provided by the Appellant, and actually provided by it, were, in large part, services that were to be performed by Morley as an officer of Clearly Canadian. That is, the corporate services included services that Morley personally was retained to perform as an officer of Clearly Canadian. There was at least a considerable overlap that neither the written legal contracts, nor the performance of them rectified for the purposes of determining whether the business of BEM Corp. was a personal services business. The following recitation focuses on facts that speak to this finding.
+
+[8] Douglas Mason testified first. While he did not personally negotiate the terms of the engagement contracts produced at trial in an agreed book of documents, I gathered that he was responsible for hiring Morley to his executive position as a vice president of Clearly Canadian.
+
+[9] Morley had been a partner at a Vancouver law firm (Boughton & Company) used by Clearly Canadian and was the principal contact at the firm personally doing some of the legal documentation work required by Clearly Canadian. Prior to leaving Boughton & Company over eighty percent of his billings were attributable to work for Clearly Canadian much of which was not for legal documentation work per se. In addition to such work, Morley co-ordinated the legal work of this client amongst others in the firm and frequently assisted it in referrals to other legal firms, primarily in other jurisdictions where there was a connection between the work required in such other jurisdictions and work being done by Boughton & Company. These latter services were sometimes referred to as quarterbacking services but they were nonetheless legal services forming part of his practise and billings to Clearly Canadian.
+
+[10] Clearly Canadian had enjoyed an expanding business in the late 1980s and the early 1990s peaking at $187 million in worldwide sales in 1992. It had heavy demands for a variety of legal services in a number of jurisdictions both within and without Canada. It was a public company first listed on the Vancouver Stock Exchange, then on NASDAQ and finally on the Toronto Stock Exchange. Selling products in various jurisdictions, raising funds through public financing, protecting trade rights, negotiating commercial contracts and defending against product liability claims and unfriendly take-overs contributed to several millions of dollars in legal fees each year.
+
+[11] Mason testified that it became clear to Clearly Canadian that it was not able to effectively administer the legal services the corporation required. Co-ordination was lacking. Indeed he testified that things were getting out of control and that there was no one in the company able to effectively administer the legal services required by the company. He testified that Clearly Canadian felt it would be efficient for the company to seek out a person to administer all of the legal services that the company required to replace himself and the corporation's chief financial officer and his assistant who were trying to administer the legal services but who were not doing the best of jobs.
+
+[12] Clearly Canadian approached Morley to assist it in managing the legal work that the company required.
+
+[13] Morley, personally, was attractive to Clearly Canadian because he appeared to be a good administrator and quarterback of the legal services performed by Boughton & Company. He was also viewed as someone with considerable business skills whose legal background would make him a valuable addition to the Board of Directors of the Company as well as vice-president of legal services.
+
+[14] While Mason emphasized the business skills that Morley brought to the Board and acknowledged that Morley was expected to continue to handle some of the legal work that he had handled at Boughton & Company, his greatest interest in Morley was as an in-house administrator. It was essential to Clearly Canadian that as vice-president of legal services Morley would co-ordinate all of the lawyers that Clearly Canadian dealt with regardless of the nature of the matter and regardless of the jurisdiction in which the matter arose. Morley's responsibilities to the company as vice-president were to assist it in selecting counsel, negotiating with them, co-ordinating their work and saving the company money.
+
+[15] Mason saw such opportunity for considerable savings if he could hire Morley to work for Clearly Canadian directly. The legal characterisation of the engagement was of no importance to him. It mattered not that Morley insisted that he be permitted to use a law corporation to provide some of his services to Clearly Canadian. He saw the engagement as taking Morley out of private practice with his firm and having him devote his days at the offices of Clearly Canadian administering its legal work. While Mason made it clear that he expected Morley to be at his Clearly Canadian desk on a full-time basis to attend to his administrative duties, he allowed that there was no restriction on Morley carrying on a legal business, through BEM Corp. or otherwise, outside or coincident with his engagement. Morley was free to engage in such other pursuits on his own time, which included time that he was at his desk in Clearly Canadian offices when not preoccupied with executive duties. Mason trusted that Morley would fulfil his full-time administration duties as vice-president of legal services and that other pursuits on behalf of BEM Corp. would not be to the detriment of the proper fulfilment of his executive duties.
+
+[16] This testimony might have been somewhat suspect to the extent it suggested that the engagement was less than a full-time, exclusive, engagement but for his own practise of pursing other business interests through his own company. He came to Clearly Canadian as a successful businessman and worked with Clearly Canadian to promote its business while continuing to do promotions and consulting for his own company, which also employed other people to provide such services. Some of his services to Clearly Canadian were provided through his company. While being in the same situation as Morley from an income tax point of view, in terms of wanting to ensure that his company would be entitled to the small business deduction, might again make his evidence suspect, there is a pattern here accepting of senior executives being allowed to pursue their professional or business interests (even to the point of providing them to Clearly Canadian independently of their executive employment services). However having recognised this pattern and recognizing that it was open to Morley to separate his duties as an officer from his incorporated business is neither determinative of whether such separation in fact occurred or whether Morley was being engaged personally as a full-time officer of the company. Indeed in respect of the latter question, I find that Mason intended to retain Morley as a full-time executive of Clearly Canadian. That was the focus of the hiring. That was the essence of the relationship. It was the raison-d'être of the relationship. That is not inconsistent with allowing that he was free to engage in other work through BEM Corp. even work for Clearly Canadian for separate compensation under a separate services agreement.
+
+[17] Recognizing that Morley was free through BEM Corp. to provide services to Clearly Canadian begs a further enquiry. What services did Clearly Canadian understand BEM Corp. would perform for it? There is no doubt that the administration and co-ordination of its legal work could have been included as legal services contracted to a company to be formed by Morley but that was not Mason's understanding. Mason never understood that Morley intended for BEM Corp. to perform the executive duties that were Morley's responsibilities to perform personally as vice-president of legal services. He thought that company would do documentation type legal work, such as employment contracts, distribution agreements and the like, that Morley handled when at Boughton & Company. He acknowledged that such services could be performed by any lawyer which explains his testimony that it was not of concern to him who BEM Corp. retained to perform its services to Clearly Canadian. Morley's personal services were captured in duties as an officer of the company. However, when being cross-examined on the actual terms of the legal services agreement entered into between BEM Corp. and Clearly Canadian, Mason had no explanation as to why it appeared, on the terms of that engagement agreement, that BEM Corp. was the party responsible for the performance of duties that Mason had testified were the responsibility of Morley personally as vice-president of Clearly Canadian.
+
+[18] The legal services to be provided to Clearly Canadian by BEM Corp. are set out in a Legal Services Agreement dated June 15, 1994. That agreement provides for the following services to be performed by BEM Corp. (described as "Lawcorp" in that agreement):
+
+3.1 Lawcorp, through the services of its officers and employees as designated from time to time, will:
+
+(a) advise the Company generally on legal matters;
+
+(b) instruct lawyers on behalf of the Company on those matters, which Lawcorp or the Company determines, should be referred to other law firms for advice or other services;
+
+(c) maintain a liaison with law firms providing services for the Company and report to the Company on same;
+
+(d) co-ordinate these matters which involve the legal services of more than one law firm;
+
+(e) instruct the Company's employees, agents and other representatives from time to tine as required on legal issues arising from the activities such persons perform on behalf of the Company;
+
+(f) cause to be kept such records for the Company as may be appropriate or requested by the Company; and
+
+(g) not permit or suffer any act or thing to be done whereby the business or any assets of the business or any other property belonging to the Company may become liable to be seized in execution, charged or affected unless authorized or directed to do so by the Board of Directors of the Company.
+
+[19] When asked to consider these provisions of the Legal Services Agreement, Mason acknowledged that with the exception of paragraphs (a) and (g) he thought that the services set out were actually services that Morley personally was to provide as vice-president. He did acknowledge that services described in paragraphs (e) and (f) were consistent with both services Morley was expected to perform as an officer of the company and services that might have been performed, in some contexts, by BEM Corp. As to paragraph (g) he admitted he had no idea as to what that paragraph was intended to say. Indeed Mason himself later testified that that paragraph (g) had no place in the agreement and was removed from later versions of it.
+
+[20] While I will deal with Morley's testimony separately as to why he wanted to introduce BEM Corp. as a party to the contractual arrangements with Clearly Canadian, I would say, at this point, that his attempts to describe how section 3.1 of the Legal Services Agreement described the services to be performed by BEM Corp. verged on the ridiculous. He did not want to admit that BEM Corp. had contracted to co-ordinate or administer Clearly Canadian work. It had contracted, he said, to co-ordinate the work delegated to BEM. Corp. and thereby such work did not fall within his duties as vice-president of Clearly Canadian. He explained that he first made a determination as to whether or not there was a legal service to be undertaken by BEM Corp. As vice-president of legal services he would identify a particular matter as being a matter within the contractual scope of BEM Corp. It was acknowledged that no one else in Clearly Canadian could make that determination. No records were kept or produced as to which matters were so referred. There was no accountability even as to remuneration due to a fixed retainer arrangement with BEM Corp. Once the referral was made, without any accountability, in respect of a particular matter, the Legal Services Agreement applied to that matter, which included the services, set out in paragraphs (b) through (g). Even accepting this approach I find it difficult to see how BEM Corp. has not contracted to do the very things that, but for the existence of the corporation, would reasonably be regarded as work to be performed by Morley as an officer (see paragraph 14 above). Consider paragraph (b) for example; it allows that BEM Corp. must instruct lawyers on behalf of Clearly Canadian on matters that Clearly Canadian determines should be referred to other firms for advice and services. Even Morley's own testimony described these services as within the scope of his duties as vice-president of legal services. Either the agreement is artificial/ineffective for failing to reflect the true nature of the relationship and the intentions of the parties or it defines the legal nature of the relationship as a legally binding arrangement. As I will elaborate on later in these Reasons, I find the latter alternative to be the case although the former alternative would lead to same result in my view.
+
+[21] The services provided by Bruce Morley personally to Clearly Canadian as an officer and director of Clearly Canadian are set out in a written agreement also dated June 15, 1994 (the "Director/Officer Agreement"). That agreement provides for the following appointments and services:
+
+1.1 CCBC appoints Bruce to the position of Vice President, Legal Services and Bruce accepts the position.
+
+1.2 CCBC agrees to appoint Bruce as an additional director at the next meeting of the Board of Directors following execution of this Agreement which appointment will remain in effect, in accordance with the Articles of CCBC, until such annual general meeting of CCBC that Bruce is required to stand for re-election at. CCBC also agrees to include Bruce as one of its company recommended director nominees for election at such annual general meeting and each subsequent annual general meeting at which Bruce is required to stand for re-election at.
+
+...
+
+2.1 Bruce agrees to faithfully perform the duties of a director and to act in the best interests of CCBC.
+
+2.2 It is understood and agreed that Bruce's responsibility to carry out duties as an officer under this Agreement shall be limited to those duties, which are not required to be performed under the Retainer Agreement. If a particular activity could be performed under this Agreement or the Retainer Agreement, it shall be considered to have been performed under the Retainer Agreement.
+
+[22] The latter provision (referred to as the "default" provision) is yet another puzzling provision. I see it as confirming yet again that the Legal Services Agreement (defined in the above agreement as the "Retainer Agreement") covers the administrative services attached to the office of vice-president not only by its own express terms but by default as well under the Director/Officer Agreement.
+
+[23] As to the remuneration for services, consider the following contractual provisions of the Legal Services Agreement and the Officer/Directors Agreement:
+
+Legal Services Agreement
+
+2.1 For and in consideration of the services provided by Lawcorp to the Company under this Agreement, the Company shall pay to Lawcorp a fee (the "Retainer Fee") equal to $197,400 per annum, payable in equal monthly instalments of $16,450 on the last day of each and every month. The Retainer Fee is exclusive of any taxes to be collected by Lawcorp pursuant to the Excise Tax Act or other legislation imposing tax on the services to be provided. The payment for June 1994 (due June 30, 1994) shall be prorated.
+
+Director/Officer Agreement
+
+3.1 Compensation payable to Bruce shall be the following:
+
+....
+
+(b) CCBC agrees to enter into a retirement funding agreement with Bruce on the terms and conditions that have previously been agreed upon by CCBC and Bruce (which agreement as amended from time to time is hereinafter referred to as the "Retirement Agreement"). It is understood and agreed that the Retirement Agreement does not impose any legal obligation on CCBC to make any payments to Bruce.
+
+A "Retirement Agreement" was not introduced into evidence. Oral evidence was given as to the particulars of the officer/director compensation.
+
+[24] Directors' compensation was stock options and officer compensation consisted of a contribution, aggregating roughly $85,000 annually, to the retirement fund with the necessary source withholding being remitted as well. The retirement contribution arrangement resulted in an annual T4 of some $170,000. No part of the compensation paid for officer/director duties were payable in a form that provided regular cash flow to officers who had companies performing separate services for Clearly Canadian of which there were at least three including Morley and Mason. The retirement fund was sufficiently flexible however to permit pre-retirement withdrawals. There was no evidence that Morley made any such withdrawals or that he exercised any stock options. Indeed his evidence was that with the exception of a small window of opportunity, not availed of, the exercise prices of his options had been higher than the market value of the stock. It appears then that Morley's draw requirements were satisfied by his contract with BEM Corp. His salary from BEM Corp. was $3,000/month at least until mid-December 1994.
+
+[25] As to Mason's testimony regarding remuneration, he indicated that he did not know how specific numbers were arrived at. He understood that there was some negotiating but it was clear to me that the allocation as between the officer/director compensation and the legal service retainer was of little import to Clearly Canadian. Dividing up Morley's engagement into two contracts with two legal entities mattered not. Once Mason had Morley as a full-time administrator, it mattered not to Clearly Canadian who got paid the amount Clearly Canadian was prepared to pay Morley for those services. The amount allocated to the legal services, which Mason believed were the services being provided by BEM Corp. (as opposed to the administration services), was not relevant as such services did not warrant separate attention. They were incidental. They were part of the overall savings opportunity but were not important enough to monitor. They expected Morley to save them money and he did - over a million dollars of savings in the first year was attributed by Mason to Morley having joined the Clearly Canadian team. No one testified as to whether any material part of those savings was attributable to anything other than Morley's administrative skills. No records were tendered of any work BEM Corp. actually did. Its invoices showed no work done. The testimony of both witnesses was that some was done but not one example file or actual matter was brought in evidence.
+
+[26] A retainer arrangement might well obviate the need for accountability and the testimony that some work was done by BEM Corp. may be sufficient. Indeed, I have no doubt that Morley did some pure legal work and that it was intended to be done by him as a lawyer working for BEM Corp. with which he had an engagement agreement.[2] I accept that BEM Corp. had some active business and that it got paid the retainer amount to do it, but the absence of accountability might also evidence that the retainer was paid in some part for the package of services that included executive services. That is, the absence of accountability tends to add support to the finding that BEM Corp. was carrying out some of the duties and responsibilities attached to the office of vice-president of legal services. As such, accounting for legal documentation work was not relevant. This perspective is at least consistent with Clearly Canadian not needing to monitor BEM Corp.'s work. Indeed, this perspective might be the only perspective that fits given that parties are at arm's length.[3] This perspective of why there was no need for an accounting for the legal work done by BEM Corp. is not an "economic reality" perspective. It simply supports a particular construction of the Legal Services Agreement - a construction that a reading of its express terms seems to dictate in any event.
+
+[27] I should also note that the absence of accountability in the retainer arrangement makes another aspect of Morley's testimony suspect. He suggested that BEM Corp. could hire other people, lawyers, to perform the contract with Clearly Canadian. Except for the possibility to earn bonuses in the contract with Clearly Canadian such performance option could only result in lower profits for BEM Corp. Practically speaking at least, the idea of the Appellant retaining third parties to do legal work for Clearly Canadian under the Legal Services Agreement is unrealistic in my view. The retainer is paid regardless of whether the services are provided.
+
+[28] As to Morley's testimony on the use of a law corporation, he testified that he did not want to give up his law practice per se and that the law corporation with a guaranteed income was a requirement he prevailed on Clearly Canadian to meet to get him to leave Boughton & Company. He expected the law corporation would earn its retainer and seemed to have no difficulty with the level of trust reflected in the arrangement. The Legal Services Agreement built in bonuses and annual increases with the expectation that its services might be worth more[4].
+
+[29] I took it that Morley wanted the retainer guaranteed for a period as a requirement to give up his law practice. In fact BEM Corp. got a termination provision, which would pay it five times the annual retainer amount if its contract was terminated without cause. While such termination arrangement may not be dissimilar from other executive employment arrangements, they are somewhat unusual in a contract for independent legal services. This again supports the view that the Legal Services Agreement included the administrative services that Morley was to perform. It allowed executive type benefits for an executive type service and thereby ensured that there could be no termination "for cause" even if BEM Corp. did not account for any other legal work that it was supposed to do.
+
+[30] Surprisingly, both Mason and Morley testified that the five times termination provision was there simply as a device, a poison pill, to discourage hostile take-overs. All executives (and their service corporations) had it and this "pill" was shown on the audited financial statements as a liability. A corporate raider would have to spend millions to dump management. That not only underlines the view that BEM Corp. was seen as management in this whole arrangement but reveals an incredible "wink, wink, nod, nod" mind set. Both witnesses testified that the termination clause was not intended to be binding. The contracts supporting the audited statements were a guise. It seems that nothing in these arrangements are what they purport to be.
+
+[31] Another aspect of Mason's testimony is troubling. That pertains to the transfer of his legal practice to BEM Corp. Morley transferred his legal practice to BEM Corp. on June 15, 1994. The transfer agreement is not specific as to what was transferred other than to say it was the "practice" that he had established and developed since 1981. Based on Morley's evidence, I gather that the transfer was of the goodwill associated with his legal practice which is of course his personal goodwill as a lawyer. The value of the "practice" was estimated at $100,000 but the consideration paid by BEM Corp. consisting of preferred shares and a promisary note was subject to a price adjustment clause.
+
+[32] There seem to be a number of questions relating to this transfer. Is there an implied non-compete covenant (there was no such express covenant) and how would that relate to the administrative services contracted for with Clearly Canadian which had been provided (to Clearly Canadian up until June 1994) as a lawyer with Boughton & Company and were historically part of the "practice" established and developed by Morley since 1981? That is, was the personal goodwill relating to legal administrative services, which Clearly Canadian was so interested in acquiring, included in the goodwill transfer or were they intended to be carved out of the transfer agreement? They would have to be carved out of the transfer if they were to be provided to by Clearly Canadian in respect of the personal administrative services it was contracting for in hiring Morley as vice-president of legal services. It strikes me that these are important questions and that they have relevance in the context of the sole issue in this case which is whether the corporation's business is a personal services business. It seems that the answer that the Appellant would want to assert in respect of this appeal is that such part of his practice, that of providing administrative services to clients such as Clearly Canadian, was not intended to be transferred. If it had been transferred then only the corporation could provide the administrative services that were vice-president/director services and as such that business would be a personal services business. In fact, my reading of the various agreements suggests to me that the corporation did acquire this part of the practice of Morley. There certainly is nothing in the agreement to suggest otherwise. That is, the transfer agreement on its face creates a proprietary interest in favour of BEM Corp. in the Clearly Canadian administrative services work that attached to Morley personally while he was practising law with Boughton & Company. This is consistent with the Legal Services Agreement including the administrative service work, having a retainer type compensation arrangement, having a management termination provision and BEM Corp. being the "default" service provider. Everything fits except that it does not reflect the nature of the relationship that Clearly Canadian wanted to effect with Morley. It wanted the administrative services contracted for personally. To have allowed for this, Morley's personal goodwill with Clearly Canadian as an administrator of legal services should not have been transferred to BEM Corp. Once transferred, the Appellant becomes the provider of the administrative services, which, but for its existence, would have been provided by Morley as an officer whether he was already an officer or not.
+
+[33] In non-arm's length transfers, like the rollover of one's legal practice, the subject matter of the transfer should be clearly settled in the documentation. More to the point, non-arm's length transfers that rely on deferral provisions and capital gains exemption provisions and include transfers of rights to income and entitlements to a preferred rate of tax on the transferred income all in the same series of transactions should be structured to achieve the intended results by giving legal effect through exacting contractual terms in the governing documents. Here, it seems the focus of the documents was to ensure the transfer of all Morley's goodwill, perhaps for capital gains exemption and income splitting purposes without regard as to how that impacted the Appellant's claim for the small business deduction.[5]
+
+[34] While the foregoing findings are determinative of the issue in this matter, I will for completeness set out further findings of fact that the parties relied on particularly in respect of the application of the principles set down in Wiebe Door.
+
+- Recognizing that officers of Clearly Canadian who had personal service companies that had contracted to provide services to Clearly Canadian could and would use Clearly Canadian facilities (offices, staff, equipment and supplies) in the course of performing services on behalf of such personal service companies, rent was charged to BEM Corp as it was to Mason's company. This was a negotiated amount that did not vary as between service company. There was no pretence that such rent was dependent on actual use of Clearly Canadian facilities, which varied amongst each user.
+
+- BEM Corp. had other clients and maintained an office in Morley's home. Fees earned from clients other than Clearly Canadian were nominal and most persons on BEM Corp.'s client list had some connection to Clearly Canadian. Home office equipment and resources were minimal.
+
+- BEM Corp. was licensed as a law corporation and was insured as required and had done all things necessary to carry on its business. However it did no advertising aside from relying on word of mouth promotion of work. It had no employees other than Morley.
+
+- BEM Corp. was almost entirely dependent on Clearly Canadian for work and there was no satisfactory evidence that genuine efforts were being made to change the status quo.
+
+ANALYSIS
+
+[35] I will now consider the three questions raised at the outset of these Reasons in the order I set them out.
+
+Whether the definition of "personal services business" necessarily constitutes the business between BEM Corp. and Clearly Canadian as a personal services business of BEM Corp. simply by virtue of the fact that its principal Morley (the incorporated employee) was in fact an officer and director of BEM Corp. during the currency of the business.
+
+[36] The answer to this question has already been answered by this Court. The Appellant cited several cases on point. Healy Financial Corporation v. The Queen 94 DTC 1705; David T. McDonald Company Limited v. M.N.R. 92 DTC 1917; and Criterion Capital Corporation v. The Queen, 2001 DTC 921. In each of these cases the incorporated employee was an officer of the recipient of the corporate services. In each case the business of the incorporated employee was found not to be a personal services business. Clearly then being an officer of the recipient of incorporated employee services is not by itself determinative of the issue. However where there is an overlap of duties these cases invite further enquiry as to whether the nature of the overlap is relevant to the application of the "but for" test in the definition of "personal services business".
+
+[37] In McDonald, Judge Mogan commented on the duties of the office in terms of applying the "but for" test. He noted that (unlike earlier years) in the subject years the incorporated employee in that case had few duties as an officer of the recipient of the incorporated services and received no remuneration as an officer. It was not a case of overlapping duties. Further, Judge Mogan went on to note that he had genuine doubts about whether he could have said that the incorporated employee would not have reasonably been regarded as an officer of the recipient of the corporate services in earlier years when he was likely working on a full-time basis for the same recipient. The case postulated is not dissimilar to the one at bar.
+
+[38] In Healy there was a finding that the incorporated employee was an officer/director to protect his financial interest in the recipient of the services but that he was not involved in the management of the company. It would seem that his day-to-day pursuits were largely in respect of outside interests. This is very different from the case of the incorporated employee being a full-time employee of the service recipient.
+
+[39] In Criterion, the facts were very similar to the case at bar. In fact Criterion was the company in respect of which Mason was the incorporated employee. That is, his personal service company was denied the small business deduction but its appeal was allowed. Judge O'Connor did not dwell on the question of whether Mason's duties as President crossed over into the services he performed on behalf of Criterion for Clearly Canadian; his findings of fact obviated any need to do so. Judge O'Connor found that Mason's duties as an employee of each of Clearly Canadian and Criterion to be as follows:
+
+Mason's duties as President and Director of CCBC were essentially to look after the day-to-day running of CCBC including marketing CCBC products, dealing with suppliers, distribution, marketing, supervising staff including the executive staff, preparing agendas for Directors' meetings and attending same. Mason's duties as an employee of Criterion consisted principally in seeking out and locating financing opportunities and new business opportunities using his network of contacts he had made prior to joining CCBC.
+
+[40] This clearly shows that Judge O' Conner saw no overlap in the duties of each position. That is a pivotal distinction between Criterion and the case at bar. The second question that I have seen necessary to address in my analysis of the case at bar was not necessary to address in Criterion or in the other cases cited.
+
+[41] This takes me to the second question posed above.
+
+What is the relevance, if any, of the employment responsibilities of the incorporated employee to Clearly Canadian that arise by virtue of his direct employment with Clearly Canadian.
+
+[42] Counsel for the Appellant addressed this question with a focus on a reading of the Act that would require that corporate services be considered in isolation of the services that the incorporated employee provides directly as an employee of the recipient of the services. The words "but for the existence of the corporation" should be taken to mean, "if the individual were to provide the services directly rather than through a corporation". This suggests the duties to be performed as an officer, where the incorporated employee is actually an officer, should not be considered so that if the services contracted for by the service company are capable of being independent contractor services then they have to be recognized as such. I agree that this is one approach suggested by the wording of the provision but it presumes the corporate employee has a distinct role that is not the role actually to have been performed by an officer appointed to for that purpose. The Appellant's suggested reading of the subject provision cannot prevail however where this presumption does not prove to be the case or where there is a blurring of duties. Further, it affords no relevance to my finding that, according to the contractual regime entered into, administration duties were assigned to BEM Corp. and must be taken to have been performed by Morley on BEM Corp's behalf. That is the case or else the contracts reviewed are wholly ineffective including the Legal Services Agreement and the blurring of roles then becomes magnified to the point where the true legal relationship between Clearly Canadian and Morley and BEM Corp. would have to be re-examined. Under that approach the corporate veil seems to collapse entirely in the "but for" test set out in the Act. However, it is not necessary for me to pursue this line of reasoning given my finding that the contractual regime here is effective. Morley's personal goodwill from his legal practice, including his goodwill relating to coordinating legal services, was transferred to BEM Corp. and such services were included in the Legal Services Agreement. But for the existence of BEM Corp. they would have been performed by Morley as an officer of Clearly Canadian. The Appellant was right to try to lead evidence that BEM. Corp. was not to provide administrative services however having failed in that attempt it cannot be denied that BEM Corp. was performing duties that would "but for" its existence have been performed by Morley as an officer of Clearly Canadian. Those were the duties of his office. That he held the office to do personally that very work that was contracted to BEM to perform just underlines that it would be wholly unreasonable to come to any other conclusion under the "but for" test.
+
+[43] Having concluded that the Legal Services Agreement engaged BEM Corp. to perform services that Mason testified were tied to Morley's Clearly Canadian desk to do as a full-time employee of Clearly Canadian, I should reiterate that such finding would constitute BEM's business as a personal services business even if Morley weren't an officer of Clearly Canadian. That he is an officer cannot improve BEM Corp's position. I would add, as well, that if Morley were not an officer and the administrative services were performed solely by BEM Corp. then, on the facts of this case BEM Corp.'s business would still be a personal services business in my view. That administrative services are capable of being independent contractor services under the third question posed above is not sufficient where the recipient of the services has a full-time officer position in mind. To avoid classification as a personal services business, there would have to have been some detachment from the day-to-day operations of Clearly Canadian, some independence in the context of the services to be performed liberating the performer from the confines of a contractual expectation that requires a particular person to be personally present at, on essentially a full-time basis, the premises of the service recipient to attend to the business of that recipient. This suggests that there may be other cases where it will not be appropriate to the limit the analysis of the "but for" test to an analysis suggested by the Appellant although considering this example under the third question may be sufficient.
+
+Whether the contact between BEM Corp. and Clearly Canadian is itself essentially an employment contract or a contract engaging independent contractor services.
+
+[44] In applying the principles set out in Wiebe Door and the other authorities relied on by the AppellantI might well agree with the Appellant that the services argued to have been contracted for by BEM Corp. could have been independent contractor services. BEM Corp. could have performed non-administrative legal services while Morley, as an officer of Clearly Canadian, could have performed administrative services. BEM Corp. services could have been performed as any law firm would have performed them. That overhead had been minimized by being given space and support in a client's offices is not fatal. That there was only one significant client is not fatal. Even a retainer arrangement with the service recipient would not be fatal. If BEM Corp. had been engaged to do what Mason thought it was engaged to do, this case would likely be on all fours with Criterion. But that is not the case before me. The contract in the case at bar was to provide administrative services that were to have been performed by Morley as vice-president of legal services. That cross-over is fatal under the foregoing analysis of the second question posed above. If it is necessary to address the third question at all, and I do not believe it is, I would say that the Legal Services Agreement was a contract of service given the manner that the services (administrative services) were performed as testified to by both Mason and Morley. Nothing more need be said in my view.
+
+[45] Accordingly, I find that the business of the Appellant is a personal services business and it is thereby denied the tax rate reduction claimed by it pursuant to section 125 of the Act.
+
+[46] That takes me to the denial of expenses under paragraph 18(1)(p) of the Act. As stated at the outset of these Reasons, amounts denied as deductible expenses in the subject years are denied pursuant to that paragraph which reads as follows:
+
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+. . .
+
+(p) an outlay or expense to the extent that it was made or incurred by a corporation in a taxation year for the purpose of gaining or producing income from a personal services business, other than
+
+(i) the salary, wages or other remuneration paid in the year to an incorporated employee of the corporation,
+
+(ii) the cost to the corporation of any benefit or allowance provided to an incorporated employee in the year;
+
+(iii) any amount expended by the corporation in connection with the selling of property or the negotiating of contracts by the corporation if the amount would have been deductible in computing the income of an incorporated employee for a taxation year from an office or employment if the amount had been expended by the incorporated employee under a contract of employment that required the employee to pay the amount, and
+
+(iv) any amount paid by the corporation in the year as or on account of legal expenses incurred by it in collecting amounts owing to it on account of services rendered
+
+that would, if the income of the corporation were from a business other than a personal services business, be deductible in computing its income;
+
+[47] The restriction on the deduction of the subject expenses turns firstly on whether they were incurred for the purpose of gaining or producing income from a personal services business. Since BEM Corp. has a personal services business, expenses attributable to that business are not allowed except as expressly set out in this paragraph of the Act. The reassessment has not allowed salary paid to Morley and has disallowed $750.00 of expenses that were never claimed. Regardless of whether BEM Corp. has a personal services business, the salary expense claim must be allowed and the $750.00 disallowance must be reversed. Respondent's counsel conceded this during the course of the trial[6].
+
+[48] While there seemed to be some consensus that the amount to be allowed for salaries was to be $20,988.00 which included $487.00 in CPP contributions, that amount included a $2,500.00 accrued salary increase in December 1994. Strictly speaking the accrued amount is not deductible since subparagraph (p)(i) of subsection 18(1) only allows a deduction for amounts paid. The Appellant has a calendar year end and it was acknowledged that the $2,500.00 accrued in December was not paid in the taxation year in issue here. Accordingly the salary and benefit amount deductible in the year is $18,488.00. In addition, a further $750.00 is allowed as noted above. The appeal is allowed to this extent without costs.
+
+[49] Before signing these Reasons I must add that after hearing argument I requested and subsequently received submissions on artificial/ineffective transactions. I was somewhat taken aback by the testimony of the witnesses that put the parole evidence at odds with the documentation. There was an overall sense of an artificiality here that suggested that Clearly Canadian had really agreed that Morley could write up what he wanted but that was not the operative deal. The alternative to this perspective was to accept the documents, as they were, without considering whether or not they might be regarded as ineffective or artificial. Support for this alternative perspective was in the documentation itself. There is a pattern here that supports a finding that the documents were intended to do exactly what they do. Lawyers attended to these matters and, it seems, focused on a particular and well co-ordinated approach to their documentation.
+
+The documents interrelate well and have been accepted as giving effect to the legal relations they dictate on their terms. They just do not give the tax consequence the Appellant was hoping to achieve. Accordingly, while I thank counsel for their submissions on artificial transactions, I find it unnecessary to refer to them.
+
+Signed at Ottawa, Canada, this 21st day of March 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-4538(IT)G
+
+STYLE OF CAUSE: Bruce E. Morley Law Corporation
+
+and Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: October 16, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge J.E. Hershfield
+
+DATE OF JUDGMENT: March 21, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Douglas C. Morley
+
+Counsel for the Respondent: Lynn Burch
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Douglas C. Morley
+
+Firm: Davis & Company
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-4538(IT)G
+
+BETWEEN:
+
+BRUCE E. MORLEY LAW CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 16, 2001 at Vancouver, British Columbia, by
+
+the Honourable Judge J.E. Hershfield
+
+Appearances
+
+Counsel for the Appellant: Douglas C. Morley
+
+Counsel for the Respondent: Lynn Burch
+
+JUDGMENT
+
+The appeal from the assessment made under the Income Tax Act for the 1994 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 21st day of March 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+[1] The Wiebe Door test typically focuses on the particular services being performed by a particular party. It typically would not be applied to determine the legal nature of one set of services on the basis of a different set of services provided by a different legal entity. The corporate veil would arguably prevent consideration of the true nature of the overall arrangement. If the corporate veil is to be pierced it should only be done at the express invitation of the Act. That invitation is there in the "but for" test in the definition of "personal services business". However, in my view, that invitation is best dealt with in the context of the second question posed above. That is, if you get to the third question posed above the corporate veil should likely be respected. The corporation's services must then be analysed distinct from the services of an individual under a separate contract. It is for this reason that I have put the questions in this order. If it has been determined, in considering the first and second questions posed above, that the employment services of officer and director in this case do not support a finding that it would be reasonable "but for the existence of the corporation" to regard the incorporated employee as the employee of Clearly Canadian, the Wiebe Door test should be applied in a manner respectful of the doctrine of separate entities.
+
+[2] I note that as a separate issue, the Respondent questioned whether BEM Corp. had any active business income. This question seems to be fully resolved in favour of BEM Corp. The quantum of the services is not, in my view, relevant in categorizing the type of service as "active" in a case of professional services paid for by retainer. As such I have not dealt with this issue separately. The Appellant's appeal is dependent on all three questions raised at the outset of these Reasons being resolved in its favour.
+
+[3] While Revenue never relied on the transaction not being at arm's length it seems possible to argue that in fact while the parties were not related, and while the totality of contractual engagements were at arm's length, the parties did not deal at arm's length in respect of each contract separately.
+
+[4] In fact, in subsequent years it appears that the retainer experienced cuts as opposed to increases. Such cuts were uniform with other "executive officers" cuts but were effected as cuts on service company retainer contract amounts.
+
+[5] There are possible valuation issues here in respect of the transfer depending on what was intended to be included or excluded in relation to the portion of Morley's practice that was comprised of Clearly Canadian work. Indeed I was advised during the course of the trial of this appeal that Revenue has attacked the transfer in a separate reassessment which has also been appealed; however, I have no particulars as to the nature of that reassessment. The transfer was done pursuant to an election under section 85 and the reassessment presumably deals with that aspect of the transfer in respect of a different taxpayer but such reassessment is not before me. To the extent the two reassessments are related, one of the parties might have attempted to have them heard together.
+
+[6] I note that yet another separate issue arose during the course of the hearing of this matter. The Appellant had been asked, prior to the confirmation of the Reassessment, to evidence and substantiate expenses claimed. This was never done. The Appellant argued that in relying on paragraph 18(1)(p) as the basis for denying the expenses, the reassessment does not put at issue whether the expenses were incurred as claimed. Further, the Reply, in setting out assumptions relied on by the Minister in reassessing the Appellant, expressly states that the amounts deducted by the Appellant were amounts laid out to earn income from a personal services business. The Appellant argues that this is an admission of fact that obviated the need for the Appellant to evidence and substantiate the expenses claimed. Given that I have found that paragraph 18(1)(p) applies, this question is academic since the expenses permitted to be deducted under that paragraph were sufficiently evidenced and that was acknowledged by counsel for the Respondent during the course of the trial. If it was necessary to determine the issue however, it seems that the admission in the Reply would at least reverse the onus of proof that the expenses claimed were not in fact incurred as claimed. No such evidence was brought.
+

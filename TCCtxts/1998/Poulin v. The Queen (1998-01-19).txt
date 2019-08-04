@@ -1,0 +1,154 @@
+Date: 19980119
+
+Docket: 97-927-IT-I
+
+BETWEEN:
+
+ÉMILE POULIN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] The appellant is appealing an assessment by the Minister of National Revenue (“the Minister”) for the 1995 taxation year.
+
+[2] The issue is whether the appellant is entitled to backward average a $101,415 income replacement indemnity. For reasons we shall see below, the inclusion of that amount in computing the appellant’s income has no effect on his taxable income but does require him to repay all of his old age security benefits.
+
+[3] In making the assessment under appeal, the Minister relied on the facts described as follows in paragraph 8 of the Reply to the Notice of Appeal:
+
+[TRANSLATION]
+
+(a) according to the T5007 slip issued by the Commission de la santé et de la sécurité du travail du Québec (hereinafter “the CSST”), the appellant received a $101,415 income replacement indemnity in 1995;
+
+(b) that $101,415 was included in computing the appellant’s income for the 1995 taxation year, the year it was received;
+
+(c) the appellant repaid the Régie des rentes du Québec $20,667 in 1995;
+
+(d) that $20,667 is deductible in computing the appellant’s net income for the 1995 taxation year, the year it was repaid;
+
+(e) during the 1995 taxation year, the appellant received a $4,690 old age pension;
+
+(f) the appellant’s net income before adjustments for the 1995 taxation year was $107,399 for the purposes of calculating the old age security benefits repayment;
+
+(g) for the 1995 taxation year, $4,690 was added as a social benefits repayment in computing the appellant’s total tax payable and was deducted as a social benefits repayment in computing his net income, as follows:
+
+(i) net income before adjustments $107,399
+
+minus: base amount 53,215
+
+54,184
+
+(ii) the repayment is equal to the lesser of the following amounts:
+
+old age security benefits $4,690
+
+or
+
+54,184 x 15% $8,128
+
+[4] The appellant denied subparagraph 8(a) of the Reply. He admitted subparagraphs 8(b), (c) and (e) thereof. Although he denied said subparagraph 8(a), we shall see that the evidence shows it to be accurate.
+
+[5] Exhibit A-3 is a letter from the Commission de la santé et de la sécurité du travail (“the CSST”) dated January 21, 1997, which explains the amounts paid and the reasons they were paid:
+
+[TRANSLATION]
+
+Cheque for $61,263.03 issued on June 27, 1995
+
+Income replacement indemnity
+
+· $2,013.30 for the period from December 2 to 31, 1991
+
+· $24,704.01 for the period from January 1 to December 31, 1992
+
+· $25,693.50 for the period from January 1 to December 31, 1993
+
+· $21,383.76 for the period from January 1 to December 31, 1994
+
+· $7,629.76 for the period from January 1 to June 8, 1995
+
+* or a total of $81,424.33 for the overall period from December 2, 1991, to June 8, 1995
+
+· Out of that amount, $20,161.30 was repaid directly to the Régie des rentes du Québec for the period from March 1, 1992, to April 14, 1994.
+
+· The worker therefore received the difference: i.e.
+
+$81,424.33 - $20,161.30 = $61,263.03
+
+Cheque for $12,539.35 issued on June 27, 1995
+
+Interest on income replacement indemnity
+
+covering the period from November 22, 1991, to June 29, 1995.
+
+[6] Exhibit A-2 contains, inter alia, Form T5007, the statement of benefits issued by the CSST. According to that statement, $101,415.79 in workers’ compensation was paid to the appellant.
+
+[7] Since Exhibit A-3 referred to amounts of $81,424.33 and $12,539.35 rather than the $101,415.79 stated on the above-mentioned T5007 slip, the Court asked the agent for the respondent to seek an explanation of the difference from the CSST. The CSST wrote to the appellant on November 14, 1997, and provided the following explanation:
+
+[TRANSLATION]
+
+As stated in Paul Dussault’s letter of January 21, 1997, you received $81,424.33 for the period from December 2, 1991, to June 8, 1995.
+
+To that amount must be added the amounts you received from June 9 to December 31, 1995, which total approximately $7,448.96. Thus, you received $101,415.79 in all, as stated on your T5007 slip issued by the CSST for 1995.
+
+[8] The Minister included the amount of $101,415 in computing the appellant’s 1995 income under paragraph 56(1)(v) of the Income Tax Act (“the Act”) and deducted that amount in computing his taxable income under subparagraph 110(1)(f)(ii) of the Act. The $20,667 that the appellant repaid the Régie des rentes du Québec in 1995, as stated in Exhibit A-3 above, was deducted in computing the appellant’s income in accordance with paragraph 60(n) of the Act.
+
+[9] The Minister determined that the tax payable on the old age security benefits under subsections 180.2(1) and (2) of Part I.2 of the Act was $4,690, the amount received by the appellant as old age security benefits. That old age security benefits repayment was deducted in computing the appellant’s income under paragraph 60(w) of the Act. This last fact has no bearing on the outcome of the issue and is being added solely to give a complete picture of the assessment.
+
+[10] The appellant took offence at the fact that the workers’ compensation deducted in computing his taxable income was nevertheless included in computing his income for the purposes of the old age security benefits calculation. He argued that such compensation is based on the employer’s net wages and not the employer’s gross wages. Moreover, and this was what he argued most strongly, the amounts in question correspond to amounts owed for previous years and should be included in computing his income for those years.
+
+[11] Subsection 180.2(1) of the Act reads as follows:
+
+(1) Every individual (other than a trust) shall pay a tax under this Part for each taxation year that is equal to the lesser of
+
+(a) the total of all amounts each of which is the amount of any pension, supplement or spouse’s allowance under the Old Age Security Act included in computing the individual’s income under Part I for the year, to the extent that no deduction is allowed under paragraph 60(n) for the year or any subsequent taxation year in respect of that amount, and
+
+(b) 15% of the amount, if any, by which
+
+(i) the amount that would be the individual’s income under Part I for the year if no amount were
+
+(A) deductible under paragraph 60(w), or
+
+(B) included in respect of a gain from a disposition of property to which section 79 applies
+
+in computing that income
+
+exceeds
+
+(ii) $50,000.
+
+[12] For 1995, the $50,000 threshold referred to in paragraph 180.2(1)(b) of the Act (cited above) was indexed to $53,215. According to that paragraph, the individual’s income which is taken into account is his “income”, not his “taxable income”. Under the Act, income and taxable income are different concepts and are governed by specific legislative provisions. “Income” is computed under Division B of Part I of the Act, while “taxable income” is computed under Division C of the Act, entitled “Computation of Taxable Income”. Paragraph 110(1)(f) is in Division C of Part I of the Act. Although the Act does not say why workers’ compensation paid is not included in computing taxable income, one may think that this is partly so in order to take account of the fact that an income replacement indemnity is normally computed on the basis of the employee’s income after source deductions.
+
+[13] The same reasons would therefore not exist for excluding workers’ compensation in computing income for the purposes of old age security benefits, since such benefits are based on need, determined on the basis of an income threshold, and since such compensation really is part of the appellant’s income.
+
+[14] In any event, it is the statute as written that must be interpreted. Paragraph 56(1)(v) of the Act reads as follows:
+
+56: Amounts to be included in income for year — (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+. . .
+
+(v) Worker’s compensation — compensation received under an employees’ or workers’ compensation law of Canada or a province in respect of an injury, a disability or death;
+
+(emphasis added)
+
+[15] The concept of the receipt of an amount and the relevant taxation year has already been considered by the courts; I am referring, inter alia, to Vegso v. M.N.R., 56 DTC 173, M.N.R. v. Claude Rousseau, 60 DTC 1236, and the decision cited by the agent for the respondent, Archambault v. M.N.R., 88 DTC 1722. The courts have been consistent on this point. When the legislation provides that an amount received must be included in computing income for the year, the amount must be included in the year it is received, not the years for which it was paid.
+
+[16] In conclusion, the Minister correctly computed the appellant’s 1995 income by including the $101,415 therein and correctly assessed the appellant under Part I.2 of the Act when he determined that the appellant should pay a tax equal to the benefits received in 1995 under the Old Age Security Act.
+
+[17] Accordingly, the appeal is dismissed.
+
+Signed at Ottawa, Canada, January 19, 1998.
+
+“Louise Lamarre Proulx”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

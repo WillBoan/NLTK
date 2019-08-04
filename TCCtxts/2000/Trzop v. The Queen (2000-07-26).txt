@@ -1,0 +1,212 @@
+Date: 20000726
+
+Docket: 97-3629-IT-G
+
+BETWEEN:
+
+STANLEY TRZOP,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.T.C.C.
+
+[1] These appeals are from reassessments of the Appellant's liability under the Income Tax Act (the Act) for the taxation years 1977 and 1980. The reassessments now under appeal were made by the Minister of National Revenue (the Minister) to implement a judgment of the Supreme Court of Canada. That judgment was the culmination of some ten years of litigation, beginning in this Court, as to the interpretation to be given to paragraph 20(14)(b) of the Act. The unanimous Reasons for Judgment of the Supreme Court were delivered by Mr. Justice Iacobucci, and are reported as Canada v. Antosko, [1994] 2 S.C.R. 312.
+
+the facts
+
+[2] On March 1, 1975, the Appellant and Boris Antosko entered into a contract with the New Brunswick Industrial Finance Board (the Board). They were to take over and rescue a manufacturing company which was on the brink of collapse. The essential terms of the contract are stated in paragraph 4 of the Reasons of Iacobucci J.:
+
+4. On March 1, 1975, the board entered into an agreement with the appellants, Antosko and Trzop, in which the appellants acquired all of the board's common shares in the company for a consideration of $1. The board also covenanted to ensure that the company was debt free, except for the indebtedness to the board in the amount of $5 million plus accrued interest, and to postpone the obligation to repay this indebtedness, and interest thereon, for a period of two years. In return, the appellants promised to operate the company during this two-year period in a good and business-like manner. The board agreed that, upon expiration of the two-year period and if all its conditions were met, it would then sell to the appellants the $5 million debt plus accrued interest for the sum of $10.
+
+With a view to ensuring the company's profitability, Mr. Antosko devoted all his time and energies during the two-year period to running the manufacturing side of the business, and the Appellant devoted much, but not all, of his time to the sales side. Mr. Antosko had no other source of income and therefore required a salary from the company in order to support his family. Mr. Trzop, prior to the acquisition of the company, had several businesses which provided him with income, and so he was able, by devoting most of his time to the business of the company, and the remainder of it to one of his other businesses, to provide for his family without drawing a salary from the company. They therefore agreed that he would run the sales side of the company during this two-year period without any salary.
+
+[3] Subsequent events are described by Iacobucci J. in paragraphs 5, 6 and 7:
+
+5. Following the execution of the above agreement, the appellants changed the name of the company to Resort Estates Limited. In 1976, the obligations of the board passed to the Province of New Brunswick as represented by the Minister of Commerce and Development. The agreement, however, remained unchanged. The appellants satisfied their obligations under the agreement and thus, on July 6, 1977, the board sold to them the total indebtedness of the company. The Minister of Commerce and Development assigned to the appellants the debenture, promissory notes, realty mortgage and chattel mortgage that had been given as security for the outstanding indebtedness of the company to the board.
+
+6. Interest on the debenture issued by the company as security for the $3.375 million paid by the board to the bank in fulfilment of its loan guarantee was treated as accruing daily at a rate of 11.5% per annum from the date the bank was paid. Interest on the four promissory notes had also accrued daily. In the 1977 taxation year, the appellants each received $38,335 from the company in partial payment of interest which had accrued on the total debt prior to transfer. The appellants included this interest as income pursuant to s. 12(1)(c) of the Income Tax Act, and then claimed deductions of these amounts pursuant to s. 20(14)(b). In the 1980 taxation year, the appellant Trzop received $283,363 from the company as a similar partial payment of interest. This amount was also included as income and then claimed as a deduction.
+
+7. The Minister of National Revenue disallowed the deductions. The appellants successfully appealed these disallowances to the Tax Court of Canada. An appeal by the respondent Minister to the Federal Court, Trial Division was allowed, and a further appeal by the appellants to the Federal Court of Appeal was dismissed, with the result that the deductions were disallowed. The appellants now appeal the decision of the Federal Court of Appeal to this Court.
+
+[4] The Appellants were successful in their appeals to the Supreme Court. The Minister's position throughout was that subsection 20(14)[1] is in the Act to ensure that when a debt obligation changes hands between interest payment dates, and subsequently interest accruing both before and after the date of the transfer is paid to the transferee, the transferee will not be taxed on the interest accrual prior to the date of transfer, but the transferor will be taxed on it. This is accomplished by requiring the transferor to include interest accrued prior to the transfer date under paragraph 20(14)(a), requiring the transferee to include all of the interest received pursuant to paragraph 12(1)(c), but providing the transferee with a deduction from income for interest accrued prior to the date of transfer, and equivalent to the inclusion by the transferor pursuant to paragraph 20(14)(b).
+
+[5] In this case the transferor was Her Majesty the Queen in Right of New Brunswick, who is exempt from tax. The position of the Crown was that as the transferor could not be taxed on the pre-transfer accrual of interest, Mr. Antosko and Mr. Trzop should not have the offsetting deduction available to them under paragraph 20(14)(b). Their position, which ultimately prevailed, was that the plain words of paragraph 20(14)(b) entitled them to the deduction, regardless of whether there was a transferor who could be taxed on the equivalent amount. The Supreme Court's reasons end with the following two paragraphs:
+
+VI. Conclusion and Disposition
+
+51. The appellants are entitled to a deduction of interest accruing prior to the transfer and payable thereafter. The transaction between the appellants and the board meets the requirements of s. 20(14). The interest which accrued during the period that repayment of the debt was suspended did not become payable until after the transfer. However, the parties agree that this result may have other tax consequences for the appellants, such as a taxable capital gain pursuant to s. 40(3). In this connection, these and any other possible consequences can be taken into account by the respondent in reassessment.
+
+52. Therefore, the appeals are allowed, the judgment of the Federal Court of Appeal is set aside, and the matters referred back to the Minister for reassessment in accordance with these reasons. The appellants shall have their costs here and in the courts below.
+
+[6] It is the implementation of this judgment which gives rise to the present appeals. Clearly it was the Minister's duty following the judgment to reassess the Appellant's "in accordance with these Reasons".[2] The Minister's position is that she has done so; the Appellant's position is that she has not.
+
+the statutory provisions
+
+[7] The following provisions of the Act are relevant to a consideration of the reassessments under appeal:
+
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+
+...
+
+20(14) Where, by virtue of an assignment or other transfer of a debt obligation, other than an income bond, an income debenture, a small business development bond or a small business bond, the transferee has become entitled to an amount of interest that accrued on the debt obligation for a period commencing before the time of transfer and ending at that time that is not payable until after that time, that amount
+
+(a) shall be included as interest in computing the transferor's income for the transferor's taxation year in which the transfer occurred, except to the extent that it was otherwise included in computing the transferor's income for the year or a preceding taxation year; and
+
+(b) may be deducted in computing the transferee's income for a taxation year to the extent that the amount was included as interest in computing the transferee's income for the year.
+
+...
+
+40(3) Where
+
+(a) the total of all amounts required by subsection 53(2) (except paragraph 53(2)(c)) to be deducted in computing the adjusted cost base to a taxpayer of any property at any time in a taxation year
+
+exceeds
+
+(b) the total of
+
+(i) the cost to the taxpayer of the property determined for the purpose of computing the adjusted cost base to the taxpayer of that property at that time, and
+
+(ii) all amounts required by subsection 53(1) to be added to the cost to the taxpayer of the property in computing the adjusted cost base to the taxpayer of that property at that time,
+
+the following rules apply:
+
+(c) [irrelevant], the amount of the excess shall be deemed to be a gain of the taxpayer for the year from a disposition at that time of the property,
+
+...
+
+53(2) In computing the adjusted cost base to a taxpayer of property at any time, there shall be deducted such of the following amounts in respect of the property as are applicable:
+
+...
+
+(l) where the property is a debt obligation, any amount that was deductible by virtue of subsection 20(14) in computing the taxpayer's income for any taxation year commencing before that time in respect of interest on that debt obligation;
+
+...
+
+164(4.1)Where the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada has, on the disposition of an appeal in respect of taxes, interest or a penalty payable under this Act by a taxpayer resident in Canada,
+
+(a) referred an assessment back to the Minister for reconsideration and reassessment, or
+
+(b) varied or vacated an assessment,
+
+the Minister shall with all due dispatch, whether or not an appeal from the decision of the Court has been or may be instituted,
+
+(c) where the assessment has been referred back to the Minister, reconsider the assessment and make a reassessment in accordance with the decision of the Court, unless otherwise directed in writing by the taxpayer, and
+
+(d) refund any overpayment resulting from the variation, vacation or reassessment,
+
+and the Minister may repay any tax, interest or penalties or surrender any security accepted therefor by the Minister to that taxpayer or any other taxpayer who has filed another objection or instituted another appeal if, having regard to the reasons given on the disposition of the appeal, the Minister is satisfied that it would be just and equitable to do so, but for greater certainty, the Minister may, in accordance with the provisions of this Act, the Tax Court of Canada Act, the Federal Court Act or the Supreme Court Act as they relate to appeals from decisions of the Tax Court of Canada or the Federal Court, appeal from the decision of the Court notwithstanding any variation or vacation of any assessment by the Court or any reassessment made by the Minister under paragraph (c).
+
+the reassessments under appeal
+
+[8] On November 6, 1996, the Minister issued reassessments to the Appellant for the 1977 and 1980 taxation years pursuant to subsection 164(4.1) of the Act to give effect to the Supreme Court's judgment. In doing so, her thought process, or more exactly that of her officials, was, first, that the deduction from income claimed by the Appellant under paragraph 20(14)(b) of the Act should be allowed as the judgment required; second, that she was required by paragraph 53(2)(l) of the Act to deduct from the taxpayer's adjusted cost base of the debentures an amount equal to the amount that the Supreme Court of Canada had held was deductible from the Appellant's income under paragraph 20(14)(b); third, that when she made the paragraph 20(14)(b) deduction from the adjusted cost base, which she understood to be the $10 payment, the adjusted cost base became a negative amount; fourth, that subsection 40(3) of the Act provides that that negative adjusted cost base is deemed to be a gain of the taxpayer from a disposition of the property (the debenture) at that time. The product of this reasoning was an assessment whereby the Appellant was allowed the deduction under subsection 20(14) of the Act that he had been seeking since the outset, but in consequence, was taxed in respect of the deemed gain arising out of the disposition deemed by subsection 40(3) of the Act to have taken place.
+
+the effect of delay
+
+[9] The Appellant challenges the Minister's right to consider and apply subsection 40(3) at this stage of the proceedings, contending that to do so is to raise a new basis for the assessment long after the normal reassessment period has elapsed, and after the issues have been determined by the Supreme Court's judgment. Before dealing with this contention, however, I shall address an argument made by counsel for the Appellant that the assessments should be vacated, without regard to the merits, simply on the basis that an unreasonable amount of time has passed both since the original assessments were made in 1978 and 1981, and since the judgment of the Supreme Court was delivered in 1994. In support of this argument, Mr. Mockler relied on the judgment of Christie A.C.J. of this Court in Ginsberg v. The Queen,[3] and also on section 7 of the Canadian Charter of Rights and Freedoms the (Charter).
+
+[10] The Appellant's reliance on Ginsberg is misplaced. In that case Christie A.C.J. allowed an appeal and vacated the assessment on the basis that the Minister had not complied with the statutory directive in subsection 152(1) to assess the taxpayer with all due dispatch, and had not brought satisfactory evidence to explain the delay. Counsel for the Appellant is correct to say that the same principle applies in this case. However, the judgment of Christie A.C.J. in this Court was later reversed by the Federal Court of Appeal.[4] That Court did not give any consideration to the amount of time that elapsed between the filing of the Appellant's income tax return and the Minister's initial assessment. Instead, the Court held that even if the time were unreasonable, the Appellant was not entitled to have the assessment vacated. Although the Minister has a statutory duty to assess "with all due dispatch", his failure in that duty does deprive him of jurisdiction to make an assessment, and when he does so, that assessment is, by the provisions of subsection 152(8), valid and binding. Moreover, liability for tax is not affected even by a failure to assess at all. Consequently, an assessment could not be invalidated simply because it was not issued "with all due dispatch". This ground of appeal has no merit.
+
+[11] Nor does section 7 of the Charter assist the Appellant. That section reads:
+
+Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+
+[12] Counsel for the Appellant referred to the judgment of the British Columbia Court of Appeal in Blencoe v. British Columbia (Human Rights Commission).[5] In that case the Court held that section 7 of the Charter entitled the Appellant to the termination of an investigation into a complaint of sexual harassment that had been brought against him. Mr. Mockler argued that the case stands for the proposition that:
+
+... s. 7 protects against a completely open-ended government pursuit of a citizen. Such an open-ended pursuit violates the security of the person.[6]
+
+The present case bears no similarity in principle to Blencoe. The Appellant is not the subject of an inquiry of any kind. His complaint on this issue is only that the proceedings at four different levels of appeal from the first reassessments took some 13 years to resolve the substantive issue which gave rise to the reassessments. Those reassessments were not the result of any lengthy factual inquiry; there was only one issue between the parties, and it was a simple matter of interpreting one section of the Act. I do not propose to recount the history of the litigation. It is sufficient to say that there were procedures available to the Appellant by which the delays could have been minimized, had he chosen to invoke them. Similarly, although the Minister was slow to reassess the Appellant after the Supreme Court had delivered judgment, and slow as well to confirm the assessments after they were objected to, at least some of that delay was attributable to an ongoing correspondence between counsel as to the propriety of the reassessments. At any stage the Appellant could have insisted on having his reassessments in order to appeal from them. And after the Notices of Objection were delivered, he had only to wait 90 days before launching his appeals to this Court. Instead, he chose to wait until the assessments were confirmed, more than seven months later. This is far different from the facts in Blencoe, where the investigation of a very serious complaint took on a life of its own, and had a deleterious effect on the life and well-being of Mr. Blencoe and his family. In that case the chambers judge made a specific finding of fact that the stigma associated with the complaint contributed greatly to, among other things, a clinical depression for which the Appellant required medical care.
+
+[13] However, there is more fundamental reason why section 7 cannot assist the Appellant in this case. The accepted view of section 7 of the Charter is that it does not extend protection to interests that are purely economic: see Irwin Toy Ltd. v. Quebec (Attorney General),[7] per Dickson C.J.C. at 1003. I have no doubt that the protracted litigation, followed by reassessments which he considers do not give full effect to his victory in the Supreme Court, has been a great source of frustration and aggravation to the Appellant. The interest that he has at stake, however, is purely monetary, and so not within the purview of section 7. This ground of appeal also fails.
+
+the substantive issue
+
+[14] I come now to the Appellant's substantive objection to the reassessments. As I understand the argument, it is that these reassessments are akin to those cases in which the Minister has attempted to sustain the assessments by asserting a new basis for imposing tax, or has issued new assessments under subsection 152(4) of the Act, after the normal reassessment period has expired. In support of this position counsel relies on The Queen v. Continental Bank,[8] The Queen v. McLeod,[9] British Columbia Telephone Co. v. M.N.R.,[10] Waxstein v. M.N.R.,[11] and Reilly Estate v. The Queen.[12]
+
+[15] The Appellant, relying on the advice of the Privy Council in M.N.R. v. Wrights' Canadian Ropes Ltd.,[13] also argues that the effect of the reassessments under appeal, and including therein tax on the deemed gain on the deemed disposition of the debentures, is to deprive the Appellant of the fruits of his victory in the Supreme Court of Canada. This is, I think, another way of expressing the same objection. The crux of the argument is that the Appellant claims now to be entitled to have assessments for the two years in question which permit him the deduction of the pre-conveyance interest under subsection 20(14) of the Act, but do not impose tax on the deemed capital gain which results from that deduction.
+
+[16] For the reasons that follow, I do not agree.
+
+[17] In Continental Bank, counsel for the Minister attempted in argument before the Supreme Court of Canada to support the assessments under appeal by a brand new theory which was inconsistent with the basis on which the assessments had been made. What was originally assessed as a trading gain on the sale of a partnership interest, the Minister's counsel sought by the alternative argument to characterize as a sale of depreciable assets which would give rise to recapture of capital cost allowance. This was done after the expiry of the normal reassessment period, without reissuing the assessment, and in circumstances where evidence would have certainly have been led on that issue at trial if the taxpayer had had notice of it. The principle for which the case stands was expressed by McLachlin J. at p. 370:
+
+... The Minister should not be allowed to advance a new basis for a reassessment after the limitation period has expired.
+
+[18] McLeod and British Columbia Telephone Co. are simply other examples of the same principle. Waxstein and Reilly Estate are examples of the well-known statutory rule that when the Minister reassesses under subsection 152(4) of the Act after the normal reassessment period has expired, he assumes the onus of proving that the taxpayer has made a misrepresentation. This rule has no application here. The Minister did not reassess of her own volition under subsection 152(4) of the Act in this case, but under subsection 164(4.1), at the direction of the Supreme Court, to implement its judgment. Once the Appellant succeeded on the issue in dispute, it became the Minister's duty under subsection 164(4.1) of the Act to issue reassessments to give effect to the Supreme Court's judgment. That is done by making the assessments that the Minister would have made at the time of the original reassessments that were appealed from, if he had interpreted subsection 20(14) of the Act correctly at that time. The Minister has not now sought either to support the original reassessments, or to raise a new issue. She has simply computed the tax payable for the years in question, applying what the Supreme Court has now determined to be the correct interpretation of subsection 20(14) of the Act. The deeming of a disposition, and a gain on that disposition, are the logical and inevitable consequences of the Appellant being entitled to the deductions he sought.
+
+[19] That this is so was recognized by counsel for the Appellant as early as May 1991, in paragraph 3.13 of his Memorandum of Fact and Law filed in the Federal Court of Appeal.
+
+3.13 To permit the deduction in question, however, does not mean that there will be no tax consequence for the Appellant. If the securities in question are capital property of Mr. Trzop and the Appellant [sic], any deduction under section 20(14) of the Income Tax Act would reduce their adjusted cost base of the property by an equivalent amount under section 53(2)(1). This could result in a capital gain.
+
+(emphasis added)
+
+It was also acknowledged by the Supreme Court of Canada in its Reasons for Judgment. For convenience, I repeat paragraph 51, where Iacobucci J. specifically refers to the prospect that the result of the Court's judgment may include the emergence of "... a taxable capital gain pursuant to s. 40(3)".
+
+51. The appellants are entitled to a deduction of interest accruing prior to the transfer and payable thereafter. The transaction between the appellants and the board meets the requirements of s. 20(14). The interest which accrued during the period that repayment of the debt was suspended did not become payable until after the transfer. However, the parties agree thatthis result may have other tax consequences for the appellants, such as a taxable capital gain pursuant to s. 40(3). In this connection, these and any other possible consequences can be taken into account by the respondent in reassessment. (emphasis added)
+
+[20] Counsel for the Appellant, as I understood him, disputes that this was a matter of agreement before that Court, but it certainly was the view that he expressed to the Federal Court of Appeal. In my opinion it was the correct view. I doubt that the Supreme Court would have included the words that I have emphasized in its disposition of the appeals simply on the basis of the agreement referred to, if the judges of that Court had not been of the opinion that it was a correct statement of the effect of their judgment.
+
+[21] In Wrights' Ropes, the Minister had assessed the Appellant for three taxation years to disallow a substantial part of certain commissions that it had paid, and had claimed to deduct as expenses, on the basis that they were not reasonable expenses. The Supreme Court of Canada held that the expenses were reasonable, allowed the appeals, and referred the assessments back to the Minister for "further consideration" under subsection 65(2) of the Income War Tax Act. On further appeal, the Privy Council affirmed the Appellant's entitlement to the deductions it had claimed, but held that the Supreme Court's judgment should not have referred the assessments back to the Minister to be dealt with under subsection 65(2), as that would simply permit the Minister to exercise his discretion as to reasonableness of the expenses once again, with the prospect that he would again disallow the same or some other amounts. Instead, the Judicial Committee's opinion was that the Supreme Court should have referred the assessments back with directions to the Minister "to adjust the assessments in accordance with this decision". It is notable that Lord Greene, in giving the opinion, referred to the inherent power of the Court to make this direction. Subsection 65(2) of the Income War Tax Act lacked the particularity of the present subsection 164(4.1), which requires the Minister to reassess "in accordance with the decision of the Court". The disposition of the appeal to the Privy Council is contained in the last two paragraphs of the opinion:[14]
+
+The formal order of the Supreme Court should, in their Lordships' opinion, be varied by directing that the assessments be referred back to the Minister (without any reference to section 65(2) for an adjustment of the figures consequential on the allowance of the Respondents' appeal to the Supreme Court.
+
+For these reasons their Lordships will humbly advise His Majesty that the appeal should be dismissed but that the order of the Supreme Court should be modified in the manner above indicated. The Appellant must pay the costs of this appeal. (emphasis added)
+
+[22] Lord Greene's words which I have emphasized are similar to those used by Iacobucci J., and the inherent power to which he had earlier referred was to direct the manner of the reassessments, in the same way that subsection 164(4.1) operates in the present Act. These assessments do not deprive the Appellant of the fruits of victory; they are simply the assessments to which the Appellant was entitled when he was first assessed for the years in question.
+
+[23] Before leaving this issue I should comment on the documentary evidence. Two large binders containing a total of 38 documents were tendered by counsel for the Appellant at the beginning of the hearing, and were entered as exhibits by consent of counsel for the Respondent. Among these were the transcript of argument at the hearing before the Supreme Court of Canada, and a letter of opinion obtained by counsel for the Appellant from a former judge of the Supreme Court of Canada who is now in the private practice of law. Mr. Mockler invited me to draw inferences favourable to his client from the questions that were asked and comments made by the judges of the Supreme Court during argument. In my view, it would be quite wrong to attribute any opinion to either the Court itself or to individual judges on any such basis. The purpose of the questions asked by judges in the course of argument is not to express their views on the points at issue, but to test the submissions of counsel. Nothing said by a judge of any court during the course of argument should be taken as an expression of that judge's opinion on the matter before the court. I have disregarded the transcript. I have also ignored the letter of opinion. However distinguished its author, it is simply the opinion of a lawyer as to the point of law before me, and it cannot be elevated beyond that. It is inadmissible.
+
+Appellant's alternative argument
+
+[24] Counsel for the Appellant argued, in the alternative, that if Mr. Trzop is to be taxed on a gain under section 40 of the Act arising out of the disposition of the debentures, then their adjusted cost base (ACB) should be increased by the value of the two years of unpaid labour that he put into the company. This argument does not appear in the Appellant's written brief and it was, I think, something of an afterthought. The argument has its genesis in this sentence of the Supreme Court's Reasons:[15]
+
+Moreover the consideration for the transfer at issue in this appeal included not only the nominal $10, but also the undertaking to operate company in a good and business-like manner.
+
+This sentence was in response to an argument of counsel for the Minister that the transfer of the debentures had taken place for no substantial consideration. The undertaking to operate the company in a good and business-like manner was part of the consideration, but that cannot be equated to an obligation on the part of the Appellant to work for two years without pay. He did that of his own volition, and the success of the enterprise was his reward for doing so. The computation of the ACB of a security is governed principally by section 53 of the Act, the operative words of which, so far as this case is concerned, are "... there shall be added to the cost to the taxpayer of the property ...". Nothing that follows assists the Appellant's case, so for this argument to succeed he would have to bring the value of his labours within "...the cost to [him] of the property...". As there was no term in the agreement with the board that required him to work without pay, he cannot satisfy that requirement.
+
+[25] Although it is not necessary in view of the foregoing, I should add that I cannot subscribe to the Appellant's valuation of his labours. In his evidence, he put it somewhere between $320,000 and $416,000, on the basis of his estimate of 6,400 hours worked during the two-year period at a rate of $50 to $65 per hour. A more realistic valuation, in my view, would be the $50,000 per year that the company paid to Mr. Antosko, net of income tax, which yields a total in the order of $65,000 for the two years.
+
+[26] The appeals are dismissed, with costs.
+
+Signed at Ottawa, Ontario this 26th day of July, 2000.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Reproduced at paragraph 7 below.
+
+[2] See subsection 164(4.1) of the Act reproduced at paragraph 7 below.
+
+[3] 94 DTC 1430.
+
+[4] 96 DTC 6372.
+
+[5] (1998) 160 D.L.R. (4th) 303 (B.C.C.A.).
+
+[6] Appellant's Brief, p. 18.
+
+[7] [1989] 1 S.C.R. 927.
+
+[8] [1998] 2 S.C.R. 358.
+
+[9] 90 DTC 6281 (F.C.T.D.).
+
+[10] 167 N.R. 112.
+
+[11] 90 DTC 1348.
+
+[12] 84 DTC 6001.
+
+[13] [1947] A.C. 109.
+
+[14] supra, at page 126.
+
+[15] supra, at p. 330.
+

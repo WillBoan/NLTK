@@ -1,0 +1,582 @@
+Date: 20011107
+
+Docket: 97-3792-IT-G
+
+BETWEEN:
+
+WALLACE GORDON ROBSON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+AND
+
+Docket: 97-3793-IT-G
+
+BETWEEN:
+
+378733 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent,
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments for the 1990, 1991, 1992 and 1993 taxation years of 378733 Ontario Limited ("378733" or "the company") and for the 1988, 1989, 1990, 1991 and 1992 taxation years of Wallace Gordon Robson. The company is a corporation whose shareholders at the relevant time were Wallace Robson, his wife Carol Ann Robson and the Robson Family Trust. Mr. Wallace also had appeals to this court which at his request were heard separately from these appeals although his testimony in the company's appeals was, on consent, made applicable to his personal appeals.
+
+[2] An initial objection was taken to the company's appeal for 1990 on the basis that the appeal was from a nil assessment. No appeal lies from a nil assessment and so the appeal for 1990 must be quashed. This, of course, is not fatal. Absent a binding loss determination from which no objection and appeal have been taken, a taxpayer can put in issue the amount of loss incurred in the year for which nil tax is assessed as part of an appeal for a year in which the amount of taxable income is affected by the loss carry forward or back from the loss year (Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475). That is the basis upon which I heard evidence about the loss alleged to have been incurred in 1990.
+
+[3] For 1990 the appeal (or purported appeal) had to do with the income or loss of the company from a financial consulting business, Anderdon Financial Services ("Anderdon"), of which it was the sole proprietor. For 1991, 1992 and 1993 the company alleged that it was a member of a partnership known as Anderdon of which other persons were also partners. It was alleged that the business of Anderdon was transferred by the company to a partnership with the same name.
+
+[4] The company's fiscal period ended on February 28 in each year. Anderdon's fiscal period ended on July 31. Thus, assuming the company was a partner in Anderdon, the income or loss of Anderdon, to the extent of the company's partnership interest, for the fiscal period of Anderdon ending July 31, 1991, for example, would fall into the company's fiscal period ending February 28, 1992.
+
+[5] Many of the expenses claimed by the company in 1990 and claimed by the partnership Anderdon in 1991 and 1992 were disallowed. These expenses claimed by Anderdon were allocated in their entirety to 378733 and added to its income for 1991, 1992 and 1993.
+
+[6] One or two further observations before I go through the tedious task of examining the expenses in detail. This case should not have come this far. It should have been settled either at the audit level or at the objection level. Mr. Brown, a senior technical advisor in the CCRA, — and, if I may say so, an extraordinarily impressive witness — described the difficulty in obtaining responses from Mr. Robson, an officer and shareholder of the company. Mr. Robson was a chartered accountant and, with the permission of the court, represented the company although he was not a member of the bar. Mr. Robson should have met with the officials of the Agency and worked out some type of settlement. Instead the Agency was left largely in the dark about the nature of the expenses. This case is very reminiscent of the situation with which I was confronted in Merchant v. The Queen, 98 DTC 1734, aff'd 2001 DTC 5245 (F.C.A.). The result is that the court was obliged to perform all of the functions of the revenue auditor who initially reviews the file. The court must examine the vouchers, decide the myriad of questions that are relevant to deductibility, such as whether the expense was incurred, whether it is reasonable, whether some other provision of the Income Tax Act prevents its deduction, whether it is on capital account, and so forth. In a case where the audit and objection procedures have not been short-circuited or frustrated most of these issues would have been resolved and the court would have been left with a couple of well-defined questions to deal with. Here, everything is at large. Nor in my view has the taxpayer satisfied any onus by dumping a disorganized mass of receipts, vouchers and computer print-outs on the court and saying "Here are my receipts — you sort them out". They should be presented with schedules in an organized and coherent way. In Merchant I said at pages 1735-6:
+
+[7] Where a large number of documents, such as invoices, have to be proved it is a waste of the court's time to put them in evidence seriatim. The approach set out in Wigmore on Evidence (3rd Ed.) Vol IV. at s. 1230 commends itself:
+
+s. 1230(11): ... Where a fact could be ascertained only by the inspection of a large number of documents made up of very numerous detailed statements — as, the net balance resulting from a year's vouchers of a treasurer or a year's accounts in a bank-ledger — it is obvious that it would often be practically out of the question to apply the present principle by requiring the production of the entire mass of documents and entries to be perused by the jury or read aloud to them. The convenience of trials demands that other evidence be allowed to be offered, in the shape of the testimony of a competent witness who has perused the entire mass and will state summarily the net result. Such a practice is well-established to be proper.
+
+[8] This passage was cited with approval by Wakeling, J.A. in Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1 at p. 24 (Sask. C.A.) and by MacPherson, J. in R. v. Fichter, Kauffmann et al., 37 S.R. 128 (Sask. Q.B.) at p. 129. In am in respectful agreement.
+
+[7] If the appellants end up being short-changed on some aspects of their cases they have only themselves to blame.
+
+[8] As a final preliminary matter there is the question of credibility. At the beginning of Mr. Robson's cross-examination, counsel for the respondent asked him about a conviction for income tax evasion under section 239 of the Income Tax Act. It was, I am informed, in fact paragraph 239(1)(c) of the Act — acquiescing in, assenting to making of false or deceptive statements. However neither the information (or indictment) nor the certificate of conviction was put in evidence. The tax evaded was not Mr. Robson's but that of one of his clients. Mr. Robson testified that he was convicted although his client was acquitted.
+
+[9] Section 12 of the Canada Evidence Act reads
+
+12(1) A witness may be questioned as to whether the witness has been convicted of any offence, excluding any offence designated as a contravention under the Contraventions Act, but including such an offence where the conviction was entered after a trial on an indictment.
+
+(1.1) If the witness either denies the fact or refuses to answer, the opposite party may prove the conviction.
+
+(2) A conviction may be proved by producing
+
+(a) a certificate containing the substance and effect only, omitting the formal part, of the indictment and conviction, if it is for an indictable offence, or a copy of the summary conviction, if it is for an offence punishable on summary conviction, purporting to be signed by the clerk of the court or other officer having the custody of the records of the court in which the conviction, if on indictment, was had, or to which the conviction, if summary, was returned; and
+
+(b) proof of identity.
+
+[10] On the authority of that section I permitted the question over Mr. Robson's objection and he admitted that he had indeed been convicted. However beyond that admission I am completely in the dark about the nature of the charge or the conviction. I do not know whether the trial was before a judge alone or a judge and jury, whether it was by way of summary conviction or indictment. The apparent purpose of putting prior convictions to a witness is to impeach his or her credibility. If the offence is not one that involves moral turpitude or tends to indicate that a witness is not believable, it is difficult to see how such evidence is in any way probative. A prior conviction for perjury or embezzlement or income tax fraud is one thing. A conviction for shooting ducks out of season is another.
+
+[11] I have assumed that the sole purpose of putting a prior conviction to a witness in cross-examination is to impeach credibility. If the purpose is to show a tendency to commit similar acts or to show bad character, then such evidence is inadmissible. I do not think that section 12 of the Canada Evidence Act can be used as a basis for adducing evidence that is otherwise inadmissible.
+
+[12] The leading case on section 12 of the Canada Evidence Act is R. v. Corbett, [1988] 1 S.C.R. 670. There may be circumstances, according to the Supreme Court of Canada in Corbett, that would entitle a judge to refuse to allow questions on a prior conviction for example where the prejudice outweighs the probative value. Section 12 is fairly clear in its direction that a witness may be questioned about prior convictions. If he or she denies a prior conviction it may be proved and this would certainly go to credibility. If, as here, the witness admits the conviction, that is the end of the matter and the judge may or may not choose to draw any adverse inference about the witness' credibility. I regard a prior conviction, standing by itself, as neutral. For one thing not all offences carry with them a connotation of moral turpitude. For another the witness may have been wrongly convicted. I prefer to base findings of credibility on my observation of the witness, not on whether some other judge in another court may have seen fit to disbelieve him or her.
+
+[13] I shall deal first with the appeals of 378733 and I start with a fairly major problem about the assessments.
+
+[14] Subparagraphs c), d) and e) of paragraph 14 of the reply read as follows.
+
+c) at all relevant times, the Appellant was a partner in Anderdon Financial Services partnership;
+
+d) at all relevant times, the Appellant reported income and expenses form Anderdon Financial Services partnership;
+
+e) the expenses of Anderdon Financial Services have been properly allocated to the Appellant.
+
+[15] The company was not put on notice that the existence of the partnership was an issue. It was entitled to accept the respondent's admission that it was a partner in the Anderdon partnership. The admission that the company was a partner coupled with the bald assertion that the expenses of the partnership were properly allocated to it is insufficient to cast any onus on the appellant. The CCRA seems content to tax the appellant and the other two partners — the Robson Family Trust and 44740 Ontario Limited — on any income, but to allocate to the company not all of the expenses but only those that were disallowed.
+
+[16] If the respondent wanted to ignore the partnership or allocate part of its income or loss to the company it should have pleaded either
+
+(a) that the partnership did not exist or was a sham, or
+
+(b) that the facts necessary to support a reallocation of profits or losses under section 103 of the Income Tax Act existed.
+
+[17] Neither of these courses was followed. Without eliminating the partnership or applying section 103, the addition to one partner's income of all disallowed expenses claimed by the partnership runs counter to logic and law.
+
+[18] Therefore, whatever expenses are disallowed the disallowance should be reflected in the company's income only to the extent of its partnership interest.
+
+[19] Under the Partnership Act of Ontario it is presumed that partners share equally, in the absence of any agreement to the contrary. This would mean that the company had a one-third interest. Mr. Robson stated that it had a 50% interest. This admission is against the company's interest in this litigation. I will give effect to it.
+
+[20] It follows that whatever expenses are disallowed in the partnership, only 50% should be added to the company's income. Whatever reservations I may entertain about the substance of the Anderdon partnership, the present state of the pleadings and of the evidence does not permit me to visit those reservations on the company or allow them to redound to its detriment.
+
+[21] The specific expenses disallowed are set out in Schedule A to the reply to the notice of appeal. It reads
+
+SCHEDULE "A"
+
+2.28.90 2.28.91 2.28.92 2.28.93
+
+378733 Ontario Limited
+
+general expense 29,099
+
+property RR#3 4,556
+
+property #24 7,545 150
+
+interest expense 3,440
+
+professional fees 7,440 10,000
+
+medical, etc. 1,500
+
+life insurance 2,989 1,590 2,335
+
+auto 2,813
+
+entertainment 901
+
+cca 41,684
+
+bank charges 21
+
+gain on sale (good will) 5,000
+
+______ ______ ______ ______
+
+Total - 378733 $106,988 $1,740 $12,335 0
+
+Anderdon Financial
+
+general expenses 2,744 13,748 5,300
+
+auto 4,690 5,627 14,137
+
+office 3,300 4,500 4,328
+
+medical, etc. 869 1,043
+
+computer hardware 1,235 3,445
+
+professional fees 2,062 2,000
+
+depreciation 1,021
+
+wages 1,380
+
+cca 1,327
+
+discounts 59,000 (13,313) 66,473
+
+_______ ______ ______
+
+Total - Anderdon Financial $73,686 $15,547 $95,683
+
+Total Expenses Disallowed $106,988 $75,426 $27,882 $95,683
+
+378733 Ontario Limited
+
+T2S(1) net income adjustment $15,037
+
+Total Adjustments $106,988 $75,426 $27,882 $110,720
+
+[22] In the period ending February 28, 1990 the expenses were claimed by the company directly. In the periods ending February 28, 1991, 1992 and 1993 the expenses were claimed by Anderdon in its fiscal period ended July 31 in each year. As I noted above the company's fiscal period was February 28 in each year and so the income or loss from the Anderdon partnership for its fiscal period ending July 31 falls into the company's fiscal period in which the partnership fiscal period ends.
+
+[23] This is complicated but it is not beyond the ken of a competent accountant to figure it out. However two additional factors make things even more difficult for any judge trying to make sense of this fiscal and accounting mishmash. The first is, as noted above, the allocation of the partnership's disallowed expenses in their entirety to the company, thereby in effect adding the disallowed expenses to the company's income even though the partnership's existence is acknowledged. However it gets worse. After increasing the company's income by the full amount of the partnership's disallowed expenses, the CCRA has taken most of those same amounts and added them to the income of the individual W.G. Robson.
+
+[24] There is a departmental mindset, enshrouded in the euphemistic rubric of fiscal symmetry, that says that if you disallow an expense to a corporation you must simultaneously find a shareholder on whom to visit a parallel and matching tax consequence under section 15 of the Income Tax Act. The premise on which this practice of double taxation is based is evidently some misplaced sense of moral rectitude that, so the argument goes, justifies the imposition of an additional punishment on the shareholders for allowing their company to incur disallowable expenses. In this case it is particularly inappropriate because the Crown has admitted that the appellant, Carol Ann Robson and the Robson Family Trust were all shareholders of 378733 Ontario Limited. Even if there were some justification for adding a disallowed corporate expense to a shareholder's income under section 15 of the Income Tax Act, unless there is some cogent reason for targeting one shareholder and excluding others, the benefit should be spread equally among all of the shareholders in accordance with their respective interests in the company. I developed this view in Erb et al. v. The Queen, 2000 DTC 1401 at 1405-1406, in which I followed the decision of Dumoulin J. in Minister of National Revenue v. Bronfman, [1966] Ex.C.R. 172.
+
+[25] I have some sympathy for the departmental officials trying to make some sense out of the appellants' fiscal affairs. Their enquiries met with obfuscation, stonewalling, prevarication, gamesmanship and unresponsiveness. I found parts of Mr. Robson's evidence unbelievable as I suspect the departmental auditors did as well, and, in frustration, they threw the book at him. This may explain some of the extreme assessing actions outlined above. In throwing the book at someone you have to gauge with some nicety the size and weight of the book to throw. Here the CCRA got a little carried away. No one, regardless of how exasperating his or her behaviour may appear to the Agency, should have to pay a penny more tax than the law requires.
+
+[26] The following is Schedule A to the respondent's reply to Mr. Robson's appeals, in which the adjustments to the income of Mr. Robson are set out. If one compares the figures in this schedule to those in the schedule to the reply in the company's case, two things stand out: the similarity in the numbers and the fact that the numbers in the two cases fall into different years.
+
+SCHEDULE "A"
+
+1990 1991 1992
+
+378733 Ontario Ltd.
+
+general expense 29,099
+
+property RR#3 4,556
+
+property #24 7,545
+
+interest expense 3,440
+
+professional fees 7,440 10,000
+
+medical, etc. 1,500
+
+life insurance 2,989 2,335
+
+auto 2,813
+
+entertainment 901
+
+loss on asset
+
+disposal 41,684 ______ ______
+
+Total 378733 Ont. $110,967 $10,000 $2,335
+
+Anderdon
+
+Financial Services
+
+general expenses 2,744 13,748 5,300
+
+medical 869
+
+auto 4,690 5,627 14,137
+
+rent & office
+
+facilities 4,500
+
+professional fees 2,062 2,000
+
+computer hardware 1,235 3,445
+
+wages 1,380
+
+discounts 59,000 (13,313) 66,473
+
+life insurance 1,590
+
+Total Anderdon $74,255 $14,220 $95,683
+
+TOTAL $176,222 $24,220 $98,018
+
+[27] To be perfectly clear, I repeat two principles upon which the new reassessments must be made.
+
+(a) Only one half of the partnership's disallowed expenses should be allocated to 378733.
+
+(b) If any of the disallowed expenses in 378733 can also be treated as shareholder benefits, only one-third should be taxed in the hands of Mr. Robson. I say one-third because I do not have any more accurate evidence. Mr. Robson said he owned only special shares and that his wife owned 20% of the common shares and the Robson Family Trust owned 80%. This might warrant a different allocation of any section 15 benefits but no one has given me any concrete basis for doing so.
+
+[28] In dealing with the various items I am not going to do the arithmetic, nor am I going to concern myself with years except for identification purposes. Amounts were disallowed in the fiscal year of the partnership, bounced into a different period for the company, and taxed in a different fiscal period (the calendar year) for Mr. Robson. For me to try to reconcile these years would only clutter up the record more than it already is and add to the confusion.
+
+[29] I start then with the appeals of 378733.
+
+[30] Under the column 2.28.90, $106,988 was disallowed.
+
+$29,099 general expense. This represents an agreement to indemnify Mr. and Mrs. Robson for their paying of a guarantee of a partnership in which Mr. Robson was a partner with a number of other persons. It is not clear if it has been paid, but in any event it has nothing to do with the earning of income by the company and is not an allowable deduction.
+
+$4,556 - property RR#3 and $7,545 - property #24. These have not been shown to have been incurred to earn the company's income.
+
+$3,440 Interest expense. This amount is deductible.
+
+Professional fees $7,440. These legal fees have been proved and are deductible.
+
+Life insurance $2,989. This was key man life insurance owned by the company and is deductible.
+
+Auto $2,813. This was not established as relating to the business and the amount is not proved. Therefore it is disallowed.
+
+Entertainment $901. This amount has not been proved. It is disallowed.
+
+Medical expenses $1,500. These were not laid out to earn income.
+
+CCA $41,684. This was claimed as a terminal loss on the sale of a rental property. The amount of the loss has not been proved nor has the reasonableness of the allocation to land and building. It is therefore not allowed.
+
+Bank charges $21. Allowed.
+
+Gain on sale $5,000. This has been reported already and should be deleted.
+
+[31] Column 2.28.91
+
+378733 Ontario Limited
+
+Property #24 $150. This amount has not been proved. It is disallowed.
+
+Life insurance $1,590. Allowed
+
+Anderdon
+
+General expenses $2,744. This amount has not been proved. It is disallowed.
+
+Auto $4,690. This amount was not proved. It is disallowed.
+
+Office $3,300. This amount was proved and is allowed.
+
+Medical expenses $869 and Professional fees $2,062. These have not been shown to have been laid out to earn income. They are disallowed.
+
+Depreciation $1,021. Presumably Mr. Robson, as a chartered accountant, knows the difference between depreciation and accounting. Depreciation is not allowable in computing income.
+
+Discounts $59,000. I shall deal with the item of "discounts" in all three years. The following year a credit of $13,313 was allowed and in the following year $66,473 was disallowed.
+
+[32] It is not surprising that the Minister treated these amounts as he did. They were not discounts at all. They were a claim for bad or doubtful debts. With one exception they were not proved to be bad or doubtful debts. Mr. Robson claimed any debt that went for over 90 days to be bad or doubtful. The only one that has been proved is one owing by a client, Jean Fortier. Mr. Robson billed him about $42,000 and was paid $22,000. A bad debt of $20,000 should be allowed.
+
+[33] It is not clear how the bad or doubtful debt allowance works out in practice here. In the period 2.28.92 a credit of $13,313 was given. If the result of my allowing this aspect of the appeals means that the $13,313 should not have been allowed as a credit I do not think that there can be an upward adjustment. (See Harris v. M.N.R., 64 DTC 5332 at 5337.)
+
+[34] Columns 2.28.92 and 2.28.93
+
+378733 Ontario Limited
+
+Professional fees $10,000. I have no idea what these were for or if they were incurred.
+
+Life insurance $2,335. I am prepared to allow the life insurance as above.
+
+Anderdon
+
+General expenses - $13,348 and $5,300. These amounts have not been established.
+
+Auto $5,627 and $14,137. The evidence here is that no log was kept and that the expenses may have been those relating to Mr. Robson's son's car. The evidence here is too unreliable to justify any allowance.
+
+Office $4,500 and $4,328. These are offices in Mr. Robson's son's home. These expenses have not been proved.
+
+Computer hardware $1,235 and $3,445. These are legitimate expenses of purchasing computer hardware that was sold to clients and should be allowed.
+
+Medical expenses $1,043. These have not been established as being incurred to earn income.
+
+Professional fees $2,000. This amount has not been proved.
+
+Wages $1,380. These were for unspecified duties of Mr. Robson's son's wife. They have not been proved.
+
+CCA $1,327. This is properly deductible.
+
+T2S(1) net income adjustment $15,037. The appellant does not challenge this disallowance.
+
+[35] Schedule B to the reply to the notice of appeal in 378733 sets out the non-capital losses claimed and allowed and the amounts the respondent says were allowed in error. If by this the respondent is asking me to order that the amounts allegedly allowed in error should be disallowed I respectfully decline to do so if it involves ordering a reassessment of more tax. This would be contrary to the well-established principle stated by Thurlow J. in Harris (supra).
+
+[36] If the changes I have ordered above, however, have any bearing on the treatment of loss carry forwards the figures in Schedule B will need to be adjusted to give effect to those changes.
+
+[37] I turn now to Mr. Robson's appeals.
+
+[38] I begin with the penalties. In 1988 and 1989 the appellant failed to report substantial amounts of income from his former partnership, Thorne Ernst & Whinney. The Minister assessed him on $286,547 and $282,303 based on information about the value per unit of the partnership income. This was not accurate. The correct figures were $346,575 and $282,303 respectively. After the Agency started to make enquiries the appellant concocted a none-too-subtle and, if I may say so, rather obvious and foolish scheme to make it look as if he had filed an amended return showing all of the income in 1988. He prepared an amended return showing all the income in 1988 and claimed huge and unjustified expenses to bring the 1988 income down to exactly what he had originally declared. He then wrote a letter in which he tried to make it look as if he had filed the amended return before the enquiries had started.
+
+[39] I do not believe him. The scheme did not work. The penalties are confirmed. The appellant should thank his lucky stars that the assessments of tax and the penalties were based on the Minister's figures and not the actual figures which, for 1988, were about $60,000 higher than those used on assessing. As a result of this act of ministerial forbearance or largesse this amount seems to have floated off into some sort of fiscal never-never land.
+
+[40] I am aware that in the case of penalties the Crown has the onus of proof. It has fully satisfied that onus. Moreover the Minister was entirely justified in opening up these otherwise statute barred years.
+
+[41] A number of expenses claimed by Mr. Robson personally were disallowed, as follows:
+
+1989 1990 1991 1992
+
+accounting, legal $22,872 $28,790 $122,736
+
+interest, bank charges 38,852 $51,721 37,727 34,522
+
+management fees 20,500
+
+meals and entertainment 5,538 16,543 21,260 24,465
+
+rent 2,400
+
+other (per ledger) 34,383
+
+automobile 7,343
+
+_______ _______ _______ _______
+
+TOTAL $131,888 $68,264 $87,777 $181,723
+
+[42] I shall deal with each of these items separately.
+
+[43] Accounting, legal. Among the amounts claimed are two amounts of $7,243 and $8,470 allegedly paid to Ian Dantzer of Lerner & Associates in 1991 and 1992 and $100,000 allegedly paid to one Donald H. Tait, Q.C. The letters purporting to justify these expenditures read as follows.
+
+To whom it may concern:
+
+From: Mr. Ian Dantzer, Lerner & Associates
+
+To: Wallace G. Robson
+
+Please be advised we received $7,243 during 1991 and $8,470 during 1992 for legal fees for representations made on Mr. Robson's behalf related to the Thorne Ernst Whinney accounting firm, Hong Kong Bank of Canada and a former employee of the accounting firms in which Mr. Robson was involved over the years.
+
+_____________________ February ___, 1994
+
+Mr. Ian Dantzer
+
+To whom it may concern:
+
+From: Donald H.Tait, QC
+
+To: Wallace G. Robson
+
+Please be advised I received $100,000 during 1992 for legal fees for representations made on Mr. Robson's behalf at a preliminary hearing into an income tax prosecution of Mr. Robson related to a former accounting firm client.
+
+_________________________ February ___, 1994
+
+Donald H. Tait, QC
+
+[44] These are dated February __, 1994. They appear to have been typed on the same typewriter and are unsigned. Mr. Robson admitted that he "may" have typed them himself. I interpret "may" as "certainly did". The letters are not on letterhead. Exhibit A-77 was put in by the appellant. It purports to have been signed by Mr. Tait. The copy given to the CCRA was not signed.
+
+[45] No cancelled cheques were put in evidence and the purported recipients were not called.
+
+[46] I do not accept the authenticity of the letters and I do not think there is any credible evidence that these amounts were paid.
+
+[47] There is a receipt dated March 28, 1991 from R. Bruck Easton, a Windsor lawyer for $15,760.71 and another one dated March 31, 1992 for $1,717.49 and two from a law firm Moorhouse, Wright dated October 9, 1992 for $1,508.87 and $1,179.57.
+
+[48] In 1989 there are also accounts of $7,536.57 from O'Brien, Jacklin and O'Brien, $2,100 from R. Bruck Easton and $10,622 from Lerner & Associates.
+
+[49] These amounts have been proved and are related to the earning of income. Only these amounts are allowable.
+
+[50] Interest and bank charges - $38,852, $51,721, $37,727, $34,522. These amounts relate in large measure to moneys borrowed to invest in Thorne Ernst & Whinney. The premise of the disallowance seems to have been the interest ceased to be deductible when Mr. Robson left Thorne Ernst & Whinney. He had ongoing litigation against that firm during these years and so the factual premise upon which the disallowance was based, that the "source" was gone, is incorrect. It is questionable, whether in light of Tennant v. The Queen, 96 DTC 6121 (S.C.C.), the case of Emerson v. The Queen, 86 DTC 6184 (F.C.A.), was rightly decided. It is moreover impossible to see how the disallowance of interest here can possibly be maintained in light of the two recent cases of the Supreme Court of Canada in Singleton v. Canada, [2001] S.C.J. No. 59; and Ludco Enterprises Ltd. v. Canada, [2001] S.C.J. No. 58.
+
+[51] Management fees $20,500. It has not been established that this amount was paid, or why. It is disallowed.
+
+[52] Meals and entertainment $5,538, $16,543, $21,260, $24,465. Mr. Robson admitted these are unreasonable. Moreover, they have not been proved with any degree of precision. Even using the most relaxed laisser-faire standards of proof a few pencilled notes on the back of an envelope containing a few receipts that have nothing to do with the amounts claimed can scarcely be taken as adequate proof of allowable expenses totalling over $67,000.
+
+[53] Rent $2,400. This was said to have been paid to the appellant's wife (or perhaps his mother-in-law — the evidence is not too clear). I suppose there is nothing wrong with paying rent to your wife or mother-in-law — it may even be a very worthwhile thing to do. But if you expect to deduct it you would do well to come up with some pretty good business reasons. The appellant has not done so.
+
+[54] Other (per ledger). $34,383. These have not been proved. However one adjustment must be made. The appellant seems to have thought that the amount of $34,283 claimed was excessive and so he brought $15,000 into income to offset what he considered to be an excessive claim. Moreover, the figure of $34,383 is wrong. In his 1989 return the figure was $34,283. Therefore the disallowance should be reduced by $15,100.
+
+[55] Mr. Robson has abandoned the claim to deduct automobile expenses of $7,343.
+
+[56] In paragraph 19k) of the reply reference is made to a loss from a partnership, King's Landing Tavern, in which the appellant had a 76.2% interest. The revenue auditor reduced the loss to which the appellant was entitled to $165,800, as follows.
+
+terminal loss reduction $160,049
+
+CCA disallowed - class 3 46,244
+
+- class 6, 8, 17, 29 132,819
+
+proceeds overstated (50,000)
+
+land - capital loss 32,000
+
+expenses disallowed 80,862
+
+________
+
+TOTAL $401,974
+
+Loss per financial statements (619,560)
+
+Revised loss (217,586)
+
+Allocated to Appellant (76.2%) $(165,800)
+
+[57] The terminal loss reduction resulted from a downward valuation of the building from $453,000 to $268,000. The CCRA took the position that the original transfer to the partnership at $770,000 was non-arm's length, and the price should, under section 69, have been $538,575. I shall not try to reconcile the figures. At one point Mr. Robson testified that the price on closing was $805,000. The short answer is that the appellant had the onus of proof and no acceptable evidence, either by way of documents or by way of expert valuation, was put in that would have rebutted the presumption of correctness of the calculation in paragraph 19k).
+
+[58] Finally, I come to the shareholder benefits of $176,222, $24,220 and $98,018 set out in Schedule A to the reply to Mr. Robson's notice of appeal.
+
+[59] All of these amounts should be deleted from the appellant's income. In addition to what I said in paragraph [24], my reasons can be stated briefly.
+
+[60] The expenses of $110,967 disallowed to 378733 in 1990 were in part allowed by this judgment, but those expenses that continued to be disallowed do not constitute a benefit to the appellant. There must be some evidence of an intent by the corporation to confer a benefit on the shareholder and of an actual benefit being conferred. The disallowed expenses were not benefits to the appellant. Even if on some tortured reasoning they could be construed as benefits, for the reasons set out above and developed in Erb they should be allocated to all of the shareholders.
+
+[61] So far as the disallowed expenses of Anderdon are concerned the logic of the departmental position becomes even more tenuous. Here I have held that the disallowed expenses of the partnership should be attributed to 378733 only to the extent of 50%. Even if one followed the Agency's reasoning that all expenses disallowed to a corporation should be taxed in the shareholders' hands, they should be allocated to all shareholders.
+
+[62] Thus, for example, even accepting the premise that disallowed corporate expenses somehow become section 15 benefits to the shareholders, of a $1,000 disallowed expense in Anderdon there would be added to the corporate partner's income $500 and of this amount there should be taxed in Mr. Robson's hands $166.67. I have gone through this exercise to demonstrate the sheer illogic of the respondent's position.
+
+[63] The appeals of the appellant 378733 Ontario Limited are allowed and the assessments for 1991, 1992 and 1993 are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+[64] The appeal from the nil assessment for 1990 is quashed but the non-capital loss for that year determined in accordance with these reasons may be applied to the years 1991, 1992 and 1993 to the extent permitted by section 111 of the Income Tax Act.
+
+[65] The appeals of the appellant Wallace Gordon Robson are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+[66] In light of Mr. Robson's behaviour I considered doing what I did in Merchant and awarding costs against him. However he has achieved a measure of success despite his conduct, probably due to good luck rather than good management, and some of the CCRA's positions have been rather extreme. The fairest thing seems to be to make no order for costs.
+
+Signed at Ottawa, Canada, this 7th day of November 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NOS.: 97-3793(IT)G, 97-3792(IT)G
+
+STYLE OF CAUSE: Between 378733 Ontario Limited and
+
+Her Majesty The Queen AND
+
+Between Wallace Gordon Robson and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Windsor, Ontario
+
+DATE OF HEARING: 378733 Ontario Limited: September 18 and 19, 2001
+
+Wallace Gordon Robson: September 19 and 20, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: November 7, 2001
+
+APPEARANCES:
+
+For the Appellants: Wallace Gordon Robson
+
+Counsel for the Respondent: Roger Leclaire, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+97-3792(IT)G
+
+BETWEEN:
+
+WALLACE GORDON ROBSON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on September 19 and 20, 2001, at Windsor, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Roger Leclaire, Esq.
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1988, 1989, 1990, 1991 and 1992 taxation years be allowed and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+
+There will be no order for costs.
+
+Signed at Ottawa, Canada, this 7th day of November 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+97-3793(IT)G
+
+BETWEEN:
+
+378733 ONTARIO LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on September 18 and 19, 2001, at Windsor, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+Agent for the Appellant: Wallace Gordon Robson
+
+Counsel for the Respondent: Roger Leclaire, Esq.
+
+JUDGMENT
+
+It is ordered that the purported appeal from the nil assessment for the 1990 taxation year be quashed but the non-capital loss for that year determined in accordance with the reasons for judgment may be applied to the years 1991, 1992 and 1993 to the extent permitted by section 111 of the Income Tax Act.
+
+It is further ordered that the appeals from assessments made under the Income Tax Act for the 1991, 1992 and 1993 taxation years be allowed and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+
+There will be no order for costs.
+
+Signed at Ottawa, Canada, this 7th day of November 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

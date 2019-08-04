@@ -1,0 +1,302 @@
+Date: 20011220
+
+Docket: 2000-3248-IT-G
+
+BETWEEN:
+
+S.T.B. HOLDINGS LTD.,
+
+Applicant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Order
+
+Miller J.T.C.C.
+
+[1] This is an application for a determination of a matter of law pursuant to Rule 58(1)(a) of the Tax Court of Canada Rules (General Procedure) based on an Agreed Statement of Facts. The Applicant poses the questions of law as follows:
+
+(a) Does subsection 245(7) of the Income Tax Act ("Act") require that a reference to section 245 and/or the "General Anti-Avoidance Rule" ("GAAR") be made on the face of a notice of assessment or reassessment in order for section 245 to be relied on by the Minister? and
+
+
+
+(b) Does subsection 245(7) of the Act preclude the use of section 245 as an alternative assessing position.
+
+[2] While the issues are framed in the guise of two questions this is a matter of the interpretation of subsection 245(7). No other Act, with the exception perhaps of the Criminal Code of Canada, is subjected to such intense scrutiny by diligent lawyers, searching for that legislative flaw or twist which may secure a procedural victory for the client. What the drafter believes is clear becomes murky: what is black becomes gray, and, remarkably at times even white. There is no dearth of opportunity for the Courts to provide clarity in the interpretation of the Act, given the CCH version of the Act and Regulations now runs to close to 3000 pages. Complexity is the name of the game - clarification is our job. I would have no difficulty in citing numerous examples where the legislation leaves the taxpayer, counsel, the Department of Justice and Courts baffled by convoluted structures, triple negatives and cross-references upon cross-references. My impression of the section before me is that it is not such a hieroglyphic mish-mash: it is however imprecise, subject to different views and confusing in its very simplicity. The interpretation suggested by the Applicant is an enthusiastic and well-argued attempt to stretch the words further than I believe they can reasonably bend. I am not prepared to accept such a degree of malleability.
+
+[3] The only portions of the Agreed Statement of Facts relevant to this application are as follows:
+
+...
+
+1.8 On or about July 7, 1994, a Waiver in the form requested by the Respondent was provided by STB for its 1990 taxation year (Tab 1).
+
+1.9 On or about November 2, 1994, STB filed a Waiver in the form requested by the Respondents for its 1991 taxation year (Tab 2).
+
+1.10 On May 13, 1996, Notices of Reassessment were issued to STB for its 1990 and 1991 taxation years (Tab 3) regarding the Newport losses.
+
+1.11 On August 2, 1996, a Notice of Objection was filed in connection with the May 13, 1996, reassessment of STB'S 1990 and 1991 taxation years (Tab 4).
+
+1.12 On November 12, 1996, Notices of Revocation of the Waivers were filed in connection with STB's 1990 and 1991 taxation years (Tab 5).
+
+1.13 On April 14, 2000, the May 13, 1996 Notices of Reassessment for STB's 1990 and 1991 taxation years were confirmed by way of a Notice of Confirmation which, inter alia, confirms the basis upon which the Minister reassessed (Tab 6).
+
+...
+
+1.16 No other Notices of Assessment or Notices of Reassessment are relevant to the questions of law posed under the Rule 58 Motion. No additional assessments or determinations have been made by the Minister with respect to the STB's 1990 or 1991 taxation years.
+
+[4] I have not included the Tabs, but the key points to note in that regard are that the Waivers (Tab 1 and Tab 2) refer to Part XVI (GAAR), the Notices of Reassessment (Tab 3) make no reference to GAAR and the Notice of Confirmation (Tab 6) does refer to the application of GAAR.
+
+[5] Both questions of law posed in this Rule 58 application are answered by an interpretation of subsection 245(7) of the Act. It reads as follows:
+
+Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+
+[6] This section cannot be viewed in isolation but must be put in context, so I repeat subsection 245(7) now wedged appropriately between subsections 245(6) and (8):
+
+(6) Where with respect to a transaction
+
+(a) a notice of assessment, reassessment or additional assessment involving the application of subsection (2) with respect to the transaction has been sent to a person, or
+
+(b) a notice of determination pursuant to subsection 152(1.11) has been sent to a person with respect to the transaction,
+
+any person (other than a person referred to in paragraph (a) or (b)) shall be entitled, within 180 days after the day of mailing of the notice, to request in writing that the Minister make an assessment, reassessment or additional assessment applying subsection (2) or make a determination applying subsection 152(1.11) with respect to that transaction.
+
+(7) Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+
+(8) Upon receipt of a request by a person under subsection (6), the Minister shall, with all due dispatch, consider the request and, notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6).
+
+Applicant's Argument
+
+[7] The Applicant's suggested interpretation of subsection 245(7) is that, firstly, it requires that any assessment involving the application of the GAAR must clearly indicate on the face of the notice of assessment that GAAR is being applied; secondly, that this subsection precludes the use of section 245 as an alternative assessing position.
+
+[8] The Applicant prefaced his interpretation of subsection 245(7) with the comment that the GAAR provisions are extraordinary provisions to invoke policy to override words Parliament has used. The taxpayer must be in a position in a self-assessing system to know with some considerable confidence when such provisions are being relied upon and how they are being relied upon. The carefully framed GAAR provisions impose therefore a heavy duty on the Minister to make it absolutely clear at the assessment stage that GAAR is involved. The Applicant contended that subsection 245(7) is a two step process; firstly, GAAR must be applied and secondly, the tax consequences must be determined through a "notice of reassessment involving the application of section 245". Subsection 245(7) provides that the notice involving the application of GAAR can only be issued "following the application" of GAAR. Upon questioning on this point, the Applicant's counsel suggested that the "application" of GAAR is the Minister's contemplation of invoking GAAR prior to the assessment. I believe this is where the Applicant's argument breaks down, but I will return to that point in my analysis.
+
+[9] The Applicant pointed specifically to the concluding words of subsection 245(7), "involving the application of this section" and maintained that such words would be superfluous if the GAAR assessment did not need to refer to section 245 on its face. The Applicant acknowledged that subsection 245(7) certainly comes into play following a subsection 245(6) request from a third party, asking the Minister to make consequential adjustments, however the Applicant did not limit subsection 245(7) to such an application. He relied on Associate Chief Judge Bowman's words in John N. Gregory v. Her Majesty The Queen, [2000] T.C.J. No. 158 as supporting a general application of subsection 245(7). Bowman, A.C.J. indicated at paragraph 3:
+
+... It is agreed between the parties that GAAR was applied at the assessment level and the tax consequences were determined through a notice of reassessment. I specifically raised this point with counsel because it is clear, in light of subsection 245(7), that unless GAAR is applied through an assessment it cannot be used in an appeal to this court to justify an assessment that was made without its application.
+
+[10] The Applicant relied on the third party process of subsections 245(6), (7) and (8) to support the argument that the mention of the application of GAAR is required on the face of the notice of assessment or reassessment. How else, argued the Applicant, does a third party even know that GAAR might ultimately have some impact on his or her tax position, justifying a subsection 245(6) request from the third party. Is the counsel or the Applicant under some fiduciary obligation to notify the third party of a notice of assessment? How is that obligation met if the notice does not state GAAR is involved? Counsel may have a client who would benefit from making a subsection 245(6) request, yet counsel may be unaware of the necessity to advise the client.
+
+[11] With respect to his position that subsection 245(7) precludes the Minister relying on GAAR as an alternative assessing basis, the Applicant argued as follows: GAAR only applies when a taxpayer has complied with the letter of the applicable provisions of the Act; in effect there can then only be that one basis of assessment. The Minister must chose between an assessment based on non-compliance with specific provisions of the Act or based on compliance with the Act but afoul of GAAR. The Applicant contended that GAAR is too difficult a provision to be dealt with in the alternative. He also indicated that if GAAR could be raised in the alternative, this would have the effect of making subsection 245(6) inoperative, as time, in many cases, may have run out before a third party is even aware GAAR has been raised. Finally, the Applicant maintained that relying on GAAR in this particular situation, in an alternative assessing position, produces a different numerical result, which is impermissible.
+
+Respondent's Position
+
+[12] Regarding the general application of subsection 245(7) to all taxpayers as opposed to a more limited application the Respondent argued that this subsection was limited to a third party application. The reasons were as follows:
+
+The Respondent submitted that neither the wording, the context nor the purpose of subsection 245(7) supports the interpretation proposed by the Applicant. Further, the interpretation of subsection 245(7) by the Applicant, the Respondent maintained is contrary to other provisions of the Act and goes against established law with respect to notice requirements, and the ability of the Minister to use alternative basis for assessing a taxpayer. The Respondent directed me to the context of subsection 245(7). Subsections 245(6), (7) and (8) are a recognition by the drafters that an assessment under GAAR may affect third parties. The determination involved in reassessing a taxpayer may have a favourable or adverse impact on those third parties. The enacting of provisions to provide relief to third parties was recognized in the 1987 Tax Reform supplementary information accompanying the release of draft section 245:
+
+Generally, the rule as proposed in the white Paper provided that an avoidance transaction, as defined, would be ignored for tax purposes and that the tax situation of a taxpayer would then be determined as is reasonable in the circumstances. The definition of an avoidance transaction introduced as statutory concepts the business purpose test and a step transaction doctrine. Special provisions were included to allow third parties affected by an avoidance transaction to request adjustments of relieving nature.
+
+[13] Subsection 245(6) provides third party taxpayers with a means to request that the Minister assess them with respect to the transaction that gave rise to the GAAR assessment against the original taxpayer, whose tax benefits were denied by the application of the GAAR. Subsection 245(8) then imposes on the Minister a requirement that he consider the request under subsection 245(6) and assess or reassess the third party. Subsection 245(7) is found sandwiched between these two provisions, both of which deal with third party adjustments. Its juxtaposition in between subsection (6) and (8) imply that it too is concerned with third party adjustments.
+
+[14] The presence of the phrase "following the application of this section" in subsection 245(7) is consistent with it being meant to deal with third party adjustments, since it implies section 245 has already been applied (to the taxpayer who was denied a tax benefit under subsection 245(2)).
+
+[15] A technical note to subsection 245(7) confirms that it is meant to address the situation of third party adjustments. It reads as follows:
+
+New subsection 245(7) of the Act provides that a person may not rely on subsection 245(2) in order to determine his income, taxable income, or taxable income earned in Canada of, tax or other amount payable by, or amount refundable to, any person under the Act as well as any other amount under the Act which is relevant for the purposes of the computation of the foregoing, except through a request for adjustment under subsection 245(6). This prevents a person from using the provisions of subsection 245(2) in order to adjust his income, or any of the above-mentioned amounts without requesting that adjustment following the procedures set out in subsection 245(6).
+
+[16] With respect to the issue of the requirement of a statement on the face of the notice of assessment invoking GAAR, the Respondent rejected such a position as neither the wording, context, nor purpose of subsection 245(7) has anything to do with such a requirement. It would require clear language to impose such a requirement.
+
+[17] The Respondent argued that the mere failure to mention a provision of the Act in a notice of assessment does not invalidate an otherwise valid notice of assessment, as an assessment is made under the Act as a whole. Also, he contended that there is no requirement that the Minister must give the particulars of any assessment or reassessment. Further, any defect in notification to the taxpayer can be cured at the notice of confirmation stage (see Raymond Kirby and the Estate of Daniel Lee v. Minister of National Revenue, 91 2 C.T.C. 2639.)
+
+[18] The Respondent concluded his argument with respect to the first question by referring to the case of Michelin Tires (Canada) Ltd. v. Minister of National Revenue, [1995] G.S.T.C. 17. Section 274 of the Excise Tax Act is a General Anti-Avoidance Rule identical to that in section 245 of the Act. This case determined that the equivalent provision, being subsection 274(7) of the Excise Tax Act, does not impose any notice requirement different from that imposed on the Minister to inform a taxpayer of the reasons for the reassessment utilizing any other section of the Excise Tax Act.
+
+[19] Finally, the Respondent rejected any notion that subsection 245(7) restricts the use of section 245 to a primary assessing position. The Respondent relied on the case of Louis Riendeau v. Her Majesty The Queen, 91 D.T.C. 5416 for the proposition that the question in a tax appeal is the amount of tax, not the correctness of reasons given for the assessment, and liability is not affected by an incorrect or incomplete assessment.
+
+[20] The charging section of GAAR (subsection 245(2)) contains no wording limiting the application to a primary assessing position, and by its very nature GAAR is to only apply once it has been determined the transactions otherwise comply to the other provisions of the Act. The Respondent indicates that this Court has acknowledged that GAAR can be used in the alternative citing A.C.J. Bowman's comments in the Gregory case in support:
+
+It is not necessary for the purposes of the present motion that I set out the facts pleaded by the parties leading up to the claim of loss. It is sufficient to say that the Minister of National Revenue denied the loss. In the reply to the amended notice of appeal a number of alternative assumptions are pleaded in justification of the Minister's denial of the loss. After all of the other alternative bases for denying the losses were pleaded, the Minister pleaded that in the alternative he assumed that the transaction was an avoidance transaction within the meaning of section 245 of the Income Tax Act, the so-called General Anti-Avoidance Rule ("GAAR"). It is agreed between the parties that GAAR was applied at the assessment level and the tax consequences were determined through a notice of reassessment. ...
+
+[21] Further it was pointed out that in all but two of the decided cases dealing with GAAR, GAAR was used as an alternative assessing position.
+
+[22] Although not applicable to the year under appeal, the Respondent referred to subsection 152(9) introduced in June 1999 permitting alternative arguments at any time after the normal reassessment period.
+
+[23] Finally, the Respondent alleged there is no difference in the amount disallowed in this appeal under the alternative assessing positions.
+
+Analysis
+
+[24] I will deal first with the interpretation to be put upon subsection 245(7) generally before specifically answering the two questions at issue. GAAR is an assessing tool in the Minister's box of tools: it is not a planning tool for the taxpayer. Unlike the rest of the Act, which a taxpayer relies upon in a self-assessed taxation system, GAAR is simply not available to be relied upon or initiated by a taxpayer except in the circumstances outlined in subsections 245(6), (7) and (8). This is not because of the wording of subsection 245(7): it is because of the very nature of the policy of GAAR. These are anti-avoidance provisions: they are not entitled "Tax Planning Measures". They are indeed, as the Applicant suggested, exceptional measures; but they are measures given to the Minister to invoke, not broad hurdles for the Minister to overcome.
+
+[25] It is difficult to imagine a taxpayer arranging a transaction for a particular intended effect and then filing on the basis that GAAR is applicable to result in consequences different from what was intended. The only situation where that could possibly arise is where the Minister has assessed a transaction involving GAAR and now a taxpayer wishes to take advantage of that application of GAAR as it applies to his own situation. This is where I believe subsection 245(7) comes into play. Subsection 245(7) states such a taxpayer cannot so self-assess; and, further restricting the taxpayer, subsections 245(6), (7), and (8) together limit possible relief to only those taxpayers who were impacted by the prior GAAR application as it pertained to the very same transaction in which they were involved.
+
+[26] I read subsection 245(7) as a directive to the taxpayer rather than a procedural requirement for the Minister. The only way a taxpayer can initiate the application of GAAR following a prior application of GAAR is through a subsection 245(6) request. Subsection 245(7) stipulates that tax consequences to such a taxpayer shall only be determined through a notice of assessment (i.e. by the institution of the Minister) involving GAAR. Only a taxpayer involved in the same transaction as already GAAR-assessed can, within a limited time period, request an adjustment. The Minister must respond with all due dispatch to such a request with an assessment.
+
+[27] Interpreted as just outlined, subsections 245(6), (7) and (8) are relatively clear. Clear language should govern. Only when one attempts to dissect these provisions do the words transform into a disconnected puzzle. When provisions are clear and unambiguous it is suggested by some that it is unnecessary to delve into the more exhaustive application of principles of legal interpretation necessary to resolve ambiguity. So why descend into that analysis? Because, notwithstanding my initial position that the sections are indeed clear and are to be interpreted to apply as just outlined, learned counsel for the Applicant most ably argued for a broader interpretation of these sections. In so doing he has relied on statements from this Court, specifically in the Gregory[1] case and on statements in the Michelin Tires (Canada) Ltd. case, that might provide some support. I am satisfied that a different interpretation has some merit and there exists some ambiguity. It is therefore necessary to conduct a more detailed analysis following the principles of statutory interpretation as summarized in the most recent case of Ludco Enterprises Ltd, Brian Ludmer, David Ludmer and Cindy Ludmer v. Her Majesty The Queen, 2001 S.C.C. 62 as follows:
+
+36 The modern rule of statutory interpretation was put succinctly by E.A. Driedger in Construction of Statutes (2nd ed., 1983), at p. 87:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament... .
+
+37 This passage from Driedger "best encapsulates" the preferred approach to statutory interpretation: Rizzo & Rizzo Shoes (Re), [1998] 1 S.C.R. 27, at paras. 21 and 23. This is the case for the interpretation of any statute, and it is noteworthy that Driedger's famous passage has been cited with approval by our Court on numerous occasions both in the non-tax and in the tax context: ...
+
+
+
+38 Furthermore, when interpreting the Income Tax Act courts must be mindful of their role as distinct from that of Parliament. In the absence of clear statutory language, judicial innovation is undesirable: Royal Bank of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411, at para. 112. Rather, the promulgation of new rules of tax law must be left to Parliament: Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, at para. 41. As McLachlin J. (now C.J.) recently explained in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 43:
+
+The Act is a complex statute through which Parliament seeks to balance a myriad of principles. This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention... . Finding unexpressed legislative intentions under the guise of purposive interpretation runs the risk of upsetting the balance Parliament has attempted to strike in the Act. [Citations omitted.]
+
+[28] It appears that finding provisions are clear is perhaps not sufficient to meet the standard of statutory interpretation. For this reason, and for the reasons already given, I shall consider the modern approach to statutory interpretation which requires a review of the grammatical and ordinary meaning, the context and the legislative purpose of the provisions.
+
+[29] First, to further flush out the ordinary meaning of subsection 245(7) it is necessary to describe the different interpretations put upon the phrases "following the application of this section" and "involving the application of this section". Does the ordinary meaning of "following the application of this section" suggest the GAAR provisions have already been applied? What is meant by "applied"? The Applicant argues that "application" means just the process of contemplation by the Minister and discussion with the taxpayer prior to assessment. I fail to see how such musing and communications constitute application. The Minister may consider GAAR, may talk to the taxpayer about GAAR and then may determine not to apply GAAR. This cannot in the ordinary sense be considered the application of the section. The section, as indicated previously, is an assessing tool for the Minister; it follows that an application of the section is only complete upon assessment. That being the case, "following the application" on an ordinary construction means following an assessment involving GAAR. Tax consequences to any person, following the application of this section, must then necessarily refer to tax consequences other than those in the original application of GAAR; it must refer to a subsequent application. It precludes a taxpayer from self-assessing by applying GAAR.
+
+[30] The concluding words of subsection 245(7), "involving the application of this section" are presumably added to provide some clarity, but I have difficulty in fully appreciating the essence of the clarification. A subsequent notice of assessment by the Minister must "involve" GAAR. It seems trite to say any GAAR assessment must involve GAAR. Yet without these concluding words, is the Minister free to issue a subsequent notice of assessment pursuant to a subsection 245(6) request against a taxpayer without involving GAAR? By attempting to make these words directory in this manner they become somewhat nonsensical. I therefore look to those words not in any way as directory to the Minister, but simply as descriptive.
+
+[31] If you strip subsection 245(7) of some peripheral wording it simply reads: "The tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment involving the application of this section." This is not a lengthy statement, yet it becomes a Gordian Knot on dissection for the purposes of determining its ordinary meaning. I conclude it is an extraordinary provision lacking ordinary meaning, unless you cut the Gordian Knot and view the last phrase as descriptive only of the notice of assessment arising from a subsection 245(6) request. Then some order is restored to the ordinary meaning. On this basis I conclude subsection 245(7) is only to be interpreted as denying taxpayers the right to self-assess relying on a previous application of GAAR.
+
+[32] The Applicant's interpretation is that subsection 245(7) is not just to preclude a taxpayer from self-assessing based on a prior application of GAAR, but is also intended to apply to every GAAR assessment, requiring the Minister to "involve" GAAR in the notice of assessment by specific written reference thereto. If I accepted such an interpretation I would be construing the words "following the application" to mean "in the application"; in other words, as part of the application. The words just do not say that.
+
+[33] The conundrum presented by the drafting is whether the section is meant to apply to every application of GAAR in the sense of being a procedural requirement of the Minister, or is meant to be a direction to taxpayers that they cannot self-assess relying on a prior application of GAAR (subject only to the third party relief available through subsection 245(6)). The difficulty in the Applicant's approach to stretch the ordinary meaning of the words to impose a procedural requirement on the Minister to refer to GAAR expressly in the Notice, is to move this section away from a direction to the taxpayer to a direction to the Minister. This ignores the entire context of the GAAR being an assessing tool for the Minister. I will now turn to the question of context.
+
+[34] As night follows day, subsection (7) falls between subsection (6) and subsection (8). While I can fall into the trap, and do, of referring dramatically to subsection (7) being wedged or sandwiched between subsections (6) and (8), the placement is significant. The GAAR provisions are exceptional in the context of a self-assessed tax system, as they put the taxpayer on notice that notwithstanding your best laid plans, technically compliant with all other provisions of the Act, you may be subjected to additional tax by the imposition of these rules. And while you can twist and turn and squeeze into compliance with other provisions, you cannot use the GAAR to self-assess. The only exception where a taxpayer initiated use of GAAR is acceptable is explicitly set forth in subsection 245(6): if GAAR has been applied to a transaction in which you were involved, and as a consequence you wish to be assessed or reassessed, you must make a request pursuant to subsection 245(6). The Minister must respond to that request with all due dispatch pursuant to subsection 245(8). You cannot simply self-assess relying on a prior application of GAAR (subsection 245(7)). These three subsections work together. Without subsection 245(7), while it might still be open to make a request, it would not preclude the taxpayer from simply self-assessing. This is indeed, as the heading of subsection 245(7) suggests, an exception to a fundamental of the Canadian tax system, that of self-assessment.
+
+[35] Finally, to complete the statutory interpretation analysis of subsection 245(7) I look at the legislative purpose. While I recognize that technical notes are for information purposes only, I do refer to the technical note to subsection 245(7) which confirms a third party application only. This technical note is referred to earlier in paragraph 15 of these Reasons. There is no suggestion that the section is a direction to the Minister: it is directed to the taxpayer. I find that the words do extend the coverage of subsection 245(7) beyond just a third party involved in the same transaction as the one GAAR-assessed, to preclude even the originally GAAR-assessed taxpayer from self-assessing in reliance upon the original GAAR assessment of the same transaction.
+
+[36] In introducing these extraordinary measures the explanatory notes to Bill C-139 also were of some help and they are referred to in paragraph 12 hereof.
+
+[37] It is interesting to note that subsection 245(6) refers specifically to a notice of assessment "involving the application of subsection (2)": subsection 245(7) refers to a notice of assessment "involving the application of this section". Surely, had the legislation intended to restrict the Minister's invoking of subsection 245(2) in such a significant procedural manner as the Applicant contends, they would have specifically addressed the application of subsection 245(2). The fact they did not do so in subsection 245(7) suggests no intention that this particular subsection is a general limitation of subsection 245(2). Subsection 245(7) does not say that. It can only be read to apply as a direction to taxpayers that they cannot self-assess relying on a prior application of GAAR. The general scheme of the Act is a two-step process; a self-assessment followed by a government assessment. Subsection 245(7) departs from that scheme and limits the process to just the latter step. Any notice of assessment arising from a subsection 245(6) request must "involve" GAAR.
+
+[38] Having found that subsection 245(7)'s application is limited as directory to the taxpayer, how does that assist in answering the first question? Must the Minister indicate on the face of any assessment involving GAAR that GAAR is being applied? No, there is no procedural requirement contained in subsection 245(7) to that extent. If the assessment arises as a result of a subsection 245(6) request, I cannot conceive of why the Minister would not state in the notice its reliance on GAAR, as that was the very essence of the request for the assessment. While I find there is no requirement to do so, the Minister should be able to prove that GAAR was involved at the time of the notice. I stress this is only in relation to a notice issued as a result of a subsection 245(6) request.
+
+[39] The Applicant's argument was based on the wording of subsection 245(7) and specifically the phrase "involving the application of this section". Given my interpretation of subsection 245(7) as a direction to taxpayers, the Applicant's argument in this regard is limited to an assessment arising from a subsection 245(6) request. I do not find "involve" to mean expressly "stated in writing", as the Applicant suggested. "Involve" in the Canadian Oxford Dictionary is defined as "imply" or "entail", neither of which connotes any form of written requirement. "Involve" does not suggest any form of communication from one to another.
+
+[40] The Applicant also relied upon subsections 245(6), (7) and (8) in addressing how the Minister must make an initial subsection 245(2) assessment. Subsection 245(6) allows 180 days from the day of mailing an assessment for a third party to request his own assessment in connection with a transaction to which the Minister has applied GAAR. How does the third party know a notice has been mailed, and further how does a third party know the notice is one "involving the application of subsection 245(2)": the notice was not mailed to the third party. Presuming the third party is so intimately involved in the transaction to which the notice relates, that he becomes aware of the notice, how does he know that GAAR is "involved" if the notice is silent. The Applicant also expressed concerns that counsel for a taxpayer may run the risk of breaking a fiduciary obligation to a third party client, if the third party is not notified. These concerns do highlight the imperfections in the section. From a practical perspective, a third party involved in the very transaction to which the Minister has applied GAAR is most likely to be aware that the transaction is under attack, albeit through the assessment of another taxpayer involved in the transaction. In many cases it would be probable the third party and assessed taxpayer were not dealing at arms length. However, this does not deny the possibility of an unrelated third party being out of the loop regarding the GAAR-assessed transaction.
+
+[41] Is a requirement for explicit wording on the face of the assessment implied because of these concerns? I think not. If the notice of assessment is silent, there exists two possible scenarios: GAAR is not involved or it is involved. If it is not involved then none of the concerns mentioned surface. If it is involved then either the assessed taxpayer knows it is involved or does not know it is involved. If the taxpayer knows it is involved he, or perhaps his counsel, has a decision to make as to whether to notify a third party. This would be the same position for the taxpayer had the notice indicated explicitly that GAAR was being applied.
+
+[42] What if the taxpayer does not know GAAR is involved, which I would think would be an exceptional, though not impossible, situation. There follow then two situations where this might arise. First, if the Minister is applying GAAR though simply has not informed the taxpayer and second, if the Minister, at the notice of assessment stage, has not yet determined to apply GAAR. This second scenario is more likely. However, in such a case it cannot be argued that the assessment must state on its face that GAAR is being applied, as it is unknown at that point in time that GAAR is in fact being applied. This raises the problem of the taxpayer not being able to avail himself of subsection 245(6), which I will address shortly. Ultimately, the only argument to support a position that subsections 245(6), (7) and (8) imply a requirement of a written statement in the notice is that it would avoid the situation where the Minister is applying GAAR and just has not told the Applicant. While I believe such a case would be rare, that is in fact a suggestion put forth by the Applicant in the case before me. I am satisfied GAAR had been an issue between the Applicant and the department prior to the assessment (see for example the waivers which refer to part XVI). The Applicant suggested that by not mentioning GAAR in the assessment, the Applicant was led to believe that GAAR was off the table. I am not convinced the Applicant was blind to the application of GAAR. The Applicant was certainly disabused of the notion GAAR was not applying by the express wording of the Notification of Confirmation, which made it clear to the Applicant that GAAR was indeed being applied.
+
+[43] This does raise a legitimate concern of how, in the limited scenario just described, a third party is able to avail himself of the recourse provided in subsection 245(6). If the Applicant was not aware that the assessment involved GAAR until long after the 180 day period referred to in subsection 245(6) had expired, is a third party out of luck? While there is provision for an extension of the 180 day period by an additional year, the problem might still remain and indeed the third party may inadvertently forfeit his opportunity for relief. The Applicant's answer is that one can only avoid this dilemma if the notice states explicitly that GAAR is being applied. But this does not overcome the dilemma in the situation where the third party is simply not advised of the notice even if it does refer to GAAR.
+
+[44] Even if one considers the failure to involve GAAR at the notice of assessment stage an omission, this does not invalidate the assessment. I refer to subsection 152(8) which reads:
+
+152(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission therein or in any proceeding under this Act relating thereto.
+
+Also, as Judge Dussault indicated in Mujoca Inc. v. Her Majesty The Queen, 98 D.T.C. 1130 at paragraph 15:
+
+I do not think that the mere failure to mention a provision of the Act in a notice of assessment makes an otherwise valid assessment invalid, especially where the notice clearly states the nature of the tax liability and there is no possibility of confusion. ...
+
+Similarly, A.C.J. Bowman pointed out in RMM Canadian Enterprises Inc. v. Her Majesty The Queen, 97 D.T.C. 302 that reference to particular provisions in an assessment is more a matter of convenience, but
+
+... this does no more than indicate the statutory provision under which the assumed liability arises. The assessment itself is made under the Act as a whole.
+
+Finally, in Louis Riendeau v. Her Majesty The Queen, 91 D.T.C. 5416 Justice Stone stated:
+
+As the cases and statutory provisions which were cited by Cullen J. well show, liability for tax is created by the Income Tax Act, R.S.C. 1952, c. 148, not by a notice of assessment. A taxpayer's liability to pay tax is just the same whether a notice of assessment is mistaken or is never sent at all. ...
+
+In quoting Belle-Isle v. Minister of National Revenue, 63 DTC 347 Justice Stone stated:
+
+Where the above texts are concerned, it matters little under what section of the Act an assessment is made. What does matter is whether tax is due.
+
+[45] There is no prohibition generally against the Minister submitting statutory provisions in support of an assessment, which were not listed in the notice of assessment or reassessment.[2] There are three caveats that go along with this proposition:
+
+1. The Minister cannot substantively change the assessment, but only supply additional statutory basis to support the assessment; the amount of the taxpayer's liability cannot change.
+
+2. The taxpayer must be informed of this additional submission in a timely manner, not the eve of a trial and certainly not at the Appellate Court.
+
+3. The Crown has the onus of convincing the Court that the provisions of the Act newly relied upon support the assessment.
+
+[46] Unless I find the GAAR provisions themselves by implication, or by an interpretation of subsection 245(7), require reference in the notice of assessment to GAAR, I am satisfied that the rest of the Act and case law supports the right of the Minister to raise GAAR subsequent to the notice of assessment, subject to the caveats just mentioned.
+
+[47] I am not prepared to find that an imperfection in the machinations of the third party relief provisions in subsections 245(6), (7) and (8) is sufficient reason to override the established process for assessments. It is essential in reaching this conclusion that the Minister is in no way being given any authority to rely on GAAR subsequent to the notice of assessment for purposes of altering the tax liability. The Applicant suggested that in fact was the case here, in that the tax liability was different pursuant to the application of GAAR. I had insufficient evidence to rule on that, and indeed it is unnecessary for me to do so in answering the two questions of law in this application. That will be a matter for the trial judge.
+
+[48] Finally, I refer to the case of Michelin Tires (Canada) Ltd. a decision of the Canadian International Trade Tribunal, affirmed by the Federal Court, and in particular the following passage:
+
+Counsel for the appellant argued that the situation with respect to the GAAR is different and that, under subsec. 274(7) of the Act, there is a legislated obligation on the Minister to inform the taxpayer at the time of the assessment or reassessment (or under subsec. 68.2(2) of the Act at the time of the determination or re-determination) that he is applying the GAAR. The Tribunal is not persuaded that subsec. 274(7) of the Act creates an obligation on the Minister that is any different from his normal obligation to inform the taxpayer of the reason why an application for refund is being rejected. Subsec. 274(7) of the Act simply indicates that, if the GAAR is to be applied, it must be done by means of a notice of assessment, reassessment, determination or re-determination. In the Tribunal's view, this obligation is no different from the obligation to determine tax liability through such means under other sections of the Act. ...[3]
+
+[49] Counsel for the Applicant asked me to discount the significance of this case as the notice of determination (equivalent to a notice of assessment) was issued prior to the legislation being amended making section 274 applicable to the subject matter of that particular assessment. The Minister would not have known to have referred to GAAR. While I have reached the same conclusion as the Michelin Tires (Canada) Ltd. case, I have done so by a different route. The Michelin case appears to suggest a general application of subsection 274(7) to every assessment, a position with which I disagree for the reasons given. I do not rely on this case in support of my finding that the answer to the first question is no.
+
+[50] With respect to question two, how does my interpretation of subsection 245(7) impact on the answer to this issue? Interpreting subsection 245(7) as I have, I find this subsection has no relevance whatever to the second question. There is no choice for the Minister to make - there is simply no either or decision. I agree with the Respondent that by its very nature GAAR is an alternative assessing tool. Again I refer to Justice Stone's words as quoted earlier in the Riendeau case.
+
+[51] I recognize that subsection 245(6) can become inoperative in limited situations where GAAR is used in the alternative. For example, where the Minister does not raise GAAR until after the notice of assessment. It is for Parliament to recognize this consequence and amend if deemed necessary. It is not for me to construe the legislation contrary to its plain meaning, context and purpose to rectify Parliament's legislative oversight, if indeed this is even to be considered an oversight.
+
+[52] The Applicant argued that relying on GAAR in the alternative produces a different numeric result. As stated previously, this does not lead to the conclusion that the Act demands GAAR be precluded from an alternative assessing position. It does though require the trial judge to determine if the alternative assessing position taken by the Respondent does in fact lead to the same tax liability.
+
+[53] In summary, I do not agree with the Applicant's broad interpretation of subsection 245(7) stretching the application to a procedural requirement in every GAAR assessment. I find it is a direction to taxpayers that they cannot rely on a previous application of the GAAR provisions in self-assessing with respect to the same transaction. Following this interpretation, I find nothing in subsection 245(7) that requires reference to section 245 be made on the face of a notice of assessment or reassessment nor that precludes an alternative assessing position. I answer no to each of the questions posed in the application. Costs of this application shall be in the cause.
+
+Signed at Ottawa, Canada this 20th day of December, 2001.
+
+"Campbell J. Miller"
+
+J.T.C.C
+
+.COURT FILE NO.: 2000-3248(IT)G
+
+STYLE OF CAUSE: S.T.B. Holdings Ltd. v. The Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: November 23, 2001
+
+REASONS FOR ORDER BY: The Honourable Judge Campbell J. Miller
+
+DATE OF REASONS: December 20, 2001
+
+APPEARANCES:
+
+Counsel for the Applicant: Gordon S. Funt
+
+Counsel for the Respondent: Robert Carvalho
+
+COUNSEL OF RECORD:
+
+For the Applicant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-3248(IT)G
+
+BETWEEN:
+
+S.T.B. HOLDINGS LTD.,
+
+Applicant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Application heard on November 23, 2001 at Vancouver, British Columbia
+
+by the Honourable Judge Campbell J. Miller
+
+Appearances
+
+Counsel for the Applicant: Gordon S. Funt
+
+Counsel for the Respondent: Robert Carvalho
+
+ORDER
+
+Upon application by the Applicant to the Court for a determination of a matter of law pursuant to Rule 58(1)(a) of the Tax Court of Canada Rules (General Procedure), for the reasons contained in the attached Reasons for Order:
+
+(a) Subsection 245(7) of the Income Tax Act ("Act") does not require that a reference to section 245 and/or the "General Anti-Avoidance Rule" ("GAAR") be made on the face of a notice of assessment or reassessment in order for section 245 to be relied on by the Minister; and
+
+
+
+(b) Subsection 245(7) of the Act does not preclude the use of section 245 as an alternative assessing position.
+
+Signed at Ottawa, Canada this 20th day of December, 2001.
+
+"Campbell J. Miller"
+
+J.T.C.C.
+
+[1] The Gregory decision was reversed on appeal but nothing to do with the comments relied upon by counsel in this matter.
+
+[2] For a good capsulization of these principles see Judge Rip's comments in General Motors Acceptance Corp. of Canada v. Her Majesty The Queen, [1999] T.C.J. No. 502.
+
+[3] Subsection 274(7) of the Excise Tax Act is identical to subsection 245(7) of the Income Tax Act
+

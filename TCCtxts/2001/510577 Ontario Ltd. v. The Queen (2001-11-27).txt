@@ -1,0 +1,182 @@
+Date: 20011127
+
+Docket: 2001-885-GST-I
+
+BETWEEN:
+
+510577 ONTARIO LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Beaubier, J.T.C.C.
+
+[1] This appeal pursuant to the Informal Procedure was heard at Sudbury, Ontario on November 21, 2001. The Appellant called its chief officer and shareholder, Gilles Courtemanche, to testify. The Respondent called its auditor on the file, Terry Labrick, to testify.
+
+[2] Paragraphs 5 to 10 inclusive of the Reply to the Notice of Appeal read:
+
+5. The Appellant filed a quarterly Goods and Services Tax return for the period of February 1, 1999 to April 30, 1999 on June 24, 1999.
+
+6. By Notice of Assessment dated March 27, 2000, the Minister of National Revenue (the "Minister") notified the Appellant that the Input Tax Credit in the amount of $5,965 has been disallowed.
+
+7. By Notice of Decision dated December 19, 2000, the Minister confirmed the assessment.
+
+8. In so assessing the Appellant, the Minister made the following assumptions of fact:
+
+a) the Appellant was a registrant under Part IX of the Excise Tax Act (the "Act") effective January 1, 1991;
+
+b) during the period under appeal, the Appellant operated a business of windshield repairs;
+
+c) the Appellant claimed, among other things, an Input Tax Credit in the amount of $5,965 for the excess of GST charged on the insurance deductibles;
+
+d) The Appellant claimed the Input Tax Credit as shown by the following example:
+
+Total labour & parts $ 260.00
+
+Provincial Sales Tax 20.80
+
+Goods & Services Tax
+
+(collected & remitted) 18.20
+
+Sub-total 299.00
+
+Less deductible (not collected) 100.00
+
+Amount paid by the insurance companies $ 199.00
+
+The Appellant claimed 7% of the deductible that was never collected from the clients;
+
+e) the Appellant waived part of all of the deductibles;
+
+f) the Appellant charged 100% of the GST to the insurance companies; and
+
+g) the Appellant did not refund or credit the insurance companies for the excess GST charged.
+
+B. ISSUE TO BE DECIDED
+
+9. The issue is whether the Appellant is entitled to deduct an amount of $5,965 in determining the net tax for the portion of GST on the insurance deductibles that was uncollected by the Appellant.
+
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+
+
+
+10. He relies on section 232 of the Act as amended.
+
+[3] None of the assumptions were refuted by the evidence.
+
+[4] Gilles Courtemanche testified that when a customer came to the Appellant for a new windshield he received an immediate estimate which contained the price of the installed windshield, the goods and services tax ("GST") and the provincial sales tax ("PST"), all itemized. Thereupon the customer told the Appellant the name of his insurance company and the amount of the deductible. The Appellant then wrote a discount for the amount of the deductible and collected the remainder of the estimate, including all of the estimated taxes, from the insurer. When the Appellant received the money from the insurer it paid all of the GST and the PST received to the respective governments. After paying all of these taxes for a number of years, the Appellant applied for input tax credits of the excess taxes paid on the discounted deductible amount (in the example, $7. equalling 7% of the $100. deductible). In total, this amounted to $5,965.
+
+[5] In particular, the example described in assumptions 8 d), e) and f) were confirmed, exactly, by Exhibits R-1 and R-2. The Appellant discounted the $100. to its customer at the time of the estimate. But it did not refund or credit the $7. GST to anyone. Instead it billed the entire balance of $199. to the insurance company and then paid the entire $18.20 GST to the Respondent, including the $7. GST on the discounted $100.
+
+[6] Section 232 of the Excise Tax Act reads:
+
+232. (1) Where a particular person has charged to, or collected from, another person an amount as or on account of tax under Division II in excess of the tax under that Division that was collectible by the particular person from the other person, the particular person may, within two years after the day the amount was so charged or collected,
+
+(a) where the excess amount was charged but not collected, adjust the amount of tax charged; and
+
+(b) where the excess amount was collected, refund or credit the excess amount to that other person.
+
+(2) Where a particular person has charged to, or collected from, another person tax under Division II calculated on the consideration or a part thereof for a supply and, for any reason, the consideration or part is subsequently reduced, the particular person may, in or within four years after the end of the reporting period of the particular person in which the consideration was so reduced,
+
+(a) where tax calculated on the consideration or part was charged but not collected, adjust the amount of tax charged by subtracting the portion of the tax that was calculated on the amount by which the consideration or part was so reduced; and
+
+(b) where the tax calculated on the consideration or part was collected, refund or credit to that other person the portion of the tax that was calculated on the amount by which the consideration or part was so reduced.
+
+(3) Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+
+(a) the particular person shall, within a reasonable time, issue to the other person a credit note, containing prescribed information, for the amount of the adjustment, refund or credit, unless the other person issues a debit note, containing prescribed information, for the amount;
+
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person; and
+
+(c) the amount shall be added in determining the net tax of the other person for the reporting period of the other person in which the debit note is issued to the particular person or the credit note is received by the other person, to the extent that the amount has been included in determining an input tax credit claimed by the other person in a return filed for the reporting period or a preceding reporting period of the other person.
+
+(4) This section does not apply in circumstances in which section 161 or 176 applies.
+
+[7] The premise of the GST is that GST collected by the Appellant is trust money. That is, the tax was paid by the Appellant's customer and the Appellant is only holding it in trust for the Government of Canada. Section 232 describes a situation where the Appellant collected excess tax in the previous years before June 24, 1999. That is what happened here.
+
+[8] On June 24, 1999 the Appellant claimed input tax credits of $5,965. consisting of the GST it collected from the insurance companies on the discounts which it had granted over the four years preceding April 30, 1999. The Respondent refused to pay the Appellant the $5,965. The Appellant appealed.
+
+[9] The Respondent's counsel referred the Court to subsection 232(3). The Appellant has not issued a credit note to its customer (or to the insurance company) for the GST overpaid on the discounted amount pursuant to subsection 232(3). Therefore, the Appellant is not entitled to an input tax credit in determining the net tax it must pay. (See also Gastown Actors' Studio Ltd. v. Canada [2000] F.C.J. No. 2047 (FCA) paragraph 10.)
+
+[10] The appeal is dismissed.
+
+Signed at Ottawa, Canada this 27th day of November, 2001.
+
+"D. W. Beaubier"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-885(GST)I
+
+STYLE OF CAUSE: 510577 Ontario Limited v. The Queen
+
+PLACE OF HEARING: Sudbury, Ontario
+
+DATE OF HEARING: November 21, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge D. W. Beaubier
+
+DATE OF JUDGMENT: November 27, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Gilles Courtemanche
+
+Counsel for the Respondent: Gabrielle St-Hillaire
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-885(GST)I
+
+BETWEEN:
+
+510577 ONTARIO LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on November 21, 2001 at Sudbury, Ontario
+
+by the Honourable Judge D. W. Beaubier
+
+Appearances
+
+Counsel for the Appellant: Gilles Courtemanche
+
+Counsel for the Respondent: Gabrielle St-Hillaire
+
+JUDGMENT
+
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated March 27, 2000 is dismissed in accordance with the terms of the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada this 27th day of November, 2001.
+
+"D. W. Beaubier"
+
+J.T.C.C.
+

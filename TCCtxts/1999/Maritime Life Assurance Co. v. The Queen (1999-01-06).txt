@@ -1,0 +1,178 @@
+Date: 19990104
+
+Docket: 95-3844-GST-G
+
+BETWEEN:
+
+THE MARITIME LIFE ASSURANCE COMPANY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on December 10 and 11, 1997 at Halifax, Nova Scotia, by the Honourable Judge E.A. Bowie
+
+Reasons for judgment
+
+BOWIE J.T.C.C.
+
+[1] This appeal is brought from a reassessment made under Part IX of the Excise Tax Act (the Act), which levies a tax on goods and services (the GST). The issue which the appeal raises is whether certain amounts, called investment administration fees (IAFs), were received by the Appellant in circumstances which attract the tax. The last reassessment was made on August 29, 1995, and is for the period between January 1, 1991 and December 31, 1993. The tax in question has since been paid, under protest, and this appeal will determine whether it is recoverable. There is no dispute about the computation of the tax; it is exigible in the amount assessed, or not at all.
+
+facts
+
+[2] The Appellant is a life insurance company. Its business consists of selling and servicing a varied menu of life insurance products, including a variety of annuity contracts designed to produce a retirement income for the policyholder at a specified future date. The contracts with which this appeal is concerned provide for the company to invest the premiums paid by the policyholder in one or more segregated funds (the funds). These funds are specified groups of properties which the Appellant holds in a variety of investment vehicles in respect of policies issued by it. Policyholders typically purchase retirement annuity policies on which they pay premiums to build up equity in the policy during their working lifetime. On maturity, this equity is used to provide annuity payments to them. Policyholders can elect to have their premiums invested in one or more specific funds, and the value of their policy, from time to time and at maturity, is governed by the value of the fund, or funds, in which it participates. The assets of the funds belong to the Appellant. The policyholder's right is to receive certain amounts from the Appellant, either by way of an annuity beginning on a preselected date, or at an earlier date by taking the surrender value of the policy.
+
+[3] During the relevant time period, the Appellant maintained seven separate funds, of which five are relevant to this appeal. The Growth Fund is invested primarily in Canadian equities chosen for their growth potential. The Bond Fund is comprised of bonds issued by Canadian corporations. The Balanced Fund consists of both equities and bonds. The Money Market Fund is invested in short term money market instruments. The Property Investment Fund is invested in mortgage loans. Policyholders may elect to participate in one, or in more than one, of these funds. Each fund consists at any given time of a certain number of units, and the value of the units is determined periodically by valuing all the assets in the fund, and dividing that total by the number of units outstanding. When a policyholder's premium is added to a fund, the amount of the premium is divided by the unit value of the fund to determine the number of additional units of that fund that are to be attributed to that policy. The value of each policy, therefore, fluctuates with the value of the assets held by the fund, or funds, in which it participates as a unit holder, and of course it increases as premiums are paid and units in the funds are assigned to it. These funds are similar in their operation to mutual funds, and in fact compete in the market-place with them.
+
+[4] In addition to the fund participation which I have described, the Appellant's deferred annuity policies generally offer a number of what may be called insurance features, either as part of the basic policy provisions, or as available options. These include a guaranteed minimum value at maturity, regardless of the fund value, which may be seen as insurance against a possible decline in the value of the fund assets, a guaranteed payment upon death of the insured prior to maturity, regardless of the policy value at the time of death, and the payment of bonuses, in the form of fund units, at specified anniversary dates, usually at five-year intervals after the fifteenth year.
+
+[5] Investment decisions for the funds, other than the Money Market Fund, are made in the following way. The Appellant formulates a broad outline of the investment philosophy of each fund. It then retains investment advisors to manage the fund assets within these guidelines, and to provide investment advice to the company. Each such advisor has a specific asset base to manage, and they make the investment decisions and place the trading orders to implement those decisions. The terms of their engagement provide that they shall furnish a quarterly economic analysis and monthly transaction summaries and portfolio listings to the Appellant. These managers have a very broad discretion as to the investment decisions they make. However, their contract requires them to comply with any specific directions given to them by the Appellant. Their remuneration is paid quarterly from the funds they manage. It is common ground that the service they provide is subject to GST, and that too is paid from the funds, as are the brokerage charges on the trades made by them.
+
+[6] The Money Market Fund is invested by employees of the Appellant working in its Investment Department. They make the investment decisions, and place the buy and sell orders to implement them. They are paid salaries, and of course no GST liability arises.
+
+[7] The Bank of Nova Scotia acts as banker for the funds, and as custodian of their securities. Each fund has one or more separate bank accounts, to which premiums for investment, the income from the securities in the fund, and the proceeds of sales of securities by the fund are all deposited, and from which payments to purchase securities, and all the other charges against the funds, are disbursed. Signing authority for these accounts lies with officers of the Appellant, but, in order to comply with regulatory requirements, the funds' assets must be kept separate from those of the company.
+
+[8] The Appellant's various policies make provision for it to charge several different fees. An investment administration fee (the IAF), an annual administration fee, a transfer fee, a flexible withdrawal fee, and a collection fee, are all variously provided for in the Financial Fitness Builder policy, a specimen of which was included in the exhibits at trial. It is the IAF with which this appeal is directly concerned. As to it, the policy says:
+
+An Investment Administration Fee is deducted from each segregated fund before the determination of the unit value. This fee is currently 1.75% of the proportionate market value of the particular segregated fund and is deducted on each Valuation Day at a rate of 1.75% divided by the number of Valuation Days in a calendar year. Currently this rate is .03365% per week. The Investment Administration Fee will never exceed 3% of the proportional market value of a segregated fund.
+
+The other policies that were entered in evidence have similar provisions in respect of the IAF. The other fees are of relatively small amount, and their contribution to the Appellant's revenues can be ignored for purposes of this appeal. The Appellant's revenue from deferred annuity policies is principally derived from the IAFs. The other major source of revenue is the spread on Guaranteed Income Certificate policies, which is the difference between the rate of interest which the Appellant can obtain as a lender in the market, and the rate which it pays to the holders of its Guaranteed Income Certificate policies.
+
+[9] Mr. Moffat, Director of Retail Finance of the Appellant, and Mr. Cotnam, the actuary responsible for fixing the IAFs to be charged, both gave evidence. Mr. Moffat has worked for the Appellant for some 30 years, and is fully conversant with its business. He said in evidence that the terms investment administration fee and investment management fee are used interchangeably by the Appellant, and that they are fees charged to the client, that is the policyholder, to cover such things as the commissions paid to the agents who bring in the business, the cost of marketing materials in relation to policies, the costs of issuing the policies, underwriting costs in connection with annuity contracts, and services to customers, which include such things as reports, advice, and changes to policies requested by policyholders. There is also a profit component in the IAF.
+
+[10] Mr. Moffat described the process by which the IAF is actually administered in this way. Each of the funds is valued at the end of every week by aggregating the value of all the assets of the fund as at the valuation date.[1] The annual fee is expressed as a percentage of the fund; in most policies it is 1½%, but it may be subject to increase by the Appellant. An amount, calculated by the formula 7/365 x 1½%[2] x the total fund value, is deducted from each fund and transferred to the Appellant's general account to pay the IAFs for the funds for the week. The remaining balance of each fund is then divided by the number of outstanding units to establish the unit value of the fund as at that date. There is no invoicing of the fund by the Appellant; the amount calculated is simply transferred by journal entries in the books of the Appellant, and in the records of the bank.
+
+[11] Mr. Cotnam, as an actuary, has the responsibility to examine the company's costs relating to new products, and to consider the amounts that must be charged as fees in order to make the product a profitable one. On the sale of policies based on Guaranteed Investment Certificate, the company covers its overhead and makes its profit on the spread between the interest rates it earns, and the rates which it pays to policyholders. On the segregated fund policies, it must cover its costs and make its profit from the various fees spelled out in the policies, but primarily the IAFs. He confirmed that those costs include commissions to agents, policy-issuing costs, policy-maintenance costs, valuation expenses for the funds, the cost of supervising the investment advisors, the cost of any insurance benefits (either life insurance or market insurance) provided by the terms of the policy, bonuses to be paid, and all of its other overhead expenses. These components are broken down in the documents called Outline of Policy Matrix which form part of Exhibit A-1.
+
+positions of the parties
+
+[12] By virtue of section 165, the charging provision, and of various definitions found in section 123, the Act imposes GST on the supply of services made in the course of business. Certain transactions are exempted from taxation, among them the supply of a financial service,[3] an expression which is defined in section 123(1), and which includes the issuing of an insurance policy.
+
+[13] Section 131 reads as follows:
+
+131 For the purposes of this Part, a segregated fund of an insurer shall be deemed to be a trust that is a separate person from the insurer and that does not deal at arm's length with the insurer and
+
+(a) the insurer shall be deemed to be a trustee of that trust; and
+
+(b) the activities of the segregated fund shall be deemed to be activities of the trust and not activities of the insurer.
+
+For purposes of the imposition of the tax, this provision makes each of the segregated funds a person separate from the Appellant, with the result that the supply of a service by the Appellant to any of the funds is a supply of a taxable service, unless the service in question comes within the definition of a financial service, and is therefore exempt.
+
+[14] The assessment under appeal is supported by the Respondent on the basis that the funds, being separate entities from the Appellant for purposes of the Act, but having no separate existence in fact, and therefore no employees of their own, function only through the actions of others, namely the outside investment managers, and the personnel of the Appellant. Counsel for the Respondent argued that, in addition to the service provided by the outside investment managers, the Appellant provides to each fund a single management or administrative service which, in his words, consists of the following:[4]
+
+... record keeping and bookkeeping activities and monitoring the performance of outside investment managers, ... [and] ... selling the segregated fund policies through outside selling agents, investing the money received by way of premiums through outside investment managers, monitoring the individual policyholders' accounts, valuing the segregated fund assets and establishing the unit values, record keeping and bookkeeping and liquidating the policyholders' accounts, whether on the maturity dates or prior thereto, public relations and settling legal disputes, all of which was done for the segregated accounts by the Appellant. In short the entire business of the segregated funds was directed and managed by the Appellant, for all of which it received a flat percentage fee, the IAF.
+
+The IAFs, he argues, are the consideration paid by the funds to the Appellant for this service, and are therefore the base to which the 7% tax is to be applied.
+
+[15] The position of the Appellant is that the IAFs in this case are part of the consideration paid by the policyholder for the issuance and the maintenance by the Appellant of a life insurance policy – in short, they are a component of the premium. It is not disputed that insurance premiums are payments for a financial service[5] and so exempt from tax. Counsel argued that the Appellant made only one supply – that of insurance contracts to policyholders. He characterizes the IAFs as part of the Appellant's cost of supplying the insurance policies to its policyholders, who are the only recipients of a supply from it.
+
+[16] Both counsel urged me to view the IAFs as being consideration for one supply only. Mr. Chambers took the position that because the Appellant did not charge the funds separate fees for separate services, but rather a single percentage fee to cover all the services, it represents a single consideration for a single supply, and not a multiple supply of several services. Mr. Harris took the position that the entire IAF should be considered as premiums received from the Appellant's insureds, and therefore exempt. For the reasons that follow, I do not subscribe to either of these views.
+
+[17] Counsel for the Appellant also argued that any service rendered to the funds by the Appellant ought to be regarded as a financial service, notwithstanding the provisions of paragraph (g) of the definition of that term, as retroactively amended.[6] In view of the conclusion that I have reached, it is unnecessary to decide that point.
+
+analysis
+
+[18] In considering the application of the Act, it is important to approach the matter in a common-sense way, and with an eye for the reality of the transactions involved. This principle was applied by Rip J. of this Court in O. A. Brown Ltd. v. Canada,[7] where at paragraph 28 he quoted from Lord Widgery's judgment in Customs and Excise Commissioners v. Scott,[8] as follows:
+
+Lord Widgery CJ, stated "that it is to hope when answering Lord Denning MR's question in the future in this type of case people do approach the problem in substance and reality". He added:
+
+... I think it would be a great pity if we allowed this subject to become over-legalistic and over-dressed with legal authorities when, to my mind, once one has got the question posed, the answer should be supplied by a little common sense and concern for what is done in real life ...
+
+The question to which Lord Widgery referred there was simply this: "What did the taxpayer supply in consideration of the money that he charged ...? "[9]
+
+[19] It is also important to remember that in the present case there is no contract that has been struck between the deemed trusts and the Appellant, their deemed trustee. The only bargain that has been made here is between the Appellant and the policyholder. The substance and reality is that the policyholder has agreed to pay a consideration, consisting of both the cash premium and the amount of the IAF attributable each year to the policy, and to receive in return all of the rights under the policy. These are the accumulation of wealth in one or more professionally managed funds, and may include a guaranteed minimum accumulation at maturity, a guaranteed amount payable if death occurs before maturity, bonus payments at intervals after the fifteenth year, and possibly other benefits as well. These are insurance services supplied to the policyholders.
+
+[20] The functions of record keeping, evaluation, retaining and supervising the outside investment managers, and investing the money market fund are, in reality, also part of the operations of the Appellant, but, in the notional world of section 131, they are the services supplied to the funds.
+
+[21] I shall call these two groups of services "the insurance services" and "the fund services".
+
+[22] Superficially, it might be thought that because the entire IAF, 1½% per annum, passes from the funds to the Appellant, then that entire amount must be viewed as being the consideration for the fund services. In my view, that is not so.
+
+[23] The contention of the Crown ignores that the major cost components of the IAF are charged by the Appellant specifically to pay for the insurance services, which are financial services quite distinct from the fund services. I refer here to the life insurance and market insurance benefits, bonuses, and other benefits which some of the policies provide to the policyholders. These are financial services within the definition of that term. They are also, in reality, supplied to someone other than the funds. They therefore cannot be considered simply to be part and parcel of one service supplied to the funds. Nor can the IAF, which pays for them, be thought of as the consideration simply for one service supplied to the funds.
+
+[24] Counsel for the Crown relies on the judgment of Rip J. in O. A. Brown Ltd.[10] to support the proposition that all the items listed at paragraph 12 above constitute a single service, for which the IAF is the consideration. That case was concerned with the application of the Act to a buyer of livestock who made purchases at auctions to order for its customers, and then resold the livestock to those customers. In reselling the animals, the taxpayer invoiced its customers for the cost to it of the animals, plus its out-of-pocket expenses for feed, transportation, insurance, inoculation and branding, together with a mark-up of $1.00 per 100 pounds of livestock. Rip J. adopted the substance and reality approach advocated by Lord Widgery C.J., and found that O. A. Brown Ltd. made only one supply, that of livestock. In reaching this conclusion, he said at paragraph 31:
+
+... The appellant seeks reimbursement of these costs and charges a fee for this service. It is difficult to isolate these buying activities as being distinct supplies, independent of the whole activity. Only if taken together do they form a useful service. In substance and reality, the alleged separate supply, that of a buying service, is an integral part of the overall supply, being the supply of livestock. The alleged separate supplies cannot be realistically omitted from the overall supply and in fact are the essence of the overall supply. The alleged separate supplies are interconnected with the supply of livestock to such a degree that the extent of their interdependence is an integral part of the composite whole. The services are rendered under a single contract, for a single consideration, albeit the invoice is itemized. The appellant is making a single supply of livestock and the commission and disbursements charged are part and parcel of the consideration for that supply. They do not amount to separate supplies. This is simply a matter of common sense. No GST is collectible on the commission charged and the disbursements.
+
+[25] Rip J. was dealing with a situation in which the contract was entered into between one buyer and one seller, for one aggregate service supplied by one of them to the other. The present case is materially different in that the IAF is not simply the consideration for the fund services. It was fixed on the basis that it would cover the cost of those services, as well as several others, which are insurance services, and which do not benefit the funds at all. These insurance services account for the major component of the IAFs. As counsel for the Appellant correctly points out, there is a deemed person in the form of the fund, but there is no deemed supply. It follows that what can be considered a supply to the fund is simply that which benefits the fund.
+
+[26] I find, contrary to the submission of counsel for the Respondent, that the selling of policies is not a service provided by the Appellant to the funds. The Appellant's business is the sale of policies, and it does that for its own benefit. The contracts of insurance are between the Appellant and its policyholders. The fact that some or all of the premiums are invested in the funds does not change this fact, nor does it make the Appellant's sales efforts a service provided to the funds. Without these sales, the Appellant would have no business.
+
+[27] Once it is understood that the IAF, although a single consideration, has two separate components, or groups of components, one of which relates to the insurance services and the other to the fund services, then it is apparent that the result must be governed by sections 123 and 139 of the Act.
+
+[28] Subsection 165(1) imposes the tax on the "recipient" of a taxable supply. Subsection 123(1) of the Act defines "recipient":
+
+"recipient" of a supply of property or a service means
+
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+
+(c) where no consideration is payable for the supply,
+
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply.
+
+[29] The IAF is payable pursuant to the terms of the Appellant's policies, which of course are contracts between the Appellant and its policyholders. The contracts provide that the funds are to pay the IAFs, and, of course, that is fundamental to the Crown's position. The "recipients" of all the supplies for which the IAFs are consideration, therefore, for purposes of the Act, are the funds, even though the major cost component is for the supply of insurance services to the policyholders.
+
+[30] Section 139 of the Act, as originally enacted, read as follows:
+
+139 For the purposes of this Part, where a supply of one or more financial services is made together with one or more properties or services that are not financial services and the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the single consideration, the supply of all the properties and services shall be deemed to be a supply of financial services.
+
+In 1993 it was amended to read:
+
+139 For the purposes of this Part, where
+
+(a) one or more financial services are supplied together with one or more other services that are not financial services, or with properties that are not capital properties of the supplier, for a single consideration,
+
+(b) the financial services are related to the other services or the properties, as the case may be,
+
+(c) it is the usual practice of the supplier to supply those or similar services, or those or similar properties and services, together in the ordinary course of the business of the supplier, and
+
+(d) the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the total of all amounts, each of which would be the consideration for a service or property so supplied if that service or property had been supplied separately,
+
+the supply of each of the services and properties shall be deemed to be a supply of a financial service.
+
+The amended version is applicable to supplies made after September 14, 1992. However, its requirements are somewhat more rigorous than those of the original provision, so that if it is satisfied, then so is its predecessor.
+
+[31] The purpose of the section, in both its versions, is to provide that where financial and non-financial services are supplied for a single consideration, and the consideration for the financial services, if supplied separately, would amount to more than 50% of that single consideration, then the supply of each of the services shall be treated as a supply of financial services, exempt from tax. The financial services supplied in this case, that is the insurance services, are supplied together with the services which benefit the funds, for a single consideration, namely the IAF. Although different persons benefit from them, they have only one "recipient", by reason of the definition of that word, and only one consideration. The financial services and the other services are clearly related. They all owe their origin to the same insurance policies. The supply of them together is in the ordinary course of the Appellant's business. The first three conditions of section 139 are therefore satisfied in the present case.
+
+[32] The remaining question is whether the consideration for the financial services would be more than 50% of the total consideration for all the services, if they were supplied separately. The evidence before me as to the amounts that would be the consideration for the financial services and the non-financial services, respectively, if those services had been supplied separately, is found in the documents titled Outline of Product Matrix, at Tab 1 of Exhibit A-1, as explained by Mr. Moffat and Mr. Cotnam, and at Exhibit R-46. A careful examination of those indicates to me that in each case the cost of the fund services is substantially less than the cost of the insurance services supplied to the policyholders in the form of policy benefits. The consideration that would be charged for the financial services, therefore, exceeds 50% of the IAF, which is the total consideration. The requirement of paragraph (d) section 139 is therefore satisfied, and that section operates to deem the supply of each of the services to be a supply of a financial service, and therefore exempt pursuant to Part VII of Schedule V.
+
+[33] The appeal is allowed, and the assessment is quashed. The Appellant is entitled to its costs.
+
+Signed at Ottawa, Canada, this 4th day of January, 1999.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] It has at various times been done monthly, weekly and daily, but during the period with which this appeal is concerned it was done weekly.
+
+[2] Or other applicable percentage.
+
+[3] See Schedule V, Part VII.
+
+[4] Respondent's Memorandum of Fact and Law, paragraph 45.
+
+[5] See section 123(1), definitions of "financial instrument", "financial service", and "insurance policy".
+
+[6] S.C. 1997, c. 10, subsection 1(5).
+
+[7] [1995] G.S.T.C. 40.
+
+[8] [1978] S.T.C. 191.
+
+[9] O. A. Brown Ltd. v. Canada, supra, at paragraph 27.
+
+[10] Supra, note 6.
+

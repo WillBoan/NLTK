@@ -1,0 +1,166 @@
+Date: 20000204
+
+Docket: 98-1950-GST-I
+
+BETWEEN:
+
+ELGIN MILLS LESLIE HOLDINGS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] The appellant appeals from an assessment made under the Excise Tax Act in respect of the period from March 1, 1996 to February 28, 1997. By that assessment, the Minister of National Revenue denied to the appellant input tax credits (“ITCs”) of $2,980.95
+
+[2] In its GST return for the period, the appellant claimed a refund of net tax in the amount of $3,011.40, based on GST paid of $42.00 and ITCs of $3,053.40. The Minister allowed the appellant only $72.45.
+
+[3] The appellant carries on business under the name “Cash’n Dash”. It provides a variety of services including:
+
+- mail boxes,
+
+- courier services,
+
+- tax discounting,
+
+- sending of money orders,
+
+- fax,
+
+- selling lottery tickets,
+
+- bus passes,
+
+- book keeping services,
+
+- computer systems upgrades,
+
+- copying services
+
+- selling prepaid telephone cards,
+
+- word processing,
+
+- cheque cashing, and
+
+- preparing tax returns.
+
+[4] In the period in question, its gross revenue amounted to $21,568. There were a few minor adjustments that are not material to this appeal with the result that $22,811 was reported in its GST return. However, of this amount only $600 was in respect of taxable services (mailbox fees and fax) and therefore $42 was collected and remitted to the Receiver General.
+
+[5] None of the other revenues received in this period were in respect of taxable services.
+
+[6] By far the largest part of the revenues in this period consisted of commissions for cashing cheques. Such commissions ran from .5% to 4%, depending on the type of cheque. Of the $22,811 reported, $18,030 was for, or related to, the cheque cashing business. Mr. Sheth, the owner of the appellant, stated that 45% of the appellant’s business was in respect of cheque cashing and 55% was for other services. This allocation may have been correct in other periods but as the above figures show it was certainly not true in the period in question.
+
+[7] The appellant argues that the cheque cashing business was not a “financial service” as defined in the Act. If it is not, it is difficult to see how it could justify not charging GST on all commissions, transaction fees and ID fees relating to the cashing of cheques.
+
+[8] I think the cashing of cheques for a fee or commission is a financial service. Paragraphs (a) and (d) of the definition “financial service” under subsection 123(1) of the Act read as follows:
+
+“financial service” means
+
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+
+...
+
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument.
+
+[9] Mr. Sheth pointed to a number of differences between his business and that of a bank. No doubt there are many differences, but it does not follow that cheque cashing is not a financial service.
+
+[10] Counsel for the respondent argues that the cashing of cheques falls under (a), on the basis that “money” is defined to include “any currency, cheque, promissory note, ...”. It could arguably fall under (d) as well on the basis that a cheque is a financial instrument because it is a “debt security” under the definition of “financial instrument”. “Debt security” is defined, in part, as “a right to be paid money...”.
+
+[11] As a financial service, cheque cashing falls under Part VII of Schedule V and is an exempt supply as defined in section 123 of the Act.
+
+[12] It is therefore not a “commercial activity” as defined in section 123. The definition of that term reads in part:
+
+"commercial activity" of a person means
+
+(a) a business carried on by the person ... except to the extent to which the business involves the making of exempt supplies by the person.
+
+[13] The cashing of cheques is therefore not a commercial activity for the purpose of the Act.
+
+[14] Subsection 169(1), as it applied prior to April 1997, reads as follows:
+
+(1) Subject to this Part, where property or a service is supplied to or imported by a person and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply or importation becomes payable by the person or is paid by the person without having become payable, the input tax credit of the person in respect of the property or service for the period is the amount determined by the formula
+
+A x B
+
+where
+
+A is the total of all tax in respect of the supply or importation that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+
+B is
+
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+
+(b) where the property or service is acquired or imported by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service for consumption, use or supply in the course of commercial activities of the person.
+
+[15] At the risk of oversimplification, for the purposes of this appeal, A is the tax paid and B is the extent (expressed as a percentage) to which the registrant acquires the property or services on which GST was paid used it in the course of commercial activities.
+
+[16] Prior to May 1990, subsection 169(2) provided a partial ITC where part of the input is attributable to taxable supplies and part to non-taxable (i.e. exempt or personal supplies).
+
+[17] Now, however, B(c) of the formula incorporates the requirement for allocation into subsection 169(1) (Paragraphs (a) and (b) are not relevant to this case). It was not stated in the reply or assumed that the appellant was a financial institution, although counsel for the respondent, in her written submissions, argued that it was.
+
+[18] Paragraph 149(1)(a) reads in part as follows:
+
+149.(1) For the purposes of this Part, a person is a financial institution throughout a particular taxation year of the person if
+
+(a) the person is
+
+(i) a bank,
+
+(ii) a corporation that is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as a trustee,
+
+(iii) a person whose principal business is as a trader or dealer in, or as a broker or salesperson of, financial instruments or money,
+
+(iv) a credit union,
+
+(v) an insurer or any other person whose principal business is providing insurance under insurance policies,
+
+(vi) a segregated fund of an insurer,
+
+(vii) the Canada Deposit Insurance Corporation,
+
+(viii) a person whose principal business is the lending of money or the purchasing of debt securities or a combination thereof,
+
+(ix) an investment plan,
+
+(x) a person providing services referred to in section 158, or
+
+(xi) a corporation deemed under section 151 to be a financial institution,
+
+at any time in the particular year.
+
+[19] It appears that the appellant, at least in the period in question, fell within subparagraphs (iii) or (viii).
+
+[20] Subsections 141(1) to (4), as they applied to the period in question, read as follows:
+
+(1) For the purposes of this Part, where substantially all of the consumption or use of property or a service by a person, other than a financial institution, is in the course of the person’s commercial activities, all of the consumption or use of the property or service by the person shall be deemed to be in the course of those activities.
+
+(2) For the purposes of this Part, where substantially all of the consumption or use for which a person, other than a financial institution, acquires or imports property or a service is in the course of the person’s commercial activities, all of the consumption or use for which the person acquired or imported the property or service shall be deemed to be in the course of those activities.
+
+(3) For the purposes of this Part, where substantially all of the consumption or use of property or a service by a person, other than a financial institution, is in the course of particular activities of the person that are not commercial activities, all of the consumption or use of the property or service by the person shall be deemed to be in the course of those particular activities.
+
+(4) For the purposes of this Part, where substantially all of the consumption or use for which a person, other than a financial institution, acquires or imports property or a service is in the course of particular activities of the person that are not commercial activities, all of the consumption or use for which the person acquired or imported the property or service shall be deemed to be in the course of those particular activities.
+
+[21] These provisions do not apply to the appellant if in the period in question it was a financial institution. Whatever may have been the position on assessing, at trial the respondent argued subsections 141.01(2) and (3) and not section 141 applied.
+
+[22] The appellant had meticulous records and Mr. Sheth, a chartered accountant, established clearly that the appellant had paid GST or $3,053.40 in respect of his business.
+
+[23] I think, however, that most of this related to the exempt activity of cheque cashing which seems to have been the appellant’s principal activity in the period. It follows, therefore, that only a very small percentage of property or services in respect of which the GST was paid was acquired for consumption, use or supply in the course of a commercial activity of the appellant.
+
+[24] The appeal is therefore dismissed.
+
+Signed at Ottawa, Canada, this 4th day of February 2000.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

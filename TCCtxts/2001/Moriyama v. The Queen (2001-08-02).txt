@@ -1,0 +1,166 @@
+Date: 20010802
+
+Docket: 2001-1954-GST-I
+
+BETWEEN:
+
+ROBERT ALAN MORIYAMA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Order
+
+Bowman, A.C.J.
+
+[1] This is a motion by the respondent for an order that sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act apply to the appeal herein.
+
+[2] The Minister of National Revenue assessed the appellant for $276,277.94 under subsection 323(1) of the Excise Tax Act as a director of Jetcom Communications Inc. The appellant, in appealing, elected the Informal Procedure.
+
+[3] The Crown asks that the case be moved to the General Procedure. The court has no discretion to refuse such a request where the request was made within 60 days after the Registry of the court transmits the notice of appeal to the Minister of National Revenue. That condition is met.
+
+[4] Section 18.3002 of the Tax Court of Canada Act reads as follows.
+
+18.3002(1) Where the Attorney General of Canada so requests, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of an appeal in respect of which sections 18.3003 and 18.3007 to 18.302 would otherwise apply.
+
+(2) A request under subsection (1) shall not be made after sixty days after the day the Registry of the Court transmits to the Minister of National Revenue the notice of appeal unless
+
+(a) the Court is satisfied that the Attorney General of Canada became aware of information that justifies the making of the request after the sixty days had elapsed or that the request is otherwise reasonable in the circumstances; or
+
+(b) the person who has brought the appeal consents to the making of the request after the sixty days have elapsed.
+
+(3) The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+
+(a) the amount in dispute is equal to or less than $7,000; and
+
+(b) the aggregate of supplies for the prior fiscal year of that person is equal to or less than $1,000,000.
+
+[5] The Crown also submits that subsection (3) does not apply and that I should not order the Crown to pay the appellant's costs because the amount in dispute is not equal to or less than $7,000.
+
+[6] Before dealing with the question whether paragraphs (a) and (b) of subsection (3) are met I should briefly mention section 18.3007 of the Act. It gives the court a certain discretion to award costs where the amounts involved are larger than those referred to in subsection 18.3002(3). This section need not be considered here because the award of costs under that provision, if it applies, can only be made when the appeal is disposed of.
+
+[7] Similarly, whatever broad discretionary powers this court may have to award costs under section 147 of the Tax Court of Canada Rules (General Procedure), they need not be considered at this point (see the order of Bowie J. in Wood v. The Queen, 96-2445(GST)I). The sole question I have to answer is whether subsection 18.3002(3) applies to require me to order the Crown to pay the appellant's reasonable and proper costs.
+
+[8] Paragraphs (a) and (b) of subsection 18.3002(3) are conjunctive and so both paragraphs must be satisfied. It is clear that paragraph (b) is met. The aggregate of supplies for the prior fiscal period of Mr. Moriyama is less than $1,000,000.
+
+[9] The sole remaining question is whether paragraph (a) is met. Counsel for the respondent contends that the amount in dispute is not "equal to or less than $7,000" and that it is in fact $276,277.94.
+
+[10] Counsel for the appellant contends that since this is an appeal under subsection 323(1) of the Excise Tax Act there is no amount in dispute. Rather, he says, what is in dispute is not "an amount" — the amount is fixed against the company — but rather the principle of the liability of Mr. Moriyama and that depends on a number of considerations that have nothing to do with the determination of an amount. These include whether the conditions in subsection 323(2) have been met, including the time limitation, and whether the appellant has exercised the degree of care, diligence and skill required by subsection 323(3).
+
+[11] Notwithstanding the skill with which Mr. Robertson advanced the argument, I find it a little too subtle. It is true there are legal or factual questions to be determined that do not depend on the monetary amount of the assessment, such as whether the conditions in subsection 323(2) have been met or whether the director has exercised due diligence. These are questions that have to be determined irrespective of whether the assessment is for $1,000,000 or $1,000. Nonetheless, any tax dispute — whether it is under the Excise Tax Act or the Income Tax Act and whether it involves an assessment against the principal taxpayer or is a derivative assessment against a director under section 323 of the Excise Tax Act or section 227.1 of the Income Tax Act — is about an amount even though there are legal or factual questions relating to the liability to pay that amount or any part of it. Essentially the question "What is the amount in dispute?" in a case could be expressed colloquially as "How much money are we talking about in this case?" This is a question that would invariably elicit a dollars and cents answer in any tax dispute.
+
+[12] Mr. Robertson contended that subsection 18.3002(3) appears to have been drafted with an ordinary appeal by the taxpayer who was primarily liable for the Goods and Services Tax in mind and not someone such as a director whose assessment was derivative under section 323. I tend to agree that the wording of paragraph 3(b) of section 18.3002 lends some support to that argument in that in most cases it can have little or no application to a corporate director. However I must take the words of the statute as I find them and the inappropriateness of one part of the statute to a particular kind of taxpayer should not deprive the plain meaning of the words of another part of any effect.
+
+[13] Even if I accepted the appellant's contention that where a pure question of principle or of law is involved there is no "amount in dispute", I do not think such a conclusion helps the appellant here. He is disputing the whole assessment and parts of it and he is entitled to attack the correctness, in whole or in part, of the underlying assessment against the company. This is certainly one of his grounds of appeal in paragraph 16 of the notice of appeal and it is something that he is entitled to do.
+
+[14] In Gaucher v. The Queen, 2000 DTC 6678, the Federal Court of Appeal upheld the judgments of this court such as Acton v. The Queen, 95 DTC 107, and Ramey v. The Queen, 93 DTC 791, which held that a derivatively liable person could attack the assessment against a primarily liable taxpayer even though the latter had not done so. In so doing the Federal Court of Appeal held that such cases as Schafer (A.) v. Canada, [1998] G.S.T.C. 7, (and inferentially Papa v. R., [2000] G.S.T.C. 74) which had refused to follow Acton and Ramey were wrongly decided.
+
+[15] Therefore I do not think that subsection 18.3002(3) applies. The amount in dispute is not equal to or less than $7,000. I do not propose to make any order as to costs under subsection 18.3002(3). The respondent asked for a further order as follows:
+
+2. an Order for the following directions for the subsequent conduct of the appeal: that the normal General Procedure Rules concerning costs apply to the appeal herein, and that the Respondent shall not be responsible for bearing the Appellant's reasonable and proper costs of the appeal herein in any event of the cause.
+
+[16] I think it is preferable that I make no order for costs that might appear to bind the discretionary powers of the trial judge under section 147 of the Rules. He or she may decide that the rather broad powers under section 147 are in some way circumscribed by sections 18.3002 or 18.3007. That is a question for the trial judge.
+
+[17] The order will go as follows.
+
+[18] It is ordered that sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act apply in respect of this appeal.
+
+[19] It is further ordered that the matter of costs be left to the trial judge.
+
+Signed at Ottawa, Canada, this 2nd day of August 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2001-1954(GST)I
+
+STYLE OF CAUSE: Between Robert Alan Moriyama and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: July 18, 2001
+
+REASONS FOR ORDER BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF ORDER: August 2, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: David D. Robertson, Esq.
+
+Counsel for the Respondent: Sherry Darvish
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: David D. Robertson, Esq.
+
+Firm: Baker & McKenzie
+
+Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-1954(GST)I
+
+BETWEEN:
+
+ROBERT ALAN MORIYAMA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Motion heard on July 18, 2001, at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: David D. Robertson, Esq.
+
+Counsel for the Respondent: Sherry Darvish
+
+ORDER
+
+Upon the motion by the respondent for:
+
+1. an Order that sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act (the "General Procedure Rules") apply the appeal herein; and
+
+2. an Order for the following directions for the subsequent conduct of the appeal: that the normal General Procedure Rules concerning costs apply to the appeal herein, and that the Respondent shall not be responsible for bearing the Appellant's reasonable and proper costs of the appeal herein in any event of the cause.
+
+.../2
+
+And upon hearing what was alleged by the parties
+
+It is ordered that sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act apply in respect of this appeal
+
+It is further ordered that the matter of costs be left to the trial judge.
+
+Signed at Ottawa, Canada, this 2nd day of August 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

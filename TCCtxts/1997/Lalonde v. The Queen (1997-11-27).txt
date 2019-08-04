@@ -1,0 +1,178 @@
+Date: 19971127
+
+Docket: 97-109-IT-I
+
+BETWEEN:
+
+RAYMOND LALONDE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal concerning the proceeds of the disposition of a life insurance policy and the application of paragraph 56(1)(j) and subsection 148(1) of the Income Tax Act (“the Act”) for the 1995 taxation year.
+
+[2] Paragraph 56(1)(j) of the Act reads as follows:
+
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+. . .
+
+(j) Life insurance policy proceeds — any amount required by subsection 148(1) or (1.1) to be included in computing the taxpayer’s income for the year;
+
+[3] Subsection 148(1) of the Act reads as follows:
+
+148. (1) There shall be included in computing the income for a taxation year of a policyholder in respect of the disposition of an interest in a life insurance policy, other than a policy that is or is issued pursuant to
+
+(a) a registered pension fund or plan,
+
+(b) a registered retirement savings plan,
+
+(b.1) a registered retirement income fund,
+
+(c) an income-averaging annuity contract,
+
+(d) a deferred profit sharing plan, or
+
+(e) an annuity contract where
+
+(i) the payment for the annuity contract was deductible under paragraph 60(l) in computing the policyholder’s income, or
+
+(ii) the policyholder acquired the annuity contract in circumstances to which subsection 146(21) applied,
+
+the amount, if any, by which the proceeds of the disposition of the policyholder’s interest in the policy that the policyholder, beneficiary or assignee, as the case may be, became entitled to receive in the year exceeds the adjusted cost basis to the policyholder of that interest immediately before the disposition.
+
+(Emphasis added)
+
+[4] Subsection 148(9) of the Act defines the terms “disposition”, “proceeds of the disposition” and “adjusted cost basis”:
+
+“disposition”, in relation to an interest in a life insurance policy, includes
+
+. . .
+
+(c) the dissolution of that interest by virtue of the maturity of the policy,
+
+“proceeds of the disposition” of an interest in a life insurance policy means the amount of the proceeds that the policyholder, beneficiary or assignee, as the case may be, is entitled to receive on a disposition of an interest in the policy . . .
+
+“adjusted cost basis” to a policyholder as at a particular time of the policyholder’s interest in a life insurance policy means the amount determined by the formula
+
+(A + B + C + D + E + F + G + G.1) - (H + I + J + K + L)
+
+where
+
+A is the total of all amounts each of which is the cost of an interest in the policy acquired by the policyholder before that time but not including an amount referred to in the description of B or E,
+
+. . .
+
+[5] The notice of confirmation by the Minister of National Revenue (“the Minister”) confirms the appellant’s assessment for the following reason:
+
+[TRANSLATION]
+
+The notice of objection you filed in respect of the income tax assessment made for the 1995 taxation year was carefully considered in accordance with subsection 165(3) of the Income Tax Act.
+
+Having examined the grounds set out in your notice of objection and all the relevant facts, the Minister of National Revenue hereby confirms the said assessment and declares that it is consistent with the provisions of the Income Tax Act for the following reasons:
+
+the sum of $5,839.87 you received from Metropolitan Life was the amount by which the proceeds of the disposition of your interest in your life insurance policy exceeded the adjusted cost basis of that interest. That sum was included in your income in accordance with paragraph 56(1)(j) and subsection 148(1) of the Act.
+
+[6] In his Notice of Appeal, the appellant stated that Metropolitan Life sent him a T5 Supplementary slip, “Statement of Investment Income”, showing that he had received an interest from Canadian sources in the amount of $5,839.87. The appellant believes that he never received that interest. The T5 slip was filed at the hearing as Exhibit A-4.
+
+[7] In making the assessment, the Minister considered the facts described in paragraph 9 of the Reply to the Notice of Appeal to be true. They are as follows:
+
+[TRANSLATION]
+
+(a) the appellant was the holder of life insurance policy no. 656 290 242A (“the policy”), which had been acquired in 1965;
+
+(b) every year, the appellant reported the interest he earned on the policy;
+
+(c) the appellant disposed of his interest in the policy during the 1995 taxation year, since that interest was dissolved by virtue of the policy’s having arrived at maturity;
+
+(d) the disposition of his interest in the policy resulted in a gain of $5,839.87, which is an excess amount within the meaning of subsection 148(1) of the Act;
+
+(e) the said excess amount does not include the annual accrued interest that was reported as part of the appellant’s income every year, as stated in subparagraph (b) above; and
+
+(f) the said excess amount of $5,839.87 must be included in computing the appellant’s income for the 1995 taxation year.
+
+[8] Paragraph 12 of the Reply explains the Minister’s position:
+
+[TRANSLATION]
+
+He submits that under paragraph 56(1)(j) and subsection 148(1) of the Act, the appellant must include the amount of $5,839.87 in computing his income for the 1995 taxation year since, according to the definition given in subsection 148(9) of the Act, the appellant disposed of his interest in the policy during the 1995 taxation year and since the $5,839.87 represents the amount by which the proceeds of the disposition of the appellant’s interest in the policy that he became entitled to receive in the 1995 taxation year exceeds the adjusted cost basis to the appellant of that interest immediately before the disposition of the policy.
+
+[9] Testimony was given by the appellant, Elyse Lamadeleine, a consultant in Metropolitan Life’s Billing and Valuation Section, and Martine Taschereau, legal counsel for the same corporation.
+
+[10] The appellant, who is retired, held a term life insurance policy with Metropolitan Life for 30 years. His policy matured in 1995, at which time he was paid $27,611.53.
+
+[11] Dividends and interest accrued each year. The evidence has not shown the exact nature of the dividends or the basis on which they were calculated. Nor was the interest rate disclosed. The appellant received a T5 every year for the interest, and he included that amount in computing his income. However, he was not paid either the interest or the dividends. Exhibit A-5 contains a bundle of these statements showing the dividends and interest left with Metropolitan Life.
+
+[12] As Exhibit A-3, the appellant filed his compilation of the amounts entered each year on the T5s sent to him by Metropolitan Life since 1980. They total $9,783.62. The evidence showed that the exact amount of interest paid to him was $9,930.75.
+
+[13] Exhibit A-2 is a letter sent to the appellant by Metropolitan Life on February 7, 1996, to explain how it had calculated the amount of $5,839.87 it had entered on a T5 Supplementary for 1995 (Exhibit A-4), which is the amount in issue in this case. The letter reads as follows:
+
+[TRANSLATION]
+
+Dear Sir:
+
+This is further to your letter concerning the gain to be reported in respect of your insurance policy.
+
+In simple terms, section 148 of the Income Tax Act provides that if you receive an amount for your insurance policy that is greater than what the policy cost you, you must pay tax on the gain. That gain is calculated by subtracting the value of your policy on the tax anniversary date (that is, the first anniversary of the insurance after March 31, 1977) from the value of your policy at the time you collected the amount. The resulting amount is then adjusted for all the premiums you paid and all the dividends credited to you since the tax anniversary date.
+
+The value of your policy on the tax anniversary date included:
+
+Guaranteed cash surrender value: $3,060.00
+
+Final dividend: $135.00
+
+Premiums paid since the
+
+tax anniversary date: $6,257.88
+
+The total cost of the policy
+
+to the insured is therefore: $9,452.88
+
+All amounts collected in respect of the policy are deducted from this amount:
+
+Dividends credited since the
+
+tax anniversary date: $7,359.89
+
+Gain on the tax: -$1,517.14
+
+Taxable maturity value: $9,450.00
+
+The total of the amounts collected in
+
+respect of the policy is therefore: $15,292.75
+
+The total of the amounts collected minus the total cost of the policy resulted in a net gain of $5,839.87.
+
+[14] Ms. Lamadeleine explained that the appellant received dividends and interest each year and that only the interest was entered on the T5 slip sent every year. In total, that interest amounted to $9,930.75 since 1968. The $7,359.89 referred to in Exhibit A-2 was solely for dividends credited to the appellant since the tax anniversary date.
+
+[15] The cheque sent to the appellant by Metropolitan Life when the insurance policy matured was for $27,611.53. That amount was made up of the policy maturity value of $9,450, $7,359.89 in dividends and $9,930.75 in interest.
+
+[16] As regards the amount given for premiums in the letter of February 7, 1996 (Exhibit A-2), namely $6,257.88, the appellant said that he paid at least $9,979.20 in insurance premiums. The Metropolitan Life employees responded to this by saying that the amount given was for premiums paid since February 1, 1978, not since the effective date of the policy in 1965, and that the guaranteed cash surrender value on the same anniversary date took the payment of those premiums into account.
+
+[17] The appellant argued that since he had included the interest in his tax return every year, he did not have to include the $5,839.87 (Exhibit A-4) in computing his income. It must be recalled that the T5 issued by Metropolitan Life included this amount in the box for “Interest from Canadian sources”. The appellant’s primary argument, however, was that it was a capital gain.
+
+[18] In my opinion, the evidence clearly has shown that the appellant was not assessed on the $9,930.75 in interest that he was paid in 1995 and that he reported every year when it was earned but not received. That interest was not included in calculating the proceeds of the disposition, as shown by the letter from Metropolitan Life filed as Exhibit A-2.
+
+[19] As regards the amount in dispute, namely $5,839.87, although it was entered in the “Interest” box on the T5 form, this does not in any way mean that it was the same kind of interest that the appellant had received each year and on which he had already paid tax. In fact, the $5,839.87 resulted from the subtraction of the adjusted cost basis of the policy from the proceeds of the disposition of the policy, and this is a result I must accept since there was no evidence to the contrary about the amount of the proceeds of the disposition or the adjusted cost basis. In other words, $5,839.87 is the amount by which the proceeds of the disposition of the appellant’s interest in the insurance policy exceeded the adjusted cost basis of that interest.
+
+[20] Under paragraph 56(1)(j) and subsection 148(1) of the Act, that excess amount must be included in computing the appellant’s income. In view of these provisions of the Act, I do not have to determine whether the amount is of a capital nature or of an income nature. I therefore conclude that the Minister’s assessment of the appellant was correct in fact and in law. The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 27th day of November 1997.
+
+“Louise Lamarre Proulx”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

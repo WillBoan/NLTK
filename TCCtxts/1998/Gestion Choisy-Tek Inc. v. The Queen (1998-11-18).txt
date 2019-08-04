@@ -1,0 +1,156 @@
+Date: 19981118
+
+Docket: 97-3115-IT-I
+
+BETWEEN:
+
+GESTION CHOISY-TEK INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] The appellant is appealing from reassessments by the Minister of National Revenue (the "Minister") for the taxation years ending on April 30, 1993 and 1994 and from the assessment by the Minister for the taxation year ending on April 30, 1995.
+
+[2] The reason for the Minister's assessments is that the appellant did not show that the amounts of $37,323 in 1993, $42,378 in 1994 and $11,951 in 1995 constituted amounts allocated to scientific research and experimental development during those years for the purposes of the investment tax credit provided for under subsections 127(5) and 127(9) of the Income Tax Act (the “Act”). Subsection 2900(1) of the Income Tax Regulations (the "Regulations") defines what is meant by "scientific research and experimental development (“SR & ED”)" and it does not include development of software in which no technological advancement is involved. Accordingly, the investment tax credits of $7,465, $8,476 and $4,183 respectively claimed under subsection 127(5) of the Act were disallowed. The Minister allowed as current expenses the SR & ED expenses claimed and disallowed under subsection 37(1) of the Act. The amounts so allowed were slightly larger, namely $40,515, $49,034 and $10,443 respectively for each of the years in issue.
+
+[3] The notice of appeal reads as follows:
+
+[TRANSLATION]
+
+Technological uncertainty:
+
+Despite all our attempts to explain to the various auditors that our project involved technological uncertainties, we are still convinced that there were and still are considerable technological uncertainties in this project.
+
+Technological advancement:
+
+We firmly believe that there is technological advancement because there is nothing else on the market that can do the work this software does. No one has dared go as far in the development of this kind of software.
+
+Adaptation:
+
+This is not an adaptation of a common practice to a new situation, but merely the use of this programming platform to develop the Mikado software. We could very easily have used another platform to reach the same conclusion, but this platform appeared to be the most suitable. We are therefore convinced that this project is not an adaptation of a current practice to a new situation.
+
+[4] In making the assessments, the Minister relied on the facts set out in paragraphs 3 and 4 of the Reply to the Notice of Appeal (the "Reply"). I reproduce subparagraph 3(i) and paragraph 4 below:
+
+[TRANSLATION]
+
+3(i) the scientific project was examined for the first time by a scientific adviser for 1993 and 1994 and a second time by another scientific adviser for 1995, and both came to the same conclusion, namely that the project did not meet the technological uncertainty criterion;
+
+. . .
+
+4. At the objection stage, the project was presented to a superior scientific adviser who came to the same conclusion as the other two scientists who had previously considered this case, which was that the appellant's project did not meet the technological uncertainty criteria for qualifying as R & D expenditures.
+
+[5] Roger Lessard, Director and President of the appellant, and Pierre Richard Lavallée, the appellant's Director of Development, testified for the appellant. Roger Andria, an engineer, testified for the respondent as an expert witness.
+
+[6] Mr. Lessard explained that the appellant operates in the field of sanitary maintenance management. With a view to providing a computer tool for building managers, the appellant set about developing sanitary maintenance software for hospitals, schools and industry. The software contains seven or eight modules, which identify the various areas in a building, together with their materials and use, and enable managers to establish a work plan. The business derives its revenue from two sources: the sale of the software and preparation of work plans for institutions based on that software.
+
+[7] Mr. Lavallée began working for the appellant in 1991. The appellant initially required the services of a specialized computer firm. Subsequently there were a few people who worked with Mr. Lavallée on software development. That team had only one programmer at a time.
+
+[8] The appellant's witnesses relied on Information Circular 86-4R3, entitled Scientific Research and Experimental Development. Referring more particularly to paragraph 6 of the circular: Criteria for Identifying Eligible Activities in Computer Science and Associated Technologies, they argued that the computer field includes a software component and a hardware component and that their activities related to software development. They cited the following passage from paragraph 6.4:
+
+. . . A technological uncertainty, on the other hand, arises when the solution is not readily apparent to someone familiar with the basic stock of commonly used knowledge and techniques within the business context of the firm. Only activities aimed at resolving technological uncertainties are eligible.
+
+[9] Neither Mr. Lessard nor Mr. Lavallée has any academic training in computer science. They have acquired practical experience. In the years at issue, the appellant employed a young computer scientist, Sylvain Godin, who had earned a bachelor's degree in computer science at the University of Quebec at Trois-Rivières in 1995. When he began working for the business, he held a Diplôme d'études collégiales (DEC), which he had received in May 1993. He had at most one year's work experience. Exhibits I-3 and I-4 show that the young programmer was hired at the earliest on the date appearing on the grant application, namely June 1, 1994.
+
+[10] An application for a government grant to cover Mr. Godin's salary was filed as Exhibit I-2 and reads as follows:
+
+[TRANSLATION]
+
+WORKER: Godin, Sylvain 269 023 438
+
+To promote the young worker's entry into the job market. Young computer science graduate who has held a DEC since May 1993 and has very little experience in his profession.
+
+Recent graduate, therefore the business will receive no payment for training. However, the worker will receive training in the business's specific needs.
+
+Upon termination of the agreement in November 1994, the worker will have mastered the various programs currently used in the business and will be able to transform them as necessary. He will also be able to provide technical customer service.
+
+. . .
+
+[11] Roger Andria is an engineer and scientific adviser at Revenue Canada. His report was filed as Exhibit I-8 and his assessment of the research submitted was as follows:
+
+[TRANSLATION]
+
+ASSESSMENT
+
+According to the aforementioned documentation provided by the client and based on telephone conversations with Mr. Lessard, the project for which the claim has been made does not meet the technological uncertainty criterion as described in Revenue Canada Information Circular IC 86-4R3.
+
+The uncertainties as described by the taxpayer are more at the conceptual level and linked to the codification of work standards, not to the implementation of the computer program. The problem relating to the Clipper 87 version required a great deal of work, but no EDP approach involving any technological uncertainty was taken. The client solved the problem by creating libraries for screens with the Clipper 5.2 version.
+
+For a project to be eligible, there must be technological uncertainty as described in paragraph 2.10.2 of Circular 86-4R3 or in paragraph 6.10(d) of that circular dealing with applications software. The uncertainty must be at the software development level or related to the improvement of computer hardware.
+
+[12] In his testimony, Mr. Andria established the distinction between a business project and a technological project, and I cite him at page 103 of the transcript:
+
+[TRANSLATION]
+
+. . . a major distinction must be drawn between a business project and a technological project.
+
+A business project is a project with a business management or commercial purpose; within that business project there may be zero, one or a number of technological projects, and what is meant by technological project is a set of activities that meet these three criteria: technological uncertainty, technological advancement and technical content.
+
+And in what was presented to me, the documentation was much more focused on the business’s product, that is to say on the functions the project must have, than on what it provides from a technological standpoint in the way of advances and technological uncertainty in that particular case, in the document, that . . .
+
+[13] In his cross-examination, the following sentence from paragraph 6.8 of the Circular was cited to him:
+
+Work on improving or advancing the user interface in computer systems, including developing technological objectives for the user interface, can be an integral part of eligible experimental development activities.
+
+[14] With respect to this sentence, the witness explained that these statements must be read in context and he referred to the following sentence:
+
+. . . They are eligible when carried out directly in support of the needs of an activity that itself is established as eligible. . . .
+
+[15] The reports of the other two experts mentioned in the Reply reveal that difficult work had been done, but that it did not go beyond common professional practice in computer science.
+
+Analysis
+
+[16] Subsection 2900(1) of the Regulations reads as follows:
+
+For the purposes of this Part and sections 37 and 37.1 of the Act, "scientific research and experimental development" means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) work with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support, of the work described in paragraph (a), (b) or (c),
+
+but does not include work with respect to
+
+(e) market research or sales promotion,
+
+(f) quality control or routine testing of materials, devices, products or processes,
+
+(g) research in the social sciences or the humanities,
+
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+
+(j) style changes, or
+
+(k) routine data collection.
+
+[17] Counsel for the respondent referred to the decision by this Court in Sass Manufacturing Limited v. M.N.R., 88 DTC 1363, and more particularly to the following passage at page 1371:
+
+The evidence falls far short of establishing the existence of any systematic investigation or search carried out in a field of technology by means of experiment or analysis. In my view Regulation 2900 requires an appellant to adduce cogent evidence of such investigation or search. Systematic investigation connotes the existence of controlled experiments and of highly accurate measurements and involves the testing of one's theories against empirical evidence. Scientific research must mean the enterprise of explaining and predicting and the gaining knowledge of whatever the subject matter of the hypothesis is. This surely would include repeatable experiments in which the steps, the various changes made and the results are carefully noted. There is no evidence of such an approach in the case at bar, either in the context of applied research or development. The appeal on this issue cannot succeed.
+
+[18] Thus it must be shown, as contemplated in section 2900 of the Regulations, that a systematic investigation or search was carried out in a field of science or technology by means of experiment or analysis.
+
+[19] The various experts agreed that the people involved here possess considerable skill in the area of computers. However, in this specialized field, successfully overcoming difficulties does not mean one has made a technological discovery. I found that Mr. Andria expressed well the importance of distinguishing between a business project and a scientific research and experimental development project. The project in the instant case was a business project. I must also say that the absence of expert testimony for the appellant cannot but raise doubts as to the technological advances achieved through the development of the software at issue. The persons involved in developing the software were not computer science graduates, with the exception of the young graduate, and in his case, he had not yet earned his first university degree and had very little work experience.
+
+[20] The appellant has not shown on the balance of evidence that the development of its software constituted scientific research and experimental development within the meaning of subsection 2900(1) of the Regulations. The appeals are accordingly dismissed.
+
+Signed at Ottawa, Canada, this 18th day of November 1998.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+

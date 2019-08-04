@@ -1,0 +1,314 @@
+Date: 20000724
+
+Dockets: 97-950-IT-G, 97-951-IT-G, 97-952-IT-G
+
+BETWEEN:
+
+PCL CONSTRUCTION MANAGEMENT INC.,
+
+PCL CONSTRUCTORS EASTERN INC., PCL CONSTRUCTORS CANADA INC.,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+BOWIE J.T.C.C.
+
+[1] These appeals are from assessments made for the taxation years 1993 and 1994 under Part I.3 of Division B of the Income Tax Act (the Act), which imposes a capital tax on large corporations. The Appellants are all subsidiaries of PCL Construction Group Inc. All the appeals concern identical issues in relation to the computation of capital under subsection 181.2(3) of the Act, and so they were heard together on common evidence. At the beginning of the hearing, counsel for the Appellant conceded that the appeal of PCL Construction Management Inc. for the 1994 taxation year must be dismissed, as it is from an assessment that no tax is payable.
+
+[2] Section 181.2, so far as it is relevant to the issue in these appeals, reads:
+
+181.2(2)The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+
+181.2(3)The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, bankers' acceptances or similar obligations,
+
+(e) the amount of any dividends declared but not paid by the corporation before the end of the year,
+
+
+
+(f) the amount of all other indebtedness (other than any indebtedness in respect of a lease) of the corporation at the end of the year that has been outstanding for more than 365 days before the end of the year, and
+
+...
+
+exceeds the total of [immaterial to this appeal]
+
+[3] The Appellants take issue with the inclusion by the Minister of National Revenue (the Minister) of two items in the computation of their capital for the years under appeal. The Minister now concedes that one of these, described on the Appellants' balance sheets as "Outstanding Cheques Less Related Bank Balances", should not have been included, and that the appeals must be allowed to that extent. The item which remains in dispute appears on the Appellants' balance sheets as a liability, described as "Unearned Revenues and Contract Advances". For simplicity, I shall refer to it as "the unearned amounts", which is the expression used in the pleadings and in the evidence.
+
+[4] The Minister's initial position, as expressed in the Replies to the Notices of Appeal filed in May 1997, is that the unearned amounts are reserves, of which no portion is deductible in computing the Appellants' incomes, and so they come within paragraph 181.2(3)(b) of the Act. In July 1998 the Replies were amended to include the argument that the unearned amounts "... gave rise to loans and advances to the Appellant[s] at the end of each year under appeal...", and thus fall within the definition of capital. By a further amendment to the Replies made in January 1999, the Minister alleges that the unearned amounts come within the words "... any other surpluses ...", as that expression is used in paragraph 181.2(3)(a) of the Act.
+
+[5] The Appellants' position is that the unearned amounts do not fall within any part of subsection 181.2(3), and are therefore not to be included in the computation of their capital for the years in question.
+
+[6] The following facts were agreed upon by the parties in an agreed statement of facts filed at the opening of the hearing:
+
+1. On December 1, 1995, PCL Civil Constructors (Canada) Inc. ("Civil") and PCL Constructors Eastern Inc. ("Eastern") amalgamated to form PCL Constructors Eastern Inc.
+
+2. On November 1, 1995, PCL Constructors Pacific Inc. ("Pacific") and PCL Constructors Prairie Inc. ("Prairie") amalgamated to form PCL Constructors Canada Inc.
+
+3. PCL Construction Management Inc. ("CMI"), Civil, Eastern, Prairie and Pacific (collectively the "Subcos") at all relevant times were corporations engaged in the construction business and were resident in Canada for purposes of the Income Tax Act (the "Act").
+
+4. At all relevant times, the Subcos were wholly-owned subsidiaries of PCL Construction Group Inc. ("PCL").
+
+5. Financial statements were prepared for the Subcos' fiscal years ending October 31, 1993 and October 31, 1994. The Subco's financial statements were consolidated into the PCL consolidated financial statements for the fiscal years ending October 31, 1993 and October 31, 1994. The PCL consolidated financial statements for the fiscal years ending October 31, 1993 and October 31, 1994 were audited by Peat Marwick Thorne Chartered Accountants and were prepared in accordance with generally accepted accounting principles ("GAAP"). The separate financial statements of PCL's subsidiaries, including those of the Subcos, were prepared in accordance with GAAP except for certain disclosure requirements not relevant for purposes of these appeals.
+
+6. In accordance with GAAP, the Subcos prepared their 1993 and 1994 financial statements utilizing the percentage of completion basis of accounting for construction contracts in which the ratio of actual cost of work performed to date to current estimated total contract costs is applied to the estimated net contract profit to determine the amount of profit to be currently recognized.
+
+7. Amounts actually billed to customers by the Subcos were based on the Subco's estimate of the percentage of work completed.
+
+8. The Subcos' 1993 and 1994 balance sheets included liability items described as "Unearned revenues and contract advances" of $10,761,229 in 1993 and $7,101,674 in 1994 for CMI; $6,014 in 1993 and $6,433,831 in 1994 for Civil; $9,423,091 in 1993 and $11,784,536 in 1994 for Eastern; $4,349,555 in 1993 and $7,533,803 in 1994 for Pacific; and $1,973,921 in 1994 for Prairie (the "Unearned Amounts"). The Unearned Amounts represent the difference between the amounts actually billed to customers by the Subcos and the billings recognized by the Subcos for financial statement purposes utilizing the percentage of completion method of accounting.
+
+9. The quantum of the Unearned Amounts is not an issue.
+
+10. The Minister of National Revenue (the "Minister") reassessed the Subcos as follows:
+
+(a) CMI:
+
+(i) By Notice of Reassessment dated April 19, 1996, for its 1993 taxation year to, inter alia, assess gross Part 1.3 tax of $7,754.94, which was offset by applying surtax credits of a subsequent year;
+
+(ii) By Notice of Reassessment dated April 19, 1996 for its 1994 taxation year to assess gross Part I.3 tax of $3,294.79, which was offset by current year surtax credits.
+
+(b) Civil - by Notices of Reassessment dated April 25, 1996, for its 1993 and 1994 taxation years for Part I.3 tax of $873.31 in 1993 and $12,669.07 in 1994 on the basis that the capital of Civil included the Unearned Amounts of Civil;
+
+(c) Eastern - by Notices of Reassessment dated May 6, 1996, for Part I.3 tax of $15,450.18 in 1993 and $20,507.07 in 1994 on the basis that the capital of Eastern included both the Outstanding Cheques and the Unearned Amounts of Eastern;
+
+(d) Pacific - By Notices of Reassessment dated April 22, 1996, for its 1993 and 1994 taxation years, inter alia, for Part I.3 tax of $10,972.70 in 1993 and $8,020 in 1994 on the basis that the capital of Pacific included both the Outstanding Cheques and the Unearned Amounts of Pacific;
+
+(e) Prairie - by Notice of Reassessment dated May 6, 1996, for its 1994 taxation year for Part I.3 tax of $8,008.67 on the basis that the capital of Prairie included both the Outstanding Cheques and the Unearned Amounts of Prairie.
+
+11. Each Subco objected to the reassessments on a timely basis.
+
+12. The Minister confirmed the reassessments of the Subcos by Notifications of Confirmation by the Minister as follows:
+
+(a) CMI - date November 29, 1996 (for the 1993 taxation year only);
+
+(b) Eastern and Civil - dated November 29, 1996;
+
+(c) Pacific and Prairie - dated November 29, 1996.
+
+[7] There is no dispute between the parties as to the calculations involved in the assessments; their disagreement is simply as to whether the unearned amounts are properly included in capital. In these reasons I shall ignore the amalgamations that took place in 1995. I shall refer to the Appellants and to their predecessor companies simply as the Appellants.
+
+[8] Mr. Duane Sommerfeld, Corporate Manager of Finance and Accounting for the group, described in his evidence the percentage completion method of accounting as it is applied by these Appellants. The construction contracts which the Appellants undertake are of such a size and nature that their completion requires a long period of time. Typically, they would not be completed within one fiscal period. Contract prices are established by tender, and payment is made periodically throughout the life of the contracts by means of progress billings. Where contracts are completed during one fiscal period, all the income arising out of the contract is considered to be earned in that fiscal period. However, where the work on a contract is carried out over more than one fiscal period, there is a need for a method of recognizing profit as it is earned throughout the life of the contract. The percentage completion method of accounting fills that need. By that method, at least in theory, the contractor recognizes and brings into income during each fiscal period the amount of profit that relates to the work done under the contract during that period.
+
+[9] In the case of these Appellants, the amount of profit to be recognized and brought into income each year for financial statement purposes was determined by what is called the cost-to-cost method. By this method, the costs incurred by the contractor for each of its contracts during each fiscal period are compared to the estimated total costs to complete that contract, thereby establishing the percentage of completion for the period. This percentage is then applied to the total profit which it is estimated will be realized on the whole contract, to establish the profit to be recognized for that contract for the fiscal period in question. The calculations for succeeding fiscal periods are based on estimates of total cost and total profit that have been revised as a result of experience to date.
+
+[10] Throughout the life of each project, progress billings are issued by the Appellants to the project owners, who pay them after certification by the architect. These billings are based upon the percentage of completion of the projects, as estimated by the Appellants' foremen and supervisors through inspection of the work. Unlike billings for contracts under which one invoice is sent after completion of all the work, neither the sending of an invoice to the owner, nor the certification and payment of it, has the effect of establishing that an amount has been earned as revenue. Revenue, and hence profit, are only recognized by the process I have described, at the end of each period.
+
+[11] It is inherent in the percentage completion method of accounting that the progress billings issued during any period may exceed the sum of the costs incurred and the profit considered to have been earned during the same period. This may occur for one of several reasons. The bid may have been structured in such a way as to ensure a higher than average degree of profitability in the early phases of the work. Another cause may be what was referred to in the evidence as aggressive billing, whereby the contractor bills the owner on the basis of generous estimates of the degree of completion. For present purposes, it is sufficient to know that at the end of each of the 1993 and 1994 fiscal periods, the Appellants had invoiced the owners of their ongoing construction projects for amounts which, in the aggregate, exceeded the aggregate of the costs incurred and the profit recognized in connection with those projects up to those dates. The difference comprises the unearned amounts, and at year end they are shown on the balance sheet as a liability, under the rubric "Unearned revenues and contract advances". As will become clear later, it is important to note that although this amount is based upon invoices delivered to customers before year end, not all of these invoices had been paid by the end of the period.
+
+[12] The Appellants called Mr. Kenneth Sutley to give opinion evidence as to whether, under generally accepted accounting principles (GAAP), the unearned amounts which appear on the liability side of the balance sheets of the Appellants constitute reserves, provisions, allowances, loans or advances for accounting purposes. In response to the second amendment to the Replies, he was also asked to give an opinion as to whether they are surpluses. The Respondent called Professor Leonard Eckel, who was asked to answer the following question:
+
+PCL has recorded an account entitled unearned revenues and contract advances as a liability on its balance sheet, and the account clearly relates to PCL's construction operations. What is the nature of such an account, why and how do debit and credit balances in such an account come into existence, and how are they accounted for?
+
+[13] Both of these witnesses are highly qualified to opine on matters pertaining to accounting principles in general, and GAAP in particular. Mr. Sutley holds the degrees MBA and PhD from the University of Chicago. Mr. Eckel earned the same degrees from the University of Michigan. Both have been chartered accountants for more than twenty years. Mr. Sutley has taught at the University of Alberta, and since 1993 has been in practice as an accountant and as a consultant. Professor Eckel's career has been more academically oriented. From 1966 to 1981 he taught at McMaster University. Since 1981 he has been a Professor of Accounting at the University of Waterloo. There is little to choose between their qualifications. Both, I believe, genuinely attempted to assist the Court, as is the role of an expert witness.
+
+[14] In giving his opinion, Mr. Sutley referred to the Handbook of the Canadian Institute of Chartered Accountants (CICA), and to the CICA publication Terminology for Accountants. In his opinion, the item "Unearned Revenue and Contract Advances" (that is, the unearned amounts) does not constitute reserves, provisions, allowances, loans or surpluses for accounting purposes. As to whether they constitute advances, he said in the written statement of his evidence:
+
+5. In my opinion the line item described as "Unearned Revenue and Contract Advances" taken as a whole does not constitute advances for accounting purposes under generally accepted accounting principles, but certain individual contracts within the total may constitute advances for accounting purposes under generally accepted accounting principles. Refer to Section 5.
+
+[15] I do not propose to review in detail all his evidence with respect to the suggestion that the unearned amounts might be provisions, allowances or loans. As to provisions and allowances, he relies on Terminology for Accountants. That work does not define a loan, but Mr. Sutley referred to several dictionaries, all of which define a loan as requiring that there be both an amount lent to another party, and an obligation on that other party to make repayment. More important, this is the conclusion reached by Christie A.C.J. in A.C. Simmonds & Sons Limited v. M.N.R.[1] I consider this aspect of Mr. Sutley's opinion to be unassailable. I did not understand counsel for the Respondent to seriously contest this part of his evidence.
+
+[16] As to the definition of a reserve, Mr. Sutley had this to say:
+
+Reserve
+
+The CICA publication, Terminology for Accountants, defines a reserve as follows:
+
+1. An amount which, though not required to meet a liability or contingency known or admitted or a decline in value which has already occurred, has been appropriated from retained earnings or other surplus, at the discretion of management or pursuant to the requirements of a statute, the instrument of incorporation or by-laws of a company or a trust indenture, or other agreement, for a specific or general purpose such as a future decline in inventory values, general contingencies, future plant extension and redemption of stock or bonds.
+
+2. Under income tax legislation, the term has several special meanings.
+
+The second definition is not relevant to my opinion under generally accepted accounting principles.
+
+Section 3260 of the CICA Handbook, "Reserves", recommends that:
+
+1. The use of the term "reserve" should be limited to [the same definition as given in 1. above]. (para 3260.01)
+
+2. Reserves should not be set up or increased by charges made in arriving at net income for the period. (para 3260.02)
+
+3. Reserves should be shown as part of shareholders' equity. (para. 3260.04)
+
+...
+
+For the Unearned Amounts to constitute reserves for accounting purposes, they would have to fall within the definition of a reserve in Section 4. An appropriation of retained earnings reduces unappropriated retained earnings and increases appropriated retained earnings. Furthermore, as required by Section 3400 of the CICA Handbook, reserves are reported as part of shareholders' equity.
+
+As described in Section 3, the Unearned Amounts arise from the application of the percentage of completion method of recognizing revenue. They are not an appropriation of retained earnings or surplus as contemplated by the CICA and were reported as a liability.
+
+Conclusion - The line item on the liability side of the balance sheet entitled "Unearned Revenues and Contract Advances" does not constitute reserves for accounting purposes under generally accepted accounting principles.
+
+This conclusion was not challenged by counsel for the Respondent either. Nor did Professor Eckel offer any different opinion.
+
+[17] Mr. Sutley's evidence as to the question whether the unearned amounts constitute advances divides into two parts. According to Terminology for Accountants, a payment received on account of, but before completion of, a contract, or before delivery of goods or services, is an advance for accounting purposes. An essential element, in his opinion, however, is that the payment must have been received. Mr. Sutley concludes his analysis of the problem in respect of the word advance in this way:
+
+The liability reported on the balance sheet under GAAP is an aggregate of individual contracts which will fall into three categories:
+
+a) The "textbook" contract where revenue recognized to date exceeds billings to date. For this type of contract the excess does not represent unearned revenues and therefore cannot constitute advances.
+
+b) An "unearned revenue-accounts receivable" contract where billings to date exceed revenue recognized to date but the excess amount remains in accounts receivable because it has not been received from by the customer as of the balance sheet date. For this type of contract the excess represents unearned revenue but not advances because cash has not been received in excess of revenue earned.
+
+c) An "unearned revenue-advances" contract where billings to date exceed revenue recognized to date and in addition at least a portion of the excess amount has been paid by the customer. For this type of contract the portion paid by the customer constitutes advances. The amount of the advances can be determined as the amount by which the unearned revenue liability exceeds the amount outstanding in accounts receivable for the contract.
+
+The above shows that advances on individual contracts may exist in the aggregate liability reported on the balance sheet. But is that sufficient to justify a conclusion that the aggregate liability constitutes advances? In my opinion, the answer is no. In my mind one cannot simply look at the balance sheet and characterize the entire Unearned Amounts as advances. Doing so ignores the complex interactions needed to produce advances and the nature of the liability as an aggregate of three types of contracts only one of which constitutes advances. While a portion of the aggregate may constitute advances we cannot be certain that it contains any. In my view under these circumstances one should not conclude that the aggregate constitutes advances.
+
+Conclusion
+
+In my opinion the line item described as "Unearned Revenue and Contract Advances" taken as a whole does not constitute advances for accounting purposes under generally accepted accounting principles, but on a contract-by-contract basis a portion of the total may constitute advances for accounting purposes under generally accepted accounting principles.
+
+Using Contract-by Contract Information
+
+Pacific and Prairie provided me with the attached schedules showing, on a contract-by-contract basis, the amount included in the unearned revenue liability (first two columns) and the amount included in accounts receivable (last three columns). This information is used to identify the "unearned revenues-advances" type of contracts and to compute the amount of advances at the balance sheet date on a contract-by-contract basis according to c) above.
+
+The computed advances are indicated by a negative balance in the last column, labelled "Net Balance". The total of all those contracts with negative balances is also shown on the schedule.
+
+Based on these schedules, on a contract-by-contract basis, $1,691,295 for 1993 and $1,419,681 for 1994 for Pacific and $302,599 for 1994 for Prairie constitute advances for accounting purposes.
+
+[18] Professor Eckel, no doubt because of the way in which his instructions were framed, took a different approach in his evidence. Much of his evidence was directed to a description of the way in which the percentage of completion method of revenue recognition works. Unlike Mr. Sutley, he did not deal specifically with each of the elements of the definition of capital found in subsection 181.2(3). His written statement of evidence deals with the nature of the unearned amounts, as opposed to the computation of them, in the following two passages:
+
+Contract advances
+
+Conceptually, an "advance" includes amounts received or receivable before the firm has completed the work that would entitle the firm to the funds. Essentially, the amount is a payment in advance for work to be performed at a later date. Because the work has not been performed, the advance is not taken to the income statement as revenue, but instead is carried on the balance sheet as a liability in accordance with GAAP. This liability interpretation is intuitively reasonable: since the work has not been performed, the firm is "liable" to the customer for performance, which presumably would entail effort and costs, or refund of the amount received. When the work has been performed, the advance amount will be taken off the balance sheet and recognized as revenue in the income statement. Conceptually, an advance results from the receipt of an asset to which the contractor has no right in terms of costs incurred or contract performance.
+
+The measurement of the amount of the advance may be difficult. If a total amount is received and some part of that total amount relates to work that has not yet been performed, then the determination of the advance amount would require the measurement of the degree to which the work has actually been performed.
+
+An advance is a liability.
+
+and
+
+So what does this "excess" or "unearned revenue" mean? What can be said of the "unearned revenues and contract advances" reported by PCL and capital employed?
+
+Our analysis has shown us that his "unearned" amount can be defined only as "the excess of billings over the costs and profit recognised in accordance with GAAP and the POC method".
+
+When the firm has experienced an increase in net assets that is in the nature of income, that increase in net assets must be recognised in accordance with GAAP. When that increase in net assets is related to the performance of a long-term contract, it can be recorded as an advance, or earned revenue, or unearned revenue.
+
+· If it is an advance, then it is a liability and eligible to be included in capital employed.
+
+If the billing includes an advance, the advance should be separated from the remainder of the billing. That will leave the net billing as either earned or unearned revenue.
+
+· To the extent that the net billing is earned revenue, it will be taken to revenue in the income statement and to net income, and then to retained earnings. Retained earnings is part of owners equity and part of capital employed.
+
+· What remains of the billings is unearned revenue; it is equal to the net billing remaining after the earned revenue was taken to the income statement, income, and retained earnings. As discussed above, the unearned revenue is a liability. As such, it is eligible to be included as part of capital employed.
+
+It is important to note, however, that the discussion which leads to the latter conclusion is preceded by this statement on page 13:
+
+For purposes of discussion, let us assume both that the estimated revenue under %-of-completion is in accordance with GAAP, and that the customer has paid the billing. (emphasis added)
+
+[19] The first of these assumptions is correct; the second is correct only as to some, not all, of the Appellants' contracts at the year ends in question. The major fallacy in Professor Eckel's evidence lies in the last two sentences, and in this assumption. He does not address the specifics of the definition of capital found in subsection 181.2(3), but assumes that if it is a liability then it must be "eligible to be included as part of capital ...". This ignores that capital is defined by aggregating the items enumerated in paragraphs 181.2(3)(a) to (g). Paragraphs (c), (d), (e) and (f) bring in specific kinds of indebtedness; but for the purposes of Part I.3 of the Act indebtedness is only to be included in capital if it can be brought within the specific words of those paragraphs. The only one within which the amounts in issue here could conceivably come, on the evidence, is
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+[20] There is, therefore, no disagreement between Mr. Sutley and Professor Eckel as to this; the unearned amounts are liabilities. Professor Eckel would include it all in capital, simply because it is a liability. Perhaps this results from his wrong assumption "that the customers have paid the billing". Or it may be because he takes the broad view of "capital" which was urged upon me by counsel for the Respondent. This broad view has gained some acceptance in the United States, under legislation similar in purpose to, but different in structure from, Part I.3 of the Act: see United North & South Development Co. v. Heath;[2] Central Power & Light Co. v. Bullock.[3]
+
+[21] However, these cases do not arise under legislation which specifies in detail, as does Part I.3, the liabilities that are to be included in the computation of capital. Parliament has described meticulously in subsection 181.2(3) which elements of the balance sheet, and in particular which liabilities, are to be included as part of capital. The unearned amounts do not meet the description of the included liabilities, except to the extent that they are "advances". I find nothing in Professor Eckel's evidence to support the view that the unearned amounts which remain unpaid at the end of the period should be considered advances. I accept Mr. Sutley's opinion, which is clearly reasoned and based on the authoritative CICA publications, that the unearned amounts may only be characterized as advances after the billings giving rise to them have been paid, and the amounts have therefore been received. This view is also consistent with the decisions of the Federal Court of Appeal in Oerlikon Aérospatiale Inc. v. The Queen[4] and the Ontario Court of Appeal in TransCanada Pipelines Ltd. v. Ontario (Minister of Revenue).[5]
+
+[22] Counsel for the Crown argued that the unearned amounts should, on a broad view of the word surplus, be included in capital under paragraph 181.2(3)(a) as "other surpluses". Support for this is said to be found in Upper Lakes Shipping Ltd. v. Ontario (Minister of Revenue).[6] In that case Potts J. held that the entire amount of a government grant should have been included in the corporation's paid-up capital for purposes of the Corporations Tax Act, R.S.O. 1980 c. 97 in the year in which it was received. The definition of paid-up capital in that Act includes, by paragraph 53(1)(b) "earned, capital and any other surplus". He reached his conclusion on the basis that the phrase should be given a broad, non-technical meaning. This judgment was reversed on appeal. The Ontario Court of Appeal held that although GAAP is not definitive for purposes of the statute, nevertheless
+
+...the plain and ordinary meaning of these words should be taken from the language accountants speak, not that of persons who are not involved with corporate balance sheets. The tax assessors know accounting language, as do the accountants who certify the corporation's financial statements.[7]
+
+Counsel for the Crown submitted that since the judgment of the Supreme Court of Canada in Canderel Limited v. The Queen,[8] the judgment of Potts J. is to be preferred to that of the Court of Appeal. However, I see nothing in Canderel, a case concerned with the computation of income, that might have led the Court of Appeal to a different conclusion as to the interpretation of a provision which defines and taxes corporate capital.
+
+[23] I note too that in subsection 181(3) of the Act, Parliament has directed the use of a balance sheet prepared in accordance with GAAP to determine carrying values and other amounts.
+
+181(1) For the purposes of this Part,
+
+...
+
+181(3) For the purposes of determining the carrying value of a corporation's assets or any other amount under this Part in respect of a corporation's capital, investment allowance, taxable capital or taxable capital employed in Canada for a taxation year or in respect of a partnership in which a corporation has an interest,
+
+(a) the equity and consolidation methods of accounting shall not be used; and
+
+(b) subject to paragraph (a) and except as otherwise provided in this Part, the amounts reflected in the balance sheet
+
+(i) presented to the shareholders of the corporation (in the case of a corporation that is neither an insurance corporation to which subparagraph (ii) applies nor a bank) or the members of the partnership, as the case may be, or, where such a balance sheet was not prepared in accordance with generally accepted accounting principles or no such balance sheet was prepared, the amounts that would be reflected if such a balance sheet had been prepared in accordance with generally accepted accounting principles, or
+
+...
+
+shall be used.
+
+Subject to specific direction to the contrary elsewhere in Part I.3 of the Act[9], GAAP applies to determine "amounts". That seems a strong indication that if not GAAP then at least "the language accountants speak" must govern the characterization of amounts for the purposes of this Part. I am not persuaded that these unearned amounts would, even on a broad view, be properly described as surplus. Both experts agree that they are liabilities.
+
+[24] The remaining question is whether it is permissible to look behind the balance sheet to divide the unearned amounts into that which had been received by year end and therefore should, on the evidence of the Appellants' own expert, be considered advances and so included in capital, and that which remained receivable, and therefore is not to be included. This point was scarcely addressed in argument.
+
+[25] I see no reasonable alternative to doing so. Certainly, on the evidence of Mr. Sutley, which I accept, it is only by doing so that the assessor could achieve an accurate result. Does subsection 181(3) preclude this approach? I do not believe it does. So far as they are relevant to this issue the words of the subsection are:
+
+For the purpose[s] of determining ... any ... amount under this Part in respect of a corporation's capital ... the amounts reflected in the balance sheet ... prepared in accordance with GAAP ... shall be used.
+
+The use of the words "reflected in the balance sheet" indicates a clear intention on the part of the drafter to leave it open to consider the components of a balance sheet item where some, but not all, of those components fall within the statutory definition of capital. This is such a case. The intention that GAAP should prevail in fixing quantum would be frustrated if the item "Unearned Revenues and Contract Advances" could only be excluded or included in its entirety. If that were the legislative intent then parliament would have used the expression "appearing on the balance sheet". The unearned amounts which are advances do not appear on the Appellants' balance sheets, but they are reflected in them as an identifiable component of the amounts which do appear there.
+
+[26] The appeal of PCL Construction Management Inc for the 1994 taxation year will be dismissed. The other appeals will be allowed, and the assessments referred back to the Minister for reconsideration and reassessment to delete from the computations of capital the amounts relating to outstanding cheques which were conceded by the Crown at trial, and to delete the portions of the unearned amounts in each case which had not been received at the pertinent year end.
+
+[27] Counsel, if they cannot agree as to the disposition of costs, may arrange through the Registrar's Office to make written submissions. Counsel for the Appellants is requested to prepare draft judgments for my signature, subject to approval as to form and content by counsel for the Respondent.
+
+Signed at Ottawa, Canada, this 24th day of July, 2000.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 97-950(IT)G, 97-951(IT)G and 97-952(IT)G
+
+STYLE OF CAUSE: PCL Construction Management Inc.,
+
+PCL Constructors Eastern Inc.,
+
+PCL Constructors Canada Inc. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Edmonton, Alberta
+
+DATE OF HEARING: March 8 and 9, 1999
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: ...
+
+APPEARANCES:
+
+Counsel for the Appellant: Cheryl A. Gibson
+
+Counsel for the Respondent: James Yaskowich and Rhonda Nahorniak
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Cheryl A. Gibson
+
+Firm: Cruickshank Karvellas
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] 89 DTC 707 at 709.
+
+[2] 78 S.W. (2d) 650.
+
+[3] 696 S.W. 2d 30.
+
+[4] 99 DTC 5318 at 5323-4.
+
+[5] [1993] 1 C.T.C. 277 at 279.
+
+[6] [1995] O.J. No. 960.
+
+[7] Upper Lakes Shipping Ltd. v. Minister of Finance, 98 DTC 6264 at 6265.
+
+[8] 98 DTC 6100.
+
+[9] See for example Oerlikon Aérospatiale Inc. v. The Queen, supra.
+

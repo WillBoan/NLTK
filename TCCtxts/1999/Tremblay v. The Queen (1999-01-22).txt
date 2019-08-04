@@ -1,0 +1,72 @@
+Date: 19990119
+
+Docket: 98-1236-IT-I
+
+BETWEEN:
+
+DANIEL TREMBLAY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on December 9, 1998, at Québec, Quebec, by the Honourable Judge Pierre Archambault
+
+Reasons for judgment
+
+Archambault, J.T.C.C.
+
+[1] This is an appeal under the informal procedure from an income tax assessment for the 1995 taxation year. The Minister of National Revenue (Minister) disallowed Mr. Tremblay’s deduction of $10,470 as alimony. That amount (housing expenses) was paid pursuant to article 4 of an agreement on corollary relief (Agreement) entered into by Mr. Tremblay and Johanne Boivin, his spouse, on September 27, 1993. The article in question provides as follows:
+
+[TRANSLATION]
+
+As alimony in respect of the children, the defendant shall, until the family home is sold, make the monthly mortgage payment and pay the loan taken out during the marriage (personal loan). He shall likewise pay the municipal and school taxes and the insurance on the immovable when they fall due.
+
+[2] On October 6, 1993, in her divorce judgment, Boisvert J. of the Superior Court of Quebec made the Agreement enforceable. Counsel for Mr. Tremblay admitted that the housing expenses were paid to third parties.
+
+[3] Mr. Tremblay testified that it was important to him that the expenses be deductible in computing his income. He said that his lawyer confirmed to him that this would be the case. However, there is nothing in the wording of the Agreement or the divorce judgment to indicate that subsections 56.1(2) and 60.1(2) of the Income Tax Act (Act) apply to the housing expenses described in article 4 of the Agreement.
+
+[4] The Minister argued that housing expenses paid to third parties are not “alimony” or an “other allowance” provided for in paragraph 60(b) of the Act. Moreover, subsection 60.1(2) of the Act does not apply so as to allow Mr. Tremblay to deduct the housing expenses, since neither the Agreement nor the judgment states that the amounts in question will be deductible under subsection 60.1(2) of the Act.
+
+[5] Since there is no such provision, Mr. Tremblay obviously cannot avail himself of subsection 60.1(2) of the Act. What remains to be determined is whether the housing expenses constitute alimony or an “other allowance”. It is clear from subsection 56(12) of the Act that they are not an allowance, since Ms. Boivin did not have discretion as to the use of the amounts paid for those expenses. Subsection 56(12) of the Act provides as follows:
+
+56(12) Subject to subsections 56.1(2) and 60.1(2), for the purposes of paragraphs (1)(b), (c) and (c.1) (in this subsection referred to as the “former paragraphs”) and 60(b), (c) and (c.1) (in this subsection referred to as the “latter paragraphs”), “allowance” does not include any amount that is received by a person, referred to in the former paragraphs as “the taxpayer” and in the latter paragraphs as “the recipient”, unless that person has discretion as to the use of the amount.
+
+[6] That leaves the question of whether housing expenses paid to third parties can constitute alimony. Unfortunately for Mr. Tremblay, I do not think that such expenses constitute alimony within the meaning of paragraph 60(b) of the Act, for a number of reasons.
+
+[7] First of all, it must be remembered that, even though the Agreement provides that the housing expenses are paid “as alimony”, this does not necessarily mean that the payment of those expenses represents alimony within the meaning of paragraph 60(b). That is a question of law that the Court must decide by considering the true nature of the amounts referred to in article 4 of the Agreement.
+
+[8] It is clear that the housing expenses Mr. Tremblay paid to third parties were paid to benefit his children living with Ms. Boivin and to fulfil his support obligation. However, those expense payments did not have the attributes of a periodic sum or allowance paid to a person. The amount was not one that Ms. Boivin could spend as she pleased. Rather, it was the payment of a specific expense by Mr. Tremblay.
+
+[9] One might be inclined to give a broader meaning to the term “alimony”, for example, that of any support payment provided for in a written agreement or court order. However, I believe that such an interpretation must be rejected. First of all, there is the context in which Parliament has used the term. By juxtaposing “alimony” and “other allowance”, Parliament has shown that it is adopting the narrowest meaning of “alimony”, namely that of an allowance.
+
+[10] I also believe that this narrow meaning is more consistent with what Parliament intended. In Jacques v. Canada, [1994] T.C.J. No. 561, I had an opportunity to address the same issue as that which has arisen in this case. In particular, I analyzed the historical context of subsection 56(12) of the Act and Parliament’s intent in enacting it. I referred, inter alia, to budget papers tabled in the House of Commons on February 10, 1988, by the Honourable Michael H. Wilson, Minister of Finance, in which the following was stated:
+
+For the 1988 and subsequent taxation years, the amendments will restore the status quo prior to the Gagnon decision. Thus, third party payments after 1987 will fall within the rules set out in sections 56.1 and 60.1 of the Act.
+
+[11] Given the wording of paragraph 60(b), subsection 56(12) and section 60.1 of the Act, it is clear that specific amounts paid to third parties generally cannot be deducted under paragraph 60(b) of the Act. However, Parliament exempts taxpayers from this general rule if both parties to an agreement on support payments agree that those amounts—which are not allowances (for example, the housing expenses in the case at bar)—will be deductible by the payer and taxable in the recipient’s hands. Likewise, a judge may decide that this will be the case in his or her order. However, it is important that the parties’ agreement or the court order provide that subsections 56.1(2) and 60.1(2) of the Act apply to any payment provided for in the agreement or order. If the term “alimony” had to be given the broad meaning of any amount paid under a written agreement or order, what would have been the point of enacting subsections 56(12), 56.1(2) and 60.1(2) of the Act? I think that adopting the narrow meaning of “alimony” is more in keeping with those provisions of the Act.
+
+[12] Finally, there is another possible reason to conclude that housing expenses do not constitute alimony. Paragraph 60(b) of the Act uses the term “alimony” in English and “pension alimentaire” in French. As I stated in Jacques, supra, in the common law provinces, the term “alimony” is limited to payments made to a spouse. Once a divorce is obtained, payments are no longer “alimony”. It is interesting to note that sections 15.1 and 15.2 of the Divorce Act, which deal with child and spousal “support orders”, use neither the term “alimony” nor the term “pension alimentaire”;[1] rather, they refer to a payment “for the support” or “prestation pour les aliments”. If Parliament had intended that any support payment should be deductible under paragraph 60(b) of the Act, it would have used the term “support payment” (or a similar term) and not “alimony”.
+
+[13] In conclusion, I do not think that housing expenses constitute “alimony or other allowance” within the meaning of paragraph 60(b) of the Act, and the $10,700 paid by Mr. Tremblay in 1995 cannot be deducted in computing his income.
+
+[14] For these reasons, Mr. Tremblay’s appeal is dismissed without costs.
+
+Signed at Ottawa, Canada, this 19th day of January 1999.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 7th day of September 1999.
+
+Erich Klein, Revisor
+
+[1] Since what is involved is an order relating to divorce, which is within federal jurisdiction, the Quebec Civil Code is not relevant.
+

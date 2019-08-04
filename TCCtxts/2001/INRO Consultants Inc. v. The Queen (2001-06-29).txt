@@ -1,0 +1,236 @@
+Date: 20010629
+
+Docket: 1999-4233-IT-I
+
+BETWEEN:
+
+INRO CONSULTANTS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+P.R. Dussault, J.T.C.C.
+
+[1] This is an appeal from an assessment for the Appellant's 1994 taxation year. By that assessment, the Minister of National Revenue ("Minister") refused to allow as a research and development expense for the purpose of calculating the Appellant's investment tax credit an amount of $47,341.00 paid to the Université de Montréal ("University"). The Minister considered that amount to be a royalty payment.
+
+LEGISLATION
+
+[2] The relevant version of paragraph 37(1)(a) of the Income Tax Act (the "Act") reads in part as follows:
+
+37. (1) Where a taxpayer carried on a business in Canada in a taxation year and files with the taxpayer's return of income under this Part for the year a prescribed form containing prescribed information, there may be deducted in computing the taxpayer's income from the business for the year such amount as the taxpayer may claim not exceeding the amount, if any, by which the total of
+
+(a) the total of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973 [. . .]
+
+(ii) by payments to
+
+[. . .]
+
+(B) an approved university, college, research institute or other similar institution,
+
+[. . .]
+
+to be used for scientific research and experimental development carried on in Canada, related to a business of the taxpayer, and provided that the taxpayer is entitled to exploit the results of that scientific research and experimental development [. . .]
+
+Subsection 37(4) reads:
+
+(4) No deduction may be made under this section in respect of an expenditure made to acquire rights in, or arising out of, scientific research and experimental development.
+
+[3] Subsection 127(5) provides for the investment tax credit. Pursuant to subsection 127(9), a qualified expenditure for the purposes of the investment tax credit is an expenditure described in paragraph 37(1)(a) but does not include a prescribed expenditure. Pursuant to section 2902 of the Income Tax Regulations (the "Regulations"), a prescribed expenditure is:
+
+(c) an expenditure made to acquire rights in, or arising out of, scientific research and experimental development.
+
+ASSUMPTIONS OF FACT AND EVIDENCE
+
+[4] In assessing the Appellant, the Minister relied on the assumptions of fact found in subparagraphs 4 (a) to (h) of the Reply to the Notice of Appeal, which read as follows:
+
+a) Appellant is incorporated under the Canada Business Corporations Act and has a fiscal year ending each August 31st;
+
+b) Dr. Michael Florian a full time professor at the University of Montreal is the sole shareholder of INRO HOLDINGS INC. which in turn is the sole shareholder of the Appellant;
+
+c) During the early part of the 1980's Dr. Michael Florian and Dr. Heinz Spiess developed a software program known as EMME/2;
+
+d) EMME/2 is an urban transport optimization software package allowing organizations around the world, both public and private, to outline the optimal transport mode for defined commercial/industrial undertakings;
+
+e) On March 15, 1988 an agreement [subsequently modified on August 28, 1989] was duly signed between the University of Montreal and Dr. Michael Florian and Dr. Heinz Spiess which provided inter alia on the one hand for the transfer of rights of ownership of EMME/2 and on the other hand for a method of allocation of the royalties received by the University of Montreal; of interest is clause 2.01 of the agreement which reads as follows:
+
+Clause 2.01:
+
+"Tous les droits de propriété des inventeurs, y compris la propriété intellectuelle, découlant de la découverte, sont cédés à l'Université."
+
+f) On March 15, 1988 an agreement was duly signed between the University of Montreal and INRO CONSULTANTS INC. [the Appellant] providing inter alia for the exclusive world right to sell licenses for the use of EMME/2; of interest is clause 2.01 of the agreement which reads in part as follows:
+
+Clause 2.01:
+
+"L'Université octroie à la Société une licence exclusive et assujettie à des redevances l'autorisant à vendre la "découverte" sur le territoire mondial. Cette licence exclut le droit de distribuer ou vendre la source de la découverte . . ."
+
+g) an amount of $47,341. paid in 1994 by the Appellant to the University of Montreal pursuant to the March 15, 1988 agreement is a royalty payment and does not constitute a scientific research and experimental development expense which would allow Appellant to earn an investment tax credit on an expenditure in respect of scientific research and experimental development;
+
+h) the nature of the payment is not altered by the subsequent use of the royalty payment.
+
+[5] Mr. Michael Florian was the only witness.
+
+[6] Mr. Florian started teaching computer science and operational research at the University on a part-time basis in 1968 and on a full-time basis in 1969. In 1973, the "Centre de recherche sur les transports" ("CRT") was created and Mr. Florian was appointed as its first director, a position that he still holds today. The CRT is an interdisciplinary research centre with its own budget and it is accountable to the "vice-recteur à la recherche" ("Vice-rector, Research") of the University. Mr. Florian was on secondment from his department on a half-time basis to work at the CRT.
+
+[7] Mr. Florian stated he had been working on the project that resulted in the development of the software package known as EMME/2 since as early as 1973. A certain Mr. Heinz Spiess, a student at first and subsequently an assistant professor in the Computer Science and Operational Research Department as well as a visiting researcher at the CRT, developed the software product. The source code was developed between 1980 and 1983-84 and this gave rise to an initial EMME package. The second stage of the research involved in developing EMME/2 was funded mainly by different levels of government in Canada and abroad. There were no funds coming directly from the University.
+
+[8] The discussions leading to the two March 15, 1988 agreements, one between the University and Messrs. Florian and Spiess, and the other between the University and the Appellant, started in 1985. The University was represented by a lawyer but the other parties were not. Mr. Florian testified that their main concern was not legal in nature. As research is an ongoing activity, he said that they wanted a constant stream of funds for research, which is precisely what was achieved by the agreements. According to him, that was a condition of the sale.
+
+[9] Both agreements are in French. The first is between the University and Messrs. Florian and Spiess (Exhibit R-2). The preamble recites that Messrs. Florian and Spiess (the "inventors") have developed the software package EMME/2 as well as a user's manual as part of a research project at the CRT. It also states that there is a presumption that both parties to the agreement have proprietary rights in the software package, that the package is of commercial interest, that it is the intention of the parties to market it, and that it is the University's intention to market it through the Appellant, a corporation in which Mr. Florian has an interest. Further on, the software package EMME/2 is defined as being the invention. The package includes, among other things, all adaptations, improvements and subsequent versions of EMME/2 as well as all applications and utilities.
+
+[10] As stated in subparagraph 4(e) of the Reply to the Notice of Appeal, all the inventors' rights in the invention are transferred to the University by clause 2.01 of the agreement. Clause 3 provides for the allocation of the royalties resulting from the marketing of the invention and received by the University from the Appellant to four different defined funds on the basis of fixed percentages for each of six levels of royalties received. One fund is earmarked for Mr. Spiess personally. A second is for amounts at the disposal of Mr. Spiess for current expenses as a visiting researcher. The third fund represents amounts at the disposal of Mr. Florian for current expenses as a researcher and the fourth is for amounts at the disposal of the "vice-recteur à la recherche" of the University for the implementation of the University's policy of promotion and development with respect to research results.
+
+[11] According to Mr. Florian's testimony, the amount of $47,341.00 in issue in the present case represents the percentage of royalties paid by the Appellant to the University and allocated to his own research fund, i.e. the amount at his disposal for current expenses as a researcher.
+
+[12] The second agreement (Exhibit R-1) is between the University and the Appellant. The preamble refers to the agreement between the University and Messrs. Florian and Spiess. It also states the intention of the Appellant to develop and sell licences to use the software package EMME/2 in both its current and its future state of development. As recited in subparagraph 2(f) of the Reply to the Notice of Appeal, by clause 2.01 the University grants the Appellant an exclusive licence, subject to royalties, to sell the invention worldwide. Clause 3.02 stipulates that the Appellant is to act as a principal, and not as an agent for the University. Clause 3.03 sets out the requirement that the licences issued mention the University's intellectual and industrial property rights with respect to the invention. Clause 3.04 contains a schedule of the royalties to be paid, which are set as a percentage of different levels of net income from the licences sold.
+
+ARGUMENTS AND ANALYSIS
+
+1) Position of the Appellant
+
+[13] The Appellant's representative argued that the amount paid to the University in 1994 and allocated to Mr. Florian's research fund should be considered not as a royalty payment but rather as an expense for scientific research and experimental development incurred for the benefit of the Appellant, and that it is thus covered by paragraph 37(1)(a) of the Act. He submitted that the agreement between the University and the Appellant (Exhibit R-1) should be read in conjunction with the agreement between the University and the inventors (Exhibit R-2), which provides that the amount in issue is to be allocated to Mr. Florian's research fund to be used for scientific research and experimental development. To support his contention, the Appellant's representative relied on the decision of the Supreme Court of Canada in The Queen v. Bronfman Trust, [1987] 1 S.C.R. 32, and more particularly on the following passage at pp. 52 and 53:
+
+I acknowledge, however, that just as there has been a recent trend away from strict construction of taxation statutes (see Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at pp. 573-79, and The Queen v. Golden, [1986] 1 S.C.R. 209 at pp. 214-15); so too has the recent trend in tax cases been towards attempting to ascertain the true commercial and practical nature of the taxpayer's transactions. There has been, in this country and elsewhere, a movement away from tests based on the form of transactions and towards tests based on what Lord Pearce has referred to as a "common sense appreciation of all the guiding features" of the events in question: B.P. Australia Ltd. v. Commissioner of Taxation of Australia, [1966] A.C. 224 (P.C.), at p. 264. See also F.H. Jones Tobacco Sales Co., [1973] F.C. 825 (T.D.) at p. 834, [1973] C.T.C. 784 at p. 790, per Noël A.C.J.; Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation (1946), 8 A.T.D. 190 (High Ct.) at p. 196 per Dixon, J.; and Cochrane Estate v. Minister of National Revenue, 76 D.T.C. 1154 (T.R.B.), per Mr. A. W. Prociuk, Q.C.
+
+This is, I believe, a laudable trend provided it is consistent with the text and purposes of the taxation statute. Assessment of taxpayers' transactions with an eye to commercial and economic realities, rather than juristic classification of form, may help to avoid the inequity of tax liability being dependent upon the taxpayer's sophistication at manipulating a sequence of events to achieve a patina of compliance with the apparent prerequisites for a tax deduction.
+
+[14] The Appellant's representative also made reference to the decision of the Supreme Court of Canada in Shell Canada Limited v. Canada, [1999] 3 S.C.R. 622, where the following is stated at paragraphs 39 and 40 (pp. 641 and 642):
+
+This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v.Canada, [1998] 2 S.C.R. 298 at para. 21, per Bastarache J.
+
+Second, it is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied: Continental Bank, supra, at para. 51, per Bastarache J.; Tennant, supra, at para. 16, per Iacobucci J.; Canada v. Antosko, [1994] 2 S.C.R. 312, at pp. 326-27 and 330, per Iacobucci J.; Friesen v. Canada, [1995] 3 S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at para. 15, per Cory J.
+
+[15] However, the Appellant's representative distinguished the Shell Canada case, supra, from the present case on the basis that the former involved distinct contracts between parties all dealing with each other at arm's length while, in his opinion, we are faced here with simultaneous interrelated transactions between parties not at arm's length. I might simply note here that while it is true that Mr. Florian had a dual interest, first as a researcher and as inventor of the software package EMME/2, and second, as a shareholder of the Appellant, there is no evidence that the parties to the first as well as to the second agreement were not in fact (since they were not related persons) dealing with each other at arm's length (see paragraph 251(1)(b) of the Act).
+
+[16] The Appellant's representative also relied on the following passage found at paragraph 47 (p. 645) of the Supreme Court of Canada's decision in Shell Canada, supra:
+
+. . . as Dickson C.J. made clear in Bronfman Trust, supra, at p. 46, the reason for a particular method of borrowing is irrelevant to a proper consideration of s. 20(1)(c)(i). The issue is the use to which the borrowed funds are put. It is irrelevant why the borrowing arrangement was structured the way that it was or, indeed, why the funds were borrowed at all.
+
+[17] Applying these principles to the present case, the Appellant's representative insisted that the analysis should be focussed on the flow of funds, which is not disputed, as well as on the use of those funds for scientific research and experimental development as shown by the two agreements when read together. Thus, he argued that the label of "licence" used in the agreement between the University and the Appellant (Exhibit R-1) does not properly reflect the agreement's actual legal effect, which consequently justifies a recharacterization by the Court. According to him, the Appellant did not acquire any rights in EMME/2, it acquired only the right to sell it. The Appellant is seeking to deduct only that part of the amount paid to the University that had been allocated to Mr. Florian's research fund and the Appellant's representative maintained that the amount so allocated was ultimately an amount used by the University for scientific research and experimental development carried on in Canada that was related to the business of the Appellant. The Appellant's representative further argued that Mr. Florian was not a sophisticated taxpayer, that the two agreements are interrelated and that the agreement between the University and the Appellant would never have been signed without the other agreement between the University and the inventors.
+
+2) Position of the Respondent
+
+[18] According to counsel for the Respondent what matters is the nature of the payment by the Appellant to the University. According to him, there is no ambiguity in the agreement that would authorize the Court to look at other documents or background material. For him, what is involved here is not a matter of a "label" either. Counsel also stressed that the Act cannot be applied differently depending on whether taxpayers are sophisticated or not. He also argued that the nature of the payment is not altered by the subsequent use to which it was put by the University. The University granted the Appellant a worldwide licence to sell the invention. As consideration therefor the Appellant agreed to pay royalties. According to counsel for the Respondent, the Appellant thus made an expenditure for the purpose of acquiring a licence, which expenditure is not deductible pursuant to subsection 37(4) of the Act. Counsel for the Respondent further argued that the contractual relationship between the University and Mr. Florian under a distinct agreement (Exhibit R-2) has no bearing on the determination of the nature of the payment made by the Appellant to the University.
+
+[19] Regarding the application of subsection 37(4), counsel for the Respondent referred in particular to Judge Rip's reasons in Halak v. M.N.R., 89 DTC 531. In that case, the Court had to determine whether subsection 37(4) prohibited the deduction of expenses incurred to acquire a patent for one's own invention. Counsel relied specifically on the following part of Judge Rip's reasons, at p. 534:
+
+Expenditures to acquire a patent are not in respect of scientific research; expenditures in respect of scientific research are expenditures for scientific research.
+
+My understanding is that a patent is granted to an inventor after the invention has been created The patent is a result of the invention arrived at by scientific research. The patent generally accords the inventor certain privileges, in particular the exclusive right to exploit the invention for profit for a limited time.
+
+The expenditures for the patent were incurred to acquire rights, the patent, arising out of scientific research. Had Halak not carried on his experiments he would not have been eligible to acquire a patent. The Act prohibits the deduction of such expenditures. [Footnote omitted.]
+
+[20] With respect to the nature of the expenditure at issue here, counsel for the Respondent relied on several cases in maintaining that recharacterizing the amount paid by the Appellant would be tantamount to considering what the Appellant could have done rather than what it actually did.
+
+[21] Specifically, counsel for the Respondent referred to the reasons of Linden J.A. for the Federal Court of Appeal in The Queen v. Friedberg, 92 DTC 6031 (aff'd by the Supreme Court of Canada, [1993] 4 S.C.R. 285), at p. 6032, where he said:
+
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, even though the main reason for these arrangements may be to save tax (see Canada v. Irving Oil Ltd., [1991] 1 C.T.C. 350, 91 D.T.C. 5106, per Mahoney, J.A.). If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. If this were not so, Revenue Canada and the courts would be engaged in endless exercises to determine the true intentions behind certain transactions. Taxpayers and the Crown would seek to restructure dealings after the fact so as to take advantage of the tax law or to make taxpayers pay tax that they might otherwise not have to pay. While evidence of intention may be used by the courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to "correct" documents which clearly point in a particular direction.
+
+[22] Counsel for the Respondent further referred to Giguère v. M.N.R., 93 DTC 488, and to Entré Computer Centers Inc. v. The Queen, 97 DTC 846, in which these principles were applied. He also relied on Molinaro v. The Queen, 98 DTC 1636, a decision of Judge Bowman (as he then was) of this Court applying the same principles. That decision was affirmed by the Federal Court of Appeal, 2000 DTC 6114.
+
+[23] Finally, counsel for the Respondent relied on Shell Canada, supra. After also citing the above-quoted passages from the Supreme Court of Canada's reasons, counsel referred to the following at paragraphs 45 and 46 (pp. 644 and 645):
+
+However, this Court has made it clear in more recent decisions that, absent a specific provision to the contrary, it is not the courts' role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way.[. . .] Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+
+Inquiring into the "economic realities" of a particular situation, instead of simply applying clear and unambiguous provisions of the Act to the taxpayer's legal transactions, has an unfortunate practical effect. This approach wrongly invites a rule that where there are two ways to structure a transaction with the same economic effect, the court must have regard only to the one without tax advantages. With respect, this approach fails to give appropriate weight to the jurisprudence of this Court providing that, in the absence of a specific statutory bar to the contrary, taxpayers are entitled to structure their affairs in a manner that reduces the tax payable [. . .].
+
+[24] On the basis of the above, counsel for the Respondent contended that it is not what the Appellant intended to do but what it actually did that is relevant to the characterization of the expenditure.
+
+3) Analysis and Conclusion
+
+[25] Pursuant to subsection 37(4), no deduction may be made under section 37 in respect of an expenditure made to acquire rights in, or arising out of, scientific research and experimental development. In my opinion, it follows that an expenditure otherwise deductible pursuant to subsection 37(1) is not deductible if made to acquire such a right.
+
+[26] I agree with counsel for the Respondent that, in tax law, form matters, and that the Act has to be applied based on what the Appellant actually did and not on what it could have done. As the Federal Court of Appeal stated in Friedberg, supra, "[w]hile evidence of intention may be used by the courts on occasion to clarify dealings, it is rarely determinative. In sum, evidence of subjective intention cannot be used to 'correct' documents which clearly point in a particular direction." The Appellant agreed to pay royalties to the University because it was granted a worldwide exclusive licence to sell licences for the use of the software package EMME/2. The fact that Mr. Florian intended that part of the money received be allocated by the University for scientific research and experimental development carried on in Canada that was related to the Appellant's business (i.e. that it be allocated to his own research fund) does not change the nature of the Appellant's expenditure. This is not a case where, as stated in Shell Canada, supra, the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect, thus rendering a recharacterization permissible.
+
+[27] The argument of the Appellant's representative based on the actual use of the money by the University is of no relevance in determining the nature of the Appellant's expenditure. Although he emphasised that the Supreme Court of Canada stated, in Shell Canada, that the issue for the purposes of subparagraph 20(1)(c)(i) was the use of the borrowed money, that statement merely recites a condition found in that provision itself, as can be seen from the analysis at paragraph 31 (p. 638) of the decision:
+
+The third element — that the borrowed money is used for the purpose of earning non-exempt income from a business or property — has likewise been met. This element focuses not on the purpose of the borrowing per se, but rather on the taxpayer's purpose in using the borrowed money. As Dickson C.J. stated in Bronfman Trust, supra, at p. 46, "the focus of the inquiry must be centered on the use to which the taxpayer put the borrowed funds".
+
+[28] The Supreme Court of Canada's statement relates to the taxpayer's purpose in using the borrowed money as opposed to its purpose in borrowing the money. It does not follow that for the purposes of characterizing an expenditure pursuant to subsection 37(4), the issue is the ultimate use of the money by the recipient as it would be for the purposes of characterizing third-party payments under paragraph 37(1)(a) of the Act. However, the introductory words of subsection 37(4) are surely to be interpreted as imposing a restriction on, or stating an exception to, the general rule laid down in paragraph 37(1)(a) of the Act. Royalties paid for an exclusive worldwide licence to sell an invention are certainly an expenditure made to acquire a right arising out of scientific research and experimental development. In any event, the Appellant used the money to acquire a licence. Clause 2.01 of its agreement with the University (Exhibit R-1) is clear and unambiguous in that regard. The recipient's use of the money does not change the nature of the Appellant's actual use of the money. Moreover, paragraph 37(1)(a) cannot be interpreted as an exception to subsection 37(4).
+
+[29] In my opinion, subsection 37(4) therefore applies so as to prevent the Appellant from deducting the amount of $ 47,341.00 paid to the University as royalties pursuant to its agreement with the University (Exhibit R-1) and allocated by the University to Mr. Florian's research fund pursuant to their own agreement (Exhibit R-2).
+
+[30] In view of the foregoing, the appeal for the Appellant's 1994 taxation year is dismissed.
+
+Signed at Ottawa, Canada, this 29th day of June 2001.
+
+"P.R. Dussault"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-4233(IT)I
+
+STYLE OF CAUSE: INRO CONSULTANTS INC. and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Montréal, Quebec
+
+DATE OF HEARING: April 5, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge P.R. Dussault
+
+DATE OF JUDGMENT: June 29, 2001
+
+APPEARANCES:
+
+Agent for the Appellant: Irving Ptack
+
+Counsel for the Respondent: Daniel Marecki
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada.
+
+1999-4233(IT)I
+
+BETWEEN:
+
+INRO CONSULTANTS INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on April 5, 2001, at Montréal, Quebec, by
+
+the Honourable Judge P.R. Dussault
+
+Appearances
+
+Agent for the Appellant: Irving Ptack
+
+Counsel for the Respondent: Daniel Marecki
+
+JUDGMENT
+
+The appeal from the assessment made under the Income Tax Act for the 1994 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 29th day of June 2001.
+
+"P.R. Dussault"
+
+J.T.C.C.
+

@@ -1,0 +1,480 @@
+Date: 19990915
+
+Docket: 96-4369-IT-G
+
+BETWEEN:
+
+RAINBOW PIPE LINE COMPANY, LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan, J.T.C.C.
+
+[1] Since 1967, the Appellant has operated an oil pipeline of 781 kms. (485 miles) in the northwest area of Alberta. The south end of the pipeline is at Edmonton. In 1992 and 1993, the Appellant experienced three leaks in the pipeline. In its taxation year ending December 31, 1994, the Appellant expended an aggregate of approximately $19,600,000 on projects connected with and resulting from those leaks. The Appellant has appealed from an assessment of income tax for its 1994 taxation year and has raised the following three issues:
+
+1. Whether the amount of $15,002,590 expended in 1994 to replace 5.7% (44 kms. or 27 miles) of the total length of the pipeline was a current expense to be deducted in computing income for 1994 or a capital outlay to be added to the undepreciated capital cost of the pipeline;
+
+2. Whether the amount of $2,518,579 expended in 1994 to excavate and repair 523 locations in the pipeline was a current expense to be deducted in computing income for 1994 or a capital outlay to be added to the undepreciated capital cost of the pipeline; and
+
+3. Whether all or any part of the amount of $2,081,325 expended in 1994 with respect to the leaks in and repairs to the pipeline was an expenditure on “scientific research and experimental development” within the meaning of section 37 of the Income Tax Act as it applied to 1994. Such an expenditure would permit the Appellant to deduct an investment tax credit of $416,265 (20%) under subsection 127(5) of the Act.
+
+[2] At the beginning of the trial, counsel filed an Agreed Statement of Facts (“ASF”) which was later marked as Exhibit 58. The ASF is long (31 paragraphs on 11 pages) and refers to 35 exhibits. Because of its length and many references to exhibits, I will in these reasons for judgment abridge the ASF in order to summarize the relevant facts. The numbers assigned to the paragraphs in my summary below correspond to the paragraph numbers of the ASF in which the Appellant is referred to as “Rainbow”. Parts of various paragraphs in the ASF are omitted in the summary below.
+
+Background
+
+1. Rainbow was incorporated on September 22, 1965 for the purposes of operating a 10, 20 and 24 inch pipeline in the Zama region of northwest Alberta along a 781 kilometre (485 miles) route to a delivery terminal in Edmonton. It transports light crude oil which it receives from 64 connections along its main trunkline (it also owns and operates approximately 307 kilometres (191 miles) of 4 to 10 inch gathering lines) destined for the Petro Canada or Imperial Oil Refineries in Edmonton or for connections into the Interprovincial and Trans Mountain Pipelines for further transportation to markets in Alberta, British Columbia, the U.S. midwest, and eastern Canada. A map of the Rainbow gathering and main trunkline systems is attached as Exhibit 1.
+
+2. Rainbow is one-third owned by each of Mobil Oil Canada, Ltd., Imperial Oil Limited and Shell Canada Limited (collectively the “Rainbow Shareholders”). Mobil provides management services, including personnel, for the operation of Rainbow on behalf of the Rainbow Shareholders and for that it was paid a management fee in fiscal 1994 of $934,327.00. Additionally, of Rainbow’s $36.1 million in revenue, earned through transportation tariffs charged to users of the pipeline, approximately $14.88 million were tariffs charged to the Rainbow Shareholders. These matters, among other things, are noted in Note 3, Related Party Transactions to the audited financial statements for Rainbow for its 1994 fiscal year (Exhibit 2). In the financial statement the original cost of the pipeline was approximately $105M and its 1994 net book value is $39.64M. It is probable that the 1994 estimated replacement cost of the pipeline is substantially in excess of its net book value and indeed is substantially in excess of its historical cost.
+
+3. Rainbow conducted “corrosion surveys” of its main trunkline in 1979, 1984 and 1989. These surveys are conducted to detect the presence of metal corrosion in the pipeline. Stress Corrosion Cracking (“SCC”) led to pipeline ruptures on the main trunkline in 1993. In very simple terms, SCC consists of a series of very small cracks in a pipe, usually in association with metal loss corrosion, whereby the cracks coalesce to form large cracks over time and if the cracks become large enough, they will weaken a pipe to the point of rupture.
+
+4. Since 1967, Rainbow has experienced three leaks on its trunkline segment between the Utikuma and Flatbush Station, which can be summarized as follows:
+
+(i) On November 2, 1992, at Mile Post 239.6, a pinhole leak, resulting in 0.1 m3 of spilled oil;
+
+(ii) On February 4, 1993, at Mile Post 248, SCC and metal corrosion caused a leakage of approximately 1,793 m3 of oil. Rainbow, as a result, reduced the Maximum Allowable Operating Pressure (“MAOP”) in this segment by 15 percent; and
+
+(iii) On July 18, 1993, at Mile Post 260, SCC and metal corrosion resulted in the leakage of estimated 2,230 m3 of oil. MAOP was further reduced so that the pipeline was then operating at 55% capacity.
+
+5. The normal MAOP of Rainbow’s trunkline is 5,380 kilopascals or 780 PSI in accordance with the permit issued by the Alberta Energy and Utilities Board (“AEUB”). After the 1993 failures, the operating pressure of the Utikuma to Flatbush segment of the pipeline was 3,000 kilopascals (435 PSI) which was approximately 56 percent of MAOP, and the operating pressure of the Flatbush to Edmonton segment was 4,300 kilopascals or approximately 80% of MAOP.
+
+6. ...
+
+7. As part of the five-year inspection cycle employed by Rainbow, and after the February 1993 failure, British Gas was retained to conduct an online inspection survey of Rainbow’s line from the Utikuma Station to Edmonton, a distance of 297 kilometres. An inspection, utilizing the “SMARTPIG” line diagnostic inspection tool was performed in approximately two 60 hour segments each between June 5 and June 13. The British Gas inspection identified the extent and location of external metal loss corrosion and analysed the Estimated Repair Factor (“ERF”) which is, in effect, a pressure derating factor for significant metal loss defects. The British Gas tool does not, and cannot, identify and locate SCC. The costs associated with the survey were expensed by Rainbow in 1993 and are not part of this appeal.
+
+8. As a result of the British Gas survey, Rainbow decided to replace a 44 kilometre (27 miles) section of pipe commencing at Mile Post 235 to Mile Post 262.4 (the “Pipeline Replacement”). Downstream of Mile Post 262 there were approximately 523 locations identified by British Gas as having an ERF greater than or equal to 1.00 and therefore subject to repair. Rainbow resolved to implement a program of pipeline repair which was variously described by it as its “Integrity Program” or its “Rehabilitation Program” (the “Pipeline Repair”). Exhibit 4 contains excerpts from the British Gas report.
+
+Pipeline Replacement
+
+9. The section of pipeline from Utikuma Station to Mile Post 262.4 contained both of the February and July 1983 rupture points which occurred at Mile Posts 248 and 260, respectively. The old section of pipeline was abandoned in place and the replacement pipeline was constructed parallel to it. The replaced pipe constituted approximately 5.7% of the total length of the Rainbow trunkline and did not, in and of itself, result in any increase in MAOP. The new section of pipeline could theoretically operate at its design pressure of 7710 kilopascals (1,118 PSI) and was .75 millimetres thicker than the old pipe. The other difference between the old pipe and the new pipe was that the new pipe is coated with the epoxy coating material, while the old pipe was coated with polyethylene tape that was wrapped around the surface of the pipe. The differences result from changes in pipe design and materials since 1966.
+
+10. The economic life of the pipeline is a function of the producing life of the oil fields owned or leased by the shippers who use the pipeline. At the time of the Pipeline Replacement, the economic life of the pipeline for depreciation purposes utilized by Rainbow, based on the estimated life of the producing reserves in the oil fields whose shippers used the line, was the year 2007, which has since been extended to the year 2015. Currently, new extraction technology has extended the producing life of the oil fields indefinitely.
+
+11. During its 1994 fiscal year, rainbow spent $15,002,590.00 on the pipeline replacement (the “Replacement Costs). The Replacement Costs were capitalized in the 1994 financial statements of Rainbow. Exhibit 7 is a copy of Rainbow's $15,013,706 Authorization for Expenditure No. 9360535 ("AFE").
+
+12. In filing its 1994 Corporation’s Income Tax Return, Rainbow capitalized the Replacement Costs to class 1 ($13,992,289.00) and class 8 ($1,010,301.00) of Schedule 2 of the Income Tax Regulation. However, through a footnote to Schedule T2S(8), Rainbow specifically stated:
+
+“Class 1: A 40-kilometre portion of the pipeline had experienced two ruptures and one pinhole leak during 1993. Poor pipe wrap, leading to excessive amounts of external corrosion with exterior stress corrosion cracking, required its replacement to restore the pipeline to its original integrity. The costs associated with this restoration were capitalized for financial statement purposes, and subsequently capitalized for income tax purposes. Due to the nature of the expenditures, the costs may be repairs and should be reflected in current operating expenses for income tax purposes. It is our intention to further research the nature of the costs. We may file a Notice of Objection against the assessment to this return pending the results of our research.”
+
+Pipeline Repair Costs
+
+13. The British Gas Inspection, in identifying significant metal loss (and not SCC) revealed approximately 523 locations in the pipe, downstream of Mile Post 262.4, which warranted excavation and repair. To accomplish these repairs Rainbow initiated a pipeline integrity project whose stated objectives were:
+
+(i) repairing or replacing by June, 1994 (weather permitting), all sections where metal loss corrosion existed to the extent that MAOP is effected; and
+
+(ii) characterizing SCC distribution along the pipeline so that it can be predicted, located and repaired prior to failure.
+
+14. In conjunction with the Pipeline Integrity project, Rainbow also implemented a long term pipeline integrity program whose stated objectives were:
+
+(i) to maintain a high level of integrity on the pipeline; and
+
+(ii) to maintain through put capacity by the maintenance of the MAOP of the pipeline.
+
+This was stated to be accomplished by:
+
+(i) implementing a risk assessment program;
+
+(ii) continuing to conduct pipeline internal inspections periodically to detect new metal losses and to establish corrosion rates on the existing metal losses;
+
+(iii) working closely with companies developing crack detection tool technology in order to be on the leading edge of the implementation; and
+
+(iv) evaluating the information from the short term Integrity Project (metal loss repair, replacement sections and SCC findings).
+
+15. ... Rainbow spent $2,518,579.00 (the “Repair Costs”) to restore the integrity of the 24 inch pipeline downstream of Mile Post 262.4, allowing it to be returned to MAOP. Rainbow, or its subcontractors, also investigated and repaired as necessary locations where pipeline coating had failed by removing the corrosive environment from the pipe surface thereby preventing further corrosion.
+
+16. The excavation and repair of all 523 anomalies downstream of Mile Post 262.4 (identified as having an ERF greater than or equal to 1) required 142 repair dig sites. Criteria for dig site selection were set by Rainbow. Rainbow also had retained J.E. Marr & Associates (“J.E. Marr”) to identify, by aerial survey, sites that might be SCC susceptible, and characterize SCC at such excavation site using onsite investigation techniques. In several instances however, J.E. Marr selected dig sites believed to be susceptible to SCC. At the dig sites selected where SCC was likely to occur, about 50 metres of pipe would be exposed and additional soil, environmental and other data was gathered to enhance knowledge about how soil type, drainage, and topography might influence the existence of SCC.
+
+17. One of three types of repairs was chosen:
+
+(i) Replacement (from a few metres to a joint of pipe which could be anywhere between 12 and 18 metres). In one instance, the repair was several joints in length;
+
+(ii) Sleeves, which are two half-cylinders welded together, slightly larger in diameter than the original pipe, are placed over the main pipe and welded into place. The space between the sleeve and the pipe is filled with epoxy to allow some of the stresses in the pipe to be transferred to the sleeve so as to prevent further deterioration and spreading of SCC; and
+
+(iii) Defect removal by sanding the surface of the pipe (provided that the sanding does not reduce the remaining wall thickness below 92% of the nominal wall thickness as per original mill specifications).
+
+18. Once again, the 1994 Financial Statements of Rainbow capitalized the Repair Costs of $2,518,579.00 to property, plant and equipment.
+
+19. When preparing its 1994 Corporation Income Tax Return, Rainbow capitalized the Pipeline Repair costs, allocating $1,976,922.00 to Class 1 and $541,657.00 to Class 8 of Schedule 2 of the Income Tax Regulation. Rainbow relies on the same footnote quoted in paragraph 12 above.
+
+Scientific Research and Experimental Development (“SRED”) Component
+
+20. On or about November 4, 1995, Rainbow filed Revenue Canada form T661(E) Claim for Scientific Research and Experimental Development Expenditures Carried on in Canada (Exhibit 16). Its entire program that Rainbow alleges is scientific research and experimental development in 1994 is in a paper with that title which includes all of the supporting documentation. This document (Exhibit 17) was provided to Mr. Coutts of Revenue Canada and the science consultant, Ms. Cheung.
+
+21. Rainbow’s alleged SRED expenditures were parts of amounts authorized for expenditure (“AFE”) under Repair Cost AFE’s 9460500S, 9460523, and 9460526. A further AFE for SRED expenditures only, was issued on September 13, 1994 for hydro testing of part of the main trunkline being repaired. It bore No. 946054X and a true copy of it is attached as Exhibit 18. Under the last mentioned AFE, $632,287.00 was spent and expensed by Rainbow in 1994. A discussion paper concerning that hydro testing program prepared on August 22, 1994 is attached as Exhibit 19.
+
+22. The complete hydro testing program conducted by Petro-Line Upgrading Services Ltd. ("Petro-Line") is contained in its report, a true copy of which is attached as Exhibit 20.
+
+23. Revenue Canada rejected Rainbow's SRED claim in its letter to Rainbow of March 5, 1997, which attached it to Revenue Canada's science consultant's report concluding that the project was ineligible as it did not meet the criteria for SRED as described in Subsection 2900(a) of the Income Tax Regulations and Information Circular 86-4R3. Revenue Canada also took the position that the expenditures could have been disallowed for non-compliance with section 37(8)(a)(ii)(A)(l) and (111) of the Income Tax Act. The March 5, 1997 Revenue Canada letter is attached as Exhibit 21.
+
+24. Prior to rejecting Rainbow's SRED claim, and in the course of its audit of that claim, Revenue Canada had made informational requests for further documents from Rainbow. Attached as Exhibit 22 is one such request from Mr. Coutts, in a "query" dated October 31, 1996. On November 20, 1996 a meeting was held amongst Mr. Coutts and Mr. Cheung of Revenue Canada, and Mr. Norman Tozer and Mr. Alan Logan representing Rainbow. Summaries of the discussions at that meeting prepared by Mr. Tozer of Rainbow, and by Ms. Cheung, are attached collectively as Exhibit 23. A further informational request was made of Rainbow by Revenue Canada on December 5, 1996; it is attached as Exhibit 24. Rainbow's reply to this informational request of December 5, 1996 is contained in a letter of Mr. Hankinson of Mobil Oil Canada, dated December 10, 1996 (with attached enclosure covering memo prepared by Mr. Tozer on Rainbow's behalf) attached as Exhibit 25. A similar reply of January 8, 1997, again with Mr. Tozer's summary memo describing the enclosures is attached as Exhibit 26. Revenue Canada has confirmed that Rainbow has responded to all of its informational requests and counsel have agreed not to include, as exhibits, all the backup documentation provided by Rainbow in giving its responses. However, counsel agree they will be available for inspection by the Court at hearing, if required.
+
+National Energy Board and AEUB Inquiries
+
+25. Rainbow was asked, by AEUB's predecessor in name the Energy Resources Conservation Board ("ERCB") to report on the status of its pipeline integrity project. Attached and collectively marked as Exhibit 27 is Rainbow's letter of August 24, 1994 attaching an Agenda and "Action Plan" for the then upcoming meeting of August 30, 1994.
+
+26. Rainbow further reported on the status of its integrity project, in connection with a request of the ERCB to return to MAOP, in its letter directed to the ERCB of November 16, 1994 and enclosures. It is attached as Exhibit 28. In granting Rainbow permission to return to MAOP, the ERCB noted, in its letter of November 21, 1994, that it had an ongoing interest in Rainbow's Rehabilitation Program and wished to be kept informed of its progress. ERCB's letter in this connections is attached as Exhibit 29.
+
+27. Rainbow was invited by the NEB to participate in its public inquiry concerning SCC on Canadian oil and gas pipelines. Attached as Exhibit 30 is the NEB notice of September 30, 1995 in that regard. Attached as Exhibit 31 is a November 15, 1995 note from the NEB to Rainbow attaching two NEB Press Releases in connection with the proposed SCC inquiry. Finally, included with Exhibit 31 was an NEB document entitled "SCC Inquiry Preliminary List of Issues", which is attached as Exhibit 32. Rainbow participated in the SCC inquiry and made available, to the inquiry, the results of its research into SCC as a result of the pipeline ruptures in February and July, 1993.
+
+Notice of Objection
+
+28. By Notice of Assessment dated August 28, 1995, the Minister of National Revenue notified Rainbow that the Replacement and Repair Costs had been included in classes 1 and 8 of Schedule 2 of the Income Tax Regulations, as reported by Rainbow. Attached as Exhibit 33 is a true copy of that Notice of Assessment.
+
+29. By Notice of Objection dated November 24, 1995, Rainbow objected to this assessment and, as well, filed form T66(CE) to claim alleged SRED costs. Rainbow also objected to the inclusion of $1,414,484 of its alleged SRED costs in the computation of capital costs of depreciable property included in class 1 of Schedule 2 of the Income Tax Regulations and the exclusion of its alleged SRED costs from the calculation of Rainbow's investment tax credits. A true copy of Rainbow's Notice of Objection form T400A, with some of the attachments, is marked as Exhibit 34. The balance of the attachments are other Exhibits in this ASF.
+
+30. In preparing its Notice of Objection, Rainbow prepared a spreadsheet which reconciles the Replacement Costs, Repair Costs, and alleged SRED costs to the appropriate AFE and appropriate class of depreciable property. A true copy of that spreadsheet is attached as Exhibit 35.
+
+31. ...
+
+[3] In principle, the first and second issues are identical because the question is whether a particular amount ($15,002,590 or $2,518,579, respectively) may be deducted as a current expense in computing income or whether such amount must be capitalized and depreciated over a period of years. As disclosed in the ASF, the circumstances requiring the expenditures are significantly different because, in the first issue, the amount $15,002,590 was expended to replace 44 kms. of the 24-inch pipeline from Utikuma Station at Mile Post 235.0 to Mile Post 262.4 (downstream toward Edmonton) whereas, in the second issue, the amount $2,518,579 was expended in part to repair 523 locations in the 24-inch pipeline downstream from Mile Post 262.4 and in part to restore the integrity of that same portion of the pipeline allowing it to be returned to Maximum Allowable Operating Pressure ("MAOP"). Most distances are measured in kilometres and miles but, in these reasons for judgment, I will probably use kilometres although significant locations along the pipeline like pumping stations are identified by a "Mile Post", the pipeline having been constructed in 1966 and 1967.
+
+[4] The question of whether a particular payment is to be deducted within the taxation year as a current expense or capitalized and depreciated over a period of years has been considered in the context of income tax appeals on many occasions. An early Canadian decision is M.N.R. v. Vancouver Tug Boat Company Limited, 57 DTC 1126 (Exchequer Court) in which Thurlow J. stated at page 1128:
+
+The line between what are capital expenditures in general and what are revenue expenditures is not easy to define, and it is no less difficult to lay down any hard or fast rule to determine when expenditures similar to the one in question on capital assets will and when they will not be considered to be capital expenditures ...
+
+That statement is still true after 42 years and many subsequent cases considering the same question. In Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, the issue was whether certain tenant inducement payments (TIPs) made by a landlord to commercial tenants to induce the signing of long-term leases were deductible as current expenses in the year the TIPs were made or whether such TIPs should be amortized over the terms of the leases to which they related. When delivering the judgment of the Court, Iacobucci J. set out certain principles and I will quote those parts of his judgment which I consider most relevant. At pages 164-165:
+
+The great difficulty which seems to have plagued the courts in the assessment of profit for income tax purposes bespeaks the need for as much clarity as possible in formulating a legal test therefor. The starting proposition, of course, must be that the determination of profit under s. 9(1) is a question of law, not of fact. Its legal determinants are two in number: first, any express provision of the Income Tax Act which dictates some specific treatment to be given to particular types of expenditures or receipts, including the general limitation expressed in s. 18(1)(a), and second, established rules of law resulting from judicial interpretation over the years of these various provisions.
+
+Beyond these parameters, any further tools of analysis which may provide assistance in reaching a determination of profit are just that: interpretive aids, and no more. Into this category fall the "well-accepted principles of business (or accounting) practice" which were mentioned in Symes, also referred to as "ordinary commercial principles" or "well-accepted principles of commercial trading", among other terms. A formal codification of these principles is to be found in the "generally accepted accounting principles" ("GAAP") developed by the accounting profession for use in the preparation of financial statements. ... What must be remembered, however, is that these are non-legal tools and as such are external to the legal determination of profit, whereas the provisions of the Act and other established rules of law form its very foundation.
+
+... In the absence of a statutory definition of profit, it would be unwise for the law to eschew the valuable guidance offered by well-established business principles. Indeed, these principles will, more often than not, constitute the very basis of the determination of profit. However, well-accepted business principles are not rules of law and thus a given principle may not be applicable to every case. ...
+
+At page 170:
+
+... To attempt to achieve a useful picture of profit by reference only to rigid categories of expenses - running expenses, matchable expenses, etc. - can become a frustrating exercise in futility: see Richard B. Thomas, "The Matching Principle: Legal Principle or a Concept?" (1996), 44 Can. Tax J. 1693. Rather than trying to discern into which pigeonhole a particular income expenditure falls, the taxpayer's focus should be on attempting to portray his or her income in the manner which best reflects his or her true financial position for the year, that is, which gives an "accurate picture" of profit. To do otherwise is to lose sight of the taxation forest for the practice or principle trees. In other words, the competing concepts of running expenses and matching which appear to be at play in this appeal fall into the category of well-accepted business principles, no more, no less. They are simply important interpretive aids which may assist, but are not determinative, in the illumination of an accurate picture of the taxpayer's income.
+
+At page 171 after referring to the decision of Thurlow, A.C.J. in Oxford Shopping Centres:
+
+To my mind, this is an excellent example of the proper approach to be taken to the computation of profit. To the extent that they may be applicable to particular circumstances, well-accepted business principles are to be assessed and applied only on a case-by-case basis, and only for the purpose of achieving an accurate picture of profit for the year in question for income tax purposes. ...
+
+And finally at pages 174 and 175:
+
+The outlined framework for analysis is, of course, only as useful as its application to actual cases. Turning to the facts of this case will illustrate how this principled approach to the computation of income is intended to operate. Before I do this, however, it may be both convenient and useful to summarize the principles which I have set out above:
+
+(1) The determination of profit is a question of law.
+
+(2) The profit of a business for a taxation year is to be determined by setting against the revenues from the business for that year the expenses incurred in earning said income: M.N.R. v. Irwin, supra, Associated Investors, supra.
+
+(3) In seeking to ascertain profit, the goal is to obtain an accurate picture of the taxpayer's profit for the given year.
+
+(4) In ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with
+
+(a) the provisions of the Income Tax Act;
+
+(b) established case law principles or "rules of law"; and
+
+(c) well-accepted business principles.
+
+(5) Well-accepted business principles, which include but are not limited to the formal codification found in GAAP, are not rules of law but interpretive aids. To the extent that they may influence the calculation of income, they will do so only on a case-by-case basis, depending on the facts of the taxpayer's financial situation.
+
+(6) On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.
+
+[5] I am impressed with how often Iacobucci J. refers to an "accurate picture" of income or profit. See pages 162, 169, 170, 171, 174 and 175. In his summary of principles, he states in item 3 that the goal in ascertaining profit is "to obtain an accurate picture" of profit.
+
+[6] In the pleadings, the parties have clearly identified three distinct issues and that distinction is maintained in the ASF as in paragraphs 11, 15 and 23. Those issues are summarized in paragraph 1 of these reasons. In many cases concerning the choice between current expense and capital outlay, the parties have introduced opinion evidence with respect to generally accepted accounting principles ("GAAP"). In this appeal, each party called an expert accounting witness. The Appellant called Matt Bootle, C.A. as its expert and the Respondent called Kay Holgate, C.A. as its expert.
+
+[7] Mr. Bootle's opinion letter was dated July 24, 1998 and entered as Exhibit 46. His opinion was directed at both the first and second issues. At the start of his opinion letter, he refers to paragraphs 4 and 11 of the Notice of Appeal. Paragraph 4 describes the $15,002,590 expended to replace a 44 km. section of pipeline and paragraph 11 describes the $2,518,579 expended to repair 523 locations downstream from the replaced section. For the purpose of his opinion, Mr. Bootle combines these two amounts and defines them as the "Expenditures". Throughout his 10-page opinion letter, he deals only with the combined amounts as "Expenditures" and never comments on either component as a $15,002,590 amount or a $2,519,579 amount. From a theoretical point of view, I can understand Mr. Bootle combining the two amounts because, in principle, the first and second issues are identical. From a practical point of view, however, I am disappointed that he combined the two amounts as "Expenditures" throughout his opinion because the circumstances pertaining to each expenditure are significantly different. When deciding the first issue, I will attempt to view Mr. Bootle's opinion as if it were directed at only the $15,002,590 amount.
+
+First Issue: The $15,002,590 Amount – ASF paragraphs 9, 10, 11 and 12
+
+[8] Mr. Bootle has a Bachelor of Commerce (Accounting Major) from the University of Calgary (1982). He was admitted to the Alberta Institute of Chartered Accountants in 1986 and obtained a Bachelor of Laws degree from the University of Calgary in 1992. He articled to Ernst & Young in Calgary and progressed to a third year audit manager in the period 1982 to 1989. From 1993 to 1997, he was chief accountant to the Alberta Securities Commission. From 1997 to the time of the hearing, he was a principal in national accounting and audit services for Ernst & Young in their Calgary office. A more complete list of his professional qualifications is in Exhibit 46 immediately following his letter. Mr. Bootle has a broad practical experience as a professional accountant and was accepted as an expert witness permitted to express his opinions on GAAP.
+
+[9] For convenience, I shall refer to the amount $15,002,590 as "Replacement Costs" adopting the term used by the parties in paragraph 11 of the ASF. The Replacement Costs are, of course, one of the two components in Mr. Bootle's definition of "Expenditures" in his opinion letter. In the summary on page 1 of his letter, Mr. Bootle states that the Expenditures "may properly have been recorded as an expense ... under GAAP" in the Appellant's 1994 financial statements. He is required to say "may have been" because those Replacement Costs were in fact capitalized in the Appellant's 1994 audited financial statements. Mr. Bootle is not compromised in his opinion by the fact that the Replacement Costs were capitalized in the audited financial statements. In Canderel, the corporation had capitalized the TIPs in its financial statements but the Supreme Court decided that those same TIPs were deductible as a current expense in computing income under the Income Tax Act.
+
+[10] Mr. Bootle's basic reference was the Handbook of the Canadian Institute of Chartered Accountants commonly known as the "CICA Handbook". It makes the following recommendation at paragraph 3060.18:
+
+A capital asset should be recorded at cost.
+
+At paragraph 3060.29, the CICA Handbook elaborates on this recommendation as follows:
+
+The cost incurred to enhance the service potential of a capital asset is a betterment. Service potential may be enhanced when there is an increase in the previously assessed physical output or service capacity, associated operating costs are lowered, the life or useful life is extended, or the quality of output is improved. The cost incurred in the maintenance of the service potential of a capital asset is a repair, not a betterment. If a cost has the attributes of both a repair and a betterment, the portion considered to be a betterment is included in the cost of the capital asset.
+
+[11] Mr. Bootle notes that the Replacement Costs did not increase previously assessed physical output or service capacity, lower associated operating costs, extend the useful life, or improve the quality of the output of the pipeline. Applying those criteria, he concluded that the Replacement Costs may be considered as an expense of the period incurred. Because paragraph 3060.29 is not a recommendation in its own right but only an elaboration of a recommendation and not authority to expense the Replacement Costs under GAAP, Mr. Bootle discusses four other references in applying professional judgment to determine how GAAP may be applied to the Replacement Costs.
+
+1. Applying broad principles and conventions of general application, Mr. Bootle concludes that the Replacement Costs may be characterized as an expense (i.e. deducted) or as an asset (i.e. capitalized). At pages 4 and 5 of his report (Exhibit 46), he presents the reasons for both conclusions.
+
+2. Practices generally accepted by their use in similar circumstances by a significant number of entities in Canada. Mr. Bootle notes that the entire pipeline is within Alberta and not subject to the price regulations of the National Energy Board (NEB) or any other regulatory body. In Mr. Bootle's mind, the absence of price regulation is an important factor in characterizing the Appellant for comparison to similar circumstances. On page 7 of his report, he refers to three other unregulated oil and gas pipeline corporations as "similar entities"; he notes the accounting policy for expenditures in the published financial statements of each corporation; he spoke with a representative of each corporation or its auditors and described the Replacement Costs; and he quotes such representatives as concurring that each of the three corporations could have charged the Replacement Costs to income in the year incurred.
+
+3. Statements of Financial Accounting Standards ("SFAS") are the USA version of GAAP in Canada. Mr. Bootle refers to SFAS 71 which compares rate-regulated and non-rate-regulated enterprise accounting and concludes that the Replacement Costs would be required to be charged to expense under USA GAAP for non-regulated enterprises.
+
+4. With respect to other sources of accounting literature, Mr. Bootle refers to the famous Canadian text by R.M. Skinner: Accounting Standards in Evolution (1987). Because Skinner does not discuss principles specific to the pipeline industry or rate-regulated accounting, he refers to Skinner's comments on asset capitalization and finds support for expensing the Replacement Costs because they did not enhance service life or capability; they did not result in a "betterment" as that word is used by accountants.
+
+[12] In my view, Mr. Bootle was labouring to support his opinion. First, he relied on the fact that the Appellant operates a non-regulated pipeline (not subject to the NEB or an Alberta authority). That fact was undoubtedly true in 1994 and there is no evidence that the Appellant has since become regulated. Because of the Appellant's present non-regulated status, Mr. Bootle regards the Appellant's pipeline as if it were beyond the possibility of ever being regulated. I find this difficult to accept because counsel for both sides agree that, under section 44 of the Oil and Gas Conservation Act (Alberta), the Appellant could be designated as a common carrier with respect to its pipeline and, if so designated, the Alberta Public Utilities Board or the Alberta Energy and Utilities Board could regulate the tariff charged by the Appellant to its shippers. Subsection 44(1) states:
+
+44(1) If the Board has declared the proprietor of a pipeline to be a common carrier and agreement cannot be reached between the proprietor and a person desiring to have his oil or synthetic crude oil carried in the pipeline as to the tariff to be charged for the carriage, either party may, pursuant to the Public Utilities Board Act, apply to the Public Utilities Board.
+
+In other words, if one of the Appellant's shippers concluded that it was being charged an excessive tariff to ship oil, it could petition to have the Appellant designated as a common carrier. I conclude that there is a constant possibility (whether probable or not) that the Appellant's pipeline could become provincially regulated.
+
+[13] Notwithstanding that possibility, Mr. Bootle refers to only non-regulated corporations in his second reference (similar circumstances/significant number of entities). Even the entities identified (Koch Pipelines, AEC Pipelines and Pembina Pipeline) do not provide strong support for Mr. Bootle's opinion. The note to the 1997 financial statements of Koch Pipelines quoted at page 7 of the Bootle report is equivocal:
+
+Expenditures for system expansion and major renewals and betterments are capitalized; maintenance and repair costs are expensed as incurred.
+
+This note begs the question as to what is an expenditure for system expansion, major renewal or betterment and what is an expenditure for maintenance or repair. While the Replacement Costs do not result in a "betterment" as that word is used by accountants, it is only Mr. Bootle's judgment that the Replacement Costs are not a major renewal. The notes to the 1997 financial statements of AEC Pipelines and Pembina Pipeline also quoted at page 7 are equivocal in the same way.
+
+[14] In his third reference (Standards published in the USA), Mr. Bootle relies almost exclusively on the distinction between rate-regulated and non-rate-regulated enterprises. This is surprising because in his first reference (Broad Principles and Conventions of General Application) he concludes at page 5 of his report that there is good authority under GAAP to capitalize the Replacement Costs. His conclusion is based on facts which make the Appellant's pipeline similar to a rate-regulated enterprise. I will quote a passage from page 5 of Mr. Bootle's report remembering that his word "Expenditures" includes the Replacement Costs and $2.5 million of Repair Costs:
+
+... The Company told its shippers that the Expenditures were necessary to the continued operation of the pipeline, and that the Expenditures would have to be recovered from the shippers in the form of increased tariffs per barrel of oil shipped.
+
+The shippers agreed to pay such increased tariffs, but they were not contractually bound to do so. No shipper agreed to ship a minimum quantity of oil or to pay for pipeline capacity if they did not use it. In addition, no shipper agreed to refrain from seeking alternative transportation for their oil, such as trucking or in other pipelines like the Peace Pipeline. As a practical matter, however, it made economic sense for the shippers to agree to pay higher tariffs for there was no economical alternative way to bring their oil to market. Yet, an increased tariff would reduce a shipper's net recovery on oil produced. If crude oil prices dropped, the increased tariff would be a factor in a producer's decision to suspend production.
+
+The shipper's commitment to pay increased tariffs to fund the Expenditures therefor had substance. Under GAAP, such a commitment permits the recognition of an asset. From this perspective, the Expenditures are an asst because they give rise to a future economic benefit in the form of increased future tariffs from shippers. The Company controls access to the benefit because they collect the tariffs, and the event giving rise to the asset, the Expenditures, has already taken place.
+
+This is how the Company supported capitalizing the Expenditures in their December 31, 1994 and subsequent financial statements. We agreed this treatment of the Expenditures was and still is acceptable under GAAP. ...
+
+[15] Mr. Bootle's honest concession that it made economic sense for the shippers to agree to pay higher tariffs because "there was no economical alternative way to bring their oil to market" is a de facto admission that the Appellant's pipeline could become rate-regulated by the Province of Alberta at any time.
+
+[16] There is a second reason for my view that Mr. Bootle was labouring to support his opinion. He lumped together two very different amounts ($15 million of Replacement Costs and $2.5 million of Repair Costs); he identified the combined total as "Expenditures"; and he then expressed his entire opinion with respect to the combined total as if all of his reasoning would have equal application to both amounts. I think that is a flawed approach when the circumstances pertaining to the two amounts are so different. The only justification for such an approach is the fact that each amount is subject to the same issue concerning whether it should be expensed or capitalized when computing income for income tax purposes.
+
+[17] At the bottom of page 7 of the Bootle report, there is a good example of why lumping together the two amounts was not a good idea. Mr. Bootle has just referred to the 1997 financial statements of Koch Pipelines, AEC Pipelines and Pembina Pipeline and to his discussion with a representative of each corporation. He then proceeds to state:
+
+In connection with the preparation of this opinion, I spoke with either a representative of the above three reporting issuers or their auditors. I briefly described the Expenditures mentioned in this opinion. Those individuals concurred that under each of these stated accounting policies, the Expenditures could have been charged to income in the year incurred.
+
+... The practice of charging the Expenditures to the current period is therefore a practice generally accepted by a significant number of Canadian entities.
+
+When he described "the Expenditures" to those representatives, he was describing the $15 million amount and the $2.5 million amount. When those representatives concurred that the Expenditures "could have been charged to income in the year incurred", were they speaking with equal conviction about both amounts? There is a big difference between "could have been" and "would have been". The first expresses a possibility; the second expresses a certainty. In my opinion, the discussions with those three representatives as summarized on pages 7 and 8 of the Bootle report do not justify the conclusion stated in the last sentence quoted above concerning "a practice generally accepted by a significant number of Canadian entities".
+
+[18] Mr. Bootle concluded his report with the following sentence:
+
+... On balance, while we opined without qualification on the 1994 and subsequent financial statements, we believe there is stronger conceptual and practice based support for charging the Expenditures to the income statement in the year incurred than in capitalizing them as an asset.
+
+At the end of his oral testimony, I informed him that when I am writing a judgment if I begin my deciding sentence with the phrase "on balance" I am trying to indicate that I find two conflicting propositions almost equally appealing but that I tilt a little more toward one than the other. I then asked him if he used "on balance" in the same manner. He said that he did.
+
+[19] Kay Holgate, the expert witness called by the Respondent, has a Bachelor of Business Administration from Mount Saint Vincent University (1973). She was admitted to the Nova Scotia Institute of Chartered Accountants in 1975 and to the Alberta Institute in 1977. She has an M.B.A. from the University of Calgary (1992). She has extensive academic experience teaching both financial and management accounting at two universities (1976-1984) and on a part-time basis for the Alberta Institute of Chartered Accountants. From 1989 to 1997, she practised as a contract consultant with Stephen Johnson, Chartered Accountants, primarily on litigation or regulatory projects. Ms. Holgate's experience was more academic and less practical than Mr. Bootle's but she was accepted as an expert witness permitted to express her opinions on GAAP. Her report was dated August 10, 1998 (after she had read Mr. Bootle's report) and entered as Exhibit 54.
+
+[20] Ms. Holgate's opinion was directed only at the $15 million amount expended to replace the 44 km. section of pipeline (Replacement Costs) although she sometimes refers to Mr. Bootle's opinion on "Expenditures" which, as described above, is defined to include the $15 million amount and a $2.5 million amount. It is clear, however, from page 1 of her report that she is considering only the $15 million amount. Unlike Mr. Bootle, Ms. Holgate does not regard the two alternative accounting treatments (current expense or capital outlay) for the $15 million amount as having almost equal support under GAAP. She is strongly of the opinion that the $15 million amount should be capitalized. At page 1 of her report, she begins her opinion as follows:
+
+1. We disagree with Ernst & Young's opinion that there is stronger conceptual and practice based support for charging the Expenditures to the income statement in the year incurred than in capitalizing them as an asset.
+
+2. In our opinion, the Expenditures should be capitalized as:
+
+the amount of $15 million is material to Rainbow;
+
+capitalizing is consistent with the definition of an asset as the Expenditures provide specific benefits in future periods;
+
+capitalizing is the proper application of the process of matching and results in a rational and systematic correlation of costs and revenues;
+
+the resulting financial statements would be perceived as fair by the ordinary observer; and,
+
+capitalizing is consistent with practice in the industry.
+
+3. In our opinion, these Expenditures should not be expensed as they are not consistent with out interpretation of the definition of an expense and to do so would severely distort the expenditures reported in the financial statements.
+
+[21] Ms. Holgate was engaged to respond to Mr. Bootle's report and so her report is precisely that: a response. At page 4 of her report, she begins a long response to Mr. Bootle's discussion of Broad Principles and Conventions. Specifically, she thinks that his approach was too narrow in limiting his analysis to the definitions of "asset" and "expense" from the CICA Handbook. She states that additional broad principles and conventions should be considered like materiality, matching and representational faithfulness. On the definition of an "asset", Mr. Bootle had acknowledged that capitalizing the $15 million "was and still is acceptable under GAAP" but he had tried to limit his acknowledgement by suggesting that incremental tariffs paid by the shareholders/owners as shippers were, in economic substance, additional equity. Ms. Holgate refuted that suggestion with the following reasons:
+
+Ernst & Young, however, continue to discuss a limitation of the argument that the Expenditures are an asset. In this analysis they argue that the incremental tariffs paid by owners are in substance additional equity. We see no distinction for accounting purposes between original tariffs and incremental tariffs as both represent a fee for service and appear to have been treated as such by Rainbow in their audited financial statements. We understand that there is no relationship between the ownership percentage and the shipped volumes such that the hypothetical "equity injections" need not be proportional. Finally, in accordance with the usual symmetrical accounting treatment, if the tariffs were viewed as equity to the pipeline, the tariffs should be viewed as investments by the owners. To our knowledge, owners have never treated the tariffs paid by them, as shippers, as an investment in a pipeline. For these reasons, we do not believe the incremental tariffs to be paid by owner/shippers are equity, in substance, and believe the arguments to refute the position that the Expenditures are an asset are unsubstantiated.
+
+[22] On the definition of an "expense", Mr. Bootle had stated that SCC was not contemplated in the Appellant's annual charges for depreciation but Ms. Holgate pointed out that the computation of depreciation as an expense involves estimates of the useful life or throughput and salvage value of the asset, and that estimates are revised frequently out of necessity. Why would the Appellant not review the basis of its pipeline depreciation at the end of 1994 after expending $15 million to replace 44 kms. of the 24-inch pipe (the largest diameter)? We know that the Appellant did review that situation because it did in fact capitalize the Replacement Costs for financial statement purposes.
+
+[23] There are two aspects of the Holgate report which I find particularly interesting. At page 16, while discussing GAAP for major repairs, Ms. Holgate states:
+
+Repairs are usually made to a unit of plant or machinery which is a discrete part of total plant and equipment. A pipeline is made up of many discrete homogeneous components termed "units of pipe". Assuming that a sixty foot unit of pipe had been used, approximately 2,240 units would have been required to replace the 44 km of pipeline. Given our understanding that industry practice is to view anything larger than a unit of pipe as a capital item, the classification of the restoration of the pipeline as a repair is paradoxical. In Rainbow's circumstances, the net book value of the asset prior to the repair was $23 million resulting in a "repair" in excess of 65% of the 1994 opening net book value of the pipeline and equipment assets.
+
+At page 20, Ms. Holgate's comments on "materiality" also relate the $15 million Replacement Costs to the opening book value ($23 million) of the pipeline as at January 1, 1994. She states:
+
+The magnitude of Rainbow's replacement program at $15 million is sufficiently large relative to their $23 million net book value of pipeline and equipment, the $32.5 million of their total assets, and the $7 million of their reported net income, to be significant to users in making decisions.
+
+... In our opinion, ... changing the accounting policy from capitalizing the Expenditures to expensing them severely distorts expenses and net income.
+
+[24] Mr. Bootle and Ms. Holgate agree that there is a high level of judgment involved in the determination of whether a particular expenditure is a current expense (charged against profit in the period incurred) or a capital outlay (capitalized and depreciated over a longer period). In my judgment, the opinion of Ms. Holgate is to be preferred over the opinion of Mr. Bootle. She is unequivocal in her opinion that the $15 million amount should be capitalized and that treating such amount as a current expense would severely distort both expenses and net income. Her opinion coincides with my view of the question.
+
+[25] Exhibit 2 is the Appellant's 1994 Annual Report including its audited financial statements as at December 31, 1994 with comparable amounts at December 31, 1993. Even without the benefit of expert opinions, I can see from the balance sheet that the net book value (after accumulated depreciation) of pipeline and equipment at December 31, 1993 was $23,087,000 and that the same net book value at December 31, 1994 was $39,646,000. The increase of $16,559,000 (71.7%) was caused primarily by the $15 million amount expended to replace 44 kms. of the 24-inch pipeline. When an amount is expended on an asset like a pipeline, and the amount is equal to 65% of the net book value of the asset, I find it difficult to imagine that the amount would be a current expense and not a capital outlay.
+
+[26] The audited financial statements in Exhibit 2 contain a statement of income with comparable amounts for 1993 and 1994. The 1994 income before taxes was $12,941,000 with the Replacement Costs capitalized. Because the depreciation of the pipeline for financial statement purposes was based on the unit-of-throughput method, I cannot determine what the depreciation was on the $15 million amount expended in 1994 but total depreciation in 1994 was $3,460,000. If I assume (i) that one-third of the 1994 depreciation ($1,150,000) was referable to the $15 million expended on Replacement Costs; and (ii) that the $15 million should be expensed and not capitalized, the Appellant's profit (income before taxes) in its 1994 audited financial statements would be restated as follows:
+
+Income before taxes $12,941,000
+
+Add back depreciation on
+
+Replacement Costs 1,150,000
+
+Revised pre-tax income 14,091,000
+
+Subtract Replacement Costs
+
+as current expense 15,000,000
+
+Net Loss $ 909,000
+
+If the Replacement Costs had been treated as a current expense in the 1994 audited financial statements, a pre-tax profit of $12,941,00 would have been wiped out and replaced by a loss of approximately $909,000 according to my assumptions. Ms. Holgate went through a similar exercise in Schedule 3 of Appendix A to her report and arrived at a net loss of approximately $600,000.
+
+[27] The 44 km. section of new pipeline from Utikuma Station to Mile Post 262.4 is approximately 5.7% of the total length of the Appellant's main trunkline (781 kms.). The 24-inch pipeline from Utikuma to Edmonton is approximately 300 kms. (ASF paragraph 7). Therefore, the 44 km. section of new pipeline is approximately 14.6% of the 24-inch portion of the main trunkline. By either standard, the percentage of new pipe is not substantial. Does a relatively small percentage of the whole indicate that the Replacement Costs should be a current expense and not a capital outlay? In my view, it depends upon the character of the whole.
+
+[28] If the whole is a complicated machine which, after a period of use, requires a number of replacement parts (each different) that collectively represent from 5% to 10% of the physical size of the machine, I am inclined to the view that the cost of such parts would be a current expense of repair and not a capital outlay to replace a portion of an asset. On the other hand, if the whole is a composition of homogeneous parts like a railway running from Vancouver to Calgary which, after a period of use, requires the replacement of a single stretch of track representing from 5% to 10% of the whole, I am inclined to the view that the cost of replacing the single stretch of track would be a capital outlay to replace a portion of an asset and not a current expense of repair. My comparison is self-serving to the conclusion I reach on the first issue but it illustrates the difficulty in laying down a general rule or drawing a line to determine such issue with respect to a percentage of the whole asset. It also illustrates the need to exercise judgment on a case-by-case basis. See the decision of the Supreme Court of Canada in Johns-Manville Canada Inc. v. The Queen, 85 DTC 5373 as an exercise of judgment in a case which I think could have gone either way.
+
+[29] I return to the summary of principles set out by Iacobucci J. at pages 174 and 175 of Canderel (quoted above). Item 4 is the taxpayer's freedom to adopt any method of ascertaining profit not inconsistent with:
+
+(a) provisions of the Income Tax Act;
+
+(b) established case law principles; and
+
+(c) well-accepted business principles.
+
+The prohibition against deducting an outlay of capital in paragraph 18(1)(b) of the Income Tax Act begs the question in this case because the first issue is whether the $15 million amount was a current expense or capital outlay. With respect to case law principles, in a 1926 decision of the House of Lords, Viscount Cave stated:
+
+... when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
+
+See Atherton v. British Inuslated and Helsby Cables Ltd., [1926] A.C. 205 at 213. The above principle established in Helsby Cables was approved and applied by the Supreme Court of Canada in British Columbia electric Railway Company Limited v. M.N.R., 58 DTC 1022 at 1025 and 1028. That principle has also been cited with approval in many other Canadian income tax cases. In my opinion, the 44 kms. of new pipeline between Utikuma Station and Mile Post 262.4 was an asset or advantage for the enduring benefit of the Appellant's business.
+
+[30] Well-accepted business principles (including GAAP) run against the Appellant. First, with respect to the evidence of experts, I strongly prefer the opinion of Ms. Holgate to the opinion of Mr. Bootle. I find that there is much stronger support in GAAP for capitalizing the Replacement Costs. And second, I am influenced by the business reason adopted by the Appellant for capitalizing the Replacement Costs in its 1994 audited financial statements. In paragraph 6 of the Notice of Appeal, the Appellant alleges:
+
+The 1994 financial statements of the Appellant capitalized the Costs (i.e. $15 million) to property, plant and equipment. ... In choosing between capitalizing the Costs, rather than expensing them, the Appellant chose the former alternative in order to promote its business relationship with the shippers on the pipeline. If the Costs had been expenses, shippers would have been required to bear the entire amount thereof in the year subsequent to the year of expenditure through an increase in pipeline tolls in that subsequent year. By treating the Costs as a capitalized item, a small increase in annual tolls was effected, thereby reducing the immediate financial burden of the Costs to the shippers by spreading the increased burden over the remaining estimated useful life of the pipeline.
+
+This allegation was not admitted by the Respondent but when the Appellant's first witness, Norman Tozer, was asked in chief about the Appellant's decision to capitalize the Replacement Costs in the 1994 audited financial statements, he stated:
+
+It would have been capitalized to avoid a very severe and short-term increase in tolls that the Shippers would be expected to pay. (Transcript page 104)
+
+Also, Mr. Bootle's report states at page 5:
+
+The shipper's commitment to pay increased tariffs to fund the Expenditures therefor had substance. Under GAAP, such a commitment permits the recognition of an asset. From this perspective, the Expenditures are an asst because they give rise to a future economic benefit in the form of increased future tariffs from shippers. ...
+
+If capitalizing the $15 million amount in the audited financial statements permitted a shipper to spread the moderately increased tariff over the life of the pipeline or the life of its oilfield as opposed to facing a sharply increased tariff in 1995, that was a good business reason for capitalizing that amount. Approximately 58% of the Appellant's tariff revenue ($36.1 million in 1994) is derived from shippers who are not shareholders (ASF paragraph 2).
+
+[31] Having regard to all of the circumstances of this case, I find that the $15 million amount was a capital outlay because (i) it was non-recurring; (ii) it was a major repair; (iii) it brought into existence an asset (the replaced portion of the 24-inch section of the main trunkline) for the enduring benefit of the Appellant's business; and (iv) it was substantial in relation to the book value of the whole pipeline, other expenses and annual profits.
+
+[32] In Canderel, the Supreme Court stated that the goal is to obtain an accurate picture of the taxpayer's profit for the year. In my opinion, capitalizing the $15 million amount of Replacement Costs provides a more accurate picture of the Appellant's income for 1994 than the result obtained by deducting that amount as a current expense. Indeed, I find that expensing the $15 million amount does not provide an accurate picture of the Appellant's income for 1994 for the purposes of the Income Tax Act, however helpful expensing may be to a potential investor or creditor as suggested by Mr. Bootle in his rebuttal evidence. The Respondent succeeds on the first issue.
+
+Second Issue: The $2,518,579 Amount – ASF paragraphs 13 to 19
+
+[33] The Appellant conducted "corrosive surveys" of its main trunkline in 1979, 1984 and 1989. As part of the five-year inspection cycle, and after the three leaks on the trunkline segment between Utikuma and Flatbush (November 1992, February 1993 and July 1993), the Appellant retained British Gas to conduct an online inspection survey of the 24-inch pipeline from Utikuma to Edmonton, a distance of 297 kilometres. The British Gas inspection identified the extent and location of external metal loss corrosion and analyzed the Estimated Repair Factor ("ERF") for significant metal loss defects. Specifically, British Gas identified 523 locations downstream from Mile Post 262.4 (the south end of the 44 kilometre section of pipe described above in the first issue) having an ERF greater than or equal to 1.00 and therefore warranting excavation and repair. As a result of the British Gas survey, the Appellant made two important decisions, First, it decided to replace the 44 kilometre section of pipe described above. And second, it decided to implement a pipeline repair program which is referred to as the Pipeline Integrity Project and described above in paragraph 3 to 17 of the ASF.
+
+[34] In 1994, the Appellant excavated and repaired all of the 523 locations downstream from Mile Post 262.4 having an ERF greater than or equal to 1.00. This operation required 142 repair dig sites. The actual repair effected at a particular location was one of the following three types:
+
+(i) Replacing part or all of a joint of pipe. At one location, several joints of pipe were replaced;
+
+(ii) Applying a "sleeve" (two half-cylinders welded together) to an existing length of pipe; and
+
+(iii) Removing a defect by sanding the surface of the pipe so as to retain at least 92% of the nominal wall thickness.
+
+[35] The Appellant expended the amount of $2,518,579 in 1994 to restore the integrity of the 24-inch pipeline downstream from Mile Post 262.4 allowing it to return to MAOP. The Appellant also investigated and repaired as necessary all locations where the pipeline coating had failed by removing the corrosive environment from the pipe surface to prevent further corrosion. In its 1994 audited financial statements, the Appellant capitalized the amount of $2,518,579 to property, plant and equipment. In its 1994 income tax return, the Appellant capitalized the same amount allocating it between Class 1 ($1,976,922) and Class 8 ($541,657) of Schedule 2 to the Regulations. In a footnote to Schedule TES(8) to its income tax return, the Appellant noted the capitalization and stated that, after further research, it may serve a notice of objection against an assessment of the return as filed.
+
+[36] Revenue Canada assessed the Appellant's 1994 income tax return as filed and the Appellant served a notice of objection claiming, inter alia, that the amount of $2,518,579 was a deductible current expense and not a capital outlay. That is the second issue in this appeal. Mr. Bootle combined the amount $2,518,579 with the very much larger amount ($15,002,590) required to replace the 44 kilometre section of pipe described above; he defined the combined amount as "the Expenditures"; and then expressed his opinion with respect to GAAP as applicable to the Expenditures. When deciding the first issue above, I described why I would not rely on his opinion. The Respondent's expert did not express an opinion with respect to this smaller amount of $2,518,579 and GAAP.
+
+[37] I will decide this second issue in favour of the Appellant because the four principal factors which, in the first issue, induced me to conclude that the larger amount ($15,002,590) was a capital outlay operated in the opposite direction in the second issue. First, the replacement of a 44 kilometre section of the 24-inch pipeline appears to have been a non-recurring event. The three kinds of repair described in paragraph 34 above will probably occur to some degree each year as part of the Pipeline Integrity Project or every fifth year as part of the corrosive surveys. They will be recurring events. Second, considering the 142 dig sites and the 523 repair locations, not one site or location was a major repair. Each location, taken in isolation, was a patching up of the main trunkline. It was a typical kind of repair. The replacement of 44 kms. of the 24-inch pipeline was a major repair. Third, the cost of any one repair or all of the repairs taken together was not substantial in relation to the book value of the pipeline, annual expenses or annual profits. And fourth, the repair at any single location viewed alone, and all of the many repair locations viewed together, did not bring into existence an enduring asset for the benefit of the Appellant's pipeline business. The Appellant succeeds on the second issue.
+
+Third Issue: Scientific Research and Experimental Development (SRED)
+
+[38] Section 37 of the Income Tax Act permits the deduction in computing income of certain amounts expended on scientific research and experimental development ("SRED"). Subsection 127(5) of the Act permits the deduction "from the tax otherwise payable" of certain investment tax credits. Subsection 127(9) contains many definitions but the following three are of particular importance in this appeal:
+
+"investment tax credit" includes a qualified expenditure;
+
+"qualified expenditure" means an expenditure in respect of SRED within the meaning of section 37; and
+
+"specified percentage" means in subparagraph (e)(iv) 20% of SRED carried out in Alberta.
+
+Collectively, the above provisions permit the deduction of an investment tax credit of 20% of SRED carried out in Alberta. SRED is defined as follows in section 2900 of the Income Tax Regulations:
+
+2900(1) For the purposes of this Part and sections 37 and 37.1 of the Act, “scientific research and experimental development” means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) work with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support, of the work described in paragraph (a), (b) or (c),
+
+but does not include work with respect to
+
+(e) ... (not relevant to this appeal)
+
+[39] Having regard to the above definition of SRED, the Appellant is not attempting to come under "basic research" in (a) as theoretical study but the Appellant does claim to qualify under (b) applied research; (c) experimental development; and (d) work with respect to engineering, design, etc. As a result of the three leaks on its main trunkline in November 1992, February 1993 and July 1993, the Appellant was anxious to know both the cause of stress corrosion cracking ("SCC") and the effect of SCC either alone or in connection with other metal corrosion on oil pipelines in Alberta. This was the "practical application" of the applied research in (b).
+
+[40] In argument, counsel for the Appellant laid particular emphasis on (c) "experimental development" as work undertaken to achieve technological advancement for the purpose of "creating new, or improving existing, ... processes, including incremental improvements thereto". The Appellant claims that its "process" was determining the cause and effect of SCC even if there were only "incremental improvements" to that process. With respect to (d), the Appellant claims that it did work with respect to engineering, operations research, data collection and testing commensurate with the needs, and directly in support, of its work described in (b) and (c).
+
+[41] In 1995-1996, the NEB held an inquiry into SCC on Canadian oil and gas pipelines. According to a table on page 11 of the NEB Inquiry Report (Exhibit 36), TransCanda Pipelines Ltd. ("TCPL", operating a gas pipeline) was the only corporation in Canada to have an SCC rupture prior to the Appellant's two ruptures in 1993. TCPL actually had three SCC ruptures in 1985-1986 and two more in 1991-1992. It appears that the Appellant was the first operator of an oil pipeline to have an SCC rupture. According to the same table on page 11 of Exhibit 36, under the headings "Research Activities" and "Investigative Programs", there was very little research on SCC failures in pipelines prior to 1993-1994.
+
+[42] The events of 1994 must be placed in a certain perspective. The Appellant had operated the 24-inch trunkline from Utikuma to Edmonton (approximately 300 kms.) for 26 years (1967 to 1993) without any pipeline ruptures. In February and July 1993, the Appellant had two significant ruptures in the 24-inch portion of its pipeline. Those two ruptures were caused by SCC and metal corrosion and required the pipeline to operate at 55% of its MAOP (see paragraph 4 ASF). Further inspection discovered 523 defects which needed repair in the 24-inch pipeline south of Mile Post 262.5. The 523 defects were caused by SCC and/or metal corrosion. I am predisposed to think that any pipeline corporation with a trouble-free operating history like the Appellant, suddenly faced with a major repair (replacing 44 kms. of pipe) and 523 minor repairs, would not embark upon a replacement and repair program costing $17.5 million unless, at the same time, the corporation commenced a serious inquiry into the cause and effect of such repairs. There is no doubt that the Appellant commenced such an inquiry. The question is whether the inquiry was SRED.
+
+[43] I place significant weight on the NEB Inquiry Report (Exhibit 36) because it was not prepared to advance the cause of either party to this appeal. Although the Inquiry was commissioned in September 1995 and the Report was signed in November 1996, it is relevant to this appeal for the 1994 taxation year because it describes indirectly the state of knowledge of SCC (its cause and effect) in 1993 and 1994 when the Appellant had its two major SCC ruptures and performed the necessary replacement and repairs. The Report states at pages 60 and 61:
+
+The information collected by TransCanada during its investigative excavations in the late 1980s suggested that the occurrence of "significant" SCC on a pipeline was strongly related to the terrain conditions surrounding the pipe where there was the potential for pipe coatings to have disbonded. Based on this observation, TransCanada employed J.E. Marr Associates (Canada) Ltd. in 1992 to develop a predictive model for SCC susceptibility.
+
+Several other pipeline companies have since developed predictive models for SCC susceptibility. In most cases, these models have been based on the methodology developed by TransCanada and J.E. Marr Associates (Canada) Ltd. At the time of the Inquiry, six CEPA (Canadian Energy Pipeline Association) member companies were using predictive models to assess the SCC-susceptibility of their systems, or portions thereof, and five other member companies were developing predictive models. ...
+
+In general, the first step in the development of a predictive model is to review the background information for a specific pipeline. The data will include, among other things, the pipeline's operating history, its coating type and its year of construction. The more current and complete the available pipeline data, the better the initial model.
+
+...
+
+While the information on terrain conditions known to promote SCC susceptibility may be applied to all pipelines in the same area, a predictive model can be used only for the pipeline for which it was developed. That is because the data about each pipeline – its coating, its year of construction, its operating history – may be quite unique and this data is an important part of the predictive model. Consequently, assumptions should not be made about SCC susceptibility on one pipeline system on the basis of a predictive model developed for another system.
+
+In the last paragraph quoted above, there are references to data collection and operating history which may bring the Appellant within paragraph 2900(1)(d) of the Income Tax Regulations. The Appellant retained J.E. Marr Associates in 1994 to develop a predictive model for SCC susceptibility in its pipeline. Part of Exhibit 26 is the contract dated June 1, 1994 between the Appellant and J.E. Marr Associates with respect to excavation and a predictive model for SCC susceptibility. Also in Exhibit 26 is the contract dated January 10, 1994 between the Appellant and Petro-Line Upgrading Services Ltd. with respect to hydrostatic testing. A more complete description of the hydrostatic testing is in Exhibit 20.
+
+[44] Paragraphs 7 and 8 of the ASF describe the online inspection survey conducted by British Gas in 1993 and the location of defects (metal loss corrosion) having an estimated repair factor ("ERF") greater than or equal to 1.00. There were 819 such defects and Exhibit 5 is a summary of their location with respect to pipeline segments. It is easy to see from Exhibit 5 why the 44 kms. of pipeline south from Mile Post 235 were replaced, and why the remaining 523 defects south from Mile Post 262.5 were repaired. Exhibit 19 is a discussion paper on hydrotesting prepared on August 22, 1994. In Exhibit 19, at page 7, there is a summary of metal loss and SCC inspection showing how the anomalies were repaired or rewrapped from Mile Post 262.5 to Edmonton. This summary is interesting because it shows that some anomalies were caused by SCC, some by metal loss, and some by a combination of SCC and metal loss.
+
+[45] The Respondent argued that expenditures on or in respect of SRED are qualified by subparagraph 37(8)(a)(ii)(B)(III) which states:
+
+(III) an expenditure of a capital nature that at the time it was incurred was for the provision of premises, facilities or equipment, where at that time it was intended
+
+1. that it would be used during all or substantially all of its operating time in its expected useful life for, or
+
+2. that all or substantially all of its value would be consumed in,
+
+the prosecution of scientific research and experimental development in Canada, and
+
+...
+
+The Respondent argued (and the Appellant admitted) that the Appellant was not even thinking about SRED in 1994 when it commenced the inquiry into the cause and effect of SCC and metal loss. The Appellant's claim with respect to SRED was not filed with Revenue Canada until the fall of 1995, after its 1994 income tax return was filed, but the Respondent makes no argument with respect to the timing of the claim. The Respondent simply argues that, in the words of subparagraph (III), the Appellant cannot bring itself within the words: "where at that time it was intended". The Appellant claims that subparagraph (III) does not require a specific intention toward SRED but only an intention toward a purpose which may prove to be SRED within the meaning of Regulation 2900(1). The Appellant also argues that all of the expenditures which it claims are for SRED may be of a current nature and, therefore, under subparagraph (II) and not (III). I accept the Appellant's argument with respect to subparagraph (III).
+
+[46] Exhibit 35 describes all of the amounts which were disputed when the Appellant filed its Notice of Objection for 1994 even though the document mistakenly says "1995". Under the column "SRED Pool" are four amounts which make up the total of $2,081,325. Each of the four amounts is identified with an authorization for expenditure ("AFE"). The AFEs appear in Exhibits 12, 13, 14, 17 and 18. Only the amount $632,287 from Exhibit 18 was treated as a current expense for financial statement and income tax purposes. The other amounts were capitalized for financial statement purposes and allocated to UCC Classes for income tax purposes.
+
+[47] Exhibit 17 is the Appellant's report on SRED in 1994 prepared for its submission to Revenue Canada in November 1995. At page 5 of the report under the heading "Costs" there is the total program cost of $4,541,188 of which $2,081,325 is allocated to SRED. About 10 pages later, there is an analysis of the costs incurred under AFE 9460500 and an allocation of those costs between SRED and ordinary repairs. Norman Tozer, a witness for the Appellant, stated that he probably spent more time on the Appellant's SRED claim than anyone else. At page 114 of the transcript, he described what the Appellant was trying to learn or needed to know in 1993-1994:
+
+Well, we had knowledge that the failures we incurred were resulting in part from Stress Corrosion Cracking, so we needed to learn more about SCC; we needed to know what caused it, what caused the cracks to form, what caused them to grow, what parameters caused the formation -- both the initiation and the growth of the SCC; we needed to know more about growth rates; we needed to know how to identify the SCC that was existing in the pipeline; we needed to know how to predict where it might occur.
+
+[48] Mr. Tozer's attention was directed to Exhibit 17 and, in particular, to a three-page analysis of AFE 9460500. There were about 140 different expenditures authorized by AFE 9460500. Mr. Tozer explained how he went about his analysis. He first removed those costs which were incurred in 1995 so that he would be dealing with only 1994 costs. He then consulted with a number of contractors (retained and paid under AFE 9460500) to determine what portion of their work was referable to SRED and what portion was referable to repair. According to the answers he received and his own considerable experience, he developed the following formula to allocate a percentage of each cost to SRED:
+
+A. - 0% SRED; fully routine technical activity
+
+B. - varying percentage related to SRED depending on specific contact
+
+C. - 30% SRED; technical support required for SRED work
+
+D. - 100% SRED
+
+E. - 0% SRED; excluded from project
+
+[49] By following the above formula, Mr. Tozer was able to determine that, of the 1994 expenditures ($3,663,561) authorized by AFE 9460500, the amount $1,295,878 was attributable to SRED. In Exhibit 35, this is the biggest of the four components of the Appellant's SRED claim. In Exhibit 17, a few pages before the analysis of AFE 9460500, there is a two-page detail of the items authorized by AFE 946054X. This is the AFE which authorized total expenditures of $632,286 all of which were charged to current account and were allocated to SRED. Mr. Tozer's evidence with respect to Exhibit 17 and his allocation of costs in AFE 9460500 were not shown to be unreasonable either in cross-examination or in positive evidence from the Respondent.
+
+[50] The Appellant relied on the decision of this Court in Northwest Hydraulic Consultants Limited v. The Queen, 98 DTC 1839 in which Bowman J. allowed in part the taxpayer's appeal. After referring to the words "including incremental improvements thereto" in Regulation 2900(1)(c), Bowman J. stated at page 1840:
+
+[10] The addition of these words in 1995 applicable to taxation years ending after December 2, 1992 appears to have been in response to a concern that the achievement or attempted achievement of slight improvements was not covered. I should not have thought it was necessary to say so. Most scientific research involves gradual, indeed infinitesimal, progress. Spectacular breakthroughs are rare and make up a very small part of the results of SRED in Canada.
+
+[11] The tax incentives given for doing SRED are intended to encourage scientific research in Canada (Consoltex Inc. v. The Queen, 97 DTC 724). As such the legislation dealing with such incentives must be given "such fair, large and liberal construction and interpretation as best ensures the attainment of its objects" (Interpretation Act, section 12).
+
+Judge Bowman sets out his understanding of the approach to be taken on a SRED claim by asking five questions commencing at paragraph 16 of his reasons for judgment. It is not necessary to review all five questions but, having regard to the utility of the predictive model for SCC susceptibility developed by J.E. Marr Associates, it is helpful to quote from part of Judge Bowman's answers to questions 3 and 4:
+
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+
+(a) ...
+
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+
+(a) ...
+
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+
+[51] The Respondent relied on the decision of this Court in Sass Manufacturing Limited v. M.N.R., 88 DTC 1363 in which the taxpayer claimed that certain amounts expended on the fabrication of a prototype machine to install drainpipe were expended for SRED. In that case, the Respondent called an expert witness (R. Garth Doel, P. Eng.) who expressed his opinion as to why the fabrication of the prototype did not constitute scientific research. When dismissing the taxpayer's claim to SRED, Sarchuk J. stated at page 1371:
+
+The evidence falls far short of establishing the existence of any systematic investigation or search carried out in a field of technology by means of experiment or analysis. In my view Regulation 2900 requires an appellant to adduce cogent evidence of such investigation or search. Systematic investigation connotes the existence of controlled experiments and of highly accurate measurements and involves the testing of one's theories against empirical evidence. Scientific research must mean the enterprise of explaining and predicting and the gaining knowledge of whatever the subject matter of the hypothesis is. This surely would include repeatable experiments in which the steps, the various changes made and the results are carefully noted. There is no evidence of such an approach in the case at bar, either in the context of applied research or development. The appeal on this issue cannot succeed.
+
+[52] It appears to me from the Sass Manufacturing decision that the taxpayer was not faced with a technical problem (like leaks in a pipeline) which threatened its business. Sass was simply trying to build a prototype machine whereas Rainbow Pipe Line attacked the problem which threatened its business and, at the same time, started a "systematic investigation ... in a field of science or technology by means of experiment or analysis". Judge Sarchuk noted in Sass that none of the conclusions of the Respondent's expert was seriously challenged by the taxpayer in that case.
+
+[53] In paragraph 42 above, I stated my predisposition to think that a pipeline corporation like the Appellant would not expend $17.5 million on replacement and repair without some kind of inquiry into the cause and effect of such replacement and repair. The Respondent did not call evidence to dispute all or any portion of the four components (see Exhibits 35 and 17) of the Appellant's SRED claim. In my opinion, the Appellant has discharged the onus of proving that it performed SRED in 1994 in the amount of $2,081,325. The Appellant succeeds on the third issue. I am willing to hear submissions from counsel on the question of costs.
+
+Signed at Ottawa, Canada, this 15th day of September, 1999.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

@@ -1,0 +1,298 @@
+Date: 19980420
+
+Dockets: 94-1247-IT-G; 95-4193-IT-G
+
+BETWEEN:
+
+KRUCO INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+ARCHAMBAULT, J.T.C.C.
+
+[1] Kruco Inc. (Kruco) is appealing the determinations of losses and the income tax assessments made by the Minister of National Revenue (Minister) under the Income Tax Act (Act) with respect to the taxation years 1984 to 1989 inclusive. The Minister disallowed the deduction of legal and other professional fees incurred by Kruco during each of these taxation years. The aggregate amount disallowed is $9,649,291. Of this amount, the Minister now concedes that $11,701 constitute ordinary corporate expenses that are deductible by Kruco for the years in which they were incurred. The Minister claims that the balance of the legal and professional fees was incurred on capital account and that the deduction thereof is prohibited under paragraph 18(1)(b) of the Act.
+
+[2] Kruco argues that these expenses were incurred for the purpose of gaining or producing income from property, namely its shares in Kruger Inc. (Kruger) and that they were not capital outlays. Alternatively, it argues that should these expenses be found to have been capital outlays, they were either costs to be added to the adjusted cost base or expenses of disposition of its Kruger shares.
+
+[3] At the outset of the hearing, the parties filed a partial agreed statement of facts and supporting documentation. Following are the last 25 paragraphs of this statement:
+
+2. During the relevant times, the Appellant held about Thirty-two Per Cent (32%) of the outstanding common shares of Kruger Inc. (“Kruger”), a privately owned corporation engaged in the production and marketing of newsprint, coated paper, paper board, and corrugated containers.
+
+3. These shares represented the Appellant’s major assets.
+
+4. During the years in question, the Appellant was controlled by the late Bernard J. Kruger, one of the two sons of the late founder of Kruger. Its other shareholders were his four children, David J. Kruger, Gene T. Kruger, Robert S. Kruger, and Judith M. Kruger.
+
+5. During the years in question, about Sixty-one Per Cent (61%) of the common shares of Kruger were owned by Hicliff Corporation (1978) Limited, which was controlled by Joseph Kruger II, son of the late Gene H. Kruger, who was the brother of Bernard J. Kruger and the other son of the late founder of Kruger.
+
+6. During the years in question, Joseph Kruger II was the chairman of the board and of the executive committee of Kruger and, with his father, dominated the board of directors of Kruger.
+
+7. During the years in question, Bernard J. Kruger and David J. Kruger were directors but not officers of Kruger.
+
+8. During the years in question, dividends paid by Kruger on its common shares held by the Appellant were the Appellant’s sole significant source of income and the main source of income and financial support for the Appellant’s shareholders.
+
+9. Beginning in the early 1980s, bitter disputes arose between the side of the Kruger family referred to in paragraph 4 and the side of the Kruger family referred to in paragraph 5. These disputes led to acts or omissions by the side of the Kruger family referred to in paragraph 5 that the Appellant’s shareholders regarded as being designed to place them under severe economic pressure, particularly by way of payment of inadequate dividends.
+
+10. During the years in question Bernard Kruger and David Kruger were refused access to significant corporate information relating to Kruger and were constantly outvoted at directors’ meetings of Kruger when they tried to have the amount of dividends increased or tried to obtain relevant information.
+
+11. In response to the actions and refusals of the other side of the Kruger family, the Appellant and its shareholders commenced a variety of legal and other adversary proceedings against Kruger and its controlling shareholders.
+
+12. The most significant such proceeding was an application brought in 1984 by the Appellant in the Quebec Superior court (500-05-013521-842) against Kruger and its controlling shareholders alleging “oppression” within the meaning of section 234 (now section 241) of the Canada Business Corporations Act, which was the legislation governing Kruger. The text of section 241 of that Act is reproduced in tab 3.
+
+13. This application alleged, among other things, that the defendants had oppressed the Appellant, commencing in 1982, by reason of the payment by Kruger of no dividends or inadequate dividends on its common shares. As originally framed, the application sought primarily:
+
+(a) A declaration that Kruger’s dividend policy was oppressive;
+
+(b) An order that Kruger now pay a special dividend of Two Dollars ($2.00) per common share; and
+
+(c) An order that Kruger pay in the future an annual dividend equal to at least Forty Per Cent (40%) of its net profits, subject to a right to Kruger to apply to the Court for a variation of this requirement if its business conditions “vary materially”.
+
+The “remedies” portion of the original version of the “oppression” application is attached as tab 4.
+
+14. The litigation relating to the “oppression” application extended over several years, during which the application was amended six times. Among other things, the amendments added a request for alternative remedies, including a “shotgun” bid for all the shares of Kruger, an order that Kruger or its shareholders purchase the Appellant’s shares of Kruger, or an order that Kruger assist the Appellant in making a secondary offer to the public of some of the Appellant’s shares of Kruger.
+
+The sixth amended version of the main “oppression” application is attached as tab 5.
+
+15. The addition, in amendments to the main "oppression" application, of subsidiary alternative remedies to those originally sought was for tactical reasons to increase the dividends paid by Kruger to a level that better reflected its high earnings.
+
+16. In the course of the litigation, there were several court appearances and a number of court decisions on preliminary issues.
+
+17. An action was commenced in 1982 in the Supreme Court of the Commonwealth of The Bahamas (number 378) by the four children of Bernard Kruger and their mother, Grace Kruger, against Joseph Kruger II and Peter Evans, who were then the trustees of The Bernard J. Kruger Family Trust, which had been settled in The Bahamas in 1966. The action sought removal of the trustees, alleging breach of trust, mismanagement, and misconduct or negligence, particularly by Joseph Kruger II. This action was consolidated with an action brought in The Bahamas in 1983 (number 924) by Bernard Kruger against Joseph Kruger II as trustee seeking repayment of an amount alleged to be owing to Bernard Kruger on a promissory note. An offshoot of this litigation was an “exhibitory action” brought by Bernard J. Kruger in 1982 in the Republic of Panama against Blue Ocean Inc., a Panama corporation in which The Bernard J. Kruger Family Trust had a substantial investment, seeking detailed information concerning the directors, officers, and shareholders and the finances and current value of Blue Ocean Inc. and its subsidiaries.
+
+18. During this period there were significant other court and administrative proceedings brought by the Appellant or its shareholders in Canada and the United States, all of which arose out of the disputes between the parties and all of which were designed to put pressure on the defendants in the main “oppression” application. These included, among other proceedings:
+
+(a) An application brought in 1984 by the Appellant in the Quebec Superior Court (500-05-007446-840) against Kruger and the partners of Coopers & Lybrand, chartered accountants, alleging “oppression” under then section 234 of the Canada Business Corporations Act and seeking the removal of Coopers & Lybrand as auditor of Kruger under then subsection 155(4) of that Act;
+
+(b) An application made in 1984 in the Quebec Superior Court (500-05-006109-845) against Kruger by Bernard Kruger and David Kruger, in their capacity as directors of Kruger, alleging “oppression” under then section 234 of the Canada Business Corporations Act because, among other things, the same corporate lawyers acted for Kruger as acted for its controlling shareholders in a number of matters in which their respective interests conflicted, and seeking, among several remedies, a recovery of certain legal fees and a prohibition against the continued use by Kruger of those lawyers;
+
+(c) An action brought by Bernard Kruger in 1984 in the Quebec Superior Court (500-05-001327-848) against Kruger, Joseph Kruger II, and Gene H. Kruger seeking damages for alleged wrongful termination of the employment, and of certain fringe benefits, of Bernard Kruger;
+
+(d) Proceedings before the Securities and Exchange Commission in Washington, D.C. in opposition to proposed sales in the United States by Kruger of subordinated debentures;
+
+(e) An application by Lévesque, Beaubien Inc. in 1985 to the Quebec Securities Commission for an order that Kruger provide the documents and information necessary to permit the Appellant to make a secondary distribution of some of its shares of Kruger.
+
+19. On August 30 and 31, 1989 the “oppression” applications and other related litigation were terminated by reason of a settlement between the parties reached on August 30, 1989. Under the terms of the settlement, Kruger redeemed its One Hundred (100) first preferred shares held by the Appellant for their redemption price of One Hundred ($100) and redeemed the Three Million Six Hundred Twenty-seven Thousand One Hundred (3,627,100) common shares held by the Appellant for a price of Ninety-nine Million Dollars ($99,000,000). Of the total redemption price of Ninety-nine Million One Hundred Thousand Dollars ($99,100,000), Forty-nine Million Dollars ($49,000,000) was paid in cash on August 31, 1989 (initially in escrow), and the remainder was paid by the issue to the Appellant of Two Hundred Seventy Thousand (270,000) Series B floating rate first preferred shares and Two Hundred Thirty Thousand (230,000) Series C floating rate first preferred shares of Kruger, redeemable at a total price of Fifty Million Dollars ($50,000,000). All these Series B and Series C preferred shares were redeemed by Kruger over a period between 1991 and 1996. The settlement arrangements also addressed the many other outstanding issues between the parties and resulted in a termination of all litigation between them, including a payment of Two Million Dollars ($2,000,000) to the Appellant on August 31, 1989 in discharge of the portion of the promissory note from The Bernard J. Kruger Family Trust that Bernard Kruger had assigned to the Appellant in 1985.
+
+20. The Appellant reported for tax purposes in 1989 certain deemed dividends and a capital gain resulting from the disposition of its shares of Kruger pursuant to the settlement agreement.
+
+21. The main “oppression” application, as well as the other legal and administrative proceedings referred to in paragraph 18, involved substantial legal and consulting fees that were paid by the Appellant during the years in question, the deduction of which is here in issue.
+
+22. Among the expenses incurred by the Appellant, and in issue here, were the fees of Richard Wise & Associates and its predecessor, who, as experts on the valuation of shares, provided expert opinions for the Appellant on the inadequacy of the level of the dividends that were being paid by Kruger.
+
+23. Included in the fees that are in issue here were amounts paid to the Washington, D.C. law firms of Steptoe & Johnson and Melrod, Redman & Gartlan to oppose certain applications of Kruger to the Securities and Exchange Commission in connection with proposed debenture issues, as referred to in subparagraph 18(d).
+
+24. The fees paid by the Appellant to Lévesque, Beaubien Inc., investment advisers, are also in issue here. They involved assistance to the Appellants[sic] in unsuccessfully seeking the right to make a secondary offering to the public of some of its shares of Kruger, as referred to in subparagraph 18(e).
+
+25. Also included in the fees that are in issue here were amounts paid to the Montreal law firm of Lapointe, Schachter, Champagne & Talbot in connection with an application by the Appellant before the Quebec Superior Court to have Coopers & Lybrand declared disqualified as auditors of Kruger because of lack of independence, as referred to in subparagraph 18(a).
+
+26. Also included in the fees that are in issue here are a total of One Hundred Fourteen Thousand Seven Hundred Seventy-three Dollars ($114,773) in professional fees incurred by the Appellant in the years 1985 to 1989 inclusive in connection with the litigation relating to The Bernard J. Kruger Family Trust and its holding of half the shares of Blue Ocean Inc., a Panamanian corporation that had subsidiaries in, inter alia, Venezuela, Colombia, and Italy, as referred to in paragraph 17. A list of those expenses, which form part of the expenses listed in tab 2, is attached as tab 6.
+
+[Emphasis added.]
+
+[4] The following provides a summary of the professional fees incurred by Kruco during the relevant period:
+
+1984 $ 72,627
+
+1985 $ 202,284
+
+1986 $ 473,530[1]
+
+1987 $ 417,014
+
+1988 $ 392,8511
+
+1989 $ 8,053,877
+
+$ 9,612,1831
+
+[5] Mr. David Kruger and Mr. Claude-Armand Sheppard testified at the hearing. Mr. Kruger stated that Kruco had only two employees: Mr. Richard Kaufman, an accountant by training, who looked after the affairs of Kruco, and a secretary. It was mainly Mr. Kaufman and Kruco’s lead lawyer, Mr. Claude-Armand Sheppard, who were responsible for developing the strategy in the legal battle that took place from 1982 to 1989. Obviously Messrs. Bernard and David Kruger were consulted, were kept informed of developments and were involved in decision-making.
+
+[6] Mr. David Kruger confirmed that the main objective in all the proceedings taken against Kruger, its controlling shareholder and its auditors was to get Kruger to pay a realistic dividend. This is also corroborated by Mr. Sheppard who added that the family of Bernard Kruger was satisfied with the management and profitability of Kruger. Kruco’s only aim was to receive a reasonable return by way of dividend on its investment in Kruger. Mr. Sheppard indicated that their aim was to force Kruger to pay a dividend equal to 40 per cent of the net profits of Kruger, which was in line with what was being paid by other companies in the pulp and paper industry in eastern Canada.
+
+[7] Mr. Sheppard acknowledged that Canadian law and jurisprudence respecting remedies for oppression were in their infancy. In his opinion, a Court could issue an order requiring Kruger to pay the catch-up dividend and, thereafter, a reasonable dividend for a short period such as two or three years. In Mr. Sheppard’s view, the family of Bernard Kruger would have accepted a lower dividend yield if such offer had been made by Kruger and its controlling shareholders. Mr. Sheppard hoped that Kruger would pay a more reasonable dividend without being compelled to do so by a judgment of the Quebec Superior Court. In his view, Mr. Bernard Kruger was a reasonable man who did not enjoy this legal battle. He was not a vindictive nor a bellicose person.
+
+[8] Had Kruco been successful in its court proceedings to obtain an order from the Superior Court requiring Kruger to pay the special dividend of $2 per common share and a dividend for three years equal to 40% of its net profits, Kruco would have received, by my estimate, a dividend of approximately $23,681,900. This amount is determined as follows. It represents the total of $7,254,200 and $16,427,671. The first amount represents the special dividend that would have been received by Kruco on its 3,627,100 shares[2]. The second amount represents the aggregate dividends that would have been paid to Kruco for 1985, 1986 and 1987 as determined from the allegations found in the amended application on the ground of oppression, No. 6, dated July 29, 1988, at page 41 (Tab 5 of Exhibit A-1). The following table summarizes the computation:
+
+1985 1986 1987
+
+(1) Dividend paid by Kruger $ 3,906,983 5,581,418 5,023,276
+
+(2) Net after tax earnings $63,715,486 50,745,297 $48,213,742
+
+Kruco’s share[3] of a “40% dividend”[4] $ 8,281,137 6,595,394 6,266,367
+
+Dividends received by Kruco[5] ( 1,269,482) ( 1,813,550) ( 1,632,195)
+
+Total of $16,427,612 $ 7,011,655 $ 4,781,844 $ 4,634,172
+
+[9] In developing his strategy, Mr. Sheppard was aware that the family of Gene Kruger wanted to keep tight control over Kruger and would not allow it to become a public company. So, for instance, the request to have Kruco’s shares sold by a secondary offering was only a tactic to put pressure on Kruger to declare a reasonable dividend. This is what Mr. Sheppard’s instructions were and this is what he tried to obtain. He mentioned that Kruger made, during the relevant period, some very low offers to purchase the shares held by Kruco but he never made any counter-offer. He thought that such low offers were all part of psychological warfare aimed at testing Kruco’s determination.
+
+[10] Mr. Sheppard stated that Richard Wise was hired to do a study of the dividend policy of companies in the pulp and paper industry and to determine whether Kruger had the means to pay an increased dividend. Mr. Sheppard indicated that Mr. Wise never made any evaluation of the Kruger shares. This testimony of Mr. Sheppard was not contested by the Minister’s counsel. However, in reviewing Mr. Wise’s statement of account, I noted references to a determination of the fair value of the shares for the purposes of the Canada Business Corporations Act (CBCA). There is however no testimony to explain the context in which these services would have been rendered and for what purposes.
+
+[11] Mr. Sheppard stated that he was advised by Mr. Kaufman in mid-August 1989 that the latter had worked out a settlement with the Chief Financial Officer of Kruger. Mr. Sheppard did not know that negotiations had taken place between those two persons. He was presented with a “fait accompli”. His main role was to obtain approval from the Superior Court judge who presided at the hearing of the application for the remedy for oppression. The whole deal was completed by the end of August 1989.
+
+[12] Both Mr. Kruger and Mr. Sheppard confirmed that the family of Bernard Kruger accepted the offer of $101,000,000 because the family had incurred a lot of debt in financing this long drawn-out legal battle and the price offered for the shares in Kruco was attractive to them. Mr. Sheppard described the family of Bernard Kruger as being battle weary and financially fragile. Bernard Kruger was, at the time, a man in his seventies. He actually passed away sometime in 1993. Also, the legal battle before the Quebec Superior Court over the remedy for oppression was not yet over after more than four and a half years. Even if Kruco had obtained a favourable judgment, the battle, in all likelihood, would have been continued before the Quebec Court of Appeal.
+
+[13] Mr. Sheppard confirmed that the family of Bernard Kruger did not receive anything from the Bernard J. Kruger Family Trust controlled by his nephew, Joseph Kruger II except the payment of the $2,000,000 promissory note owing to Mr. Bernard Kruger. The control of this trust and of its assets, mainly shares in Blue Ocean Inc., seemed to Mr. Sheppard to be a very elusive target. Among his reasons for thinking so, was the fact that Mr. Sheppard did not have much faith in the legal system of countries such as Panama, where Blue Ocean Inc. had been incorporated.
+
+[14] Several weeks after hearing Kruco’s appeal, I asked that the case be reopened to clarify the circumstances surrounding the determination of the legal fees by the firm of Mr. Sheppard. New testimony by Mr. Sheppard revealed that his firm agreed to postpone the billing of a great portion of the professional fees until successful completion of the legal proceedings. According to the accounting records of Mr. Sheppard’s firm, a total of $2,417,844 in fees accumulated from November 1982 to August 1989. This amount was determined by multiplying the hourly rate of each lawyer by the amount of time spent by each on the case. Kruco did not have sufficient financial resources to pay for all such services on a current basis. In fact, between 1984 and 1989, it paid $1,641,856 by instalments, one million of which was paid in two instalments in May and June of 1989. However, disbursements were billed on a current basis.
+
+[15] In a letter addressed by Mr. Sheppard’s firm to Mr. Kaufman on January 12, 1989, we find the following statement with respect to the determination of the legal fees to be paid to Mr. Sheppard’s firm by Kruco:
+
+3. It is our understanding that the final account in this matter will not be limited to computation of time multiplied by hourly rate but that an appropriate and fair fee will be worked out on the basis of the usual factors applicable to such fee and on the understanding that the Bernard J. Kruger Family and ourselves will resolve the matter as gentlemen trying to be fair. Indeed, our relationship in this context has always been based on trust and frankness. On the other hand, we must reiterate that we cannot continue to carry the increasing burden of unbilled time. This situation has put unbearable financial pressures on this firm.
+
+[16] Out of the $9,612,183 in professional fees incurred by Kruco during the relevant period, the sum of $7,658,938 was billed by Mr. Sheppard’s firm. Although the fees billed by this firm exceeded by $5,241,094[6] ($7,658,938 - $2,417,844) the value of the time spent on the case during the relevant period, Mr. Sheppard stated that when he sat down with Mr. Kruger and Mr. Kaufman to work out the final fee as gentlemen, no bonus as such was taken into account in the settlement. He stated:
+
+There really was no bonus as such since the settlement was not viewed as a great financial success and was the result of Kruco’s inability to pursue the battle further.
+
+[17] Furthermore, the settlement itself did not involve a very substantial amount of work. A little over $66,000 worth of time was spent in total in the month of August 1989. An average of over $70,000 worth of time had been accumulated from September 1988 to July 1989. In Exhibit A-2, Tab 2, at paragraph 11, Mr. Sheppard explained the way in which the fees were determined as follows:
+
+. . . all the foregoing factors were taken into consideration (including loss by RSS of anticipated extra-judicial fees of $1,500,000, notional interest of $500,000, etc.) and it was decided that in addition to these sums, a multiple of the hourly rates would be appropriate. Then the figures tentatively arrived at were rounded off. This was done in a matter of hours. The notion of bonus never entered into the discussion.
+
+[Emphasis added.]
+
+[18] Among the usual factors applicable are those listed in section 3.08.02 of the Code of Ethics governing the Quebec Bar, which include the time devoted to the matter, the difficulty of the issues, the importance of the matter, the liabilities and responsibilities incurred or assumed, unusual factors in the case, the results obtained, and judicial and extra-judicial fees provided for in the official tariff.
+
+Analysis
+
+[19] It is common ground that the legal and other professional fees incurred by Kruco from 1984 to 1989 in connection with litigation and administrative proceedings brought by Kruco against Kruger would be deductible expenses pursuant to subsection 9(1) and would not be subject to the prohibition in paragraph 18(1)(a) of the Act. The main reason for the Minister to disallow the disputed fees is the prohibition under paragraph 18(1)(b) of the Act, which in the relevant years read as follows:
+
+(b) Capital outlay or loss
+
+an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part.
+
+[20] The main contention of the Minister in this case is that the fees were incurred for the purpose of creating a right for Kruco or at least of preserving a capital asset of Kruco’s. Counsel for the Minister argued that Kruco was not entitled to any dividend until one was declared by Kruger’s board of directors. Therefore, Kruco’s aim of obtaining a judgment from the Superior Court ordering Kruger to pay a dividend to Kruco and its other shareholders would have resulted in the creation of a right in favour of Kruco. In support of this position, counsel for the Minister relied on the decision in The Queen v. Burgess, 81 DTC 5192. In that case, Cattanach J. of the Federal Court of Canada, Trial Division, decided that legal fees incurred to obtain a maintenance order as part of a divorce were of a capital nature. His reasoning appears at p. 5197:
+
+In the present case the defendant’s right to maintenance which arose on marriage ended with the divorce and her right to subsequent maintenance arose from the Court order. The suit was for divorce and corollary thereto an award of maintenance.
+
+[21] In addition, counsel for the Minister contended that the application for the remedy against oppression was tantamount to preserving Kruco’s right to be treated fairly. He indentified this aim with that pursued by the taxpayer in M.N.R. v. Dominion Natural Gas Co. Ltd. (1940), 1 DTC 499-133. There, the taxpayer’s franchise was being challenged by a rival gas company which sought an injunction restraining the taxpayer from carrying on a business in Hamilton, Ontario. In Dominion Natural Gas, the legal fees incurred for preserving the company’s right to carry on its business were treated as a payment on capital account because they were so incurred with a view to preserving an asset or an advantage for the enduring benefit of a trade (see page 499-137). Counsel for the Minister also cited several cases in which the same approach was followed, including Farmers Mutual Petroleums Ltd. v. M.N.R., 67 DTC 5277 (S.C.C.), British Columbia Power Corp. Ltd. v. M.N.R., 67 DTC 5258 (S.C.C.) and Muggli v. The Queen, [1994] 1 C.T.C. 2705 (T.C.C.).
+
+[22] Before embarking on an analysis of what constitutes a capital expenditure, it is useful to review the law governing the right of shareholders to receive dividends from their company. As Dickson C.J. wrote in The Queen v. McClurg, 91 DTC 5001, at page 5006, it is to state the obvious to say that the decision to declare a dividend lies within the discretion of the directors of a company, subject to any restrictions which may have been included in the articles of incorporation. Dickson C.J. added, at p. 5007:
+
+Of course, the power to declare dividends is further qualified by the fact that the law has for many years recognized that the general managerial power which rests in the directors of a company is fiduciary in nature. The declaration of dividends, which is subsumed within that power, therefore is limited legally in that it must be exercised in good faith and in the best interests of the company.
+
+This statement was made in connection with the entitlement of shareholders under The Business Corporations Act of Saskatchewan. Here, we are dealing with a company subject to the CBCA. Under former section 234 of the CBCA (now section 241), shareholders are entitled to a remedy when an act or an omission of a corporation is “oppressive or unfairly prejudicial to or . . . unfairly disregards the interests of any security holder.” Subsections 234(1), (2) and (3) read as follows:
+
+234.(1) A complainant may apply to a court for an order under this section.
+
+(2) If, upon an application under subsection (1), the court is satisfied that in respect of a corporation or any of its affiliates
+
+(a) any act or omission of the corporation or any of its affiliates effects a result,
+
+(b) the business or affairs of the corporation or any of its affiliates are or have been carried on or conducted in a manner, or
+
+(c) the powers of the directors of the corporation or any of its affiliates are or have been exercised in a manner
+
+that is oppressive or unfairly prejudicial to or that unfairly disregards the interests of any security holder, creditor, director or officer, the court may make an order to rectify the matters complained of.
+
+(3) In connection with an application under this section, the court may make any interim or final order it thinks fit including, without limiting the generality of the foregoing,
+
+(a) an order restraining the conduct complained of;
+
+(b) an order appointing a receiver or receiver-manager;
+
+(c) an order to regulate a corporation’s affairs by amending the articles or by-laws or creating or amending a unanimous shareholder agreement;
+
+(d) an order directing an issue or exchange of securities;
+
+(e) an order appointing directors in place of or in addition to all or any of the directors then in office;
+
+(f) an order directing a corporation, subject to subsection (6), or any other person, to purchase securities of a security holder;
+
+(g) an order directing a corporation, subject to subsection (6), or any other person, to pay to a security holder any part of the moneys paid by him for securities;
+
+(h) an order varying or setting aside a transaction or contract to which a corporation is a party and compensating the corporation or any other party to the transaction or contract;
+
+(i) an order requiring a corporation, within a time specified by the court, to produce to the court or an interested person financial statements in the form required by section 149 or an accounting in such other form as the court may determine;
+
+(j) an order compensating an aggrieved person;
+
+(k) an order directing rectification of the registers or other records of a corporation under section 236;
+
+(l) an order liquidating and dissolving the corporation;
+
+(m) an order directing an investigation under Part XVIII to be made;
+
+(n) an order requiring the trial of any issue.
+
+[23] Although the right to force a corporation to declare a dividend is not specifically mentioned, one has to realize that former section 234 did not provide an exhaustive list of the remedies. Furthermore, counsel for the Minister brought to my attention that there exists a precedent for an order to declare dividends. See Hess v. Proudfoot Motels Ltd., 34 A.C.W.S. (3d), 427 and 428.
+
+[24] The remedy given to shareholders for oppression does not change the common law principle that shareholders are only entitled to a dividend when one is declared by the board of directors. Should the conduct of the board of directors be unfairly prejudicial to the interests of minority shareholders, those shareholders are entitled to an equitable remedy which could include an order to pay a dividend. However, the courts have stated that they will act cautiously as is illustrated in Brant Investments Ltd. v. KeepRite Inc. (1987), 60 O.R. (2d) 737, 42 D.L.R. (4th) 15, at p. 759 O.R. and p. 37 D.L.R.:
+
+The jurisdiction is one which must be exercised with care. On the one hand the minority shareholder must be protected from unfair treatment; that is the clearly expressed intent of the section. On the other hand the court ought not to usurp the function of the board of directors in managing the company, nor should it eliminate or supplant the legitimate exercise of control by the majority.
+
+[25] In dealing with the approach that I should follow in determining whether the legal and other professional fees incurred by Kruco were of a capital nature, a useful guide can be found in Atherton v. British Insulated and Helsby Cables, Ltd. (1925), 10 T.C. 155, wherein Viscount Cave said at p. 192:
+
+. . . when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
+
+[26] In Algoma Central Railway v. M.N.R., 67 DTC 5091, Jackett P. stated at p. 5093:
+
+The “usual test” applied to determine whether such a payment is one made on account of capital is, “was it made ‘with a view of bringing into existence an advantage for the enduring benefit of the appellant’s business’ ”? . . .
+
+The question is therefore whether what the appellant in this appeal had in “view” when it made the expenditures in dispute was “an advantage for the enduring benefit” of its business within the meaning of the test as it has been developed by the decisions.
+
+[27] The Supreme Court of Canada, in 68 DTC 5096, confirmed this decision and, at p. 5097, approved the following excerpt from the judgment of the Privy Council in B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, [1966] A.C. 224, at p. 264:
+
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a commonsense appreciation of all the guiding features which must provide the ultimate answer.
+
+[Emphasis added.]
+
+[28] Let us now apply these guidelines and principles to the facts of this case. Here, Kruco’s main objective was to force Kruger to pay a reasonable dividend and to stop the alleged oppression carried out by Kruger and its controlling shareholders. Kruco did not intend to dispose of its shares. It was satisfied with the management and profitability of Kruger. Kruger realized important net profits during the relevant period.
+
+[29] Kruco’s objective was not to protect its interest in its shares. There was no dispute as to whether Kruco was the true owner of those shares. I do not think, therefore, that Kruco was trying to preserve a capital asset in a capital aspect. In M.N.R. v. L. D. Caulk Co. of Canada Ltd. et al, 54 DTC 1011 at 1012-13, Rand J. of the Supreme Court of Canada stated that legal fees incurred in a successful defence against combines charges were deductible and that the Dominion Natural Gas case (supra) was distinguishable as having been a case of an expense to preserve a capital asset in a capital aspect. Here, as alleged in the re-amended application on the ground of oppression, No. 6, Kruger had maintained until the end of 1981 a moderately reasonable dividend policy. Because of a dispute that arose in 1982 which culminated in legal proceedings being taken in the Bahamas with respect to an alleged breach of fiduciary duty in managing the Bernard J. Kruger Family Trust, Kruger decided not to pay any dividend in 1982. It cited worldwide economic difficulties and uncertainties in the Canadian pulp and paper industry. However in that year, Kruger realized a profit of $12,800,000. In 1983, the company resumed paying dividends but, in Kruco’s opinion, only very low ones.
+
+[30] In Mr. Sheppard’s opinion, there was a legitimate expectation that Kruco could obtain an order from the Quebec Superior Court that a special dividend of $2 per share be declared and that Kruger pay dividends in the future. However, he did not expect that the Quebec Superior Court would order the payment of such dividends for a period exceeding two or three years. As we can see, had Kruco been successful in its application for a remedy under section 234 of the CBCA, the benefit would have only been for the short term. There is no evidence here of any lasting benefit.
+
+[31] I do not believe that Kruco was trying to establish a right that it did not previously have. As a shareholder, Kruco was entitled to dividends when declared by the board of directors. Under the CBCA, shareholders are protected against an act or omission of a corporation which is oppressive or unfairly prejudicial to them. In its application for a remedy against oppression, Kruco was only exercising its right created by statute, namely the right to be treated fairly by the corporation of which it is a shareholder. I do not believe that any order of the Court would have created a right for Kruco that it did not already enjoy.
+
+[32] Therefore, I conclude that the legal and other professional expenses incurred for the purpose of receiving a special dividend of $2 per share and having the company ordered to pay a dividend equal to 40% net of profits for two or three years did not constitute capital expenditures. Although the facts are slightly different, I believe that this conclusion is in line with the decision rendered by the Supreme Court of Canada in Evans v. M.N.R., 60 DTC 1047. In that case, the Supreme Court of Canada ruled that a taxpayer was entitled to deduct legal fees incurred in order to confirm her entitlement to annual income for life from her late father-in-law’s estate. Here, had Kruger been successful, the order of the Superior Court would not have created a new right for Kruco and the benefit would not have been a lasting one. Had Kruco been successful, it would have received more income. Therefore, this procedure is more in the nature of a procedure to collect income than of a procedure to establish a new right to receive such income.
+
+[33] I do not believe that the fact that the result obtained was different from the one sought makes any difference in this particular case. It was only at the very last minute that Kruco accepted having its shares redeemed by Kruger. Because a large premium[7] — $5,241,094 — was billed to Kruco, my first reaction was to allocate a portion of those fees to the disposition of the shares. I suspected that this premium took into account the result obtained, that is, the payment of $99,000,000 for shares held by Kruco.
+
+[34] However, after reconsideration, I believe that it would not be appropriate, at least in this particular case, to conclude that a portion of the legal fees billed by Mr. Sheppard’s firm should be treated as a capital expenditure incurred for the purpose of disposing of the common shares held by Kruco. In the agreed statement of facts, both parties agreed that the main purpose of the application by Kruco was to obtain payment of a dividend and not to dispose of the shares. Both parties agreed that the “alternative remedies” against the oppression of Kruco by Kruger were added for tactical reasons. Kruco and its shareholders knew very well that the controlling shareholders would never accept that the shares of Kruco be distributed to the public. Therefore, the attempt, for instance, to have Lévesque, Beaubien make a secondary issue was doomed to failure, at least as far as achieving this public distribution was concerned. It was simply meant to put pressure on Kruger to pay a larger dividend.
+
+[35] Given that both parties have agreed that the main goal of Kruco was to force Kruger to pay higher dividends and given that almost all the services performed by Mr. Sheppard’s firm were provided in connection with that goal, I cannot conclude that Mr. Sheppard’s fees and disbursements of $7,658,938 related to anything other than the obtention of an order to force Kruger to declare dividends. Mr. Sheppard stated that his firm was not involved in the negotiation of the final settlement and that it played a minor role in implementing the agreement. He stated that his role was mainly to obtain the approval of the Superior Court judge for the settlement negotiated by the parties themselves and to put an end to the application before the Superior Court.
+
+[36] The fact that the final amount of the legal fees billed by Mr. Sheppard’s firm might have taken into account the actual result, that is, the sale of the shares to Kruger for $99,000,000, does not alter the fact that those services were provided and the legal fees for those services were incurred for the purpose of obtaining a higher dividend for Kruco.[8]
+
+[37] There is no indication either that any of the fees billed by Mr. Sheppard’s firm may have been incurred in connection with legal proceedings taking place in the Bahamas and in Panama. Therefore, after having carried out a “commonsense appreciation of all the guiding features” of all the legal fees and disbursements paid to Mr. Sheppard’s firm, I come to the conclusion that those fees and disbursements were incurred for the purpose of collecting dividends, that they are not of a capital nature and that they are fully deductible.
+
+[38] The parties identified fees amounting to $114,773 as having been incurred in connection with the Bernard J. Kruger Family Trust. Those fees, in my opinion, were not incurred by Kruco for the purpose of earning income. They were not incurred for the purpose of increasing the amount of dividend. They were incurred with regard to proceedings that were started prior to the alleged oppression by Kruger and prior to its decision not to pay any dividend in 1982 and to reduce substantially the amount of dividend thereafter. Indeed, it would seem that the law suit in the Bahamas may have triggered the decision of Kruger and its controlling shareholder to stop paying a reasonable dividend to its shareholders. Furthermore, I do not see what benefit could have been obtained by Kruco from pursuing the legal action in the Bahamas. It seems to me that it was more for the benefit of Bernard J. Kruger and his family that this action was being pursued. The members of Mr. Bernard J. Kruger’s family were the beneficiaries of this trust, not Kruco. Therefore, the legal fees of $114,773 are not deductible by Kruco.
+
+[39] Of the remaining legal and professional fees and disbursements described in Tab 2 of Exhibit A-1, most represent expenses that can be related to legal actions taken by Kruco to put pressure on Kruger as described in paragraphs 18 and 21 to 25 of the agreed statement of facts. Hence, these expenses are similar to the legal fees paid to Mr. Sheppard’s firm and would be similarly deductible in computing Kruco’s income.
+
+[40] However, some of these remaining expenses are fees that I was unable to relate to “other legal and administrative proceedings referred to in paragraph 18”. They include expenses with regard to statements from D’Empaire Reyna, Azolay & Co. respecting “Kruger Shipping Affiliate, Venezuela”, from Arosemena, Noriega & Castro “Re Kruger Affiliate, Panama”, from Davidoff & Bagnouci “Re Krugers Rogatory Commission”, from Poulin, Barbe, Corbeil et Rado with no description, and from Lette & Associés “Re Krugers Application for Rogatory Commission”. Given that I do not know what those legal expenses relate to, I see no basis for allowing them. They amount to a total of $4,147 for 1984, $2,854 for 1986, $761 for 1988 and $27,396 for 1989, representing $35,158 all together. The total amount of expenses disallowed for the reason that they relate to the Bernard J. Kruger Family Trust and to unknown purposes comes to $149,931.
+
+[41] For the reasons set out above, the appeals of Kruco will be allowed and the determinations of losses and the assessments will be referred back to the Minister for reconsideration, redetermination and reassessment on the basis that Kruco is entitled to deduct in computing its income for 1984, $68,480, for 1985, $188,657, for 1986, $467,576, for 1987, $359,159, for 1988, $387,660 and for 1989, $7,990,720. The amounts which are to be disallowed are: for 1984, $4,147, for 1985, $13,627, for 1986, $5,954, for 1987, $57,855, for 1988, $5,191, and for 1989, $63,157.
+
+[42] The whole with costs to Kruco.
+
+Signed at Ottawa, Canada, this 20th day of April 1998.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[1] There were adding errors in Tab 2 of Exhibit A-1. The original numbers were $473,440, $430,049 and $9,649,291.
+
+[2] This number comes from paragraph 19 of the agreed statement of facts.
+
+[3] .324926 that is : 3,627,100/11,162,836. The total number of common shares issued by Kruger was estimated at 11,162,836 by dividing the dividend of $5,581,418 declared in 1986 by $0.50, the dividend per share.
+
+[4] [.324926 * .40 * (2)]
+
+[5] [.324926 * (1)]
+
+[6] This is not accurate since included in this number are disbursements, details of which were not fully disclosed in evidence. In 1988, billed and unbilled disbursements apparently amounted to $153,000 (see Exhibit A-2, Tab 3, p. 4).
+
+[7] Or to use the words of Mr. Sheppard, “a multiple of the hourly rate”.
+
+[8] It should be noted that this amount represents approximately 32% of the dividend ($23,681,872) that Kruco could have collected had it been successful in its main application.
+

@@ -1,0 +1,444 @@
+Date: 19980710
+
+Docket: 96-456-IT-G
+
+BETWEEN:
+
+RULAND REALTY LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie, J.T.C.C.
+
+[1] The issue in this appeal is whether the Appellant, in computing its income under the Income Tax Act (the Act) for the 1990 taxation year, was entitled to deduct an amount of $26,089,145 as a writedown of deposits on land for development, including preliminary development costs expended in connection therewith. The development costs consist primarily of interest upon money borrowed for the purpose of making the deposits.
+
+[2] Counsel entered into a Partial Agreed Statement of Facts in which they agree as to the history of events giving rise to the appeal. It is lengthy, but I reproduce it here in full as it conveniently sets out the majority of the relevant facts.
+
+PARTIAL AGREED STATEMENT OF FACTS
+
+For the purposes of this appeal, the parties by their respective solicitors hereby agree on the following facts. The parties may adduce additional evidence which is not inconsistent with the facts agreed upon below:
+
+1. The Appellant was incorporated under the laws of the Province of Ontario and the address of its principal place of business is 4950 Yonge Street, Suite 1914, North York, Ontario, M2N 6K1.
+
+2. The Appellant’s year end was October 31st.
+
+3. Rudolph Bratty (“Bratty”) has been the President and a director of the Appellant since its incorporation and has always owned 100% of the voting shares of the Appellant. Non-voting shares of the Appellant are held by Mr. Bratty’s children. Mr. Bratty was the person ultimately in charge of the Appellant’s operations.
+
+4. At all times material to the issue in this appeal, the Appellant carried on the business of buying land for the purposes of development and resale and was in the housebuilding business.
+
+5. Infinity was a corporation owned and controlled by Stan Leibel (“Leibel”).
+
+6. Infinity, like the Appellant, carried on the business of buying land for the purposes of development and resale and was in the housebuilding business.
+
+7. During the period between 1987 to 1989, the Bratty and Leibel families were jointly involved in numerous real estate projects, including the six which pertain to this appeal. All projects were undertaken on a joint basis and were jointly financed in equal shares by the Bratty interests and the Leibel interests.
+
+8. Lorne Leibel (Leibel’s son) was authorized by Bratty and Leibel to look for new projects and to negotiate and sign agreements of purchase and sale on behalf of the Appellant and Infinity. Lorne Leibel also had the construction and management contracts for each project.
+
+9. The practice was to incorporate a company for each property transaction.
+
+10. With respect to the six agreements of purchase and sale at issue in this appeal, six corporations were set up with only nominal capital in which Bratty and Leibel each held a 50% interest.
+
+Original Agreements of Purchase and Sale
+
+11. Lorne Leibel, In Trust, (or in the case of Fort Myers Construction Inc., Douglas Klassen as agent for [Lorne Leibel in Trust]), entered into each agreement of purchase and sale on behalf of the particular corporation. Details of the six agreements of purchase and sale (the “Agreements”) at issue in this appeal are as follows:
+
+Date
+
+Purchaser
+
+Vendor
+
+Land
+
+Price
+
+May 24, 1988
+
+Del Cruz
+
+Construction Inc.
+
+Geminian Builders
+
+Limited
+
+61 lots-Town of
+
+Vaughan
+
+$11,305,000
+
+March 17, 1989
+
+Ft. Myers Construction Inc
+
+Cambria Enterprises Inc.
+
+277 lots - Town of Richmond Hill
+
+$53,900,000
+
+May 27, 1988
+
+San Jose Construction Inc.
+
+K.J. Beamish
+
+Construction Co.,
+
+Limited
+
+91 lots - Town of
+
+Richmond Hill
+
+$11,232,000
+
+June 8, 1988
+
+Santa Barbara
+
+Construction Inc.
+
+Woodchester
+
+Building Corporation
+
+140 lots - Town of
+
+Richmond Hill
+
+$18,752,000
+
+February 17, 1989
+
+Steamboat
+
+Springs
+
+Construction Inc
+
+Landgroup Holdings
+
+Inc.
+
+154 lots - Town of
+
+Richmond Hill
+
+$35,000,000
+
+February 16, 1989
+
+Winding River
+
+Construction Inc.
+
+Merbanco Group
+
+Limited
+
+133 lots - City of
+
+Mississauga
+
+$20,043,200
+
+A copy of each of the above Agreements is found in the parties’ Joint Book of Documents.
+
+12. Under each Agreement, a deposit was payable by the purchaser upon execution of the Agreement and further deposits were required to be paid upon completion of various steps by the vendor. The deposits were to be credited or applied to the purchase price on closing or completion of the Agreement. The deposits were to be held by the vendor pending completion or other termination of the Agreement.
+
+13. Each of the Agreements was subject to one or more of the following conditions:
+
+(i) the registration of a plan of subdivision satisfying the Planning Act before a specified date;
+
+(ii) zoning of lots for the construction of single family dwellings;
+
+(iii) the completion of permit servicing requirements before a specified date;
+
+(iv) the lots would not be materially changed in size and/or location by the vendor, unless the purchaser accepted the changes.
+
+The Agreements provided that if certain of the aforementioned conditions were not satisfied as required by the Agreements, then the Agreements would be null and void and the vendor was required to repay to the purchaser all deposit monies paid under the Agreements.
+
+14. Deposits paid under these Agreements were fully bank financed. The financing was guaranteed or backed up by the Appellant and Infinity jointly and severally. Cheques were made out of a clearing account or accounts with the Toronto Dominion Bank.
+
+15. The Agreements were entered into with the intention of proceeding with the development of the land by building houses on subdivided lots and selling same.
+
+Assignment of Agreements of Purchase and Sale
+
+16. In or about November or December, 1989, Bratty and Leibel decided to divide up certain of their joint real estate projects in order to separate their interests.
+
+17. In order to effect this division or separation of interests, the Appellant took certain agreements of purchase and sale by assignment, including the six Agreements which are at issue in this appeal, and a Leibel corporation took other agreements of purchase and sale by assignment.
+
+18. The Appellant entered into “Assignment Agreements” dated December 20, 1989 with each of Del Cruz Construction Inc., Ft. Myers Construction Inc., San Jose Construction Inc., Santa Barbara Construction Inc., Steamboat Springs Construction Inc. and Winding River Construction Inc. (the “Assignors”). Pursuant to the Assignment Agreements, the Assignors agreed to assign to the Appellant their interests in the Agreements of Purchase and Sale, including the right to and the benefits of the deposits, in consideration of and the payment by the Appellant of the “Assignment Price”.
+
+19. The “Assignment Price” was defined as:
+
+“the aggregate of
+
+(i) the Deposits;
+
+(ii) all development costs (the “Development Costs”) paid by the Purchaser and/or the Assignor for the Project, including, without limiting the generality of the foregoing, construction costs, marketing costs, surveying costs, engineering fees and architect’s fees;
+
+(iii) interest paid or owing by the Assignor to its bankers or other lenders in respect of the financing of the items set forth in subparagraphs (i) and (ii) hereof; all of the foregoing to be settled and agreed to by the parties hereto on the Assignment Date.”
+
+The Assignment Price for each of the Agreements was to be satisfied under each of the Assignment Agreements by-the Appellant’s assumption of the indebtedness incurred by or on behalf of the Assignor in respect of the financing of the items set forth in subparagraphs (i) and (ii) hereof to the extent that such indebtedness had been incurred by the Assignor.
+
+20. The “Assignment Date” was defined to be “April 30, 1990 or such earlier or later date as might be agreed upon by the parties hereto”.
+
+21. At the time of the assignment of the Agreements, the Appellant’s intention was to close the transactions, whether renegotiated or otherwise, and to build houses on the lots and sell them to produce income.
+
+22. On April 30, 1990, the Appellant and each of the Assignors entered into agreements pursuant to which they agreed to satisfy their respective obligations under the Assignment Agreements (the “Completion Agreements”).
+
+23. Copies of the Assignment Agreements and Completion Agreements are found in the parties’ Joint Book of Documents.
+
+Status of Agreements as of October 31, 1990
+
+24. As of October 31, 1990, deposits paid under the Agreements were as follows:
+
+Del Cruz $1,045,250
+
+Ft. Myers 7,500,000
+
+San Jose 1,994,520
+
+Santa Barbara 3,315,755
+
+Steamboat Springs 5,000,000
+
+Winding River 2,004,320
+
+$20,859,845
+
+Particulars are provided in summaries of each project found in the parties’ Joint Book of Documents.
+
+25. The Agreements had not been completed and the related deposits had not been forfeited as of October 31, 1990.
+
+26. As of October 31, 1990 the Appellant’s intention was to renegotiate each of the six Agreements and it had not yet made the decision to walk away from any of the six projects.
+
+27. The fair market value of the lots at issue in this appeal as of July 1, 1990 was as stated in the appraisal report of Dennis J. Seward, which was Tab 8 of Exhibit 1 on the examination for discovery of Rudolph Bratty. The fair market value of the lots at issue in this appeal as of October 31, 1990 had not increased from July 1, 1990. The fair market value of the Agreements in respect of the lots at issue in this appeal as of October 31, 1990 was nil.
+
+28. In both the non-consolidated and the consolidated financial statements for the Appellant’s fiscal year ended October 31, 1990, the amount of $26,089,145 was reflected as a writedown of deposits on land held for development and of preliminary development costs and was charged to earnings in the Statement of Earnings. Of this amount $20,859,845 represented deposits which had been paid pursuant to the Agreements and $5,229,300 related to preliminary development costs, namely $5,195,463 of accrued interest on the outstanding indebtedness arising from the bank financing of the deposits, and $33,837 consisting of advertising expenditures, architect’s fees, commitment fees, legal and other sundry expenditures.
+
+29. Both the non-consolidated and the consolidated financial statements were prepared by KPMG Peat Marwick Thorne. The consolidated financial statements were, in the opinion of KPMG Peat Marwick Thorne, prepared in accordance with generally accepted accounting principles.
+
+30. Note 9 in the Consolidated Financial Statements reads as follows:
+
+“9. Writedown of deposits on land held for development and preliminary developments costs:
+
+In November, 1989, the Company entered into several agreements to acquire land at market value from companies partially owned by immediate family members of the shareholders. Subsequently, as a result of a downturn in the real estate market, the lands to be acquired were appraised at values below the acquisition prices if the agreements were to close. As a result, the deposits on land and the related preliminary development costs in excess of the appraised values were charged to the statement of earnings.”
+
+The relevant part of note 10 reads as follows:
+
+“10. Contingent Liabilities:
+
+The Company is contingently liable as follows:
+
+(i) As described in note 9, if the existing agreements were to close without adjustments, the total land acquisitions would aggregate $280,000,000. The market value at year end is approximately $132,000,000 which would result in a potential aggregate loss of $148,000,000. Cash deposits of $28,200,000 applicable to these agreements have been charged to the statement of earnings. It is management’s intention to renegotiate these agreements and, as a result, the likelihood of these transactions closing and the magnitude of additional losses, if any, is not determinable.”
+
+Income Tax Treatment
+
+31. In computing income from its business for the 1990 taxation year, the Appellant deducted the aforementioned amount of $26,089,145 as a writedown of deposits on land held for development and of preliminary development costs.
+
+32. The Minister of National Revenue (the “Minister”) reassessed the Appellant for its 1990 taxation year to disallow the deduction of the writedown of $26,089,145.
+
+33. The Appellant objected to the reassessment by Notice of Objection dated October 31, 1994.
+
+34. The Appellant instituted the appeal herein, more than 90 days having elapsed after service of the Notice of Objection without the Minister having notified the Appellant that the Minister had vacated or confirmed the reassessment or reassessed.
+
+Current Status of Agreements
+
+35. The following is a summary of the current status of the six projects at issue:
+
+Del Cruz - deposit forfeited on November 4, 1991.
+
+Ft. Myers - deposit forfeited on November 12, 1992.
+
+San Jose and Santa Barbara - both agreements closed in stages commencing in 1991.
+
+The first building permits for construction on these projects were issued in October, 1991.
+
+Steamboat Springs - deposit forfeited in 1994.
+
+Winding River - deposit treated as forfeited by vendor on July 2, 1991 but disputed by purchaser.
+
+[3] Paragraph 27 refers to the appraisal report of Dennis J. Seward. Mr. Seward is a well-qualified real estate appraiser. In 1990, he was instructed by the Appellant to appraise the six properties which give rise to this appeal, and certain others as well. His estimates of value of the properties as of July 1, 1990 provided the basis for the writedown taken by the Appellant in its financial statements for the year ended October 31, 1990. He testified that in his opinion the six properties should be considered to have the same values as of October 31, 1990. As the decline in value between the purchase prices specified in the Agreements of Purchase and Sale and the October 31, 1990 valuation in each case exceeds the sum of the deposits and the preliminary development costs, he opined that the Agreements, as of October 31, 1990, had no value. This is also the subject of specific agreement between the parties.[1]
+
+[4] Mr. Rudolph Bratty is the person who directs the Appellant’s business. He is very experienced in real estate development, and has built the Appellant into a large and successful integrated real estate operation.
+
+[5] The Agreements that gave rise to this appeal were, in Mr. Bratty’s words, a large failure. The reason for this, of course, was the severe recession which adversely affected the real estate market in the late 1980s. The lands which were the subject of the Agreements were all bought from developers at the draft plan of subdivision stage. The Agreements provided that the buyer would make an initial deposit, to be followed by further payments at specified stages of completion of the process of development, with the final balance payable on closing after the registration of a plan of subdivision. There also were provisions requiring the vendors to meet certain milestones by specified dates.
+
+[6] The situation in the summer of 1990 was that the six properties represented by these Agreements had declined so far in value that they were worth less than the amounts remaining to be paid to complete the purchases. The best that could be hoped for was that the vendors would fail to meet the deadlines in their respective Agreements, in which case the Appellant would be relieved of the need to complete the transactions, and could sue for return of the deposits. The worst prospect was that the vendors would meet their obligations on time, and the Appellant would then be faced with either closing the deals, which would require it to pay on closing more than the land was worth, in addition to the $26 million it had already paid, or else defaulting on its obligation to close, and forfeiting the deposits, with the prospect of being sued for damages as well. Mr. Bratty’s evidence was that he expected that the vendors on each of the six projects would perform according to the terms of the contracts. Obviously, in view of the severe decline in market values, it would be greatly to their financial advantage to do so. In the result, although efforts were made to renegotiate the contracts as to either the price or the time for closing, the deposits on four of the six projects were forfeited by the Appellant between 1991 and 1994. In one of these cases the forfeiture was disputed, and remained unresolved at the time of the trial. The other two projects, San Juan and San Bernadino, closed on terms which had been renegotiated as to the closing dates. The Appellant ultimately sustained losses on both of these.
+
+[7] In the summer of 1990, the Appellant’s accountant, Mr. Goldstein of Peat Marwick Thorne (now KPMG), aware of the severe drop in real estate values which had taken place, raised with Mr. Bratty the question of the value of these six properties, and the possible need to take a writedown in respect of the deposits at year-end. It was as a result of this discussion that Mr. Seward was retained to appraise the underlying real estate. Mr. Goldstein testified that he spent a considerable amount of time considering the question whether the writedown was necessary in order to properly reflect the Appellant’s financial situation in the 1990 statements. He concluded that it was, and he so advised Mr. Bratty. Mr. Goldstein was the author of notes 9 and 10 to the consolidated financial statements.[2] He testified that Note 9 explained the reason for the writedown; note 10 warned against the prospect of further losses in the event that the Appellant were to close the transactions on the existing terms.
+
+[8] Mr. Van Weelden is an experienced chartered accountant. For some years he has been one of three professional practice partners of the firm KPMG in the Greater Toronto Area. His responsibilities as a professional practice partner include advising the other partners in the firm with respect to accounting and auditing issues. He gave opinion evidence for the Appellant with respect to the application of generally accepted accounting principles (GAAP) to the Appellant’s treatment of these deposits in its accounts at the 1990 year-end. Counsel for the Respondent quite properly questioned his objectivity in doing so, given that he was called upon to testify as to the appropriateness of advice given by one of his partners. However, I am satisfied that Mr. Van Weelden is not only well-qualified to express an opinion as to the application of GAAP in the context of this case, but also that his evidence was given objectively.
+
+[9] Mr. Van Weelden’s opinion, as expressed in the written statement of his evidence, is that:
+
+... the writedown or expensing of Ruland’s accumulated costs of $26,089,145 in respect of the Assigned Agreements in its financial statements for the year ended October 31, 1990 was made in accordance with generally accepted accounting principles.[3]
+
+He arrived at this conclusion following a review of the CICA Handbook, another publication of the Canadian Institute of Chartered Accountants entitled Audit of Real Estate Operations, and the CIPREC Handbook, a set of guidelines published by the Canadian Institute of Public Real Estate Companies with a view to improving the quality of financial reporting in the real estate industry. He concluded from these sources that the Appellant could continue to carry the deposits and development costs as an asset on its balance sheet only if it could demonstrate the existence of a future economic benefit to be derived from them. This it could not do, as the unpaid balances on the Agreements substantially exceeded the value of the lands underlying them. Mr. Van Weelden’s evidence was not shaken on cross-examination, and I accept it as an authoritative statement of the application of GAAP to the matter at hand.
+
+[10] I conclude that by the 1990 year-end the Appellant’s rights under these Agreements of Purchase and Sale were of no value to the Appellant, and that they exposed it to very substantial contingent liabilities, as expressed in note 10 to the Financial Statements. Mr. Bratty had the intention of attempting to renegotiate these Agreements, but he had no reason to believe that he would be able to do so successfully. He had little or no bargaining power with which to negotiate, and subsequent events showed that he was, for the most part, unsuccessful in the attempt. By the summer of 1990, he quite reasonably, considered the amounts paid under the Agreements, and the associated carrying costs, to be unrecoverable. In taking the writedown, the Appellant acted on the advice of its accountants, which advice was in accordance with GAAP.
+
+[11] The position taken on behalf of the Minister of National Revenue in assessing the Appellant was expressed by Revenue Canada’s auditor in his audit report in the following way:
+
+... one could take the position that it would be appropriate not to recognize the decline in value, but rather provide the information in respect of the situation, to the reader, by way of a note to the Financial Statements, a note similar to the one included in Ruland’s Financial Statements for the applicable years, which outline the particulars of the situation, including the apparent decline in the market value of the land involved in the various Agreements.
+
+During his examination for discovery he explained that passage in the following way:
+
+Q. What were you trying to convey by making the particular statement that I have just read to you?
+
+A. I guess I was trying to convey that I was not convinced that GAAP would require recognition of the writedown.
+
+The positions of the parties
+
+[12] Counsel for the Appellant put his case on two separate bases, which he described as being two confluent paths leading to the same conclusion. The first is that the Appellant, having suffered a deterioration in the value of an asset acquired as part of its current business operations, was required to take that loss into account in computing its profit for the year in which it, as a “businessman” recognized that the loss has occurred. In support of this position he relies upon the judgment of Jacket, P., as he then was, in the Associated Investors[4] case, and on the judgment of the Supreme Court of Canada in Canadian General Electric Co. Ltd. v. M.N.R.[5] The second branch of the Appellant’s argument is that the Agreements in question are inventory in the hands of the Appellant, which it holds in the normal course of its business, and that both common law principles and section 10 of the Act require that they be valued at the year-end, for the purpose of computing income, at the lower of cost and fair market value.
+
+[13] The position of the Respondent is that the Agreements did not constitute inventory in the hands of the Appellant at its 1990 year-end, but were simply Agreements under which it could acquire the lands at some future time. The deposits paid by the original purchasers under the Agreements are not an expenditure by the Appellant to purchase inventory, as they do not become part of the purchase price of the lands prior to closing; until then they are simply security, which may become refundable to the Appellant if the transactions are not completed through no fault of the purchaser.
+
+[14] As to both branches of the Appellant’s argument, the Respondent takes the position that the realization principle precludes recognition of any loss on the Agreements prior to realization of that loss through a sale or other disposition. In support of this position, counsel relies upon Edward Collins & Sons, Ltd. v. C.I.R.[6], Dobieco Ltd. v. M.N.R.[7], and the dissenting judgment of Iacobucci J. in Friesen v. The Queen[8].
+
+[15] The Respondent’s position with respect to the interest component of the acquisition cost of the Agreements is that it must be viewed not as a cost of the Agreements, but as a preacquisition cost of the land, and that subsection 18(2) precludes its deduction in the computation of the Appellant’s income. In written argument filed, counsel for the Respondent says this with respect to the accrued interest component of the Assignment Price:
+
+The Appellant’s purpose was to acquire the lots as inventory and the accrued interest liability which the Appellant assumed was a preacquisition cost related to that property. For both accounting and tax purposes, it would not be expensed when incurred but first of all deferred until the land had been acquired and then capitalized to the cost of land inventory. Since the Appellant had not acquired the land as of the end of its 1990 taxation year, it was not entitled to write down this preacquisition cost under subsection 10(1).
+
+[16] Soon after the hearing of this appeal the Supreme Court of Canada delivered judgment in Canderel Ltd. v Canada,[9] and the two related cases Toronto College Park Ltd. v. Canada[10] and Ikea Ltd. v. Canada.[11] I have now had the benefit of written submissions from counsel for both parties as to the application of that trilogy to the case before me.
+
+The statutory provisions
+
+[17] The relevant provisions of the Act are the following:
+
+9(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is his profit therefrom for the year.
+
+10(1) For the purpose of computing income from a business, the property described in an inventory shall be valued at its cost to the taxpayer or its fair market value, whichever is lower, or in such other manner as may be permitted by regulation.
+
+10(1.1)For the purpose of subsection (1), the cost to a particular taxpayer of land that is described in the inventory of a business carried on by him shall include all amounts described in paragraph 18(2)(a) or (b) in respect of that land for which no deduction is permitted to him or, by reason of subsection 18(3), to another taxpayer in respect of whom the particular taxpayer was a person, corporation or partnership described in clause 18(3)(b)(ii)(A), (B) or (C), where the amounts were not included in the cost to that other taxpayer of property.
+
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+
+...
+
+(e) an amount as, or on account of, a reserve, a contingent liability or amount or a sinking fund except as expressly permitted by this Part;
+
+...
+
+18(2) Notwithstanding paragraph 20(1)(c), in computing the taxpayer’s income for a particular taxation year from a business or property, no amount shall be deductible in respect of any expense incurred by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+
+(a) interest on debt relating to the acquisition of land, or
+
+...
+
+unless ... [the exceptions are not relevant].
+
+18(3) In subsection (2),
+
+...
+
+(b) “interest on debt relating to the acquisition of land” includes
+
+(i) interest paid or payable in a year in respect of borrowed money that cannot be identified with particular land but that may nonetheless reasonably be considered (having regard to all the circumstances) as interest on borrowed money used in respect of or for the acquisition of land, and
+
+(ii) interest paid or payable in the year by a taxpayer in respect of borrowed money that may reasonably be considered (having regard to all the circumstances to have been used to assist, directly or indirectly,
+
+(A) another person with whom the taxpayer does not deal at arm’s length,
+
+(B) a corporation of which the taxpayer is a specified shareholder, or
+
+(C) a partnership of which the taxpayer’s share of any income or loss is 10% or more,
+
+to acquire land to be used or held by that person, corporation or partnership otherwise than as described in paragraph 18(2)(c) or (d), except where the assistance is in the form of a loan to that person, corporation or partnership and a reasonable rate of interest thereon is charged by the taxpayer.
+
+248(1) In this Act,
+
+“inventory” means a description of property the cost or value of which is relevant in computing a taxpayer’s income from a business for a taxation year or would have been so relevant if the income from the business had not been computed in accordance with the cash method and, with respect to a farming business, includes all of the livestock held in the course of carrying on the business;
+
+“property” means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes:
+
+(a) a right of any kind whatever, a share or a chose in action,
+
+...
+
+Analysis
+
+[18] For the reasons which follow, I have reached the conclusion that the Appellant’s interests in the Agreements of Purchase and Sale, described in the Assignment Agreements as the "Assigned Interests", are inventory in its hands. There is a statutory rule established by section 10 of the Act which governs the way in which a decline in the value of inventory is to be dealt with in the computation of income. The Supreme Court of Canada has made it clear that where a statutory rule exists to govern the treatment of a transaction the courts must apply it.[12] In the present case, therefore, it is section 10 of the Act, rather than any business principle or common law rule, which must be applied.
+
+[19] My conclusion that the deposits[13] are inventory is derived from the decision of the Supreme Court of Canada in Friesen.[14] In that case, the Court considered the meaning of the statutory definition of the word “inventory”, the relevant part of which is “... a description of property the cost or value of which is relevant in computing a taxpayer’s income from a business for a taxation year ...”. The majority held that in order to satisfy this definition an item of property need only be relevant to the computation of income in a single year, and not necessarily in the year under consideration. Major J., for the majority, rejected the contention that an asset, in that case a parcel of land, might be considered to be inventory only in the year of disposition, saying:[15]
+
+... If Parliament had intended to require that property must be relevant to the computation of income in a particular year in order to be inventory in that year, it would have added the necessary phraseology to make that clear.
+
+[20] The deposits in question are assets acquired by the Appellant on current account. That is not in dispute. The Appellant might have disposed of them in any of a number of ways. In the case of the San Jose and the Santa Barbara projects the Appellant obtained title to the lands by completing the transactions of purchase and sale, at which point the deposits became components of the new asset, the land, in much the same way as parts become part of the inventory of finished goods of a manufacturer. The Appellant incurred losses on the sale of the houses in these projects, and the cost of the deposits, as a component of the cost of the lots, was relevant in computing those losses.
+
+[21] In the case of the Del Cruz, Ft. Myers and Steamboat Springs developments, the deposits were forfeited between 1991 and 1994. It is not denied by the Respondent that the Appellant could take these losses into account upon the disposition of the deposits by way of forfeiture. It follows that they are assets which come within the meaning ascribed by Parliament to the word “inventory”. Similarly, if any of the deposits had been disposed of by way of a further assignment, or in any other way, their original cost would have been relevant to the computation of income in the year of disposition. On the authority of the Supreme Court’s judgment in Friesen, that is all that is required to establish them as being inventory.
+
+[22] Counsel for the Crown argued that the Appellant in this case did not hold inventory until the transactions closed, and it became the owner of the land. I do not accept that contention, as it ignores the statutory language defining “property” and “inventory”. It is true that, in the cases of San Jose and Santa Barbara, the Appellant for the first time held the land as inventory following completion of the transactions of purchase and sale. Prior to completion it held a different asset, a chose in action, which merged into the land upon closing. Its cost became a component of the cost of the land.
+
+[23] This result is reinforced, in my view, by the conclusion of the majority of the Court in Friesen that, for purposes of the Act, all property is either inventory or capital property. As Major J. put it:[16]
+
+... The Act thus creates a simple system which recognizes only two broad categories of property. The characterization of an item of property as inventory or capital property is based primarily on the type of income that the property will produce.
+
+[24] There can be no doubt that the deposits in this case are not of a capital nature, and would produce income, not capital gains, upon disposition. Mr. Bratty gave evidence that the Appellant, in addition to being a builder, has in the past subdivided property, bought and sold Agreements of Purchase and Sale of the kind that are in issue in this appeal, and has bought and sold building lots. If the Appellant had sold these deposits by way of a further assignment it would have been a transaction on income, not capital, account. I did not understand counsel for the Respondent to dispute this.
+
+[25] Counsel for the Respondent took the position in argument that, even if the deposits were considered to be inventory, the interest component of their cost cannot be subject to a writedown by reason of the prohibition found in subsection 18(2) of the Act. That subsection, subject to certain exceptions which have no application here, prohibits the deduction of any interest expense incurred by a taxpayer in relation to the acquisition of land. Counsel takes the position that the part of the “Assignment Price” paid by the Appellant which represents accrued interest, and any interest accrued since the assignments, falls within this prohibition, and must be “... deferred and capitalized to the cost of land inventory once acquired”. Subsection 10(1.1) makes specific provision for the capitalization of interest, the deduction of which is prohibited by subsection 18(2).
+
+[26] Counsel for the Appellant argued that the interest component of the Assignment Price is not interest, but is simply part of the purchase price, computed with reference to an obligation to pay interest which was incurred by the vendors prior to the assignment. This argument, put in the way that it is, would have more merit if the assignors and the Appellant dealt with each other at arm’s length. Nor does it assist the Appellant in relation to the interest accrued on the Assignment Prices since the assignments took place. These amounts are obligations to pay interest which the Appellant itself incurred.
+
+[27] The accounting treatment which the Appellant has accorded to these amounts, both the pre-assignment interest obligations which it assumed as part of the Assignment Prices, and the post-assignment interest which it incurred itself directly, is to capitalize them as costs of the deposits which it carried as assets on its balance sheet. That this is the appropriate treatment of them is implicit in the opinion of Mr. Van Weelden that “... the writedown or expensing of Ruland’s accumulated costs of $26,089,145 in respect of the Assignment Agreements ... was made in accordance with generally accepted accounting principles”. Mr. Van Weelden was, of course, aware that the amount of $26,089,145 included both the pre-assignment and the post-assignment interest; he was not cross-examined as to the appropriateness of capitalizing that interest as part of the cost of the deposits.
+
+[28] The argument of counsel for the Respondent is not that the interest should not be capitalized, because clearly it should be. It is simply that it should not be capitalized until the acquisition of the land, because that, in her view, is when the Appellant first had an inventory item to which the interest could be capitalized. I have already concluded, however, that the deposits were inventory, and it follows that they were properly recorded at a cost which includes the interest component. It is true that subsection 10(1.1) would not apply to permit capitalization prior to the completion of the purchase transactions and acquisition of land. However, the application of generally accepted accounting principles brings about the same result in respect of the capitalization of interest as a cost of the deposits prior to completion of the transactions. There is no statutory provision and no case law principle inconsistent with this treatment of the interest component, and it is a reflection of well-accepted business principles, as evidenced by the opinion of Mr. Van Weelden, and therefore permissible.[17]
+
+[29] The appeal is allowed, with costs.
+
+Signed at Ottawa, Canada, this 10th day of July, 1998.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Agreed Facts, para. 27.
+
+[2] Reproduced in the Agreed Facts, para. 30.
+
+[3] Exhibit A-5, p. 3.
+
+[4] Associated Investors of Canada Ltd. v. M.N.R., [1967] 2 Ex.Ct. R. 96.
+
+[5] [1962] S.C.R. 3.
+
+[6] (1924) 12 T.C. 773.
+
+[7] 63 DTC 1063 Ex. Ct.
+
+[8] [1995] 3 S.C.R. 103.
+
+[9] [1998] 1 S.C.R. 147.
+
+[10] [1998] 1 S.C.R. 183.
+
+[11] [1998] 1 S.C.R. 196.
+
+[12] Canada v. Antosko [1994] 2 S.C.R. 312 @ 326-326; Canderel Ltd. v. Canada, supra.
+
+[13] I use that word to denote the assets consisting of the Assigned Interests purchased by the Appellant.
+
+[14] supra.
+
+[15] supra @ 121.
+
+[16] ibid @ 121.
+
+[17] Canderel Ltd. v. Canada, supra @ 174-175.
+

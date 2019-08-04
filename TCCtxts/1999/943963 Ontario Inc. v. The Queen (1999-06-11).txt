@@ -1,0 +1,308 @@
+Date: 19990610
+
+Docket: 97-2855-IT-G
+
+BETWEEN:
+
+943963 ONTARIO INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Rip, J.T.C.C.
+
+[1] The issue in this appeal by 943963 Ontario Inc. ("Ontario") from an assessment for 1992 taxation year is whether the appellant or the Minister of National Revenue ("Minister") was correct in calculating the appellant's deemed proceeds of disposition of shares pursuant to subsection 55(2) of the Income Tax Act ("Act").
+
+[2] The appellant states that in calculating proceeds of disposition of shares pursuant to subsection 55(2) the portion of the dividend subject to tax under Part IV of the Act is added to what is referred to as safe income of the appellant. Safe income, described "broadly" by Robertson, J.A. in The Queen v. Nassau Walnut Investments Inc.[1]:
+
+... is equivalent to the tax retained earnings of the dividend paying corporation realized after 1971 and prior to the receipt of the dividend.
+
+[3] The respondent argues that the dividends subject to Part IV tax must be reduced by any safe income.
+
+[4] The parties agree that the transaction is subject, inter alia, to subsection 55(2) and paragraph 55(5)(f) of the Act. They disagree on how subsection 55(2) provides for the calculation of proceeds of disposition or a capital gain. For the 1992 taxation year subsection 55(2) provided that:
+
+Where a corporation resident in Canada has after April 21, 1980 received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or 138(6) as part of a transaction or event or a series of transactions or events (other than as part of a series of transactions or events that commenced before April 22, 1980), one of the purposes of which (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events referred to in paragraph (3)(a), notwithstanding any other section of this Act, the amount of the dividend (other than the portion thereof, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series of transactions or events)
+
+(a) shall be deemed not to be a dividend received by the corporation;
+
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+
+(c) where a corporation has not disposed of the share, shall be deemed to be a gain of the corporation for the year in which the dividend was received from the disposition of a capital property.
+
+[5] There is no doubt that the safe income calculation is complex and controversial.[2]
+
+A. FACTS
+
+[6] The facts in this appeal are not in dispute. The parties filed the following Agreed Statement of Facts:[3]
+
+1. The appellant is a corporation incorporated under the laws of the Province of Ontario. The appellant carried on business in the Province of Ontario having its registered office at 118 Northshore Blvd. West, Burlington, Ontario (formerly 1240 Advance Road in the City of Burlington).
+
+2. At all material times relating to this appeal the shareholders of the appellant were as follows:
+
+William Ascenuik George Barbu, Jr.
+
+3. The appellant's taxation and fiscal year end is July 31st of each year.
+
+4. At all material times the appellant constituted a "Canadian controlled private corporation" as that term is defined in subsection 125(7) of the Income Tax Act of Canada ("Act").
+
+5. As at August 13th, 1991 the appellant was the legal and beneficial owner of 732 common shares in the capital of HSP Graphics Ltd. (hereinafter referred to as "HSP").
+
+6. The appellant's "adjusted cost base" (as determined pursuant to subsection 53(1) of the Act) for the 732 HSP shares as at August 14, 1991 was $329,702.
+
+7. On the 14th day of August, 1991 HSP purchased for cancellation the 732 common shares held by the appellant for proceeds aggregating $1,200,000. The fair market value of the 732 common shares of HSP as at August 14th, 1991 was equal to $1,200,000.
+
+8. The purchase for cancellation of the HSP shares held by the appellant pursuant to the operation of subsection 84(3) of the Act resulted in the appellant being deemed to have received a taxable dividend equal to the difference between the purchase proceeds received by the appellant ($1,200,000) and the "paid-up capital" of the purchased for cancellation common shares ($732) being $1,199,268.
+
+9. The appellant and HSP at all material times constituted "connected corporations" as that term is defined in subsection 186(4) of the Act.
+
+10. The appellant's pro rata share of the income earned or realized after 1971 and immediately before the purchase for cancellation of the HSP shares attributable to the 732 HSP common shares totaled $252,265 ("Safe Income") as determined in accordance with subsection 55(5) to the Act.
+
+11. On payment of the $1,199,268 dividend to the appellant (as a result of the operation of subsection 84(3) of the Act on the purchase for cancellation of the 732 HSP common shares), HSP became entitled to a dividend refund pursuant to subsection 129(1) of the Act in the amount of $141,730 ("RDTOH Refund").
+
+12. The RDTOH refund to HSP, in the amount of $141,730, consisted of the whole of HSP's refundable dividend tax on hand ("RDTOH") account at the time HSP became entitled to the RDTOH refund. The amount of $141,730 was comprised of $63,342 which was carried forward from a predecessor corporation (also known as HSP Graphics Ltd.) and $78,388 which was the refundable portion of Part IV tax paid by HSP with respect to the taxable capital gain resulting from the disposition by HSP in 1991 of the property with the municipal address of 1240 Advance Road, Burlington, Ontario.
+
+13. As a consequence of HSP's entitlement to the RDTOH refund on the payment of the dividend to the appellant, the appellant became liable for Part IV tax (subsection 186(1) of the Act) on a portion of the dividend received from HSP. The amount of dividend received upon which the appellant became liable to Part IV tax was $566,920.
+
+14. The appellant did not as part of a series of transactions or events within the meaning of subsection 55(2) of the Act, declare and pay a subsequent dividend to a corporation upon which it could have been entitled to a refund of Part IV tax.
+
+15. The appellant in its 1992 taxation year Federal corporate tax return designated under paragraph 55(5)(f) of the Act to treat the $1,199,268 dividend that it received as a series of separate taxable dividends as follows:
+
+$130,000
+
+20,000
+
+10,000
+
+10,000
+
+20,000
+
+20,000
+
+20,000
+
+22,265
+
+566,920
+
+380,083
+
+$1,199,268
+
+16. Subsection 55(2) of the Act applies to a portion of the $1,199,268 dividend received by the appellant.
+
+17. The appellant in its 1992 taxation year Federal corporate tax return determined the amount of $1,199,268 taxable dividend to be treated as "proceeds of disposition" pursuant to the operation of subsection 55(2) of the Act as follows:
+
+Purchase for Cancellation Proceeds $1,200,000
+
+Less: Paid up capital $732
+
+Taxable Dividend $1,199,268
+
+[The taxable dividend is equal to the difference between the appellant's proceeds of disposition of the 732 shares purchased for cancellation and its paid up capital of the shares: subsection 84(3).]
+
+Less the sum of:
+
+(i) income earned or realized by HSP after 1971 and
+
+before purchase for cancellation ("Safe Income") $252,265
+
+[The appellant deducted from the amount of the deemed dividend $1,199,268 the aggregate of two amounts. The first amount deducted is safe income of $252,265.]
+
+and (ii) amount of $1,199,268 dividend to appellant
+
+subject to Part VI tax ($141,730 X 4) $566,920
+
+[The second amount deducted from the $1,199,268 is the portion of the dividend received by the appellant that was subject to Part IV tax; i.e. $566,920. This is the source of the dispute between the parties.]
+
+Subsection 55(2) – "Proceeds of Disposition" $380,083
+
+[The difference between the taxable dividend ($1,199,268) and the aggregate of the safe income ($252,265) and the amount of the dividend subject to Part IV tax ($566,920) is $380,083, according to the appellant, is its proceeds of disposition for purposes of paragraph 55(2)(b) of the Act.]
+
+18. The appellant in its 1992 taxation year Federal corporate tax return determined the capital gain to the appellant resulting from the application of subsection 55(2) of the Act to the $1,199,268 dividend received as follows:
+
+Deemed Proceeds of Disposition (s.55(2)) $380,083
+
+Less: Adjusted Cost Base of 732 HSP Common shares $329,702
+
+Capital Gain $50,381
+
+The taxable portion (75%) of the said capital gain as determined by the appellant was $37,786.
+
+19. The respondent by Notice of Reassessment dated July 5th, 1996 reassessed the appellant's 1992 taxation year by increasing the taxable capital gain from $37,786 (as reported by the appellant) by $189,748 to a taxable capital gain of $227,534.
+
+20. The respondent determined that the amount of the $1,199,268 taxable dividend to be treated as "proceeds of disposition" pursuant to the operation of subsection 55(2) of the Act was as follows:
+
+(a) Dividend in excess of "safe income"
+
+Proceeds Received by the appellant: $1,200,000
+
+Less: Paid-up Capital $ 732
+
+"safe income" $252,265 $252,997
+
+Dividend in excess of "safe income" $947,003
+
+[The Minister first calculated the amount of the dividend that is in excess of safe income, $947,003. The amount of $947,003 is that portion of the dividend "that could be considered to be attributable to anything other than" the amount of safe income.]
+
+(b) Portion of dividend in excess of "safe income" subject to Part IV tax.
+
+Portion of entire deemed dividend subject to
+
+Par IV tax $566,920
+
+Less: Paid-up capital $ 732
+
+Safe-income $252,265 $252,997
+
+Portion of dividend in excess of "safe income"
+
+subject to Part IV tax. $313,923
+
+[The respondent's position is that the safe income portion of the dividend is not exempt from Part IV tax. All taxable dividends subject to Part IV tax are from income earned after 1971. A taxable dividend includes both safe income and income in excess of safe income. One cannot separate a dividend into portions that are from safe income and other income. The Minister therefore deducted the safe income amount (and the amount of paid-up capital of the shares) from that portion of the dividend subject to Part IV tax to find the amount of dividend in excess of safe income subject to Part IV tax.]
+
+(c) Portion of dividend deemed to be proceeds of disposition.
+
+Dividend in excess of "safe income" $947,003
+
+Less: portion thereof subject to
+
+Part IV tax $313,923
+
+Subject to 55(2) – Proceeds of disposition $633,080
+
+["Proceeds of disposition", according to the respondent, is the difference between the dividend in excess of safe income and the portion of the dividend that is subject to Part IV tax. The amount of Part IV tax will be refunded to the appellant when it pays out taxable dividends to the extent that there is any amount left in its refundable dividend tax on hand account; in the meantime the Part IV tax is added to the appellant's refundable tax on hand account. The amount in a private corporation's refundable tax on hand account is income realized after 1971. Income earned or realized after 1971 also increases safe income. To deduct that portion of the dividend subject to Part IV tax as well as the amount of safe income from the deemed dividend would grant the appellant a double deduction, according to the respondent.]
+
+21. The respondent, by the Notice of Reassessment referred to above, determined the capital gain to the appellant resulting from the application of subsection 55(2) of the Act to the $1,199,268 dividend received as follows:
+
+Deemed Proceeds of Disposition (s. 55(2)) $633,080
+
+Less: Adjusted Cost Base of 732 HSP Common Shares $329,702
+
+Capital Gain $303,378
+
+The taxable portion (75%) of the said capital gain as determined by the respondent was $227,534.
+
+B. BACKGROUND
+
+[7] Section 55 was designed to prevent a taxable capital gain from becoming a tax-free intercorporate dividend by recharacterizing the dividend into a gain or proceeds of disposition. Subsection 55(5) establishes the rules for calculating a taxpayer's safe income. Paragraph 55(5)(f) allows a taxpayer to designate a portion of taxable dividend as one or more separate taxable dividends. With 55(5)(f), Parliament has expressed its intent that section 55 should operate without effecting double taxation. The portion of the taxable dividend that is safe income is not taxed as a capital gain.[4]
+
+[8] In Nassau Walnut, supra, Robertson, J.A. stated, at page 5052, that subsection 55(2):
+
+... is an anti-avoidance provision which has the effect of converting certain tax-free dividends into (taxable) capital gains. The object is to prevent "capital gains stripping". However, to the extent that a dividend, including a deemed dividend arising under subsection 84(3), is attributable to what is colloquially referred to as safe income of the dividend paying corporation, then that portion of the dividend remains tax-free.
+
+[9] On the facts of the appeal at bar, the market value of the shares purchased by HSP Graphics Ltd. ("HSP") from the appellant was $1,200,000 and the appellant's adjusted cost base of the shares was $329,702. On a sale of the shares to a person other than HSP, the appellant would have a profit, a capital gain, of $870,298. Were it not for subsection 55(2), on the sale to HSP, the appellant would be deemed by subsection 84(3) to have been paid and to have received a taxable dividend of $1,199,268 ($1,200,000 less the paid-up capital of the share of $732). By virtue of subsection 112(1) of the Act, an amount equal to the dividend would be deducted from the appellant's income and the appellant would pay no tax on the sale of the shares. Subsection 55(2) attempts to prevent the tax-free disposition of shares.
+
+[10] However, by itself, subsection 55(2) may yield a harsh result. The amount of the dividend "other than the portion thereof if any" subject to Part IV tax is deemed not be a dividend but proceeds of disposition or a capital gain. Respondent's counsel compared the calculation of the proceeds of disposition where a portion of the deemed dividend is subject to Part IV tax to proceeds of disposition where no portion is subject to Part IV tax: a single dividend in the amount of $1,199,268, where a portion of the dividend is subject to Part IV tax, would result in deemed proceeds of disposition or a gain equal to the amount by which the dividend exceeds the portion thereof subject to Part IV tax, i.e. $1,199,268 less $566,920 or $632,348.[5] When no portion of the dividend is subject to Part IV tax, the entire taxable dividend of $1,199,268 would be proceeds of disposition or a gain notwithstanding the existence of $252,265 of safe income.
+
+[11] Paragraph 55(5)(f) is designed to prevent a result that ignores the taxpayer's safe income. Robertson, J.A. explained in Nassau Walnut, supra, at page 5053 that paragraph 55(5)(f):
+
+... [which is by no stretch of the imagination a model of legislative clarity], allows a corporation to avoid the "all or nothing" result by designating a dividend to be a number of separate dividends. By means of designation, the portion of the dividend attributable to safe income is severed and remains tax-free. That part of the dividend which is not attributable to "safe income" is to be treated as though a capital gain has been realized.
+
+[12] As previously stated, a taxable dividend may then be divided into two or more taxable dividends so that one of the designated dividends could be attributable to safe income and avoid the application of subsection 55(2).[6]
+
+C. APPELLANT'S SUBMISSIONS
+
+[13] The appellant's view is that the aggregate of safe income and the portion of the taxable dividend subject to Part IV tax must be deducted from the full amount of the taxable dividend. Appellant's counsel relied on the following excerpt of subsection 55(2) to support this submission:
+
+... was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events ...
+
+[14] Mr. Monaco, appellant's counsel, explained that the amount of safe income is to be deducted from the total dividend since it is the amount in excess of safe income that is treated as a capital gain. The Minister deducted the paid up capital and safe income from the amount of $1,200,000 received by the appellant and determined the dividend in excess of safe income to be $947,003. Only the amount of the dividend in excess of safe income, once it is determined, can be subject to paragraphs 55(2)(a), (b) and (c) counsel insisted. Mr. Monaco referred to the closing words in the opening paragraph of subsection 55(2):
+
+... notwithstanding any other section of this Act, the amount of the dividend (other than the portion thereof, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend to a corporation where the payment is part of the series of transactions or events)
+
+...
+
+[15] Mr. Monaco stated that reference in subsection 55(2) to the "amount of the dividend (...subject to tax under Part IV...)" is the amount of the dividend in excess of safe income. Consequently, he argued, in determining the amount of the dividend that is subject to paragraphs 55(2)(a), (b) and (c) one must subtract both safe income and the dividend subject to Part IV tax. The appellant followed this methodology in determining its liability under subsection 55(2) of the Act. This, counsel insisted, is a reasonable and logical interpretation of the language contained in subsection 55(2).
+
+[16] In addition, appellant's counsel submitted that the language in subsection 55(2) provides for a determination of the amount of the dividend that is equal to safe income and the amount of the dividend that is in excess of safe income. Subsection 55(5)(f) permits a taxpayer to elect to sever a dividend between its various components, that is, amongst the safe income portion of the dividend, the portion of the dividend that is in excess of the safe income and other portions. The appellant availed itself of the provisions of paragraph 55(5)(f) and in its return of income designated portions of the taxable dividend as separate taxable dividends. (See paragraph 15 of the Agreed Statement of Facts). Since paragraph 55(5)(f) permits a corporation to designate any portion of a taxable dividend received to be a "separate taxable dividend", counsel argued that the appellant may treat the dividend subject to Part IV tax separate and distinct from the portion of the taxable dividend it received that is safe income attributable to the HSP shares.
+
+[17] The appellant made eight designations pursuant to paragraph 55(5)(f) totalling $252,265, the exact amount of the safe income attributable to HSP's common shares. A ninth designation representing the portion of the dividend subject to Part IV tax was also made. And subsequently the appellant designated a dividend in the amount that the appellant believes was its proceeds of disposition of the shares, that is, $380,083.
+
+[18] Thus, the appellant "consciously" attempted to first capture safe income, then capture the portion of the dividend that was subject to Part IV tax, and lastly, capture the dividend that is deemed to be proceeds of disposition.
+
+[19] Appellant's counsel insisted that a taxpayer has the right to designate which portion of a dividend that will or will not be subject to Part IV tax. Subsection 55(2) is paramount to subsection 186(1) of the Act. The words "notwithstanding any other section of the Act" in subsection 55(2) provide the legislative authority to permit the appellant to treat as separate dividends the amount of the dividend that is subject to Part IV tax and another portion which is safe income and not subject to Part IV tax. Paragraph 55(5)(f) applies to subsection 55(2). The safe income dividend is added to the Part IV dividend as a consequence of the appellant's designations under paragraph 55(5)(f) and do not constitute one and the same dividend as assumed by the respondent.
+
+[20] The Minister erred, appellant's counsel argued, in applying a "greater of" formula in applying subsection 55(2) and determined that the amount of the dividend, subject to subsection 55(2), was the amount of the taxable dividend less the greater of the amount of safe income and the portion of the dividend subject to Part IV tax. The language of subsection 55(2) does not provide for a "greater of" test in determining the amount of the dividend. The Minister has added extra wording to the provision and, based on Jack Friesen v. The Queen,[7] a court should not accept an interpretation that requires the insertion of extra wording where there is another acceptable interpretation that does not require any additional wording. The Minister's interpretation of subsection 55(2) is contrary to its legislative intent. The safe income component of the dividend should pass tax-free as an intercorporate dividend to the appellant.
+
+[21] Counsel argued that the Minister's use of a "greater of" test as a deduction from a taxable dividend results in safe income not passing tax-free to the appellant. It becomes subject to Part IV tax which is contrary to the intention of subsection 55(2).
+
+[22] Finally, appellant's counsel referred to a paper[8] presented to the Canadian Tax Foundation in 1981 by Mr. John R. Robertson, Director General of the Corporate Rulings Directorate, Legislation Branch of Revenue Canada. Mr. Robertson suggested that one may designate separate dividends which are subject to Part IV tax and dividends that constitute safe income.
+
+[23] In short, the appellant's position is that on the facts at bar, in calculating proceeds of disposition pursuant to subsection 55(2), no portion of the dividend paid from safe income is subject to Part IV tax. The appellant's calculation (in paragraph 17 in the Agreed Statement of Facts) therefore appears to protect or insulate the safe income amount of $252,265 from that portion of the taxable dividend of $1,199,268 that is subject to Part IV tax.
+
+D. ANALYSIS
+
+[24] The words "the amount of the dividend" in subsection 55(2) that appear immediately before the last set of parenthesis preceding paragraph (a) refer to the phrase "where a corporation resident in Canada has received a taxable dividend ...", that is, the opening words of subsection 55(2). The words "the amount of the dividend" also applies to amounts of all dividends designated by a corporation pursuant to paragraph 55(5)(f). Thus, "the amount of the dividend" is the full amount of the dividend the appellant received from HSP and the portion of the dividend subject to Part IV tax is the portion of the taxable dividend of $1,199,268 that is subject to Part IV tax.
+
+[25] There is nothing in the Act liberating the portion of the taxable dividend equal to safe income from Part IV tax. The whole of the taxable dividend of $1,199,268 that is deemed by subsection 84(3) of the Act to be paid by HSP to the appellant and received by the appellant as a private corporation is subject to Part IV tax by virtue of section 186.[9] The phrase "notwithstanding any other section of the Act" preceding the words "the amount of the dividend" in subsection 55(2) do not affect the character of the receipt as a taxable dividend, whether or not subject to Part IV tax. All amounts in the introductory paragraph of subsection 55(2) (and the dividends referred to in paragraph 55(5)(f)) are amounts of taxable dividends; it is only in paragraphs (a), (b) and (c) that the deeming provisions arise and that the "notwithstanding" phrase applies to these deeming provisions only.
+
+[26] The "notwithstanding" provision does affect the operation of section 186. The whole of the dividend of $1,199,268 is an amount determined under paragraph 186(1)(b). I cannot find any provision in section 55 that even implies, let alone declares, that the portion of the dividend of $1,199,268 which is subject to Part IV tax (i.e. $566,920) and the amount of the dividend of $566,920 designated by the appellant under paragraph 55(5)(f) may necessarily become one and the same. The Act does not grant taxpayers the right to arbitrarily allocate, identify and designate the origin of the amounts included in a taxable dividend; only the amounts themselves are designated.
+
+[27] I agree with respondent's counsel that there is an implied ordering of the several dividends designated pursuant to paragraph 55(5)(f). Otherwise the exercise would be fruitless. This approach is reasonable in particular when one considers the "object and spirit" of section 55 and its role in the scheme of the statute. The taxpayer wishes to protect its safe income from inclusion in proceeds of disposition or as a capital gain. It is only by first considering a dividend that is equal to or less than the amount of safe income that the test in subsection 55(2) is passed. If there is still safe income remaining after the dividend in question, then it is reasonable to conclude that the dividend did not reduce that portion of the capital gain inherent in the related dividend that is attributable to anything other than safe income. Only when the amounts of dividends exceed the amount of safe income does the test in subsection 55(2) come into play. The order implicit in applying subsection 55(2) to several designated dividends is that the dividend or dividends that aggregate an amount equal to or less than the amount of safe income must be considered before any remaining designated dividends.
+
+[28] In the case at bar, the appellant designated several dividends pursuant to paragraph 55(5)(f)[10]. The designated first dividend of $130,000 and the next seven designated dividends used did not reduce the portion of the gain inherent in the shares that are attributable to anything other than safe income since the amount of safe income is $252,265 and the total of the first eight designated dividends is $252,265. It is only when one considers the ninth designated dividend of $566,920, the amount equal to the dividend subject to Part IV tax, and the tenth designated dividend of $380,083 that it is no longer reasonable to conclude that the reduction in the gain inherent in the shares is attributable to safe income. After the eighth designated dividend the safe income has been exhausted and subsection 55(2) applies.
+
+[29] At this point the issue between the parties is joined. Subsection 55(2) provides that in calculating the capital gain or proceeds of disposition the amount of safe income and the amount of the dividend subject to Part IV tax will not be included in the calculation. No capital gain should apply to after tax income that is safe income or to the amount of the taxable dividend which is subject to Part IV tax. The appellant says no part of the amount of the safe income dividend is subject to Part IV tax. To subject safe income to Part IV tax, appellant's counsel argued, would result in double taxation to the taxpayer. Respondent's counsel does not agree. Paragraph 55(5)(f) is silent with respect to any allocation of the Part IV tax among the designated dividends. This is not surprising since the designations of dividends made under the authority of paragraph 55(5)(f) are for purposes of section 55 only and do not affect the application of the Part IV tax.
+
+[30] The Act does not expressly determine what "proportion" if any, of each of the several dividends designated by paragraph 55(5)(f) is subject to Part IV tax. Messrs. Kellough and McQuillan suggest[11] three possible applications of Part IV tax to designated dividends, that is, a) the dividends paid from safe income are subject first to Part IV tax, with the balance of the amount subject to Part IV tax allocated to the dividends paid from "other than safe income", b) each of the several dividends established by the designation under paragraph 55(5)(f) is subject to Part IV tax in the same proportion, and c) the dividends paid from "other than safe income" are subject first to Part IV tax.
+
+[31] That Part IV tax is payable on the first dollar of a taxable dividend received by a private corporation is supported by the mechanics of a private corporation's entitlement to a dividend refund on payment of a taxable dividend. A private corporation is liable for Part IV tax on receipt of a dividend. The amount of the Part IV tax is added to the refundable dividend tax on hand account.[12] Subsection 129(1) provides that the dividend refund is the lesser of twenty-five percent of the taxable dividends paid and the balance of the corporation's "refundable dividend tax on hand" account, as defined by subsection 129(3). In the case at bar, HSP's dividend refund was limited to the amount of its refundable dividend tax on hand account, that is, $141,730. Whether HSP paid a dividend of $566,920 (four times $141,730)[13] or $1,000,000, the refund payable to HSP would be the same, $141,730. And a dividend received by the appellant in excess of $566,920 would not result in a Part IV tax greater than $141,730; a dividend less than $566,920 would result in Part IV tax equal to twenty-five percent of the dividend since that amount would be less than HSP's refundable dividend tax on hand at the time. It is readily apparent that Part IV tax is exigible on receipt of the first dollar of dividend, on the facts at bar, on amounts first totalling $566,920. Safe income is not safe from Part IV tax. The same dollars may be included to increase the amount of both safe income and "income subject to Part IV tax".
+
+[32] Respondent's counsel proposed a test to confirm that the $566,920 is subject to Part IV tax. The facts in the agreed statement are assumed, but also assumed is that the amounts of the total dividends were $566,920 and not $1,199,268. In such a case, it would still be true that $252,265 of the reduction in the capital gain that would have otherwise been realized on a disposition at fair market value could reasonably be considered to be attributable to safe income, and the remainder of the reduction, i.e. the difference between $252,265 and $566,920, could reasonably be considered to be attributable to something "other than safe income". The portion of the dividend subject to Part IV tax would remain at $566,920.[14] Increasing the amount of the dividend from $566,920 to $1,199,268 does not result in any additional portion of the dividend being attributable to safe income, nor does it result in any additional portion of the dividend being subject to Part IV tax.
+
+[33] It is also apparent that the same income dollars make up HSP's safe income and the amounts in its refundable dividend tax on hand account. Safe income is a corporation's "income for the year" (after 1971) determined by the rules in section 3 of the Act and, in accordance with paragraph 3(b), includes taxable capital gains. Amounts in a corporation's refundable dividend tax on hand account are from income earned or realized after 1971. As a corporation's refundable dividend tax on hand increases, so normally does its safe income.[15] There is no "double taxation" in the Minister's calculation of proceeds of disposition. Indeed, to accept the appellant's formula in calculating proceeds of disposition the appellant may gain the advantage of two deductions, one arising from safe income and another from the amount of the dividend subject to Part IV tax. It is only if safe income is not increased in accordance with an increase in the corporation's refundable dividend tax on hand account that there would be double taxation in the Minister's calculation.
+
+[34] Specifically, in the case of HSP, the taxable capital gain realized by HSP would be included in its safe income.[16] By virtue of subparagraph 129(3)(a)(i) the amount of $78,388 was included in HSP's refundable dividend tax on hand account on the disposition of its capital property. A taxable capital gain is Canadian investment income. The transaction resulting in the capital gain increased both HSP's safe income and its refundable dividend tax on hand account, thereby increasing the "portion of the dividend subject to Part IV tax".
+
+[35] Indeed, if I am wrong in this analysis, it may be more prudent to find that all of the dividends designated by paragraph 55(5)(f) include a pro rata portion of the dividend subject to Part IV tax.[17] However, I do not believe this is a reasonable option.
+
+[36] The appeal is therefore dismissed with costs.
+
+Signed at Ottawa, Canada this 10th day of June 1999.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+[1] 97 DTC 5051 at 5052.
+
+[2] Nassau Walnut, supra, at 5060, Robertson J.A referred to The Queen v. Placer Dome 96 DTC 6562 (F.C.A.) and B.J. Arnold, T. Edgar & J. Li, Materials on Canadian Income Tax, 10th ed. Toronto: Carswell, 1993) at 726–27.
+
+[3] I have added comments in italics to paragraphs 17 and 20 of the Agreed Statements of Facts.
+
+[4] See The Queen v. Brelco Drilling Ltd. (formerly Trimac Limited), [1999] F.C.J. No. 678, per Sexton J.A. at paragraph 59.
+
+[5] The addition of the paid-up capital of $732 to the Minister's calculation of deemed proceeds equals the proceeds of disposition, as calculated by the Minister, of $633,080, in paragraph 20 (c) of the Agreed Statement of Facts.
+
+[6] Howard Kellough and Peter McQuillan,, Taxation of Private Corporations and Their Shareholders, 2nd ed., (Toronto: Canadian Tax Foundation 1992), pages 9:32 – 9:33.
+
+[7] 95 DTC 5551, at 5556.
+
+[8] Capital Gains Strips: A Revenue Canada's Perspective in the Provision of Section 55, in Report of Proceedings of the Thirty-Third Tax Conference, 1981 Conference Report (Toronto; Canadian Tax Foundation, 1982) page 81, at 83.
+
+[9] The tax imposed by subsection 186(3) is referred to as Part IV tax.
+
+[10] See paragraph 15 of the Agreed Statement of Facts.
+
+[11] Supra, pages 9:21 – 9:22.
+
+[12] Paragraph 129(3)(b).
+
+[13] See paragraph 186(1)(b); the dividend received by a corporation that is subject to Part IV tax is four times the payer's dividend refund.
+
+[14] If the hypothetical dividend of $566,920 were received as a single dividend, the "safe income" of $252,265 would not exclude that dividend from section 55(2), but the exclusion for the portion of the dividend subject to Part IV tax would exclude the whole of the dividend. If the hypothetical dividend of $566,920 were designated as being several dividends, some might, depending on the amounts selected, be excluded.
+
+[15] When the underlying income of the dividend originates from portfolio dividends received by the payor corporation there is a similar result. The payor corporation would have paid Part IV tax on receipt of the dividends, which would have increased its refundable dividend tax on hand account: paragraph 129(3)(b). At the same time the portfolio dividends would increase the payor's "safe income" because they would have been included in income by virtue of paragraph 3(a) of the Act, thus increasing the payor's "net income". See 454538 Ontario Ltd. v. M.N.R. 93 DTC 423 at 435, per Sarchuck, J.T.C.C.
+
+[16] Agreed Statement of Facts, paragraph 12.
+
+[17] See analysis of Messrs. Kellough and McQuillan, supra, pages 9:21 – 9:22
+

@@ -1,0 +1,118 @@
+Date: 20020619
+
+Docket: 2001-3708-GST-I
+
+BETWEEN:
+
+KELVIN ARMSTRONG,
+
+Appellant,
+
+and
+
+
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+____________________________________________________________________
+
+Counsel for the Appellant: George F. Jones, Q.C.
+
+Counsel for the Respondent: Nadine Taylor
+
+___________________________________________________________________
+
+Reasons for Judgment
+
+(Delivered orally from the Bench on April 26, 2002, at Victoria, British Columbia)
+
+Bowie J.
+
+[1] Mr. Armstrong brings this appeal from an assessment made by the Minister of National Revenue (the Minister) under section 323 of the Excise Tax Act (the Act), which is sometimes colloquially known as the director's liability provision. He is assessed as a director of a company called Oak Meadow Estates Ltd. (Oak Meadows). Although a number of issues were raised in the Notice of Appeal, the only one pursued by the Appellant at trial was his claim that he is entitled to the benefit of the saving provision found in subsection 323(3), sometimes known as the due diligence clause:
+
+
+
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+
+
+
+[2] There has been a considerable amount of jurisprudence developed around the concept of the standard of care to be applied to a director under subsection (3), and its counterpart in the Income Tax Act, subsection 227.1(3). However, for present purposes, it is sufficient to say that the standard is neither totally subjective nor totally objective, and it is a standard which varies along a continuum depending upon the particular circumstances of the director concerned, and in particular that director's level of business experience and sophistication, and also the degree to which the director is involved in the day-to-day activities of the company. A distinction is made between inside directors, who have a high degree of involvement in the day-to-day activities and outside directors, who have a much lesser standard of care.
+
+[3] The Appellant has had an extensive career in business during the 20 years or so prior to the events giving rise to this appeal. He owned and managed a Ford dealership in the City of Victoria for some 20 years, prior to which he had some experience in banking. In 1992, while still operating the Ford dealership, he and a Mr. Videlin went into business together to develop a townhouse/ condominium project. For that purpose they formed the company, Oak Meadows. They were equal partners, each owning half the shares, and each being a director. There were, so far as I know, no other directors. They shared the responsibility of managing the company's activities between them. Mr. Videlin had experience in construction and, as I understand it, he took charge of the side of the business that saw to the physical development and construction. Mr. Armstrong's contribution was to invest money and also to provide accounting and bookkeeping services, which he did through the person of one Mr. Nelson.
+
+[4] Mr. Nelson is a certified general accountant and a long-time, well-regarded and trusted employee of Mr. Armstrong's Ford dealership. Mr. Nelson was given the task of keeping the books for Oak Meadows, and seeing to such things as the payment of bills, the filing of GST returns and similar financial duties. Cheques were required to be signed by both Mr. Armstrong and Mr. Videlin. Mr. Nelson, as I understand it, prepared the cheques for their signatures. Oak Meadows built a condominium project, which was successful and profitable. After that it embarked on another project as a 50/25/25 partnership with two other partners. This project was carried out through a corporation called Meares Street Homes Ltd. (Meares), 50% of whose shares were owned by Oak Meadows.
+
+[5] Again, Mr. Nelson did the bookkeeping and the other financial work, including the filing of GST returns for the company. It was agreed amongst the partners that the profits of Meares would be paid out to its shareholders at year-end as management fees. This was done on two separate occasions, at the fiscal year-end of Meares for each of 1995 and 1996. Fifty percent of the profits were paid to Oak Meadows. On these occasions no steps were taken by Mr. Nelson to record a liability for GST. GST should have been exigible in respect of the management services provided by Oak Meadows to Meares. Oak Meadows should have collected this GST from Meares along with its management fees, and should have remitted it to the Receiver General. None of this is disputed.
+
+[6] It does not appear, however, that any liability for GST was recorded by Meares. Certainly it was never paid. I have no doubt that the failure to record the GST liability and to ensure that it was paid was, in the first instance at least, a failure by Mr. Nelson to carry out his duties properly. There is certainly no basis in the evidence to conclude that Mr. Armstrong, or anyone else, was making any deliberate attempts to evade the payment of GST. Indeed, as Mr. Jones pointed out more than once in the course of his submissions, had Meares paid the GST to Oak Meadows and Oak Meadows remitted it to the Receiver General as should have been done, then Meares could have applied for, and presumably received, an input tax credit for the full amount of the tax paid.
+
+
+
+[7] Mr. Nelson was not called to give evidence, but the evidence before me leads to the conclusion that the immediate cause of the default was his negligence as to this item. It was part of his duties, as described by the Appellant in his evidence, to see that Oak Meadows collected and remitted the GST in respect of those management services. It was also part of his duties to see that Meares paid it, and then made the appropriate claim for an input tax credit.
+
+[8] There is another substantial item which forms part of the assessment against Oak Meadows. This arose directly out of the winding up of that company. By mid-1998 the relationship between the Appellant and Mr. Videlin had deteriorated considerably. The Appellant described a situation in which there were continuing requirements to provide additional funding to Oak Meadows, and in which he responded to those requirements for funding, while Mr. Videlin did not. Mr. Videlin took the position that he was unable to provide further funds to the company. Whatever the reason, the decision was taken to wind up the company, and at that time there remained unsold two condominium units from the company's last project. Mr. Armstrong and Mr. Videlin decided that each of them would purchase one of those units, not to live in themselves, but apparently for the use of a relative.
+
+[9] A lawyer by the name of Ron Hunter acted for the company, for the Appellant, and for Mr. Videlin in these two transactions. Mr. Armstrong purchased his unit, and in doing so he paid the GST that was exigible on the supply to him of the unit. That was, as the Act requires, collected by Oak Meadows from him at the time of the closing of the sale and remitted to the Receiver General. Mr. Armstrong apparently assumed, wrongly as it turned out, that Mr. Videlin would do the same. For reasons that do not appear from the evidence before me, Mr. Hunter, acting for Oak Meadows on this transaction, did not collect the GST that should have been paid by Mr. Videlin at the time of closing. As Mr. Hunter was not called to give evidence, there is no explanation before me of the reason for that. Nor was Mr. Videlin called to give evidence; I was told that he now lives in the United States.
+
+[10] Soon after the closing of these two transactions on July 2, 1998, Oak Meadows was voluntarily dissolved and struck off the register of companies pursuant to section 258 of the Company Act.[1] There is virtually no evidence before me beyond that which I have already recited as to the details of the winding up. I do not know, for example, if there was any distribution of assets to either the Appellant or Mr. Videlin. I do not know if other than the debt for GST, which is in issue here, there were other creditors left unpaid. But I do know, as it appears from the assumptions of the Minister that are pleaded in the Reply and not challenged in the evidence, that Oak Meadows was assessed for outstanding GST, penalty and tax, the details of which appear in several lengthy schedules to the Reply filed.
+
+[11] It is sufficient for present purposes to know that the GST assessment consisted of the amount not paid in respect of the management fees, some $16,520, that unpaid in respect of the supply of a condominium unit to Mr. Videlin, some $8,831, and an additional amount of approximately $400 apparently resulting from the company's day-to-day operations prior to its dissolution. According to the schedule, the unpaid tax totaled $26,692, and penalties of $7,395 were also assessed against the company. No objection to this assessment was filed by the company, nor of course was an appeal taken, with the result that the assessment became final and binding in respect of the company pursuant to provisions of subsection 299(3) of the Act. In due course the requisite certificate was filed in the Federal Court of Canada under section 323, and a writ of execution was put in the hands of the sheriff, and returned nulla bona on November 29, 2000. On September 26, 2000, apparently on application of the Respondent, Oak Meadows was restored to the register under the Company Act, with the effect that it was deemed by that Act to have continued in existence throughout. On December 18, 2000, the outstanding debt for GST penalty and tax amounted to $39,419.89, and the Minister assessed the Appellant for that amount under section 323 of the Act.
+
+[12] As I said at the outset, the only issue before me is that of due diligence. There is no question that the Appellant is a very experienced and well-educated businessperson. He was also one of only two shareholders, an equal partner in the business, and the partner whose role included the financial management of the affairs of the company, which was carried out for the company by his employee, Mr. Nelson. There can be no question, and I did not understand Mr. Jones to take issue with this, that the standard of care applicable in the present case is at the highest end of the range. Mr. Jones did argue that the standard of care should be tempered by the fact that in so far as the GST on the management fees was concerned, the liability did not cause a loss to the Crown, as there would have been an equal claim for an input tax credit had the tax been paid.
+
+[13] Whatever sympathies it may raise, in my view this is not a factor that I can take into account. The liability of a director under section 323 is fixed by the amount of the company's liability. That amount is in turn fixed by the assessment, from which no relief was ever sought by the company. Any claims for an input tax credit would of course belong not to Mr. Armstrong, but to the recipient of the management services, Meares. It does not diminish the liability of either Oak Meadows or its directors to say that Meares might have claimed and received an input tax credit, nor does it affect the standard of diligence that Mr. Armstrong was bound to apply. That is fixed by section 323 of the Act, and the cases decided under that section.
+
+[14] Was the standard of care met in the present case? I do not believe that it was. It is clear from the cases that any director must take positive steps to discharge his or her obligations if there is reason to believe that default in payment of tax is imminent on the company's part. In the case of an inside director, and particularly a sophisticated and experience inside director, the duty is considerably higher. I am not aware of any decided case such as the present, where the liability for tax existed at the time that the company underwent a voluntary dissolution. It seems obvious to me, however, that upon a voluntary dissolution taking place, an inside director (and probably any director) has a high obligation to make specific inquiries of the person who has been exercising day-to-day responsibility for the bookkeeping and bill paying functions as to the potential liabilities to all and any creditors, and in particular the taxing authority.
+
+[15] The Appellant's position as to due diligence was that he put the bookkeeping function in the hands of Mr. Nelson, who is an experienced accountant with a CGA designation, and that, together with the retainer of a Mr. Fitzgerald, FCA to prepare year-end statements, was sufficient to discharge his duty under subsection (3). I disagree.
+
+[16] Dealing first with the role of Mr. Fitzgerald, he gave evidence in the course of which he stated that his retainer was what he called a computational engagement. This he explained as being an engagement to prepare year-end statements, and to prepare and file income tax returns, based on information given to him by the company. In the present case, that information was furnished to him by Mr. Nelson. Mr. Fitzgerald did not look behind this information, nor was it any part of the function for which he was engaged to do so. In particular, he did not look into whether there were obligations not apparent on the face of the company's books, nor did he bring those which were apparent to the attention of management. None of this was within his retainer.
+
+[17] I have no doubt that Mr. Fitzgerald is a very capable accountant, but his retainer on this limited basis each year would not contribute one iota to the discharge of the duty of diligence owed by Mr. Armstrong. Nor can that duty be said to be discharged by simply ensuring that the day-to-day bookkeeping and bill paying has been assigned to a competent accountant. If that were the case, there would be little onus on any director under the provisions of section 323, or its equivalent provision in the Income Tax Act. The duty of diligence must involve some measure of oversight in every case, and it assuredly does where the director is an inside director and highly qualified. In my view, that duty becomes highly specific upon a voluntary liquidation, when the company's assets are to be distributed. Any residual assets are, of course, divided among the shareholders, and it is obvious that this can only be done after all obligations have been paid. If there is a distribution of assets while creditors remain unpaid then that distribution is to the advantage of the shareholders, and to the disadvantage of the creditors. Mr. Armstrong was a 50% shareholder as well as a director. I have no way of knowing from the evidence before me whether Mr. Armstrong was enriched by any distribution of assets in his favour in this case. It may have happened, or it may not. He did not choose to give any evidence as to that.
+
+[18] I do find, however, that Mr. Armstrong had a duty to find out, by specific inquiry at the time the charter was surrendered, the state of payment of debts, including taxes. There was no evidence before me that suggested that he had made any such inquiry at that time, and the appeal is therefore dismissed.
+
+Signed at Ottawa, Canada, this 19th day of June, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-3708(GST)I
+
+STYLE OF CAUSE: Kelvin D. Armstrong and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: April 22, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: April 29, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: George F. Jones, Q.C.
+
+Counsel for the Respondent: Nadine Taylor
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: George F. Jones, Q.C.
+
+Firm: Jones Emery
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] R.S.B.C. 1996 c. 62.
+

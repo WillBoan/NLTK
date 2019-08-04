@@ -1,0 +1,116 @@
+Date: 20000605
+
+Docket: 1999-5009-IT-I
+
+BETWEEN:
+
+SANDRA FISHER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan J.T.C.C.
+
+[1] This appeal is from an income tax assessment for the 1997 taxation year. In that year, the Appellant received certain amounts as maintenance from her former husband. Other amounts which she might have received as maintenance in that year were set off against a debt she owed to her former husband. The issue is to determine what amount the Appellant is required to include in computing income as maintenance under paragraph 56(1)(b) of the Income Tax Act. The Appellant has elected the informal procedure.
+
+[2] The facts are not in dispute. The Appellant and Gordon Fisher ("Gordon") were married in 1973. There were two children born of the marriage: Brian born in 1977 and Robert born in 1979. The Appellant and Gordon separated in 1993. In 1994, a court order was issued requiring Gordon to pay to the Appellant $1,100 per month as maintenance for her and the two sons. The Appellant and Gordon were divorced in May 1995 and, at that time, the order requiring maintenance of $1,100 per month was left in place. Following the divorce, there was a division of family property between the Appellant and Gordon pursuant to the Ontario Family Law Act.
+
+[3] The issue concerning division of family property came before Mr. Justice Bernstein of the Ontario Court (General Division) on January 14, 1997. At that time, Gordon was in arrears with respect to his maintenance payments in the amount of $7,558. Judge Bernstein decided that, concerning only the division of family property, the Appellant owed to Gordon a net equalization amount of $12,138 ($11,788 plus $350). This amount was owing by the Appellant to Gordon because she had retained the family house on the division of property. Having made that decision, Judge Bernstein followed with an order which strikes me as very sensible. First, he applied the arrears of monthly maintenance payments ($7,558) against the net equalization amount ($12,138) to arrive at a balance of $4,579. And second, for a 12-month period, he directed Gordon to pay to the Appellant only $700 per month and claim a credit for the remaining $400 per month so that, after 12 months, Gordon's total credit of $4,800 could be set off against the balance of $4,579 owing by the Appellant to Gordon. Judge Bernstein's Judgment is Exhibit A-1. The relevant part states:
+
+This action coming on for hearing on January 14, 1997, before this Court, in the presence of the parties.
+
+ON READING THE PLEADINGS AND HEARING THE EVIDENCE and the submissions of counsel for the Plaintiff (Sandra Fisher) and the Defendant (Gordon Fisher) personally.
+
+1. IT IS ORDERED AND ADJUDGED that the equalization of net family property shall go as per Exhibit 1. The Plaintiff to pay the Defendant $4,579.47 and parties shall assume ownership of assets in Exhibit 1.
+
+2. IT IS FURTHER ORDERED AND ADJUDGED that the Defendant shall pay to the Plaintiff for her support the sum of $1,100.00 per month from which amount the Defendant is entitled to deduct the sum of $400.00 per month for 12 months in full satisfaction of the property equalization debt. The first payment February 1, 1997 and on the 1st of each month thereafter.
+
+3. ...
+
+Paragraph 1 of the Judgment refers to "Exhibit 1" and the amount $4,579.47. In his Exhibit 1, Judge Bernstein had already determined that the net equalization amount was $12,138 and he had also deducted maintenance arrears of $7,558 leaving a balance of $4,579.
+
+[4] The decision of Judge Bernstein is sensible in that it permitted the Appellant, with no liquid capital, to discharge her debt of $12,138 to Gordon within one year in a relatively painless manner. That decision raises income tax problems, however, because the Appellant's capital obligation to Gordon was set off against Gordon's revenue obligations to the Appellant.
+
+[5] When filing her 1997 income tax return, the Appellant reported as income the aggregate maintenance amounts ($8,400) which she actually received from Gordon at the rate of $700 per month for 12 months. By Notice of Reassessment issued in January 1999, the Minister of National Revenue assessed tax on the basis that the Appellant had underreported her income by $11,958 computed as follows:
+
+Maintenance arrears $ 7,158
+
+12 months reduced maintenance 4,800
+
+$ 11,958
+
+In evidence, there is no explanation for the discrepancy between the arrears amount ($7,558) used by Judge Bernstein and the arrears amount ($7,158) used by Revenue Canada but I note that the discrepancy is $400. The Appellant has appealed from the reassessment claiming that she did not receive the above amount of $11,958 in 1997 or, if she is to be regarded as having received it, then it was not received in circumstances which would require it to be included in income under paragraph 56(1)(b) of the Act. The relevant parts of paragraph 56(1)(b) as it applied in 1997 are:
+
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+(a) ...
+
+(b) the total of all amounts each of which is an amount determined by the formula
+
+A - (B + C)
+
+where
+
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+
+B ...
+
+C ...
+
+The descriptions of amounts B and C are not relevant because those amounts are subtracted from amount A. The primary issue is whether the $11,958 (added by the Minister to the Appellant's reported income) can be brought within amount A.
+
+[6] The basic element in amount A is a "support amount" which is defined as follows in subsection 56.1(4):
+
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+The amount in dispute ($11,958) has two components being maintenance arrears of $7,158 (the "Arrears Amount") and 12 months reduced maintenance of $4,800 (the "Reduced Amount"). The questions which I have to decide are whether the Arrears Amount or the Reduced Amount can be brought within the definition of "support amount".
+
+[7] This case is about amounts not paid and not received. Considering Gordon as payor, he did not pay (and the Appellant did not receive) the Arrears Amount ($7,158). Instead, that amount was set off against the net equalization amount (approximately $12,000). Similarly, for the 12 months of 1997, Gordon did not pay (and the Appellant did not receive) $1,100 per month for maintenance. Instead, he paid only $700 per month and set off a credit of $400 per month against the net equalization amount until, at the end of 12 months, his aggregate credits of $4,800 (i.e. the Reduced Amount) exceeded the balance ($4,597) owing to him with respect to the net equalization amount. By not paying the Arrears Amount and the Reduced Amount, Gordon received full value for the net equalization amount ($12,000).
+
+[8] Considering the Appellant as payor, she did not pay (and Gordon did not receive) the net equalization amount ($12,000). Instead, she abandoned her right to the Arrears Amount ($7,158) so that it could be set off against the net equalization amount. Similarly, she accepted lower maintenance payments of $700 per month for the 12 months of 1997 so that her accumulated deficit of $4,800 (i.e. the Reduced Amount) at the end of 12 months could be set off against the net equalization amount. By not receiving the Arrears Amount and the Reduced Amount, the Appellant gave full value for the net equalization amount.
+
+[9] Judge Bernstein recognized the Appellant's single obligation to Gordon (the net equalization amount) and Gordon's continuing obligations to the Appellant; and the Judge wisely effected a set-off. It appears from the assessment under appeal that Revenue Canada regarded the set-off as being the same as payment by Gordon and receipt by the Appellant. In law, there is a significant difference between set-off and payment. The following passage appears in a recent Canadian text, The Law of Set-Off in Canada by Kelly R. Palmer, Canada Law Book Inc., 1993 at pages 17 and 18:
+
+While the availability of a cross-claim in set-off will relieve the defendant from paying the plaintiff's claim, this does not mean that a payment has been made. Payment and set-off are two distinct actions which a defendant may take. Halsbury states that:
+
+Set-off is entirely distinct from payment. Payment is satisfaction of a claim made by or on behalf of a person against whom the claim is brought. The person paying performs the obligation in respect of which the claim arises, which thereby becomes extinguished. Set-off exempts a person entitled to it from making any satisfaction of claim brought against him, or of so much of the claim as equals the amount which he is entitled to set off, and thus to the extent of his set-off he is discharged from performance of the obligation in respect of which the claim arises.
+
+Where there has been payment, the party against whom the claim is brought pleads payment or accord and satisfaction, which in effect alleges that the claim no longer exists. On the other hand, a plea of set-off in effect admits the existence of the claim, and sets up a cross-claim as being ground on which the person against whom the claim is brought is excused from payment and entitled to judgment on the plaintiff's claim. (Halsbury's Law of England, 4th ed., vol. 42, para. 410)
+
+This is not to say, however, that set-off cannot be used for payment under any circumstances. Should the parties agree that a set-off of mutual debts will be a satisfactory payment, then the agreement will stand. This is more a matter of contract than set-off.
+
+Should this agreement not be present then it is clear that payment of a debt cannot be made by way of set-off.
+
+[10] Having regard to the last few sentences in the above passage from the text, there is no evidence of any agreement between the Appellant and Gordon that the set-off of their mutual debts would be regarded as payment. The opposite seems to be true. The Appellant said that Gordon asked her to sign a document stating that she received $1,100 per month through 1997 but she refused to sign the document because she received only $700 per month in accordance with Judge Bernstein's order. In the absence of any such agreement, I would hold that the net equalization amount ($12,000) was not paid; the Arrears Amount ($7,158) was not paid; and the Reduced Amount ($4,800) was not paid. These amounts were not paid because of the set-off. The net equalization amount was set off against the other two.
+
+[11] Although the definition of "support amount" in subsection 56.1(4) speaks of "an amount payable or receivable", it has always been my understanding that the taxation of maintenance amounts is on a cash basis and not an accrual basis. My understanding is confirmed by the actual words in paragraph 56(1)(b) where the description of amount A contains the phrase:
+
+"... a support amount received after 1996 and ... "
+
+I also note that in paragraph 60(b), the description of amount A contains the phrase:
+
+"... a support amount paid after 1996 and ... "
+
+In my opinion, no amount is to be included in the computation of income for a taxation year under paragraph 56(1)(b) unless that amount is received in the year. The Arrears Amount ($7,158) was not received by the Appellant in 1997 because it was set off against the net equalization amount. Similarly, the Reduced Amount ($4,800) was not received by the Appellant in 1997 because it also was set off against the net equalization amount.
+
+[12] A maintenance payment is ordinarily made in recognition of a family obligation after a marriage breakdown. There is no quid pro quo. On the facts of this case, Gordon did not pay the Arrears Amount or the Reduced Amount but he got value for not paying because those amounts not paid permitted him to recover in value the net equalization amount. There was a quid pro quo with respect to the non-payment of the Arrears Amount and the Reduced Amount. Those amounts cannot be regarded as maintenance paid.
+
+[13] The appeal is allowed and the assessment for 1997 is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did not receive in 1997 the amount of $11,958 which was added to her reported income by such assessment. In particular, the Appellant discharged her onus of proof by establishing that the basic fact which was assumed by the Minister and set out in paragraph 8(g) of the Reply was an error. The Appellant received only $8,400 as maintenance in 1997.
+
+Signed at Ottawa, Canada, this 5th day of June, 2000.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

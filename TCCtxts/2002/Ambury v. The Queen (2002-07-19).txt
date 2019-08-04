@@ -1,0 +1,206 @@
+Date: 20020719
+
+Docket: 2001-2062-IT-I
+
+BETWEEN:
+
+DAVID AMBURY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.
+
+[1] These appeals are from reassessments for income tax for the taxation years 1998 and 1999. By those reassessments, the Minister of National Revenue disallowed the Appellant's claim that in computing his income he is entitled to deduct the amounts paid by him for child support. The appeals were heard at Thunder Bay, Ontario under the informal procedure.
+
+[2] The facts are not in dispute. The Appellant is the natural father of a child. He and the child's mother have never been married, nor have they lived together in a conjugal relationship. The Appellant recognized his responsibility for the support of the child, and in 1996 he and the mother entered into a written agreement providing that he would make periodic payments to her for that purpose. The agreement was filed in the Ontario Court of Justice (Provincial Division). The taxpayer made the payments required of him under that agreement, and he claimed to deduct these amounts under section 60 of the Income Tax Act[1] (the Act) when computing his income for the year. The Minister disallowed the deductions, giving rise to this appeal.
+
+[3] The point in issue is a very narrow one. Paragraph 60(b) of the Act provides that a taxpayer may deduct support amounts according to a formula set out there.
+
+60 There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+
+(b) Support - the total of all amounts each of which is an amount determined by the formula
+
+A - (B + C)
+
+where
+
+A is the total of all amounts each of which is a support amount paid after 1996 ...
+
+[the rest of the formula is not relevant to these appeals]
+
+The question is whether the amounts that the Appellant paid can be said to come within the definition of the expression "support amount". That expression is defined for the purposes of both sections 56 and 60 in subsection 56.1(4).
+
+56.1(4) The definitions in this subsection apply in this section and section 56.
+
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+In order to be deductible, then, the maintenance payments must have been made, and receivable, under an order made by a competent tribunal in accordance with the laws of Ontario. Mr. Strickland argues that this requirement is satisfied in the present case, by the operation of subsections 35(1) and (2) of the Family Law Act of Ontario,[2] and the definition of support order found in section 1 of the Family Responsibility and Support Arrears Enforcement Act[3](the FRSAE Act). These provisions read:
+
+Family Law Act
+
+35(1) A person who is a party to a domestic contract or paternity agreement may file the contract or agreement with the clerk of the Ontario Court (Provincial Division) or of the Unified Family Court together with the person's affidavit stating that the contract or agreement is in effect and has not been set aside or varied by a court or agreement.
+
+35(2) A provision for support or maintenance contained in a contract or agreement that is filed in this manner,
+
+(a) may be enforced;
+
+(b) may be varied under section 37; and
+
+(c) except in the case of a provision for the support of a child, may be increased under section 38,
+
+as if it were an order of the court where it is filed.
+
+Family Responsibility and Support Arrears Enforcement Act
+
+1(1) In this Act,
+
+...
+
+"support order" means a provision in an order made in or outside Ontario and enforceable in Ontario for the payment of money as support or maintenance, and includes a provision for,
+
+(a) the payment of an amount periodically, whether annually or otherwise and whether for an indefinite or limited period, or until the happening of a specified event,
+
+(b) a lump sum to be paid or held in trust,
+
+(c) payment of support or maintenance in respect of a period before the date of the order,
+
+(d) payment to an agency of an amount in reimbursement for a benefit or assistance provided to a party under a statute, including a benefit or assistance provided before the date of the order,
+
+(e) payment or expenses in respect of a child's prenatal care and birth,
+
+(f) the irrevocable designation, by a spouse who has a policy of life insurance or an interest in a benefit plan, of the other spouse or a child as the beneficiary, or
+
+(g) interest or the payment of legal fees or other expenses arising in relation to support or maintenance,
+
+and includes such a provision in a domestic contract or paternity agreement that is enforceable under section 35 of the Family Law Act.
+
+Mr. Strickland contends that these provisions, as he put it, raise the agreement under which the payments were made to the status of an order of a court made under the laws of the province of Ontario.
+
+[3] Subsections 21(1) and (8) of the FRSAE Act should be noted as well.
+
+21(1) A support deduction order shall be deemed to have been made in respect of a support order described in subsection (8) if,
+
+(a) the recipient requests that the Director enforce the support order under this Part and the Director considers it practical to do so; or
+
+(b) the Director considers it advisable to enforce the support order under this Part.
+
+21(8) This section applies only to support orders filed in the Director's office that are,
+
+(a) support orders made by an Ontario court before March 1, 1992;
+
+(b) domestic contracts or paternity agreements that are enforceable under section 35 of the Family Law Act;
+
+(c) support orders made by a court outside Ontario that are enforceable in Ontario.
+
+The evidence before me does not disclose whether either of these conditions had been met in the present case, but for purposes of these Reasons I shall assume that they were.
+
+[4] Mr. Strickland relies on the judgment of Teskey J. in Hollands v. The Queen.[4] That case arose under the Maintenance Enforcement Act (the MEA)of Alberta, section 12 of which provides that an agreement to pay maintenance may be filed in the Alberta Court of Queen's Bench, whereupon it is deemed to be a court order. Judge Teskey held in that case that this deeming provision had the effect of making the agreement an order made by a competent tribunal in accordance with the laws of the province of Alberta for purposes of the definition of "support amount" found in the Income Tax Act. Associate Chief Judge Bowman has taken a different view of the effect of section 12 of the MEA,[5] as have I.[6]
+
+[5] In Hewko, where the facts were indistinguishable from the present case, and from those in Hollands, I said:
+
+[7] A provincial legislature may, as to subject matters assigned to the provinces by section 92 of the Constitution Act, 1867, deem a thing to be that which in reality it is not. Provided that deeming is not a colourable intrusion upon the legislative field assigned to Parliament, it can be effective for all purposes, if that is what the legislature intends. In such a case, the legal status of the thing deemed is established by the provincial law, for purposes of both federal and provincial statutes. However, as Bowman A.C.J. pointed out in Fantini, the extent to which the deeming applies must be ascertained as a matter of construction of the provincial legislation. It is quite clear, in my view, from both the context and the language of subsection 1(2) of the MEA, that its operation is limited to the confines of that act. First, it is found in a section which deals with definitions. That suggests that its operation is limited to the act in which it is found. Second, the agreement is deemed to be a maintenance order "under this Act". That, too, suggests that the operation of the deeming provision is limited to the purposes of the MEA. Its purpose is to bring an agreement within the expression "maintenance order", which is defined immediately above to mean one of a number of types of orders there referred to, including orders of courts outside the province that have been registered under the Reciprocal Enforcement of Maintenance Orders Act. The MEA creates an office called the Director of Maintenance Enforcement. Its whole purpose is to provide for the enforcement of certain types of court orders by the Director, for the benefit of children, spouses and former spouses who are the beneficiaries of those orders. For that purpose, the Director is given certain powers, and it is only for that purpose that the agreement here in question, as well as agreements made under the Income Support Recovery Act and the Child Welfare Act, are deemed to be within the expression "maintenance order" when it is used in the MEA.
+
+[8] Does section 12, which deems a maintenance order filed with the Court of Queen's Bench to be a judgment of that Court, have effect beyond the confines of the MEA? I do not believe it does. Standing alone, it might appear to, but it must be read with section 1. If the deeming of the agreement to be a maintenance order is limited to the purposes of the MEA, then the operation of section 12 on that Order must equally be limited. I conclude, therefore, that the agreement pursuant to which the Appellant made the maintenance payments is not "¼an order made by a competent tribunal in accordance with the laws of a province ¼" for purposes of the Income Tax Act.
+
+Exactly the same reasoning applies to the Ontario legislation. Although there are differences in form, the legislative intent is clearly the same, and the Ontario statutes, like the Alberta statutes, are not intended to change the nature and character of a child support agreement, but merely to provide for the enforcement of it through the same mechanism that is available for the enforcement of court orders in the province.
+
+[6] Subsections 35(1) and (2) of the Family Law Act do no more than provide for enforcement of a paternity agreement. They have no deeming effect. Section 1 of the FRSAE Act is limited in its effect by the opening words "In this Act". Its inclusion of a paternity agreement within the meaning of the expression "support order" is thus effective only for the purposes of that statute. Subsection 21(1) of the FRSAE Act is a deeming provision, but it must be viewed in the context of the FRSAE Act as a whole. Its purpose is clearly limited to providing for the enforcement of paternity agreements (as well as the two classes of orders referred to in paragraphs 21(8)(a) and (c)) by the Family Responsibility Office, and making the processes of the Ontario Court available to the Director of that Office for that purpose. I am therefore unable to agree with the submission that these provisions effectively raise the paternity agreement to the status of an order made by a court for other purposes, and so the appeals must be dismissed.
+
+[7] I cannot leave this case without expressing some regret that fathers like Mr. Ambury who willingly recognize and fulfill their obligations to children are denied the deduction to which they would be entitled if they resisted those obligations until a court ordered them to make support payments. There is no apparent policy rationale for denying the deduction to taxpayers who enter into paternity agreements voluntarily. A search of Hansard discloses none. As many paternity agreements entered into before 1997 still have many years to run, it may be that Parliament will consider putting supporting parents who have not been married to or cohabited with the other parent on an equal footing with those who have.
+
+Signed at Ottawa, Canada, this 19th day of July, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-2062(IT)I
+
+STYLE OF CAUSE: David Ambury and Her Majesty the Queen
+
+PLACE OF HEARING: Thunder Bay, Ontario
+
+DATE OF HEARING: June 13, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: July 19, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: T. Michael Strickland
+
+Counsel for the Respondent: Tracey Harwood-Jones
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: T. Michael Strickland
+
+Firm: Buset & Partners
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-2062(IT)I
+
+BETWEEN:
+
+DAVID AMBURY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on June 13, 2002, at Thunder Bay, Ontario, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Counsel for the Appellant: T. Michael Strickland
+
+Counsel for the Respondent: Tracey Harwood-Jones
+
+JUDGMENT
+
+The appeals from assessments of tax made under the Income Tax Act for the 1998 and 1999 taxation years are dismissed.
+
+Signed at Ottawa, Canada, this 19th day of July, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] R.S.C. 1985 (5th Supp) c. 1 as amended.
+
+[2] R.S.O. 1990, c. F.3, as amended 1997, c.20.
+
+[3] S.O. 1996, c. 31 (formerly the Family Support Plan Act R.S.O. 1990, c. 28).
+
+[4] [2001] 4 C.T.C. 2755.
+
+[5] Fantini v. The Queen, 98 DTC 1308.
+
+[6] Hewko v. The Queen, [2002] T.C.J. No. 335.
+

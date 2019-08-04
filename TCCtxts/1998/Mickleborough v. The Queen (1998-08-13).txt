@@ -1,0 +1,572 @@
+Date: 19980813
+
+Docket: 95-2773-IT-G
+
+BETWEEN:
+
+LYNDA L. MICKLEBOROUGH,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+[1]These are appeals for the Appellant’s 1986 and 1987 taxation years.
+
+[2]In computing income for her 1986 taxation year, the Appellant deducted, inter alia, $100,000.00 in cumulative Canadian exploration expense (“CCEE”) and $33,333.33 in mining exploration depletion allowance (“MEDA”).
+
+[3]In computing income for her 1987 taxation year, the Appellant deducted, inter alia, $87,638.28 in CCEE and $29,212.76 in MEDA.
+
+ISSUES
+
+[4]At issue is whether the Appellant correctly claimed deductions under the Income Tax Act (the “Act”) in relation to “flow-through shares” and the corresponding expenses incurred by a corporation. The decision will require the determination of the following questions:
+
+1. Were the expenses incurred by Terra Mines Ltd. (“Terra”), at the Bullmoose Lake (“Bullmoose”) project, CEE within the meaning of subparagraph 66.1(6)(a)(iii) of the Act?
+
+2. Were the expenses incurred by Terra, at the Bullmoose project, CEE within the meaning of subparagraph 66.1(6)(a)(iii.1)?
+
+3. Is the Appellant able to deduct, in computing income from a business pursuant to section 9, the expenses incurred by Terra at the Bullmoose project as agent for the Appellant?
+
+FACTS
+
+[5] A Partial Agreed Statement of Facts was filed. It reads:
+
+1. At all material times, the Appellant was a physician residing in the Province of Ontario who carried on the practice of medicine.
+
+2. At all relevant times, Terra Mines Ltd. (“Terra”) was a company incorporated under the laws of British Columbia with its administrative offices situated in Edmonton. Terra was in the business of exploring for and mining precious metals, principally gold and silver.
+
+3. At all relevant times, Terra Mines Ltd. owned a 100% interest in a number of mineral claims in the area of Bullmoose Lake, which is 53 miles east of Yellowknife, N.W.T., and which covers an area of some 13,354 acres (“Bullmoose”).
+
+4. Exploration activity first began at Bullmoose when Cominco Ltd. carried out trenching, diamond drilling, shaft sinking and sampling in 1940. No work was conducted from 1942 to 1963. From 1963 to 1968, additional exploration including trenching was done by W.L. McDonald, P.Eng. In 1968, the property was acquired by Duke Mining Ltd. which conducted a 12,500 foot diamond drilling program between 1969 and 1973.
+
+5. Terra earned a 50% interest in the property in 1975 and 1976 by completing 2,700 feet of underground development and 1,300 feet of underground drilling. In 1981, Terra amalgamated with Duke Mining Ltd., thereby acquiring the balance of the property.
+
+6. Starting in January 1983 and throughout part of 1984, Terra completed various phases of exploration at Bullmoose, including surface diamond drilling and underground development. During that period, Terra also removed from underground and stockpiled on the property over 30,000 tons of gold-bearing rock from various veins. Samples were sent to Coastech Research Inc. and to the University of Alberta for metallurgical testing.
+
+7. Terra also operated silver mines in the Camsell River District of the Northwest Territories from 1969 to 1985.
+
+8. Terra temporarily suspended its activities at Bullmoose on January 6, 1985.
+
+9. In January of 1985, the design for a portable mill to be used at Bullmoose was underway. The portable mill was based on a design by Coastech Research in Vancouver who projected a 93% gold recovery rate using this mill.
+
+10. By undated memorandum (after October 12, 1985 and before March 1, 1986), R. A. Evans, Executive Vice-president of Terra was presented with an analysis of different revenue scenarios from the production of gold at the Bullmoose Lake property for the 1986 year. Possible revenues for 1986, assuming the milling of a minimum of 51,680 tons of high grade ore, varied from $8,001,024 to $13,094,058.
+
+11. On January 28, 1986, in a memo presented to the Executive Vice-President of Terra, it was planned that the portable mill would process 42,750 tons of ore and produce 15,027 ounces of gold during the 1986 calendar year.
+
+12. In February of 1986, Terra transported a portable mill to the Bullmoose property. The cost of the mill was $2,600,000.00, including plant erection, pipelines and transport of equipment. The mill was constructed by Inlet Metals and Machining Co. Ltd., which was owned by W. Kocken, the President of Terra.
+
+13. On May 16, 1986, a private placement offering memorandum was distributed by Terra with respect to the issuance of flow-through common shares.
+
+14. On July 11, 1986, the Appellant entered into an Exploration Agreement with Terra. Pursuant to this agreement, Terra was appointed the Appellant’s agent to incur “Canadian Exploration Expense qualifying for Mining Exploration Depletion Allowance”, in the amount of $100,000. The sole consideration received by the Appellant pursuant to the Exploration Agreement was common shares of Terra.
+
+15. At all material times, the Appellant was a member of the MG 1987 Limited Partnership (“MG”), a limited partnership formed under the laws of the Province of Ontario. The Appellant held 10 of the 590 units of MG.
+
+16. By January 13, 1987, Terra was reviewing plans for total abandonment of the site. The restoration and rehabilitation work required had already commenced and a comprehensive reclamation plan had been submitted to the Northwest Territories Water Board for approval.
+
+17. On January 15, 1987, Terra entered into a Resource Agreement with MG whereby MG subscribed for flow-through common shares of Terra. Terra agreed to “use its best efforts to incur” “CEE qualifying for MEDA”, up to the amount of the subscription price of $880,292, and to renounce these exploration expenses in favor of MG. Terra subsequently renounced the amount of $880,292 to MG.
+
+18. On February 23, 1987, the audit Committee of Terra passed a resolution to recommend to the Board of Directors that the Bullmoose and the Camsell River operations be written down in the financial statements for the year ending December 31, 1986.
+
+19. On March 31, 1987, Terra issued a news release in which it announced that the financial statements for the year ending December 31, 1986 would include a writedown to nominal values of the cost of mineral properties and related deferred exploration and development costs at Bullmoose.
+
+20. In the same news release, Terra announced that it had improved its financial position compared to the previous year, having retired all its debt and substantially increased its working capital. This was in part as a result of the sale of the gold produced at Bullmoose Lake. Terra was now in a position to take advantage of other opportunities, in particular the exploration of properties in Mexico.
+
+21. From March 20, 1986, to June 17, 1987, the mill processed 86,634 tons of ore, which yielded 19,001 ounces of gold. This included approximately 19,000 tons of ore which was milled after March 1987. Terra did not renounce any Canadian Exploration Expenses (“CEE”) in respect of expenses incurred after March 1987.
+
+22. Between 1983 and 1987, Terra explored for, extracted and processed ore from Bullmoose at a cost of approximately $31,400,000.00.
+
+23. The gold was sold for $8,500,000.00.
+
+24. Starting in 1984, Terra made various estimates of the amount of gold bearing ore present at Bullmoose. In communicating these estimates, Terra adopted the following definitions of “reserves”:
+
+Proven reserves
+
+a) Consist of materials for which tonnage is computed from dimensions revealed in outcrops, trenches, underground workings or drill holes and for which the grade is computed from the results of adequate sampling and for which the sites for inspection, sampling and measurement are so spaced and the geological character so well defined that the size, shape and mineral content are established and for which the computed tonnage and grade are judged to be accurate within 90% confidence limits.
+
+Probable reserves
+
+b) Consist of material for which tonnage and grade are computed partly from specific measurements, partly from either or both the sample data or production data and partly from projection from a reasonable distance on geological evidence and for which the sampling are too widely or otherwise inappropriately spaced to outline the material completely or to establish its grade throughout.
+
+Possible reserves
+
+c) Consist of material for which the quantitative estimates are based largely in broad knowledge of the geologic character of the deposit and from which the estimates are based on an assumed continuity or repetition for which there are reasonable geological indications.
+
+25. In its 1985 Annual Report, Terra’s ore reserve estimates, as at February 11, 1986 were as follows:
+
+Reserves Tons Grade Ounces of
+
+Category Gold
+
+Proven (broken) 15,145 0.449 6,797
+
+Proven (in place) 12,534 0.411 5,156
+
+Probable 35,433 0.363 12,862
+
+Total (proven 63,112 0.393 24,815
+
+and probable)
+
+Indicated 72,408 0.499 36,150
+
+Inferred 25,723 0.445 11,435
+
+Total (possible) 98,131 0.485 47,585
+
+Total Economic 161,243 0.449 72,400
+
+26. In the course of the Revenue Canada’s audit of certain activities undertaken by Terra at Bullmoose, an opinion was requested from the Department of Energy, Mines and Resources (“E.M.R.”) as to whether the costs associated with the mining and milling of ore at Bullmoose, from March 1986 to June 1987, should qualify as CEE within the meaning of subparagraph 66.1(6)(a)(iii) of the Income Tax Act.
+
+27. E.M.R. expressed the opinion that the costs associated with the mining and milling of what Terra classified as a large bulk sample were not incurred for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada, but constituted, in fact, salvage mining, i.e., an attempt to recover as much as possible of its exploration costs.
+
+28. As a result of the E.M.R. opinion, all expenditures from Terra’s general ledger were reviewed and analyzed on a monthly basis by Revenue Canada and exploration expenses claimed were disallowed in a manner consistent with the opinion expressed by E.M.R.:
+
+Based on the information contained in the Analysis section and appendices I and II, we have come to the following conclusion. Prior to 1986, the cost of Terra’s work on the Bullmoose Lake property should be CEE under subsection 66.1(6)(a)(iii) of the Act. In 1986 and 1987, only the cost of diamond drilling and lateral development should be so classified. The cost of activities associated with salvage mining, i.e. the stoping and milling operations and any stope development, should not be classified as CEE, although mining in reasonable commercial quantities did not occur. The installed cost of the mill is capital expenditure and is not CEE.
+
+29. The CEE disallowed was $5,884,211.31 in 1986 and $5,820,173.30 in 1987. Based on the revised CEE of $9,181,097.69 for 1986 and $1,412,411.70 for 1987 which Revenue Canada proposed to allow, Terra provided a revised schedule of CEE allocating the CEE to the various investors. In the case of the allocation to MG, MG then made a further allocation to its partners.
+
+30. The Appellant was reassessed for 1986 and 1987 on the basis of these allocations.
+
+31. In computing income for her 1986 taxation year, the Appellant deducted, inter alia, $100,000.00 in CEE and $33,333.00 in Mining Exploration Depletion Allowance (“MEDA”).
+
+32. In assessing tax to the Appellant in respect of her 1986 taxation year, the Minister of National Revenue (the “Minister”) disallowed $32,130.00 of the CEE claimed. As a consequence of the CEE adjustment, the MEDA was reduced by $10,711.93.
+
+33. In computing income for her 1987 taxation year, the Appellant deducted, inter alia, $87,638.23 in CEE and $29,212.76 in MEDA. Of these amounts, $14,920 of the $87,638.23 and $4,974 of the $29,212.76 were in respect of expenses renounced by Terra.
+
+34. In assessing tax to the Appellant in respect of her 1987 taxation year, the Minister disallowed $8,012.89 of the CEE claimed and which had been renounced by Terra. As a consequence of the CEE adjustment, the MEDA was reduced by $2,673.62.
+
+EVIDENCE AT TRIAL
+
+MR. GARRY M. PAULSON
+
+[6]For the period in question, he was amongst other things a chartered accountant, a member of the Board of Directors (the “Board”); Chief Financial Officer, Vice-President - Finance and member of the Executive Committee for Terra.
+
+[7]He described the financing adopted for Terra’s exploration program at Bullmoose including the flow-through shares formula that was followed. He also described consultations in respect of these matters with auditors and tax consultants.
+
+[8]He also described areas of focus for Terra and the Board.
+
+[9]From the outset, for the Board there were concerns over the found veins of gold, in that, the veins were narrow and there was also concern as to whether the exploration grade hold up, moreover, the ‘nugget effect’[1] was not regular.
+
+[10]The site also caused concern, it was remote with difficult weather, no roads, no airports and the only transportation was by way of winter ice roads.
+
+[11]Given many varying factors including their knowledge that gold was present at Bullmoose, the Board decided on a pilot mill test program from large bulk samples.
+
+[12]Mr. Paulson also stated the cost of exploration was expensive and although the gold that was produced in the course of the exploration activities was sold, in the end the share equity declined.
+
+[13] Once the pilot mill was instituted, the grade verification results were mixed and by June 1986 these results in the view of the Board did not give enough information to the Board to give the project up; therefore the testing went on for the balance of 1986 to March 1987.
+
+[14]As part of his function in relation to qualifying Canadian exploration expenses in accordance with his corporate office (Vice-President - Finance), Mr. Paulson certified the funds were expended within the tax legislative program and that the purpose was as described.[2]
+
+[15]In the latter stages of 1986, he advised some shareholders were pressing to take the mine into full production but the Board resisted on the basis they did not have enough information to justify such a production decision.
+
+[16]As the pilot mill continued and subsequent pre-testing failed to give an acceptable production grade verification, the mine eventually was closed in 1987. Thereafter in accordance with legislative and regulatory requirements, the site was restored and Terra moved its activities to Mexico.
+
+[17]As indicated, the witness is a chartered accountant and not a geologist or a mine manager. Notwithstanding, the Respondent’s counsel took the witness through extensive and lengthy cross-examination on time intervals, prior facts, documents and results that were outside his knowledge, expertise or experience. The witness however did not tread in areas beyond his competence or experience and always qualified his answers appropriately. He also gave his evidence in a forthright and credible manner. The witness did confirm throughout his cross-examination that when he arrived at Bullmoose, there were good showings of gold and that he would not have joined Terra if he thought the exploration was doomed to failure.
+
+[18]Further, on cross-examination, the witness was questioned on the Ross R. Grunwald report (a consulting geologist report prepared for a third party). This report was prepared in March 1984. The witness had limited knowledge about the report but did state it was his understanding that Terra relied on the report in its exploration proposal including the report’s statement at page 19 that:
+
+[I]t is not unreasonable to expect that the property could contain mineable reserves of two to three million tons of ore down to the 1000 foot level, grading from 0.3 to 0.4 ounces per ton. This means that the property could easily contain one million or more ounces of gold.[3]
+
+[19]The witness was also cross-examined on the G.N. Woollett report of August 1987, a report prepared for R.A. Evans (President of Terra) to study the results of exploration carried out at the Bullmoose property. In response to certain quotes about specific mine veins, mine records and grade verification from the Woolett report[4] at pages 14 and 18 the witness stated, in general, that Terra did not mine all veins but Terra did sample all veins. The Board believed there was gold bearing grade but the grade was too low.
+
+[20]He restated that throughout 1986 and part of 1987, the Board’s intention was to continue exploration and continue the pilot mill testing. He further stated at the end of 1986 when most results were negative, the Board was not ready to say the exploration was dead and not ready to say that production should go ahead. The witness in essence indicated the intention of Terra was to continue exploration activity and continue pilot mill testing seeking sufficient ore grade to support a commercial viable operation.
+
+MR. RAYMOND R. PETHER
+
+[21]The second witness on behalf of the Appellant was Mr. R. Pether who was employed by the Middlefield Group of Companies. The Middlefield Group of Companies was in the business of raising capital for resource companies. He reviewed and evaluated Terra management and the Terra financial statements as well as the Offering Memorandum issued by Terra. Part of his role was to ensure the exploration agreement was complied with on behalf of clients. In this oversight capacity, Mr. Pether was in receipt of opinions by public accountants as to whether the expenditures contemplated by Terra were qualified as CEE. Eventually, in the course of time, Mr. Pether became a member of the Board of Directors for Terra and sat on the Audit Committee.
+
+[22]He confirmed the evidence of Mr. Paulson as to the optimism of Terra for the Bullmoose property. From the Offering Memorandum dated May 16, 1986 under Terra’s and Middlefield’s identification the following was written:
+
+An integral part of the 1986 program will be bulk sampling of ore from various veins and zones in order to verify the run-of mine ore. The nature of the mineralization, being a multi-veined high grade free gold deposit, makes it essential that accurate information be obtained on actual recoverable gold prior to making decisions on production and in establishing confidence in actual reserves. In order to conduct this testing, the Company has installed a portable pilot mill which is capable of expansion to a 350 ton per day facility from its present capacity of 200 tons.[5]
+
+[23]Mr. Pether also conducted what he described as due diligence to assess the risk for Middlefield’s clients in relation to the Bullmoose mine. He stated, in evaluating Terra and the Bullmoose property that many components were examined including proven, probable and possible reserves, the geological setting and the ability of Terra to carry out the work.
+
+[24]He referred to the opinions he received on the Audit Committee and reviewed certain variables such as the relevancy of the price of gold in terms of assessing the economic reserves of Bullmoose. He also referred to the erratic nature of the gold veins and how this affected the economic viability of the project. His conclusion was that Terra did as much as possible in carrying out its CEE program in relation to Bullmoose. He discussed the dilemma that faced Terra with the less than satisfactory results in determining the running grade. If Terra did not carry out its testing Terra lost, if Terra continued to carry out testing and the results were unsatisfactory Terra lost. All this confirmed that mining exploration is a risky business. In the end, the witness summarized: Bullmoose did fail.
+
+THE EXPERT GEOLOGIST CALLED
+
+ON BEHALF OF THE APPELLANT
+
+DR. LIONEL C. KILBURN
+
+[25]Dr. Lionel C. Kilburn, geologist, was qualified as an expert witness and capable of expressing opinions in the areas of geology, mining and prospecting, including bulk sampling.
+
+[26]Dr. Kilburn’s viva voce evidence described in general terms gold exploration including specifically the bulk sampling as part of the exploration program. He discussed weather and climate problems, property, mining persons characteristics and geological characteristics including quarry vein contents and ‘nugget effects’. In general terms he also discussed costs.
+
+[27]He explained from his point of view reserve grade, mill grade, pilot plant grade, high grade and low grade ore. He also discussed cut-off grade and he discussed batching.
+
+[28]He also discussed types of reserves, proven, probable and possible and what in his view applies to exploration projects in terms of internal use and external publications and what he thought of Terra’s reserve figures. He also discussed his review of the Bullmoose methodology and the Bullmoose results.
+
+[29]On cross-examination he was challenged on all levels that were divergent with the Respondent’s theory of Terra’s motivation and Terra’s conduct, including the need for a bulk sample and the appropriate size of a bulk sample; the need to establish a recognizable pattern; shrinkage stoping, test stoping and test milling; batching including batch segregation and blending of various ore sources; record keeping; the concept of salvage mining; the types of reserves and the reliance to be placed by Terra on the reserves and the size of the proven, probable and possible reserve veins; and geostatistical methods of predicating patterns.
+
+[30]His general conclusions were Terra embarked simultaneously on secondary exploration-development and test stope-pilot programs, to confirm existing reserves and to discover the larger reserves believed to be there. He concluded Terra found very irregular distribution of gold within reserve blocks that made it impossible to determine reliable reserve grade, even by the use of closely spaced underground drill holes and underground development.
+
+[31]Some of Dr. Kilburn’s specific conclusions were that:
+
+1. 63,000 tons were stoped from underground in 15 months;
+
+2. a “test stope-pilot plant” program lasted 15 months;
+
+3. “about seventy per cent of the test sample” came from the October 1985 known reserve;
+
+4. less than half of the October 1985 reserve was left after the test program ended;
+
+5. the type of gold distribution at Bullmoose made it almost impossible to forecast the grade “without processing almost the entire reserve.”
+
+6. the “underground test program was twice the size originally planned, due to unresolved complexities associated with two mining scenarios”;
+
+7. the gold from the “pilot plant test” is a by-product and not a “commercially or profitably produced commodity”;
+
+8. the “entire test program at Bullmoose was dedicated to discovering enough reserves for commercial production, deriving a method for reliably predicting their grade, and finding a production plan which would cost less than the value of their gold content”.
+
+WITNESSES CALLED BY THE RESPONDENT
+
+MR. JEAN LEFEBVRE
+
+[32] Mr. Jean Lefebvre is a Mining Analyst with the Department of Natural Resources Canada. In his capacity as an advisor to Revenue Canada, he gave an opinion to Revenue Canada as to whether the activities of Terra qualified as CEE. The following quotation in a letter to Terra from Revenue Canada summarizes his evidence and that view:
+
+[O]ur ... opinion that expenses associated with the mining and milling of a large amount of mineralized material that Terra classifies as a bulk sample, which occurred from March 1986 until June 1987, should not qualify as CEE under subparagraph 66.1(6)(a)(iii) of the Act. ... we believe that bulk sample is an inappropriate term to describe the large quantity of material mined, which was not a sample at all.[6]
+
+MR. GEORGE N. WOOLLETT
+
+[33]Mr. George N. Woollett, a geologist, gave evidence of his involvement with Bullmoose and Terra. He did not give evidence as an expert. In the month of August 1987, he wrote a report[7] as a consultant that was a study of exploration results of Bullmoose. The study concluded that the probability for the discovery of a gold deposit larger than that discovered was low.
+
+[34]He also found that mining of gold bearing shoots was through and produced an estimated 57,082 tons averaging 0.251 ounce gold per ton. He concluded the Bullmoose Lake gold deposit was not viable at current gold prices and that the high costs of $1,652 per ounce gold recovered was as a result of the large amount of exploration-oriented development and the relatively small amount of tons milled and gold produced.
+
+[35]He also advised he was of the view, in August 1990, that Terra’s approach to a bulk sample was questionable but it did provide Terra a means of accurately determining the grade and tonnage of a bulk sample.
+
+Dr. ALASTAIR J. Sinclair
+
+[36]Dr. Sinclair, an economic geologist, was found for the purposes of this hearing to be an expert, qualified to express opinions in the area of ore reserve estimates and sampling.
+
+[37]Dr. Sinclair’s expert report read like a text book on gold mining and his oral evidence was a well organized informative by an eminent scholar in the field of geology. He set out classification and evaluation aspects of the case and then reviewed in-depth the concept of bulk sampling.
+
+[38]Certain of Dr. Sinclair’s specific conclusions were that:
+
+1. the mill operated on a larger scale and for a longer period than is normal for bulk sampling;
+
+2. bulk sampling at Bullmoose was warranted;
+
+3. “the mill was in continuous operation and in any one day used mill feed from more than one source”;
+
+4. “[d]aily average grades of mill throughout demonstrate that grade verification could have been accomplished over a short time interval.” From Dr. Sinclair’s report at pages 47 and 53, he writes:
+
+4.3.5: Mill Recovery vs. Grade
+
+It is common that mill recovery varies with the grade of material treated. The production data available to me can be used to establish if such a pattern exists for the 1986-87 production from Bullmoose Lake veins. Figures 4.4a to 4.4d show the daily recover plotted versus average grade treated for a 43-day period, a 100-day period, a 200-day period and a 314-day period. The 43-day period was selected to extend from the first day of recorded production (Appendix 2) to include a daily average grade well below cutoff grade. A very clear pattern exists in all figures demonstrating that gold recovery in the pilot plant increases with an increase in the grade of material treated. Moreover, the relationship is well established over the shortest time period documented. The similarity of these patterns for the various time intervals suggests that any “fine-tuning” or improvements implemented to the pilot mill during most of the production period had little impact on improving recovery of gold from the Bullmoose ore. These diagrams also indicate that a well chosen bulk sample of reasonable size could have established the relation between grade and recovery as well as providing ample opportunity for fine tuning of the pilot mill. In fact, in my view a judiciously selected bulk sample consisting of drill rounds from various parts of the workings and totaling 1000 to 1500 tons would have been adequate. Such material could have been selected to represent various average grades, variations in style of mineralization and variations in ore and waste mineralogy.
+
+5. the purpose of the “pilot plant” was not to test mill equipment;
+
+6. “[p]roduction figures for the period July 30, 1986 to June 17, 1987 show a systematic increase over the initial 4 months starting at about 150 tpd and leveling off at about 280 tpd. Mill tune up occurred prior to this period. This consistent with a planned move to full production”;
+
+7. a small bulk sample of 1,000 to 1,500 tons could have provided the necessary information.
+
+[39]As part of the Respondent’s case, Dr. Sinclair offered a rebuttal to Dr. Kilburn’s report.
+
+[40]Dr. Sinclair took issue with Dr. Kilburn’s conclusion number 14 wherein he concludes that due to the “irregular distribution” the ore grade could not be determined without processing the entire reserve. He states that this conclusion is incorrect because the methodology does exist, Dr. Kilburn failed to review the methodology used by Terra and in any event the methodology used by Terra could have given the results in a “relatively short period of time.”
+
+Dr. Donald A. Cranstone
+
+[41]Dr. Cranstone is a mineral geologist who was found to be an expert qualified to express opinions in the area of mining geology with the geology of ore deposits.
+
+[42]Dr. Cranstone conducted a survey of 31 gold deposits for comparison with the Bullmoose deposits. He found that for all bulk-sampled Canadian gold deposits reviewed by him other than Bullmoose, the bulk samples used amounted to no more than a small percentage of reserves.
+
+[43]He also found that bulk samples vary from small (a few tons) to large (tens of thousands of tons). Further, the size of the bulk sample is dependent on the size of the deposit and the degree of the nugget effect. He also found from the records of Terra that from March 1986 to March 1987 the bulk sample was 68,273.64 tons (Exhibit E-4, page 10) and that the comparable percentages for this tonnage was 140.7% proven and probable and 45.6% of proven probable and possible reserves.
+
+[44]The Bullmoose bulk sample, however was a far larger percentage of reserves (by an order of magnitude and more) and so greatly exceeds the percentages at every deposit of the other 31 bulk samples.
+
+MR. Graham Farquharson, Bsc, Msc, P. Eng.
+
+[45]Mr. Farquharson is a mining engineer found to be an expert qualified to express opinions in the areas of project management bulk sampling and mining.
+
+[46]Mr. Farquharson’s conclusions indicate that:
+
+1. the “evidence clearly indicates any attempts at carrying out a proper sampling program were poorly managed and the primary reason for the program was one of processing whatever ore could be mined...”;
+
+2. as early as June 1986 sufficient information was available to give a “clear indication of the grade” and that nothing changed between June 1986 and March 1987 in terms of the difference between estimate of gold and actual amounts contained in the ore;
+
+3. the “bulk sampling program... continued until all of the reserves estimated at the start of the program had been consumed”.
+
+DR. HENRIK THALENHORST PROVIDED A
+
+Rebuttal to Dr. Kilburn’S Report
+
+[47]Dr. Henrik Thalenhorst, a geologist, was qualified as expert capable of expressing opinions in the areas of exploration, project evaluation and ore reserves.
+
+[48]The rebuttal finds the reserve base estimate subject to the bulk sample program was 61,500 tons as of February 11, 1986 and that at the end (June 1987) it was unlikely that any large tonnage remained that would deserve the designation “reserves”.
+
+[49]Further, that an additional period of bulk sampling required to test a lower cost mining method by treating low grade material was not appropriately carried out because of the mixing of stope and development ore so that low grade material could not be judged on its own. Also, the mill was not cleaned between samples so that gold accounting in the low grade ore treated could not be properly ascertained and that low grade tonnages ancestry were impossible to ascertain.
+
+[50]Lastly, the rebuttal criticizes Dr. Kilburn’s claims that the project reserves could not be reliably forecasted without processing the entire reserve tonnage. The report concludes that because ore from different sources was being mixed during milling, the determination of a pilot plant grade to specific ore was not possible.
+
+ANALYSIS
+
+FIRST ISSUE
+
+[51]Were the expenses incurred in Terra at the Bullmoose project CEE within the meaning of subparagraph 66.1(6)(a)(iii.1).
+
+[52]The resource mining industry in Canada is accorded special treatment in order to give recognition to the high risk and sizeable capital requirements of the industry. The issue of “flow-through shares” provides, through CCEE deductions, a means for Canadian resource companies to raise capital for exploration and development.
+
+[53] The term “flow-through shares” is defined by paragraph 66(15)(d.1) as shares acquired by a taxpayer pursuant to an agreement with a corporation, whereby the corporation agrees to incur CEE[8] in an amount equal to the consideration given by the taxpayer for the shares and to “renounce” to the taxpayer an amount in respect of the expenses. The relevant exploration expenses are considered, for income tax purposes, to be expenses of the taxpayer and not of the corporation. Subsection 66.1(3) expressly allows taxpayers to deduct the qualifying CEE of another taxpayer.
+
+[54] Prior to 1986 the Act did not contain a definition of the phrase “flow-through shares”. The Act only permitted deduction of qualified expenses where the taxpayers earned the shares by incurring the expenses themselves and exchanging the product (i.e. exploration results) for the shares in the company. This technical requirement made the use of flow-through shares awkward because the taxpayer had to incur the expense directly or the amount paid to the corporation would be considered an expenditure to acquire capital and would not be directly deductible against other income: Farmers Mutual Petroleum v. M.N.R., [1967] C.T.C. 396 at page 405 (S.C.C.) wherein the Court held that amounts expended to acquire an interest in lands upon which the exploration expenses had been incurred by a third party were not amounts expended in respect of exploration or drilling. They were made for the acquisition of an interest in lands. Additionally, the investor could be exposed to liability for any damages which resulted from the activities that generated the expenses.
+
+[55] I considered the comments of Michael A. Carten in an article for the Canadian Tax Foundation titled “Flow-Through Share Financing”, Corporate Management Tax Conference 1986: Income Tax considerations in Corporate Finance 385, which I feel is informative in this regard. Specifically he states at page 392:
+
+To circumvent the operational problems, the issuing corporation typically purported to carry on the exploration and development program as agent for the investors, although in truth many of the incidents of an agency relationship were not present in the agreements normally entered into. Of course, one of the incidents of agency is the liability of the principal of the acts, including in particular tortious acts, of his agent. Thus, investors nominally responsible for conducting exploration programs were theoretically responsible for not only the direct cost of the program, but also unanticipated third-party costs.
+
+[56] The 1986 amendments were intended to remove this awkwardness and the industry’s use of pseudo-agents. The introduction of the “flow-through share” definition expressly allowed for the agreement between the taxpayer and the issuing corporation to require the issuing corporation to expend the amounts on qualified expenses and for the taxpayer to pay the issuing corporation directly.
+
+[57] The 1986 amendments did provide for a phase out of the old system and the issuer, in this case Terra, had the option of which two systems to use for agreements entered into up until the end of 1986.
+
+[58] As for the agreement involving Terra and MG 1987 Limited Partnership (“MG”), there was no option, the definition of “flow-through shares” in paragraph 66(15)(d.1) must have been satisfied in order for MG to obtain the benefit of the CEE incurred directly by Terra.
+
+THE SITE
+
+[59] In 1981 Terra took over what was then the Duke Project and renamed it the Bullmoose Project. Its geographic location being east of Yellowknife, North West Territories, near Bullmoose Lake.
+
+[60] The site was difficult, remote and isolated. The weather was cold and windy in summer and colder and windier in winter. Access was extremely limited and winter ice roads had to be used to bring in equipment. The costs of transportation to the site were significant including the costs to bring in the pilot plant.
+
+[61] The ore deposits at Bullmoose, believed to have gold content, were the subject of a number of exploration adventures going back as early as 1939. From 1981 to 1985, the Appellant and others engaged in what could simply be referred to as exploration and testing. These activities are not in question. In January 1986, Terra started stoping and on March 20, 1996 Terra brought on-line a portable ore processing mill with which they processed the ore from the stopes and stock-piles. On March 31, 1987, Terra decided to withdraw from the project and the announcement was made that the mill would shut down.
+
+CANADIAN EXPLORATION EXPENSES
+
+“THE PURPOSE”
+
+[62] The test that is applicable in determining what expenditures amount to CEE within the meaning of the Act is found within subparagraph 66.1(6)(a)(iii). It reads in part that CEE is “any expense incurred ... for the purpose of determining the existence, location, extent or quality of a mineral resource..”. I also take note that subparagraph 66.1(6)(a)(iii.1) also limits what is a CEE to amounts expended for the “purpose” of bringing a mine into production.
+
+[63] In Johnson’s Asbestos Corporation v. M.N.R., 65 DTC 5089 (Ex. Ct.), at page 5093 Jackett J. commenting on then subparagraph 83A(3)(c)(ii) stated that “the test of whether an operation is or is not an exploration operation is the purpose for which the operation was carried on, and not whether or not there was a resulting discovery”. Likewise, I conclude there is little or no consideration in the purpose test of the amount of gold found at or produced from the Bullmoose site and instead concentrate on the purpose of Terra’s activities.
+
+PURPOSE
+
+[64] Counsel for the Appellant has suggested that the purpose test must consider both the subjective and objective intent of Terra. He put forth as authority for this the decision of the Federal Court of Appeal in Soper v. The Queen, 97 DTC 5407, which I distinguish from the present case on the basis that subsection 227.1(3) does not require consideration of the “purpose” of a director’s actions in determining whether he or she exercised care and diligence that a “reasonably prudent person would have”.
+
+[65] Counsel for the Crown submits that an objective analysis should be used to determine Terra’s true purpose in incurring the expenses. In support of this position, counsel, in written submission quoted Robertson J.A. of the Federal Court of Appeal in 74712 Alberta Limited v. The Queen, 97 DTC 5126 at page 5135. I reproduce the full paragraph as follows:
+
+Third, I see nothing in the jurisprudence, in particular the reasons of Bronfman, which requires a subjective appreciation of the motives or intent underlying the taxpayer's decision to borrow funds: see also Symes v. The Queen, [1993] 4 S.C.R. 695 at 736 to the same effect in the context of paragraph 18(1)(a) of the Act. The words "use" and "purpose" are used in paragraph 20(1)(c) in an objective not subjective sense. It is important to recognize that terms such as "motive, intent, reason, purpose, object and effect" can be applied or interpreted differently, depending on the statutory context in which they are invoked: see generally The Queen v. Placer Dome Inc. (5 November 1996), A-259-96 (F.C.A.), [1996] F.C.J. No. 1435, and J.F. Avery Jones, "Nothing Either Good or Bad, But Thinking Makes It So — The Mental Element in Anti-Avoidance Legislation" (1983)British Tax Review 9.
+
+[66] Counsel for the Appellant has submitted that the Minister of National Revenue’s (the “Minister”) and for that matter this Court’s consideration of the activities of Terra must not be done solely with the perfection of 20:20 of hindsight.
+
+[67] In relation to “hindsight” determination, in Tonn et al. v. The Queen 96 DTC 6001 (F.C.A.), Linden, J.A. (Strayer and McDonald, JJ.A. concurring) identified that the Moldowan v. The Queen, [1978] 1 S.C.R. 480 (S.C.C.), test had an “objective nature”. He also noted the frequent criticism that such a test was subject to the risk of “hindsight” analysis at page 6008:
+
+[T]he Moldowan test, though similarly worded, does not derive from any of the deductibility provisions in sections 9, 18, and 20. The test is much like the business intention tests of subsection 9(1) and paragraph 18(1)(a), but it contemplates stricter application because of its objective nature. To be sure, the objective aspect of the Moldowan test is the most significant feature distinguishing it from the general deductibility tests in the Act. This feature of the test has been criticized because objective reasonability may be used unfairly to police the business decisions of taxpayers from a position of hindsight.
+
+[68] It is my opinion the Federal Court of Appeal’s reasoning in Tonn (supra), as far as it relates to identifying the appropriate application of an objective test, is an appropriate consideration in the present case.
+
+[69] The question I must answer then becomes: does the Appellant receive the benefit of a deduction where Terra incurred expenses for doing what Mr. Farquharson would suggest was poorly directed work and in the opinion of others using a mining mentality to conduct exploration. Again, I turn to Tonn (supra) wherein Linden, J.A. goes further to comment on the consideration of poor business judgement at page 6009 where he states:
+
+But do the Act's purposes suggest that deductions of losses from bona fide businesses be disallowed solely because the taxpayer made a bad judgment call? I do not think so. The tax system has every interest in investigating the bona fides of a taxpayer's dealings in certain situations, but it should not discourage, or penalize, honest but erroneous business decisions. The tax system does not tax on the basis of a taxpayer's business acumen, with deductions extended to the wise and withheld from the foolish. Rather, the Act taxes on the basis of the economic situation of the taxpayer — as it is in fact, and not as it should be, subject to what is said below.
+
+(emphasis added)
+
+[70] Applying an objective approach in determining whether Terra incurred expenses for the purpose set out in subparagraph 66.1(6)(a)(iii) requires that this Court look at the evidence before it and determine if the activities engaged in by Terra were, in a reasonable person’s perspective, objectively carried on for the purposes of exploration.
+
+[71] The volume of evidence before me is enormous. I have heard generally the competent and credible testimony of nine witnesses in this case, a number of which were experts. I have reviewed four detailed expert reports created with reference to documentary information resulting from the operation of Terra and two rebuttal reports. Counsel for the Appellant and for the Respondent have supplied the Court with four large volumes of documents necessary for the determination of this case and more documentary evidence was submitted at trial.
+
+[72] As I have noted, Terra’s involvement with the Bullmoose site went on for a number of years leading up to 1986. I believe it is fair to say that the amount expenditures made by Terra in 1986 and the number of activities engaged in by Terra during that year were great.
+
+[73] In the most general terms what I must then determine on an objective basis is if at the beginning there was an exploration intent, and if I so find, was there a point when Terra’s actions, through the bulk sampling and test milling, indicate that their purpose was no longer “grass-roots” exploration that they lost their exploration purpose and began mining.
+
+[74] In doing so, the Court must guard against second-guessing the business decisions of Terra’s management. One must exercise caution not to penalize for poor business decisions. Again I refer to Tonn (supra) at pages 6012-13 which states as follows:
+
+The primary use of Moldowan as an objective test, therefore, is the prevention of inappropriate reductions in tax; it is not intended as a vehicle for the wholesale judicial second-guessing of business judgments. A note of caution must be sounded for instances where the test is applied to commercial operations. Errors in business judgment, unless the Act stipulates otherwise, do not prohibit one from claiming deductions for losses arising from those errors.
+
+...
+
+This criticism was echoed by Bowman, T.C.C.J. in Bélec v. Q, where he stated:
+
+It must be noted that these losses were incurred solely in a business context. There was no personal element, either in his purchase nor in his use of the building. The appellant is an experienced businessman. He took his decision in good faith on his best judgment and on the facts available to him at the time. It is not up to the Minister (or this Court) to substitute his business acumen for that of the taxpayer, with the benefit of hindsight. The question to be asked is not, "Knowing what I know now, would I have embarked upon this enterprise?" The answer is no doubt "No", because the question only comes up when there are losses.
+
+And finally, the same caution was reiterated in Nichol v. Q.:
+
+[Mr. Nichol] made what might, in retrospect, be seen as an error in judgment but it was a matter of business judgment and it was not one so patently unreasonable as to entitle this Court or the Minister of National Revenue to substitute its or his judgment for it, or penalize him for having made a judgment call that, with the benefit of 20-20 hindsight, that Monday morning quarterbacks always have, I or the Minister of National Revenue might not make today. We were, after all, not there in 1986.
+
+Though I do not support the use in the Nichol case of the word "patently," I otherwise agree that the Moldowan test should be applied sparingly where a taxpayer's "business judgment" is involved, where no personal element is in evidence, and where the extent of the deductions claimed are not on their face questionable. However, where circumstances suggest that a personal or other-than-business motivation existed, or where the expectation of profit was so unreasonable as to raise a suspicion, the taxpayer will be called upon to justify objectively that the operation was in fact a business. Suspicious circumstances, therefore, will more often lead to closer scrutiny than those that are in no way suspect.
+
+CONCLUSION
+
+[75] I accept the testimony of Dr. Kilburn and Dr. Sinclair that bulk sampling of gold bearing veins for grade verification was an appropriate exploration method at the Bullmoose site.
+
+[76]The pilot mill was operated for a longer period that would be expected for a bulk sampling method.
+
+[77]The continuous operation and ore size of the pilot plant, the mixture of mill feed sources and the lack of rigorous segregated batching and testing made grade verification impossible.
+
+[78]There was a consensus aside from the divergent view of Dr. Kilburn that a bulk sample of smaller proportion given the grade variations and the mineralization would have given all the information necessary to determine grade verification of the gold bearing veins.
+
+[79]Moreover, there is ample evidence to support Dr. Sinclair’s conclusion that this was gold exploration with mining methods conducted by mining personnel.
+
+[80]The “hindsight” report of Dr. Sinclair reviewing Terra’s data indicates that an analysis of 43-day, 100-day and 314-day periods of gold recovery results showed “no significant improvement in gold recovery”.[9]
+
+[81]Bulk sampling of the Bullmoose Lake gold bearing veins was an appropriate method of exploration although the bulk sampling as conducted by Terra was excessively large. I also find at a point in time, October 31, 1986, bulk sampling became unreasonable and that the mineral exploration activities of Terra in effect concluded at Bullmoose.
+
+[82]In assessing compliance with exploration purpose the Court is directed albeit in hindsight towards opinions as to appropriate methods and standards as set forth by the witnesses. In determining guidelines in the purpose analysis, the Court must bear in mind that exploration does not operate in a vacuum and the variations that deviate from an ideal standard that faced Terra are realities and must be accounted for and weighed including exploration risk, location, climate, personnel, financial resources and the express or implied intentions and actions of the parties.
+
+[83]I can not conclude from all the evidence presented that Terra’s intention at the outset was to conduct an exploration program to solve Terra’s continuing financial difficulties nor that the activities of selling the gold recovered from the program was simply a source of continuous funding. There were elements of the evidence that showed the recovery of gold was a source of funds that was considered in planning, but that evidence does not transcend the purpose nor change the focused purpose of the exercise at the outset or indeed until October 1986. Thereafter, considering the evidence tendered I find the purpose changed and the purpose direction deviated from the agreement the Appellant had with Terra.
+
+[84]As of October 31, 1986, Terra, if it did not, should have concluded by any reasonable standard that the exploration and the milling were not going to give the grade they required to make a production decision.
+
+[85]Thus, given the variables of Terra’s actual fact circumstance including the knowledge the mine actually did have gold, the adoption of the bulk sampling method, the use of a pilot mill, the mining mentality of Terra and the other stated variables such as risk, location, climate and personnel as well as the guidelines and standards set forth by the experts from the evidence, I find that at the end of October 1986 the “grass-roots” mineral exploration came at an end. For the balance of 1986 (November and December) and for all of 1987 the expenses incurred by Terra were not CEE within the meaning of subparagraph 66.1(6)(a)(iii) of the Act.
+
+[86]It is my understanding that the Minister has allowed the Appellant deductions pursuant to subsection 66.1(3) for certain amounts that the Minister determined were incurred by Terra as CEE within the meaning of subparagraph 66.1(6)(a)(iii) of the Act. With the foregoing findings, I conclude the Appellant should be allowed deductions for expenses incurred by Terra as CEE defined by subparagraph 66.1(6)(a)(iii) of the Act to the date of October 31, 1986 that were previously disallowed.
+
+[87]Paragraph 14 of the Partial Agreed Statement of Facts and the admissions made by counsel at trial, indicate that the Appellant appointed Terra as her agent in the July 11, 1986 agreement in which Terra was to incur “Canadian Exploration Expense qualifying for Mining Exploration Depletion Allowance”.
+
+[88]Though I do not believe that the relationship between Terra and the Appellant was a true agency relationship, which I will comment on further below, for the purposes of determining if the Appellant is able to deduct the CEE incurred by Terra up to the October 31, 1986 date I find that Terra acted as “agent” and that the expenses for that period are deductible by the Appellant pursuant to subsection 66.1(3). The CEE incurred by Terra was that as defined by subparagraph 66.1(6)(a)(iii) and therefore qualified for MEDA pursuant to paragraph 1203(2)(a) of the Regulations.
+
+SECOND ISSUE
+
+[89] Were the expenses incurred by Terra that were not CEE as defined by subparagraph 66.1(6)(a)(iii) of the Act still deductible by the Appellant pursuant to subsection 66.1(3) as the expenses incurred by Terra were CEE within the meaning of subparagraph 66.1(6)(a)(iii.1).
+
+[90] Counsel for the Appellant, with the exception of the pleadings and a limited written submission on this point, did not seriously argue that the expenses incurred by Terra in 1987 were CEE within the meaning of subparagraph 66.1(6)(a)(iii.1) of the Act. The Appellant’s argument was that at no time in 1986 and not until March 1987 did Terra make any decisions regarding the exploitation or abandonment of the mine.
+
+[91] The Appellant’s main thrust was that the CEE was for “grass-roots” exploration and that the management of Terra did not take any action to bring a mine on line. Further, the evidence did not lead to a decision by Terra to bring a new mine into production as CEE within the meaning of subparagraph 66.1(6)(a)(iii.1) of the Act.
+
+THIRD ISSUE
+
+[92] Were the expenses incurred by Terra that were not CEE within the meaning of subparagraphs 66.1(6)(a)(iii) and/or (iii.1) of the Act deductible by the Appellant as expenses in computing business income pursuant to section 9 of the Act.
+
+[93] For this argument to be successful the Court must first find that the expenses of Terra were the expenses of the Appellant and secondly, that the expenses were allowable business expenses. In other words it must be determined that an agency relationship existed wherein Terra was permitted to incur the expenses on the Appellant’s behalf and the Appellant must have been in the business of mineral exploration or mining in order that the expenses be deductible pursuant to paragraph 18(1)(a).
+
+[94] The Appellant’s counsel has argued that the agency relationship identified in the July 11, 1986 agreement and agreed to by the Minister makes the business activities of Terra, and any expenses incurred therein, the business activities of the Appellant thus paving the way for business expense deduction.
+
+[95] In his argument and his written submissions counsel for the Appellant placed considerable emphasis on the statements in examination for discovery of Mr. Matthew Vavasour, an officer with the Department of National Revenue, that the Minister had accepted the agent status of Terra for the purposes of the section 9 deductions.
+
+[96] Excerpts from the transcript of the examination for discovery of Mr. Vavasour, held on September 17, 1997, were put in evidence. The following excerpts, found at pages 16 to 32, highlight to the point that counsel was making:
+
+BY MR. CARR:
+
+Q. Who incurred the expenses in 1986?
+
+A. Well, in 1986 it was Terra that incurred the expenses, and the department has always recognized that, that is was Terra, or any other principal business corporation that incurred the expenses, but we allowed those expenses to flow through to the flow-through investors.
+
+...
+
+Q. You said before that Lynda Mickleborough appointed Terra her agent; is that correct?
+
+A. Yes.
+
+Q. So, Terra was the agent for incurring the expenses for Lynda Mickleborough during 1986?
+
+A. That is right.
+
+Q. And that is what the form of agreement says that is in tab 8 of the plaintiff’s Book of Documents?
+
+A. That is right.
+
+Q. Is that correct?
+
+A. Okay.
+
+Q. And the fourth recital on page 1 states, does it not, that the company, being Terra, has agreed to act as agent for and on behalf of the unit holder to incur such expenses and to issue common shares to the unit holder as a sole consideration for the incurring of the expenses?
+
+A. That is right.
+
+Q. So, Terra was the agent; so it was Lynda Mickleborough who incurred the expenses, and Terra was simply the agent?
+
+A. No, I don’t read it that way. The company has agreed to act as the agent for and on behalf of the unit holder to incur the expenses. Terra was agreeing to incur the expenses, not her.
+
+Q. As agent for?
+
+A. As agent for, that is the wording.
+
+Q. And you are saying on that wording you assumed that the company incurred the expenses?
+
+A. That is right.
+
+...
+
+Q. Why are the expenses incurred by an agent not those of the principal? What fact leads you to believe that the expenses incurred by the principal, Lynda Mickleborough, by her agent are not the expenses of the principal herself?
+
+MS. BURNHAM: Well...I don’t think that is a proper question. You are not asking him for a fact. What you are really asking him for is a conclusion of law.
+
+MR. CARR: You denied that she incurred the expenses. The agreement states quite categorically she did.
+
+MS. BURNHAM: No.
+
+MR. CARR: Are you denying...
+
+MS. BURNHAM: The agreement, page 4, paragraph 3(A) states that:
+
+“...The unit holder hereby irrevocably appoints the company as its agent to incur for and on its behalf CEE...”
+
+so it is the agent that is incurring. That is all Mr. Vavasour is saying; that it is Terra Mines that is going out and incurring the expense in the sense of spending the money.
+
+BY MR. CARR:
+
+Q. Okay. How is it relevant to your position that you take the position that it is Terra that is incurring them and not the appellant? Why is it relevant to your position, and why are you denying what seems to me to be an obvious fact, that where an agent does something for somebody else, the principal is doing it himself or herself?
+
+MS. BURNHAM: Well, I think that is a legal argument, but I know what you want to do with this. You want to then take the next step and say because we have admitted that Lynda Mickleborough was incurring the expenses, therefore, she is in the business of mining.
+
+MR. CARR: We will come to that later.
+
+[97] It was Mr. Carr’s position that the agency relationship went so far as to make the mining business of Terra the mining business of the Appellant. Counsel for the Respondent’s contention was that this agency relationship was for the purposes of incurring the CEE only and not for the purposes of operating a business and with this I concur. The amounts which Terra, as agent, agreed to expend were CEE as defined in the July 11, 1986 agreement:
+
+1. DEFINITIONS
+
+...
+
+(f) “Canadian Exploration Expense” or “CEE” means Canadian exploration expense as the term is from time to time defined in paragraph 66.1(6)(a)(iii) of the Act;
+
+...
+
+(u) “Qualifying Expenditures” means the expenditures of all or a portion of the Commitment Amount by the Company as agent for and on behalf of the Unitholder not previously claimed by the Company in carrying out the Program which is CEE qualifying for MEDA and made or incurred between the date hereof and the Expenditure Date and will be eligible for deduction from income for income tax purposes for the 1986 taxation year;
+
+...
+
+3. QUALIFYING EXPENDITURES
+
+...
+
+(C) QUALIFYNG EXPENDITURES
+
+The company covenants that any portion of the Commitment Amount expended will be expended on the Program solely to incur Qualifying Expenditures that will qualify for deduction from income for purposes of the Act for the 1986 taxation year. The Company will use its best efforts to expend the full Commitment Amount by the Expenditure Date. In the event that any of the Unitholder’s Subscription Funds are not expended on or prior to the Expenditure Date, they will be returned to the Unitholder by March 15, 1987, together with interest thereon.
+
+[98] Counsel for the Respondent’s submissions imply that the Minister only admitted that agency existed for the purposes of incurring CEE as defined by subparagraph 66.1(6)(a)(iii) of the Act.
+
+[99] The problem I conclude is that the so-called agency relationship between the two parties relies heavily on the July 11, 1986 “flow-through” share purchase agreement. Without the agreement there would have been no agency relationship.
+
+[100] In this case, the terms of such agreement were expressly stated in the July 11, 1986 contract between the Appellant and Terra. Since actions of a party’s agent outside the express terms of a contract are not per se the actions of the principal the Appellant cannot be said to have incurred the expenses that were actually incurred by Terra.
+
+[101] The intention of the Appellant in terms of agency was to obtain the “flow-through” shares, rights and obligations in Terra and not an agency relationship wherein Terra was to incur the expenses on the Appellant’s behalf and the Appellant was in the business of mining exploration or mining. I conclude from the evidence the Appellant was not in the business of mining exploration or mining.
+
+DECISION
+
+[102]The appeal is allowed for the 1986 taxation year and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that Terra Mines Ltd. on behalf of the Appellant incurred deductible CEE including the extraction of ore (mining) and the milling of ore until October 31, 1986.
+
+[103]For the remainder of 1986, the Appellant is entitled to no further relief.
+
+[104]For the 1987 taxation year, the appeal is dismissed.
+
+[105]The results being mixed there will be no order as to costs.
+
+Signed at Ottawa, Canada, this 13th day of August 1998.
+
+“D. Hamlyn”
+
+J.T.C.C.
+
+[1] ‘Nugget effect’ is a term used to describe a high, average local variability in grades between adjacent samples. It is caused by irregularly distributed gold particles within the ore block. If the gold particle distribution is not uniform a small drill sample of the ore block could either underestimate or overestimate the gold content of the block as a whole.
+
+[2] Exhibit A-1, Volume 1, Tab 20.
+
+[3] Exhibit A-1, Volume 4, Tab 71.
+
+[4] Exhibit A-1, Volume 1, Tab 19.
+
+[5] Exhibit A-1, Volume 2, Tab 21, page 6.
+
+[6] Exhibit A-1, Tab 28, page 3.
+
+[7] Exhibit A-1, Tab 19.
+
+[8] In addition to the CEE, the Act also allows similar “flow-through” and deduction amounts for Canadian development expenses and Canadian exploration and development expense which fit into the scheme of promoting mineral resource exploration by way of tax incentives.
+
+[9] At page 56.
+

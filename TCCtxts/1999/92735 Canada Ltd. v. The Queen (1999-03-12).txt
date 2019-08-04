@@ -1,0 +1,214 @@
+Date: 19990309
+
+Docket: 97-2811-IT-G
+
+BETWEEN:
+
+92735 CANADA LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bowman, J.T.C.C.
+
+[1] The appellant appeals from reassessments for the 1987, 1988, 1989, 1990 and 1991 taxation years.
+
+[2] The issue is the proper treatment of interest that accrued but was not paid on certain loans made by the appellant in the years in question, and the effect on the appellant's income of the bad and doubtful debt provisions of the Income Tax Act.
+
+[3] The appellant was incorporated in 1979 under the Canada Business Corporation Act. Its sole shareholder was, and continues to be, Mr. George Windsor, a barrister and solicitor. Its purpose and apparently sole function was to invest, through subscriptions for shares and the making of loans, in a company Technetronic Inc. The funds for the investments that it made in Technetronic were all from loans made to it by Mr. Windsor.
+
+[4] Technetronic was engaged in the development of computer software relating to the management and assessment of mainframes and, in particular, in eliminating bottlenecks in mainframes and, latterly, in networks.
+
+[5] The product which Technetronic was developing was sophisticated and, to use Mr. Windsor's word, revolutionary. It also required large amounts of money.
+
+[6] The appellant began advancing money, either by way of loans or share subscriptions, to Technetronic in 1980. After the initial investments, the Toronto Dominion Bank was persuaded to invest $1,000,000 in equity of Technetronic and as part of that transaction the appellant and other investors converted some of the debt owing to them to equity. The appellant converted $160,000 of its debt to equity.
+
+[7] Technetronic had 25-30 shareholders. The appellant ultimately became the lead and, finally, the only lender. It owned, in the years in question, about 20% of the issued shares of Technetronic.
+
+[8] Technetronic had little revenue, but enormous cash needs and the appellant funded its day-to-day operations on a bi-weekly basis. Mr. Windsor was well aware of the cash needs of Technetronic, since he was a director.
+
+[9] On March 18, 1985, Technetronic entered into a General Security Agreement with the appellant and "Such other parties as may make advances to the Debtor [Technetronic] evidenced by notes that refer to and are secured by this General Security Agreement".
+
+[10] The Agreement provided in part as follows:
+
+2. By his or its acceptance of a promissory note issued by the Debtor and secured by this Agreement each Secured Party shall be deemed conclusively to have agreed with each other Secured Party to co-operate fully and harmoniously with all Secured Parties, to attend meetings and respond promptly to requests to sign resolutions in writing, and, on any realization of the Collateral, in the event of any shortfall to share pro rata in the amount realized. Apart from demanding of the Debtor payment of the amounts owed to him or it, a Secured Party shall take no individual action under this Agreement or against the Debtor and, by his or its acceptance of a promissory note issued by the Debtor and, by his or its acceptance of a promissory note issued by the Debtor and secured by this Agreement, each Secured Party shall be deemed conclusively to have agreed accordingly.
+
+...
+
+16. ....
+
+(i) Except as herein otherwise expressly provided all moneys arising from the enforcement of the provisions of this Agreement and the Notes shall be applied, together with any other moneys then in the hands of the Secured Parties available for such purpose, in the first place to pay or reimburse to the receiver or receiver and manager the costs, charges, expenses, advances and compensation of the receiver or receiver and manager in or about the execution of its duties, or otherwise in relation hereto, with interest thereon as herein provided, and in the second place to pay all taxes, assessments and other charges ranking in priority to the Notes, and in the third place the residue of said moneys shall be applied:
+
+(1) first, in or towards payment of the principal of the Notes for the time being outstanding and second, in or towards payment of the accrued and unpaid interest and interest on overdue interest on such Notes, rateably and proportionately and without preference or priority as between Secured Parties and principal and interest, provided that no payment of which has been extended, whether by purchase or funding or otherwise,
+
+(2) the surplus, if any, of such moneys shall be paid to the Debtor or is assigns.
+
+[11] A promissory note was signed by Technetronic in favour of the appellant. It was not put in evidence (having been lost), but it was evidently in approximately the form of one that was given to another creditor and read as follows:
+
+TECHNETRONIC INC.
+
+SECURED PROMISSORY NOTE
+
+9TH April 1985
+
+ON DEMAND after June 30th, 1985 the undersigned promises to pay to U.S. Portfolio Leasing Inc. the sum of C$9,994.00 with interest thereon calculated and payable monthly at the rate of 15% per annum until said sum is paid, together with interest on overdue interest at the aforesaid rate, as well after as before maturity, default, and judgment until the date of actual payment. This Secured Promissory Note evidences a shareholder advance secured by a General Security Agreement dated the 18th day of March 1985 made between the undersigned, 92735 Canada Limited, and such other parties as may make advances to the undersigned that are to be secured by the General Security Agreement and which created a security interest in and to the assets of the undersigned (subject only to a charge in favour of The Royal Bank of Canada securing a business improvement loan). VALUE RECEIVED.
+
+TECHNETRONIC INC.
+
+Per:__________________________
+
+John H. Gray
+
+President
+
+Per:__________________________
+
+Brian R. Patterson
+
+Controller
+
+[12] The difference between this note and that given to the appellant is that the latter was not for a fixed amount, but referred to the amounts shown on the books of Technetronic as owing to the appellant.
+
+[13] Interest under the note was payable at 15% and, under the Security Agreement, was payable after principal and in priority to interest on overdue interest. Principal was payable on demand.
+
+[14] It is agreed that the appellant from 1986 to 1994 loaned money to Technetronic as follows:
+
+Year
+
+Loan Increase
+
+Loan Balance
+
+1986
+
+$1,448,860
+
+$1,448,860
+
+1987
+
+1,179,860
+
+2,628,720
+
+1988
+
+863,890
+
+3,492,610
+
+1989
+
+646,010
+
+4,138,620
+
+1990
+
+188,000
+
+4,326,620
+
+1991
+
+343,000
+
+4,669,620
+
+1992
+
+42,107
+
+4,711,727
+
+1993
+
+76,766
+
+4,788,493
+
+1994
+
+141,682
+
+4,930,175
+
+[15] No amount of principal was ever repaid and no interest was paid. Indeed the appellant never demanded payment. Mr. Windsor stated that he hoped that ultimately Technetronic would make a large profit and be able to repay the amounts it owed. Today the company is defunct. During the years when the appellant was advancing money it was a bottomless money pit and, while Mr. Windsor stated that he felt optimistic when the appellant advanced the money about Technetronic's ultimate ability to pay, it was perfectly obvious that it kept lending money in the hope that ultimately things would turn around. If the appellant stopped lending money and put Technetronic into receivership, as it could obviously have done, all of the investment up to that point would be lost.
+
+[16] The interest that accrued on the loans was as follows:
+
+Year Interest
+
+1987 $212,762
+
+1988 390,840
+
+1989 523,035
+
+1990 612,948
+
+1991 647,038
+
+[17] The appellant did not initially file returns, on the view that it had no income, a fact that, apart from the provisions of the Act, was inescapable as a matter of economic reality. When returns were demanded the appellant filed returns showing nil income, on the basis that it was entitled to use the cash method of recording the interest income. The Minister assessed originally by including the accrued interest income in the appellant's income and also assessed substantial penalties for gross negligence. These have since been dropped.
+
+[18] On objection the Minister allowed reserves for doubtful accounts under paragraph 20(1)(l) of the Act:
+
+Year Reserve
+
+1989 $ 603,602
+
+1990 1,126,637
+
+1991 2,386,623
+
+[19] An analysis of these figures and a comparison of them with the interest that accrued as set out above, reveals the following:
+
+(a) No reserve was allowed in 1987 and 1988.
+
+(b) The reserve of $603,602 allowed in 1989 was simply the aggregate of the interest that had accrued for 1987 and 1988 ($212,762 and $390,840).
+
+(c) The reserve allowed in 1989 of $603,602 absorbed the interest income that accrued in 1989 of $523,035, leaving $80,567. This amount was carried back to 1987, leaving the appellant with $132,195 income in that year.
+
+(d) In 1990, a reserve of $1,126,637 was allowed. This was simply the aggregate of the interest that had accrued for 1987, 1988 and 1989. However, in 1990 there was included the interest income of $612,948 that had accrued in that year plus the prior year's reserve of $603,602 that had to be brought back into income under paragraph 12(1)(d).
+
+(e) In 1991, a reserve of $2,386,623 was allowed. This amount represented the total of all of the interest that had accrued in 1987, 1988, 1989, 1990 and 1991. The effect of this was to eliminate the income of $647,038, the interest accrued in that year, and the $1,126,637, the 1990 reserve which had to be brought into income in 1991.
+
+[20]The point of all this is that because losses can be carried back only three years there are unused capital losses of $132,195 which cannot be used to reduce the 1987 income to nil and which must therefore be applied to years subsequent to 1991. This is of questionable value to the appellant, considering its financial condition in those years.
+
+[21] It will be observed that it was not the appellant who calculated the reserves. It was the Minister, at the objection level, who did so. The calculation of the reserves was apparently premised on the idea that the 1987 and 1988 accruals did not become doubtful until 1989. The Minister's view was that the 1989 accrual became doubtful in 1990 and the 1990 and 1991 accruals became doubtful in 1991.
+
+[22] Counsel for the appellant argued that it was entitled to use the cash method of accounting for the interest income and that since no interest was ever received it had no income. In support of this position he relies upon a decision of Thurlow J., as he then was, in Industrial Mortgage and Trust Co. v. M.N.R., [1958] Ex. C.R. 205; 58 DTC 1060, where the Exchequer Court permitted the taxpayer to use the cash method in respect of some of its loans and the accrual method in respect of others.
+
+[23] The correctness of the decision within the context of the legislation that existed then has never been questioned but it has been superseded by subsection 12(3), which, in its original form was introduced in 1975. In the years under appeal it read as follows:
+
+Notwithstanding paragraph (1)(c), in computing the income for a taxation year of a corporation, partnership, unit trust or any trust of which a corporation or a partnership is a beneficiary, there shall be included any interest on a debt obligation (other than interest in respect of an income bond, an income debenture, a small business development bond, or a small business bond) that accrued to it to the end of the year, or became receivable or was received by it before the end of the year, to the extent that the interest was not included in computing its income for a preceding taxation year.
+
+[24]I agree with Ms. Tataryn's submission on this point. In my view subsection 12(3) is clear and unambiguous. Where interest accrues a corporate taxpayer must include it in income, even though it is neither received nor receivable. The meaning to be given to the word "accrued" may be taken from the decision of the Supreme Court of Canada in Metropolitan Trust c. Morenish Land Developments Ltd. [1981] 1 S.C.R. 171 at page 179 where Estey J. said:
+
+The problem must, of course, be approached as fundamentally one of contract construction. Where the term "per annum" is unqualified by other expressions in the mortgage, the cases have consistently found that it means calculated and payable per annum. However, it also must be borne in mind that interest, however payable, accrues on a per diem basis, as was stated by the Vice Chancellor in In re Rogers' Trusts4, at p. 341:
+
+In the present case, the interest payable on the debentures, though payable half-yearly, is not an entirety, but is an accumulation of each day's interest, which accrues de die in diem; and which, though not presently payable, is still due.
+
+[25] If follows that the interest that accrued each year was to be included in the appellant's income.
+
+[26] This does not of course end the matter. The simple and indisputable economic fact is the appellant never received a penny of interest income. The appellant's loans to Technetronic were in the nature of a salvage operation â€” a desperate and, as it turned out, futile attempt to keep Technetronic afloat. Notwithstanding Mr. Windsor's courageous optimism at no time in the entire association of the appellant with Technetronic was the latter in a position to pay either the principal or the interest. Although a number of authorities were referred to relating to when a debt becomes bad or doubtful, or who should make the determination, it strikes me that as a matter of simple objective fact the obligations of Technetronic to the appellant were doubtful from the outset and in their entirety. Whether they were bad debts or not within the meaning of paragraph 20(1)(f) (see Flexi-Coil Ltd. v. The Queen, 96 DTC 6350), they were unquestionably doubtful within the meaning of paragraph 20(1)(l) in the year in which they were made. There was no basis for deferring until a later year the treatment as doubtful of the interest that accrued in one year. Where it is plain that debts are doubtful there is no room for substituting a taxpayer's subjective views, whether they be optimistic or pessimistic, for the objective facts. Here Technetronic had no revenues and no means whereby it could satisfy any portion of its obligations and the only reason it survived as long as it did was through the appellant's, and indirectly, Mr. Windsor's largesse.
+
+[27] I have concluded therefore that the interest that accrued in each year became a doubtful debt in the year in which the interest accrued. The result is that the accruals for each year will be offset by the amount of the reserve so that effectively the appellant's income in each year is nil.
+
+[28] The respondent has conceded that the late filing penalty of $25,378 imposed in 1989 should be deleted.
+
+[29] The appeals are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+Signed at Ottawa, Canada, this 9th day of March 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

@@ -1,0 +1,232 @@
+Date: 20020718
+
+Docket: 2001-4568-GST-I
+
+BETWEEN:
+
+CALVIN D. BRUNER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for order
+
+(Delivered orally from the Bench at
+
+Toronto, Ontario, on July 12, 2002)
+
+Bowie J.
+
+[1] There are two motions brought before me by the Respondent in this appeal. The first is for an Order striking out the notice of appeal and quashing the appeal. In that motion the Respondent asks, in the alternative, for an Order extending the time limited by section 18.3003 of the Tax Court of Canada Act for filing a reply to the notice of appeal. The second motion is brought, in the event that the first motion fails, for an Order adjourning the hearing of the appeal, which is presently fixed to take place on July 25, 2002. The grounds advanced by counsel for the Respondent in support of the first motion are that the appeal is from what is often called a "nil" assessment, and that no appeal lies from such an assessment, and that the notice of appeal specifies no relief that is sought by the Appellant.
+
+[2] Before considering these arguments, however, it is necessary to set out the factual background of the transactions giving rise to the appeal, and also the history of the appeal itself. For this purpose, I have assumed the facts alleged in the notice of appeal to be true. I have also read the notice of appeal of 1088275 Ontario Limited v. The Queen (file no. 2001-4569(GST)G), which I shall call the company. It is a company incorporated by Mr. Bruner, of which he is the sole shareholder, director and officer. I have done so because a proper understanding of the matters at issue in Mr. Bruner's personal appeal requires some understanding of both sides of the transaction. Both notices of appeal are prolix, and they both are replete with pleas of evidence, in addition to the material facts. However, I shall briefly summarize those facts which are particularly relevant to these motions. I emphasize that for purposes of the motion to quash the appeal, I am bound to assume that the facts pleaded in the notice of appeal are capable of proof, and so I have proceeded on that assumption, but of course I have heard no evidence, and so I make no finding as to that. The return filed by the Appellant under the Excise Tax Act (the "Act"), and the notice of assessment giving rise to the appeal are documents referred to in the notice of appeal, and so I am at liberty to refer to them for purposes of the motion to quash the appeal. They were put before me by way of affidavit evidence.
+
+[3] Mr. Bruner incorporated the company on July 4, 1994. From the outset, he has been the sole shareholder, officer and director. Its directing mind is his. The company and Mr. Bruner both became registrants under the provisions of Part IX of the Act on July 7, 1994. The first reporting period for each of them ended on July 31, 1994. On July 5, 1994, Mr. Bruner registered the trade name "More Black Ink" under the Ontario Business Names Act. It cost him $60.00 to do so. On July 29, 1994, he sold that trade name to the company, and in payment for it the company gave him a non-interest bearing promissory note with a face value of $l trillion dollars ($1,000,000,000,000), having a maturity date 499 years in the future, that is on July 29, 2493. Mr. Bruner alleges that this was a commercial transaction carried out in furtherance of a business to be conducted by the company, the details of which I need not go into for purposes of these motions. At the same time, the company gave a second promissory note to Mr. Bruner (the GST note) purportedly to satisfy its obligation under section 165 of the Act to pay goods and service tax (GST), and to satisfy Mr. Bruner's obligation to collect it. This was also a non-interest bearing note, but payable to the bearer on demand, in the amount of $70 billion dollars ($70,000,000,000), which of course is 7% of $1 trillion. Under the terms of this note, the company was entitled to offset against its obligation to pay the face amount to the bearer any amounts owed to the company by the bearer. On or about July 31, Mr. Bruner filed a GST return for the company for the reporting period ending July 31, 1994. On August 30, he filed a GST return for himself, for the same period. Along with the return, he tendered the GST note, purportedly to satisfy his liability to remit GST that he had collected on the sale transaction. Ignoring for present purposes the effect of one or two other small transactions carried out by the company, the purported effect of these returns was the following. The Appellant reported sales of $1 trillion, and liability to remit GST collected, at the rate of 7%, in the amount of $70 billion. He claimed to have satisfied that liability by the tender of the GST note. The company claimed an input tax credit of $70 billion, and a net tax refund of that amount. At this point, I shall quote directly paragraphs 23 to 31 of the company's notice of appeal.
+
+23. On August 26, 1994, Bruner as an officer and director and the directing mind of the Appellant, sent Revenue Canada a second letter (the "Second Letter"). The Second Letter enclosed the Agreement and reiterated Bruner's request in the Letter that Revenue Canada offset the Appellant's input tax credit and Bruner's obligation to remit the GST Note. The Second Letter, which was addressed to Ms. Lisa Kelly, a Revenue Canada official, again asked for a prompt response from Revenue Canada because Bruner was required to file his personal GST return in respect of his reporting period by August 31, 1994.
+
+24. Bruner spoke with Ms. Kelly, and she advised him to remit the GST Note and file his personal GST return, which he did on August 30, 1994, as a decision on the offset would not be possible prior to August 31, 1994.
+
+25. Between August 25 and September 20, 1994, Bruner made numerous calls to Revenue Canada to speak with auditors in an attempt to obtain additional information and arrange for an opportunity to attend at Revenue Canada's offices to accept the presentment of the GST Note for payment by Revenue Canada.
+
+26. On or about September 14, 1994, Bruner called Mr. Lorn Tarnow, the audit manager for Revenue Canada, and was advised by Mr. Tarnow that the file had been transferred to Revenue Canada's Ottawa Headquarters, and that he and/or the Company could expect to be assessed.
+
+27. On or about September 19, 1994, Mr. Bruner was contacted by Mr. Norman Mar, an officer of Revenue Canada, and a meeting was arranged for September 21, 1994 for payment of the refund.
+
+28. On September 21, 1994, Bruner attended at Revenue Canada to meet Mr. Norman Mar. At this meeting with Mr. Norman Mar, the GST Note was presented to Bruner, as President of the Appellant, for payment, and applied against the Appellant's net tax refund for the Reporting Period.
+
+29. An acknowledgment of receipt of $69,999,999,993 was, at the time of the meeting with Mr. Norman Mar, given to Revenue Canada. The $69,999,999,993 was made up of the amount of the promissory note of $70,000,000,000 less an amount paid by cash of $7.00 in respect of GST that resulted from the consulting services rendered.
+
+30. Receipts were provided to Bruner for both the $7.00 in cash payment to Revenue Canada and the payment of the Note.
+
+31. No assessment was issued in respect of the Appellant's Return during the four years after August 31, 1994, which was the later of the day on or before which the Appellant's Return was filed.
+
+[4] Both notices of appeal go on to plead in some detail evidence as to dealings between Mr. Bruner and Revenue Canada over a period of some years during which Mr. Bruner, on behalf of the company, asserted the right to be paid interest in respect of the net tax refund of $70 billion, pursuant to subsection 229(3) of the Act. The quantum of this interest sought on behalf of the numbered company is not specified in either notice of appeal. Counsel for the Respondent stated in argument that the amount of interest at issue is approximately $300 million. My own rough calculation verifies that it is indeed in that order of magnitude. This is the pot of gold that Mr. Bruner hopes to retrieve at the end of his personal rainbow.
+
+[5] Returning to the facts alleged in the two notices of appeal, on July 30, 1999, the Minister issued notices of assessment to both Mr. Bruner personally and the company. These purport to adjust the tax which Mr. Bruner was liable to collect and remit to "nil", and to adjust the net tax refund to which the company is entitled to "nil". The stated reason for the adjustment, at least in the case of Mr. Bruner, is that "Minister has determined that the sale of the trademark to 1088275 Ontario Limited was not a bona fide commercial transaction ...". The company and Mr. Bruner both delivered notices of objection to these assessments, they have been confirmed, and they have appealed from them to this Court.
+
+[6] Mr. Bruner, as the directing mind of the company, elected that the company's appeal would be conducted under the general procedure of this Court. He also elected that his own appeal would be conducted under the informal procedure. Mr. Bruner's notice of appeal, which I am now asked to quash, was filed on December 21, 2001. On March 7, 2002, the Attorney General of Canada applied under section 18.3002 of the Tax Court of Canada Act to have this appeal carried on under the general procedure. The Attorney General is entitled as of right to such an Order, if the application for it is brought within 60 days following the filing of the notice of appeal. The application was brought late however, and so the matter became a discretionary one. On May 1, 2002, the Honourable Judge Miller dismissed the application. The Attorney General has applied to the Federal Court of Appeal for judicial review of that Order under section 28 of the Federal Court Act, and that application is pending. On May 23, 2002, the Respondent filed the first of the motions that are before me, seeking an Order quashing the appeal. The relief sought in the notice of motion and the grounds for it are:
+
+THE MOTION IS FOR
+
+1. An Order quashing the appeal in this case;
+
+2. In the alternative an Order extending the time for the Respondent to file a Reply to the Notice of Appeal in this case by 60 days from the date of the Order;
+
+3. Such further and other relief as this Honourable Court deems just.
+
+THE GROUNDS FOR THE MOTION ARE:
+
+1. The Appellant is seeking only declaratory relief and is not disputing the amount of the assessment under appeal;
+
+2. The extension of time is reasonable in the circumstances because the Respondent is bringing this request within a reasonable time after the adjudication of its motion to have the Tax Court of Canada's General Procedure apply to this case and because the Respondent has always intended to file a Reply in respect of this matter and to seek an extension of time to do so.
+
+In the meantime, on May 21, 2002, the Registrar of the Court sent notice to both parties that the appeal had been scheduled for hearing on July 25, 2002. The Respondent then filed the second motion that is before me, which is for an Order adjourning that hearing sine die.
+
+[7] With that background, I turn now to consider the two motions that are before me on their merits.
+
+[8] The first question I must decide is whether this Court may entertain an appeal from an assessment made under subsection 296(1) of the Act where that assessment fixes the amount of net tax assessed for the reporting period in question as "nil". Counsel for the Respondent argues that no such appeal will lie, relying on the cases to that effect decided under the Income Tax Act. Those cases were reviewed by Judge Dussault of this Court in Consoltex Inc. v. The Queen, 92 DTC 1567. There, after reviewing the well known authorities, Judge Dussault quoted the following passage from the Judgment of Hugesson J.A. of the Federal Court of Appeal in The Queen v. Consumers Gas Co. Limited, 87 DTC 5008:
+
+What is put in issue on appeal to the courts under the Income Tax Act is the Minister's assessment. While the word "assessment" can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of sections 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.
+
+Judge Dussault then went on to say:
+
+Consequently, I am of the opinion that there is compelling authority that there is no relief to which the Appellant is entitled or which this Court can properly grant.
+
+Since no tax, interest nor penalty was assessed and since the Court cannot increase the amount assessed by the Minister of National Revenue, one can readily understand the logic of the principle that a taxpayer cannot appeal from a nil assessment. It has been decided that whenever a taxpayer alleges that the Minister has erred in computing the tax resulting in a nil assessment, the matter can be dealt with on its merits in other taxation years for which there are no nil assessments and where it is pertinent in determining the taxes owed for those years. ...
+
+In view of the above findings, what the Appellant is in fact seeking is a declaratory judgment on a particular issue relating to the computation of its income for 1980 and 1981 or of its taxable income for future years. In either case, this Court has no authority to issue such a judgment. ...
+
+Counsel for the Respondent also relies on the Judgment of Judge Bonner of this Court in Orlando Corp. v. The Queen, 94 DTC 1046, where, in respect of one issue, he declined to entertain an appeal on the basis that it raised only an academic question, and the Court could not grant any relief that would have a practical result for the Appellant. Relying on the Supreme Court of Canada's judgment in Borowsky v. A.-G. Canada, [1989] 1 S.C.R. 342, he said:
+
+... The courts have a discretion to decline to decide a case which raises an abstract question only.
+
+[9] Counsel argued that as the Appellant's liability under the Act is presently fixed by the assessment at "nil", to allow an appeal and vacate that assessment would necessarily increase the amount of tax payable, which the Court cannot do. The seminal case on that point is Harris v. M.N.R. 64 DTC 5332. The Crown's argument in that case, if it had been accepted, would have led to a judgment allowing the appeal and referring the assessment back to the Minister to disallow one deduction from income, and to allow a lesser one in its place, resulting in an increase in the Appellant's assessed tax. With respect to that, Thurlow J. said:
+
+I do not think, however, that this is the correct way to deal with the matter. On a taxpayer's appeal to the Court the matter for determination is basically whether the assessment is too high. This may depend on what deductions are allowable in computing income and what are not but as I see it the determination of these questions is involved only for the purpose of reaching a conclusion on the basic question. No appeal to this Court from the assessment is given by the statute to the Minister and since in the circumstances on this case the disallowance of the $775.02 while allowing $525 would result in an increase in the assessment the effect of referring the matter back to the Minister for that purpose would be to increase the assessment and thus in substance allow an appeal by him to this Court. The application for leave to amend is therefore refused.
+
+[10] The other reason advanced by the Respondent for quashing this appeal is that the Appellant has not identified in his notice of appeal any specific relief which he claims.
+
+[11] The test to be applied in deciding whether to quash a notice of appeal, and thereby terminate the Appellant's proposed appeal without trial, is that it must be plain and obvious that the appeal cannot succeed: Prior v. The Queen, 89 DTC 5503 at 5504-5. In applying this test the Court must assume that all the allegations of fact contained in the notice of appeal are capable of being established at the trial.
+
+[12] I am not convinced that it is plain and obvious in this case that there is no relief which could be granted to the Appellant following a trial. Conventional wisdom, supported by the case law, is that no appeal lies from a nil assessment made under section 162 of the Income Tax Act. Although there are many similarities between the scheme of the Income Tax Act and the scheme of Part IX of the Excise Tax Act, there are also some fundamental and important differences. One of those is that under the Excise Tax Act the Minister is not obliged to assess a registrant for each reporting period. Section 238 requires a registrant to file a return for each reporting period. That return must report, among other things, the net tax payable, or refund claimed, by the registrant for the period. If the registrant's entitlement to input tax credits exceeds his liability to collect and remit, then he may become entitled to a refund. It is no academic matter if a registrant files a return which claims entitlement to a refund and the Minister, for whatever reasons, assesses the net tax of the person for the reporting period as "nil". Before provision was made in the Income Tax Act for the Minister to make loss determinations at the request of taxpayers there was a very real reason for taxpayers to wish to be able to appeal nil assessments; frequently they arose where the taxpayer had in fact sustained a non-capital loss, and the taxpayer had an interest in establishing the quantum of that loss for carryover purposes. However, the taxpayer could contest the Minister's quantification of the loss in a different year to which he sought to have it carried over. Under Part IX of the Excise Tax Act each reporting period stands alone, and the net tax, whether payable or refundable, must be established for each such period. Consequently, whenever an assessment is issued under that Act, there is the potential for dispute as to its correctness, and there is no later opportunity to contest the correctness of an assessment that fixes the tax for the period at "nil". Therefore, it cannot be said, as it was in certain early income tax cases, based upon the then current wording of the Income Tax Act, that a notification that no tax is payable is not an assessment at all, and is therefore not subject to appeal.
+
+[13] Similarly, it is not plain and obvious to me that there can be no right of appeal for a taxpayer who has been assessed under paragraph 296 for an amount of net tax that is less than the amount that he contends he is liable to pay on a proper application of the law to the facts of his case. The right to object to an assessment is found in subsection 301(1.1) in the following terms:
+
+301(1.1) Any person who has been assessed and who objects to the assessment may, within 90 days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+
+The statute does not limit the right to object to those persons who consider themselves to have been assessed for too great an amount of net tax.
+
+[14] The right to appeal an assessment is conferred by both section 302 and section 306. The appeal in this case is brought under section 306. The relevant part of it reads:
+
+306 A person who has filed a notice of objection ... may appeal to the Tax Court to have the assessment vacated or a reassessment made after either ... [irrelevant]
+
+Nothing there limits the right of appeal to only those persons who assert that the amount of their assessment should be reduced. It may be unusual to wish to have the amount of the assessment increased, but it does not appear to be foreclosed by the statutory language.
+
+[15] Section 309 confers certain powers on the Court in respect of an appeal before it.
+
+309 The Tax Court may dispose of an appeal from an assessment by
+
+(a) dismissing it; or
+
+(b) allowing it and
+
+(i) vacating the assessment, or
+
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+
+Subsection 298(1) limits the period during which the Minister may assess a registrant for a reporting period to four years following the later of the day when the person was required to file a return, and the day that the return was in fact filed. Subsection 298(4) provides that an assessment may nevertheless be made at any time where misrepresentation or fraud on the part of the registrant can be shown. The notices of appeal of both Mr. Bruner and the company allege that the assessments were made outside that time period, and they go on to allege the absence of misrepresentation, fraud or waiver. A reply has been filed by the Respondent in the appeal of the company, and it alleges that there was fraud or misrepresentation on the part of both Mr. Bruner and the company. Counsel advised me that when a reply is filed in this appeal then it too will make the same allegation. I can see no reason why both Appellants, if they succeed on the issue of the lateness of the assessments, and if they succeed on the issue of fraud and misrepresentation, would not be entitled to Judgments vacating the assessments against them. It cannot be said, then, that there could never be any relief available to the Appellant in this appeal.
+
+[16]Counsel for the Respondent is correct that the notice of appeal in this case does not specify the relief that the Appellant seeks. That is not unusual in informal appeals before this Court. Nor is there any requirement in the Rules governing informal appeals under Part IX of the Excise Tax Act that specifically requires the Appellant to state in his notice of appeal what relief he seeks. This is in contrast with the requirements of the General Procedure Rules of the Court, which require notices of appeal to be in form 21(1)(a). That form makes it clear that the Appellant must indicate the relief that he seeks to recover by the appeal. Clearly, the Rules Committee did not feel it necessary to impose any such specific requirement on an Appellant in an informal proceeding, and while the reluctance of this Appellant to do so may seem odd, it is not, in my view, a ground upon which his notice of appeal could be struck out and his appeal quashed.
+
+[17]For these reasons, the motion to quash the appeal will be dismissed. I turn now to consider the alternative relief sought, which is an extension of the time within which the Respondent may deliver a reply. It is convenient, however, to deal first with the motion to adjourn the trial date.
+
+[18] Mr. Bruner, in opposing any adjournment of the date fixed for the trial, took the position that under the informal procedure he is entitled to proceed to trial without undue delay. Section 18.3005 of the Tax Court of Canada Act reads:
+
+18.3005(1) Subject to subsection (2), the Court shall fix a date for the hearing of an appeal referred to in section 18.3001 that is not later than one hundred and eighty days or, where the Court is of the opinion that it would be impracticable in the circumstances to fix a date for the hearing of the appeal within that period, three hundred and sixty-five days after the last day on which the Minister of National Revenue must file a reply to the notice of appeal pursuant to subsection 18.3003(1)
+
+18.3005(2) The Court may, in exceptional circumstances, fix a date for the hearing of an appeal referred to in section 18.3001 at any time after the periods referred to in subsection (1).
+
+Quite clearly, the legislation is drafted to favour an early disposition of GST appeals where the informal procedure has been elected, but it also recognizes that not every case is suitable for trial even within the relatively long limit of one year from the close of pleadings.
+
+[19] Mr. Bruner relies on the decision of the Federal Court of Appeal in Paynter v. The Queen, 96 DTC 6578, among others. In that case, the Court upheld the decision of Chief Judge Couture of this Court, who had refused to grant an adjournment which had been sought on the grounds that the Appellant had recently changed counsel, and the counsel newly retained needed time to prepare for trial. The Federal Court of Appeal upheld the Chief Judge's decision to refuse the adjournment requested, even though it was not opposed, saying that the informal procedure of the Court exists to provide "expedition of process for taxpayers where small amounts are involved": per Strayer J.A. at p. 6580. That case involved an appeal from an income tax assessment, where the informal procedure is available only where the amount of tax in issue is not greater than $12,000. Obviously, other considerations come into play as the amount at issue increases. There is no monetary limit on appeals brought under the informal procedure from GST assessments. As I have indicated earlier, this appeal and that of the company are intimately linked, and the ultimate financial goal that they seek to achieve is in the hundreds of millions of dollars.
+
+[20] Mr. Bruner also asserts that it would be inconvenient for him if the trial were to be delayed, as he has arranged to take time from his employment for the date presently fixed for the hearing, and that it is a matter of urgency to him that he should be allowed to dispel any cloud upon his reputation which arises from the suggestion that he, a chartered accountant, has engaged in any fraud or misrepresentation in connection with the filing of GST returns. While these factors are relevant, I find that in the circumstances of this case they deserve a good deal less weight than the competing interests of permitting the Federal Court of Appeal to deal with the review of Judge Miller's Order, the avoidance of inconsistent results in the two appeals, and the very large amount of money that the Appellant hopes to realize through this appeal and that of the company. As Mr. Shipley correctly points out, to proceed with the trial of this appeal before the Court of Appeal has heard the application for judicial review of Judge Miller's Order would be to deprive that Court of the opportunity to exercise its jurisdiction. Indeed, in the Paynter case, although the Court upon hearing the application upheld the decision to refuse an adjournment, Isaac C.J. granted a stay pending the Court of Appeal hearing. Had he not done so, the appellant there would have been deprived of the right to seek judicial review. If I were not to grant the Respondent's application to adjourn the hearing, then I would expect that the Federal Court of Appeal, or a judge of that Court, would grant a stay, for the same reason that Isaac C.J. did so in Paynter. In my view, this factor greatly outweighs the others in this case. On the hearing of the motion, Mr. Shipley undertook that the Attorney General would prosecute the judicial review application without any unnecessary delay. On that basis I am granting the adjournment sought. The adjournment will be sine die. I make no direction as to the listing of the appeal for trial after the Court of Appeal has rendered its judgment. If the judicial review application succeeds and this appeal then goes forward under the general procedure, it will not be ripe for trial for some time. In that event, the Court may direct that this appeal and the company's appeal be consolidated, or heard at the same time, or one after the other, as General Procedure Rule 26 contemplates. There are many common issues of fact; indeed most of the issues, if not all, are common to both appeals. They are, in fact, two sides of the same coin. In particular, the issues of bona fides of the transaction of sale between Mr. Bruner and the company, and of fraud or misrepresentation by Mr. Bruner in connection with the filing of the GST returns will have to be tried in both of these appeals. They are raised by the pleadings in the company's appeal, and by the notice of appeal in this one. Mr. Shipley says that they will be raised in the reply in this case. If the appeals are not tried together there will be considerable duplication of evidence, and, more important, there will be the potential for inconsistent results flowing from the same transaction.
+
+[21] If the judicial review application is dismissed by the Court of Appeal then that will be the time to consider when this appeal should go to trial. The factors which militate in favour of these two cases being tried at the same time also justify delaying the trial of this appeal, even though it may eventually proceed under the informal procedure. Even then it might be directed that the two appeals should be heard either together or one after the other. That is not a matter that need be decided now. The adjournment will, therefore, be on the basis that the trial date is to be fixed by the Chief Judge of the Court, or a judge designated by him, after the Federal Court of Appeal has rendered judgment in the judicial review application, and any further proceedings arising out of that judgment have been completed.
+
+[22] I am also granting the application of the Respondent for leave to file a reply to the notice of appeal. The relevant facts are these. The Attorney General, having taken the decision to apply under section 18.3002 of the Tax Court of Canada Act, did not file a reply, presumably contemplating that the Order would be obtained and that some amendment to the notice of appeal would be required in order to make it conform to the requirements of the General Procedure Rules. It was only through inadvertence that the Order under section 18.3002 was not obtained, as it would have been made as of right if the request for it had been made a few days earlier. It was also through a mere slip that counsel failed to include a request for the extension of time to file the reply as part of the relief sought before Judge Miller. However, the memorandum in the motion book filed on or about March 7 for the motion before Judge Miller did include that alternative request. I expect that if Judge Miller had been asked to permit an amendment to the notice of motion he would have done so, but no such request was made to him. It is normal to seek such alternative relief on a motion brought before the pleadings are closed, and it is normally granted if the motion fails, unless there are exceptional reasons not to. Nevertheless, it is clear from the words of section 18.3003, which fixes the sixty-day period for the filing of the reply, that an application to extend the time may be made after the time has expired, and that the Court may grant it. If no extension of time is granted then the Respondent may nevertheless file a reply, but there arises a rebuttable presumption that the facts alleged in the notice of appeal are true. The only possible prejudice that the Appellant suggested to me that he would suffer if I were to grant the extension of time is that he will lose the benefit of that rebuttable presumption, which is his only by reason of a slip. If that alone were sufficient prejudice to prevent the extension of time from being granted then there would never be a case for doing so on an application made after the time had expired, and the power to grant an extension of the time in such a case would be rendered nugatory. In my view, there is no significant prejudice to be suffered by the Appellant in this case if I grant the extension of time. The factual issues here are, as I have already said, virtually the same as those in the company's appeal; certainly there is great overlap. A reply is filed in that case, and the issues are joined. Mr. Bruner has not shown, or even suggested, that this short delay has resulted in any evidence becoming unavailable to him. I have already ordered that the matter will not be tried before the Court of Appeal has heard and disposed of the judicial review application that is before it. It will not delay the appeal any further to grant an extension of time to file the reply. In my view, the balance of fairness and convenience greatly favours granting the extension of time. The extension need not be a long one. The Respondent shall have until August 30, 2002 to serve and file a reply to the notice of appeal.
+
+Signed at Ottawa, Canada, this 18th day of July, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-4568(GST)I
+
+STYLE OF CAUSE: Calvin D. Bruner and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: June 28, 2002
+
+REASONS FOR ORDER BY: The Honourable Judge E.A. Bowie
+
+DATE OF ORDER: July 18, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: John Shipley
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-4568(GST)I
+
+BETWEEN:
+
+CALVIN D. BRUNER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Motion heard on June 28, 2002, and decision rendered orally
+
+on July 12, 2002, at Toronto, Ontario, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: John Shipley
+
+ORDER
+
+Upon application of the Respondent for an Order quashing this appeal, or in the alternative for an Order pursuant to section 18.3003 of the Tax Court of Canada Act extending the time limited by that section for filing a reply to the notice of appeal;
+
+And upon application of the Respondent, in the alternative, for an Order adjourning the hearing of this appeal now fixed to proceed on Thursday, July 25, 2002;
+
+And upon having read the affidavits of Michael Ezri and Calvin D. Bruner, filed, and having heard the submissions of counsel for the Respondent and those of the Appellant on his own behalf;
+
+It is ordered that:
+
+1. The motion to quash the appeal is dismissed;
+
+2. The time within which the Respondent may serve and file a reply to the notice of appeal is extended to August 30, 2002; and
+
+3. The hearing of the appeal scheduled to take place on July 25, 2002, is adjourned to a date to be fixed by the Chief Judge, or a Judge designated by him, after the Federal Court of Appeal has rendered judgment in the judicial review application, and any further proceedings arising out of that judgment have been completed.
+
+Signed at Ottawa, Canada, this 18th day of July, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+

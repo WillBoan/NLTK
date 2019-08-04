@@ -1,0 +1,700 @@
+Date: 20000602
+
+Docket: 91-1411-IT-G
+
+BETWEEN:
+
+QUANTETICS CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] These are appeals from assessments made by the Minister of National Revenue ("Minister") under Part I and Part VIII of the Income Tax Act ("Act") for the appellant's 1985 taxation year and under Part I of the Act for the appellant's 1986 and 1987 taxation years. It is not disputed that the business of the appellant consisted of carrying out various scientific research and experimental development ("R & D") projects and that the appellant had made significant expenditures in connection with the said business.
+
+[2] However, the Minister determined that some of those expenditures did not constitute R & D expenditures within the meaning of section 37 of the Act and section 2900 of the Income Tax Regulations ("Regulations"), and that others constituted prescribed expenditures within the meaning of section 2902 of the Regulations. Consequently, the Minister determined that these were not qualified expenditures within the meaning of subsections 127(9) and 127(10.1) of the Act as it applied during the years at issue, and that the appellant was therefore not entitled by virtue of subsection 127(5) and section 127.1 of the Act to an investment tax credit and investment tax credit refunds in respect of these expenditures. The appellant was also assessed under Part VIII of the Act for its 1985 taxation year as a result of the expenditures having been disqualified as R & D expenditures. The appellant is of the view that all the expenditures in question constituted R & D expenditures that were not prescribed expenditures and that they therefore qualified for investment tax credits and investment tax credit refunds. It is not disputed that all the expenditures at issue were of a current nature and not capital expenditures.
+
+[3] The respondent also disallowed the deduction of an amount of $1,400,000 with respect to an accrued bonus declared in the 1985 taxation year on the basis that it was not incurred for the purpose of gaining or producing income within the meaning of paragraph 18(1)(a) of the Act. According to the respondent, the bonus was declared for the purpose of unduly or artificially reducing income in order to avoid tax under Part I and Part VIII of the Act. The respondent further submits that, in any event, the bonus constituted a reserve or a contingent liability, the deduction of which is prohibited by paragraph 18(1)(e) of the Act.
+
+[4] The relevant sections of the Act as they read during the years at issue with respect to qualified R & D expenditures are reproduced below. It is to be noted that changes were made to the legislation and Regulations, which changes were applicable to taxation years ending after May 23, 1985. The appellant's financial year-end is January 31. Consequently, the appeal for the 1985 taxation year will be dealt with in accordance with the law as it applied on or before May 23, 1985, and the appeals for the 1986 and 1987 taxation years will be considered in light of the law as it applied after that date.
+
+Legislation applicable with respect to taxation years ending on or before May 23, 1985
+
+Legislation applicable with respect to taxation years ending after May 23, 1985
+
+SEC. 37. Scientific research.
+
+(1) There may be deducted in computing the income for a taxation year of a taxpayer who carried on a business in Canada and made expenditures in respect of scientific research in the year the amount by which the aggregate of
+
+SECTION 37: Scientific research and experimental development.
+
+(1) Where a taxpayer files with his return of income under this Part for a taxation year a prescribed form containing prescribed information, carried on a business in Canada and made expenditures in respect of scientific research and experimental development in the year, there may be deducted in computing his income for the year the amount, if any, by which the aggregate of
+
+(a) such amounts as may be claimed by the taxpayer not exceeding all expenditures of a current nature made in Canada by the taxpayer in the year or in any previous taxation year ending after 1973
+
+(a) such amounts as may be claimed by the taxpayer not exceeding all expenditures of a current nature made in Canada by the taxpayer in the year or in any previous taxation year ending after 1973
+
+(i) on scientific research related to the business and directly undertaken by or on behalf of the taxpayer . . .
+
+(i) on scientific research and experimental development related to the business and directly undertaken by or on behalf of the taxpayer . . .
+
+History: S. 37(1) was amended by 1983-84, c. 1, S. 10(1), to add paragraph (g), applicable to the 1983 and subsequent taxation years.
+
+History: . . . S. 37(1), that part preceding paragraph (a), was amended by 1986, c. 6, S. 15(1), applicable with respect to taxation years ending after May 23, 1985, except that the prescribed form referred to therein may be filed at any time on or before the day that is 90 days after the day of Royal Assent, February 13, 1986. . . .
+
+S. 37(1) was amended by 1986, c. 6, S. 15(3), applicable with respect to taxation years ending after May 23, 1985, to substitute the expression "scientific research and experimental development" for the expression "scientific research", wherever the latter expression occurs therein.
+
+Sec. 37(7)
+
+(7) Definitions. In this section . . .
+
+Sec. 37(7)(c)
+
+(c) [Expenditures on scientific research]. – references to expenditures on or in respect of scientific research
+
+Sec. 37(7)(c)
+
+(c) [Expenditures on scientific research and experimental development]. – references to expenditures on or in respect of scientific research and experimental development
+
+(i) where the references occur in subsection (2) [research outside Canada], include only expenditures incurred for and wholly attributable to the prosecution of scientific research, and
+
+(i) where the references occur in subsection (2) [research outside Canada], include only
+
+(A) expenditures each of which was an expenditure incurred for and all or substantially all of which was attributable to the prosecution of scientific research and experimental development, and
+
+(B) expenditures of a current nature that were directly attributable, as determined by regulation, to the prosecution of scientific research and experimental development, and
+
+(ii) where the references occur other than in subsection (2), include only expenditures incurred for and wholly attributable to the prosecution, or the provision of facilities for the prosecution, of scientific research in Canada; and . . .
+
+(ii) where the references occur other than in subsection (2), include only
+
+(A) expenditures each of which was an expenditure incurred for and all or substantially all of which was attributable to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada, and
+
+(B) expenditures of a current nature that were directly attributable, as determined by regulation, to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada . . .
+
+History: Ss. 37(7)(c)(i) and (ii) were amended by 1986, c. 6, S. 15(2), applicable with respect to expenditures made in taxation years ending after May 23, 1985.
+
+Sec. 127(10.1)
+
+(10.1) Definitions. For the purposes of subsections (9) and (10) [the investment tax credit] . . .
+
+Sec. 127(9), "qualified expenditure"
+
+(c) "Qualified expenditure". – "qualified expenditure" means an expenditure in respect of scientific research made by a taxpayer after March 31, 1977 that qualifies as an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i), but does not include
+
+"qualified expenditure". – "qualified expenditure" means an expenditure in respect of scientific research and experimental development made by a taxpayer after March 31, 1977 that qualifies as an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i), but does not include
+
+(a) a prescribed expenditure, nor . . .
+
+(i) a prescribed expenditure, and . . .
+
+History: S. 127(10.1)(c) was amended by 1983-84, c. 1, S. 72(8), applicable with respect to expenditures made after April 19, 1983.
+
+History: . . . S. 127(9), the definition "qualified expenditure" was amended by 1986, c. 6, S. 15(3) to add the words "and experimental development" after the words "scientific research" in the part preceding paragraph (a) thereof, applicable with respect to taxation years ending after May 23, 1985.
+
+Regulation 2900(2) & (3)
+
+2900.
+
+(2) For the purposes of clauses 37(7)(c)(i)(B) and (ii)(B) of the Act, the following expenditures are directly attributable to the prosecution of scientific research and experimental development:
+
+(a) the cost of materials consumed in such prosecution;
+
+(b) where an employee directly undertakes, supervises or supports such prosecution, the portion of the salaries or wages and related benefits paid to or for that employee that can reasonably be considered to relate thereto; and
+
+(c) other expenditures that are directly related to such prosecution and that would not have been incurred if such prosecution had not occurred.
+
+History: S. 2900(2) was added by P.C. 1986-2770, SOR/86-1136 dated December 11, 1986, applicable with respect to expenditures made in taxation years ending after May 23, 1985.
+
+(3) For the purposes of clause 37(7)(c)(ii)(B) of the Act, the following expenditures are directly attributable to the provision of premises, facilities or equipment for the prosecution of scientific research and experimental development:
+
+(a) the cost of the maintenance and upkeep of such premises, facilities or equipment; and
+
+(b) other expenditures that are directly related to such provision and that would not have been incurred if such premises, facilities or equipment had not existed.
+
+History: S. 2900(3) was added by P.C. 1986-2770, SOR/86-1136 dated December 11, 1986, applicable with respect to expenditures made in taxation years ending after May 23, 1985.
+
+Regulation 2902
+
+2902. For the purposes of paragraph 127(10.1)(c) of the Act, a prescribed expenditure is
+
+Regulation 2902
+
+2902. For the purposes of the definition "qualified expenditure" in subsection 127(9) of the Act, a prescribed expenditure is
+
+(a) an expenditure of a current nature incurred by a taxpayer in respect of
+
+(a) an expenditure of a current nature incurred by a taxpayer in respect of
+
+(i) the general administration or management of a business, including
+
+(i) the general administration or management of a business, including
+
+(A) an administrative salary or wages and related benefits in respect of a person whose duties are not wholly directed to the prosecution of scientific research,
+
+(A) an administrative salary or wages and related benefits in respect of a person whose duties are not all or substantially all directed to the prosecution of scientific research and experimental development, except to the extent that such expenditure is described in subsection 2900(2) or (3),
+
+(B) a legal or accounting fee,
+
+(C) an amount described in any of
+
+(B) a legal or accounting fee,
+
+(C) an amount described in any of
+
+paragraphs 20(1)(c) to (i) of the Act,
+
+paragraphs 20(1)(c) to (g) of the Act,
+
+(D) an entertainment expense,
+
+(D) an entertainment expense,
+
+(E) an advertising or selling expense,
+
+(E) an advertising or selling expense,
+
+(F) a convention expense,
+
+(F) a convention expense,
+
+(G) a due or fee in respect of membership in a scientific or technical society or organization, and
+
+(G) a due or fee in respect of membership in a scientific or technical society or organization, and
+
+(H) a fine or penalty, or
+
+(H) a fine or penalty, or
+
+(ii) the maintenance and upkeep of premises, facilities or equipment to the extent that such expenditure is not attributable to the prosecution of scientific research,
+
+(ii) the maintenance and upkeep of premises, facilities or equipment to the extent that such expenditure is not attributable to the prosecution of scientific research, and experimental development,
+
+except any such expenditure incurred by a taxpayer who derives all or substantially all of his revenue from the prosecution of scientific research or the sale of rights in or arising out of scientific research carried on by him . . .
+
+except any such expenditure incurred by a taxpayer who derives all or substantially all of his revenue from the prosecution of scientific research and experimental development or the sale of rights in or arising out of scientific research and experimental development carried on by him . . .
+
+[S. 2902 was added by P.C. 1978-2917, SOR/78-749, dated September 28, 1978 (Special Issue, Canada Gazette, December 31, 1978), effective for the period commencing with the 1977 taxation year. CCH.]
+
+History: S. 2902 was amended by P.C. 1986-2770, SOR/86-1136 dated December 11, 1986, by substituting the expression "scientific research and experimental development" for the expression "scientific research" wherever the latter expression occurs, applicable with respect to expenditures made in taxation years ending after May 23, 1985.
+
+S. 2902, the portion preceding clause (a)(i)(B) thereof, was amended by P.C. 1986-2770, SOR/86-1136 dated December 11, 1986, applicable with respect to expenditures made in taxation years ending after May 23, 1985. . . .
+
+[5] With one accord, the parties filed a summary of the amounts in dispute, which reads as follows:
+
+SUMMARY
+
+AMOUNTS IN DISPUTE
+
+1985
+
+1986
+
+1987
+
+Prescribed Expenditures Reg. 2902
+
+Telephone
+
+14,195
+
+14,567
+
+R. & Maintenance
+
+4,286.46
+
+662
+
+2,010
+
+Utilities
+
+4,912.25
+
+2,470
+
+2,452
+
+Interest – Mortgage
+
+16,862.44
+
+14,860
+
+Interest – other
+
+1,166.06
+
+Interest & Bank charges
+
+15,970.16
+
+509
+
+136,100
+
+Taxes – realty & business
+
+17,153.68
+
+3,784
+
+5,048
+
+Legal fees
+
+21,891.81
+
+21,186
+
+Accounting
+
+11,431.00
+
+Insurance
+
+3,791.99
+
+5,210
+
+5,454
+
+Travel
+
+40,895.34
+
+36,067
+
+26,956
+
+Misc. – Advertising
+
+2,950.17
+
+5,352
+
+112
+
+Auto
+
+2,133
+
+2,137
+
+Delivery
+
+1,755
+
+2,701
+
+Office Supplies
+
+9,716
+
+9,496
+
+Professional fees
+
+11,854
+
+Acquitech
+
+90,5641
+
+Sales Tax & Foreign Exchange
+
+-
+
+248
+
+Subtotal
+
+141,311.36
+
+117,899.00
+
+309,699
+
+% claimed
+
+x 84%
+
+x 84%
+
+x 100%
+
+118,701.54
+
+99,036.00
+
+309,699
+
+2,139.80
+
+120,841.34
+
+2900(2) Incremental Expenses
+
+83,717
+
+37(1) Payment to D. Rayzak
+
+48,131
+
+18(1)(a),(e)2 Bonus – R & D (450,000) .84 =
+
+378,000
+
+18(1)(a),(e) Bonus – other
+
+950,000
+
+2900(2), 37(1) Support Staff (other than Suncor)
+
+19,185
+
+32,865
+
+37(1) Fee to C. Rusky
+
+3,427
+
+37(1), 2900(2) Fee to Marchcroft
+
+256,0003
+
+1 Also, 37(2), 127 (not in issue anymore)
+
+2 Also, 37(1), 2900(2), 2902
+
+3 Also, 2900(2) as to $130,500
+
+[6] The respondent submits that the above expenditures do not qualify as R & D expenditures under section 37 of the Act on the basis that they were not "incurred for and wholly attributable to" R & D in 1985 and were neither "incurred for and all or substantially all . . . attributable to" nor "directly attributable to" R & D within the meaning of paragraph 37(7)(c) and section 2900 of the Regulations in 1986 and 1987. The respondent further submits that those same expenditures do not qualify for the purposes of the investment tax credit because they are prescribed expenditures within the meaning of section 2902 of the Regulations. Indeed, the respondent argues that the appellant was not, during the taxation years 1985 through 1987 inclusive, a corporation that derived all or substantially all of its revenues from the prosecution of R & D. Therefore, the respondent submits, the investment tax credit and investment tax credit refunds are not available in respect of those expenditures by virtue of subsections 127(5) and 127.1 of the Act.
+
+[7] The appellant takes issue with all of the arguments raised by the respondent with the exception of that respecting the Acquitech expenditure in the amount of $90,564 claimed by the appellant for the 1987 taxation year. Indeed, counsel for the appellant invited the Court at the end of the hearing to disregard that expense as he admitted that there was an evidentiary problem in respect of that expenditure. I will therefore not address the evidence adduced with respect to the Acquitech project as it appears from the summary of the amounts in dispute that there are no other expenditures at issue with respect to that project.
+
+Facts
+
+[8] The appellant is a Canadian corporation that was incorporated in 1977 in order to pursue the application of quantitative scientific and mathematical techniques in order to discover new ways of looking at economic, demographic and physical systems. Its president and sole director is Dr. Robert John Rayzak, an electrical engineer with a Ph.D. in chemical engineering. Over the years, the appellant has done work for petrochemical and refinery corporations (Polysar, Suncor, Sunoco), government departments, manufacturers, consulting firms and the University of Toronto. In addition, the appellant used and improved for its own purposes advanced techniques to develop proprietary technological products (computer process control, horse performance and conformation analysis and breeding selection).
+
+[9] In late 1985, the appellant originated the concept of applying computer techniques of statistical analysis to the correlation of horse conformation characteristics to dressage horse performance and optimal mare/stallion breeding partner selection. For that purpose, the appellant engaged a corporation by the name of Marchcroft Farms Ltd. ("Marchcroft") to assist in this research and development project. Marchcroft performed the animal management aspect of the project. It is Marchcroft that gained access for the appellant to the stables of the 1986 World Dressage Championships near Toronto and to the Arizona Dressage Championship to gather data to test and refine the computer program that had been developed at that time. The appellant was contributing its computer and mathematical expertise to the project. Dr. Rayzak, whose then wife was also involved with horses, said that 60 to 70 horses were measured as part of this study, 28 of them in Arizona. This research ended during the 1987 fiscal year without producing any results. During that period, the appellant bought three horses that were kept on Dr. Rayzak's and then his wife's farm and were cared for and trained by Marchcroft. The appellant was invoiced for that care in the amount of $256,000 on January 31, 1987 (the invoice includes an amount of $72,500 payable to D. Rayzak, Dr. Rayzak's wife). Those horses did not, however, form part of the data collection and this is why the total invoice of $256,000 was not accepted as a qualified expenditure by the Minister. Dr. Rayzak explained that the reason was that those horses did not participate in the dressage championships at which the appellant and Marchcroft initiated their studies. Dr. Rayzak said that the horses were bought for the breeding portion of the program. Dr. Rayzak also testified that he was not aware of how the horses were disposed of, or of what became of them. Dr. Rayzak acknowledged that the appellant never received any proceeds of disposition for any of the horses. Therefore, approximately $300,000 of horseflesh would be unaccounted for in the appellant's books and financial statements.
+
+[10] According to Danie Huppé, an appeals officer for Revenue Canada at the time the appellant was audited, the cost of those horses appeared on the appellant's balance sheet as long-term investments before the start of the project and was still there after the project was terminated.
+
+[11] According to Dr. Rayzak, the appellant's level of research and development consulting activity grew, going from consulting revenue of $57,820 with expenses of $43,750 in the 1978 financial year to consulting revenue of $108,714 with expenses of $173,736 in the 1982 financial year, to a high of $465,089 in consulting revenue with expenses of $1,454,222 in the 1985 financial year. It should be noted here that in 1985 the Minister determined that only an amount of $345,397 out of the total consulting fees of $465,089 was attributable to R & D, and that the expenses were not accepted by the Minister as qualified expenditures.
+
+[12] According to Dr. Rayzak, in order to finance its research and development activities, the appellant got involved in the firearms trade from 1981 to 1984. The appellant earned money by exporting firearms from Canada to the United States and recovered duties and taxes therefrom. The appellant also capitalized on an arbitrage market opportunity to earn commissions in the form of federal sales tax refunds by virtue of arranging for the export of exclusive automobiles from Canadian dealers to U.S. customers. The appellant's fee for arranging these transactions was the federal sales tax refund. The appellant also discovered a means of recovering duty drawback on exported automobiles and was successful in recovering $966,979 in duty drawback from one application to Customs and Excise Canada in the month of August 1984 (that amount was reported as income receivable in the 1984 financial statements but was in fact received by the appellant in its 1985 financial year; for tax purposes, that amount was claimed as a reserve in the 1984 taxation year and was added to the appellant's income in the 1985 taxation year). That money was put in term deposits at the bank (as shown in the 1985 financial statements) and pledged as security on demand loans as shown in the 1986 and 1987 financial statements. In the paperwork for one demand loan granted by the Mercantile Bank of Canada on December 17, 1984, involving an amount of $967,000, it is indicated that the purpose of the loan was to assist in financing the appellant's working capital requirements.
+
+[13] Eventually, on June 28, 1989, the appellant had to reimburse an amount of $575,000, plus interest, in duty drawback to a corporation by the name of Gulliver Motors Limited ("Gulliver"). Gulliver had agreed in June 1983 to share equally with the appellant any duty and sales tax drawback that the appellant might obtain from the Government of Canada related to exports of automobiles from Canada by Gulliver. Gulliver had to sue the appellant to recover what was due to it and, according to the pleadings, it was only in the month of June 1987 that Gulliver became aware of the payment of the sum of $966,979 made by the Government of Canada to the appellant on August 16, 1984. Of that sum, $820,454.54 represented duty and sales tax drawback related to exports of automobiles by Gulliver; of this latter amount, Gulliver was claiming half.
+
+[14] According to the Minute Book of the appellant, on January 24, 1985 it was resolved and consented to by Robert Rayzak, the sole director of the appellant, that the appellant pay a bonus to him in the amount of $1,000,000, or such lesser amount as Dr. Rayzak might request, once the financial position of the appellant to January 31, 1985 was determined by the appellant's accountants. A ledger sheet of the appellant showed an opening balance indicating a bonus payable of $1,400,000 as at February 1, 1985, and the 1985 financial statements also showed on the balance sheet a bonus payable of $1,400,000. In the same fiscal year, there is a deficit of $198,793 at year-end. In the end, the bonus was never paid and was brought back into income in the 1987 fiscal year as required by subsection 78(3) of the Act. Dr. Rayzak could not explain in his testimony why an amount of $1,000,000 or less was authorized in the resolution of the board of directors while the books of account and financial statements show a bonus payable of $1,400,000. He said that the bonus was determined on the basis of two items: first, $950,000 on account of the recovery of the duty drawback of $966,979 on car transactions; and second, $450,000 in recognition of his past services in respect of research and development. He explained that he had not received a very high salary in the past for all his work but was paid by way of dividends. He said that he expected to be able to pay the bonus out of the sale of the technology and out of the duty drawback as well as out of the expected rather large refundable investment tax credits.
+
+[15] In its 1985 fiscal year, the appellant participated in the federal government's Scientific Research Tax Credit ("SRTC") program so as to obtain assistance in financing its research and development activities. The appellant budgeted for refundable income tax credits in the amount of $319,990 in subsequent fiscal years (see Exhibit A-1, Tab 2) but this amount was never received as a result of the assessments under appeal. In the same fiscal year, as per a note in the 1985 financial statements, the appellant also issued promissory notes for a total of $806,000. These promissory notes were subsequently redeemed by the payment of $437,960 and the transfer of $402,040 worth of scientific research tax credits to the note holders. This sale of research and development expenditures gave rise to a $403,000 tax liability under Part VIII of the Act, which liability the appellant claims was fully discharged by renouncing its claim relating to research and development expenditures of $155,000 incurred in 1984 and $651,000 incurred in 1985. The appellant therefore claimed that it realized a SRTC premium of $368,040 on this transaction, which is reflected in the 1985 income statement as a negative expense. However, the Minister revised the amount of $651,000 in expenditures claimed in fiscal year 1985 in order to reduce Part VIII tax to $49,378 of eligible expenditures (disallowing an amount of $601,622 on the basis that it did not represent R & D expenditures) and assessed the appellant under Part VIII of the Act for an amount of $365,785 for the same fiscal year.
+
+[16] On April 8, 1987 (the appellant's fiscal year 1988), the appellant sold the process control technology, which it had been developing over the years, for a consideration of $1,050,000 worth of shares of a public company engaged in high technology product development.
+
+Issues
+
+[17] The first issue is whether the expenditures at issue qualify under section 37 of the Act for the purpose of the refundable investment tax credit and if so, if they are disqualified as being prescribed expenditures within the meaning of section 2902 of the Regulations under subsections 127(9) and 127(10.1) of the Act as it read during the years at issue.
+
+[18] The second issue is whether the bonus in the amount of $1,400,000 is a business expense within the meaning of paragraph 18(1)(a) of the Act. If it is, it has to be determined whether it constitutes a contingent liability within the meaning of subsection 18(1)(e) of the Act, in which case the deduction would be precluded in the computation of the appellant's income.
+
+Analysis
+
+First Issue
+
+Whether the expenditures at issue qualify under section 37 of the Act and sections 2900 and 2902 of the Regulations for the purpose of the refundable investment tax credit.
+
+[19] Counsel for the respondent first said that the auditor for Revenue Canada at the time did not have any co-operation from the appellant when the audit was done. Sheila Maureen O'Grady, the auditor, testified that she was denied access to the appellant's business premises and therefore had to deal with restricted access to information. According to counsel for the respondent, the burden cast on the appellant by assumptions made in the pleadings, as established in case law (Pollock v. The Queen, 94 DTC 6050 (F.C.A.)), becomes more critical in such a case. Here, counsel submits that there was very little evidence adduced before the Court, which is faced with vague generalities and with only a few specific points of evidence. Furthermore, I note that while all the expenditures listed in the summary of the amounts in dispute are at issue (with the exception of the Acquitech expenditure in 1987), both counsel concentrated on the bonus and on the expenses incurred with respect to the horse project.
+
+[20] In order to claim an investment tax credit, the definition of qualified expenditures must be met. Subsection 127(10.1) as it read for the 1985 taxation year and subsection 127(9) as it read for the 1986 and 1987 taxation years, define a qualified expenditure as:
+
+1. an expenditure in respect of scientific research,
+
+2. that qualifies as an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i) of the Act (subparagraph 37(1)(b)(i) is not applicable here as it deals with capital expenditures and the expenditures at issue are all of a current nature), but
+
+3. does not include a prescribed expenditure.
+
+I will analyse these requirements in the same order.
+
+1. Expenditures on scientific research
+
+[21] Expenditures on scientific research are defined in paragraph 37(7)(c) of the Act. For taxation years ending on or before May 23, 1985, such expenditures include only those incurred for and wholly attributable to the prosecution of scientific research. According to counsel for the respondent, if there were a legal obligation to pay the bonus in the 1985 taxation year, which he denies, it would be for the amount of $1,000,000, the maximum authorized by the resolution of the appellant's sole director. Now, how can it be said that that amount included a portion of $450,000 in recognition of Dr. Rayzak's past services in respect of scientific research and was not wholly attributable to the duty drawback? Counsel submits that the appellant has not demonstrated that the bonus was wholly attributable to the prosecution of scientific research. Counsel for the appellant did not comment on that particular point.
+
+[22] For taxation years ending after May 23, 1985, paragraph 37(7)(c) loosens the requirements such that expenditures on R & D include only:
+
+- expenditures that were incurred for and all or substantially all of which was attributable to the prosecution of R & D, and
+
+- expenditures of a current nature that were directly attributable, as determined by regulation, to the prosecution of R & D.
+
+[23] As for the first requirement, counsel for the respondent submits that the appellant did not demonstrate that the expenses were all or substantially all attributable to the prosecution of R & D. There is no evidence on how the particular expenses could be said to relate "substantially all" to R & D. Counsel for the appellant answers that such evidence is provided by the documentation and the financial statements showing that there was a build-up of activity and time devoted to R & D. He further submits that the assumptions made by the Minister in assessing the appellant did not rely on an analysis of whether the expenditures qualified on a one-by-one basis. According to counsel for the appellant, all the expenses were disallowed on the basis that the appellant did not qualify as an R & D corporation.
+
+[24] If I understand correctly counsel for the appellant's position, he is suggesting that there is no burden cast on the appellant, as a result of the assumptions made in the pleadings, with respect to the particular issue of how each expense can be said to relate "substantially all" to R & D. It is true that the assumptions in the Reply to the Notice of Appeal do not refer to each particular expense. However, it is also true that the evidence presented by the appellant was vague and ambiguous and did not disclose with precision how the bonus was determined, what the borrowed funds were used for, what the real purpose of acquiring the three horses was, etc. In this regard, I note as an example the confusion surrounding the testimony of Dr. Rayzak with respect to a handwritten note in the 1987 financial statements concerning the long-term investments, which note referred to the cost of horses and to a Ferrari. Dr. Rayzak first testified that Ferrari was the name of one horse. He however admitted in cross-examination that the appellant owned a Ferrari car during that year. I also note that the evidence focused on the horse expenditures, the bonus and the Acquitech project, which latter project is no longer at issue. Almost nothing was said in respect of the other expenditures. In the circumstances, it is impossible for me to conclude that the expenditures were all or substantially all attributable to the prosecution of R & D.
+
+[25] The second requirement under paragraph 37(7)(c) leads to subsection 2900(2) of the Regulations, as it read at the time, which defines what constitutes expenditures directly attributable to the prosecution of R & D. Those expenditures are:
+
+a) the cost of materials consumed in such prosecution;
+
+b) where an employee directly undertakes, supervises or supports such prosecution, the portion of the salaries or wages and related benefits paid to or for that employee that can reasonably be considered to relate thereto; and
+
+c) other expenditures that are directly related to such prosecution and that would not have been incurred if such prosecution had not occurred.
+
+[26] Counsel for the respondent submits that paragraph 2900(2)(c) of the Regulations is relevant here for the horse expenditures. It refers to what is called the "incremental test". According to counsel, there is very little evidence to suggest which of those expenses would not have been incurred anyway. Counsel refers to the decision of this Court in Ergorecherche & Conseils Inc. v. The Queen, [1998] 3 C.T.C. 2062, in which Judge Lamarre Proulx stated that there must be a rational method suggested for connecting expenses (in that case salaries) with R & D if one seeks to claim those expenses as qualified expenditures for the purposes of the investment tax credit. Counsel submits that in the present case the appellant has not proposed such rational method.
+
+[27] According to a letter written on May 10, 1990 by the appellant's accountants (Exhibit A-5, Tab 22), the horses were acquired by the appellant to investigate the potential of European-bred horses showing great capabilities for helping develop a significant Canadian presence as a source for top quality competition dressage horses. Due to the specific expertise and nature of Marchcroft's business, it was natural under the circumstances to work with that corporation. Throughout this period of experimentation, the services provided by Marchcroft in terms of handling as well as training and boarding were required on a totally committed basis as the appellant itself had neither the facilities nor the trained personnel needed to assist in the conduct of this experimentation.
+
+[28] In a letter dated July 12, 1990 (Exhibit A-5, Tab 17), Ms. Huppé, the appeals officer for Revenue Canada at that time, informed the appellant that the project that had been accepted by the Minister's science advisor as being R & D had nothing to do with the particular three horses. According to Ms. Huppé, these horses were not mentioned in the science advisor's report, nor were they mentioned in the appellant's explanation of the project. In addition, the cost of these horses was recorded on the company's balance sheet as long-term investments before the start of the project and were still there after the project was terminated. She therefore was of the opinion that the costs of upkeep would have been incurred regardless of any research.
+
+[29] Counsel for the appellant suggests that there is no indication that the horses had been a long-term holding of the appellant. He also relies on the decision of this court in Highland Foundry Ltd. v. The Queen, [1994] 2 C.T.C. 2329, to urge that it is irrational to say that the horse expenses incurred for no other purpose than R & D would be disqualified simply because the horses are still the appellant's property after the project is over.
+
+[30] The flaw in the appellant's reasoning is that it has not shown that the horse expenses at issue were incurred for no other purpose than R & D. Presumably, the cost of those horses was, as indicated by Ms. Huppé in her letter and by the 1985 financial statements, reported as a long-term investment. Indeed, an amount of $404,893 appears in the long-term investment account on the balance sheet of the appellant for its 1985 fiscal year. As stated by counsel for the appellant, that is the fiscal year immediately prior to the year in which the horse measurement part of the study was getting under way. The three horses in question were not part of the measurement study. Dr. Rayzak's then wife did own a farm at that time and was involved with horses. Furthermore, although Dr. Rayzak testified that he lost track of the three horses, the financial statements do not disclose that they were disposed of after the horse project was over. It was not illogical for the Minister, in the circumstances, to conclude that those horse expenses could have been incurred for other purposes than R & D. At least, I do not find that the appellant has demonstrated the contrary. I therefore conclude that the horse expenditures at issue were not all or substantially all attributable to the prosecution of R & D, nor were they directly attributable thereto. As a result, they cannot qualify as expenditures on scientific research.
+
+2. Qualified expenditures under paragraph 37(1)(a) of the Act.
+
+[31] An expenditure will qualify under paragraph 37(1)(a) if it is an expenditure of a current nature made in Canada in the year or in any previous taxation year ending after 1973 on scientific research related to the business and directly undertaken by or on behalf of the taxpayer.
+
+[32] Counsel for the respondent submits that the bonus is not an expenditure that was "made" by the appellant in any year as it was never paid. He relies on the decision of this court in G. A. Borstad Associates Ltd. v. M.N.R., 92 DTC 1743, in which Judge Garon stated that the provisions in the Act (as they applied for the 1987 taxation year) that have a bearing on the deduction of a "qualified expenditure" within the meaning of section 37, make reference to an expenditure "made" in contradistinction to an expenditure "incurred". In Judge Garon's words:
+
+. . . In this connection, it is to be noted that in many provisions of the Income Tax Act the deduction or non-deduction of a particular type of expense is stated in terms of both an expense made or incurred. See, for instance, paragraphs 18(1)(a) and 18(1)(c) of the Act. There are other instances where, like in paragraph 18(1)(h), the reference is only made to expenses incurred.
+
+In addition, paragraph 2900(2)(b) of the Income Tax Regulations, in express terms refers to "salaries or wages and related benefits paid to or for" an employee who directly undertakes, supervises or supports the prosecution of scientific research and experimental development.
+
+I see no reason why this term "paid" in paragraph 2900(2)(b) of the Income Tax Regulations should be given a meaning different from its ordinary meaning. I cannot see any ambiguity in this provision. . . .
+
+In the final analysis, it seems to be in conformity with the scheme of the Income Tax Act that a direct deduction from the tax otherwise payable by the Appellant can only be granted if an expenditure in the form of salaries and wages has resulted in an outlay being effectively made by a taxpayer in a particular taxation year.
+
+It should be borne in mind here that paragraph 2900(2)(b) of the Regulations was added in 1986, being applicable to expenditures made in taxation years ending after May 23, 1985. Paragraph 2900(2)(b) was thereafter amended for the 1990 and subsequent taxation years by substituting the word "incurred" for the word "paid". However, Judge Garon based only part of his analysis on the wording of paragraph 2900(2)(b) and counsel for the respondent submits that the interpretation given to the word "made" in Borstad must stand for the years at issue. Counsel for the appellant submits on that point that there was a legal obligation on the appellant to pay the bonus and that the respondent is wrong to argue that the bonus was not an expenditure that was made by the appellant in the year at issue. As will be seen later on in my reasons when I address the question of the deductibility of the bonus as a business expense, I have come to the conclusion that the appellant did not have a legal obligation to pay the bonus. Consequently, we cannot speak of an expenditure made by the appellant within the meaning of paragraph 37(1)(a) of the Act.
+
+[33] Counsel for the respondent further submits that the horse expenditures were not related to the scientific research business of the appellant. According to counsel, the appellant never earned any money from the horse research and there is no evidence to demonstrate that the horse project was tied in with the business of the appellant. I have already dealt with this particular aspect above.
+
+3. Prescribed Expenditures
+
+[34] A prescribed expenditure is defined in section 2902 of the Regulations. It is an expenditure of a current nature incurred by a taxpayer in respect of, among other things, the general administration or management of a business, except any such expenditure incurred by a taxpayer who derives all or substantially all of his revenue from the prosecution of R & D.
+
+[35] On or before May 23, 1985, an expenditure of a current nature incurred in respect of the general administration or management of a business included an administrative salary or wages and related benefits in respect of a person whose duties were not wholly directed to the prosecution of scientific research. According to counsel for the respondent, the bonus that was declared in the 1985 taxation year is a prescribed expenditure. Indeed, during that taxation year, Dr. Rayzak's duties were not wholly directed to the prosecution of scientific research. Dr. Rayzak also carried on activities involving cars and firearms during that period.
+
+[36] After May 23, 1985, the test is less harsh. "An administrative salary or wages and related benefits" is now defined as a prescribed expenditure only in respect of a person whose duties are not all or substantially all directed to the prosecution of R & D. However, the same revenue test applies to determine whether an expenditure is a prescribed expenditure or not.
+
+[37] The respondent's position is that the taxpayer will be considered as deriving all or substantially all of his revenue from the prosecution of R & D if he derives more than 90 per cent of his revenue from R & D. In Imapro Corporation v. The Queen, 92 DTC 6487 (F.C.T.D.), the taxpayer had sought to deduct as R & D expenditures 47.3 per cent of its current expenditures related to the maintenance and upkeep of a portion of the common areas in a building not being used solely for R & D purposes. McGillis J. determined that a 47.3 per cent portion of current R & D expenditures would not fall within the meaning of the words "all or substantially all" appearing in subparagraph 37(7)(c)(ii) of the Act. She stated the following at p. 6494:
+
+With respect to the expression "substantially all", these words, as used in another section of the Act, were interpreted in Wardean Drilling v. M.N.R. (1974), 74 DTC 6164 (F.C.T.D.); [1978] 2 F.C. 616 (F.C.A.) to mean a substantial portion. In Interpretation Bulletin IT-151, the Department of National Revenue has expressed the view that "all or substantially all" in the context of subparagraph 37(7)(c)(ii) of the Act means at least 90%. In Wood v. M.N.R. (1987), 87 DTC 312 (T.C.C.), the interpretation by the Department of "all or substantially all" in another section of the Act to mean at least 90% was described as being merely a useful and functional departmental assessing policy for a term which does not lend itself to any mathematical formula. Even assuming that some leeway is permitted from the 90% rule adopted by the Department in its Interpretation Bulletin dealing with subparagraph 37(7)(c)(ii) of the Act, I am of the opinion that a 47.3% portion of expenditures incurred in relation to SR & ED would not fall within the meaning of the words "all or substantially all".
+
+[38] In Wood v. M.N.R., 87 DTC 312 (T.C.C.), Judge Taylor had to determine if Mr. Wood, who was a non-resident of Canada, had included all or substantially all of his income in his reported Canadian income in order to qualify for deductions for the purpose of computing his Canadian taxable income. Mr. Wood reported approximately 70 per cent of his world income as income earned in Canada. Judge Taylor stated the following:
+
+The Minister's rule (from I.T.-171 [Interpretation Bulletin IT-171 dated September 4, 1985]) is that the Canadian income should be at least 90% of total income – the "90% rule". Obviously that is just a departmental assessing policy, and while arbitrary is undoubtedly a useful and functional mechanism in dealing with a difficult section of the Act, I would think the Minister might be hard-pressed to refuse a claim where the percentage was 89%, may be even 85% or 80% or lower – and that brings up this taxpayer's position which ends up to be about 70%. ($30,000 out of $42,500). *Clearly the term "substantially all" does not lend itself to a simple mathematical formula. Further it would seem to me that any particular definition of "substantially" would be only valid with reference to the specific context in which it is found. . . . I would deduce that when a taxpayer chooses not to declare "all" his income in filing his Canadian return, the non-declared portion must be so insignificant that neither its inclusion or exclusion would make a "substantial" difference in the income tax return in Canada.
+
+[39] Judge Taylor finally concluded that the provisions of the Act requiring that "substantially all" of the non-resident person's income be included had not been met.
+
+[40] Counsel for the respondent submits that the appellant has not met the "all or substantially all" revenue test. In the Reply to the Notice of Appeal, the respondent stated the revenue earned by the appellant during the taxation years 1985 through 1987 inclusive as follows in subparagraph 7(c):
+
+Consulting Fees
+
+Total Interest Other Non R & D
+
+Revenues_______ _____ R & D ______
+
+1985 $1,808,564 $ 48,404 $1,295,071 $119,692 $345,397
+
+100% 3% 71% 7% 19%
+
+1986 $330,968 $106,990 $ 120,438 $ 0 $103,540
+
+100% 32% 37% 0% 31%
+
+1987 $1,497,624 $ 93,269 $1,404,355 $ 0 $ 0
+
+100% 6% 94% 0% 0%
+
+[41] The statements of income in the 1985, 1986 and 1987 financial statements show the following relevant revenue and expenses:
+
+Statement of Income per Financial Statements
+
+1985 1986 1987
+
+Revenue
+
+Consulting fees 465,089 103,540 -
+
+Automobiles
+
+Sales 326,445 - -
+
+Cost of sales 338,558 - -
+
+Gross profit (12,113) - -
+
+Firearms
+
+Sales 1,647 - 4,355
+
+Cost of sales 2,840 - 300
+
+Gross profit (1,193) - 4,055
+
+Bonus refunded - - 1,400,000
+
+Interest income 48,404 106,990 93,269
+
+Dividend income - 15,546 141
+
+Gain (loss) on sale of
+
+marketable securities - 104,892 (5,001)
+
+Gain on disposal of
+
+fixed assets - 3,079 -
+
+Miscellaneous income 3,082
+
+Total revenue 500,187 334,047 1,495,546
+
+1985 1986 1987
+
+Expenses*
+
+Bank charges & interest 33,999 122,993 136,100
+
+Consulting - - 116,901
+
+Salaries, commissions
+
+& benefits 1,516,150 131,459 289,785
+
+Acquitech Development - 45,287 93,864
+
+S.R.T.C. premium (368,040) - -
+
+Refundable investment
+
+tax credits - (50,552) (269,438)
+
+Total expenses 1,454,222 462,291 1,141,192
+
+Net income (loss)
+
+before income tax (954,035) (93,473) 354,354
+
+* Not all the expenses are reproduced here.
+
+[42] In a letter addressed to the appellant on November 28,1990, Ms. Huppé determined on the basis of the following gross revenue analysis that the appellant did not derive all or substantially all of its revenues from qualified research and development activities in any of the years concerned:
+
+GROSS REVENUE ANALYSIS
+
+Total Auto Fire Consulting Fees
+
+Year Revenue Sales arms Interest Other Non R & D R & D
+
+(Reserve)
+
+1985 $1808564 326445 1647 48404 966979 119692 Note 1 345397
+
+100% 18% 0% 3% 53% 7% 19%
+
+(Div) (Gain/sale) (Suncor)
+
+1986 $330968 0 0 106990 15546 104892 0 103540
+
+100% - - 32% 5% 32% - 31%
+
+(Bonus)
+
+1987 $1497624 0 4355 93269 1400000 0 0
+
+100% - 0% 6% 93% - -
+
+Note 1: After including SUNCOR as R & D activity.
+
+[43] Counsel for the respondent submits that in 1987 the appellant did not earn any income from R & D. In 1986, the consulting fees from R & D represent 31 per cent of the total gross income and are less than 50 per cent if compared with the interest income only. The interest income is presumably derived from the term deposits in which the profits from the car transactions were invested. Ms. Huppé notes in her letter (Exhibit A-5, Tab 11) that for 1985, even if certain revenues such as the auto and firearms sales and the reserve (the duty drawback in the amount of $966,979) were excluded, the revenue from research and development (the consulting fee from Suncor in the amount of $345,397) would still represent only 67 per cent of the total remaining income.
+
+[44] Counsel for the appellant submits that the 90 per cent revenue test applied to gross revenue is not an appropriate test. He argues that if the legislation had been intended to refer specifically to a gross revenue test, there is ample authority in the Act to suggest that it could have done so. And he refers to various sections in the Act containing an explicit reference to gross revenue (for example the provisions on foreign accrual property income speak of "more than 90% of . . . gross revenue"). Similarly, counsel for the appellant submits that nothing in the Act suggests that it was intended that "all or substantially all" should mean more than 90 per cent. On the contrary, when the legislator intends to refer to a specific percentage, he does so, as is evidenced in other sections of the Act. Counsel argues that where the taxing statute is not explicit, the ambiguity should be resolved in favour of the taxpayer (Johns-Manville Canada Inc. v. The Queen, [1985] 2 S.C.R. 46). This is more particularly so with respect to tax incentives for doing R & D where the legislation dealing with such incentives must be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects (Northwest Hydraulic Consultants Ltd. v. The Queen, [1998] 3 C.T.C.2520 (T.C.C.)).
+
+[45] Counsel for the appellant argues that the term deposits were pledged against the loans granted to the appellant, which were used in the course of the R & D activities. He also suggests that interest income was derived from the duty drawback amount, which was not spent because of the ongoing litigation with Gulliver. According to counsel, there was no certainty that those funds would have to be paid out. As a result, counsel suggests, the interest expenses should be offset against the interest income in order to make a fair comparison with the other revenue. Furthermore, counsel submits that the entire thrust of the appellant corporation's activities in the years at issue was the prosecution of research and development, as evidenced by its activities relating to Suncor, Polysar, the various manufacturers and the horse project. According to counsel, the 90 per cent of gross revenue test is too rigid. Under it the appellant is not an R & D corporation, which is contrary to the facts.
+
+[46] Counsel for the respondent answers that comparing net interest income with gross revenue presumably earned from R & D is not justified. If one is to accept the appellant's theory, then the expenses relating to R & D should also be applied to reduce the consulting fees. In his testimony, Dr. Rayzak said that the car sales activities represented very little of the appellant's overhead and took up little secretarial time. Therefore, the majority of the expenses must relate to R & D with the result that the research and development revenue on a net basis would be much less than $345,397 in 1985 and than $103,540 in 1986. Counsel for the respondent concludes that there is no evidentiary basis for arguing a comparison on a net revenue basis.
+
+[47] I would say first that I am not convinced that the term deposits were not spent in the years at issue because of the ongoing litigation with Gulliver. Indeed, in the pleadings filed by Gulliver, it is clearly stated that it was only in the month of June 1987 (the appellant's 1988 fiscal year) that Gulliver became aware of the payment of the sum of $966,979 to the appellant in duty drawback. It is therefore difficult for the appellant to argue that the money was put in term deposits in its 1985 through 1987 fiscal years (and not spent on R & D) pending the outcome of that litigation. Furthermore, the "all or substantially all" test imposed by section 2902 of the Regulations is clearly based on revenue and not on time spent on R & D activities.
+
+[48] I agree with counsel for the respondent that in the present case the evidence establishing that, on a net basis, all or substantially all of the revenue was from the prosecution of scientific research is very tenuous. I agree that if one is to compare the research and development income with other income, it should be on the same basis.
+
+[49] In 1987, there was no income at all from R & D. It is obvious, then, that the "revenue test" is not met. In 1986, the consulting fees represented 31 per cent of total gross revenue. If we compare that income with interest income only, it represents less than 50 per cent of total gross income. The case law has ruled that this is clearly insufficient to meet the "all or substantially all" test.
+
+[50] With respect to the 1985 fiscal year, the consulting fees attributable to R & D account for 19 per cent of total revenue. Even if one compares it only to the other consulting fees, that are not attributable to R & D, and to the interest income, as the auditor did, R & D income would still amount to only 67 per cent of total revenue. The appellant has not demonstrated that the portion of the consulting fees that was determined by Ms. Huppé not to be attributable to R & D activities was wrong. Dr. Rayzak's testimony on the subject was very general and it seems to me that he did not intend to reveal the exact source of those fees. Nor was there any accounting evidence adduced by the appellant that could have provided more accurate information regarding the statement of income and expenses. As a result, I find that the appellant has not shown that it derived all or substantially all its gross revenue from the prosecution of scientific research in 1985 either.
+
+[51] To do the same exercise on a net basis is almost impossible given the evidence presented before me. Indeed, while I know the amount of the expenses that have been disqualified for R & D purposes by the Minister, I do not know the amount of the other-qualified-expenditures. In fact, counsel for the appellant did not demonstrate with actual figures that the appellant derived all or substantially all its net revenue from the prosecution of scientific research in the years at issue. In those circumstances, I do not see how I can compare net income from R & D with other net income.
+
+[52] Having said so, it is my opinion that the words used in section 2902 of the Regulations to describe the revenue test refer to "gross revenue". Indeed, reference is made to a taxpayer who derives all or substantially all his revenue from the prosecution of scientific research. The word "derive" is defined in the New Shorter Oxford English Dictionary as follows:
+
+. . . 3 Obtain, get, draw, (a thing from a source). Freq. in pass., arise, be descended, be formed, originate from; . . . 6 Trace or show the origin, derivation . . . state (a thing) to have originated from; . . . 7 refl. Originate; come or descend from.
+
+II v.i. 8 Flow, come, arise, originate, from, (occas.) out of (a source). . . . b Of a word: originate, come as a derivative . . . .
+
+[53] Therefore, it seems logical to link the revenue test to the different sources of revenue, that is, to where the revenue originates from. In that regard, I am of the view that section 2902 refers implicitly to gross revenue, especially if we consider that that section was drafted to determine which expenses qualify as R & D expenses. It seems odd to me to compare revenue on a net basis when the purpose of the test addresses specifically the matter of whether the expenditures so qualify.
+
+[54] Furthermore, I agree with counsel for the respondent that it can be said that the bonus declared in the 1985 taxation year was a prescribed expenditure, without having to rely on the "revenue test". Indeed, it is obvious from the testimony of Dr. Rayzak that his duties were not wholly directed to the prosecution of scientific research as it was required by section 2902 of the Regulations as it read at that time. Dr. Rayzak also carried on car - and firearms – related activities during that period.
+
+[55] I therefore conclude that the appellant did not refute the allegations made by the respondent that the amounts at issue were prescribed expenditures within the meaning of the Act. Those expenditures therefore did not qualify as R & D expenditures for the purpose of the refundable investment tax credits for each of the 1985, 1986 and 1987 taxation years and in that regard the assessments under Part I and Part VIII of the Act must stand.
+
+Second Issue
+
+Whether the bonus is a business expense within the meaning of paragraph 18(1)(a), and if so, whether it is a contingent liability within the meaning of paragraph 18(1)(e)
+
+[56] All the expenditures at issue have been accepted as business expenses except the bonus claimed in the amount of $1,400,000. According to the respondent, the $1,400,000 bonus was not an outlay incurred in the appellant's 1985 taxation year for the purpose of earning income. Counsel for the respondent referred to the decision of the Tax Review Board in V.R. Enterprises Ltd. v. M.N.R., 74 DTC 1089 (upheld by the Federal Court Trial Division, 79 DTC 5399), with regard to the criteria that should be relied upon to determine whether a bonus should be held to be deductible. Judge Cardin stated the following at p. 1091:
+
+Even though salaries and bonuses may sometimes be used interchangeably, I do not believe that all bonuses are deductible expenses. Before a bonus can be considered as an integral part of salary and a deductible expense, it must, in my view, meet certain criteria. Some of the criteria would be –
+
+1. The amount of bonuses paid or accrued must be reasonable in comparison with the profit earned by the company and the services rendered by the recipients.
+
+2. The services for which the bonuses are paid must be real and identifiable.
+
+3. Though the quantum of the bonuses, which are usually based on the amount of profit realized by a corporation, need not necessarily be precisely determined beforehand, there must be some justification for expecting an amount of income over and above the regular yearly salary.
+
+4. There must be some relationship between the bonuses paid or accrued and the income earned or to be earned at least in the form of a well-established and well-known incentive.
+
+5. Bonuses to be paid or accrued in a particular year must be established within a reasonable time from the moment the corporation's profit for that year has been determined.
+
+Although there are, no doubt, other applicable criteria, it would seem to me that bonuses that do not meet these criteria would simply be a profit-sharing arrangement having no connection with the earning of income and would therefore not be considered as deductible outlays or expenses.
+
+[57] Counsel for the respondent argued that the above criteria have not been met in the present case. Indeed, he submits that had the bonus been paid, the appellant would have been obliged to borrow because the bonus would have driven its equity and profit into negative figures for the year in which it was declared. Further, he submits that the evidence did not focus on the services for which the bonus was paid. The declaration of bonuses was not a policy continued by the appellant each year thereafter but was rather a one-time event that was not expected long in advance. Finally, although there is evidence that a smaller bonus was authorized prior to year-end, there is no evidence with respect to when the resolution changing the bonus was passed. Counsel concludes that the evidence disclosed in the present case does not tend to demonstrate that the bonus had any connection with the earning of income.
+
+[58] Counsel for the respondent also referred to the decision rendered in The Queen v. Ken & Ray's Collins Bay Supermarket Ltd., 75 DTC 5346 (F.C.T.D.), confirmed without reasons by the Federal Court of Appeal (see note in [1978] C.T.C. page xvi), where it was decided that the decision to grant bonuses was gratuitous and that the taxpayer, although it really intended to pay the bonuses provided that funds were available, did not contractually and legally obligate itself to pay them. In that case, the taxpayer corporation had decided, provided funds were available, to declare a bonus to its two shareholders, having regard to the excellent prospects of higher earnings, the level of salaries the two shareholders had been taking, and the long hours they had devoted to the business. The bonuses were to be paid out in the next fiscal year when the exact amount was determined after the year-end results were known. As in the present case, the bonuses were, however, never paid out and were brought back into income. There was no written agreement between the two shareholders and the company for the payment of the bonuses but there were journal entries and the bonuses were reported in the financial statements. It was nonetheless concluded that the bonuses were not an expense incurred by the taxpayer within the meaning of former section 12(1)(a) (now 18(1)(a)) of the Act. The court also accepted the position taken by the Crown that the claiming of the expense of bonuses had the effect of setting up a reserve that was not expressly provided for by former paragraph 12(1)(e) (now 18(1)(e)) of the Act. This position was adopted on the basis that when the decision to pay bonuses was taken, the amount that would be paid was uncertain and payment was contingent on necessary funds being available.
+
+[59] The same conclusion was reached in the decision of this Court in Les Soudures Chagnon Ltée v. M.N.R., 90 DTC 1203. In that case, the corporate taxpayer, on the advice of its accountants, authorized by a resolution of its directors, the payment to its sole shareholder of a $240,000 bonus whenever its banking position would permit. The corporation had decided to pay its shareholder a bonus because he had worked long hours for a very low salary in previous years and was responsible for the taxpayer's success. However, there was no evidence as to how the amount of $240,000 was arrived at. It was the first time that a bonus had ever been declared. The bonus was never paid. In fact, the company did not have the cash available to pay the bonus; it would have had to borrow to make such a payment. Judge Rip concluded that nothing required the corporate taxpayer to declare or pay such a bonus, and though it may have had sound business reasons for declaring and paying the bonus, it was not established that the company had contracted and legally undertaken to pay it. For these reasons, it was decided that the bonus was not deductible pursuant to paragraph 18(1)(a) of the Act. Judge Rip also considered that the bonus could be a contingent liability pursuant to paragraph 18(1)(e) of the Act.
+
+[60] Similarly, counsel for the respondent submits, in the present case there is no evidence of any legal obligation on the part of the appellant to pay a bonus of $1,400,000 to its principal shareholder. In any event, the bonus would be a contingent liability.
+
+[61] Counsel for the appellant relies on two decisions of the Tax Review Board, namely Carling Realty Co. v. M.N.R., [1982] C.T.C. 2323 and Len Singleton Ltd. v. M.N.R., [1983] C.T.C. 2196, where it was decided that a corporation was justified in claiming bonuses as operational expenses in the year they were charged, provided they were reasonable, whether or not the bonus were intended to be paid (in those two cases, the bonuses were in fact never paid and brought back into income in a subsequent year). Moreover, in the Carling Realty Co., the Tax Review Board rejected the respondent's contention that the accrued bonuses were in fact reserves.
+
+[62] Counsel for the appellant also referred to the Tax Review Board's decisions in Alteo Construction Ltd. v. M.N.R., [1983] C.T.C. 2337 and Brazolot Construction v. M.N.R., [1981] C.T.C. 2468, in support of the proposition that there can be an intention to create a legal obligation when a bonus is declared, even if funds are not immediately available, insofar as there are assets which could provide the source of funds needed to pay the bonus.
+
+[63] According to counsel for the appellant, in the present case there was a real liability to pay the bonus. In 1985, the appellant was for the first time in a position to declare a bonus in favour of its president and this was principally due to the cash flow arising from the duty drawback, which was related to the personal expertise of Dr. Rayzak. Counsel submits that Dr. Rayzak had put time and effort into the appellant's R & D activities in the previous years and had received low salaries for all the work he had done. According to counsel, there is no basis for suggesting that the bonus declared was unreasonable. Furthermore, there was a resolution to at least declare a bonus of $1,000,000 or less depending on the financial position of the appellant at the end of the 1985 taxation year. There was also a corporate ledger sheet that indicated as at February 1, 1985, an accrued bonus of $1,400,000. The financial statements showed a payable of that amount and income was declared from the duty drawback. According to counsel, at the time the bonus was declared, the appellant was in a healthy financial position and there is no indication that there was an intention to reverse the bonus in a subsequent year. In fact, at the time the drawback funds were pledged as security to the bank, expenditures were being made on the horse project and there was the dispute with Gulliver. All this would have suggested to any reasonable business person that the funds should not be expended and that they should be kept on deposit.
+
+[64] Furthermore, counsel for the appellant submits that the fact that the bonus eliminated the Part VIII tax liability in 1985 should not be a factor taken into account in disqualifying the expenditure. In that regard, he relies on Canada Trustco Mortgage Co. v. M.N.R., 1999 CarswellNat 80 (F.C.T.D.) for the proposition that it is the provisions of the Act which determine whether tax is payable, not the fact that the outcome of a transaction may be to eliminate tax.
+
+[65] As for the contingent aspect of the liability, counsel for the appellant referred to the decision of the Tax Review Board in Toronto Heel Ltd. v. M.N.R., [1980] C.T.C. 2277, which in turn referred to the decision of the Federal Court Trial Division in McClain Industries of Canada, Inc v. The Queen, [1978] C.T.C. 511, for the proposition that there was no contingency created by the fact the directors might, if they considered that business conditions demanded it, reduce or even cancel the bonus.
+
+[66] Applying the case law submitted by counsel to the facts disclosed in the present case, and after an analysis of the relevant documentation and the course of conduct of the appellant during the years at issue, I have reached the conclusion that the appellant did not contract and legally obligate itself to pay the $1,400,000 bonus in its 1985 taxation year.
+
+[67] First of all, I am of the view that the decision in Ken & Ray's Collins Bay Supermarket Ltd., supra, confirmed by the Federal Court of Appeal, carries more weight than the decisions of the Tax Review Board relied upon by the appellant. Having said this, I am not at all convinced that the payment of the bonus was intended to be made to Dr. Rayzak as payment for services received by the appellant in previous years. The evidence revealed that Dr. Rayzak had received an annual salary in the past (the 1984 financial statements show that the salaries were four times higher that year than in 1983, and the salaries in 1983 were five times greater than in previous years). Dr. Rayzak also received dividends from the appellant amounting to $44,000 per year for the years 1984, 1985 and 1986 (see Ms. Huppé's report, Exhibit A-5, Tab 11). Furthermore, although there was a resolution by the sole director of the appellant to pay a bonus in the amount of $1,000,000 or such lesser amount as Dr. Rayzak might request once the financial position of the appellant to January 31, 1985 was determined by the appellant's accountant, there was no resolution authorizing the payment of a $1,400,000 bonus. I am therefore of the view that, as was the case in Ken & Ray's Supermarket, supra, there was no new contractual obligation or undertaking by the appellant to pay the bonus in consideration of Dr. Rayzak's services. The decision to grant a bonus was, in my opinion, made gratuitously and not pursuant to a legal obligation.
+
+[68] Furthermore, I agree with counsel for the respondent that the bonus was not reasonable if we consider that neither the appellant's financial position nor its reported income supported the accrual of a $1,400,000 bonus in 1985. Indeed, the 1985 financial statements show a deficit of approximately $200,000 and a net loss for the year of about $800,000, which was without doubt created by the bonus. It should be noted also that, on the balance sheet for the 1985 fiscal year, the amount of $119,108 shown in the "due from shareholder" account was not reduced while liabilities were increased by the amount of the bonus payable to that same shareholder. Also to be noted is that the appellant was indebted to the bank for an amount of approximately $440,000 and that the term deposits in the amount of $970,796 were pledged as security on the bank loans. It is therefore highly questionable whether the appellant really intended to pay the bonus amount, and it might be asked whether this bonus was only declared to comply with the rules in order to avoid the Part VIII tax. I agree with the respondent that the evidence did not demonstrate that the bonus had any connection with the earning of income.
+
+[69] I therefore conclude that the appellant has not shown on the balance of probabilities that the $1,400,000 bonus was an expense incurred for the purpose of earning income within the meaning of paragraph 18(1)(a) of the Act. As a result, the appellant was not entitled to claim it as an expense in its 1985 taxation year. Considering my conclusion, there is no need for me to analyze the possible application of paragraph 18(1)(e) of the Act.
+
+[70] The appeals are therefore dismissed with costs.
+
+Signed at Ottawa, Canada, this 2nd day of June 2000.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+

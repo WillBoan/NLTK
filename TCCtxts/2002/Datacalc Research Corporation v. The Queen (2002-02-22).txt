@@ -1,0 +1,504 @@
+Date: 20020222
+
+Docket: 2000-1413-IT-G
+
+BETWEEN:
+
+DATACALC RESEARCH CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] This appeal is from an assessment for the appellant's 1986 taxation year whereby the Minister of National Revenue denied to the appellant investment tax credits ("ITCs") in the amount of $665,607 claimed in its return of income for the 1986 taxation year in respect of scientific research and experimental development expenditures ("SR & ED") which it incurred in that year.
+
+[2] The parties entered into an agreed statement of facts as follows.
+
+The Appellant and Respondent hereby agree for the purposes of this appeal only to the following facts:
+
+1. The Appellant is a body corporate duly incorporated pursuant to the laws of the province of British Columbia.
+
+2. The Appellant, at all material times, carried on a business of scientific research with particular emphasis on the development of a high technology rigid disk drive which involved research in the area of computer hardware and storage devices.
+
+3. The Appellant was reassessed to tax with respect to its 1985 taxation year. The Appellant's appeal therefrom was settled in accordance with the attached Minutes of Settlement.
+
+4. In conducting its business during its 1986 taxation year, the Appellant claimed scientific research and experimental development ("SR & ED") expenditures totalling $1,901,733.
+
+5. On April 26, 1999 the Appellant filed a tax return for its 1986 taxation year along with prescribed forms T661 and T2038 containing prescribed information. On the form T661, the Appellant reported the $1,901,733 of SR & ED expenditures incurred by it in its 1986 taxation year. On the form T2038, the Appellant claimed investment tax credits ("ITCs") of $665,008 on the SR & ED expenditures incurred in its 1986 taxation year, and a refundable ITC of $665,607.
+
+6. On June 18, 1999 the Minister of National Revenue (the "Minister") issued a Notice of Assessment denying the Appellant's ITCs for its 1986 taxation year on the basis that "qualified expenditures must be identified on or before the due date for filing the tax return for the subsequent taxation year". The said assessment also states that the Appellant's "net loss" for income tax purposes had been revised from $508,461 to $2,405,440 and that the difference of $1,896,979 represented the total SR & ED expenditures for the year that were allowed as a current year business expense instead.
+
+7. The Appellant, on September 15, 1999, duly filed a Notice of Objection pursuant to subsection 165(1) of the Income Tax Act (the "Act") to the said Notice of Assessment and on March 9, 2000 the Minister confirmed the Notice of Assessment by Notice of Confirmation on the basis that the Appellant did not comply with filing deadlines specified in subsection 127(9) of the Act.
+
+8. The Appellant duly appealed to this Honourable Court pursuant to sections 169, 152(1), 1(b) and (1.2) of the Act.
+
+[3] With respect to the settlement of the 1985 assessment referred to in paragraph 3 of the agreed statement of facts I have not reproduced the minutes of settlement because neither counsel was able to tell me what the relevance of that settlement was.
+
+[4] There appears to be no issue that this amount was incurred and the Minister seems to have implicitly accepted that it was SR & ED although no audit was performed. The sole basis of the denial of the ITCs is that the claim was made too late. The appellant filed its 1986 return in April 1999 along with the prescribed forms (T-661 and T-2038).
+
+[5] A memorandum attached to the notice of assessment explaining the assessing action reads.
+
+Your request for Scientific Research and Experimental Development (SR & ED) expenditures and/or Investment Tax Credits for September 30, 1986 has been denied as based on current legislation, qualified expenditures must be identified on or before the due date for filing the tax return for the subsequent taxation year.
+
+Net Loss for income tax purposes has been revised from $508,461.00 to $2,405,440.00. The difference of $1,896,979.00 represents the total current SR & ED expenditures for the year that we have allowed as a current year business expense instead.
+
+[6] Virtually all of the $1,901,733 claimed as SR & ED ($1,896,979) was current. $4,754 was in respect of capital expenditures.
+
+[7] Before I deal with the main point of the appeal several preliminary points should be disposed of. Counsel for both parties agree that since this is an appeal from a determination of the amount of the refundable investment tax credits ("RITCs") the appellant has a right to appeal to this court from that determination. Since the matter is not in dispute I shall not elaborate beyond noting that the point is succinctly covered in the judgment of Rip J. in Martens v. M.N.R., 88 DTC 1382. I am in respectful agreement with his reasoning.
+
+[8] Second, the respondent for the first time in this court relies on subsection 164(1) of the Income Tax Act. The opening words of that subsection and paragraphs (a) and (b) read
+
+If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year, the Minister
+
+(a) may ... and
+
+(b) shall ...
+
+There follow in these two paragraphs detailed provisions concerning the Minister's duties with respect to refunds. The respondent contends that since the 1986 return was filed about 12 years after the end of the 1986 taxation year the Minister has no obligation to refund any ITC.
+
+[9] Subsection 164(1) has nothing to do with this court's duties on an appeal from an assessment or a determination in which it must consider the correctness of the determination or assessment nor does it impinge in any way upon a taxpayer's statutory right of appeal. Where the court has referred an assessment back for reconsideration and reassessment or varied or vacated an assessment the Minister's obligation with respect to refunds arises from subsection 164(4.1). The correctness of this position can be tested if we consider the case where a taxpayer filed a return, five years late, or filed no return, and the Minister assessed tax. If the Crown's reasoning under subsection 164(1) were correct it would mean that the taxpayer could not object to or appeal from the assessment because the Minister would have no obligation to refund any overpayment of tax resulting from a successful objection or appeal. When stated the proposition defeats itself.
+
+[10] The third preliminary point — and perhaps it is too obvious to warrant mention — is there is no equitable doctrine of laches in the Income Tax Act. The Act contains a plethora of time limits that must be observed — a time to file, a time to elect, a time to assess, a time to object, a time to appeal[1] — the list goes on and on. Where there is no time limit specified for doing an act the fact that what might seem an inordinate delay has occurred is no obstacle to a taxpayer's right to do it. I see no reason that would justify the court's supplementing the overwhelming list of time limits in the Act by introducing the somewhat imprecise time limits embodied in the equitable doctrine of laches.
+
+[11] Fourth, the appellant says the Minister has the onus of proof of showing that the expenses were not SR & ED because he did not perform an audit and therefore did not "assume" that they were not SR & ED. The Minister performed no audit because the return and prescribed forms were filed many years after the time the Minister believed they should have been. His view was obviously that it did not matter what the expenditures were because he believed the technical requirements of claiming them as SR & ED and of claiming RITCs in respect of them had not been met.
+
+[12] If the nature of the expenditures were in issue I would not have cast the onus on the Minister in these circumstances. To do so would be to take the rule in M.N.R. v. Pillsbury Holdings Ltd, [1965] 1 Ex.C.R. 676, as discussed in Kit-Win Holdings (1973) Limited v. The Queen, 81 DTC 5030, far beyond its ratio decidendi. See The Cadillac Fairview Corporation Limited v. The Queen, 97 DTC 405 at page 407 footnote 2.
+
+[13] I come now to the main point of the appeal. The respondent's position is that the appellant's claim for RITCs fails because it is out of time. Specifically, it fails because the prescribed form claiming the RITCs was not filed within the time limits prescribed by the Income Tax Act. The appellant says the time limits upon which the Crown relies are either inapplicable or invalid. To appreciate the force of these opposing arguments will require a review of the legislation relating to RITCs.
+
+[14] We start with section 37 of the Income Tax Act which permits the deduction under specific circumstances of SR & ED expenditures, as defined. I shall assume for the purposes of these reasons that the expenditures involved here were incurred in 1986 and fell within the definition of SR & ED.
+
+[15] Such expenditures qualify for ITCs under section 127 and specifically under the definition of ITC in subsection 127(9). However section 127.1 creates an additional benefit for a qualifying corporation (essentially a Canadian-controlled private corporation whose business income in the preceding year did not exceed $200,000). The appellant was such a corporation. Subsection 127.1 permitted a qualifying corporation to include in the computation of its RITCs 40% of the unclaimed balance of the ITCs earned in the current year. Moreover, a qualifying corporation may be refunded any portion of the unclaimed balance of the ITCs earned in the year of its current SR & ED at a rate of 35%.
+
+[16] ITC is defined in subsection 127(9) in part as follows (I am quoting from the Income Tax Act as it read in 1987).
+
+"investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the aggregate of
+
+(a) the aggregate of all amounts each of which is the specified percentage of
+
+...
+
+(ii) a qualified expenditure made by him in the year,
+
+...
+
+(e) the aggregate of all amounts each of which is an amount required by subsection (10.1) to be added in computing his investment tax credit at the end of the year or at the end of any of the 7 taxation years immediately preceding or the 3 taxation years immediately following the year.
+
+[17] The portion of section 127.1 creating the right to RITCs that are relevant to this appeal are:
+
+127.1(1) Where a taxpayer (other than a person exempt from tax under section 149) files
+
+(a) with his return of income (other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4)) under this Part for a taxation year, or
+
+(b) with a prescribed form[2] amending a return referred to in paragraph (a)
+
+a prescribed form containing prescribed information, he shall be deemed to have paid, on the day on which the return referred to in paragraph (a) or the form referred to in paragraph (b), as the case may be, is filed, an amount, on account of his tax under this Part for the year, equal to his refundable investment tax credit for the year.
+
+(2) In this section,
+
+...
+
+"refundable investment tax credit" for a taxation year means,
+
+(a) in the case of a taxpayer that is
+
+(i) a qualifying corporation for the year,
+
+(ii) an individual other than a trust, or
+
+(iii) a trust each beneficiary of which is a person referred to in subparagraph (i) or (ii),
+
+an amount equal to 40% of the amount, if any, by which
+
+(iv) the aggregate of all amounts each of which is an amount included in computing his investment tax credit at the end of the year
+
+(A) in respect of property acquired, or an expenditure made (other than a qualified Canadian exploration expenditure or an expenditure in respect of which an amount is included under subparagraph (vi) or (b)(ii) in computing his refundable investment tax credit for the year), by him in the year and after April 19, 1983 and before 1989,
+
+(B) pursuant to paragraph (b) of the definition "investment tax credit" in subsection 127(9) in respect of a property acquired, or an expenditure made (other than a qualified Canadian exploration expenditure or an expenditure in respect of which an amount is included under subparagraph (vi) or (b)(ii) in computing his refundable investment tax credit for the year), by him in the year and after April 19, 1983 and before 1989, or
+
+(C) where the taxation year commences before 1989,
+
+(I) in respect of his qualified Canadian exploration expenditure for the year, or
+
+(II) pursuant to subparagraph (b) of the definition "investment tax credit" in subsection 127(9) in respect of a qualified Canadian exploration expenditure for the year,
+
+other than an amount included under subparagraph (b)(iii)
+
+exceeds
+
+(v) the aggregate of
+
+(A) such portion of the aggregate of all amounts each of which is an amount deducted by him under subsection 127(5) for the year or a preceding taxation year (other than an amount deemed by subsection (3) to be so deducted for the year) as may reasonably be considered to be in respect of the aggregate determined under subparagraph (iv), and
+
+(B) such portion of the aggregate of all amounts each of which is an amount required by subsection 127(6) or (7) to be deducted in computing its investment tax credit at the end of the year as may reasonably be considered to be in respect of the aggregate determined under subparagraph (iv),
+
+plus, in the case of a qualifying corporation for the year, other than an excluded corporation for the year, the amount, if any, by which
+
+(vi) the aggregate of
+
+(A) the aggregate of all amounts each of which is an amount required by subsection 127(10.1) to be added in computing its investment tax credit at the end of the year in respect of an expenditure, other than an expenditure of a capital nature, made by it after May 23, 1985 and in the year, and
+
+(B) the aggregate of all amounts each of which is an amount determined under paragraph (a) of the definition "investment tax credit" in subsection 127(9) in respect of an expenditure for which an amount is included in clause (A)
+
+exceeds
+
+(vii) the aggregate of
+
+(A) such portion of the aggregate of all amounts each of which is an amount deducted by it under subsection 127(5) for the year or a preceding taxation year (other than an amount deemed by subsection (3) to be so deducted for the year) as may reasonably be considered to be in respect of the aggregate determined under subparagraph (vi), and
+
+(B) such portion of the aggregate of all amounts each of which is an amount required by subsection 127(6) to be deducted in computing its investment tax credit at the end of the year as may reasonably be considered to be in respect of the aggregate determined under subparagraph (vi), and
+
+(b) in the case of any other taxpayer, the aggregate of ...
+
+(not applicable)
+
+[18] The two portions of that definition that the appellant says are of particular significance in this appeal are clause (a)(iv)(A) and clause (a)(vi)(A):
+
+(iv) the aggregate of all amounts each of which is an amount included in computing his investment tax credit at the end of the year
+
+(A) in respect of property acquired, or an expenditure made (other than a qualified Canadian exploration expenditure or an expenditure in respect of which an amount is included under subparagraph (vi) or (b)(ii) in computing his refundable investment tax credit for the year), by him in the year and after April 19, 1983 and before 1989,
+
+...
+
+(vi) the aggregate of
+
+(A) the aggregate of all amounts each of which is an amount required by subsection 127(10.1) to be added in computing its investment tax credit at the end of the year in respect of an expenditure, other than an expenditure of a capital nature, made by it after May 23, 1985 and in the year.
+
+[19] Subsection 127(10.1) read:
+
+For the purposes of paragraph (e) of the definition "investment tax credit" in subsection (9), where a taxpayer was throughout its taxation year a Canadian-controlled private corporation whose taxable income for the immediately preceding taxation year together with the taxable incomes of all corporations with which it was associated in the year for their taxation years ending in the calendar year immediately preceding the calendar year in which the corporation's year ended does not exceed the aggregate of the business limits (as determined under section 125) of the corporation and the associated corporations for those preceding years, the amount, if any, by which
+
+(a) 35% of the lesser of
+
+(i) the aggregate of all expenditures described in subparagraph (e)(iv) of the definition "specified percentage" in subsection (9) made by it in the year and that were designated by the taxpayer in its return of income under this Part for the year, and
+
+(ii) the taxpayer's expenditure limit for the year
+
+exceeds
+
+(b) the aggregate of all amounts determined under paragraph (a) of the definition "investment tax credit" in subsection (9) in respect of an expenditure referred to in subparagraph (a)(i)
+
+shall be added in computing the taxpayer's investment tax credit at the end of the taxation year.
+
+[20] The definition of "qualified expenditure" in subsection 127(9) read in 1987 as follows:
+
+"qualified expenditure" means an expenditure in respect of scientific research and experimental development made by a taxpayer after March 31, 1977 that qualifies as an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i), but does not include
+
+(a) a prescribed expenditure, nor
+
+(b) in the case of a taxpayer that is a corporation, an expenditure specified by the taxpayer for the purposes of clause 194(2)(a)(ii)(A).
+
+[21] That definition was amended in 1994 by S.C. 1994 C. 21 ("the 1994 amending act"), subsection 61(1) which read.
+
+The definition "qualified expenditure" in subsection 127(9) of the Act is amended by striking out the word "nor" at the end of paragraph (a), by adding the word "or" at the end of paragraph (b) and by adding the following after paragraph (b):
+
+(c) subject to subsection (11.4), an expenditure in respect of which the taxpayer does not, by the day on or before which the taxpayer's return of income under this Part for the taxpayer's taxation year after that in which the expenditure was incurred is required to be filed, or would be required to be filed if tax under this Part were payable by the taxpayer for that following year, file with the Minister a prescribed form containing prescribed information.
+
+[22] The 1994 amending act was assented to on June 15, 1994. The prescribed form referred to in the amendment was T-661.
+
+[23] Subsection 61(5) of the 1994 amending act read as follows.
+
+(5) Subsections (1) and (4) apply after February 21, 1994 to expenditures incurred at any time except that, for an expenditure incurred by a taxpayer in a taxation year ending before February 22, 1994, the taxpayer may file the prescribed form referred to in paragraph (c) of the definition "qualified expenditure" in subsection 127(9) of the Act, as enacted by subsection (1), by the later of the day referred to in that paragraph and the day that is 90 days after this Act is assented to.
+
+[24] By S.C. 1996 C. 21 ("the 1996 amending act") subsection 30(10) the definition of "qualified expenditure" was replaced. Subsection 30(10) of the amending act read as follows.
+
+The definition "qualified expenditure" in subsection 127(9) of the Act is replaced by the following:
+
+"qualified expenditure" incurred by a taxpayer in a taxation year means
+
+(a) an amount that is an expenditure incurred in the year by the taxpayer in respect of scientific research and experimental development that is an expenditure
+
+(i) for the first term shared-use-equipment or second term shared-use-equipment,
+
+(ii) described in paragraph 37(1)(a), or
+
+(iii) described in subparagraph 37(1)(b)(i), or
+
+(b) a prescribed proxy amount of the taxpayer for the year (which, for the purpose of paragraph (e), is deemed to be an amount incurred in the year),
+
+but does not include
+
+...
+
+(e) subject to subsection (11.4), an amount in respect of which the taxpayer does not file with the Minister a prescribed form containing prescribed information on or before the day that is 12 months after the taxpayer's filing-due date for the particular taxation year in which the amount would have been incurred in this Act were read without reference to subsections (26) and 78(4) where the particular year begins after 1995.
+
+[25] Subsection 30(26) of the 1996 amending act read
+
+Subsections (1) to (3) and (5) to (23), subsections 127(11.4) and (11.5) of the Act, as enacted by subsection (24), and subsections 127(13) to (25) of the Act, as enacted by subsection (25), apply to taxation years that begin after 1995.
+
+[26] Again, the prescribed form in paragraph (e) of the new definition of qualified expenditure was form T-661.
+
+[27] Finally, S.C. 1998 C. 19 ("the 1998 amending act") was enacted. It did a number of things.
+
+[28] First, by subsection 33(2) it replaced paragraphs (e) to (g) of the definition of qualified expenditure in subsection 127(9) by paragraphs (f) and (g) which are not germane to the present enquiry. Effectively it removed from the definition of qualified expenditure the requirement for filing the prescribed form (T-661) setting out the SR & ED expenditure within one year of the taxpayer's filing-due date that had been introduced in the 1994 amendment and continued in the 1996 amendment.
+
+[29] Second, under the 1998 amending act the requirement for filing the prescribed form was put into the definition of "investment tax credit". Section 33 of the amending act read in part:
+
+(1) The portion of the definition "investment tax credit" in subsection 127(9) of the Act after paragraph (k) is replaced by the following:
+
+except that no amount shall be included in the total determined under any of paragraphs (a) to (e.2) in respect of an outlay, expense or expenditure that would, if this Act were read without reference to subsections (26) and 78(4), be made or incurred by the taxpayer in the course of earning income in a particular taxation year, and no amount shall be added under paragraph (b) in computing the taxpayer's investment tax credit at the end of a particular taxation year in respect of an outlay, expense or expenditure made or incurred by a trust or a partnership in the course of earning income, if
+
+(l) any of the income is exempt income, or
+
+(m) the taxpayer does not file with the Minister a prescribed form containing prescribed information in respect of the amount on or before the day that is one year after the taxpayer's filing-due date for the particular year.
+
+...
+
+(6) Subsection (1) applies to all taxation years except that, if the taxpayer's filing-due date for the year is before June 1996, the taxpayer may file the prescribed form referred to in paragraph (m) of the definition "investment tax credit" in subsection 127(9) of the Act, as enacted by subsection (1), before June 1997, and, for the purposes of this subsection and subsection (1), the definition "filing-due date" in subsection 248(1) of the Act applies to all taxation years.
+
+(7) Subsections (2) and (3) apply to taxation years that begin after 1995.
+
+[30] Subsection 33(2) of the 1998 amending act, referred to in subsection (7) was the provision that in effect repealed paragraph (e) of the definition of "qualified expenditure". That repeal was effective for taxation years that begin after 1995, but the revival of the requirement for the filing of a prescribed form in the definition of ITC applied to all taxation years, with the qualification that if the taxpayer's filing-due date was before June 1996 the taxpayer was permitted to file the prescribed form before June 1997.
+
+[31] The definition of filing-due date was added to section 248 in 1996. It reads
+
+"filing-due date" for a taxation year of a taxpayer means the day on or before which the taxpayer's return of income under Part I for the year is required to be filed or would be required to be filed if tax under that Part were payable by the taxpayer for the year.
+
+[32] Counsel for the appellant observed that the deadline of June 1997 for filing by a taxpayer whose filing-due date was before June 1996 was created by a statute that was not assented to until June 18, 1998.
+
+[33] I shall try to summarize these provisions.
+
+[34] In 1986 subsection 127.1 allowed a taxpayer to claim RITCs if it filed with its return of income a prescribed form with prescribed information (T-661). At that time there was no time limit imposed on the taxpayer with respect to the filing of the prescribed form. All that was required was that the prescribed form be filed with the return of income for the year or with a prescribed form amending a return. In computing the RITCs under subsection 127.1 there were to be included among other things:
+
+(a) Clause (a)(iv)(A). The amount included in computing its ITCs in respect of property acquired or expenditure made between April 19, 1983 and before 1989 (other than the amounts included in computing RITCs under paragraph (vi)). This amount must be a "qualified expenditure".
+
+(b) Clause (a)(vi)(A). Amounts included under subsection 127(10.1) (additional ITCs). These are current SR & ED expenditures. Counsel for the appellant argued that this provision did not require that the expenditure be a qualified expenditure.
+
+[35] Subsection 127(10.1) incorporates by reference expenditures described in subparagraph (e)(iv) of the definition of "specified percentage" in subsection 127(9).
+
+[36] The definition of "specified percentage" in subsection 127(9) read in 1987 in part
+
+"specified percentage means"
+
+...
+
+(e) in respect of a qualified expenditure
+
+...
+
+(iv) made by a taxpayer in his 1985 taxation year or a subsequent taxation year, other than a qualified expenditure in respect of which subparagraph (ii) is applicable, in respect of scientific research and experimental development to be carried out in
+
+(A) the Province of Newfoundland, Prince Edward Island, Nova Scotia or New Brunswick or in the Gaspé Peninsula, 30%, and
+
+(B) any other area in Canada, 20%.
+
+[37] I am, respectfully, unable to agree that the definition of specified percentage and therefore the amount includible under subsection 127(10.1) and the amount to be included in a taxpayer's RITCs under the definition of RITCs in clause (a)(vi)(A) of the definition do not require that the expenditure be a qualified expenditure. Subparagraph (e)(iv) of the definition of specified percentage deals only with qualified expenditures. I do not think that one can look at subparagraph (e)(iv) of the definition of specified percentage and ignore paragraph (e).
+
+[38] On the assumption that that legal conclusion is right I shall deal with the other arguments. As stated above there were no time limits imposed in 1987 for filing the prescribed form. The time limit was first imposed in 1994 by subsection 61(1) which added paragraph (c) to the definition of qualified expenditure. However the time limit for filing the prescribed form was extended to the later of one year after the return was required to be filed or 90 days after the Act received royal assent, which was June 15, 1994.
+
+[39] The expenditures were incurred in the appellant's 1986 taxation year. The appellant's year-end was September 30. Therefore the last day for filing the 1987 tax return would be March 31, 1988 and this would, according to paragraph (c) of the definition of qualified expenditure in the 1994 amending act, be the last day for filing the prescribed form T-661. This was an obvious impossibility since the 1994 amending act became law only on June 15, 1994. Therefore subsection 61(5) of the 1994 amending act extended the time for filing the prescribed form for expenditures incurred in a taxation year ending before February 22, 1994 to 90 days after June 15, 1994.
+
+[40] If we stop there it will be obvious that the prescribed form was not filed by that date. The provision seems fairly straightforward although there may be other arguments available, such as retrospectivity. I will discuss these below.
+
+[41] The new definition of qualified expenditure in subsection 30(10) of the 1996 amending act substantially repeats in paragraph (e) the provisions of paragraph (c) introduced in the 1994 amending act. Subsection (26) provides that a number of subsections, including subsection (10), apply to taxation years that begin after 1995. Thus the replacement in 1996 of former paragraph (c) of the definition applies only to years beginning after 1995 and, it would seem, paragraph (c) of the amended definition introduced by subsection 61(1) of the 1994 amending act, as well as the application provision (subsection (5)) remain intact and are unaffected by the 1996 amending act.
+
+[42] Subsections 33(1) and (2) of the 1998 amending act removed the requirement to file a prescribed form from the definition of qualified expenditure and put it in the definition of investment tax credit. Subsection 33(6) provides that subsection (1), which requires the filing of a prescribed form (T-2038) within one year from the filing-due date, applied to all years except that if the taxpayer's filing-due date is before June 1996 it had until May 31, 1997 to file the form.
+
+[43] Counsel for the appellant observes that the 1998 amending act received royal assent on June 18, 1998, over a year after the extended date of May 31, 1997.
+
+[44] I begin with the observation that there is nothing incomprehensible about the statutory provisions summarized above. Up to the effective date of the 1994 amending act a taxpayer could claim RITCs by filing an appropriate prescribed form (T-661) with its return of income. In 1994 for the first time the failure to file a prescribed form (T-2038)[3] in the time provided prevented expenditures from being "qualified expenditures", a prerequisite to claiming the RITCs. The time for filing the form was, however extended to 90 days after the 1994 amending act was assented to for taxpayers such as the appellant who incurred SR & ED expenditures in taxation years ending before February 22, 1994.
+
+[45] This situation for years prior to 1996 was not altered by the 1996 amending act. The introduction of the new definition of qualified expenditure in that act applied only to taxation years beginning after 1995.
+
+[46] The 1998 amending act did however make a change that affected the appellant. It moved the requirement for filing a prescribed form to the definition of investment tax credit and extended the time for filing the prescribed form to May 31, 1997.
+
+[47] We have, then, statutory language that is reasonably comprehensible, as income tax legislation goes, and that appears to impose an obligation, if a taxpayer wants to claim a RITC for expenditures made in 1986, to file a prescribed form by May 31, 1997. I have difficulty appreciating the force of the argument that since the 1998 amending act did not receive royal assent until 18 June 1998 it was impossible to meet the May 31, 1997 deadline or at all events it could be ignored.
+
+[48] The fact that the 1998 amending act came into force on June 18, 1998, a little over one year after the May 31, 1997 deadline, leads to the postulation of three alternative hypotheses, as follows:
+
+1. The statute takes effect in accordance with its terms.
+
+2. The deadline of May 31, 1997 can be extended on some basis until the coming into force of the 1998 amending act. I know of no principle that could justify such a judicial tinkering with Parliament's intent as expressed in the language used. Even if I could extend the deadline to the date of royal assent the prescribed form was not filed until April 26, 1999.
+
+3. The deadline of May 31, 1997 can simply be ignored as being of no effect. This is essentially what the appellant is arguing. In his written argument counsel for the appellant contends that the coming-into-force provision for the 1998 amendment is impossible to comply with. He says in his written argument:
+
+The coming-into-force provision for the 1998 amendment to the definition "investment tax credit" states that the amendment applies to all taxation years, except that if the filing-due date is before June 1996, the taxpayer has until June 1997 to file the prescribed form.
+
+The provision creates the anomaly in that although Parliament intended to relieve the retroactive application of the amendment by providing a filing grace period ending June 1997, the statutory provisions never received Royal Assent, and the filing requirement never became law, until June 18, 1998, almost one year after the end of the grace period. The grace period, therefore, never could be legally complied with. It is therefore respectfully submitted that the coming-into-force provision, at least insofar as it applies to taxation years ending prior to the date of Royal Assent, is void for vagueness, because no meaningful, realistic application can be derived from its wording. As such, the filing requirement in paragraph (m) of the definition "investment tax credit" cannot and does not apply with respect to taxation years ending before June 18, 1998, being the date of Royal Assent. (It should be noted that subsection 127.1(1) of the Act at all times imposed a requirement to file the form T2038 with a taxpayer's return of income for the year — this was done by the Appellant.)
+
+The common law has consistently held that where the words of a statute lead to an absurd or untenable result, the express language must be ignored in favour of a common sense approach. This principle was stated long ago in the leading English decision, BonHam's Case (1610), 77 ER 638 (CP), where Sir Edward Coke stated at 652:
+
+[W]hen an Act of Parliament is against common right or reason, or repugnant, or impossible to be performed, the common law will countroul [sic] it, and adjudge such Act to be void.
+
+It is clear from the above excerpt that one of the factors to be considered is whether a provision is "impossible to be performed." A statutory provision that on its face is unambiguously worded yet is impossible to apply—as the present provision is—comes within the void for vagueness doctrine.
+
+[49] If the coming into force provision of the 1998 amendment is, as contended by the appellant, void it leads to one of two results:
+
+(i) there is no time limit for the filing of the prescribed form; or
+
+(ii) the coming into force provision of the 1998 amending act disappears and the 1994 amendment remains intact. Subsection 61(5) of that act extended the time for filing the prescribed form until the later of a year after the date on which the return for the year when the expenditure was made was to be filed and 90 days after 15 June 1994. The appellant has missed that deadline, and so getting rid of the deadline imposed by the 1998 amendment is of no assistance to the appellant unless it can at the same time make the deadline created in 1994 disappear as well.
+
+[50] The argument in favour of the reading out of the 1994 amending act the requirement that a prescribed form be filed by the later of one year after the date upon which the return for the year in which the expenditures are incurred must be filed and 90 days after June 15, 1994 is that the requirement retroactively imposes further obligations on taxpayers who had filed the requisite form (T-661) and could result in creating retroactively a non-compliance with the Act and a requirement to pay back the RITC.
+
+[51] The appellant expresses the point very clearly.
+
+"Qualified Expenditure" - 1994 Amendment
+
+The Respondent asserts that because the Appellant did not file the prescribed form T661 within one year of the appellant's filing-due date for the 1986 taxation year, the SR & ED expenditures made by the Appellant do not qualify as "qualified expenditures" as a result of the 1994 amendment to the definition of that term. The Appellant disagrees with the Respondent's position.
+
+The Appellant further submits that the purported effect of the 1994 amendment to the definition of "qualified expenditure", if one accepts the Respondent's position, would be to retroactively disentitle certain taxpayers who had undertaken SR & ED expenditures from claiming an ITC or RITC in respect of those expenditures. The Appellant submits that such an interpretation is inconsistent with the scheme of the Act, and in particular the scheme embodied in the SR & ED and ITC provisions of the Act. The purpose of these provisions was to encourage Canadian enterprises, and in particular start-up enterprises, to engage in scientific research in order to ensure that Canada remained globally competitive in new emerging technologies. An incentive was thus given to such enterprises in the form of a RITC. The Appellant submits that to interpret the 1994 amendments in such a manner that they would apply to taxation years before Royal Assent would be inconsistent with the Parliamentary intent inherent in the SR & ED program. In particular, such an interpretation would result in all qualified SR & ED expenditures undertaken prior to 1994 no longer qualifying unless the taxpayers somehow complied with the new filing requirement.
+
+The Appellant further submits that a "reading down" of the coming-into-force provisions for the 1994 amendment is appropriate in circumstances where the interpretation proposed by the Respondent would otherwise take away vested rights from taxpayers: Gustavson Drilling [tab 12]. Prior to the 1994 amendment, a taxpayer who incurred SR & ED expenditures and who filed a prescribed form with the taxpayer's return of the year was entitled to an RITC. The Appellant submits that Parliament cannot be presumed to have intended that all taxpayers who carried on SR & ED and filed the prescribed form for their 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992 or 1993 returns, as the case may be, would automatically and retroactively no longer be entitled to an RITC, and thus be liable to repay any such RITC received by them, if they had failed to file a prescribed form within one year of the applicable filing-due date or within 90 days of royal assent to the 1994 amendment.
+
+[52] This argument is somewhat reminiscent of what my former law professor, the late and great Bora Laskin, who subsequently became the Chief Justice of Canada, used to call "parading the horrors" — the depiction of a worst-case scenario to which a particular interpretation might lead. The argument assumes that a taxpayer had filed its return along with the required form in conformity with the existing legislation and obtained a refund of the RITCs for say, 1986, and that the Minister had then sought to claim back the refund because the taxpayer had not filed a further form as subsequently required by the 1994 amending act. The contention is that the Minister's right to reclaim the RITCs paid to the taxpayer in accordance with the legislation as it existed could not have been contemplated by Parliament. No doubt that is so, but it is not the situation with which we are dealing here. The appellant is not a taxpayer who has filed its return and claimed and received a RITC prior to the coming into force of the 1994 amending act.
+
+[53] If the somewhat extreme situation postulated by the appellant in the argument quoted above occurred it would have to be looked at very carefully, because it gives rise to quite different considerations from those that prevail here where the claim is based upon a filing that is well beyond any statutory filing date.
+
+[54] In any event, I do not think that the fact that a statutory provision can in some circumstances lead to an unjust or inconvenient or even absurd result can justify ignoring it or not applying it to a different set of circumstances. The principle that if a statute is susceptible of two interpretations, one leading to an absurd result and one not, the interpretation that avoids absurdity is to be preferred is well known. However where the words of the statute are clear the court must give effect to them even if they lead to an absurd, unjust or inconvenient result. To modify the plain legislative language so that it conforms to the judge's notion of what is more reasonable or more fair or less absurd would be to usurp the role of Parliament. I did not intend these reasons to be a dissertation on the rule of statutory interpretation that permits a court to seek to avoid absurdity, or that restricts the court's ability to modify or tinker with plain statutory language to achieve what the judge believes is a more desirable result. There is ample authority on the subject and it is collected in Craies on Statute Law, 7th Edition, pages 86-92.
+
+[55] I have concluded that the provisions of the 1994, 1996 and 1998 amendments are not void for uncertainty nor can the time limits be ignored because they might lead in some circumstances to an unfair result.
+
+[56] There remain then the arguments based on unjust enrichment and retrospectivity.
+
+[57] The unjust enrichment argument is based upon the Federal Court Trial Division's judgment in Forest Oil Corp. v. Canada, [1997] 1 F.C. 624.
+
+[58] The concept of unjust enrichment is not a free-standing principle in Canadian law. It is a factor that enters into the determination whether the equitable remedy of declaring a constructive trust should be granted. Obviously this court cannot make such a declaration within the jurisdiction conferred by the Income Tax Act. Nonetheless if the doctrine of constructive trust is part of the law of Canada this court must take it into account like every other principle of law that is relevant to the determination of an issue within its jurisdiction, whether the principle of law is based on statute, equity or the common law.
+
+[59] I am, however, unable to see where the doctrine of constructive trust, which may subsume the concept of unjust enrichment, has anything to do with this case. The appellant here is claiming a RITC, which is solely a creation of statute. Either the taxpayer meets the requirements of the statute or it does not. It is this court's function to decide that question. If the requirements are met the appeal will be allowed. If they are not I cannot parachute some doctrine of unjust enrichment into the equation and say, in effect, "Oh well, you don't meet the statutory conditions but it would be unfair for the government not to give you the refund because it would be unjustly enriched at your expense and so I will allow the appeal so you can get your refund."
+
+[60] Income tax appeals do not work that way. It would make for some very interesting jurisprudence if this court could base its decisions on whether a failure to meet certain statutory conditions resulted in unjust enrichment of the government or a taxpayer. Suppose the Minister failed to assess within the normal assessing period and no misrepresentation existed of the type that would allow opening up the statute-barred year. If the doctrine of unjust enrichment applied it should apply to taxpayers as well as the government, on the basis of the sauce for the goose sauce for the gander principle, and presumably the Minister could reassess on the theory that if he did not the taxpayer would be unjustly enriched because the Minister missed a limitation period.
+
+[61] I do not think the unjust enrichment principle applies here.
+
+[62] Finally, I come to the question whether the amendments in 1994, 1996 and 1998 are retroactive or retrospective and if they are whether this affects the appellant's right to claim RITCs.
+
+[63] The question of the retrospective operation of statutes was discussed by the Supreme Court of Canada in Gustavson Drilling (1964) Ltd. v. M.N.R., 75 DTC 5451. In that case the question was whether an amendment in 1962 to subsection 83A (8a) of the Income Tax Act whereby paragraphs (c) and (d) thereof were repealed precluded the taxpayer's deduction of drilling and exploration expenses in 1965 to 1968. It was common ground that but for the repeal of paragraphs (c) and (d) the expenses would have been deductible.
+
+[64] Dickson J. (as he then was) speaking for the majority set out the respective arguments of the parties at page 5454:
+
+It will be convenient now to consider in more detail the submissions of the appellant and of the Minister. Those of the Minister may be shortly put, resting on the language of the Act which, the Minister submits, is precise and unambiguous when read in the context of the whole statute and the general intendment of the Act. It is argued that there is no need to have recourse to presumptions of legislative intent, for such rules of construction are only useful in ascertaining the true meaning where the language of the statute is not clear and plain: per Lamont J. in Acme Village School District v. Steele-Smith, (1933) S.C.R. 47, 51. There is much to this submission. I do not think that the appellant can sustain its position on a literal reading of subs. (8a), the language of which places appellant fairly and squarely in the category of a predecessor company. The appellant, however, seeks to avoid a literal construction of the subsection with a three-pronged argument, which must fairly be considered, based upon (a) the presumption against retrospective operation of statutes; (b) the presumption against interference with vested rights; (c) the meaning to be given to the word "aggregate" in subs. (8a). With regard to points (a) and (b) it would not be sufficient for the appellant to establish that the legislation had retrospective effect; it must also show it had an accrued right which was adversely affected by the legislation.
+
+[65] Both the Minister's argument and that of the appellant in that case are essentially those advanced here. As stated above, I find the language of the amendments unambiguous.
+
+[66] Dickson J. then discussed retrospectivity:
+
+First, retrospectivity. The general rule is that statutes are not to be construed as having restrospective operation unless such a construction is expressly or by necessary implication required by the language of the Act. An amending enactment may provide that it shall be deemed to have come into force on a date prior to its enactment or it may provide that it is to be operative with respect to transactions occurring prior to its enactment. In those instances the statute operates retrospectively. Superficially the present case may seem akin to the second instance but I think the true view to be that the repealing enactment in the present case, although undoubtedly affecting past transactions, does not operate retrospectively in the sense that it alters rights as of a past time. The section as amended by the repeal does not purport to deal with taxation years prior to the date of the amendment; it does not reach into the past and declare that the law or the rights of parties as of an earlier date shall be taken to be something other than they were as of that earlier date. The effect, so far as appellant is concerned, is to deny for the future a right to deduct enjoyed in the past but the right is not affected as of a time prior to enactment of the amending statute.
+
+[67] At pages 5455-6 he said:
+
+The Income Tax Act contains a series of very complicated rules which change frequently, for the annual computation of world income. The statute in force in the particular taxation year must be applied to determine the taxpayer's taxable income for that year. The effect of the repealing enactment of 1962 was merely to provide that in future years certain new rules should apply affecting deductions from income of exploration and development expenses. Although the effect of the repealing enactment may appear to have been to divest the appellant of a right to deduct which it had earlier enjoyed and in some manner have caused a transmutation of an antecedent transaction, I do not think that, when the matter is closely examined, such is the true effect. In each of the years 1949 to 1960 the appellant had a right to deduct. The Act in each of those years conferred the right. In 1960 the appellant transferred its assets. The contract of sale, if any, forms no part of the record. So far as the record discloses, no mention was made of drilling and exploration expenses at the time. After disposing of its property, it was no longer a corporation whose principal business was that of exploring or drilling for petroleum or natural gas nor did it have income. It therefore, no longer had a right to deduct. No claim was made by it in the 1961, 1962, 1963 or 1964 taxation years. By the time the appellant resumed business it had no right under the then legislative scheme to claim for drilling and exploration expenses incurred in earlier years. Any claim which it might make for exploration and drilling expenses could only be in respect of expenses incurred following resumption of business. It may seem unfortunate that an amendment which was intended to liberalize the legislation by removing a barrier to the inheritance of drilling and exploration expenses should have the effect of denying a predecessor company such as the appellant from enjoying a right which it would have enjoyed in the absence of the repeal but the legislation as amended is unambiguous and clear. After the repeal of paras. (c) and (d) of subs. (8a) in 1962 and for the purpose of paying income tax in the years following 1962, the appellant company is a predecessor company within the meaning of subs. (8a) and precluded from deducting the drilling and exploration expenses incurred by it prior to November 10, 1960.
+
+Second, interference with vested rights. The rule is that a statute should not be given a construction that would impair existing rights as regards person or property unless the language in which it is couched requires such a construction: Spooner Oils Ltd. v. Turner Valley Gas Conservation Board, (1933) S.C.R. 629, 638. The presumption that vested rights are not affected unless the intention of the legislature is clear applies whether the legislation is retrospective or prospective in operation. A prospective enactment may be bad if it affects vested rights and does not do so in unambiguous terms. This presumption, however, only applies where the legislation is in some way ambiguous and reasonably susceptible of two constructions. It is perfectly obvious that most statutes in some way or other interfere with or encroach upon antecedent rights, and taxing statutes are no exception. The only rights which a taxpayer in any taxation year can be said to enjoy with respect to claims for exemption are those which the Income Tax Act of that year give him. The burden of the argument on behalf of appellant is that appellant has a continuing and vested right to deduct exploration and drilling expenses incurred by it, yet it must be patent that the Income Tax Acts of 1960 and earlier years conferred no rights in respect of the 1965 and later taxation years. One may fall into error by looking upon drilling and exploration expenses as if they were a bank account from which one can make withdrawals indefinitely or at least until the balance is exhausted. No one has a vested right to continuance of the law as it stood in the past; in tax law it is imperative that legislation conform to changing social needs and governmental policy. A taxpayer may plan his financial affairs in reliance on the tax laws remaining the same; he takes the risk that the legislation may be changed.
+
+The mere right existing in the members of the community or any class of them at the date of the repeal of a statute to take advantage of the repealed statute is not a right accrued: Abbot v. Minister of Lands, (1895) A.C. 425, 431; Western Leaseholds Ltd. v. Minister of National Revenue, [61 DTC 1309] (1961) C.T.C. 490 (Exch.); Director of Public Works v. Ho Po Sang, (1961) 2 All E.R. 721 (P.C.).
+
+Section 35 of the Interpretation Act, R.S.C. 1970, c. I-23 is cited in support of the appellant. It reads:
+
+35. Where an enactment is repealed in whole or in part, the repeal does not
+
+.....
+
+(b) affect the previous operation of the enactment so repealed or anything duly done or suffered thereunder;
+
+(c) affect any right, privilege, obligation or liability acquired, accrued, accruing or incurred under the enactment so repealed.
+
+I agree with Mr. Justice Thurlow of the Federal Court of Appeal that it cannot be said that the repeal of paras. (c) and (d) affected their previous operation or anything done or suffered by appellant thereunder since paras. (c) and (d) never had any operation upon or application to anything done or suffered by appellant. I am also in agreement with Mr. Justice Thurlow that it cannot be said that any right acquired by appellant under paras. (c) or (d) was affected by their repeal, since no right was ever acquired by appellant under either of them. This section is merely the statutory embodiment of the common law presumption in respect of vested rights as it applies to the repeal of legislative enactments and in my opinion the section does nothing to advance appellant's case. Appellant must still establish a right or privilege acquired or accrued under the enactment prior to repeal, and this it cannot do.
+
+[68] I have quoted extensively from the decision of the Supreme Court of Canada because it sets out the constraints that are placed on the court's ability to limit the effect of retrospective legislation.
+
+[69] In light of these principles can it be said that the amendments are retrospective and if so, what is the effect of that retrospectivity?
+
+[70] The amendments in 1994, 1996 and 1998 do, it is true, put a limitation if not on the right to claim RITCs for years that precede the amendments at all events on the manner in which they can be claimed. To that extent they differ from those involved in the Gustavson case, which affected the deductibility of expenses incurred after their enactment. I do not, however, see how they took away any vested and accrued right of the appellant. The appellant's right to claim RITCs for earlier years was preserved but new filing requirements to the exercise of that right were imposed prospectively. What the appellant had, prior to the enactment of the first set of amendments in 1994, was an expectation that it could file its return of income for 1986 and claim the RITCs for that year after the Act required that the return be filed. I do not regard that as an accrued right of which the amendments deprived the appellant. Even if it were the amendments are unambiguous in what they intend to do. As Dickson J. said in the passage quoted above, the presumption that vested rights are not affected unless the intention of the legislature is clear applies whether the legislation is retrospective or prospective.
+
+[71] Moreover even if in some way it could be said that the right to file returns and claim RITCs is one that could be exercised for an indefinite period of time the limitation that Parliament placed on that right is prospective even though it affects a claim based on expenditures incurred in a prior taxation year.
+
+[72] My conclusion is that the amendments are not retrospective and even if they are the intended effect of the legislation is clear and unambiguous.
+
+[73] The appeal is dismissed with costs.
+
+Signed at Ottawa, Canada, this 22nd day of February 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2000-1413(IT)G
+
+STYLE OF CAUSE: Between Datacalc Research Corporation and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: February 4, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: February 22, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Craig C. Sturrock, Esq.
+
+Tom Bauer, Esq.
+
+Counsel for the Respondent: Karen Truscott
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Craig C. Sturrock, Esq.
+
+Firm: Thorsteinssons
+
+Vancouver, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-1413(IT)G
+
+BETWEEN:
+
+DATACALC RESEARCH CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on February 4, 2002 at Vancouver, British Columbia, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Craig C. Sturrock, Esq.
+
+Tom Bauer, Esq.
+
+Counsel for the Respondent: Karen Truscott
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1986 taxation year be dismissed with costs.
+
+Signed at Ottawa, Canada, this 22nd day of February 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+[1] Cf Ecclesiastes III; i-viii.
+
+[2] Form T-661.
+
+[3] The references in these reasons to the prescribed forms T-661 and T-2038 may differ in some instances from the references by counsel for the appellant in their written argument. In the final analysis however it makes little difference because neither form was filed within the various time limits provided in the amending acts and in April 1999 both forms were filed.
+

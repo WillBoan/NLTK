@@ -1,0 +1,280 @@
+Date: 20020311
+
+Docket: 2000-1146-IT-G
+
+BETWEEN:
+
+DAVID A. LLOYD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments for 1989, 1990, 1991, 1992 and 1993.
+
+[2] There are six issues:
+
+1. Should a house owned by the appellant and used as a rental property be classified for capital cost allowance purposes as Class 3 or Class 6?
+
+2. Did the appellant transfer shares owned by him in R.E.A.D. Enterprises Ltd. ("READ") to Lloyd Investments Ltd. ("Lloyd Investments")?
+
+3. Was there a misrepresentation made by the appellant in filing his return of income for 1989 entitling the Minister to reassess outside the normal three-year reassessment period?
+
+4. Did the appellant have interest income in the years 1989 to 1993?
+
+5. Was the Minister justified in imposing penalties under subsection 163(2) of the Income Tax Act in respect of the interest allegedly unreported? and
+
+6. Should penalties be imposed on the appellant's failure to declare as income (shareholder benefits) certain expenses disallowed to his company?
+
+Issue 1 - The Kitchener Property
+
+[3] The appellant owned property at 2030 Kitchener Avenue. At one point it was his principal residence but by the years in question it had been converted to a rental property.
+
+[4] It is a frame building. The appellant claimed capital cost allowance on it under Class 6 of Schedule II to the Income Tax Regulations (10%) on the basis that it was a building of frame and had
+
+no footings or any other base support below ground level.
+
+[5] The Minister put it under Class 3 (5%) on the theory that it had footings or base support below ground level.
+
+[6] I should not have thought that whether a house had footings or not needed to be determined in court. Either it has or it has not. The appellant, who is a structural engineer, said that it had no footings or below ground support and he ought to know. He lived there and owned it for many years.
+
+[7] The fact there might have been a little earth or detritus that has accumulated and piled against one wall does not turn the part that is covered into a footing. The point is covered succinctly in the judgment of Bell J. in R.E.A.D. Enterprises Ltd. v. The Queen, 99 DTC 821.
+
+[8] Counsel for the respondent argued in addition that the house fell under Class 6 because in the French version Class 3 uses the word "bâtiment" whereas Class 6 uses the word "édifice" and the Dictionnaire Le Petit Robert defines "édifice" as a "Bâtiment important". I tend to agree that to judge by the picture of the somewhat unprepossessing house on Kitchener Avenue it would be hard to call it important. Nonetheless I do not think that Class 6 is intended to include only important buildings. Indeed, frame buildings without footings are seldom very important and they depreciate faster. Hence the 10% rate.
+
+[9] I find that the building falls into Class 6 and not Class 3.
+
+Issue 2
+
+[10] The appellant in 1991 heard that the capital gains exemption on the sale of small business corporation shares was about to be removed. He owned 100 shares in READ, which represents 50% of all of the shares. He decided to sell his shares to Lloyd Investments. He owned 5% of the shares of Lloyd Investments and his four sons owned 95%.
+
+[11] By a document dated 15 December 1992 he purported to sell three shares of READ to Lloyd Investments. The entire document reads as follows.
+
+AGREEMENT
+
+This agreement made the 15th day of December, 1992
+
+Between:
+
+D.A. Lloyd Vendor
+
+And:
+
+Lloyd Investments Ltd. Purchaser
+
+251 Schoolhouse Street,
+
+Coquitlam, BC V3K 4Y1
+
+D.A. Lloyd as Vendor and Lloyd Investments Ltd. as Purchaser agree respectively to sell and buy 3 shares of R.E.A.D. Enterprises Ltd. for $429,503.00.
+
+This amount will not be paid by Lloyd Investments Ltd. but shown as a credit to D.A. Lloyd's shareholder loan account. The loan will bear no interest.
+
+[signed]
+
+D.A. Lloyd
+
+[signed]
+
+Lloyd Investments Ltd.
+
+[12] At some point someone (presumably Mr. Lloyd) drew a line diagonally across the agreement and wrote
+
+Deal Never Executed (100 shares not 3).
+
+[13] Mr. Lloyd filed his 1992 return of income reporting a capital gain of $429,500 and claimed a capital gains deduction of the same amount.
+
+[14] After filing his return he had a conversation with a tax lawyer and learned that a non-arm's length transfer of shares of a Canadian resident corporation to a corporation with which it is connected immediately after the transfer gives rise to a deemed dividend and not a capital gain. That advice was correct and describes precisely the effect of section 84.1 and subsection 184(4) of the Income Tax Act. I need not set out those provisions. It is not questioned that if the disposition of the shares of READ to Lloyd Investments was completed the Minister's assessment of a deemed dividend was correct. The appellant takes the position that the transaction was not completed. Obviously the words "dispose of" or "disposition" mean a complete transaction. "Disposition" in section 54 includes
+
+any transaction or event entitling a taxpayer to proceeds of disposition.
+
+[15] The appellant in 1995 filed an amended 1992 return in which he stated that the sale "was not properly completed".
+
+[16] I think the appellant is entitled to prevail on this issue, for the following reasons.
+
+(a) The appellant was not a director or officer of Lloyd Investments and there is no suggestion that he was a de facto director or officer. He was not an officer or director because of advice he received that a prior criminal conviction made it unadvisable that he hold such an office. He had therefore no authority to bind Lloyd Investments. The sole director, president and secretary was Leslie A. Hill.
+
+(b) The transaction was not completed. The consideration of $429,503 was never paid and no amount was credited to the appellant's shareholder loan account.
+
+(c) The agreement itself was defective since it referred to only three shares.
+
+(d) The shares of READ were never shown as an asset on Lloyd Investments' balance sheet, nor was a liability of $429,503 reflected.
+
+(e) The completed transfer and the share certificate were never given to Lloyd Investments.
+
+(f) Section 5.1 of the Articles of READ reads:
+
+5.1 Subject to the provisions of the Memorandum and of these Articles that may be applicable, any member may transfer any of his shares by instrument in writing executed by or on behalf of such member and delivered to the Company or its transfer agent. The instrument of transfer of any share of the Company shall be in the form, if any, on the back of the Company's share certificates or in such form as the Directors may from time to time approve. Except to the extent that the Companies Act may otherwise provide, the transferor shall be deemed to remain the holder of the shares until the name of the transferee is entered in the register of members or a branch register of members in respect thereof.
+
+The name of Lloyd Investments was never entered in the register of READ.
+
+(g) Section 25.3 of the Articles of READ reads:
+
+25.3 No shares shall be transferred without the previous consent of the Directors expressed by a resolution of the Board and the Directors shall not be required to give any reason for refusing to consent to any such proposed transfer.
+
+No such consent was given or resolution passed.
+
+(h) Part 26 of the Articles of READ deals with Restriction on Share Transfers. Section 26.1 reads in part as follows.
+
+26.1 No shares in the capital of the Company shall be transferred by any member, or the personal representative of any deceased member or trustee in bankruptcy of any bankrupt member, or the liquidator of a member which is a corporation, except under the following conditions.
+
+There follow three pages of restrictions requiring notice to be given to the company, and the directors must advise all members who are entitled to purchase the shares that it is proposed to transfer. The directors have an absolute discretion to decline to transfer the shares. I need not set out the restrictions in detail. They are the usual restrictions contained in the articles of private companies. It is sufficient to say that none of the conditions necessary for a valid transfer were complied with.
+
+[17] The foregoing is sufficient to dispose of this aspect of the case. I shall, however, refer briefly to two cases. The first is the decision of the Ontario Court of Appeal in The Beechwood Cemetery Company v. Graham et al, [1998] O.A.C. 71, in which the Ontario Court, General Division, set aside a transfer of shares of Beechwood Cemetery Co. to 942836 Ontario Inc. because the directors had not consented to the transfer as required by the bylaws of Beechwood. The Ontario Court of Appeal upheld the decision of the trial court. O'Connor, J.A. said at paragraphs 28 to 30:
+
+[28] ... In my view, the majority decision of the Supreme Court of Canada in Edmonton Country Club Ltd. v. Case (1974), 44 D.L.R. (3d) 554 is determinative. The Edmonton Country Club was a public corporation incorporated by articles of association under the Companies Act of Alberta, R.S.A. 1942, c. 240. The respondent challenged art. 20A of the articles which precluded the transfer of shares in the company without the consent of the majority of the board whose discretion the articles provided, was unfettered. At common law the presumption was that corporations created under a statute, which included corporations incorporated by articles or memorandum of association, had only those powers which were expressly or impliedly granted to them by statute. To the extent that a corporation acted beyond its powers, its actions were ultra vires and therefore invalid. Communities Economic Development Fund v. Canadian Pickles Corp., supra, at p. 402.4
+
+[29] In the Edmonton Country Club case Dickson J., for the majority, referred to s. 61 of the Companies Act of Alberta and found that the right of a shareholder to transfer shares was not absolute. At p. 567, he said:
+
+The right of a shareholder to transfer his shares is undoubtedly one of the incidents of share ownership, assured by the Companies Act of Alberta, s. 61, 'The shares or other interest of any member in a company are personal estate, transferable in the manner provided by the articles of the company ...' ... but the right is not absolute. [My emphasis.]
+
+[30] Dickson J. concluded that art. 20A was not ultra vires the company. Although Dickson J. did no specifically analyze the meaning of the words "transferable in the manner provided by the articles of the company", it is essential to his conclusion that a provision in the articles requiring the consent of the directors to the transfer of shares falls within the meaning of that language. If it were otherwise and the language of s. 61 did not include restrictions on transfers, art. 20A of the articles would have conflicted with s. 61 of the Companies Act and for that reason would have been ultra vires the company.
+
+[18] This leads to a subsidiary question. If a transaction is incomplete or defective by reason of a failure to comply with the bylaws of the company or the relevant Companies Act is it open to this court to find in an income tax appeal against an assessment that the transaction is defective, or must the court decline to make such a finding until a provincial court of competent jurisdiction either sets the transaction aside, as in Beechwood, declares the transaction to be ineffective, or rectifies a completed transaction as in A.G. Canada v. Juliar et al., 2000 DTC 6589?
+
+[19] Obviously this court cannot make declarations that bind the parties to a transaction, or set aside or rectify transactions as between parties. That is a matter for the courts of the provinces or territories. Nonetheless, this does not mean that this court must, where the validity of a transaction is relevant to the determination of a tax dispute between a taxpayer and the Government of Canada, stand impotently by and decline to make a determination that is essential to the exercise of its jurisdiction. Clearly our court must decide the validity or legal effect of a transaction between subjects in the context of a determination of its tax consequences.
+
+[20] This is what the Federal Court of Appeal did in The Queen v. Paxton, 97 DTC 5012. In that case the Federal Court of Appeal held that a transaction failed because it was not validly and legally completed. If the Minister can attack a transaction in this court or the Federal Court of Appeal on the basis that it is legally ineffective or incomplete, so too can the taxpayer. There is no need to wait for a provincial court to set an incomplete or legally invalid transaction aside. If it is invalid or incomplete there is nothing to set aside. Robertson, J.A. said at page 5018:
+
+I cannot ignore the fact that the Supreme Court of Canada has affirmed the rule that no tax planning transaction will be recognized for tax purposes unless that transaction has been validly established under the rules of the general law: see Stubart, supra at 579. A tax advantage can be lost should a transaction be found to be incomplete or ineffective because of a failure to comply with indispensable legal formalities. In this regard the caution of Urie, J. in Atinco Paper Products Limited v. The Queen [78 DTC 6387], [1978] C.T.C. 566 at 577-78 (F.C.A.) (leave to appeal to S.C.C. refused (1979) 25 N.R. 603n) dictates that tax planners must ensure that tax driven transactions are fully implemented and carefully documented:
+
+Nonetheless, it is the duty of the Court to carefully scrutinize everything that a taxpayer has done to ensure that everything which appears to have been done, in fact, has been done in accordance with applicable law. It is not sufficient to employ devices to achieve a desired result without ensuring that those devices are not simply cosmetically correct, that is, correct in form but, in fact, are in all respects legally correct, real transactions. If this Court, or any other court, were to fail to carry out its elementary duty to examine with care all aspects of the transactions in issue, it would not only be derelict in carrying out its judicial duties, but in its duty to the public at large. It is for this reason that I cannot accede to the suggestion, sometimes expressed, that there can be a strict or liberal view taken of a transaction, or series of transactions which it is hoped by the taxpayer will result in a minimization of tax. The only course for the Court to take is to apply the law as the Court sees it to the facts as found in the particular transaction. If the transaction can withstand that scrutiny, then it will, of course, be supported. If it cannot, it will fall. That is what happened here.
+
+Having regard to the jurisprudence and the facts of this case, I am compelled to find against the taxpayer. In my opinion, when this case is viewed in its most positive light it serves as an example of an ineffective or incomplete transaction, which can be traced to the failure to properly document the sale of the Ronlar shares to the children prior to the execution of the Tandet Agreement.
+
+[21] My conclusion is that Mr. Lloyd did not dispose of his shares in Lloyd Investments to READ.
+
+Issue 3
+
+[22] The third issue is whether there was any misrepresentation made by the appellant in filing his 1989 return entitling the Minister to reassess outside the normal three-year period.
+
+[23] On this point there is no need to review the evidence. There was clearly evidence that the appellant received interest income on a mortgage received by him in 1989 that he did not report.
+
+Issues 4 and 5
+
+[24] The fourth and fifth issues are whether the appellant received interest income in the years 1989 to 1993 and whether penalties under subsection 163(2) are warranted.
+
+[25] In 1989 the appellant agreed to sell a piece of property to Valley Clover Lands 1989 Ltd. for $275,000. The agreement, after describing the property that was being sold, read:
+
+... for the price of
+
+TWO HUNDRED AND SEVENTY-FIVE THOUSAND
+
+Dollars ($275,000.00 ) of lawful money of Canada, payable in the manner and on the days and times hereinafter metioned, that is to say: the sum of
+
+TWENTY THOUSAND
+
+Dollars ($20,000.00 ) on the execution of this Agreement (the reception whereof is hereby acknowledged by the Vendor) and the balance as follows.
+
+The Purchaser shall pay the sum of TWENTY THOUSAND ($20,000.00) DOLLARS to the Seller on the 15th day of March, 1990, and the sum of TWENTY THOUSAND ($20,000.00) DOLLARS on the 15th day of September, 1990, and similar payments shall be made by the Purchaser to the Vendor on the 15th day of March and the 15th day of September thereafter until the 15th day of September, 1994, when the balance owing on the purchase price together with interest as herein provided shall be due and payable.
+
+Said payments are inclusive of interest at the rate of TEN (10%) per centum per annum on the balance owing from time to time, and shall be applied firstly in payment of interest accrued to the date of payment, and secondly in reduction of the balance of purchase price.
+
+For the purposes of the Interest Act, interest shall be payable at the rate of TEN (10%) per centum per annum on the balance owing from time to time calculated half-yearly not in advance. Interest shall accrue as from the 15th day of September, 1989.
+
+PROVIDED the Agreement herein be not in default the Purchaser may pay any part or all of the balance of the purchase price together with interest to the date of such payment without notice, bonus or penalty.
+
+[26] The appellant said he thought the periodic $20,000 payments were payments for a series of options. The appellant is an intelligent man. He is a professional engineer with more than a passing familiarity with legal and accounting matters. I do not see how any person of the appellant's intelligence and education could fail to recognize the interest component in the agreement that he signed. It does not appear that he received interest in 1989 under this agreement but he certainly did in the years 1990 to 1993. His failure to declare these amounts in 1990, 1991 and 1992 was grossly negligent and justified the penalties under subsection 163(2). The penalty for 1993 should however be deleted. In that year the appellant declared all of the payments received up to that date as a capital gain. This was an error, of course, but it meant that there was a much larger income inclusion than the interest received in the year. Where a person includes too much income in a year but under the wrong heading, it is difficult to see on what basis a penalty can be levied.
+
+Issue 6
+
+[27] The final issue is whether penalties under subsection 163(2) are justified in respect of the appellant's failure to declare as income certain expenses disallowed to his company Continental Steel Ltd.
+
+[28] The appellant kept very careful records of the expenses incurred by this company. Nonetheless some of them were disallowed and the company did not object.
+
+[29] In addition to disallowing the expenses to the company the Minister added them to the appellant's income as shareholder or employee benefits and for good measure added penalties. The appellant did not contest the income inclusion but he did dispute the penalties.
+
+[30] In Robson et al. v. The Queen, 2001 DTC 1039, I commented on this practice at pages 1043-4:
+
+[24] There is a departmental mindset, enshrouded in the euphemistic rubric of fiscal symmetry, that says that if you disallow an expense to a corporation you must simultaneously find a shareholder on whom to visit a parallel and matching tax consequence under section 15 of the Income Tax Act. The premise on which this practice of double taxation is based is evidently some misplaced sense of moral rectitude that, so the argument goes, justifies the imposition of an additional punishment on the shareholders for allowing their company to incur disallowable expenses.
+
+[31] Since the income inclusion is not contested I can do nothing about that, but I can state unequivocally that there is absolutely no evidence before me that would warrant the imposition of penalties.
+
+[32] The appeals are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+
+Signed at Ottawa, Canada, this 11th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2000-1146(IT)G
+
+STYLE OF CAUSE: Between David A. Lloyd and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: February 5 and 6, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: March 11, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Peter Kravchuke, Esq.
+
+Counsel for the Respondent: Margaret Clare
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Peter Kravchuke, Esq.
+
+Firm: Fort Langley, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-1146(IT)G
+
+BETWEEN:
+
+DAVID A. LLOYD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on February 5 and 6, 2002 at Vancouver, British Columbia, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Peter Kravchuke, Esq.
+
+Counsel for the Respondent: Margaret Clare
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1989, 1990, 1991, 1992 and 1993 taxation years be allowed with costs and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+
+Signed at Ottawa, Canada, this 11th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

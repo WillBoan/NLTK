@@ -1,0 +1,586 @@
+Date: 20010323
+
+Docket: 98-1946-IT-G
+
+BETWEEN:
+
+THÉRÈSE ROUSSEAU-HOULE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] Thérèse Rousseau-Houle is appealing from the assessments made by the Minister of National Revenue (the Minister) in respect of the 1990 to 1993, 1995 and 1996 taxation years (the relevant period). The main question at issue is whether the formation, existence and financing of the Société en commandite TRH Enr. (SEC) and the acquisition by that limited partnership of an immovable (the Laroche immovable) constitute a series of transactions the primary purpose of which was to obtain a tax benefit which, as a result, is subject to the general anti-avoidance rule (GAAR) in section 245 of the Income Tax Act (the Act). The Minister argues that the fact that Ms. Rousseau-Houle personally took out a loan to finance her contribution to SEC made it possible for that partnership to show artificially inflated earnings and benefit from a higher capital cost allowance (CCA) than it could have done had SEC itself borrowed to purchase the Laroche immovable. Ms. Rousseau-Houle thereby, according to the Minister, contravened both the letter and the spirit of subsection 1100(11) of the Income Tax Regulations (the Regulations). This subsection reads as follows:
+
+(11) Rental Properties — Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+
+(a) the aggregate of amounts each of which is
+
+(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the income of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such income,
+
+exceeds
+
+(b) the aggregate of amounts each of which is
+
+(i) his loss for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the loss of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such loss.
+
+[2] The Minister accordingly disallowed in whole or in part the CCA claimed by SEC in computing its income in respect of the relevant period.
+
+[3] The other question at issue, which is a subsidiary one, is whether money borrowed in 1991 and 1993 was used for the purpose of gaining or producing income from a business or property. The Minister disallowed deductions for interest of $7,652 for 1991, $22,834 for 1992, and $34,947 for 1993, because there was insufficient evidence to show that the interest had been paid for the purpose of gaining or producing income from a business or property.
+
+Facts
+
+[4] During the relevant period, Ms. Rousseau-Houle was married to Fernand Houle, who owned a large construction company in the Quebec City area and an investment company, "Placements FH Inc." (PFH). Mr. Houle also owned industrial and residential rental properties, including a 50-unit apartment building.
+
+[5] Between 1978 and 1988, when she was appointed to the Bench, Ms. Rousseau-Houle acquired four rental properties (the personal immovables). The first one (the Saint-Louis immovable), acquired in 1978, is located on Saint-Louis Road and has 26 apartments. She managed it herself during the first year but, because of her professional activities, she decided to have it managed by property managers. Of the other three properties that were subsequently acquired, two were located on Delage Street (the Delage immovables) and the third on Chanoine-Scott Avenue. During the relevant period, Gestion Houle enr. (Gestion), a company belonging to her husband, managed the personal immovables.
+
+[6] At a time when his spouse was in Florida, Mr. Houle made an offer on December 23, 1989, to purchase the Laroche immovable for $1,550,000. The offer was accepted, but the sale had to be closed quickly, before December 31, 1989. Prior to the offer being submitted, Ms. Rousseau-Houle had consulted a cousin, a well-known tax lawyer, regarding the various methods of purchasing and holding rental property and the tax rules that applied to each. In particular, they had discussed holding immovables through a business corporation or through a partnership. Ms. Rousseau-Houle acknowledged that she was familiar with the tax rules applicable to rental properties and more specifically with the rules relative to CCA. She knew that a rental loss could not be created or increased through the deduction of CCA, except in the case of losses from Class 31 or 32 immovables, usually called MURBs (multiple unit residential buildings). She knew that the personal immovables and the Laroche Immovable were not MURBs. Lastly, Ms. Rousseau-Houle acknowledged that, if a rental property were purchased through a partnership, it would be more advantageous from a tax standpoint for Ms. Rousseau-Houle herself to borrow to finance her interest in the partnership rather than to have the partnership to borrow to finance the purchase of that property.
+
+[7] Even before the offer was made on December 23, 1989, consideration had been given to purchasing the Laroche immovable through a limited partnership whose partners would be Ms. Rousseau-Houle and her husband. However, the respective interest of each had not been decided on. Thus, when Mr. Houle made his purchase offer, he did so on behalf of a limited partnership yet to be formed.
+
+[8] As time was too short to form SEC, it was Ms. Rousseau-Houle who purchased the immovable on December 29, 1989. In the conveyance, Ms. Rousseau-Houle declared, and the vendor acknowledged, that she was not acting in her individual capacity but solely [TRANSLATION] "for and on behalf of a company and/or partnership to be created." The purchase price was $1,550,000, and the vendor acknowledged receiving the sum of $388,000 as a down payment. According to the testimony of Renée Garnier, an employee of Gestion who had been responsible for PFH's accounts since February 1989, and according to the statement of changes in financial position (statements of changes) for the period from 1989 to 1993 prepared for each of the personal immovables and the Laroche immovable, the $388,000 came from withdrawals of $260,000 from the Saint-Louis immovable and a $128,000 withdrawal from one of the Delage immovables.[1] As for the $1,162,000 balance, the purchaser undertook to pay it no later than February 1, 1990, with interest calculated annually at 11.375%.
+
+[9] On February 2, 1990, Ms. Rousseau-Houle, as general partner, and Fernand Houle, as limited partner, signed a limited partnership declaration. In the declaration, it is indicated that the object of SEC was the acquisition, operation, administration and leasing of movable and immovable properties. Ms. Rousseau-Houle undertook to contribute $1,534,500, and Mr. Houle, $15,500. On February 5, 1990, Fernand Houle subscribed for one unit of SEC for $15,500, and Ms. Rousseau-Houle subscribed for 99 units for $1,544,500.[2] As she had already paid $388,000 on purchasing the Laroche immovable on behalf of SEC, Ms. Rousseau-Houle had to remit only $1,156,500 to SEC. To pay this amount, she secured, on February 5, 1990, a bridging loan of $1,146,500 from PFH and no doubt used $10,000 of her own money. On the same day, SEC paid $1,170,728.63, an amount that presumably included interest, to the vendor of the Laroche immovable.
+
+[10] Ms. Rousseau-Houle offered the following explanation as to why her husband's share in SEC was limited to 1%. Mr. Houle had to provide security so that his construction company could obtain major construction contracts. Because of these financial commitments, his financial situation did not allow him to acquire a larger share in SEC. She added that the purchase of the Laroche immovable through SEC was the couple's first joint investment and that she and her husband planned to acquire other rental properties through that partnership. To date, there have been no further acquisitions, however.
+
+[11] On February 6, 1990, SEC entrusted the management of the Laroche immovable to Gestion. That firm handled the negotiation of leases, dealt with the Régie du logement and took care of the repayment and renewal of Ms. Rousseau-Houle's loan.
+
+[12] On behalf of SEC, Ms. Rousseau-Houle, on April 12, 1990, ratified the contract of purchase signed by her for the benefit of that partnership, and the partnership thus became the owner of the Laroche immovable as of the date of its formation. On the same day, Montreal Trust made a $1,125,000 loan to Ms. Rousseau-Houle. A condition of the loan was that Ms. Rousseau-Houle had to use the funds to purchase an equivalent share in SEC. Obviously, the loan was used to repay, at least in part, the bridging loan granted by PFH. On the same day as well, SEC signed a mortgage document granting Montreal Trust a first mortgage on the Laroche immovable. As an additional guarantee, SEC assigned to the mortgagee the rents due and to become due from the Laroche immovable.
+
+[13] The April 12, 1990, loan was replaced on August 7, 1991, by a new loan of $1,325,000, which was $200,000[3] more than the earlier loan. The loan agreement provided for a fixed annual interest rate of 11¼%; it also provided that repayment would be spread out over a 25-year period. The new loan was guaranteed by SEC, just as the earlier loan was.
+
+[14] According to Ms. Rousseau-Houle, the additional amount of $200,000 was to be used to finance the acquisition of other immovables. SEC's balance sheet to December 31, 1991, shows a capital investment of $209,594.50 during that year. According to SEC's bank statement, a cheque in the amount of $209,594.50 was deposited on August 15, 1991. The next day, SEC paid to Gestion the sum of $209,000. According to Ms. Garnier's testimony, that $209,000 amount was used to operate the Laroche immovable and was not repaid to Ms. Rousseau-Houle. However, Ms. Garnier did not know why Ms. Rousseau-Houle had obtained the additional $200,000 in the July 1991 refinancing.
+
+[15] Ms. Rousseau-Houle obtained from SEC the funds required to repay the principal of the loans taken out to finance her share in SEC and the interest on those loans. The transfers of funds are shown as withdrawals in the partnership's financial statements. Thus, part of the $209,000 could have allowed Ms. Rousseau-Houle to make her mortgage payments, which totalled $145,378 in 1991 (according to Exhibit I-2).
+
+[16] On January 8, 1993, Laurentian Life Inc. lent $750,000 to Ms. Rousseau-Houle to refinance an existing loan. The new loan bore interest at 8.875% from February 5, 1993, and was secured by a $750,000 mortgage on the Saint-Louis immovable granted to that insurance company. This loan provided Ms. Rousseau-Houle with an additional $170,771. This amount is shown on the statements of changes as "refinancing". According to Ms. Garnier, it was deposited in Gestion's account. According to Ms. Rousseau-Houle, the additional funds were to be used to purchase an immovable at a cost of between $2 million and $3 million. Unfortunately, the planned purchase did not materialize because of the difficult situation in the real estate market.
+
+[17] According to the statements of changes for the Saint-Louis immovable, $105,000 was withdrawn in 1993 for the benefit of Ms. Rousseau-Houle. According to Ms. Garnier, $5,000 was used for personal purposes; she does not know how the $100,000 balance was used. The only evidence provided in this regard was a guaranteed investment certificate purchased by Ms. Rousseau-Houle the following year, on May 3, 1994, bearing interest at 7.95%, with a maturity date of May 3, 1997. According to Ms. Rousseau-Houle, this guaranteed investment certificate could be redeemed at any time.
+
+[18] On June 8, 1995, Ms. Rousseau-Houle received a draft assessment in which the Minister disallowed in part or in whole, on the basis of the GAAR, the CCA claimed by SEC in the 1990 to 1993 taxation years. Ms. Rousseau-Houle thereupon decided to file her returns for 1995 and 1996 using the approach taken by the Minister in the draft assessments, that is, deducting interest in computing SEC's income, thereby reducing the amount of CCA. However, she was careful to indicate that these returns were filed with the Minister without prejudice to any of her rights, in particular, her right to claim herself a deduction for the interest on the loans taken out by her to invest in SEC, and to deduct a higher CCA amount in computing SEC's income.
+
+[19] Ms. Andrée Simard, Co-ordinator of the Quebec Tax Avoidance Section testified at the respondent's request. Her audit report was produced as Exhibit I-1. She provided therein the following reasons as to why the Minister applied subsection 245(2) in disallowing the CCA taken by SEC.
+
+[TRANSLATION]
+
+Overview
+
+Through a scheme using a partnership to lease immovables, the client had the partnership claim the depreciation because it had sufficient net income, as it did not have the significant expense that the interest costs on the mortgages represented, since those costs remained at the level of the individual.
+
+The scheme may be summarized as follows:
+
+The client acquired an immovable, which was paid for in part through a loan from Les Placements Fernand Houle Inc. Subsequently, the client formed a partnership with her spouse; she made a minimal contribution to that partnership.
+
+On the same date, or shortly thereafter, she subscribed for an interest in the partnership, contributing the immovable to the partnership. As consideration, she received shares in the partnership equivalent to the value of the transferred immovable. The client continued to be responsible for the mortgage.
+
+The partnership leased the building to a third party unrelated to the client and claimed as expenses the taxes, insurance, in fact, all the current expenses for a rental property.
+
+[20] The tax benefit that the Minister wants to counteract by application of subsection 245(2) of the Act in respect of each of the years at issue is well described in the respondent's Reply to the Notice of Appeal. By way of illustration, I will quote the description for the 1990 taxation year:
+
+[TRANSLATION]
+
+TAX BENEFIT FOR THE 1990 TAXATION YEAR
+
+FIGURES FOR THE PERSONAL IMMOVABLES
+
+(x) The appellant's tax return for the 1990 taxation year provides the following information concerning her personal immovables:
+
+1990 INCOME STATEMENT - PERSONAL IMMOVABLES
+
+Saint-Louis
+
+878 Delage
+
+Chanoine
+
+Scott
+
+858 Delage
+
+TOTAL
+
+Gross income
+
+$147,273
+
+$86,565
+
+$32,678
+
+$63,158
+
+$329,674
+
+Expenses before
+
+depreciation
+
+$123,186
+
+$123,482
+
+$43,242
+
+$71,455
+
+$361,365
+
+Profits or (losses)
+
+efore before depreciation
+
+$22,518
+
+($37,331)
+
+($10,596)
+
+($8,297)
+
+($31,691)
+
+Depreciation on
+
+movables (other than
+
+Cl. 3 and 6)
+
+$1,570
+
+$415
+
+$32
+
+$2,017
+
+Capital cost
+
+allowance-immovables,
+
+Cl. 3 or 6)
+
+$16,460
+
+$13,270
+
+$ 7,315
+
+$18,775
+
+$55,820
+
+Total depreciation
+
+$57,837
+
+Net profits or losses
+
+claimed
+
+$6,057
+
+($50,602)
+
+($17,911)
+
+($27,072)
+
+($89,528)
+
+(y) Based on the 1990 INCOME STATEMENT (PERSONAL IMMOVABLES) from her tax return for the 1990 taxation year, the appellant had a loss of ($31,691) before depreciation;
+
+(z) To the extent that the appellant owned only her personal immovables and held no interest in the Partnership, she could not create a loss through capital cost allowance since she would not have been entitled to claim the depreciation expense of $57,837 ($2,017 + $55,820) with respect to those immovables because of subsection 1100(11) of the Income Tax Regulations, which provides that a taxpayer may claim capital cost allowance or a depreciation expense only up to the amount of all the profits from his rental properties and the amount from such properties that was allocated to him by a partnership, the profit for these purposes being computed without regard to the depreciation expense relating to the immovables.
+
+FIGURES FOR THE LAROCHE IMMOVABLE
+
+(aa) The appellant holds a 99% interest in the Partnership, which, in the 1990 taxation year, allocated to her a profit of $89,527 that was owed to her solely because the Partnership did not bear any interest expenses arising from the purchase of the Laroche immovable, as appears from the appellant's tax return;
+
+(bb) The PARTNERSHIP INCOME STATEMENT for the 1990 financial year is as follows:
+
+PARTNERSHIP INCOME STATEMENT (1990)
+
+1990
+
+GROSS RENTAL INCOME
+
+$218,574
+
+EXPENSES BEFORE DEPRECIATION
+
+$100,696
+
+PROFIT BEFORE DEPRECIATION
+
+$117,878
+
+INTEREST INCOME
+
+$355
+
+PROFIT
+
+$118,233
+
+CAPITAL COST ALLOWANCE, CLASS 8
+
+$1,839
+
+CAPITAL COST ALLOWANCE-IMMOVABLES
+
+$25,962
+
+TOTAL CAPITAL COST ALLOWANCE
+
+$27,801
+
+PARTNERSHIP'S PROFIT
+
+$90,432
+
+PROFIT ALLOCATED TO THE APPELLANT
+
+99% x $90,432
+
+$89,528
+
+(cc) The Partnership made an unrealistic profit of $90,432 because of the fact that it was the appellant, and not the Partnership, who absorbed the interest charges relating to the acquisition of the Laroche immovable;
+
+(dd) Since under subsection 96(1) of the Income Tax Act the Partnership is a separate person from its partners, the Partnership does not take into account, for the purposes of the restriction regarding capital cost allowance computation as provided for in subsection 1100(11) of the Income Tax Regulations, the $141,106 in interest paid by the appellant in the 1990 taxation year;
+
+(ee) If it were not for these transactions, the Partnership would have itself borrowed to purchase the immovable and would not have had net rental income, but would have had instead a rental loss before depreciation of ($23,228), that is, its profit before depreciation less the interest expense assumed by the appellant ($117,878 - $141,106 = ($23,228);
+
+(ff) Therefore, the Partnership could not claim capital cost allowance of $27,801 on the Laroche immovable, nor could the appellant claim capital cost allowance of $57,837 on the immovables held by her personally as she had incurred a loss before depreciation of ($31,691) in respect of these other immovables;
+
+COMBINED FIGURES FOR THE PERSONAL IMMOVABLES AND THE LAROCHE IMMOVABLE
+
+(gg) If there were no partnership and if the appellant had personally held the immovable in respect of which she indirectly claims interest expenses, the results would have been as follows:
+
+INCOME STATEMENT FOR 1990 (ALL IMMOVABLES)
+
+Figures (Personal
+
+immovables)
+
+Figures (Partnership
+
+immovables)
+
+Combined figures
+
+without Partnership
+
+Gross income
+
+$329,674
+
+$218,574 x 99%
+
+$546,062
+
+Expenses before depreciation
+
+$361,365
+
+$100,696 x 99%
+
+$461,054
+
+Interest assumed by and charged to the appellant
+
+$141,106
+
+$141,106
+
+Total expenses
+
+$602,160
+
+Profits or (losses) before depreciation of immovables
+
+(Classes 3 and 6)
+
+($31,691)
+
+($23,228)
+
+($56,098)
+
+Depreciation claimed for movables (other than Class 3 and 6 assets)
+
+$2,017
+
+$1,839
+
+Capital cost allowance
+
+claimed on immovables,
+
+Class 3 or 6
+
+$55,819
+
+$25,962
+
+Total depreciation claimed
+
+$57,837
+
+$27,801 x 99%
+
+$ 85,360
+
+Excess depreciation
+
+$85,360
+
+(hh) From the table in the preceding paragraph, it can be seen that the only amount the appellant could have deducted from her other income for the 1990 taxation year would have been the combined loss before depreciation of $56,098 (established by taking into account all interest paid) whereas, by taking the course she did, the appellant deducted in addition depreciation totalling $85,360 ($57,837 + 99% of $27,801);
+
+The tax benefit that the appellant improperly obtained from that arrangement was an additional deduction of $85,360, that is, the excess depreciation claimed by the appellant, and she thereby contravened the spirit of subsection 1100(11) of the Income Tax Regulations (as well as section 245 of the Income Tax Act), which provides that a taxpayer can claim a depreciation expense only up to the amount of all the profits from his rental properties and the amount from such properties that was allocated to him by a partnership, the profit for these purposes being computed without regard to the depreciation expense relating to the immovables.
+
+[21] As can be seen, the fact that she held the Laroche immovable through SEC, that she personally borrowed to finance her contribution to SEC (planned transactions) and that this contribution was enough to enable SEC to hold that immovable without having to bear any interest expenses made it possible for Ms. Rousseau-Houle not just to maximize the CCA in respect of the Laroche immovable but to do so as well with regard to the personal immovables (SEC tax benefit). Ms. Simard confirmed that, in applying subsection 245(2) of the Act, the Minister computed SEC's net income as if Ms. Rousseau-Houle's loan had been taken out by SEC. She also admitted that the same result would have been achieved if the existence of SEC had not been taken into account. She stated clearly that, as shown in the above-cited passage from the Reply to the Notice of Appeal, the tax benefit improperly obtained by Ms. Rousseau-Houle contravened subsection 1100(11) of the Regulations.
+
+[22] Ms. Simard also stated that the Minister had disallowed the deduction for the interest expenses on the $209,000 loan and on the $170,771 loan made in 1991 and 1993 respectively. According to her, the Minister did not have sufficient evidence to be able to find that the money was used to gain or produce income from a business or property. In addition, Ms. Simard had prepared a statement of changes in financial position with respect to the personal immovables and the Laroche immovable in order to quantify Ms. Rousseau-Houle's cash flow requirements. For 1991 to 1993, this statement provides the following figures: ($4,999) in 1991, ($3,003) in 1992 and ($62,887) in 1993. According to Ms. Simard, these figures do not justify all the additional loans. On the other hand, she acknowledged that there was no evidence of personal use of the funds held in Gestion's bank accounts.
+
+Analysis
+
+[23] It is useful to begin with a review of the relevant legislative provisions. First, there are subsections 245(1), (2) and (3), which provide:
+
+(1) Definitions. In this section
+
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+"transaction" includes an arrangement or event.
+
+(2) General anti-avoidance provision. Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+(3) Avoidance transaction. An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+[Emphasis added.]
+
+[24] As one can see, for the GAAR to apply, there must be no other provision in the Act prohibiting the tax benefit claimed by the taxpayer and disallowed by the Minister. I have underlined the relevant passages in the Act that support this interpretation. There must also be an avoidance transaction. If a transaction was undertaken or arranged primarily for bona fide purposes (other than to obtain a tax benefit), it does not constitute an avoidance transaction. Lastly, even if the transaction constitutes an avoidance transaction, it must be determined whether it results directly or indirectly in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole; this is what emerges from subsection 245(4), which provides as follows:
+
+(4) Where s. (2) does not apply. For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+[Emphasis added.]
+
+[25] If the avoidance transaction results in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act, the tax consequences must be determined as is reasonable in the circumstances in order to deny the improper tax benefit. In my opinion, in order for the tax consequences to be reasonable, in determining them one must attempt as much as possible to avoid modifying the transactions entered into by the taxpayer.
+
+[26] Let us now take each of the conditions for the application of the GAAR and apply them to the facts of these appeals. As we saw above, subsection 245(2) of the Act is a provision of last resort. It supposes that the taxpayer has undertaken valid transactions that, in addition, comply with every provision of the Act, with the exception of section 245.
+
+[27] In the case at bar, there is no dispute as to the validity of the planned transactions and as to the fact of compliance with the provisions of the Act and Regulations, with the exception of section 245. It must therefore first be determined whether the planned transactions are avoidance transactions.[4]
+
+[28] In general, the acquisition of a rental property is a transaction undertaken for bona fide purposes (other than to obtain a tax benefit). The fact that such an immovable was purchased through a partnership or a business corporation should normally not change the situation. However, in analysing the specific circumstances of this appeal, on cannot fail to see that Ms. Rousseau-Houle undertook the planned transactions primarily to obtain tax benefits. Through SEC, she held a 99% share in the Laroche immovable. She could have purchased that immovable herself, as she had done in the case of each of the four personal immovables. By making a $1.5 million contribution to SEC to finance the purchase of the Laroche immovable, she made it possible for that partnership to realize a significant profit by freeing it from the substantial interest expenses, thus permitting it to avail itself of a higher CCA. That planning even allowed Ms. Rousseau-Houle to claim CCA that she could not have benefited from in computing the rental income from her personal immovables. She had received the advice of a tax lawyer and, evidently, the planned transactions had been undertaken in order to maximize the tax benefits. In these circumstances, it must be concluded that the planned transactions were primarily for the purpose of obtaining a tax benefit and constituted avoidance transactions.
+
+[29] It remains to be determined whether the transactions resulted in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. I do not believe that subsection 245(2) of the Act applies in this case essentially for two reasons. First, subsection 245(2) does not apply to a tax benefit that contravenes a provision of the Regulations. Second, even if the provisions of the Regulations have to be taken into account, the planned transactions do not result in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act read as a whole. I shall now explain each of these reasons.
+
+The Act read as a whole, without taking the Regulations into account
+
+[30] In the first place, the only provision of the Act referred to by counsel for the respondent with respect to which there could be a misuse or abuse is paragraph 20(1)(a), which enables a taxpayer to claim CCA., the amount of which is that allowed by the Regulations. More specifically, SEC's tax benefit would contravene subsection 1100(11) of the Regulations and not paragraph 20(1)(a)of the Act. Subsection 245(4) of the Act provides that subsection 254(2) does not apply to a transaction that does not result in a misuse of, or an abuse having regard to, the provisions of "this Act . . . read as a whole".
+
+[31] During oral argument at the hearing, counsel for both parties assumed that, for the purposes of subsection 245(4) of the Act, the word "Act" included the Regulations. I expressed doubt regarding the correctness of this approach, and the parties agreed to provide written submissions at a later date. In his submissions of June 22, 2000, counsel for Ms. Rousseau-Houle concluded that "Act" did not include the word "Regulation". This is what he said regarding this issue at page 7 of those submissions:
+
+[TRANSLATION]
+
+14. It is submitted that the term "Act" in subsection 245(4) of the Act does not include the word "Regulations" in the context of the general anti-avoidance rule in section 245. Indeed, only Parliament may adopt fiscal policies which show the spirit and purpose of the Act. We reiterate the position of René Dussault and Louis Borgeat referred to in paragraph 7 of these submissions, namely, that statutes are "the expression of the political will of the elected representatives of the population, articulated in the most lasting form available. They transcend political programs, 'papers' of all colours, and inaugural speeches. They alone manifest in concrete form the will of the elected leaders."
+
+15. It is however true that a regulation has the force of law. Yet, as Patrice Garant wrote, a regulation is not a formal Act, that is to say, a statute, even if a provision of the Act attempts to equate the regulation with the Act.
+
+[32] I cite some of the relevant passages from René Dussault and Louis Borgeat, Administrative Law: A Treatise, 2nd ed., Vol. 1, 1985, Carswell, at page 15, referred to by counsel:
+
+(b) Statutes
+
+The statutes are the expression of the political will of the elected representatives of the population, articulated in the most lasting form available. They transcend political programs, "papers" of all colours, and inaugural speeches. They alone manifest in concrete form the will of the elected leaders. Parliament's authority in legal matters is sovereign; when it acts within the framework of the Constitution, its power to make or amend laws in principle has no limit. Since it is supreme, the legislation which Parliament passes must be considered as the primary source of law. It is the source of those ever-expanding powers — regulatory and otherwise — conferred upon the Executive or other governmental bodies.
+
+(c) Regulations
+
+Just as statutes are the voice of parliamentarians, regulations are the principal voice of the Executive. Essentially they constitute a norm of general conduct authorized by statute and applying to citizens or to certain categories of citizens. Contrary to statutes, which come from Parliament, regulations originate in several bodies, the major source being the government. . . . The importance of regulations as a source of law is fundamental, for they have become an indispensable tool in the application of statutes.
+
+[Emphasis added.]
+
+[33] Counsel also cited Patrice Garant, Droit administratif, 4th ed., Vol. 1, 1996, Les Éditions Yvon Blais, pages 408, 414 and 418, which enunciates several basic rules that govern the regulatory activities of government:
+
+[TRANSLATION]
+
+2nd rule: every regulation requires an enabling Act.
+
+7th rule: a regulation is not a formal Act, that is to say, a statute, even if a provision of the Act attempts to equate the regulation with the Act; however, the term "Act" or "loi" very often includes the word "regulation", depending on the context.
+
+10th rule: the regulation must be consistent with the enabling clause. A regulation, in its object or its content, must not go beyond the enabling clause. This rule is the logical expression of the relationship of subordination between an Act and a regulation. Regulatory power may not and must not be exercised otherwise than in accordance with the enabling Act.
+
+[Emphasis added.]
+
+[34] To the academic writings referred to by counsel for Ms. Rousseau-Houle must be added the case of The King v. Singer, [1941] S.C.R. 111, in which the Supreme Court of Canada held that a regulation or an order was not an Act. In that case, a druggist who had contravened a provision of an order made under the War Measures Act was prosecuted under section 164 of the Criminal Code (section 126 of the present Code). The War Measures Act explicitly provided that orders and regulations had the force of law. The dissenting judges of the Court of King's Bench had found that the [TRANSLATION] "regulation in question must be considered part of the War Measures Act, and therefore section 164 Cr. C. applies." (p. 113). This section of the Criminal Code applied to any person who contravened an Act of Parliament. The Supreme Court upheld the decision of the trial judge dismissing the proceedings against the druggist and that of the Court of Appeal affirming the trial decision.
+
+[35] In his submissions of June 22, 2000, counsel for the respondent naturally expressed an opposing point of view. In paragraph 14 of those submissions, he wrote:
+
+[TRANSLATION]
+
+14. In our humble opinion, the provisions of the Income Tax Act and the whole of the Income Tax Regulations (in particular those regulations concerning capital cost allowance, as they form in themselves a complete mini-code) are all so interrelated that they cannot and should not be read or interpreted independently of one another and, consequently, by reason of this context peculiar to the Income Tax Act, we conclude that the word "Act" in section 245 of the Income Tax Act necessarily includes by reference the word "regulation".
+
+[36] In support of this conclusion, he cites, inter alia, Driedger on the Construction of Statutes, Ruth Sullivan, 3rd ed., Butterworths, Toronto and Vancouver, at page 246:
+
+In appropriate circumstances, however, where the Act and the regulations are closely meshed so as to form an integrated scheme, provisions from both are interpreted in the light of that overall scheme.
+
+[37] In my opinion, the wording of subsection 245(4) of the Act is clear and unambiguous. In speaking of a misuse of, or an abuse having regard to, the provisions "of this Act . . . read as a whole", the legislator is referring to the Act enacted by the Parliament of Canada. There is no reference at all to the Regulations made by the government. It is important at this point to remember the principles of construction adopted by the Supreme Court of Canada for cases where the wording is clear and unambiguous. For example, in Friesen v. Canada, [1995] 3 S.C.R. 103, at page 113 (95 DTC 5551, at page 5553), Major J., Sopinka and L'Heureux-Dubé JJ. concurring, describes these principles as follows:
+
+In interpreting sections of the Income Tax Act, the correct approach, as set out by Estey J. in Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, is to apply the plain meaning rule. Estey J. at p. 578 relied on the following passage from E. A. Driedger, Construction of Statutes (2nd ed. 1983), at p. 87:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+The principle that the plain meaning of the relevant sections of the Income Tax Act is to prevail unless the transaction is a sham has recently been affirmed by this Court in Canada v. Antosko, [1994] 2 S.C.R. 312. Iacobucci J., writing for the Court, held at pp. 326-27 that:
+
+While it is true that the courts must view discrete sections of the Income Tax Act in light of the other provisions of the Act and of the purpose of the legislation, and that they must analyze a given transaction in the context of economic and commercial reality, such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed: Mattabi Mines Ltd. v. Ontario (Minister of Revenue),[1988] 2 S.C.R. 175, at p. 194; see also Symes v. Canada [1993] 4 S.C.R. 695.
+
+I accept the following comments on the Antosko case in P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (1995), section 22.3(c) "Strict and purposive interpretation", at pp. 453-54:
+
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court's view of the object and purpose of the provision. . . . [The Antosko case] is simply a recognition that "object and purpose" can play only a limited role in the interpretation of a statute that is as precise and detailed as the Income Tax Act. When a provision is couched in specific language that admits of no doubt or ambiguity in its application to the facts, then the provision must be applied regardless of its object and purpose. Only when the statutory language admits of some doubt or ambiguity in its application to the facts is it useful to resort to the object and purpose of the provision.
+
+[Emphasis added.]
+
+[38] When Parliament's intent is that both the Act and the Regulations are to be taken into account, it says so explicitly. I have counted at least twenty sections[5] of the Act where Parliament refers to both the Act and the Regulations. I should add that the phrase "of this Act or the regulations" or similar phrases may be found in at least eight separate provisions of the Act: 147.1(7), 220(2.1), 220(5), 221(2), 225.1(6), 238(3), 239(1)(a) and 239(1.1).
+
+[39] I shall cite only a few highly indicative examples. First, there is paragraph 221(2)(b), which sets out the rule stating when a regulation correcting an enactment that is "not in accordance with the objects of this Act or the Income Tax Regulations" has effect. Paragraph 221(2)(b) is worded as follows:
+
+221(2) Effect. A regulation made under this Act shall have effect from the date it is published in the Canada Gazette or at such time thereafter as may be specified in the regulation unless the regulation provides otherwise and it
+
+. . .
+
+(b) corrects an ambiguous or deficient enactment that was not in accordance with the objects of this Act or the Income Tax Regulations;
+
+. . .
+
+[Emphasis added.]
+
+[40] Subsection 220(5) concerns the power of certain officers to administer oaths "for the purposes of . . . the administration or enforcement of this Act or regulations made thereunder."[6]
+
+[41] The final example illustrates the case where Parliament refers in the Act to another Act of Parliament and the regulations made thereunder. Subsection 126.1(12) of the Act, concerning prepayment of the unemployment insurance premium tax credit, provides that an employer shall be deemed for the purposes "of the Unemployment Insurance Act and regulations made under it" to have remitted the amount in question to the Receiver General on account of the employer's unemployment insurance premium.
+
+[42] It is clear, then, that, when Parliament wishes to refer to both the Act and the Regulations, it says so explicitly. In subsection 245(4) of the Act, it did not do so. In my opinion, in interpreting the words "this Act . . . read as a whole" in this subsection one must limit oneself to the provisions of the Act and not take the provisions of the Regulations into account.
+
+[43] I find this result completely appropriate, especially considering that the purpose of subsection 245(2) of the Act is to deprive Canadian taxpayers of tax benefits that are granted by the Act and that contravene none of its provisions, other than section 245. If the intent of Parliament is, for the purposes of this section, to have the government's fiscal policy enunciated in the Regulations taken into account in addition to the policy enacted by Parliament in the Act, it must, in my opinion, clearly express that intent in the section. Since Parliament has taken care to refer, in other provisions of the Act, to both Act and the Regulations, it seems to me that it is even more important for it to do likewise in the context of section 245 of the Act.
+
+[44] If the provisions of the Regulations are not taken into account, the conclusion must be that none of the provisions of the Act read as a whole, including paragraph 20(1)(a), restricts the amount of CCA that may be deducted. This result is not surprising, since the rules governing the calculation of CCA are all to be found in the Regulations.
+
+The Act read as a whole, taking the Regulations into account
+
+[45] Even if I had had to take the provisions of the Regulations into account for the purposes of applying subsection 245(4) of the Act, I would still find that the planned transactions do not result in a misuse of, or an abuse having regard to, the provisions of the Act.
+
+[46] In my opinion, there is nothing in the Act or the Regulations to prevent the use of either a business corporation or a partnership to hold rental property, and there is no requirement that a taxpayer finance such a property through a partnership rather than obtaining financing directly through the partner or partners themselves. On the contrary, the use of a partnership for this purpose is in fact explicitly recognized in subparagraph 1100(11)(a)(ii) of the Regulations.[7] Moreover, paragraph 20(1)(c) explicitly provides that, in computing his income, a taxpayer is entitled to deduct interest paid for the purpose of earning income from a business or property. This paragraph also permits the deduction of interest on an amount payable for property acquired for use in a business. Thus, if a taxpayer purchases shares in a partnership or holds a rental property personally (alone or in co-ownership) or through a partnership, he may deduct the interest on the loans taken out to finance the acquisition thereof.
+
+[47] Moreover, it is paragraph 96(1)(a)[8] that requires that the income from a partnership that holds an immovable be computed as though the partnership were a separate person, which means that the CCA provided for in paragraph 20(1)(a) of the Act must be claimed by the individual, and that the partners who borrowed to finance their contribution to the partnership must deduct the interest. It should be added that this rule has been in force since 1972 and represents a major change from the situation existing prior to 1972 when CCA was claimed by the partners. Accordingly, it was not through oversight or inadvertence that this partnership taxation regime that existed during the relevant period was created.
+
+[48] It may be seen from a combined reading of subsection 1100(11) of the Regulations and paragraph 96(1)(a) of the Act that a partnership may not claim CCA in excess of its net rental income. In the case at bar, the amount claimed by SEC does not exceed the net income (before deducting CCA) earned by that partnership. Therefore, strictly speaking, the rule was observed.
+
+[49] Ms. Rousseau-Houle had the option of financing the acquisition of the Laroche immovable either by borrowing to finance her subscription for the units in SEC or by having SEC itself take out the required loan. The choice of the first option does not in itself result in a misuse of, or an abuse having regard to, the provisions of the Act. It is quite common for a shareholder to borrow to subscribe for his shares and so finance the transactions of his business corporation, just as it is common for such a corporation to itself borrow to finance its own activities. I see no reason to treat any differently a partner who decides to finance the activities of his partnership by borrowing in order to make his contribution to the partnership[9] instead of asking the partnership to obtain its own financing. Yet, in the case at bar, the Minister argues that it is necessary, in computing SEC's rental income, to deduct an expense that it did not incur, that is, the interest paid by Ms. Rousseau-Houle. To require SEC to take into account in computing its income an expense that it did not incur would contravene section 96 of the Act, which requires that the partnership's income be computed as if it were a separate person.
+
+[50] In enacting section 245 of the Act, Parliament was seeking to counter the use of schemes that create an undue tax benefit for taxpayers. The intent was not, however, to permit the Minister to force taxpayers to structure their transactions in the most costly way possible from a tax standpoint. In the explanatory notes for the new section 245 that accompanied the bill to amend the Act, the Minister of Finance recognized that a taxpayer is entitled to arrange his affairs so as to pay the least tax possible. Section 245 is a powerful tool to discourage and prevent flagrant abuses in the application of the Act. It may not be used by the Minister as a means to force taxpayers to structure their transactions in the way most favourable to the tax authorities. My colleague Judge Bowman took the same line in Jabs Construction Ltd. v. The Queen, 99 DTC 729, stating in paragraph 48 that section 245"should not be used routinely every time the Minister gets upset just because a taxpayer structures a transaction in a tax effective way, or does not structure it in a manner that maximizes the tax."
+
+Deduction of interest
+
+[51] In making the assessment, the Minister disallowed a portion of the interest deducted by Ms. Rousseau-Houle in respect of amounts borrowed in 1991 and 1993. When, in August 1991, Ms. Rousseau-Houle refinanced her loan from Montreal Trust, she ended up with an excess of $209,000. This amount was deposited in SEC's account, and SEC remitted it to Gestion. These funds were used in SEC's transactions, and there is nothing to indicate that they were used for personal purposes. In these circumstances, I believe it is reasonable to conclude that the interest relating to this amount of $209,000 constitutes expenses incurred to gain or produce income from a business or property.
+
+[52] As for the $170,771 representing the excess amount obtained when Ms. Rousseau-Houle refinanced the Saint-Louis immovable on January 8, 1993, the evidence reveals that it was initially deposited in Gestion's bank account and used for the purpose of renting the immovables. In all likelihood, however, that amount was used later, at an undetermined time during the year, to make the $105,000 withdrawal in favour of Ms. Rousseau-Houle. According to Ms. Garnier, an amount of $5,000 was used for personal purposes. As for the $100,000 balance, Ms. Rousseau-Houle did not provide, as it was incumbent upon her to do,[10] evidence regarding the use that was made of this amount between the time it was withdrawn in 1993 and May 3, 1994, when Ms. Rousseau-Houle purchased a guaranteed investment certificate. In the circumstances, I believe it reasonable to conclude that Ms. Rousseau-Houle can deduct only the interest on the portion of the $170,771 that was kept by Gestion, or $65,771.
+
+[53] For these reasons, the appeals of Ms. Rousseau-Houle are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that section 245 does not apply to the planned transactions, that Ms. Rousseau-Houle is entitled to CCA computed pursuant to subsection 1100(11) of the Regulations in respect of the personal immovables and the Laroche immovable held by SEC, and that she is entitled to a deduction for
+
+the interest on the $209,000 amount from August 7, 1991 and for the interest on the $65,771 amount from January 8, 1993, the whole with costs.
+
+Signed at Ottawa, Canada, this 23rd day of March 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 14th day of May 2001.
+
+Erich Klein, Revisor
+
+[1] According to the statements of changes, in 1989 there were withdrawals from the Saint-Louis immovable totalling $320,000, of which $260,000 was for the Laroche immovable, and $60,000 for personal use.
+
+[2] Although the partnership declaration indicates that Ms. Rousseau-Houle undertook to subscribe for $1,534,500, she actually paid $1,544,500 for her 99 units of SEC. This amount represents 99% of the subscribed capital of that partnership.
+
+[3] In all probability, about $209,500 more than the outstanding balance of the April 12, 1990 loan.
+
+[4] It is clear that, in the circumstances, Ms. Rousseau-Houle obtained a tax benefit in the form of a reduction in tax because of a higher CCA.
+
+[5] Within a single section, a number of subsections or paragraphs can be found that contain references to both the Act and the Regulations. For example, in section 244, there are no less than seven subsections where the two terms are used together.
+
+[6] Subsection 220(5) provides:
+
+(5) Administration of oaths. Any officer or servant employed in connection with the administration or enforcement of this Act, if designated by the Minister for the purpose, may, in the course of that employment, administer oaths and take and receive affidavits, declarations and affirmations for the purposes of or incidental to the administration or enforcement of this Act or regulations made thereunder, and every officer or servant so designated has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
+
+[7] The relevant provisions read as follows:
+
+(11) Rental Properties — Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class owned by a taxpayer that includes rental property owned by him, otherwise allowed to the taxpayer by virtue of subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+
+(a) the aggregate of amounts each of which is
+
+(i) his income for the year from renting or leasing a rental property owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+
+(ii) the income of a partnership for the year from renting or leasing a rental property of the partnership, to the extent of the taxpayer's share of such income . . .
+
+[Emphasis added.]
+
+[8] Subsection 96(1) read as follows in 1993 (it was amended during the relevant period, but this is without consequence for the purposes of the discussion in this case):
+
+SECTION 96: General rules.
+
+(1) Where a taxpayer is a member of a partnership, his income, non-capital loss, net capital loss, restricted farm loss and farm loss, if any, for a taxation year, or his taxable income earned in Canada for a taxation year, as the case may be, shall be computed as if
+
+(a) the partnership were a separate person resident in Canada;
+
+(b) the taxation year of the partnership were its fiscal period;
+
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person, and a computation were made of the amount of
+
+(i) each taxable capital gain and allowable capital loss of the partnership from the disposition of property, and
+
+(ii) each income and loss of the partnership from each other source or from sources in a particular place,
+
+for each taxation year of the partnership;
+
+(d) each income or loss of the partnership for a taxation year were computed as if this Act were read without reference to paragraph 20(1)(v.1) and subsections 66.1(1), 66.2(1) and 66.4(1) and as if no deduction were permitted by section 29 of the Income Tax Application Rules, 1971, subsection 65(1) or section 66, 66.1, 66.2 or 66.4;
+
+. . .
+
+(f) the amount of the income of the partnership for a taxation year from any source or from sources in a particular place were the income of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership's taxation year ends, to the extent of the taxpayer's share thereof; and
+
+(g) the amount, if any, by which
+
+(i) the loss of the partnership for a taxation year from any source or sources in a particular place,
+
+exceeds
+
+. . .
+
+(iii) in any other case, nil
+
+were the loss of the taxpayer from that source or from sources in that particular place, as the case may be, for the taxation year of the taxpayer in which the partnership's taxation year ends, to the extent of the taxpayer's share thereof.
+
+[9] Such a scenario is even explicitly described in subsection 18(2.1) of the Act.
+
+[10] In Bronfman Trust v.The Queen, [1987] 1 S.C.R. 32, at pages 45 and 46 (87 DTC 5059, at page 5064), Dickson C.J. stated:
+
+The onus is on the taxpayer to trace the borrowed funds to an identifiable use which triggers the deduction. Therefore, if the taxpayer commingles funds used for a variety of purposes only some of which are eligible he or she may be unable to claim the deduction: see, for example, Mills v. Minister of National Revenue, 85 D.T.C. 632 (T.C.C.); No. 616 v. Minister of National Revenue, 59 D.T.C. 247 (T.A.B.)
+

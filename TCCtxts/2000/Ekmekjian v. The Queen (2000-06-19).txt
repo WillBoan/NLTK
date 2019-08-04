@@ -1,0 +1,78 @@
+Date: 20000619
+
+Docket: 1999-1142-IT-I
+
+BETWEEN:
+
+DAVID M. EKMEKJIAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bonner, .T.C.J.
+
+[1] This appeal relates to the 1995 and 1996 taxation years. In his income tax returns for 1995 and 1996 the Appellant deducted $4,925.18 and $5,158.32 respectively in computing the balance of the tax owing by him. Provision for deductions of this sort is made in s. 253 of the Excise Tax Act ("GST") which is intended to allow rebates of GST to employees and members of partnerships in respect of employment or partnership-related expenses which they may deduct in computing income from those sources for purposes of the Income Tax Act ("ITA"). The issue in the appeal relates not to quantum of rebate but rather to eligibility to claim the rebate at all.
+
+[2] The Appellant's claims for the rebate were contained in income tax returns for the Appellant's 1995 and 1996 taxation years. Those returns were not dated by the Appellant. However, in line 699 of the returns the following dates are given: 1996/04/27 and 1997/04/26 in the 1995 and 1996 returns respectively. Thus, the claims for rebate appear to have been made after the amendments to section 253 effected by S.C. 1997 c. 10, s. 62 became applicable. Subsection 62(4) provided:
+
+(4) Subsections (1) to (3) are deemed to have come into force on December 17, 1990 but do not apply for the purpose of determining any rebate under section 253 of the Act that was claimed in an application received by the Minister of National Revenue before April 23, 1996 (other than an application deemed under paragraph 296(5)(a) of the Act to have been filed as a result of an assessment made after that day).
+
+[3] As a result of the amendments effected by section 62 the relevant part of section 253 read:
+
+253. (1) Where
+
+(a) a musical instrument, motor vehicle, aircraft or any other property or a service is or would, but for subsection 272.1(1), be regarded as having been acquired or imported by an individual who is
+
+(i) a member of a partnership that is a registrant, or
+
+(ii) an employee of a registrant (other than a listed financial institution),
+
+(a.1) in the case of an individual who is a member of a partnership, the acquisition or importation is not on the account of the partnership,
+
+(b) the individual has paid the tax payable in respect of the acquisition or importation, and
+
+the Minister shall, subject to subsections (2) and (3), pay a rebate in respect of the property or service to the individual for each calendar year equal to the amount determined by the formula
+
+A x (B â€“ C)
+
+where ...
+
+[4] Section 253 was amended further by the same legislation, S.C. 1997 c. 10, s. 220(1). The English version of the GST now lacks the former subparagraphs 253(1)(a)(i) and (ii). However the obvious oversight in the English version is not present in the French version and in any event the amendment does not govern the substantive rights in question in this appeal. The amendment to subsection 220(1) did not come into force until April 1, 1997.
+
+[5] It was the position of the Respondent that the Appellant was ineligible for the rebate because he was an employee of a listed financial institution within the meaning of subparagraph 253(1)(a)(ii). The term "listed financial institution" is defined in subsection 123(1) of the GST to be a person referred to in paragraph 149(1)(a). That provision reads:
+
+149. (1) For the purposes of this Part, a person is a financial institution throughout a particular taxation year of the person if
+
+(a) the person is
+
+(i) . . .
+
+(ii) . . .
+
+(iii) a person whose principal business is as a trader or dealer in, or as a broker or salesperson of, financial instruments or money, . . .
+
+at any time in the particular year.
+
+[6] The Appellant was employed during the first part of 1995 by Sanwa McCarthy Securities; during the latter part of 1995 and the first part of 1996 by Majendie Charlton Securities Ltd.; and during the last part of 1996 by Yorkton Securities Inc. All three employers were registered for purposes of the GST. On assessment the three firms were assumed to be listed financial institutions and there was no clear evidence to the contrary.
+
+[7] The Appellant appeared on his own behalf at the hearing of the appeal and was the only person to give evidence. He stated that at the relevant time he held a licence as a portfolio adviser, that none of the three employers mentioned above was so licenced and that in respect of services which he performed as portfolio adviser to clients of the three firms, he charged fees on which GST was levied. He stated that his employers provided office space, business cards, a computer and some support staff. He stated that he hired an assistant who received some salary from his employer and a bonus from him.
+
+[8] The Appellant was a truthful witness. However there is no evidence on which I can find that the Appellant's activity as portfolio adviser or manager was not carried on by him qua employee. There is no suggestion in the evidence that the Appellant was a member of any partnership.
+
+[9] In my opinion the Appellant is not entitled to a rebate under section 253 because he was excluded from the category of employees who do qualify by clear words of exception found in subparagraph 253(1)(a)(ii). The Appellant seems to assume that the exception should not apply to employees of listed financial institutions where those employees provide services which are subject to tax. The short answer to this contention is that the legislature has not seen fit to cut down on the language of the exception. This court must apply the clear language of the statute as it finds it.
+
+[10] The appeal will be dismissed.
+
+Signed at Ottawa, Canada, this 19th day of June 2000.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+

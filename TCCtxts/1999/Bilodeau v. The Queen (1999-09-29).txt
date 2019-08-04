@@ -1,0 +1,120 @@
+Date: 19990927
+
+Docket: 98-2389-IT-I; 98-2390-IT-I; 98-2391-IT-I; 98-2392-IT-I
+
+BETWEEN:
+
+YVES BILODEAU, LUC BRASSARD, SERGE MARTEL, GASTON TREMBLAY,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Lamarre, J.T.C.C.
+
+[1] These appeals were heard on common evidence under the informal procedure. They are appeals from assessments made by the Minister of National Revenue (“the Minister”) under the Income Tax Act (“the Act”) in which the Minister disallowed a business investment loss for each appellant for the 1992 taxation year. The loss in question amounted to $4,608 for Yves Bilodeau, $5,625 for Luc Brassard, $5,543 for Serge Martel and $10,080 for Gaston Tremblay. The Minister instead considered the eligible portion of the loss — $3,456 for Yves Bilodeau, $4,219 for Luc Brassard, $4,157 for Serge Martel and $7,560 for Gaston Tremblay — to be a capital loss.
+
+[2] The losses were incurred by each of the appellants when they were members of the Coopérative de travailleurs du Royaume (“the Coop”). Each appellant had subscribed for common and preferred shares in the Coop for the amount of his respective loss.
+
+[3] All or substantially all of the fair market value of the Coop’s assets was attributable to investments made up of shares of Normick Chambord Inc. (“Chambord”), a company incorporated in 1987 to operate a waferboard factory in Lac St-Jean, Quebec. The ownership of Chambord’s shares was as follows in 1992:
+
+i. the National Bank of Canada (“NBC”) owned 1.5 percent of Chambord’s common shares (135,000 shares);
+
+ii. Normick Perron Inc. (“Perron”), a public corporation, owned 49.5 percent of Chambord’s common shares (4,455,000 shares); and
+
+iii. a number of unions and workers’ cooperatives, including the Coop, separately owned 49 percent of Chambord’s common shares (4,410,000 shares).
+
+[4] The Coop made an assignment of its property on March 3, 1992, and Chambord did the same on December 7, 1992. That is why the appellants reported a business investment loss in connection with their respective interests in the Coop.
+
+[5] To be entitled to such a loss, the appellants must, under subparagraph 39(1)(c)(ii) of the Act as it applied in 1992, show that the loss is from the disposition of shares of the capital stock of a small business corporation. The parties are agreed that the only issue in this case is whether Chambord was a small business corporation in 1992. Subsection 248(1), as it read in 1992, defines such a corporation as follows:
+
+“small business corporation”, at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time was attributable to assets that were
+
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+
+(b) shares of the capital stock or indebtedness of one or more small business corporations that were at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that such small business corporation was at that time a “payer corporation” within the meaning of that subsection), or
+
+(c) assets described in paragraphs (a) and (b),
+
+including, for the purposes of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purposes of this definition, the fair market value of a net income stabilization account shall be deemed to be nil . . . . [Emphasis added]
+
+[6] In 1992, “private corporation” was defined as follows in paragraph 89(1)(f) of the Act:
+
+(f) “private corporation” at any particular time means a corporation that, at the particular time, was resident in Canada, was not a public corporation and was not controlled by one or more public corporations (other than prescribed venture capital corporations) or prescribed federal Crown corporations or by any combination thereof and, for greater certainty, for the purposes of determining at any particular time when a corporation last became a private corporation,
+
+(i) a corporation that was a private corporation at the commencement of its 1972 taxation year and thereafter without interruption until the particular time shall be deemed to have last become a private corporation at the end of its 1971 taxation year, and
+
+(ii) a corporation incorporated after 1971 that was a private corporation at the time of its incorporation and thereafter without interruption until the particular time shall be deemed to have last become a private corporation immediately before the time of its incorporation . . . . [Emphasis added]
+
+[7] The only question I must decide is whether Chambord was a private corporation within the meaning of the Act in 1992. For this purpose, I must determine whether it was controlled by one or more public corporations.
+
+[8] Absent statutory definitions, the courts have traditionally held that the term “control” means de jure control and not de facto control. This is what was stated by Jackett P. of the Exchequer Court in Buckerfield’s Ltd. et al. v. M.N.R., 64 DTC 5301, at p. 5303. His comments were reproduced by the Supreme Court of Canada in Duha Printers (Western) Ltd. v. R., [1998] 1 S.C.R. 795, at p. 815:
+
+A. “Control” of a corporation
+
+It has been well recognized that, under the Income Tax Act, “control” of a corporation normally refers to de jure control and not de facto control. This Court has repeatedly cited with approval the following test, set out by Jackett P. in Buckerfield’s, supra, at p. 507:
+
+Many approaches might conceivably be adopted in applying the word “control” in a statute such as the Income Tax Act to a corporation. It might, for example, refer to control by “management”, where management and the board of directors are separate, or it might refer to control by the board of directors. . . . The word “control” might conceivably refer to de facto control by one or more shareholders whether or not they hold a majority of shares. I am of the view, however, that in Section 39 of the Income Tax Act [the former section dealing with associated companies], the word “controlled” contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. [Emphasis in original]
+
+Cases in which this Court has applied the foregoing test have included, inter alia, Dworkin Furs, supra [Minister of National Revenue v. Dworkin Furs (Pembroke) Ltd., [1967] S.C.R. 223], and Vina-Rug (Canada) Ltd. v. Minister of National Revenue, [1968] S.C.R. 193.
+
+[9] This is also the position that Parliament seems to have taken when it amended the definition of “private corporation” in 1988 to introduce the definition applicable to the year at issue. The explanatory technical notes on the Act, consolidated in 1992 (4th edition), state the following about paragraph 89(1)(f):
+
+Paragraph 89(1)(f) sets out the definition of “private corporation”. Under this definition, a corporation controlled, directly or indirectly in any manner whatever, by one or more public corporations will not be a private corporation. This definition is amended, effective for taxation years commencing after 1988, to delete therefrom the phrase “directly or indirectly in any manner whatever”. The amendment is consequential to the introduction of new subsection 256(5.1) and ensures that the provisions of that subsection — relating to de facto control — are not applicable in determining whether a corporation is a private corporation.
+
+[10] As for how to determine whether de jure control exists, in Duha Printers the Supreme Court of Canada adopted the de jure control test as established in Buckerfield’s, supra, while extending the factors to be analysed to determine whether such control exists. However, those factors are limited to the corporation’s internal documents, such as the share register, the corporation’s by-laws and the articles of incorporation, including shareholder agreements.
+
+[11] I agree with counsel for the respondent that, to conclude that a corporation is controlled by a number of public corporations, the law as it currently stands does not require the public corporations to be acting together. What matters is majority voting control over the corporation, as manifested by the ability to elect the members of the corporation’s board of directors.
+
+[12] In the case at bar, the two public corporations (Perron and NBC) owned enough shares (51 percent in all) to give them majority voting power in Chambord. There is nothing in Chambord’s articles of incorporation that could limit the voting rights of the owners of voting shares (the preferred shares are not voting shares). Moreover, the corporation’s by-laws were not filed in evidence, and it does not appear that there were any shareholder agreements.
+
+[13] Counsel for the appellant called Mr. Van De Voorde to testify on behalf of the NBC. He said that the bank provided Chambord with $35 million in financing and purchased 1.5 percent of its common shares for $200,000. According to Mr. Van De Voorde, the bank retained an interest in Chambord mainly as a creditor and had no agreement with Perron about voting rights. He said that the bank had a minimal influence on voting.
+
+[14] In my view, Mr. Van De Voorde’s testimony is irrelevant. What matters is the ability of the NBC and Perron to exercise control by having the power to elect a majority of the members of Chambord’s board of directors.
+
+[15] I do not agree with counsel for the appellant that de jure control in the case at bar requires alliances between the various shareholders. Counsel for the appellant is here confusing de facto control with effective control.
+
+[16] The comments of the Supreme Court of Canada, per Iacobucci J., in Duha Printers, supra, at pp. 815-16 and 825, provide a good summary of this difference:
+
+Thus, de jure control has emerged as the Canadian standard, with the test for such control generally accepted to be whether the controlling party enjoys, by virtue of its shareholdings, the ability to elect the majority of the board of directors. However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. That is, although the directors generally have, by operation of the corporate law statute governing the corporation, the formal right to direct the management of the corporation, the majority shareholder enjoys the indirect exercise of this control through his or her ability to elect the board of directors. Thus, it is in reality the majority shareholder, not the directors per se, who is in effective control of the corporation. This was expressly recognized by Jackett P. when setting out the test in Buckerfield’s. Indeed, the very authority cited for the test was the following dictum of Viscount Simon, L.C., in British American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13, at p. 15:
+
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes. [Emphasis in original]
+
+. . .
+
+. . . the major concern of the de jure test is to ascertain which shareholder or shareholders have the voting power to elect a majority of the directors. The test neither requires nor permits an inquiry into whether a given director is the nominee of any shareholder, or any relationship or allegiance between the directors and the shareholders. [Emphasis added]
+
+[17] Moreover, Linden J.A. of the Federal Court of Appeal of Canada had stated the following in Canada v. Duha Printers (Western) Ltd., [1996] F.C.J. 738, at p. 27:
+
+The Court here recognized that any combination of shareholders that can exert majority control are linked by a “sufficient common connection” for the purposes of the de jure test, and therefore, in law, control the corporation. Actual demonstrated control by any such group is not strictly required. Rather, such shareholders need only be in “a position to exercise control.”
+
+[18] Linden J.A. was repeating what was stated by Abbott J. of the Supreme Court of Canada in Vina-Rug (Can.) Ltd., supra, in which the Supreme Court had to determine whether two corporations were controlled by a single person or group of persons for the purpose of determining whether they were associated within the meaning of the former paragraph 39(4)(b) of the Act. Abbott J. stated the following at p. 197:
+
+. . . Moreover, in determining de jure control more than one group of persons can be aptly described as a “group of persons” within the meaning of s. 39(4)(b). In my view, it is immaterial whether or not other combinations of shareholders may own a majority of voting shares in either company, provided each combination is in a position to control at least a majority of votes to be cast at a general meeting of shareholders.
+
+[19] In the case at bar, it was therefore not necessary for the two public corporations (NBC and Perron) to join forces, act together or form an alliance to exercise de jure control. What matters is that, between the two of them, they owned a majority of Chambord’s shares giving them the voting power to elect a majority of the directors.
+
+[20] In my opinion, the law is sufficiently clear to conclude that Chambord was controlled by two public corporations and therefore could not be considered a private corporation within the meaning of the Act. Since it was not a private corporation, Chambord did not qualify as a small business corporation in 1992.
+
+[21] The loss incurred by each of the appellants is therefore not a business investment loss but a capital loss.
+
+[22] The appeals are dismissed.
+
+Signed at Ottawa, Canada, this 27th day of September 1999.
+
+“Lucie Lamarre”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 11th day of January 2000.
+
+Stephen Balogh, Revisor
+

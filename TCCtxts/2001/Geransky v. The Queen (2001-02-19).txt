@@ -1,0 +1,350 @@
+Date: 20010219
+
+Docket: 98-2383-IT-G
+
+BETWEEN:
+
+DENNIS GERANSKY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals are from assessments for the appellant's 1994 and 1995 taxation years. In 1994 transactions were entered into by the appellant and his brother Harvey involving three corporations controlled by them. The Minister assessed them on two alternative bases:
+
+(a) that they had received a deemed dividend under subsection 84(2);
+
+or
+
+(b) that the transactions were avoidance transactions within the meaning of section 245 of the Income Tax Act justifying the Minister's recharacterization of the capital gain realized by the appellant as a dividend.
+
+[2] The important year under appeal is 1994, the parties having agreed that the assessment for 1995 is consequential upon the disposition of the 1994 assessment.
+
+[3] The parties entered into a detailed agreement as to facts and as well four witnesses testified: Mr. Dennis Geransky, Mr. George Knight, the company's accountant, Mr. Gregory Sherloski, a tax partner with the accounting firm Ernst & Young, and Mr. Robert Kelln, an assessor with the Tax Avoidance Section of Revenue Canada (now CCRA).
+
+[4] I shall not reproduce the lengthy agreement as to facts. It is sufficient for these purposes to summarize the facts that culminated in the assessments under appeal.
+
+[5] Geransky Brothers Construction Ltd. ("GBC") was incorporated in 1978 and has carried on the concrete construction business in the Saskatoon area, principally in the field of foundations for commercial buildings.
+
+[6] In 1982 Geransky Holdings Ltd. ("GH") was formed and the shares of GBC were rolled into it so that GBC became the wholly owned subsidiary of GH, whose sole function was to hold the shares of GBC. The original shareholders of GH, the brothers Edward, Irvin and Dennis Geransky, changed in 1983 so that the only shareholders of GH were the brothers Dennis and Harvey Geransky. Each owned 50 Class A Common Voting shares of GH. Also, Dennis held 100 Non-Voting Preferred shares of GH.
+
+[7] In 1987 the Geranskys decided that it made economic sense for GBC to stop getting its supply of concrete from outside sources such as Inland Cement Limited which took over Revelstoke Cement. Evidently at that time the price of cement was high. Therefore GBC constructed its own cement plant where cement was manufactured. About 2/3 of the cement manufactured was used in GBC's construction business and 1/3 was sold to outsiders. The proportion of concrete sales to revenues from construction contracts was lower than this in the fiscal periods ending March 31, 1994 and 1995. Also, about 1/3 of the gross revenue from construction contracts was attributable to the concrete manufactured by GBC and supplied under the construction contracts.
+
+[8] There was no separation or segregation of either the staff or the assets employed or used in the construction contracts or the cement manufacturing aspects of the business. No separate CCA pools were created in respect of assets used in construction as opposed to cement manufacturing. GBC treated the two aspects as one business, not two, and I agree. Concrete manufacturing was simply a part of the concrete construction business.
+
+[9] In 1991 Lafarge Canada Inc. ("Lafarge"), a large manufacturer of cement and supplier of concrete to the construction industry, approached the appellant and asked if GBC would be interested in selling the cement plant and related redi-mix assets. Nothing came of this overture at that time. However by 1992 the concrete market began to shrink and the price of concrete started to fall. In 1987 the price of standard strength concrete was $100-$110 per cubic metre. By 1992 or 1993 the price had fallen to less than $70 per cubic metre.
+
+[10] Dennis and his brother Harvey decided that it was no longer economic for GBC to manufacture its own cement. It made more economic sense to buy from outsiders, such as Lafarge. They therefore approached Lafarge and a price and an agreement in principle was reached, essentially that Lafarge would acquire GBC's cement plant and related assets and give GBC a 10-year supply contract. At this point nothing binding was concluded.
+
+[11] Dennis realized that tax consequences were involved. He spoke to his accountant, Mr. Knight. Mr. Knight did not consider himself a tax expert and he consulted Mr. Gregory Sherloski, a tax partner at Ernst & Young, who developed a plan contained essentially in a memorandum that was adduced in evidence as Exhibit A-10.
+
+[12] It reads as follows:
+
+Geransky Reorganization and Sale
+
+The following is a very brief summary of the steps involved in the proposed reorganization:
+
+h Construction pays $1 million dollar dividend-in-kind to Holdings. Dividend-in-kind is paid by transferring $1 million of assets which Lafarge wishes to purchase from Construction.
+
+i Dennis and Harvey each transfer $500,000 of Holdings' common shares to Newco in exchange for Newco common shares. Dennis and Harvey will crystallize their capital gains exemptions as part of this transaction and will each have an adjusted cost base of $500,000 in the Newco common shares acquired. Newco will now own $1 million of Holdings common shares.
+
+i Holdings redeems its common shares held by Newco by transferring the $1 million of assets it received from Construction as a dividend-in-kind. Holdings is now again owned 50/50 by Dennis and Harvey. Newco is also owned 50/50 by Dennis and Harvey. Newco will have to pay some tax on this dividend. Tax owing will depend on Holdings' safe income. These calculations are yet to be finalized.
+
+i Dennis and Harvey sell their interest in Newco to Lafarge for $1 million. Lafarge now owns Newco and its $1 million of assets.
+
+i Lafarge purchases the remaining $200,000 of assets from Construction.
+
+i Lafarge and Newco amalgamate or Newco is wound into Lafarge.
+
+i Newco is deemed to have a tax year-end when Lafarge acquires its shares and must file a tax return for the period then ended.
+
+i If Newco and Lafarge amalgamate, both companies will have a tax year-end at that time. Alternatively, if Newco is wound-up into Lafarge, only Newco will have a tax year-end at that time. The timing of the wind-up or amalgamation should be structured so as to minimize the number of tax filings required.
+
+[13] The steps taken to implement the plan were as follows.
+
+1. On or about February 15, 1994 the appellant and his brother each sold 40 Class A shares of GH to 606103 Saskatchewan Ltd. ("606103"). I do not recall whether 606103 was formed for this purpose or was an existing company. It is immaterial. At the time it held only the shares of GH.
+
+The consideration for the 40 shares of GH sold by each of the brothers was $500,000 payable by the issuance to each brother of 100 Class A Common Voting shares of 606103. This was considered to be fair market value. This value has not been challenged by the respondent.
+
+2. On or about February 21, 1994 an agreement was entered into between Harvey and Dennis Geransky, GH, GBC, 606103 and Lafarge under which Lafarge agreed to buy from each of Dennis and Harvey Geransky 100 Class A Shares of 606103 for $477,450 and shareholders' loans owing to each of them by 606103 in the amount of $22,550. Lafarge also agreed to buy from GBC land and a maintenance shop for $200,000.
+
+3. At 9:00 a.m. on April 4, 1994 GBC declared and paid a dividend of $1,000,000 in favour of GH. The dividend was a dividend in kind paid by the transfer of assets. These assets were the cement plant and related property, a portable plant and a number of vehicles, primarily cement mixer trucks.
+
+The value of the property transferred by way of dividend, $1,000,000, was not challenged.
+
+4. Between 10:00 a.m. and noon on April 4, 1994 GH bought back from 606103 the 80 Class A shares of its capital stock for $1,000,000. The $1,000,000 consideration was satisfied by the transfer to 606103 of the property GH had received from GBC on the payment of the $1,000,000 dividend.
+
+5. Later that day the agreement of February 21, 1994 referred to in 2 above closed and the two Geransky brothers each sold their 100 Class A Common Voting shares of 606103 to Lafarge for $477,550, and their shareholders' loans for $22,550. Also, GBC sold its land and maintenance shop to Lafarge for $200,000.
+
+[14] This completes the summary of the transactions. They had the following tax consequences apart from those resulting from the Minister's application of subsection 84(2) and section 245.
+
+(a) The appellant realized a capital gain of $499,960 on the disposition of the 40 Class A Common shares of GH ($500,000 proceeds less an ACB of $40).
+
+(b) The appellant sustained a capital loss of $22,550 on the sale of the 100 Class A Common shares of 606103 (proceeds of $477,450 less ACB of $500,000).
+
+(c) The appellant sustained a capital loss of $425 on the disposition of the shareholder's loan of $22,975 owing to him by 606103.
+
+(d) The appellant claimed $281,302.92 in respect of a capital gains deduction and $1,612.50 as net capital losses from previous years.
+
+(e) In its fiscal year commencing April 1, 1994 and ending March 31, 1995 GBC included recapture of CCA of $517,337 under subsection 13(1) of the Income Tax Act. This resulted in whole or in part from the disposition of the property in the form of a dividend to GH in the amount of $1,000,000 and the sale to Lafarge of the land and maintenance shop for $200,000.
+
+(f) The appellant's employment income went from $95,100 in 1994 to $183,157 in 1995.
+
+(g) The repurchase for $1,000,000 by GH of the 80 Class A shares in its capital stock held by 606103 would, apart from section 55, have resulted in a deemed dividend under subsection 84(3) to the extent that the amount paid exceeded the paid-up capital.
+
+Section 55 however converts what would otherwise be a tax free inter-corporate dividend to a capital gain to the extent that the dividend does not effect a reduction in a capital gain that is attributable to post 1971 income ("safe income"). The rules under section 55 are complex and need not concern us here. It is sufficient to say that the evidence is that GH did not have sufficient safe income and as a result a capital gain was realized in the amount of $133,000. This amount is not disputed.
+
+[15] Before turning to the two bases upon which the assessments were predicated, I should state several conclusions that I regard as being of some significance.
+
+(a) The transactions in the series were legally binding and effective. They were not shams.
+
+(b) The overall economic purpose was the acquisition by Lafarge of the cement manufacturing assets of GBC and the obtaining by GBC of a 10-year supply contract from Lafarge. That purpose was formulated by the appellant and his brother in negotiations with Lafarge. Tax or the saving of tax played no role in those negotiations.
+
+(c) The development of a plan to implement the economic purpose referred to in (b) in the most tax effective way occurred after the consultation with Mr. Knight and Mr. Sherloski.
+
+(d) Each of the tax consequences recognized and anticipated by the appellant and his advisors — whether favourable or adverse — were the result of the application of specific provisions of the Income Tax Act.
+
+[16] The first assessing position is that the series of steps taken by the appellant and the three companies — GH, GBC and 606103 — resulted in a deemed dividend under subsection 84(2) of the Income Tax Act which reads:
+
+Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+
+exceeds
+
+(b) the amount, if any, by which the paid-up capital in respect of he shares of that class is reduced on the distribution or appropriation, as the case may be,
+
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+
+[17] Counsel for the respondent did not rely upon the words "winding-up" or "discontinuance". Rather, his position was that funds or property of a corporation resident in Canada had been appropriated in any manner whatever to or for the benefit of the appellant on the reorganization of its business.
+
+[18] In Smythe et al. v. Minister of National Revenue, [1970] S.C.R. 64, Judson J. characterized a somewhat complex surplus strip as a "winding up". Smythe was followed in RMM Canadian Enterprises Inc. et al. v. R., [1998] 1 C.T.C. 2300.
+
+[19] Both these cases involve a strip of surplus of a corporation. In both cases there was a corporation with a substantial surplus and the steps involved the use of another corporation as a means of getting the surplus into the hands of the shareholders. In RMM at pages 2313-4 this court said:
+
+18 What of the fact that there was a sale of shares? Of course there was sale. It was not a sham. "Sale of shares" is a precise description of the legal relationship. Nor do I suggest that the doctrine of "substance over form" should dictate that I ignore the sale in favour of some other legal relationship. That is not what the doctrine is all about. Rather it is that the essential nature of a transaction cannot be altered for income tax purposes by calling it by a different name. It is the true legal relationship, not the nomenclature that governs. The Minister, conversely, may not say to the taxpayer "You used one legal structure but you achieved the same economic result as that which you would have had if you used a different one. Therefore I shall ignore the structure you used and treat you as if you had used the other one".
+
+19 One cannot deny or ignore the sale. Rather, one must put it in its proper perspective in the transaction as a whole. The sale of EL's shares and the winding-up or discontinuance of its business are not mutually exclusive. Rather they complement one another. The sale was merely an aspect of the transaction described in subsection 84(2) that gives rise to the deemed dividend. The flaw in the appellant's position and, I should think, in the assessor's view that he had to go through section 245 to get to section 84, is that it is predicated upon an either/or hypothesis: either the amounts received are the proceeds of the sale of the shares of EL or they represent a distribution or appropriation of funds or property of EL on the winding-up or discontinuance of EL's business and the two cannot co-exist. Indeed they can, and they did. I do not think that the brief detour of the funds through RMM stamps them with a different character from that which they had as funds of EL distributed or appropriated to or for the benefit of EC. Nor do I think that the fact that the funds that were paid to EC by RMM were borrowed from the bank and then immediately repaid out of EL's money is a sufficient basis for ignoring the words "in any manner whatever". In Minister of National Revenue v. Merritt, [1941] Ex. C.R. 175 (Can. Ex. Ct.), Maclean P. said at p. 182:
+
+I therefore think there is no room for any dispute of substance but that the Security Company discontinued its business in a real and commercial sense, and that for a consideration it disposed of all its property and assets, however far that my carry one in deciding the issues in this case. There is, therefore, no necessity for attempting any precise definition of the words "winding-up, discontinuance or reorganization." What was done with the business of the Security Company fell somewhere within the meaning and spirit of those words. Neither do I entertain any doubt that there was a distribution of the property of the Security Company among its shareholders, in the sense contemplated by s. 19(1) of the Act, under the terms of the Agreement after its ratification by the shareholders of the Security Company. It is immaterial, in my opinion, that the consideration received by the appellant for her shares happened to reach her directly from the Premier Company and not through the medium of the Security Company.
+
+20 In the Supreme Court of Canada ([1942] S.C.R. 269 (S.C.C.)) the majority of the court at p. 274 agreed with this statement but reversed the Exchequer Court on other grounds.
+
+[20] Let us then apply the reasoning in these cases to the present case and see where it gets us. Subsection 84(2) is a reasonably broad section that permits the type of conclusion that we find in Smythe, RMM and Merritt. Nonetheless, I do not think that one can contort it beyond all recognition.
+
+[21] (a) There was no discontinuance, wind-up or reorganization of any company's business. Both GH and GBC continue to this day to do what they have always done.
+
+(b) The appellant is a shareholder of GH, not of GBC. GH's "business" (if that is an appropriate term considering that it is a passive holding company) is the holding of the shares of GBC. Even if one regards the taxable event as the "reorganization" of GBC's business because it disposed of some assets that can hardly bear on the appellant who is not a shareholder of GBC.
+
+(c) I asked counsel for the respondent what corporation we were talking about in subsection 84(2) and he said both GH and GBC. Leaving aside the fact that the appellant was not a shareholder of GBC I do not see where any funds or property of either company ended up in the appellant's hands. The appellant sold 40 of his Class A shares of GH to 606103 for $500,000. This triggered a capital gain. If one stops there it is impossible to see how any funds or property of any corporation have been appropriated to the appellant. The next steps — the dividend by GBC and the repurchase of its shares by GH from 606103 — do not involve any funds or property ending up in the appellant's hands. Finally, the sale of the shares of 606103 by the appellant did not result in any funds or property of GH or GBC ending up in the appellant's hands. He sold his shares of 606103 to Lafarge and was paid by Lafarge out of its own funds. Lafarge was no accommodation company of the type used in Smythe or RMM where the payment was made essentially by using the funds of the very company whose surplus was being stripped. Lafarge wanted the assets and it paid for them, packaged in 606103.
+
+[22] I am aware that there have been some developments in the rules of construction relating to taxing statutes and I tried to summarize my understanding of them in Glaxo Wellcome Inc. v. The Queen, 96 DTC 1159 aff'd 98 DTC 6638 (F.C.A.). Leave to appeal to S.C.C. was denied.
+
+[23] Nonetheless, no matter how liberal, broad or purposive an approach one takes to the construction of subsection 84(2) I do not see how the transactions in this case individually or cumulatively come even close to being caught by that provision.
+
+[24] The secondary position of the respondent is section 245 of the Income Tax Act, the general anti-avoidance rule, or GAAR.
+
+[25] GAAR is a measure of last resort invoked to counteract tax avoidance transactions that are otherwise successful. If a tax avoidance scheme does not work independently of GAAR there is no need to invoke GAAR.
+
+[26] I begin the analysis of this aspect of the case by setting out the position of the Crown as expressed in the letter dated April 24, 1998 from the assessor, Mr. Kelln, to the appellant.
+
+B. Secondary Reassessment Position
+
+Pursuant to Paragraph 245(2)(c) of the Income Tax Act, the proceeds received by Dennis in 1994 on the disposition of the 40 Class A Common Shares of GH LTD. will be recharacterized as a dividend rather than a capital gain. The Tax Benefit, Avoidance Transaction(s), Misuse Or Abuse, and Tax Consequences have been outlined below for your convenience.
+
+Tax Benefit
+
+The tax benefit is the indirect extraction of $500,000 by Dennis from GBC LTD. without any tax consequences.
+
+Avoidance Transaction(s)
+
+Lafarge wanted to buy assets of GBC LTD. Rather than a straight forward sale, a number of transactions were interposed for the tax advantage of Harvey and Dennis Geransky. In the Department's view, those interposed transactions are avoidance transactions. They include:
+
+1. The incorporation of 606103;
+
+2. The rollover of common shares from GH LTD. to 606103 by Harvey and Dennis;
+
+3. The transfer of assets (concrete) from GBC LTD. to GH LTD. by way of dividend;
+
+4. The transfer of assets (concrete) to 606103 on the redemption of shares;
+
+5. The sale of the shares of 606103 by Harvey and Dennis.
+
+As a result of these transactions, GBC LTD. has disposed of certain of its assets (concrete) to Lafarge and Harvey and Dennis have received the proceeds without having to pay any tax on the receipt of these funds.
+
+Misuse or abuse
+
+Provisions such as Sections 84, 84.1, and 212.1 indicate the circumstances in which amounts received by a shareholder of a corporation from a corporation on a disposition of shares or other property are to be accounted for as a dividend. This is referred to in Paragraph 25 of Information Circular 88-2 which also refers to former Subsection 247(1) of the Act which the General Anti-Avoidance Rule ("GAAR") was meant to replace.
+
+The taxpayers also arranged their transactions to ensure that their arm's-length sale of the shares of 606103 would not result in a capital gain in order to avoid the consequences of Subsection 110.6(7) and/or paragraph 110.6(14)(f) (the 24 month holding period). While a taxpayer is permitted to crystallize a capital gain, no non-share consideration should be received that exceeds the less of Paid Up Capital ("PUC") or Adjusted Cost Base ("ACB").
+
+The taxpayers have undertaken their transactions in a manner that allows them to crystallize their capital gains and also receive non-share consideration in excess of the less of ACB or PUC without having disposed of their direct and indirect interest in GH LTD., or GBC LTD. It is our view that this result is abusive based on the provisions of the Act read as a whole.
+
+Tax Consequences
+
+Pursuant to Paragraph 245(2)(c) of the Income Tax Act, the proceeds received by Dennis in 1994 of the disposition of the 40 Class A Common Shares of GH LTD., will be recharacterized as a dividend rather than a capital gain.
+
+[27] I start from the premise that the court should confine its consideration of section 245 to the facts of this case. As I said in RMM the jurisprudence under section 245 should develop on a case by case basis. Wide-ranging commentaries on matters not before the court only muddy the waters.
+
+[28] What we have here is a purely commercial transaction conceived by business persons without any particular tax motivation and carried out with the assistance of tax professionals in a manner that is designed to achieve that result with the least unfavourable tax consequences.
+
+[29] This, according to the respondent, is an avoidance transaction.
+
+[30] Avoidance transaction is defined in subsection 245(3):
+
+An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+[31] Tax benefit is defined in subsection 245(1):
+
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act.
+
+[32] On the basis that the appellant had obtained a tax benefit in the carrying out of an avoidance transaction the Minister applied subsection 245(2) which reads:
+
+Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+[33] He therefore treated the capital gain as a dividend. I note that he took the first transaction — the sale of the shares of GH to 606103 — and recharacterized it. He seemed content to take all of the other subsequent transactions at their face value and use them to justify his treatment of the first transaction as an avoidance transaction without a consequential recharacterization of the tax consequences of the other transactions.
+
+[34] The operation of subsection 245(2) is excluded by subsection 245(4):
+
+For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as whole.
+
+[35] The statement by the assessor that
+
+The tax benefit is the indirect extraction of $500,000 by Dennis from GBC LTD. without any tax consequences.
+
+is wrong on several counts.
+
+(a) He did not extract $500,000 from GBC at all. He sold shares of 606103 to Lafarge for $477,450.
+
+(b) To say that there were no tax consequences from the various transactions is fanciful:
+
+(i) the capital gain on the sale of the shares of GH to 606103 was only partially sheltered by the appellant's capital gains deduction;
+
+(ii) the payment of the dividend in kind by GBC to GH had significant tax consequences in the form of recapture of CCA;
+
+(iii) the repurchase of its shares by GH from 606103 gave rise to a capital gain under section 55;
+
+(iv) the additional salary paid to the appellant by GBC may have been attributable to an attempt to reduce GBC's additional income but it would have been taxable in the appellant's hands at the highest individual rates.
+
+[36] The Crown in my view has gotten the cart before the horse. It conceives the primary commercial objective of disposing of the cement manufacturing assets to Lafarge as subordinate to the means of achieving that end in a manner that is tax effective.
+
+[37] I do not think these transactions are avoidance transactions because I think that they may reasonably (indeed, unquestionably) be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+[38] As was said in Jabs Construction Limited v. The Queen, 99 DTC 729:
+
+[48] ... Section 245 is an extreme sanction. It should not be used routinely every time the Minister gets upset just because a taxpayer structures a transaction in a tax effective way, or does not structure it in a matter that maximizes the tax.
+
+[39] In Canadian Pacific Limited v. The Queen, 2000 DTC 2428, Bonner J. said:
+
+[15] ... The transactions which the Respondent says constitute the series were, when viewed objectively, inextricably linked as elements of a process primarily intended to produce the borrowed capital which the Appellant required for business purposes. The capital was produced and it was so used. No transaction forming part of the series can be viewed as having been arranged for a purpose which differs from the overall purpose of the series. The evidence simply does not support the Respondent's position. Accordingly none of the transactions on which the Respondent relies was an avoidance transaction within the meaning of s. 245(3).
+
+[40] There is a further reason why section 245 does not apply, quite apart from the fact that the transactions are not avoidance transactions because their primary purpose is the achievement of a bona fide non-tax objective. Subsection 245(4) excludes from the operation of subsection 245(2) transactions that do not result "directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole." What is a misuse or an abuse is in some measure in the eye of the beholder. The Minister seems to be of the view that any use of a provision is a misuse or an abuse if the provision is not used in a manner that maximizes the tax resulting from the transaction. Here I suppose the least tax effective way of going about the transaction would have been for GBC to sell the assets directly to Lafarge, pay a dividend to GH which could then pay a dividend to the Geransky brothers. I see no reason whatever why a taxpayer is obliged to follow that route.
+
+[41] What provision is being misused? What abuse is committed? Let us look at the sections that are involved here.
+
+(a) Section 110.6 provides for the capital gains deduction. Where a capital gain is realized it is neither a misuse nor an abuse to claim the deduction. As Mr. Beaubier pointed out section 110.6 contains its own anti-avoidance mechanism.
+
+(b) Section 55 is itself an anti-avoidance section. As it happens, it applied to the repurchase by GH of its shares. By paying the tax on this deemed capital gain under that section it is impossible to see how it is being abused.[1]
+
+(c) Section 13 resulted in recapture of CCA. This is hardly an abuse or a misuse.
+
+[42] Simply put, using the specific provisions of the Income Tax Act in the course of a commercial transaction, and applying them in accordance with their terms is not a misuse or an abuse. The Income Tax Act is a statute that is remarkable for its specificity and replete with anti-avoidance provisions designed to counteract specific perceived abuses. Where a taxpayer applies those provisions and manages to avoid the pitfalls the Minister cannot say "Because you have avoided the shoals and traps of the Act and have not carried out your commercial transaction in a manner that maximizes your tax, I will use GAAR to fill in any gaps not covered by the multitude of specific anti-avoidance provisions".
+
+[43] That is not what GAAR is all about.
+
+[44] The appeals are allowed with costs and the assessments for 1994 and 1995 are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that neither subsection 84(2) nor section 245 of the Income Tax Act applies to the transactions in issue.
+
+Signed at Ottawa, Canada, this 19th day of February 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 98-2383(IT)G
+
+STYLE OF CAUSE: Between Dennis Geransky and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Saskatoon, Saskatchewan
+
+DATE OF HEARING: February 5 and 6, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: February 19, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Beaty Beaubier, Esq.
+
+Counsel for the Respondent: Robert Gosman, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Beaty Beaubier, Esq.
+
+Firm: Priel, Stevenson, Hood & Thornton
+
+Saskatoon, Saskatchewan
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+98-2383(IT)G
+
+BETWEEN:
+
+DENNIS GERANSKY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on February 5 and 6, 2001, at Saskatoon, Saskatchewan, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Beaty Beaubier, Esq.
+
+Counsel for the Respondent: Robert Gosman, Esq.
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1994 and 1995 taxation years be allowed and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that neither subsection 84(2) nor section 245 of the Act applies to the transactions in issue.
+
+Signed at Ottawa, Canada, this 19th day of February 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+[1] Both in the evidence of Mr. Sherlosky and in counsel's argument there was extensive reference to the demise of purchase butterflies under section 55 of the Income Tax Act and the fact that paragraph 110.6(7)(a) would deny the capital gains deduction if the capital gain is realized as the result of the prevention by paragraph 55(3)(b) of the application of subsection 55(2). It is not necessary to analyze this argument in detail beyond noting that it puts into relief the question of the effect of specific anti-avoidance rules on the interpretation of a general anti-avoidance rule.
+

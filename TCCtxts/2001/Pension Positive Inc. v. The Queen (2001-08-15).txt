@@ -1,0 +1,160 @@
+Date: 20010815
+
+Docket: 2000-3555-GST-I
+
+BETWEEN:
+
+PENSION POSITIVE INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal under the informal procedure from an assessment for the period from April 1, 1997, to March 31, 1998. The appeal concerns the calculation of the input tax credit under subsections 169(1) and 141.01(5) of the Excise Tax Act ("the Act").
+
+[2] The facts on which the Minister of National Revenue ("the Minister") based his reassessment are set out in paragraph 7 of the Reply to the Notice of Appeal ("the Reply") as follows :
+
+[TRANSLATION]
+
+(a) the facts set out above and admitted;
+
+(b) during the period under appeal, the appellant operated a business that sold financial products;
+
+(c) during the period under appeal, the appellant offered the following taxable supplies: accounting services, immigration consulting and pension management consulting;
+
+(d) during the period under appeal, the appellant offered the following zero-rated supplies: investment, life insurance and mutual fund specialist services;
+
+(e) taxable supplies generated 6.7 percent of the appellant's gross income during the period under appeal, while zero-rated supplies generated 93.3 percent;
+
+(f) the appellant claimed 100 percent of the ITCs of $29,377.63 relating to the making of the taxable and zero-rated supplies;
+
+(g) the appellant is entitled to $1,968.30 in ITCs, that is, 6.7 percent of the ITCs, namely those relating to the making of the taxable supplies.
+
+[3] The reasons for the appeal are set out as follows in the Notice of Appeal:
+
+[TRANSLATION]
+
+Pension Positive Inc. is a corporation that provides such professional services as retirement planning, financial consulting and insurance for various types of clients.
+
+Financial services that are exempt from the GST under the Act (Part VII of Schedule V) generate 93 percent of our income. That portion of our income is collected from insurance companies. It is commission income on which no GST is charged (because of the exemption).
+
+For the period from 01/04/97 to 31/03/98, Pension Positive Inc. claimed a refund (ITC) of $26,667.42 that was denied by the Department of Revenue.
+
+We consider this discriminatory, since we deal with exempt financial institutions. For example, a broker in another field (such as real estate) can claim the ITC on the GST for the same types of expenses that we incur, and yet that broker's income is commission income just like ours.
+
+[4] Testimony was given by Marc Jémus, the appellant's vice-president. He admitted subparagraphs 7(a) to (f) of the Reply. He also added the following information: the taxable supplies referred to in subparagraph (c) amounted to $38,717.29, while the zero-rated supplies referred to in subparagraph (d) amounted to $546,000. Moreover, with regard to subparagraph (d), he said that the term "mutual fund specialist" should be changed to "segregated fund specialist".
+
+[5] Marc Jémus explained that the appellant is owned by two corporations, 3245501 Canada Inc. and 3364151 Canada Inc. The first of those corporations belongs to Marc Jémus' father, and it holds 67 percent of the appellant's shares. The second, which holds 33 percent of the appellant's shares, is owned by Marc Jémus.
+
+[6] The appellant's financial statements were filed as Exhibit I-1. There, under [translation] "Operating Expenses", an amount of $461,595 is shown for the item [translation] "Subcontractors, Commissions and Management Fees". Marc Jémus said that 90 percent of that amount was made up of the management fees paid to the two corporations. The appellant, he stated, does not pay either him or his father a salary. He added that in fact the management fees paid to the two corporations accounted for most of the appellant's $518,750 in operating expenses. Accordingly, the goods and services tax was paid mainly on those fees.
+
+[7] The appellant did not propose a method for determining the extent to which it acquired properties or services for the purpose of making taxable supplies (in proportion to the properties and services it acquired to make all its taxable and zero-rated supplies). It claimed 100 percent of the taxes relating to the total supplies made by its business.
+
+[8] In so claiming, the appellant relied on the Declaration of Taxpayer Rights published by Revenue Canada, and especially on the part that reads as follows:
+
+YOU HAVE THE RIGHT TO EVERY BENEFIT THE LAW ALLOWS
+
+You are entitled to arrange your affairs to pay the least amount of tax the law allows. We are committed to applying the tax laws in a consistent and fair manner. . . .
+
+[9] The appellant's agent argued that it is not fair to treat businesses that make zero-rated supplies differently from those that make taxable supplies, since tax is payable on the inputs for both types of supplies. Thus, the input tax credit should apply to all inputs acquired for the business's purposes.
+
+[10] Counsel for the respondent referred: (1) to the definition of "commercial activity", which excludes "exempt supplies", in subsection 123(1) of the Act; (2) to the calculation in subsection 169(1) of the Act of the tax credit for inputs used for commercial activities, and (3) to the requirement under subsection 141.01(5) of the Act that fair and reasonable methods be used to determine the extent to which properties and services have been acquired for the purpose of making taxable supplies.
+
+123(1)
+
+"commercial activity" of a person means
+
+(a) a business carried on by the person . . . except to the extent to which the business involves the making of exempt supplies by the person,
+
+(b) . . .
+
+169(1)
+
+Subject to the Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+
+A x B
+
+where
+
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+
+B is
+
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+
+141.01(5)
+
+The methods used by a person in a fiscal year to determine
+
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+
+[11] Counsel for the respondent argued that an exempt supply does not constitute a commercial activity. The calculation of the input tax credit takes into account the person's use of the acquired property or service in the course of the person's commercial activities in relation to the use made of the property or service by the person in the whole of the person's undertakings. It is that proportion which must be used to determine the input tax credit to which a person is entitled, and that proportion must be determined using fair and reasonable methods.
+
+[12] Counsel for the respondent pointed out that the appellant chose not to propose any allocation method, arguing instead that it is entitled to the full input tax credit because not granting it the full credit is unfair. Counsel argued that the same provisions apply to everyone and that the Act must be applied as enacted by Parliament. The Minister proposed a method, namely the income-based method. It is a logical method and, in the absence of any other reasonable suggestion, it is the one that must be accepted.
+
+Conclusion
+
+[13] In my view, the appellant's argument that the Act is unfair because it does not treat makers of taxable supplies and makers of zero-rated supplies the same way cannot be accepted. Everyone who makes a zero-rated supply is treated the same. Those who make such supplies know that they are not entitled to any input tax credit for the portion of properties and services used to make those supplies. They must take account of that fact in determining the cost of the zero-rated supplies they make. It was up to the appellant to propose a fair and reasonable method within the meaning of subsection 141.01(5) of the Act, which it did not do. In these circumstances, the allocation method proposed by the Minister, namely the income method, is one that seems logical, and it must be accepted absent any other suggestion as to a fair and reasonable method.
+
+[14] Accordingly, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 15th day of August 2001.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+2000-3555(GST)I
+
+BETWEEN:
+
+PENSION POSITIVE INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on July 27, 2001, at Ottawa, Canada, by
+
+the Honourable Judge Louise Lamarre Proulx
+
+Appearances
+
+Agent for the Appellant: Marc Jémus
+
+Counsel for the Respondent: Gatien Fournier
+
+JUDGMENT
+
+The appeal from the goods and services tax assessment made under the Excise Tax Act, the notice of which is dated January 18, 1999, and which bears number 00000001344, is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 15th day of August 2001.
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+

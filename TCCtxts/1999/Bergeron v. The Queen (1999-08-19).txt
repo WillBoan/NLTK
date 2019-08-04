@@ -1,0 +1,304 @@
+Date: 19990817
+
+Docket: 98-547-IT-I
+
+BETWEEN:
+
+PIERRE BERGERON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Archambault, J.T.C.C.
+
+[1] Pierre Bergeron is appealing from an income tax assessment made under the Income Tax Act (Act) for the 1996 taxation year. The Minister of National Revenue (Minister) disallowed the deduction of $9,182 in legal expenses that Mr. Bergeron incurred to contest a motion to increase support payments brought by his former spouse for the benefit of their child, Mélanie. There is no dispute between the parties as to the relevant facts. Moreover, aside from the admissions made by Mr. Bergeron, no evidence was adduced at the hearing.
+
+[2] What is at issue is rather a question of law. The Minister argued that the expenses were not incurred for the purpose of gaining or producing income from a business or property as required by paragraph 18(1)(a) of the Act. Mr. Bergeron argued that it is totally unfair for the Minister to disallow the deduction of his legal expenses, since they were incurred to prevent an increase in the support he had to pay, an increase which would have decreased his income accordingly under section 60 of the Act. Since he was partly successful, his income is higher than if he had not contested his former spouse’s motion.
+
+Analysis
+
+[3] To determine the extent to which a taxpayer may deduct legal expenses under the Act, it is important to first determine the purpose for which those expenses were paid. Here, legal services were provided with respect to the contesting of a motion to increase child support payments. What is involved is therefore a basically personal obligation of Mr. Bergeron’s. Next, it must be determined whether there is any statutory provision permitting the deduction of such legal expenses. Before answering that question, the structure of the Act must be analyzed.
+
+Legislative framework
+
+[4] Part I of the Act, which deals with income tax, has 11 divisions, the first two of which are Division A, which deals with liability for tax, and Division B, which concerns the computation of income. The basic rules for computing income are found at the beginning of Division B, including in particular those set out in section 3 and paragraph 4(1)(a), which provide as follows:
+
+3. Income for taxation year — The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+
+(b) determine the amount, if any, by which
+
+(i) the total of
+
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+
+exceeds
+
+(ii) the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by subdivision e in computing the taxpayer’s income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a)), and
+
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer’s loss for the year from an office, employment, business or property or the taxpayer’s allowable business investment loss for the year,
+
+and for the purposes of this Part,
+
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer’s income for the year is the amount so determined, and
+
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+
+4. (1) Income or loss from a source or from sources in a place — For the purposes of this Act,
+
+(a) a taxpayer’s income or loss for a taxation year from an office, employment, business, property or other source, or from sources in a particular place, is the taxpayer’s income or loss, as the case may be, computed in accordance with this Act on the assumption that the taxpayer had during the taxation year no income or loss except from that source or no income or loss except from those sources, as the case may be, and was allowed no deductions in computing the taxpayer’s income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to that source or to those sources, as the case may be, and except such part of any other deductions as may reasonably be regarded as applicable thereto . . . .
+
+[Emphasis added.]
+
+[5] Division B is then broken up into 11 subdivisions, the first five of which are as follows:
+
+subdivision a: “Income or loss from an office or employment” (subdivision a)
+
+subdivision b: “Income or loss from a business or property” (subdivision b)
+
+subdivision c: “Taxable Capital Gains and Allowable Capital Losses” (subdivision c)
+
+subdivision d: “Other Sources of Income” (subdivision d)
+
+subdivision e: “Deductions in Computing Income” (subdivision e)
+
+[6] Recently, in Fortino v. R., [1997] 2 C.T.C. 2184, at paragraphs 39-40, my colleague Judge Lamarre made the following comments on this structuring of the Act and the significance of taxation based on source of income:
+
+39 In contrast, segregation of income by source is the essence of the structure of the Canadian income tax system. Section 3 of the Act states the basic rules to be applied in determining a taxpayer’s income for a given year and identifies, in paragraph (a), the five principal sources from which income can be generated: office, employment, business, property and capital gains. Other sources of income are also identified in subdivision d of Division B of Part I, entitled “Other Sources of Income”. These “other sources” relate to certain types of income which cannot conveniently be identified as originating from the five sources enumerated in paragraph 3(a) of the Act.
+
+40 The fundamental concept of the Act is that income from each source must be separately calculated according to the rules applicable to that particular source. The source concept would have been borrowed from the United Kingdom’s tax system under which income is taxable if it falls into one of the Schedules of the Income and Corporation Taxes Act, 1970 (Eng.), c.10. However, while under the English schedular system, a receipt is not taxable as income unless it comes within one of the named schedules, which are mutually exclusive, the named sources in section 3 of the Act are not exhaustive and literally income could arise from any other unnamed source. Indeed, paragraph 3(a) of the Act contains an “omnibus clause” couched in the following terms: “without restricting the generality of the foregoing, ...”.
+
+[Emphasis added.]
+
+[7] The Act contains a number of provisions that permit the deduction of legal expenses in computing income. One of them is paragraph 8(1)(b), which provides for the deduction of legal expenses incurred by an employee to collect or establish a right to salary owed to that employee. Paragraph 60(o.1) of the Act provides for the deduction of legal expenses incurred to collect or establish a right to a retiring allowance or a benefit under a pension fund. There is also paragraph 60(o), which applies to expenses incurred in preparing, instituting or prosecuting an appeal from an income tax assessment. Paragraph 62(3)(f) of the Act defines moving expenses — which may be deductible under section 62 — as including the cost of legal services in respect of the purchase of a new residence. As can be seen, all of these deductions are in subdivision e, except the first, which is in subdivision a.
+
+[8] However, there is no similar provision authorizing the deduction of legal expenses incurred to contest a motion to increase support payments. Thus, the simple and short answer to the arguments of Mr. Bergeron, who is seeking to deduct such expenses, is that there is no provision in the Act that allows him to deduct them in computing his income.
+
+[9] However, I do not consider that to be a sufficient answer in the circumstances. First of all, it does not adequately explain to Mr. Bergeron why his appeal must be dismissed. It must be noted that there is also no specific provision permitting the deduction of legal expenses incurred to collect support, yet the Minister has acknowledged that such expenses are deductible in Interpretation Bulletin IT-99R5. As well, a more thorough analysis is necessary because I do not believe the reason given by the Minister to justify his refusal to allow Mr. Bergeron to deduct his legal expenses is well founded in law.
+
+[10] In my opinion, the provisions of section 18 have nothing to do with the deduction of legal expenses incurred to obtain or contest the payment of support: that section is relevant only in computing income from a business or property and not in computing support income, which is income from another source.
+
+(ii) Minister’s position and supporting case law
+
+[11] Before setting out my thinking on these points, it would be helpful to look again at the position the Minister has taken in this case and to analyze the decisions on which it is based. His position is that sections 9 et seq. of subdivision b are where the rules on the deductibility or non-deductibility of legal expenses incurred to obtain or contest the payment of support are to be found.
+
+[12] To begin with, the position adopted here by the Minister corresponds to that set out by him in Bulletin IT-99R5 of December 11, 1998, which deals with legal and accounting fees. In paragraph 21 of that Bulletin, he explains as follows why the payer cannot deduct anything:
+
+21. From the payer’s standpoint, legal costs incurred in negotiating or contesting an application for support payments are not deductible since these costs are personal or living expenses. Similarly, legal costs incurred for the purpose of terminating or reducing the amount of support payments are not deductible since success in such an action does not produce income from a business or property. Legal expenses relating to obtaining custody of or visitation rights to children are also non-deductible.
+
+[Emphasis added.]
+
+[13] This position taken by the Minister is consistent with that adopted by this Court inter alia in Bayer v. M.N.R., [1991] 2 C.T.C. 2304, a decision rendered by Judge Lamarre Proulx. In that case, the taxpayer, who was seeking to deduct his legal expenses under paragraph 18(1)(a) of the Act, advanced the following reasoning:
+
+5 The appellant puts forward that his income calculated in accordance with the provisions of Division B of the Act is increased by the fact that the deduction to which he had the right pursuant to paragraph 60(b) of the Act is reduced and that therefore the legal expenses incurred should be allowed pursuant to paragraph 18(1)(a) of the Act.
+
+Judge Lamarre Proulx stated the following in rejecting that reasoning:
+
+16 The moneys expended by the appellant for the legal fees incurred had as an effect to increase the taxpayer’s income as calculated under Division B of the Act but this increase did not come from an income producing property but from a reduction of an obligation that he had which was not an income producing property. In these circumstances, the expenses in question were not within the meaning of those contemplated by paragraph 18(1)(a) of the Act. It is not moneys expended for any property that may be deducted by virtue of paragraph 18(1)(a) of the Act, it is moneys expended for a property that, in itself, produces income.
+
+[14] In paragraph 18 of Bulletin IT-99R5, the Minister confirms that legal costs incurred to enforce pre-existing rights to support amounts or to defend against an application for the reduction of support payments are deductible. The Minister does not explicitly state which provision of the Act he is relying on in allowing such a deduction. However, he does refer to the decision rendered by Cattanach J. in R. v. Burgess, [1981] CTC 258, and that of the Federal Court of Appeal in Attorney General of Canada v. Sembinelli, [1994] 2 C.T.C. 378. In Burgess, the Minister relied on paragraph 18(1)(a) of the Act in disallowing the taxpayer’s deduction. Although the judge allowed the Minister’s appeal on the basis of paragraph 18(1)(b) of the Act, he seems to have recognized the validity of the argument based on paragraph 18(1)(a) of the Act. He stated the following:
+
+16 The question is, as I view it, whether the legal expenses paid by the defendant were expended by her for the purpose of obtaining income which was hers as of right. Put yet another way, were the legal fees expended by her for the purpose of collecting income to which she was entitled. If this be so then the expense [sic] are properly deductible.
+
+17 There is no doubt that the defendant was entitled to the payments but the question is by virtue of that [sic] circumstance did that entitlement arise. That entitlement is the right under which the defendant receives the payment and that right is “property” within the broad definition in section 248 previously quoted.
+
+[15] In Bayer, supra, Judge Lamarre Proulx also provided the following explanation of the Minister’s position:
+
+9 Respecting the statement made in the respondent’s brochure that legal fees may be deducted when they are expended to obtain a court order for maintenance payments, it would seem to come from the decision of the Tax Appeal Board in Jean Boos v. M.N.R. (1961), 27 Tax A.B.C. 283; 61 D.T.C, 520 where Mr. Chairman Snyder found that the legal expenses incurred for the purpose of obtaining such a court order were deductible. Mr. Chairman Snyder does not quote his authorities but says at page 286 (D.T.C. 521-22):
+
+There are a number of recent decisions by the Exchequer Court and by this Board to the effect that under certain circumstances legal fees expended by a taxpayer appellant may be deducted as permitted by the last-quoted section of the Income Tax Act.
+
+He also says: “In the present appeal, counsel for the Minister did not contest the appellant’s claim to have these legal fees deducted.”
+
+10 Though Mr. Chairman Snyder has not referred to the Supreme Court of Canada, I believe that the decision reached by that court in Gladys (Geraldine) Evans v. M.N.R., [1960] S.C.R. 391, [1960] C.T.C. 69, 60 D.T.C. 1047 would have been the leading case at that time in this matter. This decision determined that a taxpayer had the right to deduct the legal fees incurred to obtain a judgment requiring the trustee to pay her the income arising from a share of an estate. I quote from this case at page 76 (D.T.C. 1050):
+
+...the legal expenses paid by the appellant were expended by her for the purpose of obtaining payment of income; they were expenses of collecting income to which she was entitled but the payment of which she could not otherwise obtain. So viewed, it could scarcely be doubted that the expenses were properly deductible in computing the appellant’s taxable income. This, in my opinion, is the right view of the matter and is not altered by the circumstances that it was mistakenly claimed by Mrs. Andersen that the appellant was not entitled to any income at all.
+
+[16] In paragraph 17 of Bulletin IT-99R5, the Minister states that legal costs incurred in establishing the right to support amounts are not deductible since they are on account of capital or are personal and living expenses. He adds: [s]imilarly, legal costs of seeking to obtain an increase in such amounts are also non-deductible. This position is obviously based on the decision in Burgess, supra.
+
+[17] However, in a number of recent decisions, this Court has taken a position more generous than the one set out in paragraph 17 of Interpretation Bulletin IT-99R5. In St-Laurent v. R., 1998 CarswellNat 2366, my colleague Judge Lamarre concluded that expenses incurred to obtain an order increasing alimony were deductible because they did not constitute costs on account of capital. She wrote the following at paragraph 10 of her reasons: In my view, no asset was created or defended by the judgment obtained as a consequence of the motion to vary corollary relief.
+
+[18] Two other recent decisions by this Court confirm that an order establishing entitlement to support does not create a new right but rather recognizes a pre-existing right and that the legal expenses incurred to obtain a support order are therefore not a capital expenditure: see in particular Donald v. R., 1998 CarswellNat 1932, at paragraph 7 (decision by Judge Bonner), and Nissim v. R., 1998 CarswellNat 1488, at paragraph 32 (decision by Judge Bowman). Moreover, according to Judge Bonner in Donald, the decision in Burgess, supra, should be considered ill-founded.
+
+(iii) Need to reconsider the soundness of the Minister’s position and the case law on which it is based
+
+[19] On the basis of these decisions, the legal expenses incurred by Mr. Bergeron’s former spouse in order to obtain an increase in her support payments would be deductible while those incurred by Mr. Bergeron to contest such a motion would not. I consider it totally unfair that both spouses are not treated the same for tax purposes.[1] It is already very onerous to have to incur legal expenses to obtain or contest support payments; if it is also the case that one party can deduct them while the other cannot, this may in some circumstances unfairly upset the balance of power between the parties. It must therefore be asked whether the Minister’s position and that adopted in certain court decisions are sound.
+
+[20] I noted above that Mr. Bergeron could not deduct his legal expenses because there was no specific provision authorizing such a deduction. However, this does not necessarily mean that a taxpayer can never deduct such expenses. For example, a taxpayer who operates a business or owns property from which he or she earns income is entitled to deduct all the expenses incurred for the purpose of gaining or producing income from that business or property, including legal expenses.
+
+[21] The basis for that rule is that income from a business or property is computed as net income under subsection 9(1) of the Act.[2] Thus, a business person who incurs legal expenses to obtain a reduction in the rent paid for the space occupied by his or her business can, as a rule, deduct those expenses in computing business income. The expenses are considered current business expenses to which the prohibition in paragraph 18(1)(a) of the Act does not apply.
+
+[22] Here, the Minister argued that the exception set out in paragraph 18(1)(a) of the Act precludes the deduction of Mr. Bergeron’s legal expenses since they were not incurred for the purpose of gaining or producing income from a business or property. He added that the expenses are personal or living expenses within the meaning of paragraph 18(1)(h) of the Act.
+
+[23] I find it quite surprising that the Minister allows the deduction of legal expenses incurred by a person seeking to collect support but disallows such expenses for a person contesting a motion for support on the ground that they are personal or living expenses. A spouse who exercises the right to collect support does so to obtain what he or she needs to live on. The essence of support is that it provides for the person receiving it or a dependent child of that person. The fact that support is deemed to be income under paragraph 56(1)(b) of the Act does not alter that reality. I therefore see no distinction between the two cases.
+
+[24] If subdivision b applies in these circumstances and it is concluded that the prohibition set out in paragraph 18(1)(a) of the Act is not applicable, paragraph 18(1)(h) of the Act should then apply and prevent the deduction of legal expenses incurred to collect the money needed to live on. To escape non-deductibility under paragraph 18(1)(h) of the Act, a specific provision, such as those found in subsection 20(1) of the Act, would be required.
+
+[25] Coming back to the question of whether subdivision b is applicable here, it is true that support constitutes income by virtue of paragraph 56(1)(b) of the Act and that the right to support is property within the meaning of subsection 248(1) of the Act. Based on those two propositions, some conclude that support is income from property and that legal expenses incurred to collect support are deductible under paragraph 18(1)(a) of the Act. I am thinking in particular of the decisions in Boos, Burgess, Bayer and Sembinelli, all of which have been cited above.
+
+[26] With respect for the opposite view, I believe that it is necessary to reconsider the correctness of those decisions and to determine whether it is fair under the law to apply sections 9 et seq. of subdivision b in deciding on the deductibility of legal expenses incurred to obtain or contest the payment of support. I will now review the decisions supporting the Minister’s position in order to determine the circumstances in which they were rendered.
+
+[27] In Boos, which, as far as I know, is the earliest decision on this matter, Chairman Snyder wrote the following:
+
+9 . . . Section 12(1) of the Income Tax Act provides as follows:
+
+In computing income, no deduction shall be made in respect of
+
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from property or a business of the taxpayer.
+
+10 The point was readily disposed of as to whether the legal expenses might be deducted from the income received. There are a number of recent decisions by the Exchequer Court and by this Board to the effect that under certain circumstances legal fees expended by a taxpayer appellant may be deducted as permitted by the last-quoted section of the Income Tax Act. In the present appeal counsel for the Minister did not contest the appellant’s claim to have these legal fees deducted.
+
+[Emphasis added.]
+
+[28] Three comments must be made concerning that analysis. First, as stated by the Supreme Court of Canada in Symes, supra, expenses are deductible not under paragraph 18(1)(a) of the Act [paragraph 12(1)(a) of the 1952 Act] but under subsection 9(1). Moreover, no authority was cited to support the assertion that a number of previous decisions had resolved the issue of the deductibility of legal expenses incurred to obtain support. I have been unable to find previous decisions by the Exchequer Court or the Board on this issue. Finally, it should be noted that Chairman Snyder was not called upon to rule on the correctness of such an interpretation because counsel for the Minister had not contested it.
+
+[29] In Burgess, the taxpayer and the Minister both relied on paragraph 18(1)(a) of the Act, the former to seek and the latter to disallow the deduction of legal expenses. As a result, there was no debate as to whether it was appropriate to rely on the provisions of subdivision b to allow the deduction of expenses incurred to collect income that was taxable under subdivision d. Moreover, it must be remembered that Cattanach J. disallowed the deduction, concluding that what was involved was a capital expenditure.
+
+[30] In Bayer, my colleague Judge Lamarre Proulx relied mainly on the decisions in Boos, supra, and Evans, supra. I have already commented on the first. As to the second, I do not think that the reasoning adopted therein by the Supreme Court of Canada can be applied here, since that case related to the computation of income from property, specifically income from a trust, which is included in the computation of income from property under paragraph 12(1)(m) of the Act. In the case at bar, support income is included not under subsection 12(1) in subdivision b but under paragraph 56(1)(b) in subdivision d. The Supreme Court of Canada therefore did not have to rule on the issue I am raising here.
+
+[31] The application of the provisions of subdivision b was not contested and was therefore not debated either before the Federal Court of Appeal in Sembinelli or before my colleagues in St-Laurent, Donald and Nissim. The question is accordingly still open.
+
+(iv) Reasons not to apply subdivision b
+
+[32] In my opinion, there are a number of reasons not to apply sections 9 et seq. of subdivision b to determine the deductibility of legal expenses incurred to obtain or contest the payment of support. First of all, I do not think that support is income from property. Moreover, the right to support is not property from which income is gained or produced within the meaning of the provisions of subdivision b. Finally, the provisions applicable for the purpose of computing such income are not those in subdivision b but rather those in subdivisions d and e.
+
+[33] I will now go over each of these points. Even if it is correct to conclude that the right to support is property within the meaning of subsection 248(1) of the Act (that subsection defines “property” very broadly), this does not necessarily mean that the amount received as support is income from property within the meaning of section 9 of the Act.
+
+[34] To interpret the scope of the term income from property, it is helpful to recall the basic rule of statutory interpretation found in Driedger, Construction of Statutes (2nd edition, 1983), at page 87:
+
+. . . the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+[35] In R.B. Curran v. M.N.R., [1959] S.C.R. 50, [1959] C.T.C. 416, at page 421, the Supreme Court of Canada suggested the following approach to determining what constitutes income:
+
+The word must receive its ordinary meaning bearing in mind the distinction between capital and income and the ordinary concepts and usages of mankind.
+
+[36] In section 9.2 of Principles of Canadian Income Tax Law by Hogg and Magee, the authors comment as follows on the concept of income:
+
+However, there is a theory that has been influential in the drafting and interpreting of the Act. The theory is that income is a yield from a productive source. That “source” theory takes as its metaphor the fruit and the tree. The tree is “capital” while the fruit is “income”. Increases in the value of the tree, even if realized by sale, are still capital (the source of income); only the fruit is income.
+
+It has been suggested that the source theory of income arose in the United Kingdom at a time when the economy was primarily agricultural and it was natural to think of income in those terms. Another factor was probably the distinction between capital and income that the courts had developed for the law of trusts, where it was necessary to distinguish between the rights of a life tenant (or income beneficiary) and those of a remainderman (or capital beneficiary). The idea that income was the yield from a productive source, and that the source itself was capital, became part of the Anglo-Canadian way of thinking about income. Accordingly, the Income Tax Acts of the United Kingdom and Canada, while taxing income from employment, business or property, did not at first attempt to tax capital gains, gifts, inheritances or windfalls and many other miscellaneous receipts.
+
+[Emphasis added.]
+
+[37] In Fundamentals of Canadian Income Tax, Professor Krishna considers the concept of income used in the Act. Since that term is not defined, he refers to definitions in various dictionaries. He states the following at paragraph 258:
+
+We start with the first question: what is income? The characterization of a receipt as being on account of “income” is always the first step in determining the taxable base. Webster’s Dictionary defines income as:
+
+. . . a gain which proceeds from labour, business, property, or capital of any kind, as the produce of a farm, the rent of houses, proceeds of professional business, the profits of commerce, or of occupation, or the interest of money or stock in funds.
+
+The Oxford Dictionary describes income as “periodical (usually annual) receipts from one’s business, lands, work, investments, etc.”. Thus, income is seen as a recurring gain derived from labour or capital. These definitions, which are a useful starting point, provide an intuitive response that income represents an increment (“incoming”) to wealth over a period of time. This intuitive view influenced the early thinking on the nature of income. In Eisner v. Macomber, for example, the U.S. Supreme Court said that “income may be defined as the gain derived from labour, from capital, or from both combined”.
+
+[Emphasis added.]
+
+[38] A similar meaning can be found in the Petit Robert:
+
+1 Ce qui revient (à qqn, à une collectivité) comme rémunération du travail ou fruit du capital. gain, produit, profit, rapport. “ celui-là sera toujours riche qui ne dépense pas son revenu ” (Balzac). Arrondir ses revenus.
+
+[TRANSLATION]
+
+1 That which accrues (to a person or community) as earnings from work or the product of capital. gain, yield, profit, return. “He who does not spend his income is always rich” (Balzac). Supplement one’s income.
+
+[39] In my view, the meaning given by these authors and dictionary definitions is the one to be used with respect to the concept of income found, inter alia, in sections 3, 9 and 18 of the Act. Rent, interest, dividends and royalties — which are all terms appearing in subdivision b — clearly correspond to that definition of income. Each item in that list represents a payment made for the use of property, be it a movable or immovable, money loaned or invested in a corporation’s capital stock, or intellectual property such as a patent. For the person receiving them, they are a gain or return on capital.
+
+[40] The example of a royalty paid for the use of a patent is the one most similar to our case. In both instances, what is involved is intangible property. A royalty is a payment made by a person for the use of intellectual property (the patent). For the inventor, it is a return on or gain from his or her intangible property.
+
+[41] Moreover, it must be noted that income is not gained or produced from the right a landlord has to receive rent, the right a shareholder has to receive dividends, the right a lender has to receive interest or the right an inventor has to receive royalties; the property that generates the income is rather the movable or the immovable, the loan, the shares or the patent. In other words, it is not the property right or the right to the yield therefrom that is the productive source of income, but rather that which is the object of that right. A property right and the object of that right must therefore not be confused. It must also be recognized that the mere fact that someone has a right to receive periodic payments does not mean that those payments are income from property.
+
+[42] There are certain rights that are property but that do not produce income from property to which subdivision b applies. One example is an employee who is a recipient of benefits under an income maintenance insurance plan referred to in paragraph 6(1)(f) of the Act. Such a plan is one to which an employer has contributed. In such circumstances, the amounts payable on a periodic basis in respect of the loss of all or any part of the employee’s income from an office or employment must be included as income from employment and not income from property. If the employer has not contributed to such a plan, the payments are not added to the employee’s income, nor are they added thereto as income from property.[3] Yet they are amounts paid on a periodic basis by virtue of the employee’s right to receive them.
+
+[43] The right to support payments is also a right from which income is not gained or produced. In the case of support, there is no productive source of income such as work, property or a combination thereof. The object of the right is to obtain support from a spouse who owes such support because of the marital or filial obligation created, for those domiciled in Quebec, by the Civil Code of Québec. It cannot be said that the money paid by that spouse represents payment for the use of property (and it is certainly not payment for the use of the right to support, nor is it payment for work). Nor can it be said that, for the recipient of support payments, the money is a return on a productive source of income or a gain from capital. That person is exercising only an essentially personal right that cannot be transferred. The right even ceases to exist on the death of the person who has it. It is therefore not part of the spouse’s estate.
+
+[44] The expenses incurred by a taxpayer to provide child support prior to separation or divorce are generally not deductible in computing the taxpayer’s income. Had it not been for paragraphs 60(b) and (c) of the Act, the support paid after separation or divorce would not have been deductible in computing the taxpayer’s income either. In fact, because of recent amendments to those provisions of the Act, child support is no longer a deductible expense (or income for the recipient) if it is paid under an order of a tribunal or a written agreement made after April 1997.
+
+[45] In my opinion, in the absence of paragraphs 56(1)(b) and (c) of the Act, the support received by a former spouse would not constitute income, much less income from property. This is also the opinion that Cattanach J. seems to have adopted in Burgess:[4]
+
+14 Alimony and maintenance were not deemed to be income to the recipient nor a deduction to the payer until 1942 when the payer was allowed a tax credit. By the Statutes of 1944–45, c 28, the payer was allowed a straight deduction and the recipient was obliged to take the payments into income and were assessable as such although it is difficult to ascertain the concept under which the payments fit into income in the hands of the recipient or as deductions rather than personal expenditures of the payer.
+
+[46] Not only is support not income from property within the usual meaning of that term, but it also cannot be considered as such given the overall context in which the term income from property is used in the Act. The provision including support in income is in subsection 56(1) of subdivision d (“Other Sources of Income”) and not in subdivision b. If Parliament had wanted support to be treated as income from property, it would have included it in subsection 12(1) of subdivision b as it did with trust income in paragraph 12(1)(m). If it had done so, in computing net income from property (that is, the right to support) under subsection 9(1), legal expenses could have been deducted from the support, subject to certain restrictions as with paragraph 18(1)(h) of the Act.
+
+[47] In view of the structure of the Act, how can we make sense of the deductibility under subsection 9(1) of legal expenses incurred to collect support payments that are included in income not as income from property but as other income under subdivision d? It seems totally implausible to me that Parliament intended such a result.
+
+[48] This result would moreover violate the basic rule for computing income set out in subsection 4(1) of the Act, namely that a taxpayer is allowed no deductions in computing the taxpayer's income for the taxation year except such deductions as may reasonably be regarded as wholly applicable to the source of that income. Allowing legal expenses incurred to collect support to be deducted under subsection 9(1) of the Act would amount to recognizing that an amount deemed to be income under subsection 56(1) in subdivision d is also income from property within the meaning of subsection 9(1) in subdivision b, which strikes me as an absurd result. For the deduction to be allowable under subsection 9(1), support would have had to be treated as income from property under subsection 12(1) of the Act.[5]
+
+[49] Since Parliament has chosen to treat support payments as income from other sources by adding paragraph 56(1)(b) to subdivision d, it must be concluded that it does not consider support to be income from property and that the provisions of subdivision b are not applicable to that “other source of income”. [6]
+
+[50] It will also be recalled that, under paragraph 56(1)(b), only support paid under an order of a tribunal or a written agreement is considered income. Support paid under an oral agreement would not be included in a taxpayer’s income pursuant to that paragraph. If we were to adopt the interpretation that support is income from property, then the support payments would have to be included under subsection 9(1) of the Act. Yet such a result would clearly be contrary to Parliament’s intention.
+
+[51] Like the Supreme Court of Canada which, in Symes, supra, at paragraph 96, cited with approval what, in the same case, [1991] 2 C.T.C. 1, at paragraph 49, Décary J.A. of the Federal Court of Appeal had to say with respect to section 63 which deals with child care expenses, I consider the provisions on support in subdivisions d and e to be a complete code on the subject.
+
+[52] It should also be noted that this approach corresponds to the one taken by the Supreme Court of Canada in Schwartz v. R., 1996 CarswellNat 422. In particular, La Forest J. stated the following at paragraph 53:
+
+53 As indicated earlier, Parliament adopted a specific solution to a specific problem that resulted from a number of rulings by the courts respecting the taxability of payments similar to the one received by the appellant. Under these rulings, damages paid with respect to wrongful dismissal were not taxable as income from office or employment under subsection 5(1); nor were they taxable as constituting retiring allowances. The Crown had at that point many options. The Minister could have argued that such damages were taxable as income from a source under the general provision in paragraph 3(a) of the Act. It could also have sought an amendment to the Act making such payments expressly taxable as income from office or employment. But neither of these courses was taken. Instead, the Act was amended twice so that such amounts could be taxable under section 56 as income from “another” source. First, it was provided that termination payments were taxable. Then, the Act was amended to make such a payment taxable as constituting a retiring allowance. It is thus pursuant to these provisions that taxability should be assessed. To do otherwise would defeat Parliament’s intention by approving an analytical approach inconsistent with basic principles of interpretation.
+
+[Emphasis added.]
+
+[53] I am fortified in my position by another indication resulting from the analysis of the structure of the Act. I noted above that paragraph 60(o.1) authorizes the deduction of legal expenses incurred to collect or establish a right to a retiring allowance or benefits under a pension fund. That paragraph appears to have been added[7] as a result of two decisions by this Court finding that legal expenses incurred to obtain damages for dismissal could not be deducted under paragraph 8(1)(f) of the Act. The cases in question are Maruscak v MNR, [1985] 2 CTC 2048, and Macdonald v. M.N.R., [1990] 2 C.T.C. 2269. An employee who is laid off without notice is entitled to damages in lieu of the notice he or she should have been given. Such damages are not wages added to income under subdivision a but rather a retiring allowance that since 1981 has been taxable as income under subparagraph 56(1)(a)(ii) of subdivision d.
+
+[54] If we compare support with a benefit (which is an analogous type of payment) under a pension fund, it can be seen that both are amounts paid on a periodic basis that are added to income under subdivision d. If we applied the approach taken by the Minister with respect to legal expenses incurred to obtain support, legal expenses incurred to collect a retiring allowance or benefits under a pension fund would be deductible. They would be expenses incurred for the purpose of gaining or producing income (the allowance or the pension fund benefit) from property (the right to receive the allowance or the payment). Legal expenses incurred to establish the right would not be deductible because of paragraph 18(1)(b) of the Act.
+
+[55] Thus, if Parliament had wanted to authorize the deduction of legal expenses incurred to establish the right to a retiring allowance or pension benefit (those incurred to collect such allowances or benefits already being deductible), one would have expected it to amend subsection 20(1) in subdivision b. Parliament did not do so. Rather, it added paragraph 60(o.1) to subdivision e.[8]
+
+[56] In my opinion, by so doing Parliament confirmed that the complete code for computing retiring allowances and pension benefits as well as legal expenses incurred to collect or establish a right to those amounts is found in subdivisions d and e.[9] This also means that, for legal expenses incurred to collect or establish a right to income covered by subdivision d to be deductible, the deduction must be provided for in subdivision e.
+
+[57] Since there is no provision in the Act authorizing the deduction of legal expenses incurred to collect or contest the payment of support, Mr. Bergeron unfortunately cannot claim such a deduction in computing his income. For him to be entitled to such a deduction, Parliament would have to again amend the Act so as to provide for that deduction in section 60. I would add that such an amendment would also be necessary to authorize the deduction of legal expenses incurred to collect or establish a right to support.
+
+[58] For these reasons, Mr. Bergeron’s appeal is dismissed.
+
+Signed at Ottawa, Canada, this 17th day of August 1999.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 29th day of September 1999.
+
+Erich Klein, Revisor
+
+[1] In Bayer, supra, the reaction of taxpayers to this situation is described as follows:
+
+4 The appellant, as many other taxpayers, as these cases come before us from time to time, has difficulty in understanding why a spouse enforcing a right to maintenance may deduct the legal expenses incurred where the paying spouse cannot deduct his or her legal expenses in defending against that action or in suing to reduce the amount of the alimony payments.
+
+[2] See the Supreme Court of Canada’s decision in Symes v. Canada, 1993 CarswellNat 1387, [1993] 4 S.C.R. 695, at paragraph 38:
+
+In other words, the “profit” concept in s. 9(1) is inherently a net concept which presupposes business expense deductions. It is now generally accepted that it is s. 9(1) which authorizes the deduction of business expenses; the provisions of s. 18(1) are limiting provisions only. See The Queen v. MerBan Capital Corp., 89 D.T.C. 5404 (F.C.A.).
+
+[3] The following explanation is given in Interpretation Bulletin IT-428 — Wage Loss Replacement Plans:
+
+16. An employee-pay-all plan is a plan the entire premium cost of which is paid by one or more employees. Except as indicated under 21 below, benefits out of such a plan are not taxable even if they are paid in consequence of an event occurring after 1973, because an employee-pay-all plan is not a plan within the meaning of paragraph 6(1)(f).
+
+[4] The same opinion was expressed by the Supreme Court of the United States in Howard Gould v. Katherine C. Gould, 1 USTC 1033, per McReynolds J.:
+
+The use of the word itself in the definition of "income" causes some obscurity, but we are unable to assert that alimony paid to a divorced wife under a decree of court falls fairly within any of the terms employed.
+
+The taxing provision in the relevant United States legislation reads as follows :
+
+Section II, A. Subdivision 1. That there shall be levied, assessed, collected and paid annually upon the entire net income arising or accruing from all sources in the preceding calendar year to every citizen of the United States, whether residing at home or abroad, and to every person residing in the United States, though not a citizen thereof, a tax of 1 per centum per annum upon such income except as hereinafter provided;
+
+B. That, subject only to such exemptions and deductions as are hereinafter allowed, the net income of a taxable person shall include grains, profits, and income derived from salaries, wages, or compensation for personal service of whatever kind and in whatever form paid, or from professions, vocations, businesses, trade, commerce, or sales, or dealings in property, whether real or personal, growing out of the ownership or use of or interest in real or personal property, also from interest, rent, dividends, securities, or the transaction of any lawful business carried on for gain or profit, or gains or profits and income derived from any source whatever, including the income from but not the value of property acquired by gift, bequest, devise, or descent :
+
+[Emphasis added.]
+
+[5] Given the interpretation I have adopted of the prohibition set out in paragraph 18(1)(h), the right to deduct legal expenses incurred to collect support would also have had to be provided for in subsection 20(1) of the Act.
+
+[6] It must be remembered that, prior to the 1972 tax reform, alimony was added to a taxpayer’s income under paragraph 6(1)(d) of the 1952 Act, which also covered income from property, and that from 1972 on alimony was included in a different subdivision from the one dealing with income from property.
+
+[7] S.C. 1990, c. 39, subsection 12(1), applicable to the 1986 and subsequent taxation years.
+
+[8] That paragraph moreover provides for a significant limit on the amount deductible for a given year : that amount cannot exceed the amount of the retiring allowance or benefit included in income for that year. However, the balance of the expenses may be carried forward to subsequent years.
+
+[9] Although this is not relevant for the purposes of interpreting the Act as it was in 1996, I note that Parliament has changed the concept of exempt income for taxation years subsequent to 1996 by excluding a support amount as defined in subsection 56.1(4) of the Act. An argument contrary to the one I have just stated could therefore be made in interpreting the Act for years after 1996.
+

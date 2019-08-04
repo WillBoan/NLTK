@@ -1,0 +1,78 @@
+Date: 20020724
+
+Docket: 1999-3569-IT-G
+
+BETWEEN:
+
+JACK D. HOLDER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bonner, T.C.J.
+
+[1] This appeal arises from statutory provisions related to the elimination of the capital gains exemption in respect of gains arising from dispositions made after February 22, 1994. Subsection 110.6(19) of the Income Tax Act (the "Act") was enacted to permit individuals to elect to recognize for purposes of the exemption gains accrued to February 22, 1994 on capital property not disposed of until a later time.
+
+[2] Provision for making the election is found in subsection 110.6(19) of the Act. It states that where an individual elects in prescribed form to have its provisions apply in respect of capital property owned by him at the end of February 22, 1994, the property is deemed:
+
+a) to have been disposed of by the elector at that time for proceeds determined by formula; and
+
+b) to have been re-acquired immediately after that time at a cost also determined in accordance with the subsection 110.6(19).
+
+[3] Subsection 110.6(21) of the Act makes special provision for subsection 110.6(19) elections in respect of property which is "non-qualifying real property", a term defined in subsection 110.6(1). In this case the Appellant, a businessman, prepared his income tax return for 1994 without professional assistance. He included in his return a form T664 "Election to report a capital gain on property owned at the end of February 22, 1994". The form referred to one property only, 835130 Ontario Ltd.[1] ("835130") and indicated that the adjusted cost base was $10 and the fair market value at the end of February 22, 1994 was $50,010.
+
+[4] Unfortunately, the Appellant had, quite innocently, strayed into quicksand. The shares mentioned in the T664 Election were non-qualifying real property within the subsection 110.6(1) definition because the fair market value of the shares was derived principally from real property. That real property was a small strip mall in London, Ontario. It was not used in an active business carried on by 835130.
+
+[5] In June 1996, an accountant retained by Mr. Holder wrote to Revenue Canada ("Revenue") asking to revoke the election. The letter stated in part:
+
+"The shares of 835130 were acquired in May 1993 and therefore any capital gain arising on the disposition of 835130 shares is entirely ineligible for the capital gains exemption.
+
+The original T664 Capital Gains Exemption Election reported a $50,000 gross ($37,500 taxable) capital gain on the 835130 shares. However since no capital gain eligible for deduction under subsection 110.6(3) was created as a result of the election, subsection 110.6(20) renders the election void and invalid."
+
+[6] The request that the Appellant be allowed to revoke the election was made under subsection 110.6(25) of the Act which provides:
+
+"Subject to subsection (28), an elector may revoke an election made under subsection (19) by filing a written notice of the revocation with the Minister before 1998."
+
+[7] Revenue then commenced to flip and flop.
+
+[8] By letter dated July 18, 1996, Revenue proposed to reassess tax for the Appellant's 1994 taxation year on the basis that, by reason of subsection 110.6(28) of the Act, the election could not be revoked because the amount designated in the election in respect of the shares was greater than 11/10ths of the fair market value of the shares at the end of February 22, 1994.
+
+[9] By Notice of Reassessment dated September 3, 1996 the Minister of National Revenue (the "Minister") accepted the revocation of the election. Unhappily the story does not end there.
+
+[10] Revenue later changed its mind. It decided, despite the prior revocation and acceptance, to rely on paragraph 110.6(28)(a) of the Act. That provision reads in part:
+
+"An election under subsection (19) cannot be revoked or amended where the amount designated in the election exceeds 11/10 of
+
+(a) if the election is in respect of a property, other than an interest in a partnership, the fair market value of the property at the end of February 22, 1994; ..."
+
+[11] On November 10, 1997, the Minister made the assessment now under appeal. He included in income a gain deemed by subsection 40(3) to arise where amounts required by subsection 53(2) of the Act to be deducted in computing the adjusted cost base of the property exceed cost plus certain amounts. Here, the Minister included, in the amounts required by subsection 53(2) to be deducted, amounts described in paragraphs 53(2)(u) and (v). Those amounts are, respectively, amounts required by paragraph 110.6(21)(b) and subsection 110.6(22) to be deducted in computing the adjusted cost base of the property.
+
+[12] Counsel for the Appellant argued that the election was a nullity from the outset. He pointed out, correctly, that the Appellant did not know that he was electing with respect to property which was non-qualifying real property. That is apparent from the information given by the Appellant on the election form which he completed. Further, counsel noted that the Appellant did not understand that his "eligible real property gain" as that term is defined in section 110.6(1) from the disposition of the shares could only be nil in the circumstances. That result followed from the fact that 835130 did not acquire the strip mall until April of 1992 and that the B amount in the subsection 110.6(1) formula was therefore zero. Counsel's position was that since the election was intended to facilitate the use by the taxpayer of his capital gains exemption and since, in the circumstances the election was incapable of doing that, it was not an election at all.
+
+[13] Counsel for the Appellant candidly admitted that he was unable to point to any authority which supported his position, and I am not aware of any. There is nothing in the scheme of section 110.6 which nullifies elections which do not produce the consequences sought by the taxpayer who makes them.
+
+[14] Counsel for the Appellant argued further that if the election was valid the Minister was wrong in applying both the 110.6(21)(b) deduction and the 110.6(22) deduction to the computation of the adjusted cost base of the property that was the subject of the election. Counsel suggested that in doing so the Minister contravened subsection 4(4) of the Act (now repealed in relation to taxation years ending after July 19, 1995). That provision read:
+
+"Unless a contrary intention is evident, no provision of this Part shall be read or construed to require the inclusion or to permit the deduction, either directly or indirectly, in computing a taxpayer's income for a taxation year or the taxpayer's income or loss for a taxation year from a particular source or from sources in a particular place, of any amount to the extent that that amount has been directly or indirectly included or deducted, as the case may be, in computing such income or loss for the year or any preceding taxation year under, in accordance with or because of any other provision of this Part."
+
+[15] In my view subsection 4(4) has no application here. As the opening words of the subsection suggest, it applies "unless a contrary intention is evident". Essentially, the Appellant argues that subsection 4(4) is contravened because, when the paragraphs 53(2)(u) and 53(2)(v) amounts are included in the total which is the paragraph 40(3)(a) amount, the same amount is included under each of two separate provisions. I disagree. In my view the two amounts are not the same. Subsection 53(2) treats them as different and thereby expresses a "contrary intention" which renders subsection 4(4) inapplicable. Furthermore the mere fact that both amounts result from the making of the subsection 110.6(19) election does not lead to a conclusion that they are the same amount and thus attract the application of subsection 4(4).
+
+[16] I cannot find that the Act has been misapplied and I must therefore dismiss the appeal. I feel compelled to add however that the Appellant appears to have been made the victim of statutory overkill in the form of two reductions to the adjusted cost base of the shares which were the subject of the election. The Appellant prepared his return and made the election without professional help. It seems unfortunate that severe consequences which flow from obscure and almost incomprehensible statutory provisions should be imposed on him.
+
+[17] It ought to be remembered that the Appellant tried to revoke the election but was prevented from doing so by the 11/10th rule in subsection 110.6(28). The 11/10th rule leaves a very slim margin for error. There was no evidence of value before me which might have allowed me to consider whether the Minister properly rejected the Appellant's attempt to revoke the election. It is not too late for the parties to discuss the matter and for the Minister to reconsider. Here it was applied in the case of shares the value of which was dependant on the value of real property. The value of real property, particularly real property which is more or less unique such as the strip mall, is difficult to ascertain with precision. In the circumstances, I will defer issuing judgment until October 31, 2002 to give the parties an opportunity to discuss the question whether they might arrive at a Consent to Judgment producing a more humane result. If there is no consent then I must issue judgment dismissing this appeal but if I do there will be no award of costs.
+
+Signed at Ottawa, Canada, this 24th day of July 2002.
+
+"Michael J. Bonner"
+
+T.C.J.
+
+[1] This was taken to be a reference to the shares of the corporation.
+

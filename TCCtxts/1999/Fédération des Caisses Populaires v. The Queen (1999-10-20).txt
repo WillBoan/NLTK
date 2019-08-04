@@ -1,0 +1,360 @@
+Date: 19991020
+
+Docket: 96-3201-IT-G
+
+BETWEEN:
+
+FÉDÉRATION DES CAISSES POPULAIRES DESJARDINS DE MONTRÉAL ET DE L’OUEST-DU-QUÉBEC,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Lamarre, J.T.C.C.
+
+[1] These are appeals from assessments made by the Minister of National Revenue (the Minister) under the Income Tax Act (the Act) for the 1989 and 1992 taxation years. In the 1992 assessment, the Minister disallowed the appellant’s deduction of $752,640 for the employer contributions (contributions under the Quebec Pension Plan, to the Régie de l’assurance-maladie du Québec, and under the Unemployment Insurance Act and the Act respecting industrial accidents and occupational diseases) and the portion of employee benefits (under a pension plan established by the appellant and under a private group insurance plan) payable by the appellant in respect of vacation pay earned by its employees in 1992 but paid in a subsequent year. The Minister’s position is that the amount in question is a reserve for a future or potential liability and therefore cannot entitle the appellant to a deduction in calculating its profit for 1992 under section 9 and paragraphs 18(1)(a) and (e) of the Act, which the appellant disputes. The disallowance of the deduction for the 1992 taxation year directly affects the deferral of the investment tax credit claimed by the appellant for the 1989 taxation year, which is why the appellant has also appealed the 1989 assessment.
+
+[2] The only issue in this case is whether the amount of employer contributions and employee benefits to be paid by the appellant after December 31, 1992, in respect of vacation leave accumulated by its employees in 1992 is an amount as, or on account of, a reserve or a contingent liability or amount. If so, it would not be deductible by the appellant pursuant to paragraphs 18(1)(a) and (e) of the Act. For the sake of convenience, I will use the term “employer contributions” to refer to both the employer contributions and the employee benefits, except where the context requires a specific reference.
+
+Facts
+
+[3] The appellant’s technical, professional and office employees are governed by collective agreements. Under those agreements, employees earn their vacation leave during a reference period, which runs from May 1 to April 30 each year. The reference period must be over before they can take their vacation leave, and the leave must normally be taken within 12 months after the reference period. Since the appellant’s fiscal year ends on December 31 of each year, the vacation leave earned during a reference period may be taken over two of the appellant’s fiscal years. For instance, vacation leave accumulated between May 1 and December 31, 1992, must be taken between May 1, 1993, and April 30, 1994. Employees can also arrange with their immediate supervisors to take their vacation leave after the usual leave period. The same rules apply to non-unionized employees and to managers, as stated in the guide to those employees’ working conditions.
+
+[4] According to Carol-Ann Tetrault Sirsly, the appellant’s vice-president for control and administration, when employees take their vacation leave, for each week of leave they receive a percentage (generally two percent) of all their earnings in the year of the reference period. The percentage may vary from employee to employee depending on the employee’s seniority or the level he or she is at in the business. On cross-examination, Ms. Tetrault Sirsly said that, for vacation leave earned in 1992, for example, employees were paid on the basis of their wages at the time they took their vacation leave in 1993 or 1994.
+
+[5] Thus, on December 31 of each year, there is vacation leave accumulated by employees that has not been taken during the year and to which the employees are entitled. The appellant estimates the amount to be paid for vacation leave the following year at eight percent of the current year’s payroll, which amounts to about four weeks of annual leave for each employee. As at December 31, 1992, the amount to be paid for vacation leave the following year was determined to be $3,010,560, or eight percent of the 1992 payroll of $37,632,000. This amount for earned leave that had not yet been paid in 1992 was recorded as an expense in 1992 and allowed by the Minister.
+
+[6] The appellant also estimated the amount of the employer contributions associated with that vacation pay based on a weighted rate for 1992 for all the plans under which it had to pay. According to Ms. Tetrault Sirsly, a weighted rate is used for the current year because the rates payable for later periods are not necessarily known. The appellant established the rate at 25 percent of the amount of vacation pay to be paid as at December 31, 1992 (25% x $3,010,560), or $752,640. According to Exhibit A-4, that percentage can be broken down as follows:
+
+- Pension plan 8.10%
+
+- Unemployment insurance 1.80%
+
+- Quebec Pension Plan 3.50%
+
+- Quebec health plan 3.75%
+
+- Other benefits
+
+- Group insurance including: 3.43%
+
+Basic life
+
+Basic life - ADD
+
+Survivor’s pension
+
+Dependent
+
+Hospital expenses
+
+Dental care
+
+Vision care
+
+Long-term insurance
+
+- C.S.S.T. 0.44%
+
+- C.N.T. 0.07%
+
+- Difference in respect of insurance 0.24% 4.18%
+
+- Compensation tax, including directors’ fees 2.67%
+
+- Sick days and maternity leave 1.00% 3.67%
+
+25.00%
+
+[7] According to Ms. Tetrault Sirsly, the group insurance estimated at 3.43 percent of the vacation pay to be paid represents the premiums that the appellant must pay for various insurance plans. The compensation tax of 2.67 percent is a tax required in lieu of the Quebec sales tax (QST). It is calculated based on the total payroll, including vacation leave earned but not paid. Payment of that tax calculated on the basis of vacation pay is made at the same time as the other employer contributions. The rate of one percent established for sick days and maternity leave was calculated based on a review of the amount of money paid to employees for unused sick days and for maternity leave. The rates for contributions to unemployment insurance, the Quebec Pension Plan, the Quebec health plan, the Commission de la santé et de la sécurité du travail du Québec (CSST) and the Commission des normes du travail (CNT) are established by the applicable legislation. As regards the pension plan, the rate is apparently a weighted rate calculated for the current year that may increase, since such rates are always rising. The pension plan now in effect was not filed in evidence.
+
+[8] Ms. Tetrault Sirsly testified that the contributions associated with vacation pay to be paid after December 31, 1992, which were estimated at $752,640 for the purpose of computing 1992 income, were paid in 1993 as and when vacation pay was paid to each employee. The $752,640 was treated as an expense in 1992 pursuant to the principle of matching the income and expenses applicable to each year, a practice the appellant has always observed. All of the expenses associated with the services provided by the employees in 1992 were recorded in 1992 even if they were not paid that year. As the appellant saw it, the employer contributions were part of its liabilities to be paid at the end of 1992, just like the vacation leave to be paid for. According to it, those liabilities were not contingent upon any uncertain or unforeseeable event. The appellant’s 1992 annual report states that the audited financial statements were prepared in accordance with generally accepted accounting principles (GAAP). However, Ms. Tetrault Sirsly acknowledged that the $752,640 was calculated on the basis of the 1992 payroll and that the amounts actually paid in 1993 for employer contributions may have been different because of salary increases. She said, however, that the amounts paid in 1993 for employer contributions must have been higher than the amount claimed in that regard in 1992 and that the same must have been true for all the other years, since salaries were always rising.
+
+[9] Pierre Charland, an accountant who is the appellant’s director of accounting, explained in somewhat greater detail how the earned vacation pay and associated employer contributions are calculated. From what I understand, at the beginning of the year, an approximate monthly accrual for vacation leave is established and is then used to calculate monthly employer contributions based on the current year’s rates. At the end of the year, those amounts are adjusted, with account also being taken of the amount established at the end of the previous year. Mr. Charland confirmed that the rates used to calculate the employer contributions to be paid on vacation leave earned in 1992 were the rates in effect in 1992. He also confirmed that the actual amounts paid could have been different, since they were paid in accordance with the rates applicable in the year in which the employer contributions were actually made. It is clear from a document entitled “Cost of Employee Benefits” (Exhibit I-4) that the cost of the employer contributions varied from 1990 to 1993.
+
+[10] Réal Labelle, an accounting professor, testified as an expert witness for the respondent. He said that, from an accounting standpoint, the contributions to be made by an employer to unemployment insurance, the Quebec Pension Plan, the Quebec health plan and the employer’s pension plan, and the contributions to be made as regards other employee benefits, in respect of the vacation leave earned by employees at the end of a fiscal year (i.e. in respect of vacation leave not yet paid and estimated at eight percent of wages, which in his opinion is a cautious estimate) constitute an amount as, or on account of, a “provision” (the term used for “reserve” in the French version of paragraph 18(1)(e) of the Act).
+
+[11] Mr. Labelle explained how the French term “provision” is defined in accounting. In his report filed as Exhibit I-5, he defines the term as follows at page 3, paragraph 9:
+
+[TRANSLATION]
+
+According to the Dictionnaire de la comptabilité et de la gestion financière, the term “provision” has the following meaning in accounting:
+
+Potential liability (for example, the estimated liability under warranties) estimated at the balance sheet date, which liability is rendered probable by events that have occurred or are occurring. N.B.: While the nature of the liability is clearly specified, its amount and date of payment are uncertain. The discharge of the liability or the occurrence of the event leads to the reversal of the provision. In France and Belgium, provisions for contingencies and charges include provisions for contingencies (for example, provisions for litigation and allowances for declines in foreign exchange values), provisions for pensions and similar liabilities, provisions for taxes and provisions for deferred charges (for example, major repairs and maintenance work to be done periodically). (Ménard, Louis, Dictionnaire de la comptabilité et de la gestion financière, Canadian Institute of Chartered Accountants, Ordre des experts comptables – France, Institut des réviseurs d’entreprises – Belgium, 1994, 994 pages)
+
+[12] As Exhibit I-6, Mr. Labelle also filed a definition of the term “provision” prepared by the Ordre des comptables agréés du Québec. It reads as follows:
+
+[TRANSLATION]
+
+In accounting, “provision” means the recognition of an asset’s decline in value (for example, the provision for depreciation of securities) or of an increase in liabilities payable in the relatively long term (for example, the provision for contingencies and charges); while its nature is clear, its discharge is uncertain, and events that have occurred or are occurring make it foreseeable at the balance sheet date. [Ordre des comptables agréés du Québec, Comité de terminologie française, vol. 2, no. 4.]
+
+[13] In his testimony, Mr. Labelle said that a provision is a potential liability estimated at the end of the year on a business’s balance sheet date. While the nature and purpose of the provision are clear, the date and the amounts for which it is established are uncertain. In other words, the amounts must be estimated, and the date on which the provision will be used is also uncertain.
+
+[14] According to Mr. Labelle, employer contributions are a potential future liability for the employer. The amount of the liability must be estimated and a provision established for it, since at the time of establishing it the amount that will actually be paid and the exact date on which the employees will take their vacation leave are not known. The amount of the contributions to be made by the appellant is therefore a provision for the reasons given in paragraph 10 of Mr. Labelle's report, which reads as follows:
+
+[TRANSLATION]
+
+10. Based on this definition, and from an accounting standpoint, the amount of contributions to be paid by an employer (or employer contributions) in respect of employees’ accrued vacation leave at the end of a fiscal year (i.e. not yet paid and estimated at eight percent of salaries) is an amount as, or on account of, a reserve for the following reasons:
+
+• Under various statutes, vacation pay and employer contributions in respect of vacation pay are a liability for the employer.
+
+• According to the accrual accounting method, the amount of that liability must be estimated and a provision established for it on the balance sheet date pursuant to the matching principle, which requires that the business charge to a given fiscal year all the costs (even those whose amount is uncertain and must be estimated) associated with the benefits received during that year. The discharge of the liability, which often occurs during the following fiscal year when the employees actually receive their vacation pay, leads to the reversal of the provision. [Exhibit I-5, para. 10.]
+
+[15] Mr. Labelle said that he has never seen accounting books refer to provisions for employer contributions, although they do refer to provisions for accrued vacation leave. According to him, from an accounting standpoint, it is just as acceptable to establish a provision for employer contributions, in the same way as for amounts to be paid for vacation leave, as it is to wait until the contributions are made to recognize them as expenses. However, Mr. Labelle said that the latter method provides a more representative picture of the company’s financial situation.
+
+[16] Mr. Labelle distinguished employer contributions from other accounts payable, saying that such liabilities come with a precise knowledge of the amount to be paid and the time when they must be paid. There is no need to estimate them as there is with employer contributions. Employer contributions are more similar to the estimated liability under warranties, where the expenses that may be incurred because of warranties given to customers must be estimated, or allowances for doubtful accounts, where the amounts considered to be unrecoverable from customers must be determined.
+
+[17] In cross-examination, Mr. Labelle said that a distinction must be drawn between amounts to be paid for vacation leave and the associated employer contributions. For a liability to be recognized, an event must bring it into existence. In the case of accrued vacation leave, the leave is owed because of the employees’ work. In the case of employer contributions, the contributions are owed by the employer only from the time when vacation pay is paid in accordance with a time limit established by the various applicable statutes.
+
+[18] Mr. Labelle also drew a distinction between the French terms “réserve” and “provision”. The former is an amount put aside out of retained earnings (RE). It is not necessarily a debt. The estimated amount will be deducted from RE. The latter is an estimated cost deducted in calculating profits for the year. The following definition of the term “réserve” can be found in the accounting terminology of the Ordre des comptables agréés du Québec (Exhibit I-6):
+
+[TRANSLATION]
+
+Basically, a réserve is an appropriation of earnings for a given purpose. Unlike a provision, it is not intended to represent an actual liability or potential debt or a decline in value at the balance sheet date. (Fernand Sylvain, Dictionnaire de la comptabilité et des disciplines connexes (Toronto: Canadian Institute of Chartered Accountants, 1982), p. 431.)
+
+[19] Finally, on cross-examination, Mr. Labelle reiterated that, in accounting, proper matching of income and expenses could have allowed the expense for employer contributions to be deducted from 1992 income because the nature of the expense was certain. However, the expense should have been recorded as a provision, since the obligation to make the contributions did not arise until the vacation pay was actually paid.
+
+Appellant’s arguments
+
+[20] Counsel for the appellant argued that the issue is whether the employer contributions to be made after December 31, 1992, which were established at $752,640 in total, are a reserve or a contingent liability or amount within the meaning of paragraph 18(1)(e) of the Act. He said that the purpose of paragraph 18(1)(e) is to make it impossible for a taxpayer to artificially reduce its income at the end of the year by an amount it feels it will probably have to pay, without specifying whether the obligation actually exists or merely remains probable. In other words, the issue is as follows: as at December 31, 1992, was there an absolute, unconditional obligation to make the employer contributions, in which case paragraph 18(1)(e) would not apply, or was there simply a conditional obligation, in which case it would apply?
+
+[21] According to counsel, the terms “reserve” and “contingent liability”, or “provision” and “éventualité” in French, found in paragraph 18(1)(e) (reproduced below in my analysis) refer to the very existence of the obligation and not the time when it must be performed. Counsel for the appellant argued that it was known on December 31, 1992, that there was an unconditional obligation to pay for vacation leave after the end of the year. It was also known that, when the vacation pay was paid, there was an absolute obligation to make the associated employer contributions. According to counsel, the payment of the vacation pay was not the condition that created the liability in respect of those contributions but was simply the factor that determined when the contributions had to be made. He said that the only unknown was the exact time when the employer contributions would have to be made. The amount of the contributions was, for all practical purposes, known at the end of the year. Although the maximum amount to be paid was unknown, at least the minimum amount was known, since the 1992 salaries were known (and salaries always rise from year to year), as were the rates applicable under specific statutes in 1992 (and rates generally do not fall from year to year).
+
+[22] In the case at bar, the appellant has always included expenses associated with employer contributions to be made in a subsequent year in current year expenses if they are related to vacation leave accumulated during the year but not yet taken by its employees. That practice has always been used in preparing financial statements, and the auditors’ opinion is that the appellant’s financial statements are consistent with GAAP. Relying on the Supreme Court of Canada’s decision in Time Motors Ltd. v. M.N.R., [1969] C.T.C. 190, which dealt with the application of paragraph 12(1)(e) (now 18(1)(e)) as it then read, counsel for the appellant argued that the importance of applying GAAP in determining profit for income tax purposes must be acknowledged.
+
+[23] Counsel for the appellant cited the definition of “contingent liability” found in an English decision, Winter and Others v. Inland Revenue Commissioners, [1961] 3 All E.R. 855, as reproduced by the Federal Court of Appeal in L. H. Mandel v. The Queen, [1978] C.T.C. 780, at pages 786-87:
+
+. . . “contingent liabilities,” which must mean . . . sums which will only become payable if certain things happen, and which otherwise will never become payable.
+
+. . .
+
+. . . Contingent liabilities must, therefore, be something different from future liabilities which are binding on the company, but are not payable until a further date. I should define a contingency as an event which may or may not occur and a contingent liability as a liability which depends for its existence upon an event which may or may not happen. . . .
+
+[24] In light of this definition, counsel for the appellant argued that the payment of vacation pay is a future, certain event not dependent on any condition. The obligation to make employer contributions is simply postponed until the vacation pay is paid. It is therefore not a contingent liability, or conditional obligation.
+
+[25] A definition of “conditional obligation” was also provided in Winter and reproduced in Mandel at page 786:
+
+. . . A conditional obligation, or an obligation granted under a condition, the existence of which is uncertain, has no obligatory force till the condition be purified; because it is in that event only that the party declares his intention to be bound, and consequently no proper debt arises against him till it actually exists; so that the condition of an uncertain event suspends not only the execution of the obligation but the obligation itself.
+
+[26] According to counsel for the appellant, a distinction is being made here between a conditional debt that depends on an event that may or may not happen and a liability whose payment is subject to a future event that will happen, although when it will happen is not known.
+
+[27] Counsel for the appellant also referred to commentary by Quebec authors to draw a distinction between conditional obligations and obligations with a term. In Les Obligations (4th edition, Les Éditions Yvon Blais Inc., Cowansville, Quebec), Jean-Louis Baudouin states the following at pages 468-70 and 475 (paragraphs 827, 831 and 841):
+
+[TRANSLATION]
+
+827 - Like a condition, a term is a future event, but unlike a condition, it is an event that is certain to occur. The term may or may not be fixed, depending on whether the expiry date is known and determined when the obligation is incurred. Paying in one year is therefore a fixed or definite term, whereas paying on someone’s death is not, since, although it is certain that the person will die, the exact date of his or her death remains undetermined. Under the Civil Code of Lower Canada, the courts sometimes had trouble distinguishing a term from a condition, since the former is sometimes stipulated in the same way as the latter.
+
+. . .
+
+831 - A suspensive term does not affect the legal creation of the obligation but merely postpones its exigibility. Unlike an obligation under a suspensive condition, but like an obligation under a resolutory condition, an obligation with a term therefore arises immediately, in the same way as a pure and simple obligation, and thus is legally complete during the entire period from its creation until its expiry. A relationship of obligation is established between a real creditor and a real debtor.
+
+. . .
+
+841 - Unlike a term, a condition is a future but uncertain extrinsic event that determines whether an obligation arises (suspensive condition) or is extinguished (resolutory condition). The legal existence of the obligation is tied to the happening of an event whose date cannot be determined and whose occurrence also remains uncertain. The event must first of all be extrinsic and not essential to the very formation of the obligation. . . . Lastly, its occurrence must be uncertain.
+
+[28] In Day & Ross Ltd. v. The Queen, [1977] 1 F.C. 780, the following meaning was given to the terms used in paragraph 18(1)(e) (formerly 12(1)(e)) at pages 788-89:
+
+The terms “reserve” and “contingent account” of paragraph 12(1)(e) connote the setting aside of an amount to meet a contingency, an unascertainable and indefinite event which may or may not occur; whereas the term “expense” in 12(1)(a) implies a liability present and certain, an amount definite and ascertainable.
+
+Based on this, counsel for the appellant concluded that paragraph 18(1)(e) applies only in the case of a conditional obligation whose future existence is unknown. He argued that this is not true of employer contributions, since the existence of the obligation is known as soon as vacation leave is earned by the appellant’s employees.
+
+Respondent’s arguments
+
+[29] Counsel for the respondent began by noting that the Supreme Court of Canada clearly established in Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, that although GAAP may be an important basic tool in determining profit in tax law, they are not rules of law. Those accounting principles must necessarily take a subordinate position relative to the legal rules which govern (see Canderel, supra, at pages 165-66).
+
+[30] She then approached the issue of the deductibility of employer contributions from the standpoint of paragraph 18(1)(a) of the Act, which in itself limits the deductibility of any outlay or expense except to the extent that it was made or incurred in the year by the taxpayer for the purpose of gaining or producing income from a business or property. She also relied on paragraph 18(1)(e), which provides that no reserve may be deducted except as expressly permitted by the Act (see section 20 of the Act). The exceptions do not include employer contributions estimated on amounts to be paid for vacation leave. Moreover, paragraph 18(1)(e) was amended in 1988 and its scope broadened. The former paragraph 18(1)(e) referred to “an amount transferred or credited to a reserve . . . [or] contingent account”, while the new paragraph 18(1)(e) now refers to “an amount as, or on account of, a reserve, [or] a contingent liability or amount”. Counsel argued that all the case law on paragraph 18(1)(e) prior to 1988 is of little relevance in disposing of this case. Moreover, the old case law often limited the deduction of expenses by applying paragraph 18(1)(a) because of the narrowness of paragraph 18(1)(e) as it then read.
+
+[31] According to counsel for the respondent, the question that must be asked to dispose of the issue in this case is as follows: when does a liability arise for the purpose of determining whether it is deductible in one year or another? The respondent is not disputing the fact that the employer contributions are deductible. She is simply arguing that they are deductible in the year they are made.
+
+[32] On the facts of this case, as at December 31, 1992, the appellant estimated the vacation pay to be paid in 1993 and 1994 at eight percent of the actual 1992 payroll (an average of 20 vacation days a year). The appellant then estimated the employer contributions at 25 percent of the vacation pay. That percentage was likely to change in 1993 and 1994 when the vacation pay was actually paid. According to counsel for the respondent, the documents filed in evidence clearly show that the figures were estimates. In fact, to calculate the amount of employer contributions to be paid after December 31, 1992, an estimate was made at the end of 1991 in respect of which an adjusting entry was made at the end of 1992 to arrive at the total vacation pay and employer contributions to be paid after December 31, 1992. Finally, the rates applied for the contributions to be made in 1993 and 1994 were established using the rates applicable in 1992.
+
+[33] Counsel for the respondent reviewed the legislation applicable to the calculation of employer contributions. Under that legislation, employers are required to collect employee contributions through source deductions from the remuneration they pay their employees (where the employees are required to contribute). They are also required to remit those contributions to the government, along with any contributions they themselves have to make under the various applicable statutes, in accordance with time limits established by each of those statutes, which begin to run when salaries are paid. Counsel for the respondent therefore argued that the liability to make employer contributions arises only when salaries are paid, and not before. Subsequently, there are payment terms for making the contributions. According to her, a distinction must be drawn between the time at which the liability arises and the time limit established to make the liability payable.
+
+[34] Counsel for the respondent argued that the employer contributions are a provision in the accounting sense and a reserve within the meaning of the Act.
+
+[35] According to the accountant who testified, a provision is a potential future liability that does not exist at the present time and is estimated at the balance sheet date (December 31, 1992), which liability is rendered probable by events that have occurred or are occurring. Counsel for the respondent argued that this definition is consistent with the employer contributions in question here. It is known that they will have to be made in the future, but the exact payment date is not known because it is not known when the vacation leave will actually be taken. The exact amount of the payment is also not known, because salaries may vary and there may be unknowns in terms of the applicable rates. An estimate is therefore made, and it thus corresponds to a provision in the accounting sense of that term. The fact that the estimate is conservative does not change the nature of the provision.
+
+[36] Counsel for the respondent also cited the decision of the Federal Court – Trial Division in Northern and Central Gas Corporation Limited v. The Queen, 85 DTC 5144. In that case, the appellant, a corporation that sold natural gas, benefited from an inventory gain from sales of gas purchased before a rate increase. Since the appellant corporation’s profits were regulated by the Ontario Energy Board, it knew that it would be required to pass the gain on to consumers the following year. It therefore deducted the gain from its income for the current year. The Minister disallowed the deduction on the basis that it involved an amount as, or on account of, a reserve. Reed J. held that, although the amount to be paid was ascertainable, the legal obligation had not arisen in the year in which the gain had been made. It was therefore a contingent liability within the meaning of paragraph 18(1)(e), which meant that no deduction was permitted.
+
+[37] Counsel for the respondent then referred to article 1372 of the Civil Code of Québec, which reads as follows:
+
+Art. 1372. An obligation arises from a contract or from any act or fact to which the effects of an obligation are attached by law.
+
+She argued that the making of employer contributions therefore does not become an obligation until the vacation pay is paid, at which point payment terms are attached to the obligation.
+
+[38] Counsel for the respondent also cited several decisions in which it was established that a deduction will not be allowed and will be excluded under paragraph 18(1)(a), without it being necessary to refer to paragraph 18(1)(e), if the deduction concerns an obligation that does not exist when the taxpayer wishes to claim the deduction. For instance, in The Queen v. Burnco Industries Ltd. et al., 84 DTC 6348 (F.C.A.), Pratte J.A. stated the following at page 6348:
+
+In our opinion, an expense, within the meaning of paragraph 18(1)(a) of the Income Tax Act, is an obligation to pay a sum of money. An expense cannot be said to be incurred by a taxpayer who is under no obligation to pay money to anyone. Contrary to what was decided by the Trial Judge . . . an obligation to do something which may in the future entail the necessity of paying money is not an expense.
+
+[39] As well, J. L. Guay Ltée v. M.N.R., [1971] F.C. 237 (F.C.T.D.), aff’d 73 DTC 5373 (F.C.A.), aff’d 75 DTC 5094 (S.C.C.), involved a taxpayer that had hired subcontractors for a construction project. Under the contracts, the taxpayer could withhold 10 percent of the contract total until construction was complete. The taxpayer tried to deduct that amount, but the Minister disallowed the deduction because the amount was not payable during the year in question. At trial, Noël A.C.J. concluded that the amount to be paid was not deductible because its quantum was not certain — it could be reduced if the work was badly done. He wrote the following at page 245:
+
+In most tax cases only amounts which can be exactly determined are accepted. This means that, ordinarily, provisional amounts or estimates are rejected, and it is not recommended that data which are conditional, contingent or uncertain be used in calculating taxable profits. If, indeed, provisional amounts or estimates are to be accepted, they must be certain. But then it is always difficult to find a procedure by which to arrive at a figure which is certain. Accountants are always inclined to set aside reserves for unliquidated liabilities, for, if they do not do so, the financial statement will not reflect the true position of the client’s affairs. The difficulty arises from the fact that making it possible to determine the taxpayer’s tax liability is not the main purpose of accounting. The accountant’s report is, in fact, intended to give the taxpayer a general picture of his affairs so as to enable him to carry on his business with full knowledge of the facts. To achieve this end, it is not necessary for the profit shown to be exact, but it must be reasonably close, while the Income Tax Act requires it to be exact, and it is thus necessarily arbitrary. [Emphasis added.]
+
+[40] In a similar case decided by the Federal Court of Appeal, Newfoundland Light & Power Co. Ltd. v. The Queen, 90 DTC 6166, Pratte J.A. stated the following at page 6173:
+
+. . . Indeed, in order for an expense to be incurred during a year, the obligation to pay must be created during that year; similarly, there is no cost of property to a taxpayer as long as the obligation to pay that cost has not come into existence.
+
+[41] In Northwood Pulp and Timber Limited v. The Queen, 98 DTC 6640, aff’g 96 DTC 1104 (T.C.C.), the Federal Court of Appeal repeated what was said in Canderel, Burnco and Guay, supra. In Northwood, the appellant corporation had an obligation to replace the trees it cut down and had deducted in the current year the costs of reforestation for the following year. The Court determined that, under paragraph 18(1)(a) of the Act, the reforestation costs could not be deducted before they were incurred. Thus, even if estimates had been made that were reasonable and acceptable from an accounting point of view, this did not make them a deductible expense for taxation purposes.
+
+[42] In Co-Operators General Insurance Company v. M.N.R., 93 DTC 303 (T.C.C.), Judge Brulé reiterated the criteria set out above to determine whether the appellant corporation could deduct the maximum insurance premium it would have to pay the following year. He stated the following at pages 310-11:
+
+In order for there to be an expense incurred under paragraph 18(1)(a), first, there must be a presently subsisting legal obligation to pay a sum of money in the year. If not, then the amount is a contingent liability. [Reference is made to Burnco, supra.]
+
+. . .
+
+A second requirement is that the legal obligation to pay has arisen in the year. [Reference is made to Pratte J.A.’s decision in Newfoundland Light & Power, supra.]
+
+. . .
+
+Moreover, Mr. Justice Pratte rejected the proposition that, in accordance with generally accepted accounting principles, an expense can be incurred for the purpose of the Act even though a legal obligation to pay did not exist in the year. At page 6173, he stated:
+
+At the hearing, the appellant’s main submission was that Mr. Justice Martin, instead of viewing the problem in a purely legalistic way, as had been done in Guay and Colford, should have adopted a more realistic approach and, following the decision of the Supreme Court of Canada in Time Motors Limited v. M.N.R., decided the case in light of the Generally Accepted Accounting Principles which apparently teach that an expense or cost may have been incurred even though the legal obligation to pay that expense or cost does not yet exist. This argument must, in my view, be rejected. The Time Motors decision is not relevant. The Court held, in that case, that the obligation of the taxpayer under certain credit notes was “subsisting until satisfied or expired”. It reached that conclusion without the help of accounting principles. It made reference to those principles for the sole purpose of determining the meaning to be given to the expression “contingent account” in paragraph 18(1)(e) of the Act, a provision which has no application here.
+
+. . .
+
+Finally with paragraph 18(1)(a), the amount payable must be ascertainable in the year. In the appeals at hand, whether the maximum premium would be payable in the year was certainly not ascertainable. What was ascertainable, however, were additional premiums depending on annual calculations or adjustments as to the estimated excess of loss claims.
+
+Judge Brulé concluded that the appellant corporation had failed to show that it was legally bound to pay the reinsurers the maximum premium in the years concerned. Thus, the fact that the amount of the liability would eventually be ascertainable and that there was a probability of having to pay the maximum premium did not make the liability a legal liability in the years it was deducted by the appellant corporation. Judge Brulé concluded as follows at page 312:
+
+The maximum premium does not meet the requirements of an “expense incurred” as delineated in the case law interpreting paragraph 18(1)(a) of the Act. According to the premium formula, there was no obligation to pay the maximum premium in each treaty year if the obligation did not arise in the year, nor was the maximum premium a liability likely to be ascertainable in the year.
+
+[43] Based on all of these decisions, counsel for the respondent concluded that the appellant has failed to show that it was legally bound to make employer contributions in 1992 on vacation pay to be paid after the end of the year. According to her, the amounts allocated to those contributions were merely estimates, for which a provision was established in 1992 but in respect of which a legal liability to pay had not yet arisen in that year.
+
+Analysis
+
+[44] Section 9 and paragraphs 18(1)(a) and (e) of the Act, on which the respondent is relying to disallow the deduction in 1992 of employer contributions to be made after the end of the year, read as follows:
+
+9(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is his profit therefrom for the year.
+
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+
+. . .
+
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+
+. . .
+
+(e) an amount as, or on account of, a reserve, a contingent liability or amount or a sinking fund except as expressly permitted by this Part;
+
+e) un montant au titre d’une provision, d’une éventualité ou d’un fonds d’amortissement, sauf ce qui est expressément permis par la présente partie;
+
+History: S. 18(1)(e) was amended by 1988, c. 55, S. 10(1), applicable to taxation years commencing after June 1988. S. 18(1)(e) formerly read as follows:
+
+“(e) an amount transferred or credited to a reserve, contingent account or sinking fund except as expressly permitted by this Part;”
+
+S. 18(1)(e) is identical with S. 12(1)(e), R.S.C. 1952, c. 148.
+
+Historique de l’ancienne loi : L’art. 18(1) a été modifié par 1988, chap. 55, art. 10(1), applicable aux années d’imposition qui commencent après juin 1988. L’art. 18(1)e) se lisait antérieurement comme suit:
+
+« e) Réserves, etc. – une somme transférée ou créditée au compte d’une réserve, à un compte de prévoyance ou à une caisse d'amortissement, sauf ce qui est expressément permis par la présente Partie; »
+
+L’art. 18(1)e) est identique à l’art. 12(1)e), S.R.C. 1952, chap. 148.
+
+[45] One of the arguments made by counsel for the appellant is that paragraph 18(1)(e) must not be interpreted so as to prevent the deduction of reserves generally. According to him, the term “reserve” used in that paragraph must be read in conjunction with the words “contingent liability” also used in the paragraph. In French, the words “provision” and “éventualité” are used. He argued that the word “reserve” in English does not have the same meaning as the word “provision” used in the French version. The definition of “reserve” found in the handbook of the Canadian Institute of Chartered Accountants (“CICA”) must be confined to an amount that may reduce RE. According to him, a “provision” will not be covered by paragraph 18(1)(e) unless it is for an “éventualité” or is a contingent liability. He argued that this case does not involve such a “provision pour éventualité” or contingent liability. To support this, he referred, inter alia, to a passage from an article written by B. J. Arnold, “Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes” (Canadian Tax Paper No. 71, July 1983), at page 227:
+
+Estimates of the quantum of various rights and liabilities are a common and recurring feature of accounting practice. Such estimates are not considered to be contingencies for accounting purposes.
+
+[46] In response to this first argument by the appellant, I will simply refer to the well-established rule of effectivity in statutory interpretation, which dictates that there be a reason for each word used in a statute. In The Interpretation of Legislation in Canada, 2nd ed., P.-A. Côté writes the following at page 232:
+
+It must also be assumed that each term, each sentence and each paragraph have been deliberately drafted with a specific result in mind. Parliament chooses its words carefully: it does not speak gratuitously.
+
+The same rule is stated by Ruth Sullivan, Driedger on the Construction of Statutes, 3rd ed., at page 159:
+
+It is presumed that the legislature avoids superfluous or meaningless words, that it does not pointlessly repeat itself or speak in vain. Every word in a statute is presumed to make sense and to have a specific role to play in advancing the legislative purpose.
+
+[47] This rule was applied by the Supreme Court of Canada in Attorney General of the Province of Quebec v. Carrières Ste-Thérèse Ltée, [1985] 1 S.C.R. 831, in interpreting section 55 of the Public Health Act, R.S.Q. 1964, c. 161, which authorized the Minister of Social Affairs to exercise himself the powers vested in municipal authorities. The Court stated the following at page 838:
+
+When questioned at the hearing on the meaning and scope of the word “himself”, counsel for the appellant answered that this was a redundancy. We cannot agree. The legislator does not speak in vain.
+
+[48] Moreover, the Minister of Finance’s explanatory notes on the proposed income tax legislation of June 1988 amending paragraph 18(1)(e) read as follows:
+
+ITA
+
+18(1)(e)
+
+Paragraph 18(1)(e) of the Act denies a deduction for amounts transferred or credited to a reserve, contingent account or sinking fund except as expressly permitted by Part I of the Act. The amendment to paragraph 18(1)(e) clarifies the application of this provision in two respects. First, the words “transferred or credited” have been deleted because they may be technically inappropriate with respect to contingent liabilities and some reserves. Second, contingent liabilities have been expressly included in the items mentioned in paragraph 18(1)(e). This amendment is applicable to taxation years commencing after June, 1988.
+
+[49] In light of the rule of effectivity and the explanatory notes, I must conclude that the word “provision”, which is not linked to the word “éventualité” by a co-ordinating conjunction, must be given its literal meaning. Likewise, in the English version, the word “reserve” is not linked to the words “contingent liability”. As regards the meaning to be given to the word “reserve” as used in the English version of paragraph 18(1)(e), in my view it cannot have any meaning other than the one given to the word “provision” in French terminology. Moreover, section 18 is a limiting provision that restricts the deduction of certain expenses in calculating profit for the year. The section is in no way related to the calculation of retained earnings. That is why the word “reserve” as used in paragraph 18(1)(e) cannot be given the restrictive meaning attributed to it by the CICA. This is also shown by Interpretation Bulletin IT-215R of January 12, 1981, which concerns paragraph 18(1)(e). Paragraph 2 of IT-215R reads as follows:
+
+2. A “Reserve” in modern accounting practice is an appropriation from retained earnings or other surplus, at the discretion of the taxpayer or pursuant to the requirements of a statute, the instrument of incorporation, bylaws of a company, a trust indenture or otherwise. The term “Reserve” as used in the Income Tax Act has a broader meaning than in current accounting terminology and it means more generally an amount set aside that can be relied upon for future use.
+
+[50] Accordingly, even though taxpayers are free to compute their income in accordance with accepted business principles and to adopt such of those principles as are appropriate in their specific circumstances to give an accurate picture of their profit for the year, that accounting treatment is not relevant if a specific rule is established by the Act. Here, paragraph 18(1)(e) sets out a specific rule: an amount that can be characterized as a reserve cannot be deducted. Exceptions to this rule are set out in section 20 of the Act, but those exceptions make no reference to employer contributions. Thus, the fact that the treatment chosen by the appellant to take account of the expense is acceptable from an accounting point of view, which has been shown here, does not mean that the expense must be treated the same way for taxation purposes if it is shown to be a reserve.
+
+[51] However, accounting practice may be used as a basic tool to determine whether an amount is a reserve or “provision” (see Time Motors and Canderel, supra). According to the accountant who testified, a “provision” can be defined as follows: (1) a potential future liability, (2) that must be estimated and (3) that will be paid on an unknown date.
+
+[52] With regard to the third criterion, the Supreme Court of Canada established in Time Motors, supra, that paragraph 18(1)(e) does not apply in the case of a liability that must be paid during a determined period of time in the future. It should be recalled here that the case involved credit notes given by a used car dealer in partial payment of cars purchased for resale. The notes were a liability incurred by the purchaser, when purchasing the cars, in payment of the purchase price. The purchasing taxpayer had a real obligation toward the sellers of the cars to honour the credit notes if the sellers redeemed them, even if the notes had to be honoured only during a future period of time otherwise determined. The taxpayer’s obligation had arisen as soon as the credit notes were issued and was to subsist until they were satisfied or expired. The obligation was not a conditional one either. In this regard, Desjardins J.A. stated the following in Newfoundland Light & Power, supra, at page 6170:
+
+The credit note reflected an obligation which was in existence till the note expired: it represented a value owed for a value received. The customer’s option to present or not to present the note for redemption before its expiration never changed the nature of the liability. If claimed in time, the value owed was given. If not claimed in time, the value given turned out to be a profit.
+
+[53] The same reasoning can apply in the case of vacation pay. The employees acquire their vacation leave during the reference year, but they cannot take that leave until after the reference period is over. However, it is during the reference year that the appellant becomes obliged to pay its employees vacation pay, and that obligation subsists until the amounts are paid in the year following the reference period. That is why the vacation pay, although estimated, is not a reserve within the meaning of paragraph 18(1)(e). It is not a potential obligation for the employer. It is a real legal liability that exists during the reference year but will be paid in a future year. It can therefore be said that the expense associated with the vacation pay was incurred during the reference year and is thus deductible in calculating profit for the year under section 9 and paragraph 18(1)(a) of the Act.
+
+[54] However, this is not the case of the employer contributions associated with that vacation pay. On this point, I note that the parties dealt with the question of employer contributions as a whole, without distinguishing between those that result from the application of a statute and those that result from the establishment of a private plan. The evidence adduced does not enable me to distinguish between them. No contract establishing the appellant’s obligations under private pension fund or group insurance plans was filed. It is not open to the Court to make up for the insufficiency of the evidence adduced or to guess at evidence that would seem to be essential to a satisfactory disposition of the case but was never adduced. In other words, I can render a decision based only on the evidence adduced and not on the evidence that could have been adduced. In the case at bar, the appellant bore the burden of proving any distinctions that had to be made between the employer contributions required by statute and those resulting from the application of private plans. Since that evidence is not before me, and since the parties referred in their arguments solely to the employer contributions governed by statute, I will deal with the question of employer contributions as if they were all governed by statute.
+
+[55] In this regard, I agree with counsel for the respondent that the obligation to make those employer contributions does not arise until the vacation pay is actually paid. The services provided by the employees do not give rise to that obligation. The payment of their salaries is what, under the various applicable statutes, creates an obligation for the employer to make the associated employer contributions. It therefore cannot be said, as counsel for the appellant argued, that the obligation to make the contributions exists during the reference period.
+
+[56] The employer’s obligation to make employer contributions is not an obligation with a term as argued by counsel for the appellant. It is more akin to a suspensive conditional obligation. In Les Obligations, supra, J.-L. Baudouin makes the following comments on suspensive conditions at pages 475 and 479, paragraphs 842 and 849:
+
+[TRANSLATION]
+
+842 - Suspensive condition - . . . With a suspensive condition, the obligation does not arise until the event occurs; the condition therefore delays the creation of the relationship between the parties.
+
+. . .
+
+A. Suspensive condition
+
+1. Before the event occurs
+
+849 - Obligation non-existent - Rights of potential creditor -
+
+Before the condition is fulfilled, an obligation under a suspensive condition exists only potentially and is not yet a reality. Its creation remains a mere possibility, and there is not yet any actual relationship between the future creditor and the future debtor. In principle, the conditional creditor therefore has no rights against his or her conditional debtor. Since such rights have not yet materialized, the conditional creditor has no existing legal interest that would enable him or her to demand, for example, the performance of the obligation. Since the debt is not legally in existence, the debtor is not required to pay and can therefore recover anything paid when not due.
+
+[57] This is exactly the case here with respect to the employer contributions. During the reference period, there is not yet any actual relationship between the creditor of the contributions and the employer, which will have to pay them only from the time the vacation pay is actually paid. The creditor’s legal interest will arise then and not before. It cannot be said that the debt is legally in existence before that time. In contrast, an obligation with a term presupposes that the obligation arises immediately and is therefore legally complete during the entire period from its creation to its expiry. A relationship of obligation is established between a real creditor and a real debtor (see J.-L. Baudouin, page 470, paragraph 831, supra). It seems to me that this is the main difference between vacation pay, in respect of which an actual relationship is created between the debtor employer and the creditor employees, and employer contributions, in respect of which no such relationship can exist between the employer and the creditor of the contributions until the vacation pay is actually paid. This results from the various statutes governing the payment of such employer contributions.
+
+[58] The suspensive conditional obligation concept also exists in the common law (as the contingent liability) and was referred to in Mandel, supra, where it was stated that a contingent liability has no legal force until the condition is fulfilled.
+
+[59] I therefore feel that the obligation to make employer contributions in respect of vacation pay to be paid after the reference period is a potential future obligation as defined in law. I also feel that the evidence has shown that that obligation must be estimated and cannot be precisely determined during the year when the vacation leave is accumulating but has not yet been taken by the employees.
+
+[60] The definition of “provision” (“reserve” is used in the English version of the Act) given by the accountant is a potential liability estimated at the balance sheet date, which liability is rendered probable by events that have occurred or are occurring. While the nature of the liability is clearly specified, its amount and date of payment are uncertain. In light of the above analysis, it is my view that the $752,460 estimated as at December 31, 1992, in anticipation of employer contributions to be made in a subsequent year is a reserve within the meaning of paragraph 18(1)(e) of the Act.
+
+[61] Moreover, since the obligation to make those employer contributions does not arise until the vacation pay is paid, it cannot be argued that the appellant, in the situation that concerns us, incurred that expense in 1992. The $752,640 is therefore not deductible in 1992 under paragraph 18(1)(a) of the Act either. As noted by Pratte J.A. in Newfoundland Light & Power, supra, for an expense to be incurred (within the meaning of paragraph 18(1)(a)) during a year, the obligation to pay must be created during that year. In rendering his decision, Pratte J.A. relied, inter alia, on the decision in Guay, supra, which was affirmed by the Supreme Court of Canada.
+
+[62] Finally, even if the estimate of the expense is reasonable and acceptable from an accounting point of view, this does not make the expense deductible for taxation purposes. To illustrate this, it is sufficient to cite the following passage from the Federal Court of Appeal’s decision in Northwood Pulp and Timber, supra, in which Isaac C.J. states the following at page 6641:
+
+[6] The fact that the taxpayer’s treatment of the reforestation costs was generally acceptable from an accounting point of view does not dictate that it should be treated similarly for income taxation purposes. . . .
+
+[8] Thus the recent decision of the Supreme Court of Canada in Canderel Limited v. The Queen does not assist the appellant in the present case. The Court there said (at paragraph 53) that:
+
+in ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with — inter alia — established case law principles.
+
+[9] The appellant’s position in the present case in [sic] inconsistent with “established case law principles”. We agree with what the learned Trial Judge said in the present case:
+
+The thrust of the cases referred to by both counsel show that the Courts have consistently disqualified for income tax purposes, in calculating taxable profits, amounts that are provisional estimates, are conditional, contingent or uncertain. The estimates disallowed by the Minister here were certainly of that nature.
+
+[63] For all these reasons, I therefore conclude that, in calculating its profit for the 1992 taxation year, the appellant was precluded by paragraphs 18(1)(a) and (e) of the Act from deducting $752,640 as an estimate of the employer contributions to be made on vacation pay to be paid in subsequent years.
+
+[64] The appeals are dismissed with costs.
+
+Signed at Ottawa, Canada, this 20th day of October 1999.
+
+“Lucie Lamarre”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 1st day of December 1999.
+
+Stephen Balogh, Revisor
+

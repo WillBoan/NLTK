@@ -1,0 +1,476 @@
+Date: 20000726
+
+Docket: 98-1663-IT-G
+
+BETWEEN:
+
+KNOWLEDGE SYSTEMS INCORPORATED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur J.T.C.C.
+
+[1] These appeals are from assessments for six of the Appellant's taxation years, 1991 through 1996. The only issue is whether a certain activity of the Appellant, Knowledge Systems Incorporated ("KSI"), constitutes scientific research and experimental development ("SRED") within the meaning of section 37 and subsection 248(1) of the Income Tax Act and subsection 2900(1) of the Regulations.
+
+[2] The Appellant was in the business of providing computer and technical services and computer systems management consulting in Ontario. During the relevant years, it was also involved, through its principal, John J. Leppik, in accumulating information for a project known as Knowledge Development Systems (KDS). The hypothesis at the root of the KDS project taken from the Notice of Appeal, was that it ought to be possible to link a computer user's human intelligence and experiences with the memory, storage, retrieval, speed and indexing capabilities of a computer, to produce a superior decision-making process combining the best elements of the human mind with the best elements of the personal computer. The Appellant's hypothesis evolved over the years. In his submissions, counsel for the Appellant stated:
+
+... Your Honour, I freely admit that there were numerous hypotheses, some recorded, some not, but the underlining one, which is transparent to Dr. Gotlieb, which in my respectful submission, it was abundantly clear in Mr. Leppik's testimony, was that he wanted to build an ever present computer to be able to – ... not just follow you around, but even ultimately be stuck to you, that could be used to assist a person. Think – not think, that's not right, but to use the reliability ... and the breadth and the speed of a computer and the intellect and wisdom of a mind. (Transcript page 45)
+
+[3] During the taxation years in issue, the Appellant claimed current and capital expenses in respect of the KDS project which may be summarized as follows:
+
+Taxation Year
+
+Current
+
+Capital
+
+Total
+
+1991
+
+$14,559
+
+$1,231
+
+$15,790
+
+1992
+
+18,877
+
+5,785
+
+24,662
+
+1993
+
+31,960
+
+2,433
+
+34,393
+
+1994
+
+37,946
+
+1,487
+
+39,433
+
+1995
+
+50,460
+
+5,823
+
+56,283
+
+1996
+
+24,472
+
+Nil
+
+24,472
+
+In filing its tax returns for the taxation years, the Appellant submitted that the expenses constituted SRED expenditures within the meaning of sections 37, 127, 127.1 and 248 of the Act and subsection 2900(1) of the Regulations. In assessing the Appellant for the taxation years, the Minister of National Revenue permitted the Appellant to deduct the expenses in computing its income pursuant to section 9 of the Act, but denied that the expenses constituted SRED expenditures. Subsequent to the hearing, the parties filed an agreement entitled "Partial Agreed Statement of Facts" dated June 26, 2000, disposing of certain issues applicable only in the event the appeals with respect to the issue of SRED were allowed. I will refer to this agreement at the conclusion of these reasons for judgment.
+
+Facts:
+
+[4] Mr. Leppik[1] obtained a Bachelor of Applied Science from the University of Toronto in 1961 and is a professional engineer registered in Ontario. He worked for IBM Canada from 1961 to 1984. Before retiring, he was the director of corporate and scientific programs. He established IBM's Canadian program for joint information technology research with universities and hospitals. His activities since 1984 include representing over 150 taxpayers with regard to their applications to Revenue Canada for SRED. I believe he has been 100% successful.
+
+[5] The Appellant's position taken from the Amended Notice of Appeal included:
+
+14. The technological objective of the KDS Project was to develop a means whereby professionals and others working in knowledge-intensive occupations would be able to use ever-present personal computers as aids in all aspects of knowledge processing. The focus of the KDS Project was to develop an effective way of storing, organizing and using a professional's knowledge base. The desired result of the KDS Project was to develop a shrink-wrapped application program for any such worker using an IBM compatible personal computer.
+
+15. The KDS Project took the approach of developing a prototype to assess how much of the technological objective could be achieved with existing technology, to identify the technological uncertainties, to identify where technological advances would yield desirable results and to identify the nature of such advances.
+
+16. The KDS Project involved several elements of technological uncertainty, including:
+
+(a) establishing the full definition of knowledge elements;
+
+(b) identifying and characterizing knowledge domains;
+
+(c) establishing relationships amongst data elements;
+
+(d) determining what processing algorithms would be required to synthesize knowledge elements into knowledge domains or aggregates; and
+
+(e) determining whether the problems with inclusivity and exclusivity could be reduced or eliminated.
+
+17. The KDS Project research was carried out by the Appellant in a systematic manner.
+
+18. The Appellant's research on the KDS Project resulted in technological advances.
+
+[6] The Respondent states that the activity in respect of which the SRED expenditures were claimed did not constitute SRED within the meaning of section 37 and subsection 248(1) and Regulation 2900. In his written submissions, counsel for the Respondent stated:
+
+... The Appellant took existing hardware and software technology and did not modify it. The Appellant noted improvements to be made to the project in issue, but did not implement or test these potential improvements. The Appellant recorded any tests done on the project in such a way that these tests could not be understood or reproduced. Accordingly, the Appellant's project was not scientific research and experimental development within the meaning of subsection 2900(1) of the Income Tax Regulations.
+
+[7] Both parties rely on the evidence of highly qualified experts. Dr. C.C. Gotlieb testified on behalf of the Appellant. He has been associated with the University of Toronto as a student, then as a lecturer, professor and researcher since 1942. Since 1986, he has been Professor Emiritus, Department of Computer Science and Faculty of Library and Information Science. His many honours and achievements fill 18 pages. He has three honorary doctorate degrees and the Canada Order of Merit. His expertise includes Physics, Mathematics and Computer Science. He also acts as a consultant. He was qualified to give evidence as an expert in information retrieval systems and databases. Dr. Gotlieb and Leppik have had a business relationship over the years and were friends. Upon the first request, Dr. Gotlieb was hesitant to evaluate the Appellant's project but later relented.
+
+[8] Dr. Stan Matwin, also a highly qualified expert in the relevant field, testified on behalf of the Respondent. He attended the hearing and heard the direct evidence and cross-examination of Dr. Gotlieb. He devoted more time to the issue than his counterpart.
+
+[9] In arriving at a decision, I have relied heavily on the evidence of both experts. For that reason, I will quote extensively from their reports commencing with that of Dr. Gotlieb. He describes the research undertaken by KSI as follows:[2]
+
+The purpose of this research was to develop a system that when, for an individual, (the user) a query arises about any item or question that comes to his attention, he could recall all facts or items he had previously encountered that were relevant to the query and had been recorded into the system. The system is intended to be a personal, rapid, portable, and reliable, memory aid.
+
+The way this is achieved is that when the user encounters a (sic) item that he feels is worth remembering, to become part of his personal knowledge base, he records this on a portable device to create an entry. The device may be a tape recorder, a laptop computer, a hand-held scanner, a camera, etc. An entry consists of three parts, a locator which points to where the entry is to be found. The locator may point to the portable device itself, a large computer in the user's office, a filing cabinet in his home, the World Wide Web, a library of audio tapes, a photograph album, a book, an encyclopaedia, etc. The second part is a set of descriptors that the user attaches to the entry so as to serve as headings under which the entry may be classified and searched. One of the descriptors is a time stamp; others are subject headings, and others may be key words or terms that help describe what the entry is about. The third part of the entry is the content, to be found where specified by the locator, and which may take the form of text (perhaps typed in from the laptop or read by the scanner), a portion of an audio tape, a photograph, a painting, or even a musical score.
+
+When a query is put to the system, the query is also assigned descriptors, and the knowledge database is searched to retrieve entries which have descriptors which match those of the query. In effect the system is very much like a library, along with a catalogue having subject headings for searching it. But in this case the system is built for personal use by one user, who carries it with him wherever he goes.
+
+[10] In January 2000, Dr. Gotlieb spent three hours at Mr. Leppik's office, witnessed a demonstration and asked many questions. Later, over the telephone, he obtained more details and obtained a better understanding of the extent of the system and the methodology behind it. Dr. Gotlieb is favourably impressed with Mr. Leppik's technological background and with the equipment he has assembled. Under "Technological Issues" Dr. Gotlieb states at pages 2 and 3:
+
+To appreciate the scope of the system, it should be noted that it has been in operation for 8 years now, with entries accumulating at the rate of about 3,500 a year, or 28,000 in all. Entries have, on the average 6 to 7 descriptors, and the total number of distinct descriptors is more than 1000. Mr. Leppik reports that he spends about ½ hour per day making entries, approximately 10 per day.
+
+[11] He explains that KDS is not an artificial intelligence system. KDS is expected to supply the reasoning that will make the memory retrieval useful. He writes that a system based on the basic principles on which KDS operates will work because such information retrieval systems have been in use for many decades.
+
+[12] The Appellant's present equipment is made up of computer hardware and software known as PacRat. Both can be obtained by anyone from commercial retailers of office equipment. It has not altered this equipment in any way and must depend on independent technological advancement at some future date to provide a computer small enough for his requirements. There was no evidence of when and by whom such a computer will be available. Dr. Gotlieb states at page 4:
+
+The portability of KDS is also an advance. Until the computer came, information retrieval systems were large and clumsy. One only has to think old-fashioned library card catalogues to remember this. Moreover the current KDS prototype is by no means the end achievement in what one can expect with regard to portability. Computers continue to become smaller and faster, and we can look forward to very compact systems that will be correspondingly even more useful and convenient.
+
+The universal and portable features of KDS, along with its simplicity, make it attractive for use everywhere, and for a long time. The fact that it has stood the test of time and grown for 8 years make this plausible. In many ways, KDS is the ultimate advance on the pocket organizers which are carried by so many people for business and personal use. Ultimate, because it is useful not only for organizing appointments and schedules, but for almost all daily activities that depend on memory, and because it has such a long life.
+
+In my opinion, the factors of versatility because of multimedia knowledge representation, dedication to individuals and personal use, portability, along with the features of speed, simplicity and low cost that go with modern PCs, all combine to make KDS a definite technological advance of very considerable interest.
+
+From this quotation the reader might infer that the Appellant was creating the portable hardware. This is not so. There was no evidence that the Appellant is even in touch with any such technological developer of computer hardware. Under the heading "Scientific and Technological Uncertainty", Dr. Gotlieb added at pages 4 and 5:
+
+There are a number of uncertainties in the product that KSI is attempting to develop. Already mentioned is whether the system will really have high figures for both precision and recall when it is used by others, and the measurements are made over a large number of different queries. This is a very important question, because it goes to the heart of the usefulness and marketability of the product.
+
+Almost of equal importance, is whether the system, which so far has been tested only by its Chief Researcher, will be as satisfying and as useful to others. Obviously it has to be tested over a much greater number of users. Questions of the suitability of the user interface come in here. Mr. Leppik is a very knowledgeable computer user. Computer literacy is certainly becoming more widespread, but will the entry, storage, and display systems of the prototype be acceptable for the "average" user for whom the system is intended? It would be surprising if improvements were not found, but it is not possible to say for now, where these improvements should be, or what form they should take.
+
+...
+
+The system is useful as it is, but there are many possibilities for improving it. The question is not whether there is uncertainty, but which of the many uncertainties it is profitable to explore.
+
+Under the heading "Scientific or Technical Content" he wrote in part at page 5:
+
+I have personal experience of Mr. Leppik's professional competence. For many of his years with IBM, and in subsequent years, he worked at the University of Toronto, sometimes on projects on which I myself have been engaged during my academic career. I have no reason to doubt his statement that the system has been under development for some eight years. The volume of 28,000 entries, some of whose contents I have seen for myself, is evidence of a long-time dedication, requiring very considerable technical competence for its achievement.
+
+But the most persuasive evidence of technical content and progress toward achieving the desired goal is the existence of the prototype itself. It is, in fact, a complicated piece of technology, built with many components, like the laptop computer and hand-held scanner devices, which themselves are triumphs of modern technology.
+
+The answer to the question about showing technical content is clearly evident.
+
+Finally, many of the entries into the system are random thoughts. These are very far from routine documentation.
+
+[13] Dr. Stan Matwin wrote a rebuttal[3] of Dr. Gotlieb's report and attended the first two days of the trial, hearing his direct evidence and cross-examination. Like his counterpart, he is highly qualified. He earned a PhD in Computer Science in 1977 and since 1991, has been a professor with the Department of Computer Science at the University of Ottawa. Presently, he is the Director of the Ottawa-Carleton Institute for Computer Science and head of Graduate Studies in Computer Science, School of Information Technology and Engineering. I will not attempt to repeat his many accomplishments but simply state that he has a distinguished background in computer technology. He witnessed a demonstration of KSI in March 2000. In his rebuttal of Dr. Gotlieb's report, he describes KDS as a knowledge repository which now contains a database of 28,000 knowledge items. Filed in evidence were hundreds of examples,[4] five of which are picked somewhat at random and reproduced as follows:
+
+Page 25
+
+Summary: KDS Experiment – How important is my PIM
+
+Date: 07/27/93
+
+Elapsed: 00:00:00
+
+Key: pim
+
+Key: packrat
+
+Key: kds experiment
+
+Key: information
+
+Key: backup
+
+Key: recovery
+
+Key: kds find *******
+
+Key: loss
+
+Key: crash
+
+Key: knowledge base
+
+When PacRat 5.0 crapped out, I was severely impacted. I lost many items. I did not know what I had lost. I lost confidence. I developed a backlog of items and nowhere to put them. Eventually I reverted to an old version and accepted amnesia for the intervening period.
+
+Two KDS lessons learned:
+
+1. I knew that I did not want to recover 5.0 after I consulted the CompuServe conference. I would have avoided the problem entirely had I done this earlier.
+
+2. KDS awareness and pretesting would have avoided the problem for all of its subscribers.
+
+Another loss Nov 98 .....................
+
+Lost items
+
+Recovered some phone numbers
+
+Lost NOTES components
+
+My knowledge base is so large and valuable now, I have no option but to continue, with greater care.
+
+Page 27:
+
+Summary: KDS Experiment – Finding what I didn't know I had
+
+Date: 01/18/96
+
+Elapsed: 00:00:00
+
+Key: kds find ******
+
+Key: forgotten
+
+Key: retrieving
+
+Key: propeller
+
+Key: crawl space
+
+Key: kds experiment
+
+Key: kds experiment
+
+Key:
+
+Key:
+
+Key:
+
+Saw spare boat propeller in crawl space and decided to make a kds entry so I could locate it when I needed it. Made entry and did search on 'crawl space' to see what else I had tagged there. Came up with an earlier prop entry that was almost identical.
+
+Page 28:
+
+Summary: KDS Experiment – Doing notes on garbage can ...
+
+Date: 11/16/95
+
+Elapsed: 00:00:00
+
+Key: kds experience
+
+Key: hydrant
+
+Key: Las Vegas
+
+Key: kds find *******
+
+Key: time management
+
+Key: fire hydrant
+
+Key: hydrant
+
+Key: mobile office
+
+Key: downtime
+
+Key: KDS experiment
+
+... while waiting for bus to Las Vegas Airport. I wasn't wasting my time like the rest of them and the bus was late.
+
+... that's what you call a "mobile office"!
+
+... later on bus, airport garbage can and plane
+
+THAT's MINIMIZING DOWNTIME
+
+Page 29:
+
+Summary: KDS Experiment – Consequences of an iterative approach
+
+Date: 02/19/99
+
+Elapsed: 00:00:00
+
+Key: cause and effect
+
+Key: kds court *******
+
+Key: prototype
+
+Key: kds finding ***********
+
+Key: philosophy
+
+Key: fire hydrant
+
+Key: dna
+
+Key: knowledge
+
+Key: context
+
+Key:
+
+Consequence of an iterative approach
+
+....from item: We understand from a point of view ...
+
+...as we learn, our perceptual models change and that changes our point of view. Thus we see old things differently, and we see entirely new things. Other people with different contexts see still differently. Thus there is no reality, only selected, limited, changing views with changing and different interpretations.
+
+This is why a prototyping approach is so important and why a personal knowledge base is dynamin, needing constant updating.
+
+This is why many philosophers say that there is no truth, there is no specific meaning to any book, message, why McLuhan observed that the medium is the message, and why DNA code differs in meaning depending on what is reading it and in what context.
+
+Page 32:
+
+Summary: KDS Experiment – Broad benefits derive from simplicity
+
+Date: 02/22/95
+
+Elapsed: 00:00:00
+
+Key: kds experiment
+
+Key: experience
+
+Key: notes
+
+Key: day-by-day
+
+Key: kds find *****
+
+Key: focus
+
+Key: Simple *****
+
+Key: simplicity
+
+Key: value
+
+Key: kds audit
+
+950222
+
+The Globe and Mail reports on a Business Week report to the effect that: Industry has spent a trillion dollars on personal computers and there is little or no productivity gain yet, but it looks like it is coming now. Stick
+
+950222
+
+My use has become a habit, perhaps an obsession. I have to limit how many tools I get into. I justify my involvement as a cost of developing KDS and wonder if there really is a payback and conclude that there is, provided that I keep things simple.
+
+There is real power in focus. Consider Susan Powter, or a cabinet minister.
+
+[14] The position of the Respondent, as set out by Dr. Matwin in his Rebuttal Report dated March 17, 2000 includes:
+
+It is my task to assess the work in terms of the specific criteria of subsection 2900(1) of the Income Tax Regulations and in light of Information Circular 86-4R3. Three criteria need to be evaluated: advancement, scientific or technological uncertainty, and scientific and technological content.
+
+Advancement
+
+I fail to see the advancement of the KDS in scientific research and experimental development. This is not basic research, as I do not see a clear, testable goal (hypothesis) stated anywhere throughout the history of the project, and moreover there is a practical application in view.
+
+The work is not experimental development, as no development in the area of Computer Science (in terms of reusable design documentation, algorithms or programs) has been achieved. The documentation that is encoded in the Development Workbook lacks, in my opinion, the degree of formality and precision which would allow it to be a basis of software development and, furthermore, it is unclear what this software would be.
+
+... There is no evidence of better understanding of science or technology, beyond the ability to better organize the personal knowledge of one person who also developed the system. No advancements in Information Retrieval are present in the work, as all the information retrieval aspects of the work are handled by PackRat.
+
+...
+
+The main evidence of progress is that the system helps the developer himself to organize his thoughts and to access his knowledge. But no systematic process has been developed which would enable others to achieve the same effect. A collection of items has been accumulated, but what specific functions does it provide to the user? ...
+
+Scientific or Technological Uncertainty
+
+The criterion of scientific or technological uncertainty is difficult to assess in the absence of a clear goal of the work. I can, however, observe that the work carried out and the results obtained so far could have been, with certainty, achieved by a competent Information Technology professional. This is, on the basis of generally available technological knowledge, a database of some 14,000 text items can be built, and items can be retrieved from it. Further, on the basis of generally available technological knowledge, it is clear that such a system can be ported to any modern computing environment, including laptop computers (the term "porting" denotes the process of adapting a software programme running on one computer system, to run on a different, usually technologically newer computer system). The fact that the development is well within the current technological standards and could be characterized as a standard technological process means the absence of technological uncertainty.
+
+Scientific or Technological Content
+
+I fail to see sufficient evidence of scientific or technical content in what has been achieved so far. When testing this criterion of the work claimed, one looks for evidence of a systematic process that experimentally verified a hypothesis established at the outset of the work. There is no such hypotheses stated. ...
+
+... No clear function of the prototype is identified.
+
+Dr. Gotlieb's review refers to a very recent, undocumented experiment measuring recall and precision of the KDS. I agree that these measures apply to the type of work performed by KSI. One must observe, however, that both measures are to a large extent subjective. Normally, such experiments and their assessment of recall and precision are performed by an independent third party. Further, it is not clear what the influence is, if any, of recall/precision results on the KDS.
+
+Analysis
+
+[15] Under the Income Tax Act, SRED is defined in section 2900 of the Regulations as follows:
+
+2900(1) For the purposes of this Part and sections 37 and 37.1 of the Act, “scientific research and experimental development” means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) ...
+
+The Appellant relies particularly on subsection (c). The tax incentives are given to encourage scientific research in Canada. Information Circular 86-4R3 has been accepted as setting out criteria to be applied in determining whether an activity qualifies as SRED.[5]
+
+[16] Both experts used a similar approach and that is by applying the criteria in Interpretation Bulletin IT86-4R3 to the present situation. Both had difficulty defining precisely how KDS is proceeding to obtain the objectives as stated in paragraph 13 of the Amended Notice of Appeal.[6] I do not pretend to have computer expertise and rely on the evidence of the experts as it is applied to the Income Tax Act. The fact that highly qualified experts cannot agree whether the Appellant meets the criteria of scientific or technological (a) advancement, (b) uncertainty, and (c) content, indicates that the question does not have a simple answer. After their comprehensive reports are analyzed, what divided them was whether the Appellant's activities constituted routine engineering or whether technological advances were achieved. For the reasons that follow, I accept the conclusion of Dr. Matwin that no technological advances were achieved.
+
+Scrutiny of Dr. Gotlieb's Testimony:
+
+[17] He considered the KDS a memory aid and information retrieval system. He compared it to a notebook daytimer that he kept in his breast pocket. Only Mr. Leppik could perform tests. The system, as it exists, is not accessible to others and, because of the very personal nature of the entries, he wishes to protect his privacy. Dr. Gotlieb felt more tests would have to be performed, preferably with a number of users making comparisons. Dr. Gotlieb described KDS as "an information retrieval system". Mr. Leppik stated that KDS is not exactly information retrieval.
+
+Scientific Advancement:
+
+[18] Dr. Gotlieb described KDS as a "multimedia database whose contents may be text, sound or images". He was mistaken in this regard since the PacRat database could not store sound or images. Dr. Gotlieb stated: "The portability of KDS is an advance". Portability of computers has nothing to do with KDS and the work of Leppik. Under Scientific and Technological Uncertainties, he questions whether KDS will have high figures for both precision and recall when used by others and adds this would be a useful test. If that is an uncertainty, it has never been tested. Leppik is the only one who can test his project.
+
+Scientific Content
+
+[19] He wrote in generalities stating the documentation in KDS was not routine and evidenced technical competence. He did not and could not do any testing personally but had to rely on Mr. Leppik. He presumed, because of Mr. Leppik's scientific background, that the documentation, prepared by Mr. Leppik, was sound. Because of Mr. Leppik's history with IBM and superior knowledge of the science of information retrieval, Dr. Gotlieb has faith that the project is sound. I find that this is an unsatisfactory measure for scientific content. Concluding with a scrutiny of Dr. Gotlieb's report, it is interesting to note that he felt any bright fourth year computer science student could put together the components of KDS leading me to the conclusion that the project is closer to routine engineering than technological advancement.
+
+[20] In RIS – Christie Ltd v. The Queen,[7] Roberston J. referred with approval to Northwest Hydraulic, supra, for a comprehensive analysis on the legal meaning of "scientific research". What constitutes SRED is a question to be determined by this Court. An expert may assist the Court in evaluating technical evidence. SRED envisages the introduction of a new or improved product or process. Roberston J. added the following at page 5059-60 which is of assistance:
+
+... Thus, research must be directed toward a meaningful technological advancement and involve an element of creativity, rather than the mere application of routine engineering principles. At the same time, research objectives must be realistic. The committed alchemist who seeks to turn base metals into gold should not look to the Income Tax Act for tax incentives. Assuming that a research project is eligible for favourable tax treatment, there is no express or implied statutory requirement that such project actually culminate in a technological advancement. Regulation 2900 speaks of research undertaken for the advancement of knowledge and for the purpose of creating new products. It does not state that eligible research must actually achieve those ends. Otherwise, the very purposes for which the legislation was enacted would be undermined. ...
+
+[21] The present issue appears to boil down to whether Mr. Leppik's work on behalf of the Appellant was directed toward a meaningful technological advancement invoking creativity or whether his work was the mere application of routine principles. There is no question that to date his efforts have failed but this is not fatal to the Appellant's position.[8] The Appellant is attempting to devise a knowledge-based system. The question is whether or not this is an application of existing engineering principles. Could the Appellant's research objective lead to technological advancement? Like Dr. Matwin, I am uncertain as to what the technology is that the Appellant hopes to develop. I believe even the Appellant's own witness is somewhat confused in this regard. On page 4 of his report, Dr. Gotlieb stated that an important feature of "KDS is that it is a multimedia data basis whose contents may be text, sound, or images", yet the evidence was that PacRat used by KDS could not accept sound or images.
+
+[22] He stated further that the portability of KDS is also an advance yet the Appellant's work does not include development of compact software. It is dependent on someone else developing a tiny computer that would accept suitable software. It apparently has no idea when, where, how or if at all a suitable computer will be developed. He added that:
+
+... the factors of versatility because of multimedia knowledge representation, dedication to individual and personal use, portability, along with the features of speed, simplicity and low cost that go with modern PCs, all combine to make KDS a definite technological advance of very considerable interest.
+
+Again this is a curious comment in that the evidence was that KDS does not have the multimedia capacity, it is not versatile, not portable and far from being simple. How can it be simple when the experts have trouble understanding it.
+
+[23] Presently, only Mr. Leppik can retrieve information from KDS and there was no evidence that it has ever served a useful purpose for him. He chooses the key words used for entry and the entries are apparently of no value to another person. No one but Mr. Leppik can test KDS. After 10 years of recording entries, it would appear that the Appellant is no closer to its objectives[9] than it was at the outset. What the Appellant did was take existing technology, computer hardware and PacRat software, and record personal messages that cannot be understood or tested by anyone else but Mr. Leppik. This does not constitute SRED.
+
+[24] The issue is obviously complex. One expert opinion must prevail over the other. I find Dr. Matwin's reasoning more compelling. I share his view that any competent computer literate person could put together the components of KDS and make entries in a "knowledge base" using PacRat software.
+
+[25] I have attempted to briefly set out the approach taken by my colleague, Bowman J. in Northwest Hydraulic and apply those tests to the present facts.
+
+(a) Is there a technological risk or uncertainty that cannot be removed by routine engineering?
+
+I am not convinced there is an uncertainty. I accept Dr. Matwin's conclusion that the uncertainty can be solved by "techniques, procedures and data that are generally accessible to competent professionals in the field.[10] I agree with Dr. Matwin's conclusion that "...the development is well within the current technological standards and could be characterized as a standard technological process which means the absence of technological uncertainty".
+
+(b) Did the Appellant formulate hypotheses specifically aimed at reducing or eliminating this uncertainty?
+
+I agree with Dr. Matwin's position that there were several different hypotheses put forth. Without a clear supposition as a basis for investigation, it is difficult to evaluate the Appellant's project.
+
+(c) Were the Appellant's procedures in accordance with the scientific method?
+
+The scientific method requires systematic testing. Dr. Matwin found that the entries lacked the degree of formality and precision that would allow them to be the basis for software development.
+
+(d) Did the process result in a technological advance?
+
+The simple answer is no. Only Mr. Leppik can test KDS. Both experts agreed that further tests were needed to determine if KDS constituted an advance and to determine if others could benefit from it. Dr. Matwin emphasized that the technology used in KDS can be purchased at a computer store.
+
+(e) A detailed record of the hypotheses, tests and results are to be kept including as the work progresses. No one can retrace what Mr. Leppik has done nor measure what he has accomplished. Dr. Matwin wrote that the entries "lacked the degree of formality and precision that would allow them to be the basis for software development".
+
+[26] For research to be eligible for SRED, it does not necessarily have to be successful yet surely it cannot go on forever. There was little or no evidence that the Appellant was any closer to its objectives in the year 2000 than it was in 1991. Certainly, Mr. Leppik spent many hours on his project. If it was not scientific research, what was it? I believe it is closer to a hobby and a recreational activity or personal daily diary than SRED. Many of the entries are random thoughts stored for Mr. Leppik's own personal reasons. If after almost 10 years it cannot be tested by world-class computer scientists, I fail to see how the Appellant has satisfied the onus of proving that the KDS project is SRED.
+
+[27] I have dealt with the cases of Northwest Hydraulic and R.I.S. Christie being the only Court decisions referred to by either counsel in any detail. I have read the remaining six cases contained in the Joint Book of Authorities and find they are of little assistance to the present case. Having decided that the Appellant's activity is not SRED, there is no need to address the "Partial Agreed Statement of Facts". The appeals are dismissed, with costs.
+
+Signed at Ottawa, Canada, this 26th day of July, 2000.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] He is the controlling mind of the Appellant.
+
+[2] Exhibit A-5, page 1.
+
+[3] Exhibit R-2.
+
+[4] These entries into the KDS retrieval system are pages 25, 27, 28, 29 and 32 of Exhibit A-3.
+
+[5] Northwest Hydraulic Consultants Ltd. v. The Queen, 98 DTC 1839 at 1840-41.
+
+[6] The Appellant's hypothesis which is set out in the second paragraph of these reasons for judgment.
+
+[7] 99 DTC 5087 (F.C.A.).
+
+[8] R.I.S. Christie Ltd. v. The Queen, supra.
+
+[9] The Appellant's objectives remain somewhat unclear.
+
+[10] The definition of "routine engineering" by Bowman J. in Northern Hydraulic, page 1841.
+

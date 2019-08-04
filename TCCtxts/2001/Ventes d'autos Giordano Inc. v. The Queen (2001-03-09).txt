@@ -1,0 +1,272 @@
+Date: 20010309
+
+Docket: 1999-1170-GST-G
+
+BETWEEN:
+
+VENTES D'AUTOS GIORDANO INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] In 1995 and 1996, a smuggling ring was involved in purchasing luxury vehicles in Quebec and then reselling them, generally outside Canada, without remitting to the tax authorities the goods and services tax (GST) and the Quebec sales tax.[1] It is also possible that input tax credits (ITCs) were claimed in respect of vehicles that had been purchased without payment of any GST.
+
+[2] This case has many similarities with 9000-6560 Québec Inc. v. The Queen, 98-1936(GST)G (Chrysler St-Jovite), a case in which I rendered a decision recently. Both cases involve sales of expensive vehicles—usually sport utility vehicles (SUVs) such as Grand Cherokees—by car dealers to native persons. These natives resell the SUV to a numbered company and after one or more further resales, the SUV ends up with an export company. Unlike Chrysler St-Jovite, the instant case concerns not a car dealer at one end of a series of transactions but rather an export company, Ventes d'autos Giordano Inc. (GAS), at the other end.
+
+[3] The Minister has disallowed the claim made by GAS for ITCs with respect to 19 vehicles (19 vehicles) bought for resale mainly to a foreign buyer. More specifically, the Minister increased by an amount of $47,276.39[2] the net tax computed by GAS pursuant to subsection 225(1) of the Act for the period from September 1, 1995 to August 31, 1996 (relevant period). The Respondent submits that GAS is not entitled to the ITCs of $47 276.39 because it failed to pay GST at the time of acquisition of the 19 vehicles, contrary to the requirements of subsection 169(1) of the Act. That subsection reads as follows:
+
+169. (1) General rule for [input tax] credits — Subject to this Part, where property or a service is supplied to or imported by a person and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply or importation becomes payable by the person or is paid by the person without having become payable, the input tax credit of the person in respect of the property or service for the period is the amount determined by the formula
+
+A x B
+
+where
+
+A is the total of all tax in respect of the supply or importation that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+
+B is [. . .]
+
+[My emphasis.]
+
+[4] In assessing GAS, the Minister assumed inter alia that the car dealers had sold their vehicles to natives and that GAS had purchased its vehicles either from Mr. Alexandre Minassian carrying on business under the name of Centre Auto Marc et Mario Enr. (CAM) or from a corporation related to Mr. Minassian, 2844-7167 Québec Inc. (7167). However, at the hearing, the Respondent did not rely on these assumed facts but contended instead that the natives were acting as agents (prête-noms) for GAS when they purchased their vehicles from the car dealers. Given that no GST was remitted to the car dealers by the natives on behalf of GAS. GAS was not entitled to ITCs under subsection 169(1) of the Act.[3]
+
+[5] The Respondent further submitted, in the alternative, that section 274 of the Act, which lays down the general anti-avoidance rule (GAAR), applies to GAS's transactions because they are, in the Respondent's view, avoidance transactions within the meaning of that section. Finally, the Minister assessed interest and a penalty under section 280 of the Act.
+
+[6] GAS submitted that it was entitled to the ITCs under the Act because it had acquired taxable supplies in respect of which GST was payable and because it had satisfied all the other requirements of subsection 169(1) of the Act. GAS further submitted that all the transactions in question were carried out for bona fide purposes other than the obtaining of a tax benefit and that they did not constitute avoidance transactions. Even if they did, GAS argued, there was no tax benefit that could be denied because it had not received any such benefit. GAS also contested the penalty and interest.
+
+Facts
+
+GAS's version
+
+[7] GAS was incorporated in August 1994 by Vito Cusano to carry on the business of buying and selling new cars for export. The business was registered under section 240 of the Act. At the time, Mr. Cusano was employed by Fairview Lincoln Mercury (FLM) as manager of its leasing division. He started with FLM in 1989 and left in 1995. In the spring of 1995, Mr. Cusano was joined by a new partner, Mr. Johnny Di Girolamo, and they each held 50 percent of GAS's shares. Mr. Cusano had experience at the retail level, while Mr. Di Girolamo had experience at the wholesale level.
+
+[8] In the course of his leasing activities for FLM, Mr. Cusano had become acquainted with Mr. Ray Shaheen, the owner of American Trade International (ATI), an American company which was in the business of exporting cars to Holland, England, Poland, Russia and the Middle East. There was a market there for vehicles such as Grand Cherokees, Ford pickups and Dodge Caravans. GAS started buying such vehicles from car dealers in Canada for the purpose of selling them to ATI. However, manufacturers such as Chrysler Canada Limited (Chrysler Canada) quickly adopted a policy against the export of their vehicles manufactured for the Canadian market and took steps to ensure that their dealers complied with this policy. It then became almost impossible for GAS to buy SUVs from car dealers.
+
+[9] GAS consequently decided to use prête-noms such as "GAS Leasing", "GAS Holdings", Mr. Cusano himself and even members of his family to buy SUVs from car dealers. However, some dealers saw through these tactics and did not want to sell SUVs to companies pretending to be leasing companies.
+
+[10] Given the big demand for SUVs in Europe and the Middle East, GAS had to resort to obtaining such vehicles from secondary sources in order to supply ATI and began acquiring them from car brokers or wholesalers such as CAM and 7167. When an order came in, GAS would search the market to find the appropriate vehicle. It would call CAM to find out if it could supply the required SUV model, generally a Grand Cherokee. If CAM had such a vehicle available, a purchase contract between CAM and GAS would be entered into. This contract is described as a "wholesale dealer sale contract". Although Mr. Cusano described CAM as one of the brokers that GAS used to acquire vehicles for export, he emphasized that CAM was acting as a vendor and not as an agent for GAS. He stated that GAS used agents only when it initiated the purchase from the car dealers itself. This was not the case when CAM was involved.
+
+[11] The vehicles were usually delivered to Mr. Cusano's home or in the neighbourhood of FLM's premises. Mr. Cusano stated that the vehicles did not stay there more than one day, with the exception of those delivered to his home on a Friday night. In such cases, he would keep the vehicle for the weekend.
+
+[12] Of the 19 vehicles, 18 were bought from CAM and one from 7167 during the relevant period. GAS filed as exhibits the wholesale dealer sale contract for each of these 19 vehicles. It is important to note that CAM and 7167 sold more vehicles than the 19 in question. Based on the testimony of the first tax auditor (first auditor), at least 24 additional vehicles were sold to GAS by CAM and 7167. The first auditor confirmed that the ITCs for those 24 vehicles were not refused because GAS had paid CAM and 7167 directly while, in the case of the 19 vehicles, GAS paid the purchase price (or a substantial portion thereof) to third parties.
+
+[13] Mr. Cusano gave the following explanation concerning the payments made to third parties. First, he stated that it was at the request of CAM that GAS made such payments. Furthermore, it was in GAS's interest to do so since this would provide it with greater certainty that the vehicles were not stolen or subject to any lien. Mr. Cusano also said that he had not known Mr. Minassian for very long and that he was not comfortable giving him money when the SUVs were not delivered upon payment. He said that he had first met Mr. Minassian through Mr. Di Girolamo at a car wholesale auction. Before he started doing business with him, Mr. Cusano had made sure that CAM was a bonded, licensed dealer under provincial consumer protection legislation and that it was properly registered for GST purposes.
+
+[14] GAS would normally report the purchases and sales to the Société de l'assurance automobile du Québec (SAAQ). In the beginning, though, there may have been a few exceptions due to a lack of organization. Mr. Cusano thought, however, that GAS was not required to report these transactions to the SAAQ.
+
+[15] Mr. Cusano stated that the 19 vehicles sold in 1996 represented approximately 10% of GAS's gross sales and 6.3% the total number of vehicles sold for that year. Mr. Cusano also estimated that the vehicles exported by GAS in 1996 represented roughly 80 % of GAS's gross sales. This percentage increased to 95% for 1997.
+
+[16] Mr. Cusano also stated that he stopped doing business with CAM around the month of October 1996, sometime before Mr. Di Girolamo and he parted company. He found it very difficult to do business with Mr.Di Girolamo because the situation was quite messy. The amounts paid to the third parties at the request of Mr. Minassian were rarely equal to the amounts appearing on the invoices issued by CAM. Sometimes, the amounts paid were less while at other times they were slightly higher. According to Mr. Cusano, this way of doing business created tensions between CAM and GAS. Mr. Cusano stated that he has not seen Mr. Minassian again and that he does not know what has become of him.
+
+[17] GAS experienced financial difficulties in 1998 and 1999 which, according to Mr. Cusano, were due to the fact that the Minister had not paid the ITCs claimed by GAS. Apparently, GAS was owed between $130,000 and $200,000 by the tax authorities. GAS tried to operate its business through a line of credit. However, the situation became too difficult and GAS closed its business sometime in 1999.
+
+The Minister's version
+
+[18] Most of the audit work that led to the February 21, 1997 assessment against GAS was done by the first auditor. This auditor started the audit on July 10, 1996 and met with the taxpayer on August 6, 1996. Although GAS did not have the usual accounting records, such as a general ledger, purchase journals and sales journals, the first auditor recognized that it had all the proper records in separate files relating to the purchases and the sales of its vehicles. The first auditor also acknowledged that in the past GAS had not acted like a delinquent registrant and had generally complied with its tax obligations. Nor was Mr. Cusano's conduct that of a person who had committed tax evasion. He provided all the information that the auditor requested. The first auditor also audited the sales made by GAS to its foreign and Canadian customers and did not find any irregularities.
+
+[19] The first auditor realized that in the case of some of the purchases made by GAS from CAM, the purchase price was paid directly to CAM while in other instances it was paid either to car dealers or to a corporation called Gestion Bergeron (Gestion). The first auditor's audit revealed that GAS would often issue a cheque payable to the Royal Bank and then that bank would issue a bank draft payable to a car dealer or to Gestion. The bank draft amount could be lower than the cheque amount. On occasion, the difference between the two amounts was withdrawn in cash. The bank draft amounts were often equal to the amount payable by the native person for the purchase of an SUV from a car dealer. This was the case usually when the bank draft was payable directly to the car dealer and is not surprising since that was the amount owing by the native person to the car dealer. When the bank drafts were payable to Gestion, the amount would usually exceed the price paid by the native to the car dealer. Such bank drafts payable to Gestion would enable it to get another bank draft issued to the car dealer in payment of the price payable by the native person to the car dealer.
+
+[20] In the course of the audit, the first auditor obtained information from the SAAQ which provided the history of the transfer of the SUV from one registered owner to another. Generally, the SAAQ information establishes that each SUV was transferred from a car dealer to a native person, then to CAM, to GAS and finally to ATI or to another purchaser. A representative of the SAAQ gave testimony describing the process of registering vehicles. She confirmed that, as a general rule, the owner of a vehicle has to attend personally at an SAAQ office, unless represented by another person holding a written power of attorney signed by the owner of the vehicle. She also confirmed that the SAAQ limits itself to collecting the information provided by the persons seeking registration of vehicles. Finally, the date of registration corresponds to the date the person provides the information to the SAAQ.
+
+[21] The documents collected by the first auditor include, in some instances, the contract of sale between the car manufacturer and the car dealer and, in most cases, the contract between the car dealer and the native person and that between CAM and GAS. This documentary evidence establishes that a vehicle sold by a car dealer to a native person is resold first to CAM, then to GAS. These sales generally take place on the same day as or within two days of the sale by the car dealer to the native person. On occasion, they occur five to eighteen days after the initial sale by the car dealer. On four occasions, the date of the sale to the native person came after that of the sale by CAM to GAS (see Exhibits I-10, I-6, I-7 and I-12).
+
+[22] In the case of all 19 vehicles, the price paid by GAS was lower than the amount paid by the natives to the car dealers and, in at least three cases, the price paid by GAS was even lower than the cost to the car dealer. It should be mentioned that only five contracts between a car dealer and a manufacturer were filed as exhibits.
+
+[23] The 19 vehicles sold by CAM to GAS came from eleven different native persons or native companies, who had acquired them from eleven different car dealers. One of these dealers, À ma Baie Jeep Eagle (À ma Baie) sold five of the vehicles to five different natives. Mr. Daniel Lessard, a sales representative with À ma Baie testified at GAS's request. He stated that each of the five natives came to his garage after having called to inquire whether a particular vehicle was available for sale.
+
+[24] Upon agreement with the native person on the conditions of sale respecting the SUV, Mr. Lessard would request payment. He stated that he would never have allowed the delivery of an SUV unless it was paid for on delivery or beforehand by either a certified cheque or a bank draft. To satisfy himself that the native person qualified for the tax exemption under section 87 of the Indian Act, he would also obtain a copy of the native person's Indian Status Card and his driver's licence. He would then check with the Department of Indian and Northern Affairs to make sure that this person was a registered native.
+
+[25] Finally, Mr. Lessard would call Chrysler Canada to obtain its authorisation. If such authorisation was not obtained, there was a risk that a surcharge would be assessed against À ma Baie pursuant to Chrysler Canada's policy to prevent the export of its vehicles. He also confirmed that all vehicles sold by À ma Baie to native persons were delivered on a reserve. Evidence of such delivery, including the transportation invoice and sometimes a gas purchase invoice for the delivery, was kept in À ma Baie's files.
+
+[26] Mr. Lessard also stated that he was not aware that GAS had acquired the five vehicles shortly after their sale to the native persons or that GAS was in any manner involved in those sales of its vehicles to natives. He was unaware, for instance, that GAS had provided the necessary funds for the banks to issue the drafts in payment for these vehicles.
+
+[27] Counsel for the Respondent examined representatives of each of the eleven car dealers which sold the 19 vehicles to native persons. The great majority of them knew who Mr. Cusano, Mr. Di Girolamo and GAS were. Those who knew Mr. Cusano or Mr. Di Girolamo personally or by reputation all stated that they did not sell or remember having sold in the past any vehicle to GAS, except for one car dealer. The Respondent had called as a witness the Vice-President of À ma Baie, Mr. Pierre Legault, and Mr. Legault basically confirmed the information given by Mr. Lessard. Most of the other car dealer representatives also confirmed that they had followed a procedure similar to that described by Mr. Lessard. Some of these representatives stated that they could not sell a car below its cost to them and that they could not understand how GAS could have achieved this. One of them suggested that money might have been paid under the table.
+
+[28] In most cases, the bank drafts issued by the Royal Bank that were used to pay the car dealers are the only evidence which links GAS to the sales by the car dealers to natives persons. However, there are at least three exceptions. On the back of one of the contracts between a car dealer (Maisonneuve Chrysler) and a native corporation we find the signature of Mr. Cusano, who acknowledges delivery of a Grand Cherokee. With respect to the sale of a Grand Caravan to a native person (described in Exhibit I-1), there is a cheque for $250 made out to Mr. Di Girolamo by the car dealer (Impact Dodge Chrysler). Mr. Brisebois, the owner of this car dealership, acknowledged during his examination by counsel for the Respondent having paid the $250 but said that this had been done because Mr. Di Girolamo had stated that that amount "represented his profit", and that the native purchaser was apparently aware of this arrangement. He also confirmed that the vehicle had been delivered on a reserve. Finally, with respect to the sale of a Ford F-350 by Formule Ford Inc. (described in Exhibits I-13 and I-24), there is a bank deposit slip (Exhibit I-25) of the car dealer's showing the name of Mr. “Vito Casano” (presumably Cusano) together with the name of Mr. “Donald Caya” (presumably Donald Cayer, who was the native purchaser of the Ford truck). This evidence seems to indicate that GAS may have been involved more than Mr. Cusano is prepared to acknowledge.
+
+[29] Before the assessment was completed, the first auditor took a leave of absence. The assessment was issued by a second auditor (second auditor), who also testified. Prior to issuing the assessment on February 21, 1997, this auditor granted additional ITCs in respect of vehicles purchased by GAS for which payment had been made directly to CAM and in respect of a vehicle which had not been the subject of an upstream sale to a native person.
+
+[30] When asked to summarize the basis for the Minister's assessment, the first auditor stated that the natives were acting as agents for GAS and, since no GST was paid by them to the car dealers, the requirements of subsection 169(1) of the Act had not been met. The facts supporting this conclusion are the following:
+
+1. Payments made by GAS were made to the car dealers or to Gestion, which was only acting as an intermediary between GAS and the natives (a "transitory account" in the words of the first auditor).
+
+2. The money used by the natives to pay the car dealers came from downstream, i.e. from GAS.
+
+3. There was quick turnover of the vehicles between the car dealers, the natives, CAM and GAS, and sometimes the contracts between CAM and GAS were dated before the dates of the sales between the car dealers and the natives.
+
+4. All the purchase prices allegedly paid by GAS to CAM were lower than the amounts paid by the natives and, on at least three occasions, were lower than the cost to the car dealers.
+
+[31] In an obvious response to my comments made prior to the beginning of the hearing, the first auditor stated that it was the policy of the Minister not to allow ITCs pursuant to subsection 169(1) of the Act when the Minister was of the view that a registrant had not paid GST on its purchases. The Minister would only apply section 165 to cases where purchases were made by persons who were not registrants. This auditor also noted that GAS benefited by the Minister's assessing pursuant to subsection 169(1) of the Act. If he had applied section 165, the assessed amount would have been higher by $4,298: $51,574 instead of $47,276.[4]
+
+[32] Also, in reply to my pre-hearing comments, I think, the first auditor offered another ground, in case subsection 169(1) of the Act did not apply, for denying the ITCs claimed by GAS. This auditor stated that GAS had not complied with subsection 169(4) of the Act, which provides that a registrant may not claim an ITC unless, before filing its return, that registrant has obtained sufficient evidence containing information that would enable the ITC amount to be determined, including any information as may be prescribed by regulation. The auditor noted that the invoices did not show any GST having been collected by the car dealers.
+
+[33] Alternatively, the first auditor stated that the 19 vehicles had been acquired as part of a scheme structured to obtain ITCs when no GST was being paid by GAS, and therefore section 274 of Act applied.
+
+[34] The first auditor did not perform any audit of CAM, Gestion, the natives or the car dealers and did not even contact representatives of Gestion. This auditor did not know whether the native persons were registered under the Act, even though the evidence disclosed that some of the eleven native or native corporation purchasers of the 19 vehicles purchased more than one vehicle. Actually, four of them purchased more than one vehicle and three purchased at least three vehicles. Neither did the first auditor know whether these native persons and the car dealers had been assessed for failure to collect GST on the sale of the 19 vehicles.
+
+[35] At the hearing, it was disclosed that at least one car dealer was assessed, namely Maisonneuve Chrysler. Mr. Perreault, its president, stated that his company had been assessed with respect to failure to collect GST on sales made to native persons and a native corporation. In the latter case, it was determined that the corporation had not obtained a proper mandate from the Indian band in compliance with the policy of the Minister. It seems that at least four car dealers were not assessed by the Minister; they are: Goyer Pontiac, Formule Ford Inc., Pointe Claire Chrysler and À ma Baie.
+
+Mr. Cusano's explanations
+
+[36] Mr. Cusano acknowledged that his signature appears on the back of a contract of sale between Maisonneuve Chrysler and a native corporation. He explained that circumstance as follows. He said that GAS had prepaid the purchase from CAM of a Grand Cherokee to be delivered at a later date. The delivery did not take place as planned because CAM did not have time to send its "jockeys" (i.e. the delivery men) to take delivery of the SUV in Quebec City, where Maisonneuve Chrysler was located. Mr. Cusano was very concerned and he decided to drive the jockeys to Quebec City himself. As the jockeys did not want to sign an acknowledgement of delivery of the vehicle, Mr. Cusano agreed to do so. He stated that the SUV was delivered later that night at his home. However, Mr. Cusano claimed rather surprisingly that he was not aware that this vehicle was being sold by Maisonneuve to a native corporation.
+
+[37] In Mr. Cusano's view, the price paid by GAS for the purchase of the 19 vehicles from CAM and 7167 represented their fair market value. He added that, as in any other car sales sectors, the price paid for the 19 vehicles fluctuated depending on the demand for such vehicles. According to him, if CAM could have obtained more for these vehicles than was paid by GAS, it would have done so either by selling them at an auction or by selling them to purchasers other than GAS.
+
+Analysis
+
+[38] The first question to be decided is: who bears the burden of proof in this appeal? Who has the burden of establishing or demolishing the facts supporting the assessment? The rules governing the burden of proof have been laid down in numerous court decisions. In my view, the two most relevant ones here are M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184 and Brewster v. The Queen, 76 DTC 6046. In Pillsbury Holdings, Cattanach, J. refers at page 5188 to the
+
+decision of the Supreme Court of Canada in Johnston v. M.N.R., [1948] S.C.R. 486 (3 DTC 1182) and in particular to this dictum of Rand, J., who delivered the reasons of the majority:
+
+. . . Every such fact found or assumed by the assessor or the Minister must then be accepted as it was dealt with by these persons unless questioned by the appellant.
+
+[39] Cattanach, J. then describes how the taxpayer, who was the Respondent in that case, could have met the Minister's pleading:
+
+. . . The respondent could have met the Minister's pleading that, in assessing the respondent, he assumed the facts set out in paragraph 6 of the Notice of Appeal by:
+
+(a) challenging the Minister's allegation that he did assume those facts,
+
+(b) assuming the onus of showing that one or more of the assumptions was wrong, or
+
+(c) contending that, even if the assumptions were justified, they do not of themselves support the assessment.
+
+(The Minister could, of course, as an alternative to relying on the facts he found or assumed in assessing the respondent, have alleged by his Notice of Appeal further or other facts that would support or help in supporting the assessment. If he had alleged such further or other facts, the onus would presumably have been on him to establish them . . .).
+
+[My emphasis.]
+
+[40] In Brewster, a decision of the Federal Court of Canada - Trial Division, Gibson J. adopts essentially a similar approach at page 6049, where he states:
+
+Pleading assumptions in the alternate is novel in view of the state of the law. In law the onus is on the taxpayer to destroy some or all of the assumptions. But it is open to the defendant to plead other facts not relied [on] in making the assessments or re-assessments, but in that event, the onus is on the Minister of National Revenue to prove such other facts.
+
+[41] Here, the Respondent is supporting the Minister's assessment with facts different from those which were assumed at the time of the assessment. In assessing GAS, the Minister had assumed that the car dealers had sold the vehicles to native persons. Before this Court, however, the Respondent changed her position and argued that the car dealers had sold the 19 vehicles to native persons acting as agents for GAS. It is therefore clear that it is the Respondent who has the burden of establishing the facts supporting the assessment, that is, not only those in support of the assessment as based on sections 169 and 225 of the Act but also those in support of the assessment as based on section 274 of the Act.
+
+[42] Unfortunately for the Respondent, I do not believe that the facts assumed by the Minister at the time of the assessment or those alleged by the Respondent before this Court can support the assessment. I will now detail my reasons for this conclusion.
+
+The assessment as based on subsection 169(1) of the Act
+
+[43] The assessment made by the Minister is really based on subsections 225(1) and 169(1) of the Act. Subsection 225(1) reads as follows:
+
+225. (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+
+A - B
+
+where
+
+A is the total of
+
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+
+B is the total of
+
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+
+[My emphasis.]
+
+[44] The ITCs are to be computed pursuant to subsection 169(1) of the Act, which I have cited above. The Minister contends that GAS did not pay any GST upon the acquisition of the 19 vehicles from the car dealers and is therefore not entitled to the ITCs. In my view, the Minister is misapplying subsection 169(1) of the Act. Whether we consider that GAS purchased its 19 vehicles from CAM or whether, as is alleged by the Respondent, GAS purchased those vehicles from the car dealers through the agency of the natives, GST was "payable" with respect to all the vehicles. GAS does not qualify for any exemption under the Act or under the Indian Act and GST was payable with respect to the supplies it acquired from whatever supplier. And that is all that is required under subsection 169(1) of the Act. The fact that GST may not have been paid is irrelevant. The wording of subsection 169(1) is clear. Therefore, it is not necessary to decide whether the 19 vehicles were bought from CAM or from the car dealers. In either event, GST was payable and GAS is entitled to the ITCs refused by the Minister.
+
+[45] Both the first auditor and counsel for the Respondent also took the position that GAS is not entitled to the ITCs because it did not meet the requirements of subsection 169(4) of the Act, which reads as follows:
+
+(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+
+(b) where the credit is in respect of real property supplied by way of sale to the registrant in circumstances in which subsection 221(2) applies, the registrant has filed the return required under subsection 228(4) to be filed with respect to the supply.
+
+[My emphasis.]
+
+[46] Again, I believe that the Respondent is mistaken. This subsection requires that the registrant claiming ITCs have obtained before filing its return (in which the ITCs are claimed) sufficient information to enable the amount fo the ITCs to be determined. Here, the evidence discloses that GAS obtained an invoice for each of the 19 vehicles that were bought from CAM. The information contained on those invoices is, in my view, sufficient to determine the amount of the ITCs that could be claimed in respect of the 19 vehicles.
+
+[47] Even if I were to assume that, as is alleged by the Respondent, the native persons were acting as agents for GAS in purchasing the 19 vehicles, the invoices issued by the car dealers would then become the invoices for GAS. Those invoices provide sufficient information to determine the ITC amount that could be claimed by GAS. The only information which does not appear is the amount of GST paid. That is not surprising because the car dealers thought that they were selling the vehicles to native persons and that those persons were entitled to a tax exemption pursuant to section 87 of the Indian Act. Therefore, in my view, the requirements of subsection 169(4) of the Act have been satisfied here. Given that no other ground has been advanced for disqualifying GAS from claiming ITCs under subsection 169(1) of the Act, I conclude that GAS was entitled to ITCs with respect to the 19 vehicles.
+
+The assessment as based on section 274 of the Act
+
+[48] In the alternative, the Respondent relied on the application of the GAAR in section 274 of the Act to support the Minister's assessment of GAS. That section reads in part as follows:
+
+274(1) Definitions — In this section,
+
+"tax benefit" means a reduction, an avoidance or a deferral of tax or other amount payable under this Part or an increase in a refund or rebate of tax or other amount under this Part;
+
+"tax consequences" to a person means the amount of tax, net tax, input tax credit, rebate or other amount payable by, or refundable to, the person under this Part, or any other amount that is relevant to the purposes of computing that amount;
+
+"transaction" includes an arrangement or event.
+
+274(2) General anti-avoidance provision
+
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that include that transaction.
+
+274(3) Avoidance transaction
+
+(3) An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result directly or indirectly in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+274(4) Provision not applicable
+
+(4) For greater certainty, subsection (2) does not apply in respect of a transaction where it may reasonably be considered that the transaction would not result, directly or indirectly, in a misuse of the provisions of this Part or in an abuse having regard to the provisions of this Part (other than this section) read as a whole.
+
+[. . .]
+
+[49] In my view, for the purposes of this appeal the key words in section 274 are those that I have underlined above. For subsection 274(2) to apply, there must be a tax benefit that, but for that section, would result, directly or indirectly, from a transaction or from a series of transactions that include that transaction. In the definition of an "avoidance transaction" found in subsection 274(3) of the Act, we find the same key words: an "avoidance transaction" means any transaction that, "but for this section", would result, directly or indirectly, in a tax benefit. In my view, it is clear that the GAAR is a provision of last resort and is meant to apply only when all other provisions of the Act have failed to prevent a person from enjoying a tax benefit under Part IX of the Act that would constitute an abuse. The GAAR in section 274 is similar to the one found in section 245 of the Income Tax Act (Tax Act). An historical analysis of the amendments to the Tax Act reveals that the GAAR was adopted after the Minister had failed on many occasions to prevent taxpayers from enjoying undue tax benefits. Those taxpayers complied with all the relevant provisions of the Tax Act and there was no specific rule to disqualify them from enjoying those undue benefits.
+
+[50] Here, there is one provision that could have been applied by the Minister to prevent GAS from enjoying the alleged tax benefit and it is found in Division II of Part IX of the Act. That provision is subsection 165(1), the charging provision, which reads as follow:
+
+165. (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada a tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+
+[51] The power of the Minister to issue an assessment under subsection 165(1) is conferred by paragraph 296(1)(b) of the Act, which reads as follows:
+
+296. (1) The Minister may assess
+
+. . .
+
+(b) any tax payable by a person under Division II or IV,
+
+. . .
+
+and may reassess or make an additional assessment of tax, net tax, penalty, interest or an amount referred to in paragraph (d) or (e).
+
+[52] Furthermore, pursuant to paragraph 298(1)c) of the Act, the Minister has the power to issue such an assessment of tax payable under Division II within a period of four years after the tax became payable. Therefore, if the Minister believed that GAS purchased the 19 vehicles from the car dealers through the agency of the native persons and that it was liable to pay GST on the price paid by the native persons to the car dealers, he should have assessed GAS under section 165 of the Act. During argument, counsel for the Respondent mentioned no statutory impediment to using section 165 of the Act in this case, and I personally know of none. There is absolutely no need to rely on section 274 of the Act to collect the GST in the circumstances of this case. Had the Minister assessed GAS under section 165, he would have collected more in taxes than he stood to gain by disallowing the ITCs claimed by GAS on its purchase of the 19 vehicles from CAM. This is one more reason to apply the relevant provision of the Act. Not only would it be inappropriate to apply section 274 to the facts of this case, but it would, in my opinion, be a misuse or an abuse of the provision itself.
+
+[53] Given that the Respondent did not at any time move to amend the Notice of Appeal or attempt to defend the Minister's assessment on a different basis, such as by relying on section 165 of the Act—as she was entitled to do pursuant to subsection 298(6.1) of the Act—it would be inappropriate for me to consider any such different basis. As Bastarache, J. stated in The Queen v. Continental Bank of Canada, 98 DTC 6501, 6505, taxpayers are entitled to know the proper basis on which they are being assessed:
+
+[32] Taxpayers must know the basis upon which they are being assessed so that they may advance the proper evidence to challenge that assessment. Here, it is not clear that there is the proper factual basis to support a reassessment on the basis proposed by the appellant.
+
+[54] Furthermore, in my view, not only are taxpayers entitled to know the basis on which the Minister is relying to support the assessment, but they are entitled to receive this knowledge in advance of the hearing of their appeal so that they have sufficient time to prepare adequately in order to be able to attack the Minister's position. Here, counsel for GAS insinuated that a postponement of the hearing might have been required if the Respondent had moved to amend the Reply to the Notice of Appeal and had I allowed such amendment at such a late stage.
+
+[55] In retrospect, I believe this is a case where the Appellant could have moved to strike out the pleadings of the Respondent pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) because they did not disclose any reasonable grounds for upholding the Minister's assessment of GAS, and asked that the appeal be allowed. Had that been done, we would have avoided five days of hearings.
+
+[56] For all of these reasons, GAS's appeal is allowed with costs and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that GAS is entitled not only to the ITCs that it claimed with respect to the 19 vehicles (that is, $47,276) but also to the amount that was erroneously disallowed by the Minister (that is, the $22,576.92).
+
+Signed at Ottawa, Canada, this 9th day of March 2001.
+
+"Pierre Archambault"
+
+J.T.C.C.
+
+[1] In the province of Quebec, the Quebec Minister of Revenue is responsible for the administration of the Act respecting the Quebec Sales Tax and also, on behalf of the Minister of National Revenue (Minister), for the administration of the Excise Tax Act (Act).
+
+[2] Actually the amount was $69,853.31, but during the hearing it was admitted by counsel for the Respondent that the amount of disallowed ITCs should have been $47,276.39. Therefore GAS is at least entitled to additional ITCs of $22,576.92.
+
+[3] Before the beginning of the hearing, I indicated to counsel for the Respondent that I did not see how the Respondent could rely on subsection 169(1) of the Act given that a registrant is entitled to an ITC when it acquires property in respect of which tax is "payable" under the Act. I suggested that the provision does not require that tax have been "paid" for a person to qualify for the ITC. I indicated that if the Respondent thought that GAS had purchased the 19 vehicles directly from the car dealers, GAS could have been assessed under section 165 of the Act. However, counsel for the Respondent stood by their position and did not propose to consent to judgment in favour of GAS nor did the Respondent attempt to amend the Reply to the Notice of Appeal so as to advance a new ground for this Court to uphold the Minister's assessment. At no time during the hearing of this appeal did the Respondent attempt to defend the assessment on the basis of section 165 of the Act. It should be noted that the Act was amended by S.C. 2000, c. 30, 89(4) and (5) to add subsection 298(6.1), applicable to an appeal disposed of after the day on which the amending Act was assented to, regardless of when the appeal was instituted. The amending Act received Royal Assent on October 20, 2000, five weeks before the hearing of this case started. Subsection 298(6.1) reads as follows:
+
+(6.1) Alternative argument in support of assessment — The Minister may advance an alternative argument in support of an assessment of a person at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
+
+(a) there is relevant evidence that the person is no longer able to adduce without leave of the court; and
+
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+
+[4] The total paid by the natives to the car dealers was $736,777 while the total paid by GAS to CAM was $675,377. So 7% X $736,777 = $51,574.42 and 7% X $675,377 = $47,276.39.
+

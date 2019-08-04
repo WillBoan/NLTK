@@ -1,0 +1,320 @@
+Date: 20020417
+
+Docket: 1999-489-IT-G
+
+BETWEEN:
+
+GENERAL MOTORS OF CANADA LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor judgment
+
+BOWIE J.
+
+[1] This appeal is from an assessment for income tax for the taxation year 1989. The point in issue is a narrow one, and turns entirely on the meaning to be given to a transitional provision found in P.C. 1989-2464 (SOR/90-22), which amended subsection 1100(2) of the Income Tax Regulations. That amendment extended the so-called half-year rule to property in class 12, for taxation years ending after 1987. However, it included a transitional provision by which certain property was grandfathered. The Appellant claims the benefit of that grandfathering provision. It reads:
+
+24(2) Subsection 1(6) is applicable in respect of property acquired by a taxpayer after 1987 other than property acquired by the taxpayer before 1990
+
+(a) pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
+
+(b) that was under construction by or on behalf of the taxpayer on June 18, 1987, or
+
+(c) that is a fixed and integral part of property under construction by or on behalf of the taxpayer on June 18, 1987.
+
+24(2) Le paragraphe 1(6) s'applique aux biens acquis par un contribuable après 1987, à l'exclusion de ceux qu'il a acquis avant 1990 et, selon le cas:
+
+a) qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987;
+
+b) dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
+
+c) qui sont une partie fixe et intégrante d'un bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+
+[2] The facts giving rise to the appeal are not in dispute. The Appellant (GMCL) is a wholly-owned subsidiary of General Motors Corporation (GMC), a public company incorporated in the United States of America. GMC is a vast company, organized into various divisions, each with its separate product lines. Although GMCL is a separate corporate entity, it is treated for internal management purposes as though it were a division of GMC. GMC, through various divisions, and GMCL are in the business of manufacturing and selling motor vehicles. For many years Canada and the U.S.A. have formed a common market for automobiles. The varied product line of the companies is manufactured at a number of different plants throughout Canada and the U.S.A., with the production of each plant being distributed in both countries. In this way GMC and GMCL achieve economies of scale and uniformity in production.
+
+[3] The manufacture of automobiles requires that numerous parts be fabricated and delivered to the factories for incorporation into the automobiles being assembled there. Some parts are manufactured at GMCL and GMC factories throughout Canada and the United States. Many of them are made by arm's length suppliers and sold to GMCL and GMC. In either case the manufacturing process involves the use of dies and moulds for the forming of metal and plastic parts. These dies and moulds are collectively referred to as "special tooling". The special tooling is bought or manufactured by GMC or one of its subsidiaries, and the ownership of it invariably remains within the General Motors organization, even though in many cases it is physically located and used at the plant of an independent supplier of parts. Before 1987, GMCL used some parts manufactured using special tooling owned by GMC in its assembly plants, and it paid GMC for the use of the special tooling on a pro rata basis. Similarly, GMC paid GMCL for the use of tooling owned by it and used to produce parts for GMC plants. In December 1987, GMC and GMCL replaced this arrangement with an agreement whereby each would sell to the other an undivided interest in its special tooling, the proportional interests to be based upon the proportion of the parts to be produced for each of them by the use of that tooling. It is the interest owned by GMCL of special tooling first acquired by GMC for which the Appellant claims the exemption provided by the grandfather clause.
+
+[4] In the early 1980s, the decision was taken by GMC to replace its "A" cars with a new line of mid-size cars to be produced beginning with the 1988 model year. The first vehicles were to be produced in the latter part of 1987. The design and development of that new line was known as the GM-10 Project. The evidence as to the capital expenditure review and approval process for this project within the GMC organization, and the arrangements made between GMC and GMCL concerning ownership of, and access to, the special tooling is well summarized in paragraphs 4 to 30 of the Appellant's written submissions. None of that evidence was challenged, and so I reproduce those paragraphs in their entirety here.
+
+(a) Origins of GM-10 Project
+
+4. The GM-10 Project was conceived in the early 1980's. General Motors Corporation ("GMC") recognised that the mid-size automobiles that it was then producing, known as "A" cars, were coming to the end of their life cycle. Thus it was necessary to design and develop a new generation of mid-size vehicles to replace the "A" cars. That was the mission of the GM-10 Project.
+
+5. The lead time for production of a new model of vehicle is substantial. In the case of the GM-10 Project, design and development began in the early 1980's for the new vehicles which were scheduled to, and did, begin to roll out of the assembly plants in the latter part of 1987 for the 1988 model year.
+
+6. The capital expenditures required for the design and development of the new vehicles, for renovating and constructing assembly and fabrication facilities and for acquisition of the necessary assembly and component tooling were on the order of the US $8 billion.
+
+7. The GM-10 Project itself, and the major capital expenditures which it entailed, were authorised at the highest levels of the General Motors organisation, namely by the GMC Board of Directors and/or by its two key standing committees, the Executive Committee and the Finance Committee.
+
+8. From at least as early as 1984, it was determined that two of the four models to come out of the GM-10 Project were to be assembled at the Oshawa #1 and Oshawa #2 Assembly Plants of General Motors of Canada Limited ("GMCL).
+
+(b)General Motors' Capital Expenditure Authorization Process
+
+9. Substantial capital expenditures by any operating entity within the General Motors organisation must be reviewed and approved at senior governance levels within General Motors. Final approval of substantial capital expenditures comes from the Finance Committee of the Board of Directors of GMC. The membership of the Finance Committee includes the Chairman of GMC, the Executive Vice President/Chief Financial Officer and other directors, both inside (i.e. members of senior GMC management) and outside.
+
+10. Approval of a capital expenditure by the Finance Committee means that GMC is committed to making the necessary funds available and the operating entity, which sought and obtained the approval, is committed to carrying out the project as approved.
+
+11. The capital expenditure review and approval process is initiated by the operating entity within General Motors which is seeking the approval. That operating entity prepares an Appropriation Request which sets out, in some detail, the nature, purpose and elements of the proposed expenditure with appropriate backup information and documentation. The Appropriation Request then goes through a series of levels of review and approval, the extent of which depends upon the amount being requested. The Appropriation Requests in evidence at this proceeding all received final approval at the Finance Committee of GMC's Board of Directors.
+
+12. A particular Appropriation Request from a particular operating entity within the General Motors organisation is not initiated, reviewed or approved in isolation. It represents part of the implementation of a corporate strategy previously approved by the Board of Directors or Executive Committee of GMC. Thus the person in charge of the operating entity would face serious consequences, including dismissal, for failure to carry out a project in accordance with an approved Appropriation Request. Cancellation of or significant change to a project which is the subject of an approved Appropriation Request must itself be approved at the appropriate level in the General Motors organisation. Such a cancellation or significant change would be reflected in a further Appropriation Request which would be subject to review and approval in a similar fashion, and at similar levels in the organisation, as was the case with the original request.
+
+(c) Capital Expenditure Commitments for GMCL's Participation in the GM-10 Project
+
+13. The capital expenditure approval process, as described in the following paragraphs, demonstrates that GMCL was committed to participating in the GM­10 Project from at least 1984. By 1985, at the latest, GMCL was committed to renovating, reconfiguring and re-equipping the Oshawa #2 and Oshawa #1 Assembly Plants so that they would be in a position to assemble GM-10 automobiles at those plants beginning in the 1988 and 1989 model years respectively.
+
+14. On February 17, 1984, GMCL initiated an Appropriation Request for US $185.7 million to construct a new stamping plant to produce sheet metal parts (e.g. door panels, hoods) to serve the two Oshawa Assembly Plants. That Appropriation Request was approved by the GMC Finance Committee on July 2, 1984.
+
+15. In a report to the Finance Committee dated August 17, 1984, the Chairman of GMC outlined the anticipated capital expenditures for the GM-10 Project, then expected to be on the order of US $6.9 billion. Of that amount, approximately US $1 billion was to be spent in 1985, and US $2.8 billion in each of 1986 and 1987.
+
+16. On November 26, 1984, GMC's Executive Vice President/Chief Financial Officer prepared a report to the Finance Committee seeking approval of an expenditure of US $444 million to produce stamping dies, a type of tooling, for production of GM-10 car bodies in all of the assembly plants participating in the GM-10 Project. That request was approved by the Finance Committee on December 3, 1984.
+
+17. In October and December, 1984 and January, 1985, GMCL and the Chevrolet-Pontiac-Canada operating division, of which GMCL was a part, initiated four Appropriation Requests with respect to the GM-10 Project:
+
+a) Appropriation Request for US $132.4 million in respect of the establishment of sheet metal fabrication facilities in the Oshawa Car Body plants;
+
+b) Appropriation Request for US $437.7 million to convert the Oshawa #2 Assembly Plant from the "A" cars then being assembled there to the GM-10 cars to be assembled beginning in 1987 for the 1988 model year;
+
+c) Appropriation Request for US $351.6 million to convert the Oshawa #1 Assembly Plant from the "A" cars then being assembled there to the GM-10 cars to be assembled beginning in 1988 for the 1989 model year; and
+
+d) Appropriation Request for US $455.7 million for body and chassis assembly tooling to produce GM-10 cars at a number of assembly plants including Oshawa #2.
+
+18. These four Appropriation Requests, totalling almost US $1.4 billion, were forwarded to the Finance Committee with a report of GMC's Executive Vice President/Chief Financial Officer dated January 28, 1985. They were approved by the Finance Committee on February 4, 1985.
+
+19. On April 26, 1985, GMC's Executive Vice President/Chief Financial Officer reported to the Finance Committee on an Appropriation Request from the Chevrolet-Pontiac-Canada Division for US $186 million for equipment and tooling required to fabricate body panels for certain 1988 models of the GM-10 vehicles and for tooling to be provided to outside suppliers of body and chassis components. The Appropriation Request was approved by the Finance Committee on May 6, 1985. Tooling comprised US $131.2 million of the request.
+
+20. On August 21, 1985, the Chevrolet-Pontiac-Canada Division initiated an Appropriation Request in the amount of US $266.2 million for facilities and tooling required to produce one of the 1989 GM-10 models to be assembled in Oshawa. US $191.6 million of this request was for tooling. The request was reported to the Finance Committee by GMC's Executive Vice President/Chief Financial Officer on September 30, 1985 and approved by the Finance Committee on October 7, 1985.
+
+21. On January 24, 1986, GMC's Executive Vice President/Chief Financial Officer reported to the Finance Committee on Appropriation Requests from the Fisher Guide Division of GMC and from the Chevrolet-Pontiac-Canada Division, both relating to the GM-10 Project. The requests totalled US $850.3 million of which US $671.3 million was for tooling, both at General Motors facilities and at the facilities of outside component suppliers. Both requests were approved by the Finance Committee on February 3, 1986.
+
+(d) GMCL's Commitment to Assemble GM-10 Vehicles
+
+22. By early February, 1985 (following approval of the Appropriation Requests referred to in paragraphs 17 to 21, above), GMCL and the Chevrolet-Pontiac-Canada Division had sought and obtained approval from GMC, and had received corresponding funding commitments, to strip the interiors of the Oshawa #1 and Oshawa #2 Assembly Plants completely, to renovate, reconfigure and re-equip them, and to construct and equip related facilities in Oshawa, notably a new stamping plant and sheet metal fabrication facilities, for the purpose of assembling the particular models of GM-10 vehicles which were assigned to the Oshawa Assembly Plants.
+
+23. By that point in time, it was not open to GMCL to decide that it did not wish to proceed with assembly of the new models at the Oshawa Assembly Plants. Had GMCL not secured from GMC the mandate to assemble the Buick Regal and Chevrolet Lumina at Oshawa, and had it failed to carry out that mandate, the Oshawa Assembly Plants and related fabrication facilities would have stood idle, following the introduction of the new mid-size vehicles coming out of the GM-10 Project, and the employees working at those operations would have been laid off.
+
+24. Thus, no later than February, 1985, as a result of the approval by GMC's Finance Committee of the Appropriation Requests initiated by GMCL and the Chevrolet-Pontiac-Canada Division, GMCL was unequivocally committed to the assembly of the Chevrolet Lurnina and Buick Regal models at the Oshawa #2 and Oshawa #1 Assembly Plants, respectively, beginning with the 1988 and 1989 model years, respectively, with production beginning in the latter part of 1987 and 1988, respectively.
+
+25. The construction, renovation, reconfiguration and re-equipping of the facilities comprising the GMCL Autoplex commenced in 1984 and proceeded, in accordance with the schedules appended to the corresponding Appropriation Requests, until 1988.
+
+(e) Implications for GMCL Access to Component Tooling
+
+26. For GMCL to carry out the mandate assigned to it of assembling the Chevrolet Lumina and Buick Regal models, it needed to be assured of supplies of the components and sub-assemblies which would be inputs to the assembly operations at the Oshawa Assembly Plants to produce finished vehicles in Canada.
+
+27. General Motor's sourcing of components and sub-assemblies was and is integrated across North America, as are its vehicle assembly operations. Thus, particular components used in some or all GM-10 models might be manufactured by only one or two component suppliers located anywhere in North America. Those component suppliers might be General Motors operations, in Canada or in the US, or they might be outside suppliers unrelated to the General Motors organisation. In either case, the tooling required to produce the components is always owned by a General Motors entity.
+
+28. Thus, GMCL required access to the component tooling, wherever located, such that it was entitled to have the tooling used to produce the components and sub-assemblies required as inputs to the assembly process at the Oshawa #1 and Oshawa #2 Assembly Plants. Without such entitlement, GMCL could not have fulfilled its commitment to assemble the Chevrolet Lumina and Buick Regal models of the new GM-10 vehicles in Canada.
+
+29. From the inception of the GM-10 Project, the required tooling was designed and manufactured to meet the needs of GMCL, as well as the needs of the US assembly and fabrication facilities involved in the manufacture of the vehicle models coming out of the GM-10 Project.
+
+30. By letter agreement, executed by GMCL on December 11, 1987 and by GMC on December 23, 1987, GMCL and GMC agreed that each would acquire from the other an undivided interest in special tools initially purchased by the other, such undivided interest to be in proportion to the number of parts produced by the particular tool expected to be purchased by the party acquiring the undivided interest. GMCL and GMC further agreed that each would be entitled to use the other's undivided interest in such special tools.
+
+[5] The assumptions of fact underlying the assessment are found in paragraph 8 of the Reply. Of the 27 subparagraphs found there, some are redundant, and many are either entirely or substantially conclusions of law. The following, however, are assumptions of fact that have not been displaced by the evidence:
+
+8. In so assessing the Appellant, the Minister made, inter alia, the following assumptions:
+
+a) the Appellant is a Canadian based subsidiary of GMC, a U.S. based corporation;
+
+b) the two corporations were not dealing at arms length;
+
+c) prior to December 11, 1987, GMC acquired, developed and owned its own special tooling located in the U.S. ("GMC Tooling") and the Appellant acquired, developed and owned its own special tooling located in Canada ("GM Canada Tooling");
+
+d) special tooling is the cutting or shaping parts in a machine;
+
+e) as the Appellant did not own GMC's U.S. based tooling, GMC allocated a portion of the cost to the Appellant based on the projected usage of the tooling located in the U.S. and calculated on the basis of the number of pieces the tooling would produce for the Appellant relative to the total number of parts to be produced by that tooling over its life;
+
+f) GMC allocated a portion of the cost of its 1987 tooling to the Appellant in 1987 based on the formula described in subparagraph 9(e) supra;
+
+g) for accounting purposes, the allocation for tooling supplied to the Appellant was treated as a ongoing cost and was amortized over the model life based on production from that tooling each year (usually about 4 years);
+
+h) similarly for tax purposes, the Appellant deducted these amounts in its computation of income as incurred, resulting in a deduction of its share of expense over the life of the tooling (generally 4 years). This method was consistently followed by the Appellant and its parent until December 11, 1987;
+
+i) this method, for both accounting and tax purposes, was reflected in the GM 10 Project which began in early 1984 in which GMC and the Appellant participated;
+
+j) in the GM 10 project, it was agreed that GMC would manufacture the Oldsmobile Cutlass Supreme and the Pontiac Grand Prix and the Appellant would manufacture the Buick Regal and the Chevrolet Lumina, each corporation to own its own tooling and allocate the cost to the other based on the method described in subparagraph 8(e) supra;
+
+k) prior to December 11, 1987, GMC continued to acquire, develop and own GMC Tooling and the Appellant continued to acquire, develop and own GM Canada Tooling;
+
+l) prior to December 11, 1987, GMC did not acquire an interest in the GM Canada Tooling and the Appellant did not acquire an interest in the GMC tooling;
+
+m) as a participant in the GM 10 project as structured, the Appellant had no obligation to acquire and did not acquire an interest in GMC tooling or any specific property, no items were identified or itemized as being subject to purchase, there were no agreements of purchase and sale regarding the property in question and the Appellant had no registered interest in the property in question or liability as an owner;
+
+n) in the GM 10 project as structured, the Appellant was not required to enter and did not enter into any obligation, in writing or otherwise, which obliged it to acquire an interest in GMC tooling or any particular asset or property that GMC owned;
+
+...
+
+p) by letter dated December 11, 1987, the Appellant and its parent agreed that each party who initially purchased a special tool would sell to the other party "an undivided interest in that tool determined by the percentage that the number of parts to be manufactured using that tool and sold to the other party is of the total number of parts to be manufactured using that tool";
+
+...
+
+r) commencing with the 1988 and future model years, the Appellant agreed to purchase an undivided interest in the GMC tooling located in the U.S. and GMC agreed to purchase an undivided interest in the GM Canada Tooling located in Canada;
+
+s) after December 11, 1987, the purchase agreement allocated special tooling purchased in a similar fashion to the cost allocation method which previously governed the Appellant and its parent: what GMC Tooling the Appellant would purchase after December 11, 1987 from GMC would be based on the number of parts that the GMC Tooling would produce for the Appellant as a percentage of the total production on a projected basis from that tooling over its expected life (i.e. if total expected production was 100 pieces, and production for Canada was anticipated to be 10 pieces, then 10% of the GMC Tooling would be purchased by the Appellant from GMC);
+
+t) the December 11, 1987 agreement was made and entered into after the amendments to the Act regarding capital cost allowance had already been proclaimed in force and was not part of or pursuant to an obligation in writing or any pre-existing agreement or arrangement between the Appellant and its parent regarding special tooling;
+
+...
+
+x) tooling acquired by GMC Tooling prior to December 11, 1987, was for its exclusive ownership and the GMC Tooling acquired by the Appellant before 1990 was not under construction by or on behalf of the Appellant on June 18, 1987;
+
+The reference in subparagraph 8 (t) to the Act should be to the Regulations.
+
+[6] The question before me is whether GMCL is entitled to the benefit of subsection 24(2) of SOR/90-22 in respect of its undivided interest in special tooling acquired from GMC as described in the December 11, 1987 letter. If it is, then the half-year rule does not apply to that special tooling for the year 1989, and the appeal succeeds; if it is not, then the appeal must fail. For convenience, the subsection is reproduced again.
+
+24(2) Subsection 1(6) is applicable in respect of property acquired by a taxpayer after 1987 other than property acquired by the taxpayer before 1990
+
+(a) pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
+
+(b) that was under construction by or on behalf of the taxpayer on June 18, 1987, or
+
+(c) that is a fixed and integral part of property under construction by or on behalf of the taxpayer on June 18, 1987.
+
+24(2) Le paragraphe 1(6) s'applique aux biens acquis par un contribuable après 1987, à l'exclusion de ceux qu'il a acquis avant 1990 et, selon le cas:
+
+a) qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987;
+
+b) dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
+
+c) qui sont une partie fixe et intégrante d'un bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+
+[7] It is quite clear from the evidence that long before June 18, 1987, and probably as early as February 1985, GMCL was committed, as a practical matter, to fulfil its assigned role in the GM-10 Project. There is written evidence of that commitment before me. However, it was not until December 1987 that it became obligated to acquire an ownership interest in the special tooling that is in issue here.
+
+[8] The Appellant takes the position that it is not required to show that it had a legal obligation to acquire ownership of the special tooling before June 18, 1987. It argues that it only need show that before that date it had obliged itself, in writing, to do what was necessary to enable it to assemble the Chevrolet Lumina and Buick Regal models, and that it purchased its interest in the tooling, prior to 1990, in order to fulfil that obligation. In other words, the expression "acquired by the taxpayer ... pursuant to an obligation in writing ..." should be interpreted to mean "acquired by the taxpayer ... in the course of fulfilling an obligation in writing". It is important to note at this point that nothing in the evidence establishes that the taxpayer could not have fulfilled its obligation to assemble Luminas and Regals without ever acquiring any ownership interest in the tooling, had it chosen to follow that course. It had been assembling vehicles for many years using tooling owned by GMC, and simply paying GMC on a pro rata basis for the use of it to manufacture parts to be used by GMCL in its assembly plants. The Appellant's evidence did nothing to disprove the Minister's assumption 8(m) to the effect that participation in the GM-10 Project did not require the Appellant to acquire an ownership interest in GMC-owned tooling.
+
+[9] In support of its position the Appellant relies on a letter written to it by an official of Revenue Canada on October 17, 1988 in relation to an agreement between the federal government and the Appellant, whereby the government agreed to lend the Appellant $110 million upon a number of conditions as to expenditures to be made by the Appellant. Those expenditures included certain machinery and equipment to be acquired by it as part of its assembly plant at Ste. Thérèse, Québec. In that letter it was said that this machinery and equipment would be considered by Revenue Canada to have been acquired "... pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987." This letter, it is argued, shows that the Appellant's interpretation of the transitional provision must be correct.
+
+[10] The Appellant also argues, in the alternative, that it is entitled to the benefit of paragraph 24(2)(c) of the amended Regulations, on the basis that the special tooling became a fixed and integral part of the GMCL Autoplex, which was effectively reconstructed between 1984 and 1988. Counsel for the Appellant concedes that the special tooling was not physically incorporated into the Autoplex, but argues that all that is required to satisfy paragraph 24(2)(c) is a direct operational nexus between the tooling and the plant. This argument is developed in the following paragraphs of the Appellant's Memorandum:
+
+67. The Autoplex was constructed, renovated, reconfigured and re-equipped specifically to produce the Buick Regals and Chevrolet Luminas. The evidence establishes that, while the tooling was not physically part of the Autoplex, it was a permanent and constant part of the operation of the Autoplex and that it was essential to the operation of the Autoplex facility. Without the tooling, the Autoplex could not serve the very purpose for which it was constructed.
+
+68. The issue is the nature of the nexus between the Autoplex and the tooling that is contemplated by the phrase "fixed and integral part of the ...[Autoplex]". The Appellant submits that the phrase is capable of two different meanings. The first is to connote physical attachment of the tooling to the Autoplex. The second, and alternative, meaning is to connote a direct, operational (as opposed to physical) nexus to the Autoplex. As such, GMCL submits that the interpretation which advances the object and spirit of the provision ought to be preferred. In Glaxo Wellcome Inc. v. The Queen, 96 DTC 1160 (T.C.C.), Bowman T.C.C.J. (as he then was) stated at p. 1161:
+
+Obviously one starts with the plain words of the statute. If the words of the legislation are clear and unambiguous and admit of but one interpretation one need look no further. If they are not and are susceptible of more than one interpretation one must look to the scheme of the act and its object and spirit. It is only when recourse to all of the other tools of statutory interpretation fails to yield a clear answer that one is entitled to invoke the principle that in case of ambiguity the benefit of the doubt must go to the taxpayer.
+
+69. GMCL submits that the object and spirit of the transitional provision argues for the latter interpretation. It is submitted that the first interpretation (that the nexus must be physical) would frustrate the legislative intention in that it would leave a taxpayer, like GMCL, who commenced construction of the Autoplex well before the transitional date on the understanding that the Autoplex could not possibly function with the tooling, without any transitional relief with respect to an essential element of the facility. What possible tax policy objective is served by providing transitional relief only to that equipment that is brought to the Autoplex and bolted to the floor while excluding equipment whose significance to the functioning of the Autoplex is the same but which happens to be located away from the physical facility? Looked at this way, it is submitted that the tooling is "fixed" because it has the "necessary degree of constancy and permanency in the day to day operations" of the Autoplex and it is "integral" because it is essential (and not ancillary) to the operation of the Autoplex.
+
+[11] The Appellant's position, as I understand it, is that the expression "pursuant to" should be taken, in the context of this enactment, to mean only "in order to fulfil". It does not, therefore, connote an obligation to acquire property, but only that there be some nexus between the obligation and the acquisition. To interpret this provision otherwise, it is argued, requires the addition of the words "to acquire the property" after the word "obligation". This argument is bolstered by reference to a number of examples of similar language in the Act and the Regulations wherein the word "obligation" is followed by a more specific statement of the nature of that obligation.
+
+[12] The primary meaning of the expression "acquired ¼ pursuant to an obligation in writing entered into" in English, and its French equivalent "qui ont été acquis conformément à une obligation écrite contractée", refers to a situation in which the taxpayer was under a legal obligation to purchase the property in question. This may be derived from dictionaries,[1] and from common usage. Were it not for the decision of this Court,[2] affirmed by the Federal Court of Appeal,[3] in Bow River Pipe Lines v. The Queen, I would have said that there is no ambiguity in either the English or French version of paragraph 24(2)(a), and that it is only operative where the taxpayer had, before June 18, 1987, entered into a legally binding commitment to acquire the property.
+
+[13] Much of the Appellant's argument was founded on that decision. The Federal Court of Appeal observed that "[T]he Tax Court Judge did not err in concluding that the words "... agreement in writing ..." [une convention écrite] in a grandfathering provision did not require that the agreement be one that created contractual rights and obligations ...",[4] but could extend also to instruments of negotiation. However, the four letters which were held in that case to amount to an agreement in writing set out all the essential terms of the contract that was ultimately executed. Indeed, all that remained following the last of these was satisfaction of two conditions. One of these was to obtain the necessary regulatory approval from the appropriate government agency; the other was to obtain a satisfactory advance tax ruling. In finding that these letters were sufficient to satisfy the requirement in the transitional provision in that case that there be an agreement in writing entered into by December 4, 1985, Christie A.C.J. said:[5]
+
+What, then, is the object or purpose of subsection 26(5) of the 1986 statute? To my mind the answer is that if a taxpayer has expended time or money or both with the intention of relying on paragraph 98(5)(d) of the Act in conducting its affairs the repeal of the paragraph is not applicable where that intention is evinced by agreements in writing, not necessarily contractual in nature, entered into prior to December 4, 1985. But those agreements must set in motion the taking of steps that lead directly to the making of agreements of the kind described in paragraphs 26(5)(a), (b) and (c) after that date that do give rise to contractual obligations. I do not think that reference to an agreement in legislation or in some other context means that the agreement must create contractual rights and obligations.
+
+[14] The present case is entirely different. The "obligation in writing" that is relied on by the Appellant as having been entered into prior to June 18, 1987 does not speak at all to the acquisition by the Appellant of an ownership interest in the special tooling. I was not referred to anything in record that shows an intention on the part of the Appellant to purchase, or of GMC to sell to it, an ownership interest in the U.S. special tooling. There is in fact no nexus between the GM-10 Project and the December 11, 1987 letter to be found either in the letter itself, or elsewhere in the evidence.
+
+[15] Even if the language of this Regulation is ambiguous, I would nevertheless find that the benefit of the grandfather provision is only available to a taxpayer who had entered into a binding commitment to acquire depreciable property of class 12 before June 17, 1987. The correct approach to resolving any such ambiguity is found in the judgment of Noël J., as he then was, in The Queen v. Trade Investments Shopping Centre Ltd.[6]
+
+While it may be useful to compare various transitional provisions used by Parliament in tax legislation in order to determine their meaning, this must be done with great care. This is particularly true when one is trying to compare transitional provisions emanating from different budgets, as is the case here.
+
+Transitional provisions do not lend themselves to the scrutiny of an overly strict interpretation. It should be borne in mind that transitional provisions are secondary and incidental to the provisions of substantive law which they accompany. Unlike taxing provisions, they are not adopted as part of a coherent legislative plan in which the provisions must interrelate with one another in a logical scheme. They are ad hoc provisions the sole purpose of which is to ensure that the particular provision of substantive law which they accompany is introduced in an equitable manner. By their very nature, therefore, they are likely to create discrepancies, and a review of the wording of these provisions in recent years indicates that each budget produces transitional provisions peculiar to it and designed without reference, or at least with little reference, to preceding in pari materia provisions. While a comparative analysis of such provisions remains useful, I do not think it can be conclusive in the case at bar.
+
+In my view, when a question of interpretation arises as to the scope of a transitional provision, it must be answered by reference to the provision of substantive law it accompanies and the specific situation which Parliament sought to alleviate by introducing it.
+
+[16] The substantive enactment in question here has the effect of deferring the taxpayer's entitlement to deduct an amount of capital cost allowance for a period of one year. The purpose of subsection 24(2) is to provide relief from this to taxpayers who have committed themselves to a purchase of depreciable property of the class prior to the date on which the government announced that the Regulation would be changed. Taxpayers in that position are to be protected, because they made their business decisions on the basis of the law as it stood before the amendment, with no knowledge that the amendment would take place, and they have no alternative but to complete the purchases for which they contracted. Taxpayers who had not entered into a binding commitment to acquire property prior to the announcement of the proposed amendment are not included within the grandfathering provision, because they made their contractual commitments after the forthcoming amendment to the Regulation had been announced to the public. The Appellant had committed itself to the assembly of Luminas and Regals prior to June 17, 1987, but it had not committed itself to the purchase of an interest in the U.S. special tooling. The Appellant is correct to say that it required access to the tooling to carry out its commitment; it is not correct, however, to say that it needed to have an ownership interest in the tooling. In fact, it had been assembling vehicles in the past without any ownership interest in the GMC tooling that was used to produce parts for it. It simply paid GMC for its use according to the agreed formula. Nothing in the evidence suggests that the Appellant could not have carried out the assembly of Luminas and Regals under a similar arrangement. The agreement which the Appellant and GMC entered into with respect to the ownership of special tooling did not, on the evidence before me, come about as an operational requirement of the GM-10 Project, but for other reasons which were not elucidated.
+
+[17] The Appellant's argument based on the letter written to it in respect of the Ste. Thérèse plant has no merit. The plant at Ste. Thérèse involves a different factual situation, and not all the facts relating to it are before me, so it is not possible for me to conclude that the Minister's officials have applied the Regulation inconsistently in respect of the Appellant's two different situations, as counsel alleges. More to the point, however, the Minister is not bound, when he makes an error in the interpretation of the Act or the Regulations, to perpetuate that error. Nor is the Court bound to do so.[7] It is true that where an administrative practice has been applied by the Minister consistently over a period of time, it may be of assistance in resolving ambiguity,[8] but a letter of the kind relied upon by the Appellant here would have no persuasive value as to the meaning to be given to the Regulation, even if the context were shown to be the same in both cases.
+
+[18] Nor do I see any merit in the argument based upon paragraph 24(2)(c) of the Regulation. To qualify under that provision, the Appellant would have to show that the special tooling became a fixed and integral part of the Autoplex. It is common ground that the tooling was never physically a fixed and integral part of the Autoplex. The Appellant argues that it is sufficient to show that the tooling was necessary in order to use the Autoplex for the assembly of vehicles, and that it was used permanently for that purpose. It is quite clear from the words of the Regulation that no such metaphysical sense is intended. Only equipment which has become a part of the building in a physical sense can qualify for grandfathering under paragraph 24(2)(c). In any event, this argument also founders on the absence of any evidence that the operation of the assembly plants in Oshawa required parts produced by U.S. tooling in which the Appellant had an ownership interest. As I have already said above, the Oshawa plants could have operated perfectly well with access to parts made with tooling wholly owned by GMC.
+
+[19] The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 17th day of April, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: General Motors of Canada Limited
+
+and Her Majesty the Queen
+
+STYLE OF CAUSE: 1999-489(IT)G
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: March 21 and 22, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: April 17, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Joseph Steiner and Al Meghji
+
+Counsel for the Respondent: Kathryn Philpott and Jag Gill
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Joseph Steiner
+
+Firm: Osler, Hoskin & Harcourt LLP
+
+Name: Al Meghji
+
+Firm: Donahue Ernst & Young LLP
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-489(IT)G
+
+BETWEEN:
+
+GENERAL MOTORS OF CANADA LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on March 21 and 22, 2001 at Toronto, Ontario, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Counsel for the Appellant: Joseph Steiner and Al Meghji
+
+Counsel for the Respondent: Kathryn Philpott and Jag Gill
+
+JUDGMENT
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1989 taxation year is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 17th day of April, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Oxford English Dictionary, 2nd ed. Vol. X p. 647; Vol. XII p. 887; Le Robert 2iême ed. Tome II p. 813; Tome VI p. 855-7 and 872.
+
+[2] 96 DTC 1770.
+
+[3] 97 DTC 5385.
+
+[4] page 5398.
+
+[5] page 1782.
+
+[6] 93 DTC 5486 at p. 5491; affirmed 96 DTC 6570.
+
+[7] M.N.R. v. Inland Industries Ltd., 72 DTC 6013 at 6017 (S.C.C.).
+
+[8] Harel v. The Deputy Minister of Revenue (Quebec), 77 DTC 5438 at 5441-2 (S.C.C.) and Nowejijig v. The Queen, 83 DTC 5041 at 5044 (S.C.C.).
+

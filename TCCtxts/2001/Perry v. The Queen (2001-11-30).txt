@@ -1,0 +1,252 @@
+Date: 20011130
+
+Docket: 2001-2774-IT-I
+
+BETWEEN:
+
+BARB PERRY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] At the conclusion of trial I agreed to reserve and give the appellant my reasons in writing because she and her husband, Peter Perry, who represented her as agent, believed very strongly that an injustice had been done. I do not think an injustice has been done, nor do I accept Mr. Perry's arguments that the appellant should not have to pay back the child tax benefits because of a prenuptial agreement. However I think the Minister should recalculate the benefits on the assumption that there were five, not three, qualified dependants.
+
+[2] The appeals are from child tax benefit notices made under section 160.1 of the Income Tax Act whereby the Minister of National Revenue demanded the repayment of child tax benefits of $3,143.76 and $1,825.83 for the base years 1998 and 1999 respectively.
+
+[3] The appellant separated from her first husband, Gordon Begley, in 1986. A separation agreement was entered into on May 16, 1988. The parties divorced in 1989. Mr. Begley had certain obligations to make support payments to the appellant in respect of the three children of the marriage until they reached 18.
+
+[4] Gordon Begley was and continues to be a deadbeat. He never paid the full amount of his support obligations and in some years he paid nothing. At present he is $82,000 in arrears.
+
+[5] On April 24, 1998 the appellant married her present husband, Peter Joseph Patrick John Perry. On December 17, 1997 they entered into a prenuptial agreement which set out in some detail the financial and property arrangements. In brief, they agreed to be separate as to property. The agreement evidences a strong intent by both parties to be independent.
+
+[6] Clause 8(b) reads
+
+Neither party shall be responsible in any way to contribute to the other party's obligation to support his or her children by a previous relationship.
+
+[7] After the second marriage the appellant claimed the child tax benefit as she had done before the marriage, although she showed that she was married on her income tax return. It was initially granted, but when the CCRA reviewed the matter it noted that she was married. It therefore determined that she was not entitled to the child tax benefit because her and her husband's combined incomes in 1998 and 1999 ($61,994 in 1998 and $153,223 in 1999) were in excess of the threshold amount entitling her to the benefit.
+
+[8] The entitlement to the child tax benefit is based upon a complex calculation in section 122.61 of the Income Tax Act. I commented on a similar provision in section 122.5 in Russell v. R., [2001] 3 C.T.C. 2652, [2001] T.C.J. No. 409. I do not propose to do so again.
+
+[9] One of the components in the remarkably complex formula in section 122.61 is the person's "adjusted income" which is the total of the income, as defined, of the person claiming the credit and that of his or her spouse.
+
+[10] The formula whereby the deemed overpayment for a month is calculated changed three times in the two years in question. Up to June of 1998 it was 1/12 (A - B). After June of 1998 it was 1/12 [(A - B) + C]. It changed again for deemed overpayments arising after June 1999. The values of each of the letters A, B and C are themselves the result of a calculation containing a number of further formulae the components of which are represented by the letters D, E, F, G and H.
+
+[11] Mr. Perry testified that in addition to Mrs. Perry's three dependant children, under the age of 18, he had two more from a previous marriage also under the age of 18 and that since one of the components in the formula was the number of qualified dependants possibly the calculation should be based on five rather than three qualified dependants.
+
+[12] Before I embark on the tedious process of working through this formula, I shall comment briefly on Mr. Perry's three arguments in favour of his wife not having to repay the child tax benefit.
+
+(a) The prenuptial agreement put her in the same position with respect to the support of her children as if she were not married. The application of section 122.61 is not affected by the fact that the spouses have entered into a prenuptial agreement.
+
+(b) The fact that Mrs. Perry's ex-husband was a deadbeat who was not making the support payments should justify her keeping the child tax benefit payments that she received while married. Again this has no bearing on the operation of section 122.61. Mr. Perry seemed to feel that by demanding the return of the child tax benefit payments the CCRA was in effect forcing him to take care of children that were not his own because Mrs. Perry could not afford to repay them. I have difficulty following this line of reasoning. If Mrs. Perry is liable to make the repayment I do not see how the responsibility devolves on Mr. Perry, at least as a matter of law, although there may be a moral obligation. I note that interest is not being charged.
+
+(c) One of Mrs. Perry's sons obtained a student loan. Originally it was denied because of the combined income of Mr. and Mrs. Perry. They showed the provincial student loan authorities the prenuptial agreement and the loan was granted. Mr. Perry argues that since the provincial authorities accepted the agreement as valid so should the CCRA.
+
+The short answer to this argument is that no one — either the CCRA or this court — questions the validity of the agreement. It is simply irrelevant within the context of section 122.61.
+
+[13] So far as the effect of increasing the number of qualified dependants from three to five is concerned I shall, with some trepidation, attempt to do the calculation as it applied to the period from July 1, 1998 to the end of 1998. Section 122.61 as it applied to this period read
+
+Where a person and, where the Minister so demands, the person's cohabiting spouse at the end of a taxation year have filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+
+1/12 [(A - B) + C]
+
+where
+
+A is the total of
+
+(a) the product obtained by multiplying $1,020 by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month,
+
+(b) the product obtained by multiplying $75 by the number of qualified dependants, in excess of 2, in respect of whom the person was an eligible individual at the beginning of the month, and
+
+(c) the amount determined by the formula
+
+D - E
+
+where
+
+D is the product obtained by multiplying $213 by the number of qualified dependants who have not attained the age of 7 years before the month and in respect of whom the person is an eligible individual at the beginning of the month, and
+
+E is 25% of the total of all amounts deducted under section 63 in respect of qualified dependants in computing the income for the year of the person or the person's co-habiting spouse;
+
+B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2½%) of the amount, if any, by which the person's adjusted income for the year exceeds $25,921; and
+
+C is the amount determined by the formula
+
+F - (G x H)
+
+where
+
+F is, where the person is an eligible individual in respect of
+
+(a) only one qualified dependant, $605, and
+
+(b) two or more qualified dependants, the total of
+
+(i) $605 for the first qualified dependant,
+
+(ii) $405 for the second qualified dependant, and
+
+(iii) $330 for each, if any, of the third and subsequent qualified dependants,
+
+G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and
+
+H is, where the person is an eligible individual in respect of
+
+(a) only one qualified dependant, 12.1%,
+
+(b) two qualified dependants, 20.2%, and
+
+(c) three or more qualified dependants, 26.8%
+
+[14] Adjusted income is defined:
+
+"adjusted income" of an individual for a taxation year means the total of all amounts each of which would be the income for the year of the individual or of the person who was the individual's cohabiting spouse at the end of the year if no amount were included in respect of a gain from a disposition of property to which section 79 applies in computing that income.
+
+[15] Qualified dependant is defined:
+
+"qualified dependant" at any time means a person who at that time
+
+(a) has not attained the age of 18 years,
+
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person's spouse for the base taxation year in relation to the month that includes that time, and
+
+(c) is not a person in respect of whom a special allowance under the Children's Special Allowances Act is payable for the month that includes that time.
+
+[16] Therefore if there were five qualified dependants instead of three the calculation looks like this:
+
+1/12 x [(A - B) + C]
+
+A is the total of
+
+(a) $1,020 x 5 = $5,100
+
+(b) $75 x 3 = $225
+
+(c) D - E
+
+I assume the children are all over 7 and so the figure under (c) would be 0.
+
+A = $5,325
+
+minus B
+
+This figure is 5% of $61,994 = $3,099
+
+(I note parenthetically that if one assumes 3 qualified dependants rather than 5, A would be $3,060 + $75 = $3,135)
+
+C is F - (G x H)
+
+F is $605 + $405 + $330 + $330 + $330 = $2,000
+
+G is $61,994 - $20,921 = $41,073
+
+H is 26.8%
+
+F - (G x H) is $2,000 - [$41,073 x 26.8% ($11,007)]
+
+$2,000 minus $11,007 is a negative amount and is therefore deemed to be nil by section 257.
+
+Therefore the result would be
+
+1/12 [(A - B) + C]
+
+= 1/12 [($5,325 - $3,099) + 0]
+
+= 1/12 x $2,226 = $185.50
+
+[17] So far as 1999 is concerned I think it is highly unlikely that the formula could result in a child tax benefit. If the adjusted income in 1999 is $153,223, B would be $7,661.15, a figure that is well in excess of A.
+
+[18] However I propose to allow the appeals for both years simply because my calculations are rough and do not apply to all years. Moreover, there may be facts I have assumed that are not correct, such as the ages of the children or some of the components in D and E in the calculation of A. Also, the formula changed throughout the periods in question. I made the calculation not because I expected that I would necessarily be able to establish the precise mathematically correct figure but because I needed to determine whether it was possible that the appellant might be entitled to something under section 122.61 if there were five qualified dependants. It may be that a recalculation by the CCRA will yield nothing positive for the appellant in either year. She is, however, entitled to have the calculation made.
+
+[19] The appeals from the child tax benefit notices are allowed and the notices are referred back to the Minister of National Revenue for reconsideration and recalculation to determine the child tax benefit, if any, to which the appellant would be entitled in the base taxation years 1998 and 1999 on the assumption that there were five and not three qualified dependants.
+
+[20] There will be no order for costs.
+
+Signed at Ottawa, Canada, this 30th day of November 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2001-2774(IT)I
+
+STYLE OF CAUSE: Between Barb Perry and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: London, Ontario
+
+DATE OF HEARING: November 21, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: November 30, 2001
+
+APPEARANCES:
+
+Agent for the Appellant: Peter Perry
+
+Counsel for the Respondent: Ifeanyi Nwachukwu, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-2774(IT)I
+
+BETWEEN:
+
+BARB PERRY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on November 21, 2001, in London, Ontario, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Agent for the Appellant: Peter Perry
+
+Counsel for the Respondent: Ifeanyi Nwachukwu, Esq.
+
+JUDGMENT
+
+It is ordered that the appeals from child tax benefit notices under the Income Tax Act for the 1998 and 1999 base taxation years be allowed and the notices be referred back to the Minister of National Revenue for reconsideration and recalculation to determine the child tax benefit, if any, to which the appellant would be entitled on the assumption that there were five and not three qualified dependants.
+
+There will be no order for costs.
+
+Signed at Ottawa, Canada, this 30th day of November 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

@@ -1,0 +1,1552 @@
+Date: 20020926
+
+Docket: 1999-2642-GST-G
+
+BETWEEN:
+
+LES AMUSEMENTS JOLIN INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Angers, J.T.C.C.
+
+[1] The appellant is instituting an appeal from an assessment dated October 27, 1998, in which the Minister refused to grant it a rebate of goods and services tax (GST) for the period from January 1, 1991, to November 30, 1997. This appeal was heard at Montréal, on January 31 and February 1, 2002.
+
+[2] The parties filed a list of admissions of fact and of documents allowed with the Court in accordance with section 124 of the Tax Court of Canada Rules. Those admissions are as follows:
+
+[TRANSLATION]
+
+1. For a number of years, the Appellant has operated an amusement device business at 474 Lindsay Street, Drummondville, Quebec J2B 6W4, that mainly provides gambling operations;
+
+2. The "Amount in issue" is the GST collected and remitted to the Respondent by the Appellant as the agent of the Respondent, for the period from January 1, 1991, to November 30, 1997, inclusive, in respect of supplies made through the amusement devices specified in the attached list (Schedule A);
+
+3. The Appellant duly claimed a rebate of the Amount in issue, which the Respondent refused to grant;
+
+4. The Amount in issue that was denied as a rebate by the Respondent is as follows:
+
+Period
+
+GST
+
+From January 1st, 1991, to November 30, 1991
+
+$1,708.27
+
+From December 1st, 1991, to November 30, 1992
+
+$2,715.08
+
+From December 1st, 1992, to November 30, 1993
+
+$5,052.00
+
+From December 1st, 1993, to November 30, 1994
+
+$5,038.85
+
+From December 1st, 1994, to November 30, 1995
+
+$5,916.39
+
+From December 1st, 1995, to November 30, 1996
+
+$9,371.41
+
+From December 1st, 1996, to November 30, 1997
+
+$8,722.07
+
+TOTAL:
+
+$38,524.07
+
+5. As a result of the Respondent's refusal to grant the rebate, the Appellant duly objected to the decision and subsequently duly instituted this proceeding, in the time and form prescribed by the Act;
+
+6. The only issues are as follows:
+
+(a) The first question is whether the Appellant, as agent of the Respondent, was required to collect the GST in respect of the supplies made through the amusement devices specified in the attached list (Schedule A); and
+
+(b) The second question is whether the Appellant is entitled to claim the rebate of the Amount in issue, which was remitted to the Respondent after being collected by the Appellant, as the Respondent's agent, in respect of the supplies made through the amusement devices specified in the attached list (Schedule A);
+
+7. The Appellant answered the above questions respectively in the negative and in the affirmative, whereas the Respondent answered respectively in the affirmative and in the negative.
+
+[3] This list of admissions, filed as Exhibit I-9, is dated November 1, 2001. The parties subsequently filed amended arguments. In her Reply to the Amended Notice of Appeal, the respondent raised two additional issues, that is, whether the appellant's application for a rebate was filed within the time limit provided under section 261 of the Excise Tax Act (the "Act") and whether the appellant is entitled to apply for a rebate since the recipients of the supplies are the ones who paid the GST. The second issue is somewhat similar to the one raised in subparagraph 6(b) in the list of admissions. At the start of the trial, the appellant informed the Court that it would not raise section 15 of the Canadian Charter of Rights and Freedoms, which it had cited in its Notice of Appeal. Lastly, the list of amusement devices referred to as "Schedule A" in the list of admissions and relating to the instant appeal reads as follows:
+
+"Schedule A"
+
+LIST OF DEVICES OPERATED
+
+1990 - 1994
+
+Acquisition
+
+Video/Pinball
+
+Type
+
+Serial no.
+
+26-10-90
+
+Poker
+
+123558
+
+10-06-91
+
+Pool
+
+44236
+
+10-06-91
+
+Pool
+
+44240
+
+10-06-91
+
+Video
+
+Tetris
+
+577497
+
+14-06-91
+
+Cabinet
+
+27-06-91
+
+Cabinet
+
+3240
+
+18-06-91
+
+Pinball
+
+Dr. Dude
+
+490892
+
+Acquisition
+
+Video/Pinball
+
+Type
+
+Serial no.
+
+14-08-91
+
+Pinball
+
+Mousing Around
+
+300678
+
+30-01-92
+
+Video
+
+Indy Heat
+
+33001247
+
+13-03-92
+
+Pool
+
+46405
+
+10-03-92
+
+Pool
+
+46406
+
+14-04-92
+
+Dart
+
+19235
+
+30-04-92
+
+Video
+
+Street Fighter II
+
+5170
+
+19-06-92
+
+Air Hockey
+
+2265
+
+18-06-92
+
+Pinball
+
+Diner
+
+420513
+
+30-10-92
+
+Poker
+
+18-09-92
+
+Video
+
+Super Contra
+
+83945
+
+11-09-92
+
+Video
+
+Aero Fighter
+
+Kit
+
+16-11-92
+
+Basket Ball
+
+682648
+
+03-11-92
+
+Cabinet
+
+6522
+
+08-12-92
+
+Cabinet
+
+6539
+
+22-01-93
+
+Cabinet
+
+6984
+
+22-01-93
+
+Cabinet
+
+699
+
+12-01-92
+
+Pool
+
+47645
+
+26-01-93
+
+Pool
+
+47803
+
+27-01-93
+
+Cabinet
+
+6986
+
+08-02-93
+
+Cabinet
+
+7158
+
+29-01-93
+
+Poker
+
+10038587
+
+29-01-93
+
+Poker
+
+29-01-93
+
+Poker
+
+10638587
+
+28-02-93
+
+Pool
+
+47686
+
+08-04-93
+
+Poker
+
+2240
+
+12-07-93
+
+Video
+
+Rambo 3
+
+548
+
+12-07-93
+
+Video
+
+Escape
+
+95
+
+14-05-93
+
+Poker
+
+10038587
+
+12-05-93
+
+Pool
+
+851
+
+18-08-93
+
+Video
+
+Arabian Fight
+
+440223
+
+13-09-93
+
+Captain America
+
+Kit
+
+22-09-93
+
+Soccer
+
+110
+
+29-08-93
+
+Pool
+
+895
+
+21-09-93
+
+Pinball
+
+Star Wars
+
+76083
+
+22-11-93
+
+Pool
+
+1202
+
+27-10-93
+
+Lot Machines Used
+
+27-10-93
+
+Pinball
+
+Last Action Hero
+
+96341
+
+27-10-93
+
+Video
+
+Legionnaire
+
+SKL0042
+
+12-11-93
+
+Video
+
+Neo Geo
+
+18672
+
+18-11-93
+
+Pool
+
+3105
+
+03-12-93
+
+Pool
+
+29054
+
+11-04-94
+
+Video
+
+Neo Geo
+
+10950
+
+07-03-94
+
+Pool
+
+106
+
+Acquisition
+
+Video/Pinball
+
+Type
+
+Serial no.
+
+21-02-94
+
+Pool
+
+1922
+
+14-04-94
+
+Pinball
+
+Tommy
+
+104439
+
+22-04-94
+
+Pool
+
+122
+
+06-05-94
+
+Pool
+
+124
+
+15-07-94
+
+Pool
+
+1232
+
+24-08-94
+
+Pool
+
+1274
+
+24-08-94
+
+Pool
+
+1287
+
+24-08-94
+
+Pool
+
+1286
+
+24-08-94
+
+Pool
+
+1271
+
+20-12-93
+
+Video
+
+Mortal Kombat II
+
+283249
+
+18-07-94
+
+Pool
+
+2335
+
+NUMBER OF DEVICES OPERATED
+
+Class
+
+A:
+
+Poker
+
+B:
+
+Video-Pinball
+
+C:
+
+Pool, Air Hockey, Dart, Soccer, Hockey
+
+1990 A: 7
+
+B: 4
+
+C: 3
+
+1991 A: 6
+
+B: 4
+
+C: 2
+
+1992 A: 7
+
+B: 5
+
+C: 2
+
+1993 A: 9
+
+B: 10
+
+C: 7
+
+1994 A: 9
+
+B: 13
+
+C: 14
+
+DEVICES OPERATED STARTING MAY 1994
+
+Video-Pinball
+
+Type
+
+Serial no.
+
+Video
+
+Tetris
+
+577497
+
+Pinball
+
+Last Action Hero
+
+96341
+
+Video
+
+Captain America
+
+CBY 0882
+
+Video
+
+Legionnaire
+
+SKC 0042
+
+Video
+
+Neo Geo
+
+18672
+
+Video
+
+Mortal Kombat II
+
+283249
+
+Air Hockey
+
+2265
+
+Video
+
+Aero Fighter
+
+72779
+
+Pinball
+
+Diner
+
+420513
+
+Pinball
+
+Whirlwind
+
+330183
+
+Pinball
+
+Mousing Around
+
+300678
+
+Pinball
+
+Bad Cats
+
+310702
+
+Pool
+
+42040
+
+Pool
+
+420236
+
+Pool
+
+3105
+
+Pool
+
+1202
+
+Basket Ball
+
+L 82648
+
+Pool
+
+895
+
+Pool
+
+47686
+
+Pool
+
+851
+
+Pool
+
+47803
+
+Video
+
+Arkanoid
+
+41523
+
+Pool
+
+47645
+
+Soccer
+
+110
+
+Video
+
+Street Fighter III
+
+1902
+
+Pool
+
+29054
+
+Dart
+
+19235
+
+DEVICES OPERATED STARTING MAY 1995
+
+Video-Pinball
+
+Type
+
+Serial no.
+
+Pool
+
+122
+
+Pool
+
+47645
+
+Dart
+
+50042
+
+Pinball
+
+Last Action Hero
+
+96341
+
+Pool
+
+47803
+
+Pinball
+
+Whirlwind
+
+330183
+
+Pool
+
+1274
+
+Pool
+
+1287
+
+Pool
+
+1286
+
+Pool
+
+1271
+
+Pool
+
+47686
+
+Pool
+
+851
+
+Pool
+
+44236
+
+Pool
+
+1232
+
+Pool
+
+2335
+
+Dart
+
+19235
+
+Video
+
+Neo Geo
+
+18672
+
+Soccer
+
+Jol 0005
+
+Pool
+
+124
+
+Pool
+
+43218
+
+Video
+
+Arkanoid
+
+41523
+
+Pool
+
+44240
+
+Pinball
+
+Bad Cats
+
+310702
+
+Video
+
+Final Lap 2
+
+249
+
+Video
+
+Final Lap 2
+
+406
+
+Video
+
+Final Lap 2
+
+238
+
+Pinball
+
+Diner
+
+420513
+
+Pool
+
+29054
+
+Pool
+
+6195
+
+Pool
+
+6196
+
+Air Hockey
+
+2265
+
+Video
+
+Neo Geo
+
+10950
+
+Video
+
+X-Men
+
+1902
+
+Video
+
+Great Miles 1000
+
+2150
+
+Video
+
+Mortal Kombat 2
+
+283249
+
+Video
+
+Mortal Kombat 3
+
+141834
+
+Pinball
+
+Stargate
+
+137259
+
+Pool
+
+3105
+
+Pool
+
+895
+
+Dart
+
+13732
+
+Video
+
+Indy Heat
+
+2977
+
+Video
+
+Great Rally 2
+
+2160
+
+Video
+
+Killer Instinct
+
+410334
+
+Video
+
+Virtual Fighter
+
+10185
+
+Video
+
+Dungeon Dragon
+
+810541
+
+Video
+
+Gals Panis 2
+
+626
+
+Video
+
+Golden Axe 2
+
+810497
+
+Video
+
+Mortal Kombat 2
+
+12009-7258
+
+Video
+
+L'Ermite
+
+9917
+
+Video
+
+Martial Champion
+
+234251
+
+Video
+
+Tekken 2
+
+412814
+
+Pinball
+
+Appollo 13
+
+126939
+
+Video
+
+Title Fight
+
+519396
+
+DEVICES OPERATED STARTING MAY 1996
+
+Video-Pinball
+
+Type
+
+Serial no.
+
+Pinball
+
+Whirlwind
+
+330183
+
+Pool
+
+1274
+
+Pool
+
+1287
+
+Pool
+
+1286
+
+Pool
+
+1271
+
+Pool
+
+47686
+
+Pool
+
+851
+
+Dart
+
+19235
+
+Video
+
+Neo Geo
+
+18672
+
+Pool
+
+124
+
+Pool
+
+44218
+
+Video
+
+Arkanoid
+
+41523
+
+Pool
+
+44240
+
+Video
+
+Final Lap 2
+
+249
+
+Video
+
+Final Lap 2
+
+406
+
+Video
+
+Final Lap 2
+
+238
+
+Pool
+
+29054
+
+Air Hockey
+
+2265
+
+Video
+
+Neo Geo
+
+10950
+
+Video
+
+Great Miles 1000
+
+2150
+
+Video
+
+Mortal Kombat 3
+
+141834
+
+Pinball
+
+Star Gate
+
+137259
+
+Dart
+
+13732
+
+Pool
+
+1202
+
+Video
+
+Great Rally 2
+
+2160
+
+Video
+
+Killer Instinct
+
+40047-410334
+
+Video
+
+Area SI
+
+10185
+
+Video
+
+Dungeon Dragon
+
+810541
+
+Video
+
+Gals Panis 2
+
+626
+
+Video
+
+Golden Axe 2
+
+40120-810497
+
+Video
+
+L'Ermite
+
+9917
+
+Video
+
+Soul Edge
+
+234251
+
+Video
+
+Tekken II
+
+412814
+
+Video
+
+Area SI
+
+1088
+
+Pinball
+
+Appollo 13
+
+126939
+
+Video
+
+Time Crisis
+
+663
+
+Video
+
+Killer Instinct 2
+
+441857
+
+Pool
+
+47645
+
+Pool
+
+47803
+
+Pinball
+
+Whirlwind
+
+330183
+
+Pool
+
+1274
+
+Pool
+
+1287
+
+Pool
+
+1286
+
+Pool
+
+1271
+
+Pool
+
+47686
+
+Dart
+
+19235
+
+Pool
+
+124
+
+Pool
+
+43218
+
+Pool
+
+44240
+
+Pinball
+
+Bad Cats
+
+310702
+
+Video
+
+Final Lap 2
+
+406
+
+Pool
+
+29054
+
+Air Hockey
+
+2265
+
+Video
+
+Neo Geo
+
+10950
+
+Video
+
+Street Fighter US X-Men
+
+1902
+
+Video
+
+Great Miles 1000
+
+2150
+
+Pinball
+
+Stargate
+
+137259
+
+Video
+
+Police Trainer
+
+577497
+
+Pool
+
+895
+
+Dart
+
+13732
+
+Pool
+
+1202
+
+Video
+
+Killer Instinct
+
+40047-410334
+
+Video
+
+Dungeon Dragon
+
+810541
+
+Video
+
+Gals Panis 2
+
+626
+
+Video
+
+L'Ermite
+
+9917
+
+Video
+
+Tekken 3
+
+412814
+
+Video
+
+Area 51
+
+1088
+
+Video
+
+Dragon World
+
+441857
+
+Video
+
+Time Crisis
+
+663
+
+Pinball
+
+Attack From Mars
+
+103502
+
+Pool
+
+58680
+
+Video
+
+Die Hard
+
+50593
+
+Video
+
+San Francisco Rush
+
+102612
+
+Video
+
+San Francisco Rush
+
+103423
+
+Video
+
+San Francisco Rush
+
+103405
+
+Video
+
+Maximum Force
+
+103045
+
+Pool
+
+25638
+
+[4] The respondent contends that the appellant was required to collect and pay the GST on supplies made by means of the coin-operated devices described above. That tax is applicable under section 160 of the Act:
+
+160. Coin-operated devices - Where a supply is made, and the consideration therefor is paid, by means of a coin-operated device, the following rules apply for the purposes of this Part:
+
+(a) the recipient shall be deemed to have
+
+(i) received the supply,
+
+(ii) paid the consideration for the supply, and
+
+(iii) paid any tax payable in respect of the supply,
+
+on the day the consideration for the supply is inserted into the device; and
+
+(b) the supplier shall be deemed to have
+
+(i) made the supply,
+
+(ii) received the consideration for the supply, and
+
+(iii) collected any tax payable in respect of the supply,
+
+on the day the consideration for the supply is removed from the device.
+
+[5] Although the expression "coin-operated devices" is "appareils automatiques" in the French version, the result is the same with respect to the presumptions that this section creates. This provision does not give the supplier any flexibility with respect to the requirement to remit the GST that the supplier is deemed under the Act to have collected by means of the coin-operated devices. In April 1996, the legislator saw fit to create a sort of exception to this requirement to pay the tax by enacting, though not retroactively, subsection 165(3.1), which reads as follows:
+
+165 (3.1) Coin-operated devices. - The tax payable in respect of a supply of tangible personal property dispensed from, or a service rendered through the operation of, a mechanical coin-operated device that is designed to accept only a single coin as the total consideration for the supply is equal to
+
+(a) zero where the amount computed in accordance with subsection (1) is less than $0.025;
+
+(b) five cents where the amount computed in accordance with subsection (1) is equal to or greater than $0.025 but less than $0.05; and
+
+(c) in any other case, the amount computed in accordance with subsection (1).
+
+[6] On April 1, 1997, that subsection was repealed and replaced, also non-retroactively, by subsection 165.1(2) of the Act to take into account the introduction of the harmonized sales tax. Its application has been simplified in that one needs only to verify whether the total consideration is 25 cents or less to determine whether it is applicable. Subsection 165.1(2) reads as follows:
+
+165.1 (2) Coin-operated devices- Where the consideration for a supply of tangible personal property or a service is paid by depositing a single coin in a mechanical coin-operated device that is designed to accept only a single coin of twenty-five cents or less as the total consideration for the supply and the tangible personal property is dispensed from the device or the service is rendered through the operation of the device, the tax payable in respect of the supply is equal to zero.
+
+[7] In Distribution Lévesque Vending (1986) Ltée. v. The Queen, 97 GTC 1079, Judge Tremblay found that it was impossible to collect the GST on supplies made before April 1996 from devices that now meet the conditions prescribed in subsection 165.1(2) of the Act. Even though one might not agree with Judge Tremblay's opinion regarding the legislator's intent that the supplies made from those devices be exempted from tax since the amendments are not retroactive, nevertheless, the Governor in Council made the Coin-Operated Devices Remission Order, P.C. 1999-326, permitting any registrant who paid the GST in respect of a supply made between January 1, 1991, and April 23, 1996, which would be exempted under subsection 165.1(2), to apply, within two years after the day on which the order was made, for a remission of GST paid. The date on which the order was made is March 4, 1999.
+
+[8] To answer the first question, it must be determined whether the devices described in "Schedule A" above are mechanical coin-operated devices designed to accept only a single coin of 25 cents or less as the total consideration for the supply. Those two conditions must therefore be met for the appellant to be entitled to claim the exemption under subsection 165.1(2) of the Act.
+
+[9] As admitted, the appellant is an amusement device business that supplies mainly gambling operations. The president of the appellant, Denis Jolin, has been interested in the field since 1984 and, in 1990, he and his brothers founded the appellant corporation. The appellant rents amusement devices and operates "arcades". Mr. Jolin's role in the appellant corporation is to maintain, repair and purchase those devices. "Schedule A" contains an inventory of the devices that the appellant owned during the period in question. The devices are divided into three classes: table devices (hockey-soccer), pinball-type devices (electronic billiards) and video games with a television screen.
+
+[10] The vast majority of those devices during the period at issue accepted one 25-cent coin. Mr. Jolin testified that the appellant had three one-dollar devices in 1993 and in the summer of 1994, but that all the others had operated on one 25-cent coin. He explained that, with the exception of the billiard and soccer tables, the coin collection mechanism was the same (I-10). That mechanism has no return. It is equipped with what is called a coin acceptor (A-2) or a coin validator. Its function is to identify the object inserted in the coin slot. If that object is a 25-cent coin, it directs the coin to the right place to make the device work, and, if it is a token or other object, it rejects it and directs it to a receptacle intended for that purpose.
+
+[11] According to Mr. Jolin, it is impossible to change or reduce the length of the game obtained by depositing the coin. He explained that there are more sophisticated coin collectors, for example, in candy and other snack machines, which accept various coins and return change. However, he added that it is impossible to install those collectors in the devices in "Schedule A" because of their dimensions and the special hook-up that would be required but that does not currently exist. The conversion to a token system for the period in question was not practical because the collectors had to be converted to accept tokens and because a person had to be present to sell them. Lastly, he explained that it is possible to deposit more than one 25-cent coin in the collectors, but that the collector does not count the number of 25-cent coins a particular person has deposited.
+
+[12] Among the devices classified as billiard and soccer tables, Mr. Jolin admitted that, apart from the one-dollar tables, there were 50-cent and 75-cent devices during the period at issue. He estimated that the amount of tax paid for those devices was $1,000. It is therefore clear that those devices are not designed to accept only a single coin of 25 cents or less, even if they operate mechanically (I-13). The tax is thus payable on those devices.
+
+[13] As to the coin collector (I-10) or acceptor, it comes with a coin validator (A-2), which may be interchanged in order to identify other coins, but only one validator can be used at a time. In this instance, the quarter, once validated, makes its way through an opening and its weight on a metal rod activates a switch, which Mr. Jolin referred to as a micro-mechanical switch. Once the coin completes its course, the device signals that a game can be played. It is possible to insert as many as ten 25-cent pieces successively, depending on the device, but only one game can be played per coin. Some devices enable the user to extend the game. Mr. Jolin acknowledged that the devices in the video game class are in fact computers and that, depending on the device, they may be programmed to extend or reduce the length of the game.
+
+[14] Each of the parties called an expert witness. The appellant called an expert in gaming equipment and the respondent called an expert in games and electronic and electrical amusement devices. According to Michel Bergeron, the appellant's expert, the amusement devices in "Schedule A" accept only one 25-cent coin as payment, and the coin acceptors during the period at issue were not automatic and operated by mechanical force. He explained that those coin acceptors, which can accept only one coin predefined by its diameter and weight, operate mechanically in that the coin enters a predetermined space, falls onto a scale, slides in front of a magnet and either falls into an acceptor reservoir or into a rejection chute, depending on the acceptor. If the coin is accepted, it activates the switch and an electrical pulse sends a signal to activate a credit. These coin acceptors therefore differ from those found in vending machines equipped with electronic coin acceptors, which make it possible to modify the amount of the consideration payable for each of the items dispensed by the device in a simple and quick manner. According to Mr. Bergeron, this type of coin acceptor could not be used in the devices in "Schedule A" because the box was not large enough, the electronic circuit had to be changed and a transformer had to be added to increase the voltage. He acknowledged that the devices in "Schedule A" could not indicate the total number of 25-cent coins a player might insert.
+
+[15] Questioned about the operation of the coin collector, Mr. Bergeron stated that, in Asia, the collector in Exhibit I-10 is not used because there is only one hole through which the coin can pass into the validator (A-2) and activate the switch. The validator, he said, is the central element of all coin collections, even though it does not give any signal. Mr. Bergeron also said that the coin validator (A-2) is not a component of the coin collector (I-10) because its form may vary.
+
+[16] Alain Caron testified for the respondent. He provided a detailed explanation of the components of a video game device and also explained the successive stages that take place in order for the device to work. If the coin is valid, it follows the same path from the collector to the validator to the switch, which is located in the collector (I-10). It is the mechanical action of the coin that activates the switch and makes an electrical connection possible. Once activated, the current is transmitted by an electrical wire attached to the bottom of the collector (I-10). If this last part does not activate the device, the game cannot begin. He testified that it is possible to modify the game's computer to determine the number of credits allowed for the amount collected. The devices in issue gave a credit of one game per 25 cents. He said that the collector and the validator form a whole and create a movement, which he characterized as "electro-mechanical". He admitted that, once the switch was activated, the command button nevertheless had to be pressed for the device to switch on.
+
+[17] Mr. Caron explained that this type of coin collector with validator is found in electrical pinball-type gaming devices. The player's skill can make the game last longer. The table games (billiards and soccer) have a purely mechanical acceptor, which activates another mechanical part without any electrical current. Exhibit I-13 was identified as that type of acceptor, which can take up to four quarters at a time. As to Exhibit A-3, the mechanism found in vending machines, Mr. Caron had never seen it in the devices in issue. He said he did not know whether it could be adapted to the devices in question.
+
+[18] What emerges from all this evidence is that the devices in issue, with the exception of the billiard and soccer tables, are electronic rather than mechanical devices, except that the coin collector operates mechanically and can only accept a single 25-cent coin. It must therefore be determined whether the supply was made by means of the coin collector or by means of the electronic game and its switch in the devices that have both a mechanical and an electronic component.
+
+[19] Distribution Lévesque, supra, is the only case that deals with the application of subsection 165(3.1) of the Act (now subsection 165.1(2)), and the devices in question were purely mechanical, unlike the ones in the instant case. The term mechanical, however, has been analyzed in Grande Prairie (City) v. Gauvreau, [1998] A.J. No. 300, in which the significance of a mechanical parking meter had to be determined. In analyzing the distinction between a mechanical and an electronic device, the Court found that the parking meter was mechanical despite the fact that it had an electronic component. The following is an excerpt from that decision:
+
+12 Each party turned in argument to dictionary definitions of the terms "mechanical" and "electronic" for assistance. The City also referred to a brochure describing the new meter, which was entered as an exhibit. It describes the battery-operated meter as "will accept standard mechanism or electronic Mke II mechanism". The City argues that the word mechanism means the meter is mechanical or, alternatively, that any machine is mechanical, no matter what its source of power.
+
+13 The City cites Webster's Seventh New Collegiate Dictionary for the following definitions:
+
+mechanism - 1. a piece of machinery mechanical - 1 a. of or relating to machinery or tools b. of or relating to manual operations ... 3. done as if by a machine; 4. relating to, governed by, or in accordance with the science of mechanics 5. of or relating to a process that involves a purely physical change
+
+14 The Respondent argues that this means that a force other than an electrical force must be utilized for the meter to be considered mechanical. Reference to the word "mechanics" in the Webster's Dictionary is expanded, in the Respondent's argument, to include only those machines with working parts. Reference is made to definitions from the World Book Dictionary, as follows:
+
+Mechanics - 1. the branch of physics dealing with the action of forces on solids, liquids, and gases at rest or in motion (2) knowledge dealing with machinery
+
+Mechanism - 1. a machine or its working parts (4) the mechanical part
+
+Machine - 1. an arrangement of fixed and moving parts for doing work, each part having some special thing to do; mechanical apparatus or device
+
+15 The Respondent also quotes from the World Book Encyclopedia, Volume "M", under "Machines" as " a device that does work", consisting of "... gears and ball bearings, that work together ... all machines are based in some way on ... the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw".
+
+16 He also quotes the New Encyclopedia Britannica under "Machine and Machine Components" as follows "All machines ... must perform a motion-modifying function, since if the parts of a mechanical device do not more [sic], it is a structure, not a machine" and that "... all machines have a mechanism, and consequently perform a motion-modifying function ...".
+
+17 He also quoted extensive definitions of "battery", "electricity" and "electrical" to support a submission that because they have different definitions than "mechanical" that the meter could not be mechanical.
+
+18 None of the definitions cited conclusively states whether a battery-powered appliance can be considered to be a mechanical appliance. There was no expert evidence whatsoever in this case as to what the parking meter actually contained and how it operated, i.e. no evidence indicating what it contained aside from the battery and the LCD crystal displaying the time.
+
+19 Therefore, I do not know whether or not the meter contained any "working parts", nor whether it had any moving parts, nor whether it performed a motion-modifying function, nor whether any part of it was based on the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw.
+
+20 However, there was evidence that it operated by the insertion of a coin to perform a function, i.e. measuring time. It was a device that did work in that sense.
+
+21 On the basis of this evidence I conclude that the parking meter was a mechanical appliance within the meaning of the by-law, by concluding that it performed work, i.e. it performed its function. Many appliances that are commonly considered to be machines, or mechanical, are powered by electricity. I cannot conclude that the energy source of the parking meter governs the total nature of that appliance so as to take it outside the ambit of the by-law.
+
+[20] As in the case before us, coin-operated devices may be equipped with a mechanical coin acceptor or validator, even though the game starter is electronic. Can those devices be considered mechanical coin-operated devices within the meaning of subsection 165.1(2) of the Act? Is it the coin acceptor or the game starter that determines whether a device is mechanical or electronic?
+
+[21] In my view, the purpose of subsection 165.1(2) is to avoid imposing on a registrant an obligation to pay the tax on a supply that is impossible to collect from the consumer. What makes it impossible is the coin acceptor, not the game starter. From the moment the consideration for the supply is accepted by the device, the start of the game or the calculation of the credits necessary to play has no effect on the collection of the applicable tax. With an electronic coin acceptor, change can be returned to the consumer and the registrant can collect tax in addition to the price of the supply, whereas this cannot be done with a mechanical coin acceptor.
+
+[22] Subsection 165.1(2) concerns collection of the tax, and its purpose is not to render the supply made through a mechanically-operating device non-taxable, but rather, to avoid requiring a registrant who sells a supply by means of such a device to pay a tax which he cannot collect from the consumer. Under the Act, other supplies are not taxed for reasons relating to the supplies as such. Under subsection 165.1(2), the tax on the supplies is zero because of the method for collecting the consideration for those supplies, not because of a characteristic of the supplies as such. It is therefore the method for collecting the consideration that warrants the special treatment. In my view, if the part of a coin-operated device used for accepting or rejecting coins is mechanical, for the purposes of subsection 165.1(2) of the Act, the device is a mechanical coin-operated device, even if the part of the coin-operated device that starts the game is electronic. If those devices are designed to accept only a single coin of 25 cents or less as the total consideration for the supply, they fall under this provision.
+
+[23] That some of these devices enable the user to accumulate credits by inserting more than one quarter does not alter the fact that the total consideration for each credit is 25 cents, in the same way that a quarter is added to extend the game. With the exception of the devices that require more than 25 cents to operate and in respect of which the appellant paid $1,000 in tax, the devices in issue, as described in Schedule A", are mechanical coin-operated devices, and the tax payable in respect thereof is zero.
+
+Limitation Period
+
+[24] In the instant case, the appellant filed an application in writing on March 2, 1998, for remission of GST with the Deputy Minister of Revenu Québec, who acts as agent for the Minister of National Revenue. In addition, an application in writing for remission dated February 7, 2000, under the Coin-Operated Devices Remission Order was filed with the Deputy Minister of Revenu Québec by the Receptaxes corporation, acting as the agent for a number of companies, including the appellant.
+
+[25] In her argument, the respondent contends that, under subsection 261(3) of the Act, all the transactions that took place prior to March 2, 1994, are time-barred since the remission is paid only if the person applies for it within four years following payment of the amount. In Sterling Business Academy Inc. v. The Queen, 99 GTC 3038, and Panar v. The Queen, [2001] GTC 400, this Court has already ruled that it does not have the power to amend, extend or cancel the limitation period in question. It must therefore rely on the provisions of subsection 261(3) of the Act. The remission applied for, which is prior to March 2, 1994, is therefore time-barred.
+
+[26] In view of the fact that the amendments made to the Act respecting the cancellation of the tax on coin-operated devices came into force on April 24, 1996, and the legislator did not make the said amendments retroactive, this Court must therefore rely on its decision in Distribution Lévesque, supra. According to that decision, in enacting subsection 165(3.1), a provision which now appears in subsection 165.1(2), the legislator acknowledged that the GST could not be collected on the supplies made from those devices. However, the fact that the new provisions do not apply retroactively is inconsistent with the position taken in Distribution Lévesque. Nevertheless, the Minister of Revenue chose not to appeal from that decision, and, on his recommendation, the Coin-Operated Devices Remission Order (P.C. 1999-326) was made on March 4, 1999, under subsection 23(2) of the Financial Administration Act.
+
+[27] That order concerns eligible supplies in respect of which the tax payable under Division II of Part IX of the Act would be zero as a result of subsection 165.1(2) of the Act. It provides for a remission to the registrant of the tax payable under that provision for the period beginning on January 1, 1991, and ending on April 23, 1996. The Minister of Revenue has thus acknowledged the difficulties caused by the collection of GST in respect of the coin-operated devices defined in subsection 165.1(2). In light of all these factors, I concur in our Court's finding in Distribution Lévesque respecting the legislator's intent that a registrant not be required to remit a tax that is impossible to collect, even before the new provisions of April 24, 1996, came into effect.
+
+[28] Since I have concluded that the devices in issue (except those that take more than a single quarter in order to operate) are mechanical coin-operated devices designed to accept only a single coin of 25 cents or less as the total consideration, I find therefore that they fall under the Coin-Operated Devices Remission Order. Consequently, the tax paid prior to April 24, 1996, in respect of supplies made by means of those devices would be remittable.
+
+[29] However, I do not have jurisdiction to enforce a remission order. In The Queen v. Perley, 99 D.T.C. 5176, the Federal Court of Appeal so ruled, as did Judge Lamarre Proulx in Pochanos v. M.N.R., 90 D.T.C. 1668, in particular, that a remission order deals with the procedure for collecting unpaid taxes, not with the assessment of taxes. The Court does not have jurisdiction under section 12 of the Tax Court of Canada Act to hear appeals brought before it on questions arising under the Financial Administration Act.
+
+[30] The final point raised by the respondent concerned the appellant's right to apply for a remission of GST since it was not the appellant but the recipients of the supplies that had paid it. It appears from the evidence and from the conclusions I have reached that no GST was collected from the consumer on the supplies from the coin-operated devices described in "Schedule A" and that the amount of tax paid by the appellant came from the consideration received in respect of which the tax is zero. It is therefore the appellant that is entitled to claim the remission since it was not required to play the role of a tax collector remitting amounts to the government.
+
+[31] For these reasons, the appeal is allowed, with costs, and the assessment is referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 26th day of September 2002.
+
+"François Angers"
+
+J.T.C.C.
+
+Translation certified true on this 29th day of November 2002.
+
+Sophie Debbané, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+1999-2642(GST)G
+
+BETWEEN:
+
+LES AMUSEMENTS JOLIN INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on January 31, 2002, and on February 1st, 2002,
+
+at Montréal, Quebec, by
+
+the Honourable Judge François Angers
+
+Appearances
+
+Counsels for the Appellant: Yves Poirier
+
+Louis Charron
+
+Counsel for the Respondent: Michel Morel
+
+Geneviève Paradis (student-at-law)
+
+JUDGMENT
+
+The appeal from the assessment made under the Excise Tax Act is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 26th day of September 2002.
+
+"François Angers"
+
+J.T.C.C.
+
+Translation certified true on this 29th day of November 2002.
+
+Sophie Debbané, Revisor
+
+[OFFICIAL ENGLISH TRANSLATION]
+

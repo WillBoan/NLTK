@@ -1,0 +1,304 @@
+Date: 19991028
+
+Dockets: 97-3477-IT-G; 97-2003-UI; 97-211-CPP
+
+BETWEEN:
+
+ALEXANDER BRUCE CAMERON,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Teskey, J.T.C.C.
+
+[1] The Appellant appeals assessments under the Income Tax Act, the Unemployment Insurance Act and the Canada Pension Plan, being all director's liability assessments.
+
+Issues
+
+[2] There are two possible issues herein:
+
+Firstly: Did the Appellant's actions meet the due diligence test in subsection 227.1(3) of the Income Tax Act (the "Act")?
+
+and if not
+
+Secondly: Should the assessments be reduced by five different amounts totalling $44,408.92?
+
+The Law as to the Applicable Standard of Care
+
+[3] There are two decisions of the Federal Court of Appeal that interpret the relevant provisions before me, namely: Soper v. The Queen, 97 DTC 5407 and Corsano v. Canada, [1999] 3 F.C. 173.
+
+[4] Robertson J.A., in Soper (supra), under the heading: "The Standard of Care", when dealing with the common law on director's liability, confined himself to four areas, namely:
+
+First, it is clear that directors are not to be equated with trustees. As Gower points out, directors are agents of the company rather than its trustees: ...
+
+...
+
+The second proposition that I wish to discuss is the following: a director need not exhibit in the performance of his or her duties a greater degree of skill and care than may reasonably be expected from a person of his or her knowledge and experience. Thus, the standard of care is partly objective (the standard of the reasonable person), and partly subjective in that the reasonable person is judged on the basis that he or she has the knowledge and experience of the particular individual. It is a hybrid "objective subjective standard". ...
+
+Third, a director is not obliged to give continuous attention to the affairs of the company, nor is he or she even bound to attend all meetings of the board. However when, in the circumstances, it is reasonably possible to attend such meetings, a director ought to do so. Subsequent English cases, though, went to more of an extreme, permitting a director to avoid liability despite having missed all board meetings for a period of several years: see e.g. Re Denham & Co. (1883), 25 Ch.D. 752 (C.A.); see also Re Cardiff Savings Bank, Bute's (Marquis) Case, [1892] 2 Ch. 100 (Ch.). Notwithstanding such authorities, it would be silly to pretend that the common law would stand still and permit directors to adhere to a standard of total passivity and irresponsibility. At the risk of getting ahead of myself, it should be noted here that the law today can scarcely be said to embrace the principle that the less a director does or knows or cares, the less likely it is that he or she will be held liable. Further to this point, the statutory standard of care will surely be interpreted and applied in a manner which encourages responsibility. ...
+
+Fourth, in the absence of grounds for suspicion, it is not improper for a director to rely on company officials to perform honestly duties that have been properly delegated to them. Further to this point, it is the exigencies of business and the company's articles of association that, together, will determine whether it is appropriate to delegate a duty. The larger the business, for instance, the greater will be the need to delegate.
+
+Under the heading: "Analysis", he said:
+
+In order to satisfy the due diligence requirement laid down in subsection 227.1(3) a director may, as the Department of National Revenue has noted, take "positive action" by setting up controls to account for remittances, by asking for regular reports from the company's financial officers on the ongoing use of such controls, and by obtaining confirmation at regular intervals that withholding and remittance has taken place as required by the Act: see Information Circular 89-2, supra at para. 7.
+
+Likewise, some commentators have advised directors that, if they wish to be able to rely successfully on the due diligence defence, it would be wise for them to consider undertaking a number of "positive steps" including, in certain circumstances, the establishment and monitoring of a trust account from which both employee wages and remittances owing to Her Majesty would be paid: see e.g. Moskowitz, supra at 566-68.
+
+While such precautionary measures may be regarded as persuasive evidence of due diligence on the part of a director, in my view, those steps are not necessary conditions precedent to the establishment of that defence. This is particularly true with respect to the establishment of a separate trust account for source deductions to be remitted to the Receiver General. It is difficult to hold otherwise given the fact that Parliament abolished that express requirement for the purpose of achieving other legislative goals. Above all, a clear dividing line must be maintained between the standard of care required of a director and that of a trustee. Accordingly, an outside director cannot be required to go to the lengths outlined above. As an illustration, I would not expect an outside director, upon appointment to the board of one of Canada's leading companies, to go directly to the comptroller's office to inquire about withholdings and remittances. Obviously, if I would not expect such steps to be taken by the most sophisticated of business-persons, then I would certainly not expect such measures to be adopted by those with limited business acumen. This is not to suggest that a director can adopt an entirely passive approach but only that, unless there is reason for suspicion, it is permissible to rely on the day-to-day corporate managers to be responsible for the payment of debt obligations such as those owing to Her Majesty. This falls within the fourth proposition in the City Equitable case: see discussion supra at page 15. The question remains, however, as to when a positive duty to act arises.
+
+In my view, the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem. The typical situation in which a director is, or ought to have been, apprised of the possibility of such a problem is where the company is having financial difficulties. ...
+
+[5] Marceau J.A. said he did not dissociate himself from Robertson J.A.'s reasons. He based his conclusion on simpler reasons, namely:
+
+Subsection 227.1(1) makes a director liable for the failure of his or her corporation to remit the monies withheld as taxes and other source deductions from its employees' salaries, and subsection 227.1(3) relieves a director of his or her liability if he or she can show that he or she exercised a certain degree of care, diligence and skill to prevent such failure. By these provisions, Parliament, I think, has imposed on a director of a corporation a completely new, separate and positive duty. Such duty is owed not to the corporation but to the Crown, and consists of an obligation to do what one reasonably can to prevent such failure from occurring. ...
+
+[6] Letourneau J.A., in Corsano (supra), dealt with the applicable standard of care for a director, his reasons being agreed to by Noël J.A., with Desjardins J.A. concurring. Letourneau J.A. said:
+
+I have had the benefit of reading the reasons prepared by my colleague Noël J.A. and share his views as to the liability of the respondents. However, I have come to such conclusion from a different approach which needs to be stated. It involves legal considerations with respect to the interpretation of subsections 227.1(1) and (3) (the Act) and the application of the defence of due care and diligence.
+
+He said under the heading: "The Standard of Care and Diligence Applicable in the Present Instance":
+
+It is true that in Soper, this Court wrote that "the standard of care laid down in subsection 227.1(3) of the Act is inherently flexible".11 It is obvious, however, on the reading of the decision, that it is the application of the standard that is flexible because of the varying and different skills, factors and circumstances that are to be weighed in measuring whether a director in a given situation lived up to the standard of care established by the Act. For, subsection 227.1(3) statutorily imposes only one standard to all directors, that is to say whether the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+
+I agree with counsel for the appellant that the rationale for subsection 227.1(1) is the ultimate accountability of the directors of a company for the deduction and remittance of employees' taxes and that such accountability cannot depend on whether the company is a profit or not-for-profit company, or I would add whether the directors are paid or not or whether they are nominal but active or merely passive directors. All directors of all companies are liable for their failure if they do not meet the single standard of care provided for in subsection 227.1(3) of the Act. The flexibility is in the application of the standard since the qualifications, skills and attributes of a director will vary from case to case. So will the circumstances leading to and surrounding the failure to hold and remit the sums due.
+
+and under the heading: "Application of the Standard of Care and Diligence to the Respondents":
+
+In the present instance, the failure to withhold and remit the sums due to the Crown began in November 1992. Some of the respondents (Lawrence, Parsons, MacDonald and Wheeliker) learned of it at the January 13, 1993 meeting of the directors while the others (Corsano and Maindiratta) were apprised of the fact at a subsequent meeting on February 3, 1993. In the case of respondents Corsano, Wheeliker and Maindiratta, they knew of the financial difficulties of the Corporation as of November 1992.
+
+Yet, somewhat surprisingly, the failure to withhold and remit the sums due lasted until October 1993 when the Corporation finally went bankrupt. This means that, as of their learning of the financial difficulties of the Corporation or its failure to remit, all the respondents were under a positive duty to act to prevent failure to make current and future remittances and not simply to cure default after the fact.12 At best, the duty existed for some directors for nine months. At worst, for others, the omission to prevent failure lasted 12 months.
+
+The evidence revealed that no positive steps were taken to prevent the Corporation's failure to remit current and future source deductions when it started to experience financial difficulties. At the January 13 and February 3, 1993 meetings, no action was taken by the directors with respect to the matter.
+
+...
+
+... Moreover, once again, no positive steps were taken such as setting up controls to account for remittances, asking for regular reports from the manager on the ongoing use of such controls and ensuring at regular intervals that the remittances have taken place. And the failure continued to occur for some more months. In fact, the directors delegated their authority on this matter to the Manager, but literally failed to control its exercise notwithstanding clear evidence of repeated omissions and failures on the Manager's part. The delegation amounted to nothing less than abdication.
+
+...
+
+... In my view, this fails to address the issue. Such payment would have corrected default and paid the past remittances, but the issue of the current withholding and remittances was left unaddressed. No steps were taken to put an end to the on-going failures and to prevent the likely on-coming failures.
+
+... In addition, according to the directors, the Manager did not follow their instructions to pay Revenue Canada. Yet, no swift and diligent measures were taken to address this alleged disobedience by the Manager and correct the situation for the past and the future. ...
+
+Fourth, in assessing the respondent's due diligence, the Tax Court Judge took into consideration the fact that the directors were satisfied that the asset values of the Corporation would be sufficient to meet the claims of all creditors, including Revenue Canada. With respect, this is an irrelevant consideration. The obligation on the directors is to prevent a failure, not to condone it systematically, as the respondents did, in the hope of eventually correcting it because there would be enough money in the end to pay all the creditors.
+
+Fifth, he was satisfied that the directors made inquiries at the meetings of the Board with respect to the status of remittances. He may have been satisfied that such behaviour was sufficient to meet the less rigorous test that he was applying to the situation. However, this is obviously not enough to meet the burden imposed by subsection 227.1(3).
+
+Facts, re Standard of Care
+
+[7] The facts are not in dispute, it is the application of the above law to the facts herein that is at issue.
+
+[8] The Appellant's assessment period is from January 1, 1994 to April 30, 1995.
+
+[9] The Appellant, Dean Foote ("Foote") and Joseph Coulliard ("Coulliard") became directors of FuturePlast Technologies Ltd. (the "Corporation"), a private family held corporation, on August 10, 1993. The Appellant resigned in early June of 1995, after the assessment period.
+
+[10] At the time the Appellant became a director, he knew that the Corporation had defaulted in its source deduction remittances.
+
+[11] The Appellant, a knowledgeable solicitor and member of several boards of directors of public corporations, was asked by the board of directors to assist an existing board member, Charles Theodore Swanton ("Swanton"), who had been hired to take the Corporation public. The Appellant never attended at the plant or office of the Corporation.
+
+[12] From August 1993 to the end of September 1994, the Appellant would ask the President, Harvey Jaehn ("Harvey"), monthly, if source deductions were being calculated and remitted to Revenue Canada, as required by law. Harvey's response was always positive. He also repeatedly asked for financial information, which was not forthcoming.
+
+[13] Because the application to take the Corporation public was stalled, the Appellant successfully recruited Christopher Samuel McArthur ("McArthur"), a chartered accountant, to join the board and assist in the application. He joined the board on September 30, 1994, the same time that Coulliard ceased to be a director.
+
+[14] Prior to agreeing to join the board of directors of the Corporation, McArthur and Swanton did a study and sent a written memo to Harvey, entitled: "Due Diligence, Visit of September 6, 1994, Public Share Issue." The memo states as the purpose:
+
+The purpose of our visit was to obtain a thorough understanding of your business, its stage of development, present challenges, future prospects and the degree of involvement required by each of us to ensure success of the business itself and a solid following in the public markets.
+
+Under the heading: "Financial Reporting System", the memo stated:
+
+The present financial reporting system of the company is simply not sufficient to run a manufacturing business. Timely and accurate financial information are of paramount importance when a business operates with a working capital deficiency. The introduction of Futureplast to the public arena with its present financial reporting systems will result in serious director liability exposure.
+
+Under the heading: "Present Financial Condition", the memo stated:
+
+Based on the May 31, 1994 financial statements, the company had a current ratio of approximately 1:1, before the consideration of the current portion of long term debt. Based on our understanding of revenues from June through August, we anticipate additional losses of approximately $100,000 were incurred, further deteriorating the company's financial situation. We are not aware of the current status of all trade creditors, however we are particularly concerned about Revenue Canada source deductions which is indicated at $142,781 as at May 31, 1994, and any amounts owing to the City of Edmonton regarding taxes, rent or otherwise. Please advise us on the exact situation with the aforementioned creditors and any other creditors whose situation is critical.
+
+Under the heading: "Insurance Claims", the memo stated:
+
+On the basis of discussion with Mr. Feenan, it is obvious the claims for equipment or business interruption are far from settled, as Mr. Feenan advises the claim forms have not even been submitted and it will take six months to a year to get the issues settled.
+
+Mr. Feenan had advised us a settlement of $75,000 was reached regarding the building. We viewed this as a positive step until we were advised that $20,000 was being applied to tax arrears to the City of Edmonton, and the remaining liability may exceed $50,000.
+
+[15] There were five recommendations, which read:
+
+1. We believe a business/production manager with a mandate to ensure the safe, orderly, and cost efficient production of FuturePlast should be hired from outside the present organization. The individual will possess exceptional organizational and leadership skills. We do not believe the present production team has the ability to deliver the consistent production required for this venture. Please advise us if any positions will be eliminated by this hiring, or alternatively, if the position will be a straight addition to overhead.
+
+2. We recommend the hiring of a Chief Financial Officer. This individual will be responsible for the development and maintenance of a new financial reporting system as requested by Board. We consider this hiring essential given the financial reporting requirements of any public company and the degree of development of FuturePlast.
+
+3. We recommend the recent net insurance proceeds be allocated at least one-half to critical situation creditors such as Revenue Canada. Creditors of this type must be paid immediately because they hold direct exposure to the directors and have the ability to cease operations of the company.
+
+4. We recommend a complete working paper file be prepared for the May 31, 1994 year-end of the company. The file will be prepared by the anticipated CFO of the company on a contract basis. Upon preparation of the file Mr. Skolney will be engaged to finish his audit procedures. The May 31, 1994 audited financials will reflect, to the maximum extent possible, the benefits from the R & D tax credit and the insurance claims.
+
+5. We believe the company's present approach of using Mr. Feenan solely as an advisor detracts from the main focus of the company. The facts of the matter are that FuturePlast needs a settlement and it needs it now. Mr. Feenan will be engaged to handle the matter expeditiously. We also advise Mr. Feenan will be requested to negotiate an interim payment on the equipment and business interruption losses. Existing management will merely be advised of progress.
+
+[16] The Appellant was aware of the memo in September of 1994 and received a letter from Revenue Canada, dated September 19, 1994, which advised him of source deduction arrears of the Corporation, in the amount of $205,802.99. The letter advised the Appellant he may be held liable as a director under the Act, and contains the following passage:
+
+If you need more information on your obligations as a director and the need to develop, implement, and monitor corporate policy to ensure remittance of source deductions, you can get a copy of Information Circular No. 89-2R entitled, "Directors' Liability – section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act," at your tax services office.
+
+[17] By the end of September 1994, the Appellant knew that Harvey had lied to him about source deductions and that his word was worthless.
+
+[18] The Appellant was responsible for getting McArthur involved as a director, which by his efforts, allowed the Corporation's chartered accountants, Skolney & Company of Edmonton, to audit and produce an auditor's report concerning the year-end of the Corporation as at May 31, 1994 on October 21, 1994.
+
+[19] The prospectus for the public offering ("PO") contains, at page 29, the auditor's reporting letter, dated October 21, 1994, and when copied for the prospectus, states that Note 15 is at January 15, 1995. At pages 30 to 32 of the prospectus, are pages of financial statements of the corporation at May 31, 1993, May 31, 1994 and unaudited as of November 30, 1994. Page 29 was obviously amended on January 12, 1993 and pages 30 to 42 were prepared between November 30, 1994 and January 12, 1995. The Appellant said he had seen money drafts and I therefore conclude that at the latest, by the middle of October 1994, he had seen drafts of the audited financial statement of the Corporation for May 31, 1994 and the comparison figures from the previous year and whatever notes were attached thereto except Note 15.
+
+[20] He was also responsible for placing the business interruption insurance claim totally into the hands of reputable solicitors in Edmonton and the hiring part-time of an outside person as controller by the name of Ralph Salomon ("Salomon"), who did not become full-time until January of 1995.
+
+[21] All McArthur did concerning source deductions, was to tell management that they had to be calculated and remitted according to the law. Neither he nor the Appellant took any positive action to set up or place into existence controls to account for remittances and the ongoing use of any controls.
+
+[22] The Appellant still made his personal enquiries as to source deductions and was obviously misled by Harvey or Salomon in November and December of 1994 and again in January and February.
+
+[23] In September 1994, the Appellant knew that an agreement was being negotiated with Revenue Canada concerning an assignment of the business interruption insurance claim, but never saw the agreement nor asked to see it. The Corporation entered into the agreement on the 28th of September 1994 and affixed its corporate seal thereto (Tab 4, Exhibit A-1).
+
+[24] The Corporation failed to remit the source deductions for each period, from January 1994 to July of 1994, and again for the October and December 1994 periods, as well as for the January, February and March 1995 periods (Schedule "A" to Reply to the Notice of Appeal).
+
+[25] The public offering prospectus, dated January 12, 1995, which the Appellant would have seen many drafts thereof prior to this date, shows among other things, that:
+
+(1) The Corporation experienced a fire loss, which was insured and that it expected to:
+
+(a) receive $75,000 on its storage building; and
+
+(b) $331,828 for business interruption
+
+(2) That the gross proceeds from the P.O. would be $650,000;
+
+(3) That proceeds for special warrants issued September 1994 of $120,000 was to be received;
+
+(4) The Corporation expected to receive funds on the basis of claims for refundable investment tax credits in respect of scientific research and development expenditures (S.R.T.C.) in the amounts of $163,394 and $19,865 from Revenue Canada. It states that the $19,865 has been assigned as security, but no evidence has been adduced to this effect;
+
+(5) That the Corporation had an audit committee made up of Harvey, Swanton and McArthur (which obviously did not function);
+
+(6) That the Appellant, along with others, had options to purchase up to 50,000 common shares, up to September 30, 1999 at .25 ¢ a share, being the offering share price to the public;
+
+(7) That on August 10, 1993, the Corporation converted $924,409 shareholder debt into 4,499,900 common shares of the Corporation;
+
+(8) That as of May 31, 1993, that there was a deficit, between assets and liabilities, of $1,276,283, and as of May 31, 1994, of $25,082. It is noted that the shareholder loan was shown as $593,288, as of May 31, 1993, and as $1,490 as of May 31, 1994. This reduction accounts for a large part of the improvement;
+
+(9) That as of May 31, 1993, $75,700 was owed for employee deductions and as of May 31, 1994, $181,014 was owed, and as of November 30, 1994, $218,367 was owed;
+
+(10) That the Corporation was in arrears to its primary first mortgage holder, namely the Alberta Opportunity Corporation ("AOC") as of November 30, 1994, of $61,400.
+
+[26] The public offering was completed on March 23, 1995, and upon receipt of the cheque of approximately $553,000, being the net proceeds, the board held an immediate meeting that same afternoon, where all board members were present, except Dean Foote. The minutes of this meeting are signed by Harvey and the Appellant, as chairman and secretary respectively.
+
+[27] No board meetings were ever held in Edmonton and McArthur never met Foote. The Appellant met Foote for the first time on April 12, 1995.
+
+[28] The signed minutes show that the proceeds of the PO were allocated as follows: (Note, it says "allocated" not "pay".)
+
+Alberta Opportunity Corporation to a maximum of $85,000
+
+Revenue Canada for current payroll deductions to bring 25,000
+
+the current deductions up to date
+
+City of Edmonton for utilities 25,000
+
+Auditors on account/Settlement of the current account 30,000
+
+Alberta Stock Exchange 7,000
+
+Current Payroll 30,000
+
+Management Payroll 30,000
+
+Misc. Payables 28,000
+
+Herb Jaehn to repay loans to the Corporation 15,000
+
+Stock Information Service 5,000
+
+US Agents re commissions owing 3,000
+
+Canadian Agents re commissions 7,000
+
+TOTAL $290,000
+
+Under the heading "Contingency Funds", the following motion appears:
+
+On Motion made and passed unanimously it was resolved that the further amount of $2l3,000 be immediately deposited in a financial institution in such form of deposit as is deemed the best investment by management. Instructions are to be given by management that the funds may only be cashed by the corporation on instructions signed by one of management together with one of the outside directors of the Corporation.
+
+Under the heading "Review of Outstanding Matters", the minutes read:
+
+The status of the accounts with Revenue Canada, AOC, the City of Edmonton and the fire loss were reviewed.
+
+[29] The next board meeting was set for 15:00 hours, at the Capri Hotel in Red Deer, on April 12, 1995.
+
+[30] The Appellant's written notes of the March 23 board meeting shows:
+
+(a) $179,000 in arrears to AOC;
+
+(b) $220,000 owing to Revenue Canada (R.C.), with mention of insurance proceeds and arrears of $25,000; (obviously, the Appellant did not consider there was any need to pay R.C. more than $25,000);
+
+(c) That the priorities on the insurance claim for business interruption was:
+
+Firstly - AOC
+
+Secondly - R.C.
+
+Thirdly - City of Edmonton
+
+(d) Up to a maximum of $50,000 of the money received could be used for plant improvement.
+
+[31] A board meeting was held on April 12, 1995, all board members being present. McArthur was not present as he had resigned from the board. The Appellant, on finding out that management had not followed the express resolutions concerning the $213,000 as passed at the March 23rd board meeting, and that the corporation spent contrary thereto $113,000 of the money, became very angry and went ballistic. There are unsigned minutes for this meeting which were prepared by the Appellant. These minutes contain the following:
+
+Revenue Canada/GST Report Mr. Salomon reported that the payments that are current due to Revenue Canada on account of payroll deductions have been made on time and are presently current. No payments on account of GST are presently being made due to confusion with GST as to the amounts that are owing. That matter is being reviewed and a further report will be made at the next meeting.
+
+Audit committee With the resignation of Chris McArthur there is a vacancy on the Audit Committee which was filled by the appointment of Mr. Cameron to fill that post.
+
+...
+
+March Report The March financial report was not available or tabled at the meeting. It was resolved that in future, commencing immediately with the March 1995 statements, the Chief Financial Officer is to fax to the directors the preliminary accounting reports for the preceding month, all to be faxed within 5 business days of the end of each month. ...
+
+[32] Revenue Canada received a cheque from the Corporation on the day of the last directors' meeting for $27,349.98 which was not honoured by the Bank and marked N.S.F.
+
+[33] The Appellant alleges that he, on his drive back to Calgary from Red Deer, decided to resign from the board. Yet that afternoon, he agreed to go on the audit committee. He apparently did nothing for the Corporation except type up the minutes of the board meeting. He resigned in writing in June of 1995. He obviously abdicated all his duties to Revenue Canada, the Corporation, the audit committee and to himself as of April 13, 1995.
+
+Analysis
+
+[34] Applying these facts to the Soper and Corsano decisions, I believe the Appellant is liable for the defalcation during the assessment period.
+
+[35] He knew at the time he became a director that the Corporation had a default problem. Before he accepted the directorship, at the very least, he should have made whatever enquiries that were necessary to ascertain the full extent of all existing defaults. Then, on becoming a board member, he ought to have done something more than merely asking questions. From day one he ought to have insisted that there be a set procedure that could be continuously monitored to prevent any subsequent failure, as well as to pay Revenue Canada the arrears at the first possible moment. He failed to recognize the Corporation's and his statutory duty to Revenue Canada. Although he made some efforts to protect Revenue Canada's arrears, these efforts were immaterial. His duty was to prevent defalcation under the circumstances.
+
+Issue 2
+
+[36] Having concluded that the Appellant is liable for arrears, I must determine if certain payments should be deducted from the assessment. These are:
+
+(i) January 19, 1994 $786.19 cheque
+
+(ii) February 7, 1994 $5,673.42 cheque
+
+(iii) May 4, 1995 $11,353.11 (this ----- from a cheque in the amount of $38,703.09 was applied to 1993 arrears)
+
+(iv) May 18, 1995 $9,042,69 (GST credit held by Revenue Canada and applied in 1993 arrears)
+
+(v) July 10, 1995 $17,553.57 (S.R.T.C. held by Revenue Canada applied in 1993)
+
+___________
+
+Total $44,408.57
+
+[37] Both parties agreed that the statement in the Canadian Encyclopedic Digest, Western 3rd Edition, under the heading: "Appropriation of Payment", paragraph 92 is a correct summary of the law and reads:
+
+§ 92 It has been considered a general rule since Clayton's Case, that when a debtor makes a payment, he may appropriate it to any debt he pleases and the creditor must apply it accordingly. If the debtor does not appropriate it, the creditor has a right to do so to any debt he pleases. Where no appropriation is made by either party and there is one continuous account of several items, the payments will be applied on the account according to the priority of time; that is, the first item on the debit side is discharged or reduced by the first item on the credit side. This is not an artificial or arbitrary principle, but one founded on the presumed intention of the parties, and is applicable only where there is no evidence sufficient to show a different intention.
+
+[38] The Appellant argues that he is not a debtor and therefore that law does not apply to him and furthermore, it is unfair that money received or seized during the assessment period not be applied to reduce the liability of a director.
+
+[39] I reject the last portion of this proposition.
+
+[40] When the assessment is challenged by a director, the Court must determine if the assessment against the corporation is correct. It is the assessment against the corporation that the director is made liable pursuant to the Act.
+
+[41] Pursuant to the law above stated, I am satisfied on the evidence before me that the assessment against the Corporation is the right amount and thus the assessment against the Appellant is the right amount.
+
+[42] For the following reasons, the appeals are dismissed with costs.
+
+Signed at Ottawa, Canada, this 28th day of October, 1999.
+
+"Gordon Teskey"
+
+J.T.C.C.
+

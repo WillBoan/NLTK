@@ -1,0 +1,990 @@
+Date: 20021206
+
+Docket: 97-3567-IT-G
+
+BETWEEN:
+
+PETRO-CANADA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowie J.
+
+[1] Petro-Canada (PC) appeals from a reassessment for income tax for the taxation year 1992. By that reassessment the Minister of National Revenue (the Minister) disallowed $37,867,255 of the $46,751,752 which PC had claimed as a deduction in respect of Canadian exploration expense (CEE) which had been renounced in its favour by two joint exploration corporations (JECs).
+
+[2] Under section 66 of the Income Tax Act (the Act), as it read in 1992, a JEC could renounce in favour of a shareholder corporation an amount of CEE, which then became a potential deduction in the computation of income for that corporate shareholder.[1] In the present case PC became one of two shareholders in each of two JECs - one (the Phillips JEC) with Phillips Petroleum Canada Limited (Phillips), and one (the CanEagle JEC) with CanEagle Resources Corporation (CanEagle). Each of these JECs made substantial purchases of seismic data, in the first case from Phillips and companies related to it (the Phillips Group), and in the second from CanEagle. The total consideration paid by the two JECs for these purchases was $46,751,752. The purchases were treated by the JECs as CEE, and were renounced in favour of PC, pursuant to their contractual arrangement; PC then claimed the deductions to which I have referred.
+
+[3] The reassessment now under appeal is based upon assumptions made by the Minister that Phillips (and its related companies) did not deal at arm's length with the Phillips JEC, and that CanEagle did not deal at arm's length with the CanEagle JEC in the purchases and sales of the seismic data, and that the total fair market value of all the seismic purchased by the two JECs was in fact only $8,884,497, and not the $46,751,752 agreed on and paid. If this were correct then of course the total CEE available to be renounced in favour of PC would be limited to that $8,884,497, because the sales transactions would be deemed to have taken place at fair market value[2]. The Minister therefore reduced the claimed CEE to that amount by his reassessment.
+
+[4] In delivering his Reply to the Notice of Appeal in this Court, the Deputy Attorney General raised a new issue in support of the assessment. He alleges that the amounts expended by the JECs to purchase seismic data do not come within the definition of CEE found in subsection 66.1(6) of the Act,[3] because they were not incurred by the JECs "¼ for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas ¼" (for convenience I shall refer to this as "the statutory purpose" in these Reasons).
+
+[5] The reassessment by the Minister also disallowed certain scientific research and experimental development expenses, which the Appellant claimed to be entitled to deduct in computing its income for 1992. The parties have now resolved this issue between themselves and they have filed a Consent to Judgment executed on their behalf by counsel. I shall return to the effect to be given to this agreement.
+
+[6] The Appellant, Phillips and CanEagle are "taxable Canadian corporations", as defined in paragraph 89(1)(i) of the Act, and are all in the business of petroleum and natural gas exploration, development and production. Phillips Petroleum Company Western Hemisphere ("PPCoWH") and Phillips Petroleum Resources Limited ("PPRL") are non-resident corporations, related to Phillips, each of which carries on business in Canada through a permanent establishment. CanEagle was the successor corporation to Forest Oil. It subsequently became Archean Energy Ltd. For convenience I shall refer to it throughout as CanEagle.
+
+formation of the JECs
+
+[7] The concept of forming a JEC was first discussed between the Appellant and Phillips in the summer of 1991. The idea had originated with a financial advisor for Phillips, Bob Adams. He outlined the plan at a meeting attended by senior executives of Phillips and the Appellant. Both companies were interested in pursuing deep exploration for gas in the areas of Western Canada known to geologists as the Foothills Trend, Deep Devonian, Mid-Devonian Reef, and the Peace River Arch (the core areas). At that time, Phillips had a considerable pool of CEE, and was not likely to be in a taxable position for a considerable time. Its U.S. parent company was pressing it to become self-funding. The Appellant was in a position to make use of the CEE which could be renounced to it by a JEC. It was also in a position to fund exploration. Phillips had considerable seismic data and mineral leases in the core area. It was apparent to both companies that there were synergies that could be exploited to the advantage of both. It was agreed that the idea would be pursued. Mr. Kevin MacFarlane was at that time the Appellant's manager of lands in Western Canada, and he was given the job of working out the details of an agreement with Phillips to be put before the Appellant's board of directors.
+
+[8] Mr. MacFarlane and his team negotiated with representatives of Phillips over the next several months to structure the agreement that was ultimately put in place. In his evidence, Mr. MacFarlane made it quite clear that from the start section 66 of the Act, permitting the JEC to renounce CEE in favour of the Appellant, was of paramount importance. He also testified quite candidly that the parties agreed to participate in the ratio of 57% ownership by Phillips and 43% ownership by the Appellant, based on the rate of tax to which the Appellant would be subject. The intention was that the Appellant would, through the renunciation of CEE, be protected from loss should it fund an unsuccessful program of exploration for the JEC. Mr. MacFarlane also testified that it was accepted by the Appellant from the beginning that the seismic sales must take place at fair market value, and that the JEC would have to be structured in such a way that neither shareholder could exercise control.
+
+[9] The basis upon which the JEC would be formed and would operate was settled by December 1991. Following approval by the boards of Phillips and the Appellant, the corporate structure was put in place and the contractual terms were agreed to. 509760 Alberta Ltd. (now Phillips P.C. Resources Ltd. by change of name on February 14, 1992, and referred to hereafter as "the Phillips JEC") was incorporated on November 8, 1991. On December 18, 1991, Phillips and the Appellant subscribed for 57 common shares and 43 common shares, respectively, of the Phillips JEC at a nominal subscription price of $1.00 per share. On December 20, 1991, the Phillips JEC purchased a producing oil and gas property from Phillips, in order to enable it to meet the definition of a JEC.
+
+[10] On December 23, 1991, Phillips, the Appellant and the Phillips JEC executed a Unanimous Shareholders' Agreement (USA #1). Pursuant to USA #1, the board of directors of the Phillips JEC consisted of four directors, two nominated by each of the Appellant and Phillips. The affairs of the Phillips JEC were to be decided by unanimous resolution of the board, and there was no provision to break a deadlock of the board.
+
+[11] On December 23, 1991, Phillips and the Appellant subscribed for an additional 6,160,000 common shares (57%) and an additional 4,650,000 common shares (43%), respectively; the aggregate subscription prices for these shares were $61,600,000 and $46,500,000. The Phillips JEC advanced, by way of shareholder loans (the "1991 Phillips JEC shareholder loans"), the sums of $61,514,500 and $46,435,500, respectively, to Phillips and to the Appellant against the delivery by them of non-interest bearing promissory notes in those amounts, payable in whole or in part to the Phillips JEC upon demand. To facilitate the 1991 Phillips JEC shareholder loans, $108,100,000 was deducted from the stated common share capital account of the Phillips JEC, and the same amount was added to its contributed surplus account. Phillips then undertook to make a payment in the amount of $26,500,000 on or before January 8, 1992 in partial repayment of its 1991 PPC shareholder loan. The Phillips JEC committed to purchase a specified body of seismic data (the "1991 Phillips JEC seismic") from the Phillips Group for an aggregate price of approximately $26,500,000 pursuant to three Seismic Data Purchase Agreements. These agreements were incorporated into the USA #1.
+
+[12] The Phillips JEC committed to expend at least $20,000,000 between January 1, 1992 and December 31, 1994 on farm-in "Earning Expenses", including drilling activities and operations necessary to earn a farmee's interest. The Appellant committed to fund the first $20,000,000 of Earning Expenses to be incurred by the Phillips JEC in partial repayment of its 1991 Phillips JEC shareholder loan. Phillips and the Appellant agreed to fund any further Earning Expenses to be incurred by the Phillips JEC by making further repayments on the 1991 Phillips JEC shareholder loans in accordance with their respective percentage interests in the Phillips JEC. The Phillips JEC agreed to renounce the first $46,500,000 of CEE incurred by it to the Appellant in accordance with subsection 66(10.1) of the Act.
+
+[13] On December 23, 1991, Messrs. Lundberg, Goodwin and Curts provided a valuation of the 1991 Phillips JEC seismic, consisting of 16,227 kilometres, at $26,500,312. On December 24, the Phillips JEC purchased the 1991 Phillips JEC seismic from the Phillips Group for an aggregate price of $26,500,382, pursuant to the three Seismic Data Purchase Agreements, which were specifically incorporated into the USA #1.
+
+(a) seismic purchased from Phillips: $ 1,827,676;
+
+(b) seismic purchase from PPCoWH: $ 5,689,896; and
+
+(c) seismic purchased from PPRL: $18,982,810.
+
+[14] At the end of 1992, the Appellant and Phillips took the decision to recapitalize the Phillips JEC to the extent of a further $54 million. To that end, they entered into an Amended and Restated Unanimous Shareholders Agreement (USA #2) on December 18, 1992. The board continued to consist of four directors, two from each of the Appellant and Phillips, with a requirement for unanimity and no provision to break a deadlock.
+
+[15] On December 18, 1992, Phillips subscribed for an additional 3,082,000 common shares (57%), and the Appellant an additional 2,325,000 common shares (43%). The aggregate subscription prices for the shares were $30,820,000 and $23,250,000, respectively. The Phillips JEC advanced, by way of shareholder loans (the "1992 Phillips JEC shareholder loans"), the sums of $30,820,000 and $23,250,000, respectively, to Phillips and to the Appellant, again in exchange for non-interest bearing promissory notes payable in whole or in part to the Phillips JEC upon demand, and again the Phillips JEC reduced its stated capital and increased its contributed surplus by the amount of the shareholder loans. Phillips committed to make a payment in the amount of $13,250,000 on or before January 8, 1993 in partial repayment of its shareholder loan, and the JEC committed to purchase additional seismic data, (the "1992 Phillips JEC seismic") from the Phillips Group for an aggregate price of approximately $13,250,000. Three Geophysical and Geological Data Purchase Agreements were incorporated into the USA #2.
+
+[16] The Phillips JEC committed to expend at least $30,000,000 between January 1, 1992 and December 31, 1995 on farm-in "Earning Expenses", including drilling activities and operations necessary to earn a farmee's interest. The Appellant committed to fund the first $30,000,000 of Earning Expenses to be incurred by the Phillips JEC in partial repayment of its 1991 and 1992 Phillips shareholder loans. Phillips and the Appellant agreed to fund any further Earning Expenses to be incurred by the Phillips JEC by making further repayments on the 1991 and 1992 Phillips shareholder loans in accordance with their respective percentage interests in the Phillips JEC. The Phillips JEC agreed to renounce the first $69,750,000 of CEE incurred by it to the Appellant in accordance with subsection 66(10.1) of the Act.
+
+[17] On December 18, 1992, R.H. Sheppard Exploration Consultants Ltd. provided a valuation of the 1992 Phillips JEC seismic, which consisted of 16,152 kilometres, at $13,250,000.
+
+[18] On December 22, 1992, the Phillips JEC purchased the 1992 Phillips JEC seismic from the Phillips Group for an aggregate price of $13,251,370 pursuant to the three Geological and Geophysical Data Purchase Agreements included in USA #2.
+
+(a) seismic purchased from Phillips: $ 334,500;
+
+(b) seismic purchased from PPCoWH: $4,394,220; and
+
+(c) seismic purchased from PPRL: $8,522,650.
+
+[19] Discussions began in early 1992 between the Appellant and Forest Oil in relation to the creation of a JEC. Before the negotiations were completed, Forest Oil was bought by CanEagle, which completed the deal with the Appellant. The agreement ultimately arrived at was structured in much the same way as that between the Appellant and Phillips, although the ratio of shareholdings was different. 544199 Alberta Ltd. (now Peace Eagle Resources Ltd., which I shall refer to as "CanEagle JEC") was incorporated on October 15, 1992. On December 30, 1992, CanEagle and the Appellant subscribed for 51 common shares and 49 common shares, respectively, at a nominal subscription price of $1.00 per share. On December 30, 1992, the CanEagle JEC purchased a producing oil and gas property from CanEagle. On December 30, 1992, CanEagle, the Appellant and the CanEagle JEC executed a Unanimous Shareholders Agreement (the "CanEagle USA"). Pursuant to the CanEagle USA, the board of directors of the CanEagle JEC consisted of four directors, made up of two nominees from each of the Appellant and CanEagle. The affairs of the CanEagle JEC were to be decided by unanimous resolution of the board, with no provision to break a deadlock.
+
+[20] On December 30, 1992, CanEagle and the Appellant subscribed for an additional 1,400,000 common shares each, with an aggregate subscription price of $28,000,000. The CanEagle JEC advanced, by way of shareholder loans, (the "1992 CanEagle shareholder loans") $13,985,000 to each of CanEagle and the Appellant, secured by non-interest bearing promissory notes payable in whole or in part on demand. To facilitate these loans, the stated capital of the CanEagle JEC was reduced to $30,100 with the balance being added to the contributed surplus account. CanEagle committed to make a payment in the amount of $7,000,000 on or before January 31, 1993 in partial repayment of its loan, and the CanEagle JEC committed to purchase a specified body of seismic data (the "CanEagle JEC Seismic") from CanEagle for an aggregate price of approximately $7,000,000 pursuant to a Seismic Data Purchase Agreement incorporated into the CanEagle USA.
+
+[21] The CanEagle JEC committed to expend at least $7,000,000 on farm-in "Earning Expenses", including drilling activities and operations necessary to earn a farmee's interest, on a best efforts basis. The Appellant committed to fund the first $7,000,000 of Earning Expenses to be incurred by the CanEagle JEC in partial repayment of its 1992 shareholder loan, and it also committed to repay that loan to the extent of $7,000,000 on December 31, 1995 if less than $7,000,000 of Earning Expenses had been incurred by that date. CanEagle and the Appellant agreed to fund any further earning expenses to be incurred by the JEC by making further repayments on the 1992 CanEagle shareholder loans in accordance with their respective percentage interests in the CanEagle JEC. The CanEagle JEC agreed to renounce the first $14,000,000 of CEE incurred by it to the Appellant in accordance with subsection 66(10.1) of the Act.
+
+[22] On December 30, 1992, N.W. Armstrong Exploration Consultants Ltd. provided a valuation of the CanEagle JEC seismic data. The proprietary and joint venture data, 9,321.8 kilometres, was valued at $8,477,165.55 and the purchased data, 14,426.6 kilometres, was valued at $5,402,868.72, a total of 23,748 kilometres and $13,880,034. This valuation was for a 100% interest. However, it appeared that CanEagle was only able to convey an undivided one-third interest. On December 31, 1992, the CanEagle JEC purchased that one-third interest in the CanEagle JEC seismic data from CanEagle for $7,000,000 pursuant to the Seismic Data Purchase Agreement incorporated into the CanEagle USA.
+
+Issues
+
+[23] In assessing the Appellant, the Minister took the position that in each of the three sales of seismic data the vendor and the purchasing JEC did not deal with each other at arm's length. Both paragraphs (a) and (b) of subsection 251(1) of the Act were pleaded by the Respondent, but in argument counsel put the case entirely on paragraph (b), arguing that in each case the vendors and the purchasers acted in concert to inflate the price of the data beyond its fair market value in order to shift losses from the Phillips Group and from CanEagle to the JECs, and ultimately to the Appellant. The values of the three blocks of seismic data sold, according to the Minister's assumptions, were $4,938,127, $1,496,370 and $2,450,000. At trial, the Respondent led evidence that the aggregate value of the seismic data purchased by the Phillips JEC in 1991 and 1992 lay between $1,600,000 and $6,233,000, and that the value of that purchased by CanEagle JEC was between $1,762,000 and $4,591,000.[4] The Respondent says that by reason of subsection 69(1) of the Act, the transactions are deemed to have taken place at fair market value, and that the fair market value establishes the limit of CEE that the JECs could renounce to the Appellant in respect of its purchases from them of seismic data. As an adjunct to this argument, the Respondent also takes the position that the JECs are limited by section 67 of the Act to the deduction of an amount that was "reasonable in the circumstances", and that any amount exceeding the Minister's evidence as to fair market value is not reasonable.
+
+[24] The Reply filed by the Deputy Attorney General also alleges, in paragraphs 18 and 19, that the JECs did not acquire the seismic data for the statutory purpose, and so the amounts paid to acquire it cannot qualify as CEE under paragraph 66.1(6)(a) of the Act. This view of the matter did not form part of the Minister's pre-assessment assumptions, and so the Respondent has the burden of proof on this issue.
+
+[25] The Appellant's position is that neither it nor the JECs acted in concert with either the Phillips Group or CanEagle to inflate the price paid for the seismic data, that the transactions were entered into between parties acting at arm's length, and that the prices agreed on and paid were not unreasonable for purposes of section 67. It also takes the position that the seismic was purchased by the JECs for the statutory purpose, thereby satisfying the requirements of paragraph 66.1(6)(a).
+
+[26] Both parties led evidence as to the fair market value of the three blocks of seismic, as well as evidence to rebut the competing evidence of value.
+
+Was the seismic data purchased by the JECs for the statutory purpose?
+
+[27] In considering whether the JECs' purchases of seismic data from Phillips and from CanEagle were made (and the expenditures therefore incurred) for the statutory purpose, I must be guided by the decisions of the Federal Court of Appeal in The Queen v. Gulf Canada Limited et al[5] and Global Communications Limited v. The Queen.[6]
+
+[28] In Gulf Canada, the Appellant sought to characterize certain lease rental payments made by it in respect of the subsurface gas and oil rights in some four million acres of land in Alberta, Saskatchewan and British Columbia as CEE. The trial judge found that Gulf entered into the leases for the purposes of both exploration and development, and so the expenditures were not incurred for the statutory purpose. An appeal to the Federal Court of Appeal was dismissed. Hugessen J.A. gave the unanimous reasons, in the course of which he said:[7]
+
+As a matter of law, to qualify as a Canadian exploration expense, the rental payments in question would have to meet the definition in subparagraph 66.1(6)(a)(i) as an "... expense ... incurred ... for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas." We agree with the view, apparently accepted by the trial judge, that payments made to maintain an acreage inventory upon which exploration, development and production may or may not take place at some undetermined time in the future are not within that definition. We also agree with the statement of Mahoney, J., as he then was, in New Continental Oil Co. v. The Queen, that there is a distinction between "payments for the right to drill and explore" and "expenses incurred in drilling or exploring". Furthermore, we would, as a general rule, expect that for any expense to be said to have been incurred for the purpose of determining the existence, etc., of petroleum or natural gas on a property, there would have to be at least some connection between that expense and work actually done on the ground. Accordingly, and while the rental payments made in respect of those parts of the acreage inventory upon which exploration activity actually took place in a taxation year might qualify as Canadian exploration expenses, we do not find it necessary to express an opinion on the point since no attempt was made by the taxpayer to quantify any such expenses, the amount of which would, in any event, be of minimal significance. We are quite satisfied that the purpose of the special treatment accorded by the legislation to exploration expenses was to encourage actual exploration and not to finance from public funds the accumulation of huge dormant inventories of subsurface rights. ...
+
+[29] The same principle was applied by the Federal Court of Appeal in Global Communications, where Robertson J.A. for the Court, characterized the first issue in this way:[8]
+
+[16] There are several issues to be decided by this Court. The first issue is whether Global's purchase of seismic data qualifies as a Canadian exploration expense within the meaning of paragraph 66.1(6)(a) of the Income Tax Act. Succinctly stated, does Global's purchase of the data come within the purpose test set out in that provision; that is, is it an expense incurred for the purpose of identifying or locating oil and gas reserves in Canada? To answer that question, we must address two additional questions. First, does the purchase of shot seismic with a view to licensing (or resale) qualify as a Canadian exploration expense? If so, then the purpose test has been satisfied. If not, we must ask a second question, namely, whether Global was using the data for the purpose of oil and gas exploration. That question involves a finding of fact. If it is answered in the negative, then Global is not entitled to any deduction. ...
+
+He then said at page 5382:
+
+[19] In my opinion, a careful reading of paragraph 66.1(6)(a) reveals that the type of expenses contemplated are those which the taxpayer carries out on the land itself. Under the Act, exploration expenses receive the most generous of tax treatment. The full amount is deductible. With respect to development expenses, the deduction is limited to 30% of expenses. The rate falls to 10% for oil and gas property expenses. The obvious purpose of the Canadian exploration expense is to encourage actual exploration in an industry exposed to large financial risks in the search for oil and gas reserves. In theory, but for the tax incentive, such exploration might not be undertaken. It is equally obvious, however, that the legislation's purpose is not to encourage the accumulation of huge inventories of seismic data which may or may not be of any value to those actually involved in oil and gas exploration. ...
+
+At pages 5382-83, after referring to the passage that I have quoted from Gulf Canada, he added:
+
+[21] Of particular relevance to this appeal is the finding that, "as a general rule", there would have to be some connection between that expense and work actually done on the ground for an expense to have been incurred for the purpose of determining, inter alia, the existence of oil or gas. The acknowledgement of possible exceptions to the rule is arguably a valid basis for distinguishing the Alberta Court of Appeal's decision in Fulcrum. That case involved provincial legislation, modeled on the Income Tax Act, which extended grants to those who incurred expenses which qualified as Canadian exploration expenses. The issue was whether monies expended for geophysical testing and the production of seismic data met the purpose test set out in what is the equivalent of paragraph 66.1(6)(a) of the Income Tax Act. The claimant had ordered the seismic work to be carried out by a third party, thinking that it would either sell the results or negotiate an interest in an oil or gas venture. Thus, the seismic data was acquired with the intention of resale only. The Alberta Court of Appeal upheld the claimant's right to a provincial grant with respect to the expenditure on the ground that it met the purpose test. At page 316 of its reasons, that court stated: "[t]he mere fact that the claimant might have sold the work to strangers does not disentitle it to the benefit [available under the provincial legislation]".
+
+[22] It seems to me that Fulcrum can be distinguished readily on the facts. We are not dealing with a case in which a taxpayer has expended monies to shoot seismic with a view to selling or licensing the data, as in Fulcrum. Moreover, assuming that Fulcrum is in conflict with this Court's decision in Gulf, judicial comity dictates that we apply the latter decision. But there is another reason why Fulcrum should not be followed in this case. It stems from an analogy made by the Alberta Court of Appeal. In its reasons, that court stated that seismic data is no more than a "research tool" to be used in exploring for gas or oil reserves. If that is so, then neither the claimant in Fulcrum nor Global is in position to claim a Canadian exploration expense deduction.
+
+[23] Accepting that seismic data is no more than a research tool, it must be asked whether a retailer such as Global, or a manufacturer such as Fulcrum, can lay claim to a Canadian exploration expense. To me, the answer is obvious. Neither entity has incurred an expense for the purpose of determining the existence of oil and gas reserves. Rather, they have incurred an expense for the purpose of promoting their own financial interests by offering a product which enables others to engage in oil and gas exploration. In my view, a taxpayer who purchases seismic data with a view to licensing or resale is no more entitled to claim a Canadian exploration expense than a retailer or wholesaler of equipment designed to facilitate oil and gas exploration. ...
+
+[30] The Respondent does not suggest in the present case that the JECs purchased seismic data for the purpose of resale. Nor was there any evidence to suggest that. Rather, it is suggested that the real reason for the purchases was to convert substantial amounts of CEE in the hands of Phillips and of CanEagle into CEE in the hands of the JECs, to then be renounced in favour of the Appellant, which was in a position to use the tax deductions, thereby providing the funds to finance the drilling programs of the JECs at no after-tax cost. If that is established by the evidence then, on the authority of the Gulf Canada and Global Communications cases, the amounts expended by the JECs were not CEE, and were not available to be renounced in favour of the Appellant. The question to be answered is whether, and if so, to what extent, there was a connection between the seismic data purchased and work actually done, or to be done, on the ground.
+
+[31] On this issue the onus is on the Respondent. The Crown sought to discharge this onus by the evidence of Mr. John Card. Mr. Card was retained by the Respondent to review the documents produced by the Appellant, and information furnished on examination for discovery, all relating to the use made by the JEC of the seismic data.
+
+[32] Mr. Card holds an engineering degree from the University of Calgary. He is a member of the Association of Professional Engineers, Geologists and Geophysicists of Alberta (APEGGA), the Canadian Society of Exploration Geologists (CSEG) and the Society of Exploration Geologists (SEG). He has some 30 years' experience in the petroleum industry, related specifically to the interpretation of geophysical data. This includes acquiring, processing and interpreting seismic data. He has worked all over the world, including projects in the core area. Since 1998 he has been an independent geophysical consultant. He has authored or co-authored several articles and conference presentations on subjects relevant to geophysical exploration and the use of seismic data. I consider him to be well qualified to testify as to matters relating to the use of seismic data in the course of exploration for petroleum and natural gas.
+
+[33] Exploration for hydrocarbons is a high cost and high risk business. Some of that risk is reduced by the examination of data from cores from wells previously drilled, which are made publicly available in Alberta one year after completion of drilling. Additional information comes from seismic data, which is, in simplified terms, the recording of the reflections of a series of shock waves sent into the ground, which are detected by geophones which convert those waves into electrical signals which are then enhanced, digitized and processed by computer programs to provide information as to the geophysical formations at various depths below the earth's surface along the seismic line. Initially, seismic data was two dimensional (2D), derived from a line of explosions. More recently it may be three dimensional (3D), with the shock waves covering a two dimensional area on the surface of the earth, and geophones over the same area, rather than merely in a straight line. The cost of acquiring 3D seismic is of course much greater than for 2D. The original recordings of the data and prints made from it, including the exclusive right to use it and to make and sell copies of it, is known as proprietary data. When the owner of the proprietary data makes and sells copies, the purchasers receive only a copy of the data and the right to use it in the course of exploration. They have no right to sell it, or to make further copies from it. What they acquire is known interchangeably as licensed data or copied data. The owner of the proprietary data, which may be an exploration company or a data broker, is free to sell as many licensed copies as it can find buyers for. Unlike brokers, exploration companies are not always willing to sell copies, preferring to keep the data exclusively for their own use. It can, of course, at any time sell all of its proprietary interest.
+
+[34] Mr. Card stated that in his opinion if seismic data had been interpreted he would expect to find as the product "maps and/or reports created at the time geophysical interpretation was performed". These would include contour maps showing structure and thickness of geological units, together with written reports as to what was revealed by the data and the recommendations for future action. These, he said, would be stored in the confidential files of the company for use during meetings and discussions with partners, and to support any recommendations for further expenditures based on the interpretation. I understood him to say that this would be standard procedure for any exploration company.
+
+[35] Mr. Card examined the documents produced by the Appellant in respect of the use by the Phillips JEC of its purchases of seismic data. From these he drew conclusions as to the extent of use of the data by the JEC. These are set out in his written report for each of the 11 geographic areas which make up what was called in the evidence the list of activities of the Phillips JEC. These are:
+
+Murray River
+
+West Ghost (Salter)
+
+Lovett
+
+Evi
+
+Ricinus
+
+Petitot
+
+West Ojay
+
+West Hunter Valley
+
+Chungo
+
+Tenaka
+
+Hook Lake
+
+His conclusions from this examination may be summarized in this way.
+
+[36] Murray River The Murray River seismic data was part of the 1992 purchase, and consisted of 139 miles in total. Of this, the Appellant owned two-thirds of the data, and two of the lines were recorded by the Appellant and Phillips jointly after the JEC was created. He concluded that this data was not used for the statutory purpose.
+
+[37] West Ghost (Salter) The Appellant and Phillips agreed before the JEC was formed that it would fund one well there. Mr. Boyer, a geophysicist with the Appellant, did interpret 58 miles of the JEC West Ghost seismic data for the benefit of the JEC.
+
+[38] Lovett Both PC and Phillips had experience and seismic data in this area. This prospect was proposed to the JEC by PC, but ultimately it was decided not to drill there. Mr. Card concluded from his review that it was not the seismic data purchased by the JEC from Phillips but the PC-owned data, some of which was reprocessed by the JEC, which led the JEC to decide against drilling there. He concluded that the seismic purchased in this area by the JEC was not used for the statutory purpose.
+
+[39] Evi This area is 150 kilometres northwest of Edmonton, near Peace River. Both PC and Phillips were active in this area before the formation of the JEC and both had seismic data in the area. PC had land holdings in this area and 3D seismic data. The Phillips JEC bought 2D seismic data in this area from Phillips in 1991 and 1992. Five wells in total were drilled in this area by PC and the JEC. Mr. Card's examination of the records led him to conclude:
+
+Although there are suggestions in the reviewed correspondence that Petro-Canada staff might have interpreted some of the Evi Area data purchased by the JEC from Phillips, there is no solid evidence that such interpretation actually occurred and there is solid evidence of Petro-Canada geophysicists ignoring the JEC data. If Petro-Canada did not utilize the JEC data, preferring to work only with seismic lines Petro-Canada had previously acquired, then the purchase by the JEC of Phillips' seismic in the Evi area served no useful purpose.
+
+[40] Ricinus This area is 100 kilometres southwest of Red Deer. PC brought this prospect to the Phillips JEC. A well was drilled in 1994, but Mr. Card's review of the documents led him to conclude that PC determined the location of the well on the basis of seismic data, including 3D data that it owned in partnership with Gulf Oil Canada Ltd. He concluded that it was improbable that the one line of 4-5 miles that the JEC made available played any part in the process.
+
+[41] Petitot This area is in the extreme northwest of Alberta. Phillips had been active in the area, with a partner, and had both land interests and seismic data there. The partnership had drilled in the area. Mr. Card concluded that PC's decision to approve a farm-in there by the JEC in 1994 was based on copies of Phillips' interpretations of the seismic data, and that the purchase by the Phillips JEC of data in the area did not contribute to the decision.
+
+[42] West Ojay Mr. Card's conclusion was that the only data sold to the Phillips JEC in this area was data which both PC and Phillips previously owned. As both partners had access to it, it was unnecessary for the JEC to purchase it, and so it was not useful.
+
+[43] West Hunter Valley Mr. Card found no evidence in the material furnished by the Appellant that it had any files relating to this area or that it had even looked at the JEC data. As the data was available to the Phillips geophysicists and was not examined by the PC geophysicists, its acquisition by the Phillips JEC served no purpose.
+
+[44] Chungo, Tenaka and Hook Lake In all of these areas the JEC purchased seismic data from Phillips. Mr. Card found no evidence that it had been used by PC for purposes of the JEC. He was given no maps or reports prepared by PC in relation to Tenaka. He was advised that PC had no files relating to Chungo or Hook Lake.
+
+[45] Mr. Card's opinion after his review of the material was that of 20,955 miles of seismic data purchased by the JEC from Phillips in 1991 and 1992, only 58 miles or 0.28% was actually interpreted by PC's geophysicists for the benefit of the Phillips JEC, and therefore used for the statutory purpose.
+
+[46] Mr. Card also reviewed the documents produced which related to the purchase by the CanEagle JEC of seismic data from CanEagle. He noted that all the exploration by that JEC took place in the Evi/Loon/Lubicon (Evi) area, which is about 100 kilometres east of Peace River, Alberta. That area, some 50 kilometres by 90 kilometres, also included projects under the names Mink, Whitefish, Kitty, West Kitty, Golden and Otter. He concluded that CanEagle (then called Archean Energy Ltd.) had made significant use of this database between 1993 and 1997 in connection with projects unrelated to the JEC. No use was made of it by the Appellant, and he found no evidence of the data being used by the JEC. He found that Mr. Daley of PC had prepared maps covering most of this area, but only based on interpretation of PC's own 2D seismic data. He compared these with the CanEagle Seismic Map and concluded that none of the CanEagle data had been used by Mr. Daley in his interpretation.
+
+[47] Clement Trenholm now works as a special staff geophysicist for PC. In 1993, after the CanEagle JEC was formed, he worked on contract for Eagle Resources to evaluate exploration opportunities within the JEC. He spent approximately 180 hours on this work for the JEC during 1993, during which he reviewed seismic data and made recommendations based on it in relation to exploration prospects at Whitefish, Mink, Loon and Lubicon. In 1994, he worked on contract for PC for about 28 days during the first part of the year. This work involved the review of both Phillips JEC and PC seismic data. On cross-examination, it became clear that this was limited to about 100 kilometres of data, the interpretation of which required a total of about six weeks of his time throughout 1993. It is not at all clear what became of the product of his work, but the limited extent of it certainly supports Mr. Card's conclusion that decisions in respect of the JEC projects at Evi were largely, or entirely, made on the basis of interpretation by PC and CanEagle staff geologists and geophysicists of those companies' own in-house data.
+
+[48] Mr. Derek Lee was PC's exploration manager for southern exploration in 1991. In 1992, he became manager of geology and geophysics for the Western Canada oil business unit. Early in 1992, he became one of PC's two nominees to the board of directors of the Phillips JEC. In his evidence, he described the way in which prospects for exploration were brought to the JEC by either Phillips or PC, and the process by which they were evaluated and a decision taken by the JEC as to whether it would participate. Prospects were proposed by either PC or Phillips to the JEC. Those proposed by Phillips were reviewed by the PC staff for the JEC and vice versa, as the JEC had no staff of its own. As the USA required decisions to be taken by a unanimous board of directors, farm-ins by the JEC would only proceed if the partner which reviewed the proposal agreed to proceed with it.
+
+[49] With a few exceptions, Mr. Lee's evidence was surprisingly vague on the subject of use of the seismic data. He said that there was no general review of all the seismic data purchased by the Phillips JEC. There was no immediate plan to explore in eastern or northern Alberta, but instead the focus was on deep gas and Peace Arch light oil. He testified that in considering the West Ghost property, a Phillips prospect, Charles Boyer, a PC geophysicist and Dave Murray, a PC geologist, reviewed and remapped the Phillips seismic. He also said 2D seismic owned by the JEC at Evi was looked at by Mr. Daley in 1995, and that the Phillips JEC shot some 3D seismic at Loon and Mink. Otherwise, he said that there was no general review done of the Phillips JEC seismic, although:
+
+... for some of the plays it was necessary to look at the JEC - the JEC seismic. That was important not only on a play-specific basis but it was important on an area basis to determine some of the follow-up opportunities or some of the ways of advancing the play beyond the discovery stage.
+
+However, when questioned specifically about the various plays where one or other of the partners had recommended a farm-in, he had no specific knowledge as to the use of the JEC seismic beyond that to which I have referred above.
+
+[50] Nor did Mr. Lee have any decision-making role insofar as the selection of the seismic to be bought by the JEC was concerned. In 1991, he was not yet involved in the affairs of the JEC and in 1992, he did not make the decisions - he simply assigned Dr. Allin Folinsbee to do a review for the purpose of checking the valuation done for Phillips by Mr. Ronald Sheppard.
+
+[51] Mr. Lee was also a director of the CanEagle JEC. PC had some interest in working with Forest Oil because of its interest in the Peace River Arch and Deep Devonian Reef. Forest Oil was purchased by CanEagle, and Mr. Lee made the first contact with them. He did not take part in the negotiation of the creation of the JEC, or the seismic purchase, although he did indicate that the JEC should purchase seismic in British Columbia and Alberta.
+
+[52] A review was done of the seismic at Mink, Loon and Whitefish and the recommendation was that the JEC should farm-in, and shoot 3D seismic for Mink and Loon. The JEC data at Lubicon was reviewed, and although PC and CanEagle both posted land there, they were unable to agree on earn-in terms, and so no further work was done there by the JEC.
+
+[53] Mr. Lee's evidence was that in addition to the immediate use of seismic data to decide whether to drill exploratory wells, and where to drill them, it is important to have seismic data in the surrounding area so that if an exploratory well is successfully drilled that data can be used to direct further exploration. Without such additional data, other companies may be the ones who benefit with successful exploration nearby after the results of the initial drilling become known.
+
+[54] Wayne Hauck is a geophysicist of some 30 years' experience, with a degree in geophysical engineering, and is an accredited member of APEGGA. He was employed by Phillips Petroleum from 1972 until 1996, when Philips withdrew from exploration in Canada. In 1984, he became responsible for the Phillips seismic data holdings in Canada, which at that time were in some disarray. Over the next several years, he set about creating an inventory of the company's holdings. This task included acquiring field tapes for data and reprocessing it. He was also in charge of shooting new seismic data during this period.
+
+[55] The Respondent accepted Mr. Hauck as being qualified to give opinion evidence as to whether it was reasonable for the Phillips JEC to purchase the volume of seismic data that it did for the price it paid in 1991-1992, and whether it was reasonable for the CanEagle JEC to purchase 24,000 kilometres of seismic data for $7 million, both for the purpose of exploration in the core area, and also as to the utility of seismic data 20 years old in an exploration program.
+
+[56] The Respondent also accepted Mr. Hauck as being qualified to offer opinion evidence in rebuttal of the evidence to be given for the Respondent by Mr. Card as to the use of the purchased seismic by the JECs, and in rebuttal of the evidence to be given by Mr. Shane O'Dwyer as to the value of the seismic data purchased by the JECs, specifically with respect to the appropriate volume discount to be applied.
+
+[57] In August 1990, Mr. Hauck retained Brian Curts of Lundberg, Goodwin and Curts, to do a complete evaluation of the Phillips seismic holdings. He did not know at that time the purpose of the valuation. Both Mr. Hauck and Mr. Curts testified that his instructions were to establish the fair market value of the data. This valuation was done by Mr. Curts and then discussed with Mr. Hauck. As a result of their discussions, Mr. Hauck was able to furnish certain additional information to Mr. Curts which caused him to vary his estimate of value somewhat. However, I am satisfied by their evidence that Mr. Curts' valuation was done by him independently and uninfluenced by Mr. Hauck or anyone else. His valuation of the Phillips' inventory of seismic data in the core area was approximately $39 million. Once agreement had been reached between PC and Phillips that the initial purchase of seismic by the JEC was to be for $26.5 million, Mr. Hauck randomly selected the lines from the database in the core area that would make up that total.
+
+[58] In early 1992, Mr. Hauck retained Ron Sheppard to complete the valuation of the Phillips seismic data in the core area, which included that with respect to which Phillips had obtained consent from co-owners to sell data to the JEC. Mr. Sheppard was retained because Mr. Curts was not available to do the additional work in 1992. He, like Mr. Curts, was instructed to determine fair market value, and was not subject to any pressure to arrive at any particular value. As with Mr. Curts' appraisal, Mr. Sheppard made some adjustments to the first draft as a result of additional information given to him by Mr. Hauck following discussion of the draft.
+
+[59] Mr. Hauck testified that the Phillips JEC had separate office space within the premises rented by Phillips in the Sun Life Tower in Calgary. The seismic data purchased by the JEC was identified in the Phillips computer records as JEC data. He said that in those instances where the JEC data was analyzed and the analysis led to an authorization for expenditure, then written reports were created and these were maintained at the JEC offices.
+
+[60] I turn now to Mr. Hauck's opinion evidence. He is a well-qualified geophysicist with considerable experience in the use of seismic data in exploration for petrochemicals, and in the management of seismic data. In respect of the utilization of the seismic data purchased by the Phillips JEC and the CanEagle JEC, his conclusions are summarized in the following paragraphs of his written statement of his evidence:
+
+1. Analysis
+
+...
+
+In the situation at hand, the Phillips JEC was interested in carrying on high risk exploration in specific areas. It had significant seismic data coverage in the areas of interest and it was in a position whereby it could reduce its exploration costs pertaining to the purchase of land, given that each of its principal shareholders had significant land interests in the areas of interest and that farm-in opportunities were available. The seismic data purchased by the Phillips JEC gave it an asset that it could utilize to ascertain whether it was prepared to farm-in on lands owned by its principal shareholders and lands owned by other explorationists.
+
+Therefore, if one was to look at the factors referred to above, one can find a consistent exploration strategy carried on by the Phillips JEC. The Phillips JEC had significant seismic data coverage in the area of interest. Its shareholders agreed to fund an exploration program to a minimum of $69.75 Million, with built in funding available up to approximately $162 million. In addition, it had access to land, geology and expertise, given that its principals had significant knowledge and land in the areas.
+
+Similarly, it is my understanding that Petro-Canada had significant land positions in the Peace River Arch, Deep Devonian Basin and Mid Devonian Reef Region. Accordingly, the seismic data purchased by the PeaceEagle JEC gave it an asset that could be utilized to ascertain whether it was prepared to farm-in on lands owned by its principal shareholders and lands owned by other explorationists. In addition, its shareholders agreed to fund an exploration program to a minimum of $14 Million and to a maximum of $27 Million.
+
+2. Conclusion on Use of Seismic in Exploration
+
+Therefore, it is my opinion that it is reasonable for an explorer with reasonable access to lands in the area of seismic coverage to purchase a regional seismic database consisting of approximately 32,000 kilometres of seismic data for $39.75 Million to carry on a regional exploration program to a maximum of approximately $162 Million.
+
+I am also of the opinion that it is reasonable for an explorer with reasonable access to lands in the area of seismic coverage to purchase a regional database consisting of approximately 24,000 kilometres of seismic data for $7 Million to carry on a regional exploration program to a maximum of approximately $27 Million.
+
+[61] Mr. Hauck also gave the opinion that seismic data older than 20 years does have significant exploration value, and did have in 1991 and 1992, by reason of the potential to reprocess that data using modern technology. His opinion is supported by examples of four specific instances where he was able to make use in exploration of data which had been shot 20 years or more prior.
+
+[62] Mr. Hauck's rebuttal of the evidence of Mr. Card is based both on his 28 years' experience as a geophysicist first employed by Phillips, later in a consulting practice, and then as an employee of Murphy Oil, and on his factual knowledge of the exploration activities of the Phillips JEC. His disagreement with Mr. Card's opinion is based in part on the view that Mr. Card had taken a "micro" view of the use of the seismic data, but had failed to recognize how the data would be used by an exploration company in the longer term, and in part on the contention that Mr. Card made some wrong assumptions, and misunderstood the relationship between the Phillips JEC and its shareholders. His major criticisms of Mr. Card's report are summed up in the last few paragraphs of his written statement:
+
+Part II: Use of Seismic Data in the Phillips P.C. Resources Ltd. - JEC
+
+With respect to the Report's comments on the use of the seismic data by the Phillips JEC, I would make the following factual comments and I would comment that the Report fails to consider how a reasonable explorer would make use of a large regional seismic database in a long term exploration program.
+
+As one of the Phillips JEC explorationists retained by PPRL, I can advise of the following facts. Maps and records of the geological/geophysical data were stored in prospect files along with the seismic sections. Maps were made on Landmark workstations and hard copies filed in prospect files. Written reports were only completed for AFE purposes, annual budget presentations or if they were specifically requested by management. The AFE's always included maps, seismic sections, geological cross-sections with geological, geophysical, land and economic reports. All JEC lines were identified in the Phillips computer database with the prefix were prefixed by "JEC" or "JV2" to indicate that it was the seismic data owned by the Phillips JEC. In all the Phillips JEC farm-in reviews, all the PPRL, Petro-Canada and any Phillips JEC seismic was used to evaluate the prospective plays.
+
+The joint project area spreads the full length of the Province of Alberta and NE British Columbia, because Phillips and Petro-Canada's lands cover the full length of Alberta and NE British Columbia. Accordingly, the Acquisition of a large regional seismic data base would be appropriate where there is easier access to the underlying lands.
+
+I also provide the comments attached as Schedule "B" as dealing with the specific comments made by Mr. Card in respect of the areas referred to in his report as Murray River, West Ghost (Salter), Lovett, Evi, Ricinus, Petitot, West Ojay (Wapiti), West Hunter Valley, Chungo, Tenaka and Hook Lake. Where appropriate, I have outlined the pertinent facts and I have dealt with the assertions made by Mr. Card in the Report.
+
+In summary, it is my opinion that the Phillips JEC utilized its seismic data base in the same manner that an explorer carrying on a large long term regional exploration program and the Report fails to recognize how such an explorer would use the seismic data in a longer term exploration program. I find that the Report provides an after the fact review of particular prospects and improperly concludes that only 0.13% of the seismic data is used for exploration purposes. Mr. Card has taken a "micro" rather than a "macro" view of use of seismic for exploration purposes and the Report is deficient in this regard. In addition, the Report is factually deficient and Mr. Card has made erroneous assumptions in reaching the conclusions that he reaches.
+
+[63] Mr. Hauck's evidence rebutting Mr. Card was in large measure aimed at showing that there had been substantial actual use by the Phillips JEC of the seismic data purchased in 1991 and 1992. He gave evidence that the PC geophysicists had reviewed certain of the data in specific areas where Mr. Card had concluded that no use had been made of it. However, his evidence was at best vague as to the work he said was done at the JEC offices by PC geophysicists, using the data sold to the JEC. He did say that Charles Boyer and other geophysicists, whom he could not name, had been there and had accessed the data. There were, however, no specifics as to dates and times, or as to the work done or the work product.
+
+[64] When cross-examined with respect to the actual use by the Phillips JEC of the seismic data it had purchased in relation to each of its 69 activities from 1992 to 1996, Mr. Hauck agreed that the extent of actual use, aggregated for each year was:
+
+1992 503.64 miles
+
+1993 720.99 miles
+
+1994 0 miles
+
+1995 92.7 miles
+
+1996 0 miles
+
+Total 1,317.33 miles
+
+In reference to this list, the following exchange took place:
+
+Q. Sir, are you happy that this represents the seismic used purchased (sic) by the JEC in 1991 and 1992 and used by the JEC?
+
+A. Yes, I am.
+
+(Transcript, volume 7, page 1314)
+
+[65] David Cooper and Dr. Folinsbee were called by the Appellant to rebut the opinion evidence of Mr. Card. Both are well-qualified geophysicists with many years of experience. Mr. Cooper has been a geophysicist since 1969 and has been accredited by APEGGA since 1985. He has been engaged in interpretation of seismic data in Alberta and British Columbia and elsewhere, during this time. He has also been involved in acquisition of seismic data, including by purchase, for some 30 years. So far as it was intended to rebut the evidence of Mr. Card, Mr. Cooper's evidence was simply to the effect that it would be reasonable for an exploration company to spend $39.75 million to purchase seismic data in carrying out an exploration program having aggregate costs of $162 million. Likewise, it would be reasonable to spend $7 million for seismic data as part of a $28 million exploration program. In either event, the company might reasonably expect the program to realize one barrel of oil (or its equivalent in gas) for each $1 spent for seismic data. This evidence misses the point, however. Mr. Cooper does not deal at all with the question of the actual use made by the JECs of the seismic data that they purchased. Moreover, in opining that purchases were reasonable in the context of these JECs, he assumed that their full capitalization would be spent on exploration. However, the terms of the unanimous shareholder agreements are such that there was never a requirement for the Phillips JEC to spend more than $20 million on Earning Expenses, or for the Appellant to fund more than that amount between January 1, 1992 and December 31, 1995.
+
+[66] Dr. Folinsbee has been a geophysicist for about 30 years. He holds a doctorate from M.I.T., and has been accredited by APEGGA. He has about 30 years' experience dealing with the acquisition and use of seismic data. Like Mr. Cooper, he takes issue with Mr. Card's conclusions, but did not conduct any examination of the records or otherwise ascertain what was the actual use by the JECs of their purchased seismic data. His evidence was simply to the effect that Mr. Card failed to consider the manner in which a large regional seismic data base could be used by an exploration company operating as a going concern. This, he maintained, undermined Mr. Card's conclusion that less than 1% of the seismic data was used by the JECs for the statutory purpose. He also took issue with some of the terminology that Mr. Card used; Mr. Card referred to the JECs as partnerships, but I do not consider that to impair the validity of his evidence. Clearly he was using the word in its popular rather than its legal sense. That does not affect his conclusion as to actual use of the seismic data. I do not consider the evidence of Mr. Card to be weakened by either of these witnesses.
+
+[67] The Appellant's witnesses, in particular, Messrs. MacFarlane, Lee, Grant and Hauck, all testified that the purpose for which the JECs acquired the seismic data was in order to use it in their exploration programs, that is to say for the statutory purpose. They were all, however, vague as to exactly how it was used, or intended to be used. They spoke of analysis being done and work-ups being prepared for the use of the directors of the JECs as they considered proposals brought forward by one or other of the JEC shareholder corporations. It is important that neither JEC hired employees to work for it exclusively, although their unanimous shareholder agreements required it. Decisions were taken by a board composed of four directors, two of whom were the nominees of each shareholder. Decisions of the board had to be unanimous. These proposals were examined by the geophysical staff of the other shareholder corporation, whose advice was considered by that corporation's nominees on the board. For practical purposes, a proposal that the JEC farm-in on a project of one of the shareholders would only need the further approval of the other shareholder. In these circumstances, one might expect that the directors of the JECs, and particularly the PC nominated directors, would show considerable interest in the selection of the seismic data for which the corporation was to pay many millions of dollars, and that they would also take steps to ensure the safekeeping of the work product of their geophysical staff arising out of the use of it.
+
+[68] It is trite that where the intention that motivates actions is to be decided, subjective evidence in the form of statements of intention from the party will have little weight. Such questions are determined on the basis of objective evidence of what actually happened.[9] Generally speaking, that evidence will have more weight if it is corroborated by documents than if it consists simply of general assertions.
+
+[69] In considering the extent to which the JECs used the seismic data, I place considerable weight on the opinion evidence given by Mr. Card. He is a highly qualified geophysicist who has more than 30 years' experience in the acquisition, processing and interpretation of seismic data in petrochemical exploration. He was objective in the presentation of his evidence. In considering whether data had been used by the JECs, he applied a high standard of required evidence to convince him that any particular seismic line had been used. That was, I believe, because he expected the work of professional geophysicists to be done, and to be recorded to have been done, according to exacting professional standards. This is appropriate in the context of a JEC formed and operated by two very large corporations, both prominent in the industry.
+
+[70] There is no doubt that there was a significant exploration program carried out in the name of the Phillips JEC between 1992 and 1996. A total of 69 prospects were put forward by one or other of the shareholders for consideration by the board, which of course required consideration by the other shareholder. These resulted in its participation in 27 drilling programs, leading to 21 producing wells. Its greatest success was at Evi, where about $7 million was generated before that property was traded for an interest in a property elsewhere. At West Ojay more than $8 million in revenue was produced. In all, by June 1996, the Phillips JEC had spent some $89 million. The question which must be answered, however, is whether, as the Respondent alleged, the Appellant purchased the seismic data for the purpose of converting CEE of Phillips and CanEagle into tax deductions in the hands of PC with which to finance its commitment of funds to the drilling programs, or for the statutory purpose. The evidence leads me to conclude that little, if any, of the seismic data that is the subject of this appeal was purchased by the JECs for the statutory purpose.
+
+[71] The Phillips JEC expended a total of $39.75 million to purchase about 30,000 kilometres of seismic data. Messrs. MacFarlane, Lee, Grant and Hauck all testified that the purpose of these acquisitions was to use the seismic for the statutory purpose, and that it was in fact used for that purpose. Mr. MacFarlane, Mr. Lee and Mr. Grant could give no specifics of the use, however. Mr. Card found no evidence in the documents produced that the seismic had been used, except for some 58 miles, or 0.28%. He found that only 6% of the data was over land where the JEC in fact did exploration work. The Appellant's explanation of the absence of the physical evidence that Mr. Card was looking for, and did not find, in the form of maps and reports of the geophysicists using the data, was that the JEC documents were stored in a part of the Phillips premises, that Phillips had moved on a number of occasions, and that these documents must have been lost in the course of moving. That evidence was given by Mr. Grant, who was recalled for the purpose, and I found it unconvincing. He did not say when or where the various moves took place, or give any specifics at all of when the loss of the documents was discovered. If such documents existed they would surely have had some significant value, and yet there was no suggestion that either the Phillips JEC or the Appellant, as the other shareholder, had made any claim against Phillips as the manager of the JEC and custodian of its property in respect of the loss.
+
+[72] It seems unlikely, too, that the Phillips JEC would purchase seismic data at a cost of almost $40 million without any regard for the location of the 20,000 miles, other than that it was largely within the core area. There was no evidence to suggest that the directors of the JEC considered what data would make up the purchased blocks. In fact, Mr. Hauck testified quite candidly that he selected seismic at random from the inventory evaluated by Mr. Curts with only one criterion in mind, which was that the total value, according to the Curts' appraisal, would be the amount that PC and Phillips had agreed upon as the purchase price.
+
+[73] Much of the evidence given by the Appellant's witnesses, including opinion evidence of Mr. Cooper, Dr. Folinsbee and Mr. Hauck, was to the effect that an explorationist would benefit in the search for hydrocarbons from having a large amount of seismic data throughout all the geographic area in which it had an interest, and that this justified the purchase of seismic as being for the statutory purpose. However, Mr. Lee testified that there was no general review done by the JEC of the Phillips JEC seismic and, as I have pointed out above, Mr. Hauck on cross-examination accepted that the Phillips JEC used only 1,317.33 miles in respect of its 69 activities between 1992 and 1996, which is about 6½% of the 20,000 miles it purchased.
+
+[74] As the Appellant argued, the legislative scheme was enacted to provide an incentive to explore for hydrocarbons. That is not in dispute, and it would be relevant if I were required to resolve an ambiguity in the language of the Act. However, there is no ambiguity for me to resolve. The Federal Court of Appeal has held that these provisions were not enacted to provide funding for the accumulation of dormant inventories of subsurface rights. I can find no significant distinction between dormant inventories of subsurface rights to land and dormant inventories of seismic data. The JECs are, of course, free to purchase seismic data, and to renounce the cost of it as CEE in favour of the Appellant, to the extent that it is acquired for the statutory purpose, but no more. Similarly, the Appellant is entitled to arrange its affairs in any way that it wishes, and to participate as a shareholder in JECs to explore for hydrocarbons if it wishes to; but it can only receive CEE credits from those JECs if the expenditures of the JECs satisfy the statutory purpose test. For these reasons, I find little value in the evidence of the Appellant's witnesses as to the potential for possible future use of the seismic data.
+
+[75] The commitment of the CanEagle JEC as to Earning Expenses is limited to $7 million, as is the Appellant's commitment to fund them. Although there is a provision of the Phillips JEC USA that can be used to force expenditures in the case of disagreement, it is limited to the amount of $30 million to which the Appellant had committed. The PeaceEagle JEC agreement had no such forcing mechanism. The commitment of the Phillips JEC for Earning Expenses (and of PC to fund them) between January 1, 1992 and December 31, 1995 was only about 75% of the amount expended on seismic data between the two purchases. For the CanEagle JEC the amounts are equal. In light of this, I do not accept the evidence of the Appellant's witnesses who testified that the amounts spent on seismic purchases were reasonable in relation to the proposed exploration program. It was never required, and probably never intended, that the full capitalization of either of these JECs would be expended on their exploration programs.
+
+[76] The unanimous shareholder agreements of both JECs made specific provisions for the hiring of professional staff to review and interpret the data. Paragraph 4.03 of the original USA #1 for the Phillips JEC provides:
+
+4.03 Staffing
+
+The Corporation shall retain at least two individuals who shall be responsible for:
+
+(a) reviewing and interpreting any geological and geophysical data which may be purchased or otherwise acquired by the Corporation; and
+
+(b) making recommendations to the Board and the Shareholders with respect to potential farm-in drilling locations and other operations to be conducted by the Corporation.
+
+One of the individuals referred to above shall be appointed by the Phillips Committee and the other shall be appointed by the Petro-Canada Committee.
+
+The same language appeared in the revised USA #2 a year later. Essentially, the same language was used in the CanEagle JEC USA, except that only one individual was required to be retained, and the appointment was to be made by the Appellant. In fact, neither JEC appointed any geological or geophysical staff under these provisions. Instead, the directors appear simply to have used the services of, and to have been advised by, the staff geologists and geophysicists of the companies for whom they worked and by whom they had been nominated as directors. The omission to fulfill these staffing obligations is difficult to reconcile with the stated intention of the JECs to use the seismic data for the statutory purpose.
+
+[77] A further indication, so far as the Phillips JEC is concerned, is that only about 60% of the data it purchased was over land held by either the Appellant or Phillips. Since it did not, according to Mr. Lee, conduct any general review of the data, it is difficult to see what use it could make in the foreseeable future of the other 40%. It is true that some use for it might emerge at some future time, but its purchase is far more consistent with the Respondent's theory than with any genuine intent to put it to the statutory use.
+
+[78] The purchase of seismic data by the CanEagle JEC was made in peculiar circumstances. Norman W. Armstrong was retained to value the Forest Oil seismic data inventory. His valuation is dated December 30, 1992, and it places a value of $13.88 million on the total inventory. The agreement whereby the JEC purchased the data is dated December 31, 1992. It conveys an undivided one-third interest in the data from CanEagle to the CanEagle JEC at a price of $7 million. There is some confusion in the evidence as to the exact amount of data covered by this sale. Mr. O'Dwyer put in at 23,749 kilometres; according to Mr. Boyd, it was 26,169 kilometres. For practical purposes, it is sufficient to know that it was in the order of 25,000 kilometres.
+
+[79] The CanEagle JEC data is scattered across a very large area of western Alberta, with some extending into eastern British Columbia. However, it appears that the Appellant and CanEagle had determined before the closing of the sale on December 31, 1992 that Evi would be the focus of the JEC's exploration effort, and in fact that was the case. All its exploration took place in the relatively small area of Evi/Loon/Lubicon, somewhat to the east of Peace River. Nevertheless, there is no indication that the directors of the PeaceEagle JEC considered the matter of what specific seismic it would purchase. The entire inventory valued by Mr. Armstrong was from the beginning what would be purchased. This is much more consistent with an intention to see some of the unused CEE pool of CanEagle transferred to the Appellant than with an intention to use the data for the statutory purpose.
+
+[80] All these circumstances, taken together with the evidence of Mr. Card, lead me to conclude that the real purpose of the seismic acquisitions was to transfer CEE, not to explore for hydrocarbons. I accept the evidence of Mr. Hauck that the Phillips JEC did in fact use 6½% of the data it purchased in exploration, but I find that the remaining 93½% was neither purchased nor used for the statutory purpose.
+
+[81] Even if I were to accept that the JECs purchased the seismic data in arm's length transactions, and that the price they paid was the fair market value, I would find that the value of the CEE which was acquired for the statutory purpose was substantially less than the amount of $8,884,497 which was allowed by the Minister in arriving at the assessment under appeal. The Phillips JEC paid $39,750,000 and the CanEagle JEC paid $7,000,000. Without being able to identify precisely the lines of data that were acquired for the statutory purpose, it seems a reasonable assumption that they were not valued at more than three times the average price per kilometre. Their value therefore would not exceed:
+
+Phillips JEC 3($39,750,000 x 6½%) = $7,751,250
+
+CanEagle JEC 3($7,000,000 x 4%) = 840,000
+
+Total $8,591,250
+
+Therefore, on the most generous assumption as to the value of the seismic data, the appeal must fail. Nevertheless, I consider that it is appropriate for me to consider the remaining issues of arm's length and valuation.
+
+arm's length
+
+[82] The USAs were carefully crafted to ensure that the vendors of the seismic data and the JECs to which they sold it would not be related, and therefore deemed not to deal with each other at arm's length. However, it remains a question of fact whether the transactions were entered into at arm's length.[10] The evidence leaves me in no doubt that these transactions did not reflect ordinary commercial dealings between the vendors and the purchasers acting in their own interests and so were not at arm's length.[11] The terms of the transactions were dictated by the Appellant and Phillips in the first two cases, and by the Appellant and CanEagle in the third, for their own mutual benefit. As Phillips and CanEagle were both vendors and shareholders of the purchasers, any independent thought as to these dealings would have had to come from the PC directors of the JECs. There was no evidence of any independent thought or action by the PC directors on the JEC boards in connection with the seismic purchases.
+
+[83] There was no evidence to show that PC's directors on the JEC boards made any serious effort to bargain with the vendors as to the prices to be paid for the seismic data. These were extremely large transactions, and much of the data was over land in which neither of the JEC's shareholders had an interest, and yet there was no suggestion of an attempt to obtain any volume discount from the "valuations" produced by Curts, Sheppard and Armstrong, as one would expect in ordinary commercial dealings.
+
+[84] The selection of data to be sold by Phillips to the Phillips JEC was on both occasions left to Mr. Hauck to decide. When it appeared after closing the 1991 transaction that Phillips could not give title to some of the data sold, it was left to Mr. Hauck to select data to be substituted after the closing date. One would expect that a party acting at arm's length to purchase data at a cost of $26.5 million, or even $7 million, would take care to see that the data was useful to it, would retain qualified expert valuators, and would vigorously negotiate the price. None of these things happened in connection with any of the three transactions.
+
+[85] It was in the mutual interest of the two shareholder corporations in each case that the price paid for the seismic be as high as they could hope to justify. The purchase price determined the extent of the CEE that they could hope to move from Phillips and CanEagle to PC. It was this CEE that, through the deduction to be taken from income, would provide the funds to pay for exploration. The entire structure by which the JECs were created and funded had this as its objective. The JECs were, so far as the acquisition of seismic was concerned, simply pawns of their shareholders, the three acting in concert to achieve a common goal.
+
+the valuation evidence
+
+[86] It will be useful at this point to tabulate for each of the three blocks of seismic data the consideration paid by the purchasing JEC, and the fair market value for each that was assumed by the Minister in reassessing the Appellant.
+
+Block
+
+Kilometres
+
+Transaction Price
+
+Minister's assumed fair market value
+
+#1 - purchased by Phillips JEC December 1991
+
+16,227
+
+$26,500,382
+
+$4,938,127
+
+#2 - purchased by Phillips JEC December 1992
+
+16,152
+
+$13,251,370
+
+$1,496,370
+
+#3 - purchased by CanEagle JEC December 1992
+
+23,748 *
+
+$7,000,000
+
+(for an undivided one-third interest)
+
+$2,450,000
+
+* There are conflicting numbers in the evidence. Mr. Armstrong and
+
+Mr. O'Dwyer both used 23,748. Mr. Boyd's number was 26,169.
+
+[87] Mr. Hauck, who had reviewed the appraisal done by Mr. Curts of Block #1 and had found it to be satisfactory, gave evidence as to value, specifically in rebuttal of the evidence of Mr. O'Dwyer. Mr. O'Dwyer's evidence included the proposition that on sales of large blocks of seismic, volume discounts of as much as 75% might be negotiated. On this point, Mr. Hauck did not accept that a volume discount should be applied in valuing these three blocks of seismic data; however, he opined that if there was to be a volume discount it should be much less than Mr. O'Dwyer had theorized. In summary form, his evidence was that if there should be any volume discount then it should be no more than the following:[12]
+
+Valuation
+
+Discounted
+
+Valuation
+
+% discount
+
+Block # 1
+
+$26,500,382
+
+$21,537,042
+
+18.73%
+
+Block # 2
+
+$13,251,350
+
+$9,175,298
+
+30.76%
+
+Block # 3
+
+$24,991,324
+
+$20,730,956
+
+30.07% (sic)
+
+[88] These numbers were based on a theoretical computation, the object of which was to calculate a discount based on the assumption that seismic data over lands not controlled by the shareholders of the JEC could be considered to have no exploration value. Proprietary data over such lands would, however, have an asset value. I do not consider this exercise to have any evidentiary value. Not only is it a theory which is unrelated to any market data, and specific to these purchasers alone, but it is based entirely upon manipulation of the data developed by Mr. Curts, Mr. Sheppard and Mr. Armstrong. While they were all called at the trial, none of them prepared a statement of opinion evidence, and they were not put forward as witnesses entitled to give opinion evidence. I was not asked to, and so did not, rule upon their qualifications to do so. As I stated earlier, the Respondent accepted Mr. Hauck as qualified to give the opinion he did as to volume discounts. His qualification in that area is, I think, minimal.
+
+[89] Mr. Curts, Mr. Sheppard and Mr. Armstrong do not assist in the difficult matter of arriving at a value for the three blocks of seismic. Their evidence establishes only that they did carry out the appraisal exercises that they did. It does not speak to the validity of their results.[13]
+
+[90] The methodology used by Mr. Curts, Mr. Sheppard and Mr. Armstrong was, with minor variations, the same. It consisted of developing, line by line, a theoretical value based upon the estimated cost to produce the data at the date of the valuation, adjusted for factors such as quality of the data, fold,[14] and geographic location. For each line a "value" per mile is generated, and it is multiplied by the number of miles to give the "value" of the line. The concept is clearly one of value to the owner, which does not depend on, or even take into account, actual sales in the market, or the negotiation that takes place between buyers and sellers.
+
+[91] That this methodology has no validity in the search for fair market value is demonstrated by the evidence led by the Respondent of certain sales of seismic data, negotiated at arm's length in the market place. In each case, Mr. Curts had appraised the same data, using this same methodology, at a time very close to that of the transaction. The selling prices cannot all be established precisely, as in some cases a share of future revenues from the data for some period was to go to the vendor. However, these sales all were clearly made at a small fraction of Mr. Curts' opinion of value. In the one instance where the entire selling price was in cash, Mr. Curts appraised the data at $2,946,860; the previous day it had sold, at arm's length, for $163,907. An appraisal at eighteen times the consideration given in a contemporaneous arm's length sale is startling enough; even more startling was Mr. Curts' evidence that, had he known of the sale, it would not have affected his opinion of fair market value.
+
+[92] It will also be useful to tabulate the opinions of value given in evidence by Mr. Boyd for the Appellant and by Mr. O'Dwyer for the Respondent.
+
+Mr. Boyd *
+
+Mr. O'Dwyer
+
+between
+
+Block # 1
+
+$16,796,402
+
+$1,529,000 and $4,552,000
+
+between
+
+Block # 2
+
+$ 8,402,232
+
+$ 50,000 and $1,681,000
+
+Block # 3
+
+$ 4,835,742 - for proprietary data
+
+$ 8,002,837 - for purchased data
+
+$12,838,579 - for 100% interest
+
+between
+
+$1,762,000 and $4,591,000
+
+for 100% interest
+
+* These are Mr. Boyd's amended values filed at trial as Exhibit A-27.
+
+As to the one-third interest in Block # 3 which the CanEagle JEC purchased, Mr. Boyd wrote in his report:[15]
+
+In my opinion, the transfer of purchased data could not take place without the permission of the data owners. In the absence of any such documentation, I value the transaction at 30% of the proprietary data value only, $4.352 Million.
+
+In his oral evidence he corrected this number to $4.836 million, being 33 1/3% of $14.507 million. Mr. O'Dwyer said this:
+
+Q. And the evidence that we have heard in this trial is that the JEC Peace Eagle acquired only a one-third undivided interest. How would that affect your valuation?
+
+A. Based on what you are saying, it would be a simple mathematical one-third. (Transcript, volume 13, page 2340)
+
+[93] Mr. Boyd has a degree in geological engineering and is an accredited member of APEGGA. He has practiced as a consulting geophysicist since 1978. He has no formal training in valuation, but has had some experience acting for clients purchasing seismic data in small quantities. This trial was the first at which he had given evidence as to the value of seismic data. He had never acted for a client, or otherwise been involved, in connection with a bulk sale of either trade or proprietary data. His only basis to testify as to that came from conversations that he had with two brokers in Calgary at the time of preparing his statement of evidence for this trial. His valuation methodology, he said, came at least in part from advice given to him by his company's accountants, who themselves had no qualification as valuators. The largest sale in which he had been involved, he said, was a sale of 500 to 600 kilometres in the mid-1980s. I permitted Mr. Boyd to testify, over the objection of counsel for the Respondent, because he does have some experience, albeit limited, in the marketplace. However, I do not consider him to be any more than marginally qualified to give opinion evidence on this subject, because of both his lack of any training in valuation principles, and the limited nature of his experience in the marketplace. One of the most contentious features of the valuation in this case is whether the value should be discounted by reason of the large volume of data that changed ownership on each occasion, and if so to what extent. Mr. Boyd brings no training or experience to that issue.
+
+[94] Mr. Boyd's evidence was that in his opinion the three blocks of seismic had the following values for a 100% interest at the dates of the sale transactions, in millions of dollars (rounded):[16]
+
+Purchased data
+
+Proprietary data
+
+Total
+
+Phillips # 1
+
+9.564
+
+7.232
+
+16.796
+
+Phillips # 2
+
+7.892
+
+0.510
+
+8.402
+
+CanEagle
+
+8.003
+
+4.836
+
+12.839
+
+His valuation method begins with the construction of a hypothetical replacement value of the data, based upon the application to each line of data of a theoretical acquisition value, which he assigned upon the basis of its geographic location. Costs per mile to reproduce the data have been estimated on the basis of the current cost to shoot data in a number of geographic areas, depending on such things as topography, environmental restrictions and the like. This acquisition cost was then discounted to the valuation date. To this discounted cost figure, Mr. Boyd applied a factor, taken from a graph constructed by him, to account for the effect of the fold of coverage of the data on its value. Finally, this number was further adjusted on a line-by-line basis to take into account the age of the data.
+
+[95] Mr. Boyd's valuation suffers from the same frailty as that of Mr. Curts. It is, by his own admission, a computation of value to the owner, arrived at without regard for what actually happens in the market. Indeed, like Mr. Curts, Mr. Boyd stated in his evidence that his opinion as to value would not have been affected by sales of comparable data if he had known of them.
+
+[96] That his methodology is simply not valid is apparent from the evidence led by the Respondent as to actual transactions involving data that he had appraised for clients. Mr. Boyd appraised two blocks of seismic data on February 9, 1987. He considered the value of the "Pulse Surveys" data to be $16,243,647, and the value of the "Geosource" data to be $19,414,475. He arrived at these conclusions, it appears, by essentially the same methodology that he applied in the present case. Mr. MacDonald gave evidence as to his purchase of the Pulse Surveys data. He acquired an interest of approximately 33 1/3% in it for about $1,500,000 on February 12, 1987, after a negotiation that lasted six weeks. He then acquired the remaining interest for about $1,700,000. The Pulse Surveys data, therefore, cost him a total of $3.2 million - approximately 20% of the appraised value according to Mr. Boyd.
+
+[97] Robert Kondrat gave evidence as to the purchase by his company, Karon Resources Inc., of about 87% of the Geosource data for $1,700,000 on November 12, 1986, following six months or more of negotiation. That 87% was appraised by Mr. Boyd at $14.834 million. This is almost five times the price at which it had changed hands in an arm's length sale three months earlier. When cross-examined in reference to these sales, Mr. Boyd said that his appraisals of the two data sets would be lower now than those done in 1987, but only because since then he has increased the discount factor that he applies for the age of data. It is clear from his evidence that he would not have been influenced in his opinion of value by the arm's length transactions, had he been aware of them. I do not find Mr. Boyd's evidence to be of any assistance in attempting to establish the fair market value of the data.
+
+[98] Mr. Shane O'Dwyer has a B.Comm. degree and is an accredited member of the Canadian Institute of Business Valuators, and of the American Society of Appraisers. He has 15 years' experience in the valuation of businesses and business assets, all of it working for Revenue Canada (now Canada Customs and Revenue Agency). In this capacity he has done abut 100 valuations of seismic data, he said, and reviewed many more that were done by other members of the Department's Valuation Unit. However, he has no practical experience either buying and selling seismic data, or advising those who do.
+
+[99] Mr. O'Dwyer valued the proprietary data by the income approach. He theorized that its value lay in the income stream that it could produce for the hypothetical purchaser. He therefore calculated, for each line of data, a present value of the income it would produce, based upon certain assumptions. He started with a price at which he believed copies could be sold, based upon an assumption that this would be 20% to 25% of the acquisition cost. His next assumption was that one copy could be sold in each five-year period until the data was 20 years old, after which no more copies would be sold. He then discounted the assumed proceeds of these sales to allow for the time value of money, and for the risk that not all the projected future sales would in fact take place. A discount of 10% was also applied to each future sale in this calculation to account for brokerage fees. Where the owners' working interest was less than 100%, that also was factored into the equation, as was the number of kilometres in each line.
+
+[100] Unlike proprietary data, purchased data cannot be resold by the buyer. There can therefore be no future income stream from the sale of copies. Mr. O'Dwyer's methodology to evaluate purchased data was therefore to multiply the copy price that had been otherwise established by the number of kilometres, and then apply a volume discount.[17] The theory underlying the volume discount was simply that it is unlikely that the buyer of a large block of copy data will have a current use for all of it, and that he will therefore be unwilling to pay the copy price for all of it. The volume discount, he said, was based upon advice from consultants. In his statement of evidence, he wrote:
+
+Based on their exploration experience, and their experience with volume or block sales of seismic data, our consultants have recommended that blocks of copies of seismic data sold on the open market would most likely result in volume discounts of in excess of 50 percent, and may even be as high as 75 to 80% depending on the size of the block of seismic.
+
+[101] Mr. O'Dwyer identified 20 sales of proprietary seismic data which had taken place between 1991 and 1999. He testified that the data in question was in locations throughout Alberta, and was of variable quality. He considered it sufficiently comparable to the data he was evaluating to provide a valid check upon his estimates of value. The largest of these blocks of proprietary data was 146,675 kilometres, and the smallest was 410 kilometres. The average price was $300 per kilometre. Of the seven transactions that took place in 1992, the weighted average price was $286 per kilometre. One block of 7,584 kilometres sold in 1991 for $2,000,000, which is $264 per kilometre.
+
+[102] Mr. O'Dwyer was able to identify only two sales of purchased data which took place in 1992. One of these was the sale of 2,362 kilometres at a price of $200,000, or $85 per kilometre. The other block was 12,378 kilometres, and it sold for $333,333, or $27 per kilometre.
+
+[103] Throughout both the written statement of his evidence and his oral evidence, Mr. O'Dwyer makes frequent reference to both factual material that has been provided to him by "consultants", and also to matters of judgment as to which he had sought opinions from those "consultants", and then adopted their judgments as his own. One such instance appears in the passage I have quoted at paragraph 100, but it is only one of many. The "consultants" it appears, are two individuals who have been engaged from time to time in, among other things, advising as to the value of seismic data. Whatever the level of their expertise might be, they were not at the trial, they did not give evidence, and counsel for the Appellant had no opportunity to cross-examine them.
+
+[104] Opinion witnesses, at least in civil proceedings, have a certain latitude to base their opinions upon information that they have gathered outside the courtroom, and which is not formally proved. It becomes part of the general body of knowledge that contributes to the expertise of the witness.[18] No such latitude is available in respect of matters of judgment or opinion, however. The reason that certain witnesses may express opinions is because they possess knowledge and expertise, acquired through study and experience, that will assist the Court. They may consult recognized texts and reference materials in formulating and in defending their opinions, but they may not simply reiterate the opinions of others, with or without attribution. The opinion evidence of Mr. O'Dwyer in this case is tainted by his wholesale adoption of the advice of those he consulted, not simply as to the facts of transactions, but as to matters which are primarily matters of judgment, such as the establishment of a copy price, and the appropriate levels of discount to be applied to large volume sales. However, I know nothing of the qualifications of these consultants, I have had no opportunity to assess their competence, and, most importantly, they have not been subject to cross-examination. In my view, their opinions pervade the evidence of Mr. O'Dwyer to such an extent, and so inextricably, as to destroy any probative value that it might otherwise have.
+
+[105] The witness best qualified to give an opinion as to value in this case is Mr. Lorne Siebert. Unfortunately, Mr. Siebert was not asked to give his opinion as to the value of the seismic data. His evidence was confined to addressing the theory of evaluation and the appropriate principles to be applied, for the purpose of rebutting the evidence of Mr. Boyd. Without any reliable opinion evidence, I must simply make the best estimate of value that I can from the evidence before me.[19]
+
+[106] If I understood Mr. Siebert correctly, his preferred approach to the valuation of these three lots of seismic data would be to estimate the present value of the future income flows that the purchaser might expect to realize from the data. In the case of purchased data, future income can come only from exploration that is aided by the data. Proprietary data may also produce revenue from the future sale of licensed copies. Mr. Siebert suggests that the market would not attribute any exploration value to large blocks of proprietary data, because purchasers are frequently brokers who buy simply to sell copies, and because vendors have often realized the exploration value in their own exploration programs. He also suggests that it is difficult to estimate future cash flows from the sale of licensed copies. While a computation of the present value of future cash flows may be theoretically the preferred methodology, I am unable to see how it can be applied in the present case. I am unwilling to accept Mr. O'Dwyer's copy prices as a component of value; they are far too dependant upon input from his so-called "consultants". No other starting point is obvious in the evidence before me.
+
+[107] Mr. O'Dwyer and Mr. Siebert both viewed the evidence that Mr. O'Dwyer had accumulated of actual market sales as being useful simply as a check upon the validity of a valuation arrived at by the income approach. Given the paucity of evidence that I consider probative, however, I have reached the conclusion that the best that can be done in this case is to estimate the value of these three blocks of data on the basis of the evidence of actual sales that took place in the market. Schedule M[20] to Mr. O'Dwyer's statement of evidence lists 22 sales that took place between August 1991 and June 1999. There was also direct evidence led by the Respondent as to seven transactions; however only four of these are useful, as there were insufficient facts in evidence as to the others to permit me to draw any conclusions at all from them. Admittedly, there are very serious shortcomings in this approach. The comparability of the data is largely unknown. These are obviously only a few of the actual sales that have taken place during a decade, and nine of them occurred since November 1996. Two are sales of copies, and the others are of proprietary data. Nothing is known of the age, the quality or the location of the data in most cases.
+
+[108] It is clear to me that sales in bulk which involve some 15,000 kilometres, and 22,000 in the case of the CanEagle sale, would not take place in the market at arm's length without considerable negotiation. A significant factor in that negotiation would be the quantity of data changing hands. Mr. Hauck, while not agreeing that a volume discount should be applied, theorized that if there were to be such a discount it would be based upon a consideration of whether the JEC, through its shareholders, would have access to the lands to which the data was applicable. I agree that access to the land rights would be a factor that an arm's length purchaser would have to consider, but I do not accept Mr. Hauck's "all or nothing" approach. In my view, a purchaser would look to the likelihood of ever using the data which comprises such a large purchase, and also to the timeframe within which it might be used. Such a purchaser would be willing to pay less for data that did not fit into its short-range plan than for that which did, and much less still for data that did not fit into its planning at all. The evidence as to appropriate rates of discount for sales in bulk is slight. Mr. MacDonald testified that a purchaser of more than 50% of the data in a survey would obtain at least a 20% discount, and that, beyond that, discounts would be subject to negotiation case by case. His evidence suggests that higher discounts are appropriate for large sales. When asked what is a large sale he answered " ... in general you are talking one or two million dollars. For a large discount". Mr. Dowdell, the operations manager of Geophysical Services Incorporated, a seismic broker, said that his company gives volume discounts on sales of large blocks. They are negotiated on a case by case basis depending on the volume and vintage of the data, and their opinion as to the prospects of further sales. The larger the volume of data changing hands, then, the more insistent the potential purchaser will be on a large discount from the price per kilometre on which a small transaction would be based. The evidence convinces me that these would be considered large transactions, and that a very substantial discount would be negotiated by an arm's length purchaser.
+
+[109] There is some variation in the evidence as to the exact number of kilometres of data sold. I propose to use Mr. Hauck's numbers, which are probably the most accurate. They show the following breakdown of the three blocks of seismic:
+
+Proprietary Data (km.)
+
+Purchased Data (km.)
+
+Total (km.)
+
+Block 1 (Phillips 1991)
+
+2,424.28
+
+14,450.84
+
+16,875.12
+
+Block 2 (Phillips 1992)
+
+728.10
+
+15,587.14
+
+16,315.24
+
+Block 3 (CanEagle)
+
+8,661.70
+
+13,766.50
+
+22,428.20
+
+Total
+
+11,814.08
+
+43,804.48
+
+55,618.56
+
+[110] There are only two sales of licensed data in the list compiled by Mr. O'Dwyer. They both took place in 1992. The larger block was 12,378 kilometres and sold for $333,333, or $27 per kilometre. Mr. O'Dwyer's information was that this represented a discount of 96% from a price of $678 per kilometre. Whether this is so or not, the three blocks bought by the JECs are of roughly comparable size. The other sale of licensed data on Exhibit R-39 is of 2,362 kilometres for $200,000 or $85 per kilometre. The volume discount in that case is said to be 85%. Considering that the average age of the licensed data in issue here was greater than 10 years at the dates of sale, and that the transactions all involved more than 13,000 kilometres of licensed data, I would estimate the fair market value for the purchased data acquired by the JECs in 1991 and 1992 to be not more than $75 per kilometre or:
+
+Licensed Data
+
+Block # 1
+
+14,450.84 x $75 = $1,083,813
+
+Block # 2
+
+15,587.14 x $75 = $1,169,036
+
+Block # 3
+
+13,766.50 x $75 = $1,032,487
+
+Total
+
+43,804.48 x $75 = $3,285,336
+
+[111] The sales of proprietary data identified by Mr. O'Dwyer and summarized in Exhibit R-39 are as follows:
+
+ID #
+
+Date of Sale
+
+Paid Price $
+
+Number of km.
+
+Price Paid per km.
+
+28 Aug 91
+
+2,000,000
+
+7,584
+
+264
+
+5 Jun 92
+
+562,800
+
+2,021
+
+278
+
+8 Jun 92
+
+1,296,532
+
+2,319
+
+560
+
+22 Jun 92
+
+121,560
+
+410
+
+296
+
+26 Jun 92
+
+2,750,000
+
+12,378
+
+222
+
+29 Jun 92
+
+424,644
+
+893
+
+476
+
+16 Dec 92
+
+217,276
+
+412
+
+528
+
+10
+
+30 Dec 92
+
+100,000
+
+487
+
+206
+
+11
+
+21 Dec 93
+
+805,000
+
+5,905
+
+136
+
+12
+
+1 Jun 94
+
+407,716
+
+634
+
+644
+
+13
+
+1 Jun 94
+
+1,392,284
+
+2,225
+
+626
+
+14
+
+19 Nov 96
+
+163,907
+
+1,609
+
+102
+
+15
+
+26 Feb 97
+
+460,000
+
+1,528
+
+302
+
+16
+
+19 Dec 97
+
+600,000
+
+2,649
+
+227
+
+17
+
+28 Apr 98
+
+300,000
+
+1,467
+
+204
+
+18
+
+16 Jul 98
+
+320,000
+
+940
+
+170
+
+19
+
+31 Aug 98
+
+950,000
+
+2,343
+
+405
+
+20
+
+27 Jan 99
+
+37,000,000
+
+146,675
+
+252
+
+21
+
+4 Jun 99
+
+500,000
+
+4,925
+
+102
+
+22
+
+9 Jun 99
+
+45,000,000
+
+120,000
+
+375
+
+Total
+
+95,905,052
+
+332,144
+
+289 *
+
+
+
+* Weighted average of all sales.
+
+As with the two sales of copies, a great deal that is relevant is not known about these 20 transactions. Mr. Shaikh testified about sale #14, and his evidence satisfies me that it was an arm's length, negotiated sale.
+
+[112] There were several other sales as to which I heard evidence from the buyer or the seller. David Monachello testified as to the sale by Coparex Canada Ltd., of which he was the chief executive officer, of various part interests in a great many lines of seismic data. When adjusted for the percentage interest owned by Coparex, the sale comprised the equivalent of 934.3 kilometres. The price was $160,000 plus a 50% interest in future revenue from sales of copies, which Coparex considered to be worth $75,000. Mr. Monachello said that this came to about $100 per kilometre, and that they were "thrilled with the price". Once the price is adjusted to reflect the part interest only that Coparex owned in most of the data the price, based on $160,000 plus $75,000 for future revenue, is about $251 per kilometre. This sale took place in 1998.
+
+[113] Kenneth MacDonald, president and chief executive officer of Pulse Data Inc., purchased 24,034 kilometres of data, along with some other assets for $3.2 million in two transactions. The first transaction was for about 30% to 35% of the data, and was negotiated over about a six-week period. In the agreement, there was an allocation of part only of the purchase price to the seismic data, but from his evidence as a whole it seems clear that he in fact paid $3.2 million to acquire the 24,034 kilometres of data. This sale was in February 1987. It indicates a value of $133 per kilometre.
+
+[114] Robert Kondrat testified as to two transactions, but there is insufficient evidence as to the first of these to produce any conclusions. The second was a purchase by Karon Resources Inc. of 12,938 kilometres of data from Petty-Ray Geophysical Canada for $1,700,000 in November 1986, following more than six months of negotiation. The price was $131.40 per kilometre.
+
+[115] The last sale of which there was direct evidence was from Casper Explorations to 533530 Alberta Ltd. The price was $138,796.47, plus a 50% share of future revenues, and the data consisted of 444.7 kilometres. This sale took place in 1992 and the price, exclusive of the value of the future revenues, was $312 per kilometre. It is difficult to draw any conclusion from this sale as there is no evidence of the value attributed to the future revenue. Karen Leeds, a director of Casper Explorations, testified that the purchaser bought the data for the purpose of reselling it as a block.
+
+[116] Of the 20 sales making up the part of Exhibit R-39 that summarizes sales of proprietary data, 11 took place between August 1991 and June 1994. The other 9 took place between November 1996 and June 1999. This second group included two very large transactions in 1999 that involved a total of more than 266,000 kilometres for a total consideration of $82 million. They were at $252 and $375 per kilometre respectively. The average price paid in the first 11 sales, weighted, is $275 per kilometre. For the second group of nine sales it is $302 per kilometre. For the whole group it is $300. The first group includes four relatively small sales at prices of $528 per kilometre, $560, $626 and $644. Two of these are for slightly more than 2,000 kilometres; the other two, and a sale at $476 per kilometre, are for less than 1,000 kilometres. The three largest sales in this group are 12,378 kilometres for $222 per kilometre, 7,584 kilometres for $264 per kilometre, and 5,905 kilometres for $136 per kilometre. The other two large transactions are the Pulse Data purchase of 24,034 kilometres for $133 per kilometre in 1987, and the purchase by Karon Resources of 12,938 kilometres for $131.40 per kilometre after a lengthy negotiation in 1986.
+
+[117] From this evidence, which I recognize has significant gaps in it, my conclusion is that the best estimate I can make as to the value of the proprietary data in issue here is that it would not sell at arm's length in 1991 and 1992, as part of the larger blocks that included the licensed data, for more than:
+
+Block # 1 proprietary data $250 x 2,424.28 kilometres = $ 606,070
+
+Block # 2 proprietary data $300 x 728.10 kilometres = $ 218,430
+
+Block # 3 proprietary data $225 x 8,661.7 kilometres = $1,948,883 *
+
+$2,773,383
+
+* Based on a 100% interest.
+
+To summarize, then, my estimate of the fair market value attributable to each of the three transactions in issue here is:
+
+Block # 1 (Phillips 1991)
+
+Licensed data $1,083,813
+
+Proprietary data 606,070
+
+Total $1,689,883
+
+Block # 2 (Phillips 1992)
+
+Licensed data $1,169,036
+
+Proprietary data 218,430
+
+Total $1,387,466
+
+Block # 3 (CanEagle 1992)
+
+Licensed data $1,032,487
+
+Proprietary data
+
+1/3 x 1,948,883 649,628
+
+Total $1,682,115
+
+As the CanEagle JEC acquired only a one-third interest in the seismic data, the value of its proprietary data should be reduced by that amount. As it acquired the right to use the licensed data, which is all that the purchaser of a licensed copy can acquire, I have not reduced the value of the CanEagle copy data. The CEE that would have been available for the JECs to renounce in favour of the Appellant in the 1992 taxation year, if the seismic data had been acquired entirely for the statutory purpose, could not, therefore, have exceeded $4,759,464.
+
+[118] I return to the matter of the Amended Consent to Judgment, signed by counsel for both parties, that is dated February 16, 2001 and was filed with the Court during the trial, The operative part of the document reads:
+
+The Appellant and the Respondent, through their solicitors, agree that part of the appeal before the Tax Court of Canada is not in dispute and hereby consent to Judgment being issued by the Tax Court of Canada allowing the appeal of the Appellant from the assessment of the Appellant's 1992 taxation year and these matters are referred back to Canada Customs and Revenue Agency on the following basis:
+
+1. The Appellant be allowed additional Scientific Research and Experimental Development expenses in respect of Syncrude Canada Ltd. for the Appellant's 1992 taxation year in the amount of $406,495.00.
+
+2. The Appellant be allowed additional Scientific Research and Experimental Development expenses in respect of Petro-Canada Hibernia Partnership for the Appellant's 1992 taxation year in the amount of $365,953.00.
+
+3. The consequential adjustments will be made pursuant to the above paragraphs 1 and 2.
+
+4. Each party to this action shall bear its own costs in respect of this issue.
+
+5. The Appellant is entitled to no further relief in respect of this issue but nothing contained in this Consent to Judgment shall be construed as affecting the parties' rights in respect of the remaining issues under appeal.
+
+The same issue was addressed by paragraph 33 of the Amended Notice of Appeal, which was also signed on February 16, 2001. Paragraph 33 was amended to read:
+
+33. By Notice of Reassessment dated May 28, 1996, the Minister also reassessed the Appellant to disallow certain Scientific Research and Experimental Development expenses claimed by the Appellant in the 1992 year (the "1992 SR & ED Expenses"). The Appellant filed a Notice of Objection dated June 18, 1996 with respect to the disallowance. This matter has been resolved with the Minister and the Minister has agreed to allow the 1992 SR & ED Expenses in the amount of $406,495 in respect of Syncrude Canada Ltd. and additional 1992 SR & ED Expenses in the amount of $365,953 in respect of Petro-Canada Hibernia Partnership.
+
+There has been no amendment to paragraph 1 of the Amended Reply to Notice of Appeal which was filed on April 2, 1998, which admitted paragraph 33 of the Notice of Appeal. The effect, then, of the pleadings and the Consent, is that the parties have agreed that the Minister in making the reassessment from which this appeal is brought, should have allowed the Appellant $772,448 more than the amount he did allow for scientific research and experimental development, and that they agree that my judgment should take that into account. However, my judgment must also take into account that in that reassessment the Appellant was allowed a deduction of $8,884,497 for the CEE renounced to it by the JECs, which exceeds the amount to which it would have been entitled, even if all the seismic data had been acquired for the statutory purpose, by slightly more than $4 million. I cannot, of course, increase the tax payable by the Appellant, or direct the Minister to do so.[21] However, I know of no reason to compound the existing error by allowing the Appellant any additional deduction. The net effect of two errors in the assessment (again assuming that the seismic data all had been acquired for the statutory purpose) is that the Appellant has had a windfall of the tax on more than $3 million. The windfall is in fact much greater.
+
+[119] The appeal is therefore dismissed. The Respondent is entitled to her costs, including fees for two counsel.
+
+Signed at Ottawa, Canada, this 6th day of December. 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+COURT FILE NO.: 97-3567(IT)G
+
+STYLE OF CAUSE: Petro-Canada and Her Majesty the Queen
+
+PLACE OF HEARING: Calgary, Alberta
+
+DATE OF HEARING: January 29, 30, 31, February 1, 2, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 21 and 22, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge E.A. Bowie
+
+DATE OF JUDGMENT: December 6, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Jehad Haymour, Carman R. McNary
+
+and Denny W.F. Kwan
+
+Counsel for the Respondent: Deborah Horowitz and Wendy E. Burnham
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Jehad Haymour
+
+Firm: Fraser Milner Casgrain
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+97-3567(IT)G
+
+BETWEEN:
+
+PETRO-CANADA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on January 29, 30, 31, February 1, 2, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 21 and 22, 2001, at Calgary, Alberta, by
+
+the Honourable Judge E.A. Bowie
+
+Appearances
+
+Counsel for the Appellant: Jehad Haymour, Carman R. McNary
+
+and Denny W.F. Kwan
+
+Counsel for the Respondent: Deborah Horowitz and Wendy E. Burnham
+
+Judgment
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1992 taxation year is dismissed, with costs, including fees for two counsel.
+
+Signed at Ottawa, Canada, this 6th day of December, 2002.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] Unused CEE is accumulated in a pool and is available to be applied against profit for use in future years.
+
+[2] Subsection 69(1) of the Act.
+
+[3] 66.1(6) In this section,
+
+"Canadian exploration expense" of a taxpayer means any expense incurred after May 6, 1974 that is
+
+(a) any expense including a geological, geophysical or geochemical expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada,
+
+[4] This was based upon 100% ownership of the data. In fact it was a one-third ownership interest that was conveyed.
+
+[5] 92 DTC 6123.
+
+[6] 99 DTC 5377.
+
+[7] at pages 6127-6128.
+
+[8] at page 5380-81.
+
+[9] Symes v. The Queen, [1993] 4 S.C.R. 695, per Iacobucci J. at 736.
+
+[10] The Act, paragraph 251(1)(b) (now 251(1)(c)).
+
+[11] Swiss Bank Corporation v. M.N.R., [1974] S.C.R. 1144 @ 1152.
+
+[12] Exhibit A-16.
+
+[13] Although Mr. Curts when asked, without objection from Respondent's counsel, if he would stand by his valuation today, replied that he would.
+
+[14] Essentially fold may be thought of as the density of the product.
+
+[15] Exhibit A-22, page 3.
+
+[16] These values are found in Exhibit A-27 which was filed during the trial to correct errors in his statement of evidence, Exhibit A-22.
+
+[17] He also theorized that if the vendor was a partnership, the price should be grossed by 30% for each partner. He did not make clear to me how or why this gross-up would apply.
+
+[18] City of Saint John v. Irving Oil Co. Ltd., [1996] S.C.R. 581 @ 592.
+
+[19] See Marcus v. National Capital Commission, [1970] S.C.R. 39.
+
+[20] A copy of this Schedule was filed separately as Exhibit R-39.
+
+[21] Harris v. M.N.R., 64 DTC 5332, affirmed on other grounds 66 DTC 5189.
+

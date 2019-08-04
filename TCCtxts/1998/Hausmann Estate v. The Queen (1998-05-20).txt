@@ -1,0 +1,158 @@
+Date: 19980520
+
+Docket: 97-1767-IT-I
+
+BETWEEN:
+
+THE ESTATE OF MICHEL HAUSMANN, DECEASED
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the 1992, 1993 and 1994 taxation years made against the late Mr. Hausmann whereby the Minister of National Revenue included in his income a pension received from the Government of Belgium in the amounts of $4,800, $4,761 and $5,217 respectively. It appears the amounts were received in Belgian francs. The assessments were based upon clause 56(1)(a)(i)(C.1) of the Income Tax Act which reads:
+
+56.(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+(a) — any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+
+(C.1) the amount of any payment out of or under a foreign retirement arrangement established under the laws of a country, except to the extent that the amount would not, if the taxpayer were resident in the country, be subject to income taxation in the country.
+
+[2] The appellant relies upon Article XVIII of the Canada-Belgium Tax Convention, which reads:
+
+Article XVIII
+
+Pensions and Annuities
+
+1. Subject to the provisions of paragraph 2, periodic or non-periodic pensions and other similar allowances arising in a Contracting State and paid in consideration of past employment to a resident of the other Contracting State may be taxed in the Contracting State in which they arise.
+
+2. Periodic or non-periodic social security pensions and other similar allowances and war veterans pensions paid by a Contracting State or a political subdivision, a local authority or a government instrumentality thereof (personne morale ressortissant à son droit public), shall be taxable only in that State.
+
+3. Annuities arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in the State in which they arise.
+
+4. Any alimony or other maintenance payment arising in a Contracting State and paid to a resident of the other Contracting State who is subject to tax there in respect thereof, shall be taxable only in that other State.
+
+[3] Sections 1, 2 and 3 of Article XVIII of the French version read as follows:
+
+Article XVIII
+
+Pensions et rentes
+
+1. Sous réserve des dispositions du paragraphe 2, les pensions et autres allocations similaires, périodiques ou non, provenant d’un État contractant et versées au titre d’un emploi antérieur à un résident de l’autre État contractant sont imposables dans l’État contractant d’où elles proviennent.
+
+2. Les pensions de sécurité sociale et les autres allocations similaires, périodiques ou non, ainsi que les pensions d’ancien combattant, qui sont payées par un État contractant, par une de ses subdivisions politiques ou collectivités locales ou par une personne morale ressortissant à son droit public, ne sont imposables que dans cet État.
+
+3. Les rentes provenant d’un État contractant et payées à un résident de l’autre État contractant sont imposables dans l’État d’où elles proviennent.
+
+[4] The convention was signed in the English, French and Netherlands languages, each being equally authentic.
+
+[5] Subsections 5(1) and (2) of the Canada-Belgium Income Tax Convention Act, 1976 provided:
+
+(1) The Convention entered into between the Government of Canada and the Government of Belgium, set out in Schedule II, is approved and declared to have the force of law in Canada during such period as, by its terms, the Convention is in force.
+
+(2) INCONSISTENT LAWS — In the event of any inconsistency between the provisions of this Part, or the Convention, and the provisions of any other law, the provisions of this Part and the Convention prevail to the extent of the inconsistency.
+
+[6] It is interesting to note, parenthetically, that paragraph 110(1)(f) permits, in computing taxable income, a deduction for:
+
+(f) — any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer’s income for the year or any amount that is
+
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+
+[7] The section obviously has no application. The pension payments were not taxed under clause 56(1)(a)(i)(A).
+
+[8] I do not understand what the need is to exclude from taxable income an amount that is exempt under a treaty. Such an amount should not have been included in a taxpayer’s income at all and should therefore not be the basis of a deduction in computing taxable income. In any event paragraph 110(1)(f) is not a reliable basis upon which to interpret the Belgian Treaty.
+
+[9] The central question here is whether the pension payments received by Mr. Hausmann from l’Office National des Pensions of the Belgian government were “social security pensions and other similar allowances”.
+
+[10] Mr. Rymas Pranaitis, an accountant and a senior auditor with the Department of National Revenue, testified and explained the basis upon which the assessment was made. The Toronto District Office of the Department of National Revenue received a letter from the international audit branch of the Department containing a number of slips relating to amounts paid to residents of Canada by the Belgian government. The slip put in evidence as typical of those received by Mr. Hausmann is entitled “Fiche de pensions” (Exhibit R-4) and read as follows:
+
+2. pensions, rentes viageres et autres
+
+allocations y assimilees 127.319
+
+capitaux, valeurs de rachat et alloc.
+
+en capital non convertibles en rente
+
+ni imposables distinctement
+
+total (A) 127.319 ***
+
+arrieres taxables
+
+distinctement (C) ***
+
+[11] A second slip was put in evidence (Exhibit R-5), relating to another taxpayer, but showing the receipt of a much larger amount (614,319 BF). That slip, however contained the following further note: “5. Precompte prof. (ZA) 109,838”.
+
+[12] Discussions with the Belgian consulate as well as a letter from the Belgian Ministry of Finance ensued. It appears that the designation “ZA” indicated that tax was withheld in Belgium, whereas the lack of the letters “ZA” indicates that no tax was withheld. Mr. Pranaitis was also told that the pension received by Mr. Hausmann from l’Office National des Pensions was the result of his having worked in Belgium. His informant in the Belgian consulate stated that the pension was “like the Canada Pension Plan”.
+
+[13] The letter from the Belgian Ministry of Finance (Exhibit R-6) stated in part as follows (English translation):
+
+That being the case, I can tell you that the pensions referred to on the cards fall under either § 1 or § 2 of Article XVIII of the convention, depending on their type. In both cases the power of taxation has devolved to the source State (in this case, Belgium).
+
+Beside this, no taxation or withholding at source occurs in Belgium when income is below the taxable threshold.
+
+For its part, Canada must avoid double taxation of these Belgian-source pensions by applying the tax owed in Belgium to the Canadian tax. That way, when a pension has not been actually taxed in Belgium, Canada can tax the pension without restriction.
+
+The 281.11 cards (for pensions) sent to Canada by my department show both the annual pension amount (Code A) and the amount of tax (payroll deductions) withheld at source (Code ZA).
+
+The lack of a Code ZA means in principle that there was no tax withheld at source in Belgium.
+
+[14] This somewhat presumptuous letter, in which some official in the Belgian government purports to instruct the Government of Canada on how it should administer its tax laws, appears to have formed the basis of the assessment. Essentially, any person whose slips contained the designation “ZA” were not taxed by Canada. Those, such as Mr. Hausmann, who were not taxed by Belgium, and had no “ZA” designation, were assessed.
+
+[15] The theory appears to be that if Belgium is not going to tax the pension Canada should. Otherwise the unthinkable might occur and the amount might not be taxed by anyone. This would be anathema. This view seems to be consistent with the view expressed in the Belgian letter.
+
+[16] The question whether the pension received by Mr. Hausmann was a social security pension within the meaning of the treaty appears not to have been considered.
+
+[17] I start with the Income Tax Act. The pension was to be included in income under clause 56(1)(a)(i)(C.1):
+
+...except to the extent that the amount would not, if the taxpayer were resident in the country, be subject to income taxation in the country.
+
+[18] One might have drawn precisely the opposite conclusion to that drawn by the Department of National Revenue: if the amounts were not subject to tax in Belgium they were specifically excepted from the provisions of clause (C.1).
+
+[19] The expression in clause (C.1) “subject to income taxation” is a little ambiguous. It can mean “actually taxed” or “susceptible of being taxed, whether actually taxed or not (i.e. not specifically exempted)”. The French version reads:
+
+(C.1) tout paiement fait dans le cadre d’un mécanisme de retraite étranger prévu par la législation d’un pays, sauf dans la mesure où le paiement serait exclu du calcul du revenu du contribuable aux fins de l’impôt sur le revenu dans ce pays s’il y résidait.
+
+[20] The evidence appears to establish that the payments received by Mr. Hausmann fell below a certain threshold, and were therefore not taxed by Belgium. It is, however, not clear whether the threshold is the same for residents of Belgium or non-residents. One thing, however, is quite clear and it is that the premise upon which the assessment was based, that if Belgium did not tax the payments they must be taxable by Canada, is plainly wrong as is the opinion expressed by the Belgian official in Exhibit R-6.
+
+[21] I turn then to the treaty. This case involved a relatively small amount of money and was heard under the informal procedure. Nonetheless all treaty cases are important and raise questions of broad application. The principles of treaty interpretation permit the courts to refer to a large body of extrinsic evidence, including evidence relating to the laws of the other country with which Canada has a treaty as well as the interpretation of the treaty by the other party. See Crown Forest Industries v. Canada, [1995] 2 S.C.R. 802; RMM Canadian Enterprises Inc. et al. v. The Queen, 97 DTC 302 at 313-316.
+
+[22] Unfortunately financial constraints prevented the adducing of evidence of Belgian tax experts. I must therefore proceed on the evidence available, much of which is hearsay. (See Ainsley v. Canada, [1997] F.C.J. No. 701; Brennan v. Canada, [1997] T.C.J. No. 971.)
+
+[23] Under the treaty the question is whether the pension payments received by Mr. Hausmann are “social security pensions”. The term is not defined in the treaty. Exhibit A-1 refers to a “rente de vieillesse”. The department’s informant at the Belgian Consulate stated that the amount was “like the Canada Pension Plan”.
+
+[24] A cogent piece of evidence (Exhibit A-2) is a passage from the Cahiers de droit fiscal international, published by the International Fiscal Association. It seems clear from that document that the very broad sweep of the Belgian social security system includes the payment of such pensions as the type with which we are concerned here. The summary of the report of the Belgian National Reporter, Christian Willems, in the report of the 38th IFA Conference in 1984, reads in part as follows:
+
+Since the end of the Second World War Belgium has had a general social security system for employees. The general and traditional rights it provides for are the reimbursement of health care, family benefits, unemployment and work incapacity benefits, pensions and widows’ and widowers’ pensions. The system is managed by a public institution, the “Office National de Sécurité Sociale”, whose budget consists of the employee and employer social security contributions (which are percentage of the gross remuneration of the employees) and by State subsidies. Payment of the benefits is taken care of by a mixed system run by public and private organisms.
+
+Except when an international convention provides otherwise, every employee, of whatever nationality, who works in Belgium and whose employer either has its seat in Belgium or has a plant or office there to which the employee is attached, is subject to the Belgian social security system. This territoriality principle, whose strict application often resulted in double payments being due, has been attenuated by international bilateral or multilateral conventions. Here the activities of the European Commission should particularly be mentioned, as it had regularized the situation of the migrant workers by introducing the principles of non discrimination, totalization of insurance periods taken into account by the different national legislations and the transborder granting of the benefits and by determining the applicable law.
+
+[25] Assuming that the Belgian pension is similar to the Canada Pension Plan it seems abundantly clear that pensions of this type are social security pensions. They appear to be one of the cornerstones of the entire Belgian social security system.
+
+[26] Moreover, it is helpful to consider how Canada interprets these words in its dealing with other treaty partners. The amendment to Article XVIII of the Canada U.S treaty by the 1995 protocol which yields to the country of residence of a recipient the exclusive right to tax “benefits under the social security legislation” is premised upon CPP payments being “social security benefits”. This is borne out in a Department of Finance news release of December 23, 1997 as well as the backgrounder to the Department of Finance news release of April 9, 1997.
+
+[27] The inference that I draw from this is that Canada regards is CPP payments as social security benefits. Therefore, in negotiating the Belgian treaty, both Canada and Belgium unquestionably regarded pensions paid under their social security legislation, such as the CPP or the corresponding Belgian statutory scheme, to be taxable only in the country from which they emanated and not the country of residence of the recipient.
+
+[28] Counsel for the respondent argued that pensions that are based upon past employment are covered by section 1 of Article XVIII and that only those not based upon past employment are covered by section 2. With respect, I do not agree. Such an interpretation ignores the words “subject to the provisions of paragraph 2”. Such a conclusion would exclude Canada Pension Plan benefits from section 2, since they are based on past employment.
+
+[29] I have concluded that the pension payments received by the late Mr. Hausmann from l’Office National des Pensions are social security pensions and similar allowances and are taxable only by Belgium. The fact that Belgium chose not to tax them in this case is irrelevant.
+
+[30] The appeals are allowed, with costs, and the assessments for the 1992, 1993 and 1994 taxation years are referred back to the Minister of National Revenue for reconsideration and reassessment to delete the pension payments of $4,800, $4,761 and $5,217 respectively from the income of the late Michel Hausmann.
+
+Signed at Ottawa, Canada, this 20th day of May 1998.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

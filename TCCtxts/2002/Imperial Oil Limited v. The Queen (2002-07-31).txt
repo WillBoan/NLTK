@@ -1,0 +1,830 @@
+Date: 20020731
+
+Docket: 2000-2233-IT-G
+
+BETWEEN:
+
+IMPERIAL OIL LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Mogan J.
+
+[1] The Appellant's principal business at all relevant times was the refining, marketing and transportation of petroleum and petroleum products. The Appellant is subject to the special tax which is levied on large corporations under Part I.3 of the Income Tax Act (referred to herein as "the Act"). The charging provision within Part I.3 of the Act states:
+
+181.1(1) Every corporation shall pay a tax under this Part for each taxation year equal to 0.2% of the amount, if any, by which
+
+(a) its taxable capital employed in Canada for the year
+
+exceeds
+
+(b) its capital deduction for the year.
+
+The phrase "capital deduction" is defined in section 181.5 to be $10,000,000 to ensure that the tax in Part I.3 is levied only on large corporations. The phrase "taxable capital" is defined as follows:
+
+181.2(2) The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+
+The definition of "taxable capital" comprises a positive element (capital) and a negative element (investment allowance). Each of these is a defined term but, in this appeal, I am concerned only with the definition of "investment allowance" which is found in subsection 181.2(4):
+
+181.2(4) The investment allowance of a corporation (other than a financial institution) for a taxation year is the total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation that is
+
+(a) a share of another corporation,
+
+(b) a loan or advance to another corporation (other than a financial institution),
+
+(c) a bond, debenture, note, mortgage or similar obligation of another corporation (other than a financial institution),
+
+(d) ...
+
+other than a share of the capital stock of, a dividend payable by, or indebtedness of, a corporation that is exempt from tax under this Part (otherwise than because of paragraph 181.1(3)(d)).
+
+[2] The only taxation year under appeal is 1993. On November 30, December 1 and December 2, 1993, the Appellant made three loans in the respective amounts of $100 million, $200 million and $200 million to certain corporations which were not "financial institutions" within the meaning of Part I.3 of the Act. In each case, however, the borrowing corporation was affiliated with a Canadian chartered bank which was, by definition, a financial institution. The loans were structured in such a way that they fell within the definition of the negative element "investment allowance" and, specifically, within paragraph 118.2(4)(b). Accordingly, the three loans reduced the Appellant's "taxable capital" and thereby reduced its tax payable under Part I.3.
+
+[3] The aggregate of the three loans described in paragraph 2 is $500 million. For the purpose of applying the general anti-avoidance rule (commonly referred to as "GAAR") contained in section 245 of the Act, the Minister of National Revenue regarded $377.8 million of the aggregate loans as "tainted". Therefore, the Minister used GAAR to reassess the Appellant on the basis that (i) section 245 of the Act prohibited the inclusion of $377.8 million (out of the aggregate of $500 million) in the computation of the Appellant's "investment allowance" notwithstanding the provisions of paragraph 181.2(4)(b); and (ii) the Appellant's liability for tax under Part I.3 of the Act for 1993 was greater by $755,600 (being 0.2% of $377.8 million) than the amount of tax reported by the Appellant.
+
+[4] The Appellant has appealed from that reassessment which relies upon the application of GAAR. The basic issue in this appeal is whether the Minister may apply GAAR to prohibit the Appellant from including the aggregate amount of $500 million in the computation of its "investment allowance" within the meaning of subsection 181.2(4). Later in these reasons, I will set out and consider the meaning of the relevant provision of section 245 which contains the general anti-avoidance rule.
+
+[5] As stated in paragraph 3 above, the Minister did not attempt to prohibit the inclusion of the whole $500 million in the computation of the Appellant's "investment allowance". The Minister prohibited the inclusion of only $377.8 million. At the commencement of the hearing, counsel for the Respondent stated that the Minister was conceding an additional $31 million as a permitted deduction in computing the Appellant's investment allowance; this concession taking effect after the making of the reassessment under appeal. The hearing then proceeded on the basis that the Minister was attempting to prohibit the inclusion of $346.8 million in the computation of the Appellant's "investment allowance" within the meaning of subsection 181.2(4).
+
+[6] In Part I.3 of the Act, the definition of "financial institution" in subsection 181(1) includes "a bank or credit union". Therefore, having regard to the description of "taxable capital" in subsection 181.2(2) and "investment allowance" in subsection 181.2(4), a loan by a large corporation to a bank would not reduce taxable capital but a loan to another corporation would reduce taxable capital. This distinction is at the heart of the three loans which are in dispute in this appeal.
+
+The Three Loans
+
+[7] In September 1993, the Royal Bank of Canada (the "Royal Bank") sent an investment proposal to the Appellant (Exhibit A-4). The proposal referred to Royal Bank Export Finance Company Limited ("REFCO"), a non-bank subsidiary of the Royal Bank which engaged in the business of financing accounts receivable through the purchase of accounts receivable. REFCO was interested in borrowing money from certain corporate clients to the Royal Bank including the Appellant. The introduction to the investment proposal contained the following passage:
+
+... REFCO wishes to prearrange lines of credit with certain corporate clients of RBC, that it may draw upon following mutual consent.
+
+REFCO would be prepared to consider terms for the line of credit, as outlined in the following Section. The legal firm of McMillan Binch has provided to REFCO and RBC a discussion of capital tax issues and an opinion on the status of REFCO with regards to the specific provisions in Canadian and Ontario tax law. A copy of this opinion is also provided. Lastly, a draft of the sample documentation that would be made available prior to closing, is submitted for review.
+
+[8] The letter from McMillan Binch to REFCO and the Royal Bank is dated June 9, 1993; it is 20 pages in length; and it commences:
+
+RE: Royal Bank Export Finance Co. Ltd.
+
+Capital Tax Issues
+
+You have asked for our opinion on certain issues relating to capital tax under the Corporations Tax Act (Ontario) (the "Ontario Act") and large corporations tax under Part I.3 of the Income Tax Act (Canada) (the "Federal Act") relevant to clients ("Clients") of the Royal Bank of Canada (the "Bank") who may choose to lend money to Royal Bank Export Finance Co. Ltd. ("REFCO") under a loan agreement (the "Loan Agreement") substantially in the form of the annexed Schedule 1. Any such loan would be guaranteed unconditionally by the Bank under the terms of a guarantee (the "Guarantee") substantially in the form of the annexed Schedule 2. ...
+
+In the McMillan Binch letter, pages 4 to 15 consider "Ontario Issues" and pages 15 to 20 consider "Federal Issues". Under Federal Issues, McMillan Binch expresses the opinion that REFCO is not a "financial institution" within the meaning of subsection 181(1) of the Act.
+
+[9] There were further discussions and correspondence between the Appellant and either the Royal Bank or REFCO in October and November 1993 as seen in Exhibits R-10 and R-11 which resulted in the Appellant making two loans to REFCO of $100 million on November 30, 1993 and $200 million on December 1, 1993. The letter loan agreement of November 30, 1993 for $100 million (Exhibit A-5) is on the Appellant's letterhead and, because the agreement is relatively short, I will set it out in full.
+
+Royal Bank Export Finance Co. Ltd.
+
+Head Office
+
+10th Floor, South Tower
+
+Royal Bank Plaza
+
+Toronto, Ontario
+
+M5J 2J5
+
+Attention: General Manager
+
+Dear Sirs:
+
+Re: Letter Loan Agreement
+
+This is to confirm the following transaction entered into between Royal Bank Export Finance Co. Ltd. (the "Borrower") and Imperial Oil Limited (the "Lender") in accordance with the following :
+
+1. Amount: CAN$100,000,000.00
+
+2. Value Date of Loan November 30, 1993
+
+3. Repayment and Value Date The Borrower will repay the Lender the
+
+amount of CAN$100,000,000.00 plus interest at the rate of 3.93125% per annum, accruing daily and payable at maturity on the basis of a year of 365 days, for a term of 35 days, which equals an aggregate amount due of CAN$100,376,969.18 for value on January 4, 1994.
+
+4. Place of Repayment: The Borrower will make payment to credit
+
+Imperial Oil Limited Account No. 110-454-6, Transit No. 6382 at Royal Bank, 111 St. Clair Avenue West, Toronto, Ontario M4V 1N5.
+
+This agreement shall be construed in accordance with and governed by the laws of the Province of Ontario and of Canada applicable therein. Neither Party can assign or transfer all or any of its rights and obligations hereunder without the prior written consent of the other.
+
+Other than its obligations to repay the loan as specified in this Agreement, the Borrower will have no liability whatsoever in respect to any losses, costs, damages or expenses incurred by the Lender's entering into this Agreement. The Borrower makes no representation as to the tax consequences to the Lender as a result of its entering into this Agreement, and the Lender has obtained its own independent legal and tax advice as to those consequences.
+
+Please acknowledge your acceptance of the above terms and conditions by signing the attached copy of this letter in the space provided below and returning it to the undersigned.
+
+Yours truly,
+
+IMPERIAL OIL LIMITED
+
+By "Ken Bowman"
+
+Name/Title: Ken Bowman, Manager, Corporate Finance
+
+We acknowledge and accept the terms and conditions of this
+
+Agreement on the 30th day of November, 1993
+
+ROYAL BANK EXPORT FINANCE CO. LTD.
+
+By: "B. Schroder"
+
+Name/Title B. Schroder, Chairman
+
+By: "B.C. Galloway"
+
+Name/Title B.C. Galloway, Director
+
+[10] The letter loan agreement of December 1, 1993 for $200 million between the Appellant and REFCO is also part of Exhibit A-5. It is identical in wording to the agreement of November 30, 1993 set out above except that the amount loaned is $200 million and the interest rate is a bit lower at 3.8875%. Each loan to REFCO was guaranteed by the Royal Bank. Exhibit R-8 is a true copy of the Royal Bank guarantee for the November 30 loan of $100 million. Exhibit R-9 is a true copy of the Royal Bank guarantee for the December 1 loan of $200 million.
+
+[11] The third loan was arranged between the Appellant and Toronto-Dominion Securities Inc., a wholly-owned subsidiary of the Toronto-Dominion Bank (the "TD Bank"). Exhibits R-16 and R-17 are preliminary letters dated August 18 and 24, 1993 to the Appellant referring to the bank's "Subsidiary Loan Program for December 1993". Exhibit R-18 is a more concrete letter dated November 1, 1993 from Karen Taylor of Toronto-Dominion Securities Inc. to Ms. Marnie Lowe of the Appellant's Treasurer's Department. Exhibit R-18 commences as follows:
+
+Further to our discussions, I am pleased to provide further information supporting our idea that Imperial Oil Limited may be able to minimize capital tax at year end by making a properly documented loan. The loan would quality as an eligible investment, resulting in an investment allowance which would reduce Imperial Oil Limited's taxable capital. The loan would be considered an eligible investment for both the Federal Large Corporations Tax and Provincial Capital Tax, yielding savings of up to 65 basis points pre-tax.
+
+Of particular note is that there is no minimum holding period requirement, although we recommend a 30 day term. This would allow Imperial Oil Limited considerably more flexibility than holding government securities, which have a minimum holding period of 120 days. It is also a conservative capital tax planning idea, which is supported by a favourable tax opinion provided by McCarthy Tétrault.
+
+[12] Exhibit A-6 (also part of Exhibit R-18) is a letter dated October 29, 1993 from McCarthy Tétrault to Toronto-Dominion Securities Inc. commencing:
+
+The purpose of this letter is to provide our views on whether loans made by certain lenders to Toronto-Dominion Holdings (USA), Inc. ("TD Holdings") would be added in determining the lender's investment allowances under paragraph 181.2(4)(b) of the Income Tax Act (Canada) (the "Act") and paragraph 62(1)(c) of the Corporations Tax Act (Ontario)(the "Ontario Act"). Our views are provided solely to you and are not intended to nor should they be relied upon by any other party.
+
+At page 4, McCarthy Tétrault expresses the opinion that a loan to TD Holdings should qualify for an investment allowance under the Act subject to the potential application of the general anti-avoidance rule in section 245.
+
+[13] Exhibit A-7 is the loan agreement between and among TD Holdings as borrower, the Appellant as lender, and the TD Bank as guarantor requiring the Appellant to lend $200 million to TD Holdings on December 2, 1993. This loan agreement is different from the loans to REFCO because the guarantee from the TD Bank is incorporated into the agreement whereas the guarantees from the Royal Bank to the Appellant were separate two-party documents. Because the loan agreement is relatively short, I will set it out in full:
+
+LOAN AGREEMENT
+
+BETWEEN:
+
+TORONTO-DOMINION HOLDINGS (USA), INC.
+
+(THE "BORROWER")
+
+AND
+
+THE TORONTO-DOMINION BANK
+
+("TD")
+
+AND
+
+IMPERIAL OIL LIMITED
+
+(THE "LENDER")
+
+WHEREAS the Lender wishes to lend the Borrower and the Borrower wishes to borrow from the Lender the sum of CAD$200,000,000 on the terms hereof;
+
+NOW THEREFOR THIS AGREEMENT WITNESSES THAT in consideration of the sum of two dollars of lawful money of Canada now paid by each party to the other, the receipt and sufficiency whereof is hereby acknowledged, the parties agree as follows:
+
+(1) On December 2, 1993 the Lender shall lend the sum of CAD$200,000,000 to the Borrower with interest payable at the Canadian Treasury Bill Rate, for a period of 33 days.
+
+(2) On December 2, 1993, the Lender shall advance the money to the Borrower by way of a certified cheque or bank draft delivered to the securities cage of The Toronto-Dominion Bank for the account of the Borrower, or by wire transfer to The Toronto-Dominion Bank, Head Office, International Centre, Account Number 0360-01-2166714.
+
+(3) The total principal amount and accrued interest shall be due and payable by the Borrower on January 4, 1994. If this payment is not made, interest shall continue to accrue on the amount outstanding at the Canadian Treasury Bill Rate, until payment has been made. Interest shall be payable after default and judgment.
+
+(4) In this Agreement "Canadian Treasury Bill Rate" means the rate (expressed as an annual percentage rate) determined by the Borrower at approximately 10:00 a.m. on December 2, 1993 to be the ask quotation for one month Canadian Treasury Bills listed on the Telerate Screen 3190. The Borrower shall advise the Lender of the Canadian Treasury Bill Rate at its earliest convenience after it has been determined.
+
+(5) The payment by the Borrower of the indebtedness hereof ranks subordinate and junior to the payment by the Borrower of the principal and interest (including interest on amounts in default) and premiums, if any, on all other indebtedness of the Borrower except other indebtedness which by its terms ranks pari passu herewith.
+
+(6) TD hereby unconditionally guarantees payment of the principal and interest payable by the Borrower under this agreement when and as the same shall become due and payable. The liability of TD under this guarantee ranks pari passu with its deposit liabilities.
+
+(7) The Loan may only be assigned with the consent of the Borrower, which may be arbitrarily withheld, and if such consent is given, it must be in writing with the instrument of transfer signed by the Lender, the Borrower, the Assignee of the Loan and the Guarantor.
+
+(8) The Lender represents to the Borrower that it is not a bank making an extension of credit pursuant to a loan agreement in the ordinary course of the Lender's trade or business within the meaning of Section 881(c)(3)(A) of the Internal Revenue Code of 1986 of the United States of America, as amended.
+
+(9) This agreement shall be governed under the laws of the Province of Ontario.
+
+(10) This agreement can be executed in counterparts, by telecopy or otherwise.
+
+IN WITNESS WHEREOF the parties hereto have executed this agreement this 29th day of November, 1993.
+
+TORONTO-DOMINION HOLDINGS (USA), INC.
+
+Per:______"Signed"______________
+
+Per:______"Signed"______________
+
+THE TORONTO-DOMINION BANK
+
+Per:______"Signed"______________
+
+IMPERIAL OIL LIMITED
+
+Per:_______"Signed"______________
+
+[14] The three loans were all due and payable on Tuesday, January 4, 1994 which was the first business day in 1994. Accordingly, the three loans were for periods of 35 days, 34 days and 33 days, respectively. It is easy to conclude from the exhibits referred to above that the Appellant, when making the two loans to REFCO and the single loan to TD Holdings, was motivated at least in part by a desire to reduce its liability for tax under Part I.3 of the Act. The Appellant claims, however, that the three loans must be viewed in the context of its cash management program in the course of which it follows specific investing guidelines.
+
+The Appellant's Cash Management
+
+[15] The Appellant's only witness was Ronald Stanley Matthews who described himself as manager of cash operations for Imperial Oil Limited. Mr. Matthews had been manager of cash operations at Texaco Canada from 1981 to 1989 but, when Imperial Oil acquired Texaco Canada in February 1989, he became an employee of the Appellant. Mr. Matthews testified at length. His oral testimony covers 170 pages of transcript. He identified 16 Appellant's exhibits (A-1 to A-16) and 19 Respondent's exhibits (R-1 to R-19). What follows in paragraphs 16 to 31 is primarily a summary of Mr. Matthews' evidence describing the management of cash operations within the Appellant's corporate structure.
+
+[16] The cash operations group manages cash flow to ensure that the Appellant has adequate funds available either from business revenues or from maturing investments to meet its daily operating expenses. In 1990 and 1991, the Appellant had relatively small amounts of cash because it had almost exhausted its cash reserves to purchase Texaco Canada in 1989. By 1993, however, the Appellant had accumulated cash in the approximate amount of $1.5 billion (in other words $1,500 million). It is the responsibility of Mr. Matthews and his cash operations group (about five persons) to invest those funds in such a way that there will always be adequate cash to pay operating expenses.
+
+[17] Exhibit A-1 (comprising about 40 pages) is a daily cash forecast summary prepared in November 1993 looking ahead 90 days to the end of January 1994. For each workday in a given month, the Appellant attempts to forecast (90 days ahead) the receipts and disbursements from four business units identified as Treasurers, Imperial Oil, East and ERCL/West. Mr. Matthews referred to "ERCL/West" as upstream meaning the production of crude oil, and "East" as downstream meaning refining and marketing. The cash management group contacts the different business units to find out what each unit expects its cash flow will be and, in particular, when there will be a significant payout like payroll, tax instalment, dividend, etc. From the first page of Exhibit A-1, Mr. Matthews was able to state that on November 9, 1993 (the seventh workday of the month) the Appellant forecast that receipts would exceed disbursements by $25.8 million.
+
+[18] The third page of Exhibit A-1 is the cash forecast (made in early November 1993) for January 1994. This page shows that in early November the Appellant was forecasting a cash shortfall of $114.8 million on January 4, 1994. That date is important because it is the date when the three big loans in question were due and payable. Exhibit A-2 is a daily cash forecast summary prepared in early January 1994 for the 90-day period from January 1 to March 31, 1994. According to Exhibit A-2, the actual cash shortfall on January 4 (the first workday of the month) was $175.2 million.
+
+[19] Exhibit A-3 is the Portfolio Investing Guidelines which were followed by the Appellant's cash management group. The three dominant guidelines in order of priority are (i) safety of principal; (ii) liquidity; and (iii) optimizing return on invested capital. Safety of principal is more important than return on investment because the cash management group is not a profit centre. It is a cost centre, to preserve excess cash. The Appellant regarded it as a cost of doing business. Mr. Matthews stated:
+
+It's not our mandate to make money on the money. It's our mandate to preserve the capital, and we do earn interest on it, but it's to preserve the capital so that we can reinvest it into the business operations.
+
+Transcript pages 32-33
+
+He also stated that liquidity was more important than earning a return on investment.
+
+It means having the funds available to meet the disbursement requirements of the corporation, having the funds available to make payroll, to make the dividend payments, to purchase the products and services that we need to run the business.
+
+...
+
+Investments in the money market all have liquidity and safety of principal characteristics, Canada treasury bills being the most liquid investment you can buy and the securest; Bankers' Acceptances probably being a close second when they're with highly rated banks.
+
+Transcript page 33
+
+During his examination-in-chief, Mr. Matthews gave the following answers with respect to the liquidity of a specific investment:
+
+Q. Now, when you're determining whether a specific investment is suitable in terms of liquidity, do you look at the rest of the portfolio or do you just look at that investment?
+
+A. We look at the investment, we look at the portfolio in total, and we look what our cash forecast says our cash flow needs are.
+
+Q. Okay. Why would the rest of the portfolio be relevant in determining whether this investment is suitable from a liquidity perspective?
+
+A. At any given time, we'd have a good picture of what our cash flow needs are; and depending on the size of the portfolio, then we have some flexibility in terms of what we can do and how much we must have liquid.
+
+At the time of 1993, we had a portfolio that was running in the neighbourhood of $1.5 billion; and we had somewhere in the neighbourhood of $800 million in treasury bills. That was a significant liquidity; so that would, then, afford us the opportunity to purchase another short-term investment that was not as liquid as treasury bills.
+
+Transcript page 34
+
+[20] The investing guidelines in Exhibit A-3 are both rules and policy. The cash management group invests within those guidelines. If a proposed investment does not fall within the guidelines, the group must seek approval in writing before acquisition. Exhibit A-3 has a section entitled "Issuer Categories and Limits". The three most important categories are Canadian Governments (federal and provincial), Banks and Commercial Paper. For the federal government, there is no limit to what the Appellant will invest in treasury bills or Canada Bonds. For federal guaranteed issuers, the Appellant's recommended limit is set out in the following table:
+
+Issuer
+
+Authorized Outstanding
+
+Recommended Limited
+
+Export Development Corp.
+
+$150 Million
+
+$30 Million
+
+Federal Business Development Bank
+
+$200 Million
+
+$40 Million
+
+Canada Mortgage & Housing Corp.
+
+$300 Million
+
+$60 Million
+
+Canadian Wheat Board
+
+$1.9 Billion
+
+$380 Million
+
+Farm Credit
+
+$300 Million
+
+$60 Million
+
+Each recommended limit in the above table is exactly 20% of the authorized outstanding for a particular issuer. There are limits of $40 million to $60 million for provincial governments and provincial guaranteed issuers. The five largest chartered banks had ratings and limits as follows:
+
+Rating
+
+Limit
+
+Bank of Montreal
+
+R 1 Mid
+
+$150 Million
+
+Bank of Nova Scotia
+
+R 1 Mid
+
+$150 Million
+
+Cdn. Imperial Bank of Commerce
+
+R 1 Mid
+
+$150 Million
+
+Royal Bank of Canada
+
+R 1 Mid
+
+$150 Million
+
+Toronto Dominion Bank
+
+R 1 Mid
+
+$150 Million
+
+In order to make the three large loans (two to REFCO and one to TD Holdings) which the Appellant regarded as "bank paper", the cash management group required and obtained approval in writing from the Vice-President and Treasurer because the two larger loans of $200 million exceeded the limit ($150 million) for any one bank.
+
+[21] Because the Appellant did not have the staff or the expertise to do its own credit reviews of Banks and similar issuers, it relied on Dominion Bond Rating Service ("DBRS") which is an acknowledged leader in rating short-term debt of Canadian issuers. The rating "R 1 Mid" for the five largest banks was taken from DBRS. Similarly, for commercial paper, the Appellant relies on DBRS for the rating of a particular issuer and for setting a limit on the amount which the Appellant will invest in the commercial paper of a particular issuer.
+
+[22] Exhibit A-3 also has a section entitled "Safekeeping". All securities were purchased on the basis of cash against documents; and the securities were held in safekeeping by the Appellant's agent at the Royal Bank. The Appellant received a monthly report from the Royal Bank showing what was held on a daily basis. The report showed all of the ins and outs. Mr. Matthews stated that there was much activity each day.
+
+[23] Exhibit R-1 is important. It comprises six binders, each binder containing about 240 pages. Taken together, the six binders contain copies of the daily reports prepared by the Appellant's cash management group at the end of each business day in the calendar year 1993. Each daily report is about seven pages comprising a one-page summary entitled "Net Funds Report For (particular date)" and a Portfolio Detail Report (about 6 pages) listing all of the short-term investments owned by the Appellant at the close of business on that particular date. The binders (each containing daily reports for two months) are arranged in chronological order. The first binder contains the daily reports for January and February 1993; the second binder for March and April; etc.
+
+[24] The sixth binder of Exhibit R-1 contains the daily reports for November and December 1993. The first daily report in that binder is for November 30, 1993; the date when the Appellant made its first loan ($100 million) to REFCO. See Exhibit A-5. I will use that date (November 30, 1993) to describe how the daily reports are organized to disclose all of the relevant information about the Appellant's available cash. The Net Funds Report for November 30, 1993 shows available cash of $1,485 million of which $1,472 million was invested in short-term securities. According to the Portfolio Detail Report for November 30, 1993, the Appellant held approximately 170 individual short-term securities at the close of business on that date representing aggregate invested capital of $1,472 million. The 170 securities matured over a six-month period from December 1, 1993 to June 2, 1994.
+
+[25] There is so much activity in the Appellant's cash management operation on a daily basis that I will describe the 13 columns in the Portfolio Detail Report to demonstrate how the relevant information is disclosed, at a glance, with respect to any one of the individual short-term securities held by the Appellant at the close of business on a given day.
+
+Column 1: Maturity Date, showing first those securities which will mature the following day, and then moving day by day into the future (about six months);
+
+Column 2: Portfolio Reference Number, a unique number assigned to each security with the first two digits indicating the year when the security was acquired;
+
+Column 3: Issuer, a symbol to indicate the borrower;
+
+Column 4: Note Type, a symbol to indicate the type of security as in TB = treasury bill; TD = term deposit; CP = commercial paper; BA = Bankers' acceptance;
+
+Column 5: Basis Location, the safekeeping location at the Royal Bank;
+
+Column 6: Yield, expressed as percent per annum;
+
+Column 7: Value Date, being the date of purchase;
+
+Column 8: Currency, all in Canadian dollars;
+
+Column 9: Purchase Price, not the real purchase price but a designated number like 100.000 or 99.773 to indicate whether the security was purchased dollar-for-dollar like a term deposit or at a discount like a treasury bill or commercial paper;
+
+Column 10: Interest, the amount which will be earned on each short-term security;
+
+Column 11: Maturity Value, what the Appellant will receive when the short-term security matures (invested principal from column 13 plus earned interest from column 10);
+
+Column 12: Dealer, the name of the dealer through whom the security was purchased;
+
+Column 13: Principal, the amount on which the interest is earned. This is the real purchase price because it is the amount actually paid out by the Appellant to acquire the short-term security.
+
+[26] The cash management group uses a current Portfolio Detail Report on any particular day to know how many short-term securities will mature on that day or on the following day or in the next few days. For example, the Portfolio Detail Report for November 30, 1993 showed that 27 short-term securities would mature on December 1, 1993 with an aggregate maturity value (invested principal plus earned interest) of $306 million. Out of this aggregate amount, the Appellant loaned $200 million to REFCO. The Appellant also had to determine, however, from its Daily Cash Forecast Summary (as in Exhibits A-1 and A-2) what its cash needs would be in the first few days of December 1993.
+
+[27] The daily Portfolio Detail Report is an important tool for the Appellant's cash management group because that group is in the money markets every day. Mr. Matthews explained that the term of a typical security would be one day to 45 days. He gave the following answers during his examination-in-chief:
+
+Q. How, what are the longest terms that you would invest your short-term surplus cash in?
+
+A. In our portfolio investment guidelines, we have the ability to go as long as two years with a federal government product but funding actually from one day to one year. From a practical standpoint, given that it is short-term cash management, the practical matter is we rarely extend past six months. The term would be anywhere sort of from 1 day to 45 days.
+
+Q. Okay. Do you invest, how often do you invest for periods in the order of, say, a month?
+
+A. Virtually every day. We're in investment markets every day. There's rarely a day goes by we aren't in the markets; and depending on what our cash flow needs are at the time, we could be investing in essentially anything from one day to one year; but as I said, from a practical standpoint, it's much shorter than that. Typically it's 1 day to 45 days
+
+...
+
+Q. Now, what types of investments would you have put in typically which are for six months or longer?
+
+A. Typically, the longer the term the more concerned we are about safety of principal and liquidity; so typically, the longer the term, the more likely it is it would be a government instrument that we would buy principally because they have the highest security and they have the most liquidity. A government security is instantly ...
+
+Q. And is that like, you're talking about a treasury bill?
+
+A. Like a treasury bill.
+
+Transcript pages 20-21
+
+[28] In cross-examination, Mr. Matthews stated that short-term securities could be summarized as government products, bank products and commercial paper. In terms of safety or principal, a government product like a treasury bill would be safer than a bank product like a bankers' acceptance; and each of those would be safer than commercial paper. The safety of an investment is often measured by its yield in the sense that a treasury bill will normally pay a lower yield than a bankers' acceptance because the treasury bill offers more safety of principal. Expressed conversely, an investment with higher risk will normally pay a higher yield. A difference in yields between two securities will ordinarily be described in terms of "basis points" with the understanding that a "basis point" is one one-hundredth of one percent. If all other terms are equal, the yield on a bankers' acceptance will be 10 to 15 basis points higher than the yield on a treasury bill. Commercial paper is the term used to describe an unsecured short-term loan to a corporation. If all other terms are equal, the yield on commercial paper will be 15 to 20 basis points higher than the yield on a treasury bill. (Transcript pages 109-113).
+
+[29] The Appellant would frequently use the yield spread between treasury bills and bankers' acceptances to take advantage of what the Appellant called "switching opportunities". In cross-examination, Mr. Matthews described switching opportunities as follows:
+
+In the marketplace, we had, you could look at investment opportunities in the three-month area and the spread between bankers' acceptances and Canada treasury bills was about ten basis points.
+
+The longer the term, the more we liked the liquidity of T-bills and that spread was a normal spread. We were not willing to take the ten basis points extra on the bankers' and we bought the bills so we gave up ten basis points. When those bills became 30-day bills, after 60 days, those bills had 30 days of term remaining.
+
+The spread between bills to bankers' on the 30-day area had widened dramatically. We could sell the bills at a profit, reinvest the funds for that same 30 days in bankers' acceptances and the total return to the corporation for the total 90 days was in excess for the banker's rate; so we had, for 60 days we had T-bill risk; for 30 days we had bank risk; and for the 90-day yield we had a better rate of return than we would have had if we had just invested in bankers'. There was a bit of an anomaly in the short-term money markets.
+
+Transcript pages 120-121
+
+[30] The cash management group produced "stewardship" reports for each quarter of a calendar year. Exhibits R-2, R-3, R-4 and R-5 are the group's stewardship reports for 1993 in chronological order. Exhibit R-2 reporting on the first quarter of 1993 contains the following passage at page two:
+
+At the end of March, Imperial's portfolio was invested as follows:
+
+Treasury Bills 81%
+
+Bank Product 16%
+
+Commercial Paper 3%
+
+The longest term of any non-T Bill investment was 3 weeks.
+
+During the quarter, we continued to identify "switching" opportunities when treasury bills became one month product. On this basis, we sold a total of $100 million and increased investment income by approximately $24,000.
+
+There is a similar passage in the second and third quarterly reports (Exhibits R-3 and R-4). Exhibits R-3 and R-4 show that the Appellant used "switching opportunities" to earn $27,000 in the second quarter and $23,000 in the third quarter of 1993. Consolidating the information from all four exhibits, the Appellant's surplus cash was invested as follows at the end of each quarter of 1993:
+
+March 31
+
+June 30
+
+September 30
+
+December 31
+
+Treasury Bills
+
+81%
+
+73%
+
+68%
+
+56%
+
+Bank Product
+
+16%
+
+24%
+
+23%
+
+32%
+
+Commercial Paper
+
+3%
+
+3%
+
+9%
+
+12%
+
+The above table shows that, as each quarter of 1993 passed, the Appellant shifted more of its available cash away from treasury bills and toward bank product and commercial paper.
+
+[31] The fourth quarterly report for 1993 (Exhibit R-5) contains the following passage:
+
+Our belief that short term rates would continue to drop also coincided with our strategy to optimise the after tax return to the company with respect to Capital Tax. In this regard, we purchased (prior to Sept. 2/93 - the 120 day rule) investments that qualified for capital tax purposes and this also dovetailed with out interest rate outlook. During the last quarter, we identified and acquired other short term investments (bank holding companies) that would also qualify for capital tax sheltering purposes.
+
+As a result at December 31st, all but approximately $55 million was placed in tax sheltered investments. Capital tax savings of approximately $4.3 million will result from this course of action.
+
+At December 31st, Imperial's portfolio was invested as follows:
+
+Treasury Bills 56%
+
+Bank Product 32%
+
+Commercial Paper 12%
+
+The longest term of any non-T Bill investment is 1 month. The unusually high percentage investments in Banks and Commercial Paper is due to the above mentioned investing.
+
+The quarterly stewardship reports for 1993 (Exhibits R-2 to R-5) confirm the fact that, as the calendar year progressed from January to December, the Appellant adjusted its investments in short-term securities and, in doing so, was motivated at least in part by a desire to reduce its liability for tax under Part I.3 of the Act and its liability for capital tax under Ontario law.
+
+The Respondent's Evidence
+
+[32] The Respondent called three witnesses: Karen Taylor, Abhoy Vaidya and Dr. Gordon A. Sick. In 1993, Karen Taylor was employed by Toronto-Dominion Securities Inc., a subsidiary of the TD Bank. In a letter dated August 24, 1993 to the Appellant (Exhibit R-17), Ms. Taylor referred to "our Subsidiary Loans Program for December 1993" which she described in oral evidence as follows:
+
+A. The subsidiary loan program was a program that was marketed to corporate clients that were likely to have cash available at their year end for placements into that program or any other commercial investments, again over their year end, on which they would earn a commercial rate of interest. The program that we ran had the added benefit of, that it was a capital tax friendly structure and would result in savings from a capital tax point of view, you know, depending on where the client's businesses were allocated across Canada, the benefit would be slightly different, but - so it's really a program that was designed to give the cash rich corporate a commercial rate on loans made to a subsidiary of the TD Bank, guaranteed by the bank, over their unit.
+
+Q. What was your role in terms of the program itself and during what periods of time?
+
+A. I was responsible for marketing the program for TD Securities. I guess the first year I would have run the program, apparently it would have been this taxation year includes December 31st, '93 and I relinquished control of it, it would have been, I guess, the December, '94 tax year, or maybe '95, I can't recall exactly.
+
+Q. How did you go about getting customers?
+
+A. Well, we would use a variety of published sources so that we could identify corporates that we believed would be in a net cash position over their year end based on, again, this publicly available information and then we would generally try and cold call, in some cases we had an existing relationship and we would contact the chief financial officer and we would send out an information letter which would generally include a brief letter describing the product and would, if they were interested, would also include a copy of the McCarthy tax rule.
+
+Q. Cold calls you referred to, how many would you have made in the fall of '93?
+
+A. I don't know if I could give you a number. It was probably more than 20 but less than 40.
+
+Transcript pages 246-247
+
+[33] Ms. Taylor explained that there was an existing relationship between the TD Bank and the Appellant, and so her first contact with the Appellant was not a cold call. She stated that the size of the TD Bank's subsidiary loan program in December 1993 was probably in the range of $600 million to $800 million.
+
+[34] In 1993, Abhoy Vaidya was employed by the Royal Bank in its corporate finance department. He was the contact between the Royal Bank and the Appellant with respect to the two loans to REFCO. His letters of October 15 and November 19, 1993 to the Appellant (Exhibits R-10 and R-11) confirm that the two loans will be made on November 30 and December 1, 1993. In his oral testimony, more than seven years after the loans in question, he did not have a strong recollection of the relevant transactions. I can easily understand his poor recollection having regard to the many bank transactions he must have done in the intervening years.
+
+[35] Dr. Gordon Sick testified as an expert witness for the Respondent. He has earned the following university degrees:
+
+B.Sc. (Mathematics, First Class Honours),
+
+University of Calgary, 1971
+
+M.Sc. (Mathematics), University of Toronto, 1972
+
+M.Sc. (Business Administration), Finance
+
+University of British Columbia, 1977
+
+Ph.D. (Business Administration), Finance
+
+University of British Columbia, 1981
+
+When this appeal was heard, Dr. Sick was a Professor of Finance at the University of Calgary. The Respondent brought Dr. Sick to Court as an expert in short-term money market finance and financial instruments. The Appellant accepted Dr. Sick as an expert in the designated subject area. His written report dated April 2, 2001 was entered as Exhibit R-20.
+
+[36] Dr. Sick's opinion was sought concerning a question which is set out on pages 1 and 2 of his report (Exhibit R-20). Because the question is long and, in my opinion, somewhat awkwardly worded, I will condense the question but retain the essential words:
+
+Based on your review of the following documents:
+
+(17 documents are listed)
+
+what was the likelihood of Imperial Oil Limited entering into the three subject loans (two loans to REFCO and one loan to TD Holdings) if those loans had not reduced the Part I.3 tax?
+
+Dr. Sick responded to the above question by stating his opinion that Imperial Oil Limited would not have entered into any of the three loans if those loans had not reduced the Part I.3 tax. Later in these reasons for judgment, I will comment on Dr. Sick's evidence.
+
+Analysis
+
+[37] As stated in paragraph 4 above, the basic issue in this appeal is whether the Minister may use the general anti-avoidance rule (GAAR) to prohibit the Appellant from including the three big loans (two to REFCO and one to TD Holdings) in computing its "investment allowance" under paragraph 181.2(4)(b) of the Act. The aggregate of the three big loans is $500 million but the Minister has acknowledged that $153.2 million of that aggregate may be included in the Appellant's investment allowance under paragraph 181.2(4)(b). Therefore, the amount in dispute is the balance of $346.8 million which the Minister has excluded from paragraph 181.2(4)(b) by using GAAR.
+
+[38] The general anti-avoidance rule is contained in section 245 of the Act. The relevant provisions follow:
+
+245(1) In this section,
+
+"tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+"tax consequences" to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+
+"transaction" includes an arrangement or event.
+
+245(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+
+245(3) An avoidance transaction means any transaction
+
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+
+245(4) For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+
+245(5) Without restricting the generality of subsection (2),
+
+(a) any deduction in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+
+...
+
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+
+[39] Recent decisions from the Federal Court of Appeal are helpful in construing and applying GAAR. In particular, I refer to the decisions in OSFC Holdings Ltd. v. The Queen, 2001 DTC 5471 and Water's Edge Village Estates (Phase II) Ltd. v. The Queen, (Judgment delivered July 9, 2002). In Water's Edge, Noël J.A. writing for a unanimous Court stated at paragraph 32:
+
+32 The application of section 245 requires that an answer be given to each of the three following questions:
+
+1. Did the December 20, 1991 transactions result in a tax benefit to the appellants?
+
+2. If so, can the transactions reasonably be considered to have been undertaken primarily for a purpose other than to obtain a tax benefit?
+
+3. If not, did the transactions result in a misuse of the provisions of the Act or an abuse having regard to the provisions of the Act, other than section 245, read as a whole?
+
+When setting out the above three questions, Noël J.A. (and the other two judges who heard Water's Edge) had the benefit of reading the decision of their colleagues in OSFC Holdings. I propose to consider the application of section 245 to the facts in this appeal by attempting to answer the above three questions.
+
+[40] For all practical purposes, the three big loans are identical. Neither counsel suggested that GAAR might apply to one loan and not the other two, or vice versa. The appeal was argued on the basis that GAAR would apply to all three loans or not at all. For convenience, I shall select one loan as representative of all three, and my decision with respect to that one loan will apply to all three. I shall select the second loan to REFCO on December 1, 1993 in the amount of $200 million because it is the larger of the two loans to REFCO, and the Appellant loaned more money to REFCO than to TD Holdings. I will attempt to answer the three questions from Water's Edge with respect to the second loan to REFCO.
+
+Question 1. Did the Second Loan to REFCO ($200 million) on December 1, 1993 result in a tax benefit to the Appellant?
+
+[41] Tax benefit is defined in subsection 245(1) as follows:
+
+A "tax benefit" means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act;
+
+In this appeal, the relevant words from the definition are "a reduction ... of tax ... payable under this Act". The charging provision in Part I.3 of the Act (subsection 181.1(1))levies a tax of 1/5 of one percent (0.2%) on the amount, if any, by which
+
+(a) the Appellant's taxable capital employed in Canada for 1993
+
+exceeds
+
+(b) the Appellant's capital deduction for 1993.
+
+Subsection 181.5(1) defines "capital deduction" as $10 million to ensure that only large corporations are taxable under Part I.3. There is no doubt, from the evidence and argument, that the Appellant's "taxable capital employed in Canada for 1993" exceeded $10 million; that the Appellant in 1993 was a large corporation for the purpose of Part I.3; and that the Appellant would have tax payable under Part I.3 for 1993 without regard to the result of this appeal.
+
+[42] The description of "taxable capital" in subsection 181.2(2) is set out in paragraph 1 above and is worth repeating:
+
+181.2(2) The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+
+The positive element is "capital" and the negative element is "investment allowance". Any amount which qualifies as part of the Appellant's "investment allowance" for 1993 will reduce the Appellant's "taxable capital" and, therefore, reduce the tax payable under Part I.3. The only item in subsection 181.2(4) under which the second loan to REFCO ($200 million) could qualify as part of the Appellant's "investment allowance" is paragraph (b) "a loan or advance to another corporation (other than a financial institution)". There was no argument or even suggestion in this appeal that REFCO was a financial institution. Therefore, the second loan to REFCO ($200 million) qualified as part of the Appellant's "investment allowance" for 1993 because it was a loan or advance to another corporation. I have no hesitation in finding that the second loan to REFCO ($200 million) resulted in a "tax benefit" to the Appellant because it reduced the tax payable under the Act. The first question is answered in the affirmative.
+
+Question 2. Can the Second Loan to REFCO ($200 million) reasonably be considered to have been undertaken primarily for a purpose other than to obtain a tax benefit?
+
+[43] Having regard to the second question, Rothstein J.A stated in OSFC Holdings:
+
+46 The words "may reasonably be considered to have been undertaken or arranged" in subsection 245(3) indicate that the primary purpose test is an objective one. Therefore the focus will be on the relevant facts and circumstances and not on statements of intention. It is also apparent that the primary purpose is to be determined at the time the transactions in question were undertaken. It is not a hindsight assessment, taking into account facts and circumstances that took place after the transactions were undertaken.
+
+...
+
+58 As a final observation, I would stress that the primary purpose of a transaction will be determined on the facts of each case. In particular, a comparison of the amount of the estimated tax benefit to the estimated business earnings may not be determinative, especially where the estimates of each are close. Further, the nature of the business aspect of the transaction must be carefully considered. The business purpose being primary cannot be ruled out simply because the tax benefit is significant.
+
+The evidence leads me to conclude that the second loan to REFCO ($200 million) cannot reasonably be considered to have been undertaken primarily for a purpose other than to obtain a tax benefit. I will express this conclusion in more positive language. I find that the primary purpose of the second loan to REFCO ($200 million) was to obtain a tax benefit. There is substantial evidence to support this conclusion.
+
+[44] I was favourably impressed by the candour of Mr. Matthews when examined in chief and under cross-examination. He described how the cash management group would, prior to September 1 in any particular year, purchase treasury bills having a term of more than 120 days so that those same treasury bills would be on hand over the end of the calendar year and into the following year. This was done to reduce the capital tax payable under Part III of the Ontario Corporations Tax Act. There was a minimum 120-day holding period for short-term securities like treasury bills under the Ontario Act. Similarly, Mr. Matthews described how the cash management group purchased a variety of short-term securities which would be due and payable in late November or early December so that the cash proceeds available at that time could be used to purchase short-term commercial paper which would qualify for the investment allowance under paragraph 181.2(4)(b).
+
+[45] The correspondence between the Appellant's cash management group and the Royal Bank (Mr. Vaidya) or the TD Bank (Ms. Taylor), and the Appellant's internal memoranda indicate clearly that the reduction of tax under Part I.3 of the Act was at least a motivating factor in making the two loans to REFCO and the single loan to TD Holdings. See Exhibits A-4, A-12, A-16, R-12, R-13, R-14, R-18 and R-19.
+
+[46] There are two other groups of exhibits which, in my view, are conclusive evidence that the primary purpose of the second loan to REFCO was to obtain a tax benefit. The first group of exhibits is the two letters from prominent Toronto law firms expressing favourable opinions about the opportunity to reduce tax by making a substantial loan to REFCO (or to TD Holdings as the case may be). Exhibit A-4 includes a 20-page letter from McMillan Binch (addressed to REFCO and to the Royal Bank) which is quoted in paragraph 8 above. Exhibit A-6 is an 11-page letter from McCarthy Tétrault (addressed to Toronto-Dominion Securities Inc.) which is quoted in paragraph 12 above.
+
+[47] The second group of exhibits is the Appellant's quarterly stewardship reports (Exhibits R-2, R-3, R-4 and R-5) for the four quarters of 1993. These reports are prepared by the cash management group and signed by Mr. Matthews. Paragraph 31 above contains a quotation from Exhibit R-5 which is the report prepared for the fourth quarter of 1993. Exhibit R-5 contains the following passage:
+
+... During the last quarter, we identified and acquired other short term investments (bank holding companies) that would also qualify for capital tax sheltering purposes.
+
+As a result at December 31st, all but approximately $55 million was placed in tax sheltered investments. Capital tax savings of approximately $4.3 million will result from this course of action.
+
+The rate of tax on capital levied by the Province of Ontario appears to be 50% higher than the rate levied by the federal government under Part I.3 of the Act. Therefore, if the Appellant achieved a tax saving of $4.3 million as indicated in the passage quoted above, most of that tax saving would be under provincial legislation (assuming that other provinces where the Appellant carries on business tax capital at the same rate as Ontario).
+
+[48] In paragraphs 35 and 36 above, I described the Respondent's expert witness, Dr. Gordon Sick, who stated his opinion that the Appellant would not have made the second loan to REFCO (or the other two loans) if that loan had not reduced the Part I.3 tax. Dr. Sick's evidence is aimed at the second question which is the primary purpose test. I am not inclined to give much weight to Dr. Sick's evidence for two reasons. First, all of Dr. Sick's experience has been academic since he earned his first university degree in 1971. He has never had the responsibility of managing a large cash reserve (like the Appellant's $1.5 billion) trying to match the incoming cash with the outgoing demands of a large vertically integrated corporation like the Appellant. There are areas of expertise (like valuing real or personal property) where experience in the market place is more important than academic knowledge. By contrast, there are other areas of expertise (like determining the tensile strength of a steel beam) where academic knowledge is more important than experience in construction. I regard the question which Dr. Sick was asked as one which is better answered with market experience than with academic knowledge.
+
+[49] Second, in OSFC Holdings, Rothstein J.A. stated in paragraph 58 that "the primary purpose of a transaction will be determined on the facts of each case". There is substantial material evidence on which I can find, and have found, that the primary purpose of the second loan to REFCO was to obtain a tax benefit. I do not need the opinion of any expert witness to help me in answering the second question.
+
+Question 3. Did the Second Loan to REFCO ($200 million) result in misuse of the provisions of the Act, or an abuse having regard to the provisions of the Act, other than section 245, read as a whole?
+
+[50] In all the circumstances of this appeal, I do not find any misuse of the provisions of the Act or any abuse having regard to the provisions of the Act (other than section 245) read as a whole. Accordingly, for the reasons set out below, I will allow the appeal.
+
+[51] In OSFC Holdings, the Federal Court of Appeal quoted with approval certain statements by Professor Vern Krishna from Tax Avoidance: The General Anti-Avoidance Rule (Toronto: Carswell, 1990). Rothstein J.A. stated in paragraph 61 of his reasons:
+
+61 In Tax Avoidance: The General Anti-Avoidance Rule, supra, Professor Krishna states at page 51:
+
+What constitutes a "misuse" of the Act depends upon the object and spirit of the particular provision under scrutiny. What constitutes an "abuse" of the Act as a whole is a wider question and requires an examination of the inter-relationship of the relevant statutory provisions in context.
+
+I think this is a convenient way in which to deal with each test. Therefore, in this case, for purposes of the misuse analysis, the avoidance transactions will be analyzed considering subsection 18(13) and the policy behind it. The abuse analysis will involve a consideration of the avoidance transactions in a wider context, having regard to the provisions of the Income Tax Act read as a whole and the policy behind them.
+
+[52] Other helpful statements by Rothstein J.A. on the "misuse and abuse analysis" are found at paragraphs 69 and 70 of his reasons in OSFC Holdings:
+
+69 It is also necessary to bear in mind the context in which the misuse and abuse analysis is conducted. The avoidance transaction has complied with the letter of the applicable provisions of the Act. Nonetheless, the tax benefit will be denied if there has been a misuse or abuse. This is not an exercise of trying to divine Parliament's intention by using a purposive analysis where the words used in a statute are ambiguous. Rather, it is an invoking of a policy to override the words Parliament has used. I think, therefore, that to deny a tax benefit where there has been strict compliance with the Act, on the grounds that the avoidance transaction constitutes a misuse or abuse, requires that the relevant policy be clear and unambiguous. The Court will proceed cautiously in carrying out the unusual duty imposed upon it under subsection 245(4). The Court must be confident that although the words used by Parliament allow the avoidance transaction, the policy of relevant provisions or the Act as a whole is sufficiently clear that the Court may safely conclude that the use made of the provision or provisions by the taxpayer constituted a misuse or abuse.
+
+70 In answer to the argument that such an approach will make the GAAR difficult to apply, I would say that where the policy is clear, it will not be difficult to apply. Where the policy is ambiguous, it should be difficult to apply. This is because subsection 245(4) cannot be viewed as an abdication by Parliament of its role as lawmaker in favour of the subjective judgment of the Court or particular judges. In enacting subsection 245(4), Parliament has placed the duty on the Court to ascertain Parliament's policy, as the basis for denying a tax benefit from a transaction that otherwise would meet the requirements of the statute. Where Parliament has not been clear and unambiguous as to its intended policy, the Court cannot make a finding of misuse or abuse, and compliance with the statute must govern.
+
+[53] Having regard to the misuse analysis, I am required to consider the object and spirit (policy) of subsection 181.2(4) of the Act which contains a description of "investment allowance". Although the relevant parts of subsection 181.2(4) are set out in paragraph 1 above, I will repeat them here for convenience:
+
+181.2(4) The investment allowance of a corporation (other than a financial institution) for a taxation year is the total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation that is
+
+(a) a share of another corporation,
+
+(b) a loan or advance to another corporation (other than a financial institution),
+
+(c) a bond, debenture, note, mortgage or similar obligation of another corporation (other than a financial institution),
+
+(d) ...
+
+other than a share of the capital stock of, a dividend payable by, or indebtedness of, a corporation that is exempt from tax under this Part (otherwise than because of paragraph 181.1(3)(d)).
+
+[54] It must be remembered that "investment allowance" is the negative element in the definition of "taxable capital" in subsection 181.2(2). In other words, whatever is included in investment allowance will reduce taxable capital. The tax on large corporations under Part 1.3 of the Act was introduced in the 1989 Federal Budget. The Budget Papers state that the Part I.3 tax was enacted to ensure that large corporations pay federal taxes as part of the government's deficit reduction policy. The Budget Papers also state that the purpose of the "investment allowance" under subsection 181.2(4) is to avoid double taxation where the capital of one corporation is not employed by it directly but is invested in another corporation. See Budget Papers, Department of Finance, April 27, 1989 at pages 40 and 41. Pursuant to paragraph 181.2(4)(b) a corporation will have an investment allowance in respect of a loan or advance to another corporation, so long as the other corporation receiving the loan or advance is not exempt from the Part 1.3 tax. There is no evidence that REFCO was exempt from tax under Part I.3.
+
+[55] I conclude that the object and spirit (or policy) of the investment allowance was to avoid the double taxation of capital. It is worth noting that all of Part I.3 is an anomaly within the Income Tax Act because Part I.3 levies a tax on capital and not on income. Although the rate of tax is relatively low (1/5 of one percent), the amount of capital on which the rate is applied may be very high as in the circumstances of this appeal.
+
+[56] The second loan to REFCO was part of the Appellant's on-going cash management operation. Mr. Matthews stated that the Appellant is in the money market every business day with few exceptions. Exhibit R-1 corroborates Mr. Matthews' statement. The daily reports consolidated in Exhibit R-1 and the cash forecast summaries in Exhibits A-1 and A-2 show that the cash management group operates a sophisticated balancing act each business day receiving cash from the Appellant's business operations and from maturing short-term securities; and paying out the cash required for the business while reinvesting the balance in other short-term securities. The Respondent argued that the three big loans were "transitory transactions" but all of the securities in the Appellant's portfolio were short-term investments. Mr. Matthews stated that most securities were held for less than 45 days. In addition to receiving and deploying significant amounts of cash on a daily basis, the cash management group maintains a constant watch on its short-term securities portfolio to look for "switching opportunities" as explained by Mr. Matthews in paragraph 29 above.
+
+[57] The second loan to REFCO satisfied the Appellant's three basic investing guidelines as set out in Exhibit A-3: (i) the principal amount was secure because the loan was guaranteed by the Royal Bank; (ii) the amount loaned was liquid because the term was not longer than 35 days; and (iii) the interest rate was reasonable because it was negotiated with respect to an objective standard. The Respondent argued that the stated rate of interest in the second loan to REFCO should be reduced to a lower percentage to reflect the fee ($132,000) which the Appellant paid to the Royal Bank and a resulting lower pre-tax rate of return. The Appellant expected, however, that the second loan to REFCO would be part of its investment allowance for the purpose of taxes on capital payable under Part I.3 of the Income Tax Act and under the Ontario Corporations Tax Act. Accordingly, the fee ($132,000) paid to the Royal Bank would, from a business point of view, be set off against an expected reduction in taxes on capital. I find that the rate of interest earned on the second loan to REFCO was reasonable in all the circumstances. The Appellant actually received interest in the amount of $724,246.58 on January 4, 1994 when the second loan to REFCO was repaid. See Exhibit R-1, daily report for December 31, 1993.
+
+[58] The Appellant's cash management group continued to operate day-by-day in the same manner at all relevant times. Having regard to the provision for an "investment allowance" in subsection 181.2(4) and the policy for that provision, and having regard to a similar provision in the Ontario Corporations Tax Act, the Appellant adjusted its focus for the acquisition of short-term securities in the last five months of each calendar year. To reduce the tax on capital payable to the Province of Ontario, each August the Appellant would purchase a greater portion of treasury bills having a term longer than 120 days so that those same treasury bills could be held over the December 31 year end. To reduce the tax on capital payable under Part I.3, in late November and early December, the Appellant would purchase a greater portion of commercial paper which had to be short-term (less than 45 days) to satisfy the Appellant's liquidity guideline.
+
+[59] When I state that the Appellant adjusted its focus for the acquisition of short-term securities in the last five months of each calendar year, I mean that it only shifted a greater portion of its available cash from treasury bills toward bank paper and commercial paper. I will repeat here the table from paragraph 30 above showing how the Appellant's cash was invested on a quarterly basis in 1993.
+
+March 31
+
+June 30
+
+September 30
+
+December 31
+
+Treasury Bills
+
+81%
+
+73%
+
+68%
+
+56%
+
+Bank Product
+
+16%
+
+24%
+
+23%
+
+32%
+
+Commercial Paper
+
+3%
+
+3%
+
+9%
+
+12%
+
+The Appellant did not create a new "tax shelter subsidiary" or enter into a new partnership to achieve its purpose of reducing the tax payable on capital. The Appellant simply followed the invitation in paragraph 181.2(4)(b) by purchasing more of one type of short-term security and less of another type. In this regard, I view the concession made by the Minister with respect to $153.2 million as operating against the application of GAAR.
+
+[60] The Minister's concession with respect to $122.2 million is explained in paragraph 6(t) of the Amended Reply to the Notice of Appeal. Counsel for the Respondent conceded an additional $31 million at the beginning of the hearing. I will consolidate the two amounts for the purpose of explaining the Minister's concession. Of the aggregate $500 million loaned to REFCO and TD Holdings, the Minister assumed that not more than $153.2 million came from assets of the Appellant which qualified for the "investment allowance" under subsection 181.2(4). The Minister also assumed that not less than $346.8 million came from assets of the Appellant which did not qualify for the "investment allowance" under subsection 181.2(4). I find that the Minister went one step further and assumed that the cash obtained from the assets (short-term securities) by maturity or sale would be reinvested, dollar-for-dollar, in precisely the same kind of assets.
+
+[61] Considering a cash management operation as sophisticated as the Appellant's, how could an outsider (like the Minister) predict with any precision how the cash received on a particular day would be used? What about the cash received from business operations and the cash needs of business operations when determining the concession amount of precisely $153.2 million? I am confident that the Minister's concession was made in good faith with respect to the application of GAAR but the concession itself, in my opinion, demonstrates not only the difficulty of determining where a possible tax avoidance starts and stops; but also demonstrates the possibility that there was no tax avoidance at all. I am satisfied that the second loan to REFCO did not result in a misuse of the provisions of the Act.
+
+[62] Having regard to the abuse analysis, I am required to consider a possible avoidance transaction in a wider context, having regard to the provisions of the Income Tax Act read as a whole and the policy behind those provisions. On the particular facts of this appeal, the abuse analysis is relatively easy to perform because Part I.3 of the Act (imposing a tax on capital) is like a stand-alone taxing statute constructed within the much wider limits of the Income Tax Act. The policy behind the "investment allowance" in subsection 181.2(4) has already been described in paragraphs 54 and 55 above. That policy is to avoid the double taxation of capital.
+
+[63] Subsection 181.2(3) describes the capital of a corporation and the relevant words follow:
+
+181.2(3) The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+
+(b) ...
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, hypothecary claims, banker's acceptances or similar obligations,
+
+(e) ...
+
+Capital is the positive element in the description of "taxable capital" in subsection 181.2(2). Therefore, any amount which increases the "capital" under subsection 181.2(3) will increase the taxable capital under subsection 181.2(2). Specifically, the second loan to REFCO ($200 million) is part of REFCO's capital under paragraph 181.2(3)(c) subject to the end of year provision.
+
+[64] Paragraph 181.2(4)(b) in the description of "investment allowance" and paragraph 181.2(3)(c) in the description of "capital" work together to avoid the double taxation of capital. Under paragraph 181.2(4)(b), the following amount will increase investment allowance and decrease "taxable capital":
+
+(b) a loan or advance to another corporation (other than a financial institution),
+
+Under paragraph 181.2(3)(c) the following amount will increase capital and increase "taxable capital":
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+[65] The Appellant has used the second loan to REFCO ($200 million) to increase its investment allowance and thereby decrease its taxable capital. On the other side of the transaction, paragraph 181.2(3)(c) required REFCO to include the same $200 million in its capital and thereby increase its taxable capital. The Appellant's taxable capital was reduced by $200 million as a result of the second loan to REFCO but REFCO's taxable capital was increased by $200 million as a result of the same transaction.
+
+[66] The Minister used GAAR in the assessment under appeal because the Appellant would otherwise be entitled to an investment allowance of $346.8 million, the amount in dispute. There is no evidence that REFCO (or TD Holdings) would not be taxable under Part I.3. The Minister would not have had to use GAAR if it could be proved that REFCO (or TD Holdings) was exempt from tax under Part I.3 in accordance with the closing words of subsection 181.2(4). The Appellant may have decreased its tax payable under Part I.3 by the second loan to REFCO, but it appears that REFCO's liability for tax under Part I.3 would be increased by the same transaction subject to the end of year provision.
+
+[67] Viewing Part I.3 as a whole, I do not find any abuse of the provisions of the Act. Quite the contrary, if GAAR is applied to the three big loans (two to REFCO and one to TD Holdings) there is a risk of double taxation because the Appellant would be denied an investment allowance of $346.8 million when it appears that the capital of REFCO and TD Holdings (taken together) would be increased by the same amount. The appeal is allowed with costs.
+
+Signed at Ottawa, Canada, this 31st day of July, 2002.
+
+"M.A. Mogan"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-2233(IT)G
+
+STYLE OF CAUSE: Imperial Oil Limited and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: May 1, 2, 3 and 4, 2001
+
+DATE OF HEARING: Calgary, Alberta
+
+REASONS FOR JUDGMENT BY: The Honourable Judge M.A. Mogan
+
+DATE OF JUDGMENT: July 31, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Al Meghji and Gerald A. Grenon
+
+Counsel for the Respondent: J.E. (Ted) Fulcher and Rhonda Nahorniak
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Al Meghji
+
+Firm: Donahue Ernst & Young
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-2233(IT)G
+
+BETWEEN:
+
+IMPERIAL OIL LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on May 1, 2, 3 and 4, 2001, at Calgary, Alberta, by
+
+the Honourable Judge M.A. Mogan
+
+Appearances
+
+Counsel for the Appellant: Al Meghji and Gerald A. Grenon
+
+Counsel for the Respondent: J.E. (Ted) Fulcher and Rhonda Nahorniak
+
+JUDGMENT
+
+The appeal from the assessment of tax made under the Income Tax Act for the 1993 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the three loans set out below are part of the Appellant's "investment allowance" in accordance with paragraph 181.2(4)(b) of the Act:
+
+1. a loan of $100 million made on November 30, 1993 to Royal Bank Export Finance Company Limited ("REFCO");
+
+2. a loan of $200 million made on December 1, 1993 to REFCO; and
+
+3. a loan of $200 million made on December 2, 1993 to Toronto-Dominion Holdings (USA) Inc.
+
+Signed at Ottawa, Canada, this 31st day of July, 2002.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

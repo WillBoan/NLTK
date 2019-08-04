@@ -1,0 +1,208 @@
+Date: 19980728
+
+Docket: 95-456-IT-G
+
+BETWEEN:
+
+DATA KINETICS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.:
+
+[1] The Appellant, Data Kinetics Ltd., appeals from assessments in respect of taxation years ending January 10, 1993[1] and December 31, 1993 in which the Minister of National Revenue (“Minister”) disallowed part of the scientific research and experimental development (“SR & ED”) expenditures originally claimed by the Appellant under subsection 37(1) of the Income Tax Act (“Act”) and consequently disallowed the investment tax credit claimed pursuant to sections 127 and 127.1 of the Act.
+
+[2] For the year ending January 10, 1993, an amount of $78,591 was originally disallowed under subsection 37(1) of the Act but an amount of $63,516 was allowed pursuant to subsection 37(2) of the Act as an expenditure made on SR & ED carried on outside Canada. In its Amended Notice of Appeal the Appellant indicated that only the $63,516 amount was in dispute. Accordingly, of the investment tax credit of $27,507 disallowed pursuant to sections 127 and 127.1 of the Act, only $22,231 is in issue.
+
+[3] For the year ending December 31, 1993, an amount of $202,799 was disallowed under subsection 37(1) of the Act, of which $165,157 was allowed pursuant to subsection 37(2) of the Act as an expenditure made on SR & ED carried on outside Canada. Further, the Appellant elected to include an amount for SR & ED overhead in computing its qualified expenditures by using the prescribed proxy method pursuant to clause 37(8)(a)(ii)(B) of the Act. Because of this election, the Minister disallowed the communication charges in the amount of $26,203 in computing the qualified expenditures pursuant to subsection 37(1) of the Act. In its Amended Notice of Appeal the Appellant indicated that only the amount of $191,360 was in dispute, which comprises the $165,157 allowed under subsection 37(2) and the $26,203 in disallowed communication charges. Accordingly, of the investment tax credit of $70,980 disallowed, only $66,976 remains in dispute. The Appellant contended that the disputed amounts are expenditures made on SR & ED carried on in Canada and should therefore be deductible under subsection 37(1) of the Act. Consequently, it should be entitled to an investment tax credit under sections 127 and 127.1 of the Act.
+
+I. FACTS
+
+[4] The Appellant was incorporated under the laws of Ontario on December 20, 1977. At all times relevant to this appeal, the Appellant carried on in Canada the business of scientific research and development. The Appellant researched and developed advanced data management and memory management software systems for large mainframe computers.
+
+[5] The Appellant’s offices are located in Ottawa, where almost all of its 20 or so employees work. The Appellant has no offices and no employees located outside Canada. The employees developed the mainframe software in Ottawa, i.e., they wrote the programs there and test the software from Canada. For that purpose they used a mainframe located in the United States of America ("U.S.") and communicated with it by means of a link.
+
+[6] The Appellant did not own its own mainframe computer since mainframes are prohibitively expensive. Instead, it looked for a “service bureau” which would provide access to a mainframe. A service bureau is a business which owns one or more mainframes and rents access to those mainframes. Although service bureaus exist in Canada, none was found which met the Appellant’s needs.
+
+[7] Mr. William Olders, president of the Appellant, and Mr. Peter Green, manager of a Canada-based mainframe computer, testified on this particular point. The Appellant required a particular type of mainframe computer; one that provided the full range of available operating systems in order for the Appellant to ensure that its software functioned equally well in all operating systems. Furthermore, due to the nature of the experimental development undertaken by the Appellant, serious malfunctions might have resulted in the operating system of the mainframe computer being accessed by the Appellant. Since the mainframes were shared by multiple users, no Canadian service bureau was willing to rent access to the Appellant for its purposes. For these reasons, the Appellant could not find a mainframe computer in Canada that it could use to test its software.
+
+[8] The Appellant did, however, find a suitable mainframe computer in the U. S. The mainframe was owned by Mantissa Corporation (“Mantissa”), an Alabama corporation whose principal place of business was Birmingham, Alabama. Mantissa was a corporation much like the Appellant, except that it possessed a mainframe of its own. Mantissa used its mainframe for the same purposes that the Appellant sought to use a mainframe and had no objection to the Appellant testing its software on that mainframe. Mantissa’s mainframe computer was located in Birmingham. The Appellant and Mantissa entered into an agreement, effective November 1, 1991, whereby Mantissa agreed to furnish to the Appellant access to its mainframe computer (referred to in the agreement as the “software and hardware communications network” or the “Mantissa Network”) and the Appellant agreed to pay Mantissa a monthly fee for the use or, more accurately, the right to use the mainframe.
+
+[9] The Appellant proceeded to use the mainframe computer to test its software. The Appellant's employees located in Ottawa used a direct access communication link between the Appellant's office in Ottawa and the mainframe in order to conduct the testing procedure. All instructions and data were passed between Ottawa and Birmingham along a dedicated telephone line. The Appellant paid $26,203 to Unitel in respect of these communication charges. At no time did an employee of the Appellant ever go to the U. S. to facilitate the testing; there was no need to do so.
+
+[10] During the taxation year ended January 10, 1993, the Appellant made payments to Mantissa in the amount of $63,516 and claimed deductions and investment tax credits with respect to those outlays pursuant to paragraph 37(1)(a), subsection 127(5) and section 127.1 of the Act. During the taxation year ended December 31, 1993, the Appellant made payments to Mantissa in the amount of $165,157 and claimed deductions and investment tax credits with respect to those outlays and the communication charges in the amount of $26,203 pursuant to the above-named provisions of the Act.
+
+II. ISSUES
+
+1. Did the prescribed proxy amount election under clause 37(8)(a)(ii)(B) preclude the Appellant from claiming as SR & ED under subsection 37(1) the $26,203 expense incurred for the dedicated telecommunications line?
+
+2. Were the amounts of $63,516 and $165,157 expenditures of a current nature made by the Appellant on SR & ED carried on in Canada?
+
+III. ANALYSIS
+
+First issue: Charges incurred on the dedicated telecommunications line
+
+Appellant's submissions
+
+[11] The Appellant submitted that making the subsection 37(8) election regarding the amounts spent on the dedicated telecommunications line did not preclude those amounts from being SR & ED expenses under subsection 37(1). The Appellant submitted that the 37(8) proxy election does not prevent the amount from being a 37(1) deduction.
+
+Respondent's submissions
+
+[12] The Respondent submitted that the effect of making the election under subsection 37(8) was to limit the number of expenditures qualifying as SR & ED. According to counsel, the communications charge was not an expenditure of a current nature that is attributable to the lease of equipment. It is attributable to the use of equipment that is being leased. The cost that Data Kinetics paid pursuant to the time-sharing agreement is the cost that is attributable to the lease of equipment. The communications charges, on the other hand, are attributable to the use of equipment that was leased. If an expense is attributable to use (and not to lease) it constitutes overhead. If the Appellant wanted to claim those expenses it should not have made the election.
+
+Analysis
+
+[13] Clause 37(8)(a)(ii)(B) and subsection 37(10) of the Act provide for an elective method of calculating SR & ED expenditures, effective for taxation years ending after December 2, 1992. They read as follows:
+
+37(8) Interpretation. In this section,
+
+(a) references to expenditures on or in respect of scientific research and experimental development
+
+...
+
+(ii) where the references occur other than in subsection (2), include only
+
+...
+
+(B) where a taxpayer has elected in prescribed form and in accordance with subsection (10) for a taxation year, expenditures incurred by the taxpayer in the year each of which is
+
+(I) an expenditure of a current nature for, and all or substantially all of which was attributable to, the lease of premises, facilities or equipment for the prosecution of scientific research and experimental development in Canada, other than an expenditure in respect of general purpose office equipment or furniture,
+
+. . .
+
+37(10) Time for election. Any election made under clause (8)(a)(ii)(B) for a taxation year by a taxpayer shall be filed by the taxpayer on the day on which the taxpayer first files a prescribed form referred to in subsection (11) for the year.
+
+[14] This optional method involves calculating a notional or proxy amount for certain overhead expenditures rather than specifically identifying and allocating these expenditures. General overhead expenditures are excluded from SR & ED expenditures where the taxpayer chooses the elective method. However, in lieu thereof, the taxpayer is entitled to an investment tax credit in respect of a prescribed proxy amount as defined in subsection 127(9) (see CCH Canadian Tax Reporter Commentary at ¶ 19,835b). As well, the eligible expenditures for SR & ED under section 37 and the related investment tax credit are restricted to, inter alia, leasing expenses of equipment, other than general purpose office equipment or furniture, used all or substantially all in SR & ED activities, or costs of materials used directly in SR & ED activities (Robert E. Beam and Stanley N. Laiken, Introduction to Federal Income Taxation in Canada, 16th ed., (North York, CCH Canadian Limited, 1995-1996) at 606).
+
+[15] The Respondent submitted that the amount expended on the dedicated communications line cannot be included in the SR & ED expenditures because the amount was covered by the proxy election. Counsel submitted that the dedicated communications line was not equipment used in SR & ED activity, but was general office equipment. As I mentioned above, his reasoning is that the expenditure was not made for the lease of equipment for the prosecution of SR & ED but rather was made to allow the Appellant to use the leased mainframe computer.
+
+[16] I disagree with the Respondent’s construction of clause 37(8)(a)(ii)(B). The wording of the provision does not suggest that the payments for the use of the mainframe and for the use of the line utilized to carry data to and from the mainframe should be treated differently. Hence, there is no dispute that the payments for the use of the mainframe are attributable to the lease of equipment. Indeed, the word lease is defined, inter alia, as such in The Black's Law Dictionary:
+
+Lease. . . .
+
+When used with reference to tangible personal property, word "lease" means a contract by which one owning such property grants to another the right to possess, use and enjoy it for specified period of time in exchange for periodic payment of a stipulated price, referred to as rent. Undercofler v. Whiteway Neon Ad, Inc., 114 Ga. App. 644, 152 S.E.2ed 616, 618.
+
+[17] Subparagraph 37(8)(a)(ii) was amended by S.C. 1994, c. 8, s. 4(2), applicable to taxation years that ended after December 2, 1992. The February 1994 Department of Finance Technical Note that accompanied the amending legislation states in part:
+
+New clause 37(8)(a)(ii)(B) contains the new alternative method for determining SR & ED expenditures. [...] If the taxpayer does elect the alternative method, the following expenditures will be considered to be for SR & ED carried on in Canada and therefore included in the taxpayer's SR & ED pool under subsection 37(1):
+
+(1) an expenditure of a current nature (generally a lease expense) that was for and all or substantially all attributable to the use of premises, facilities or equipment for the prosecution of SR & ED in Canada, unless the expenditure was for general purpose office equipment or furniture. [...] [Emphasis added.]
+
+Although the courts have generally observed that administrative policy and interpretation are not determinative of the interpretation of a statutory provision, they are entitled to weight and can be important in resolving any doubts about the meaning of legislation (See Gene A. Nowegijick v. Her Majesty The Queen, 83 DTC 5041 at 5044 (S.C.C.), per Dickson, J. (for the Court) referring to Harel v. The Deputy Minister of Revenue of the Province of Quebec, [1978] 1 S.C.R. 851 at p. 859 per de Grandpré J.). Technical notes were granted a similar status as aids to statutory interpretation in The Queen v. The Estate of Harold Ast, 97 DTC 5197 (F.C.A.), where Isaac, C.J. (Robertson and McDonald, JJ.A. concurring) stated at 5201:
+
+Administrative interpretations such as technical notes are not binding on the courts, but they are entitled to weight, and may constitute an important factor in the interpretation of statutes. Technical notes are widely accepted by the courts as aids to statutory interpretation. The interpretive weight of technical notes is particularly great where, at the time an amendment was before it, the legislature was aware of a particular administrative interpretation of the amendment, and nonetheless enacted it.
+
+The technical note to which I referred above supports my interpretation of the provision in question.
+
+[18] Both parties admitted that the communication line was used solely for the purpose of transmitting data between the Appellant’s place of business in Canada and the Mantissa mainframe computer. That the testing made on the Mantissa mainframe computer qualifies as a SR & ED activity is also not at issue. The communication line was clearly used for and formed a necessary part of the SR & ED activity. Thus, the current expenditures incurred for the communication line were not for general purpose office equipment and were wholly attributable to equipment or facilities used for the prosecution of SR & ED activities in Canada. I therefore conclude that the expenditures fall within subsection 37(1).
+
+Second issue: Were the expenses incurred using the mainframe computer made on SR & ED carried on in or outside Canada?
+
+Appellant’s submissions
+
+[19] The Appellant submitted that, in determining where the eligible activity was carried on, one must look at the activity as a whole. It is the entire activity or process which must be looked at when determining whether the activity is carried on in Canada or not. The Appellant disagreed with the dividing of the testing into component parts and the allocation of these parts between subsections 37(1) and 37(2). The testing was part of SR & ED and the SR & ED as a whole qualified for either subsection 37(1) or 37(2).
+
+[20] The Appellant submitted that the computer program testing was carried on or directed by someone in Canada, with the results coming back to Canada to be analysed. Accordingly, testing was surely part of the whole systematic process of SR & ED. Counsel suggested that one should focus on whom was controlling and actually directing the research in order to determine if the SR & ED was carried on in or outside Canada.
+
+[21] The Appellant relied on the Sass Manufacturing v. M.N.R., 88 DTC 1363 (T.C.C.), in support of its submission that the testing activity is part of the entire systematic process of SR & ED that was carried on in Canada. The Appellant also relied on Tigney Technology Inc. v. The Queen, 97 DTC 414 (T.C.C.), in which Bell, J.T.C.C. allowed an appeal under similar circumstances.[2] However, the Appellant argued that its case was stronger than Tigney because, unlike the taxpayer in that case, none of its employees or equipment were ever physically located in the U.S.
+
+Respondent’s submissions
+
+[22] The Respondent submitted that the fact the Appellant could only find in the U.S. the mainframe it required to perform the SR & ED is irrelevant. Parliament did not draft the legislation so as to treat SR & ED carried on by necessity outside Canada as SR & ED carried on in Canada.
+
+[23] It was argued that while it was clear that Parliament wanted to encourage SR & ED activities to be carried on by Canadian taxpayers, it was also clear that Parliament drew a distinction between SR & ED being carried on in Canada and SR & ED carried on outside Canada because of the different treatment provided under subsections 37(1) and (2).
+
+[24] The Respondent submitted that in the present appeal the testing activity in and of itself constituted SR & ED and that a portion of the testing actually performed by the mainframe, i.e. the running of the programs on the mainframe, which was located in the U.S., was SR & ED carried on outside Canada. The fact that, instead of sending employees to the U.S., an electronic link was used, makes no difference in applying the legislation, according to the Respondent.
+
+[25] The Respondent argued that the use of the mainframe computer falls under paragraph 2900(1)(d) of the Regulations as the activity of testing the computer programming constitutes an activity in itself which is explicitly defined in paragraph 2900(1)(d). According to the Respondent, paragraphs 2900(1)(a) to (d) of the Regulations list four different types of activity that constitute SR & ED. If the taxpayer’s activities can be broken down into these constituent parts, then each of those parts can be subjected to the in or outside Canada test.
+
+[26] In the present appeal, the Respondent contended, one part of the testing was done in the U.S. and the other part was done in Canada. Expenditures in respect of the portion of testing done in the U.S. were to be allocated to subsection 37(2) and subject to its provisions. Indeed, all other expenditures that are related to the testing and that are not in dispute, e.g. wages and salaries of employees working on testing, were allowed by the Minister under subsection 37(1).
+
+[27] The Respondent also sought to distinguish the facts in Tigney from those at bar. In Tigney, Bell, J.T.C.C. found that the portion of the research that did not physically take place in Canada was an isolated and relatively small part of the systematic investigation that was ongoing in Canada. Here, the Respondent argued, the testing performed on the mainframe was neither an isolated part, nor a relatively small part of the SR & ED. He also took issue with the Tigney case. He suggested that, if one were to apply the Tigney test, it would be possible to conclude that where the outside-Canada portion of SR & ED is greater than the isolated, relatively small in-Canada portion, then all the SR & ED would necessarily fall under subsection 37(2).[3]
+
+Analysis
+
+[28] The issue is whether "SR & ED carried on in Canada" includes the use by persons located in Canada, who are engaged in the development of software systems in Canada, of a mainframe computer located in the U. S. for purposes of testing the software systems.
+
+[29] The relevant portions of subsection 37(1) read as follows:
+
+37(1) Scientific research and experimental development. Where a taxpayer carried on a business in Canada in a taxation year, there may be deducted in computing the taxpayer's income from the business for the year such amount as the taxpayer claims not exceeding the amount, if any, by which the total of
+
+(a) the total of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973
+
+(i) on scientific research and experimental development carried on in Canada, directly undertaken by or on behalf of the taxpayer, and related to a business of the taxpayer, ... [emphasis added]
+
+[30] The equivalent parts of subsection 37(2) read as follows:
+
+37(2) Research outside Canada. In computing the income of a taxpayer for a taxation year from a business of the taxpayer, there may be deducted expenditures of a current nature made by the taxpayer in the year
+
+(a) on scientific research and experimental development carried on outside Canada, directly undertaken by or on behalf of the taxpayer, and related to the business; or ...
+
+[31] Expenditures that fall within subsection 37(1) receive more favourable tax treatment than those that fall under subsection 37(2). Subsection 37(1) provides for deductions for both current and capital expenditures on SR & ED incurred in Canada in the year the expenditures were incurred or in any subsequent year. Subsection 37(2) provides deductions only for current expenditures on SR & ED carried on outside Canada and only in the year the expenditures were made. Further, if the expenditures fall within subsection 37(1), they form part of a pool of SR & ED expenses. The taxpayer would be entitled, by virtue of section 127 of the Act, to an investment tax credit (“ITC”). However, at the taxpayer’s choice, a cash refund equal to the ITC can be claimed under section 127.1 of the Act. If the SR & ED expenditures were to fall within subsection 37(2), the taxpayer would not be entitled to the refundable investment tax credit.
+
+[32] It should be noted that before December 15, 1987, a taxpayer could only deduct expenditures that were made in Canada for SR & ED carried on in Canada under subsection 37(1) of the Act. The requirement that the expenditures be made in Canada has been repealed.
+
+[33] Subsection 37(7) of the Act, as it read for the purposes of the year under issue, stated that “SR & ED” has the meaning given to that expression by regulation. Subsection 2900(1) of the Regulations contains the relevant definition:
+
+2900(1) For the purposes of this Part and sections 37 and 37.1 of the Act, “scientific research and experimental development” means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) work with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support, of the work described in paragraph (a), (b) or (c),
+
+but does not include work with respect to
+
+[(e) to (k) not applicable]
+
+[34] Regulation 2900 defines “SR & ED” as meaning a systematic investigation or search by means of experimentation or analysis carried out in the field of science or technology. Scientific search or investigation implies the use of a scientific methodology in carrying out the work. In Sass Manufacturing Limited v. M.N.R., 88 DTC 1363, Sarchuk, J.T.C.C., stated the following at p.1371:
+
+In my view Regulation 2900 requires an appellant to adduce cogent evidence of such investigation or search. Systematic investigation connotes the existence of controlled experiments and of highly accurate measurements and involves the testing of one's theories against empirical evidence. Scientific research must mean the enterprise of explaining and predicting and the gaining knowledge of whatever the subject matter of the hypothesis is. This surely would include repeatable experiments in which the steps, the various changes made and the results are carefully noted.
+
+[35] I would note that, to the extent the parties agreed that the Appellant’s activities constituted SR & ED as defined in Regulation 2900, the parties differed in how these activities were to be considered as SR & ED. The language of the SR & ED defining provisions found in Regulation 2900 appears to support each of the possible constructions underlying the parties’ respective positions. In considering the clarification in meaning provided by paragraphs 2900(1)(a) through (d), each of these paragraphs describes a distinct kind of work that in and of itself would appear to qualify as SR & ED for the purposes of section 37. Thus, testing would constitute SR & ED to the extent that it is commensurate with the needs and directly in support of the work described in paragraphs (a), (b) or (c). Such a construction would appear to support the position of the Respondent.
+
+[36] On the other hand, if emphasis were placed on the wording “systematic investigation or search” found in the introductory paragraph of the provision, then the construction would favour the Appellant’s position that the testing activities are not SR & ED in and of themselves, but merely part of a larger process of investigation that may be considered SR & ED only as a whole. In considering the meaning of SR & ED, emphasis has been placed on the meaning of the words “systematic research or search” in a number of decisions, e.g. Sass, supra, Canalerta Technologies Inc. v. M.N.R., 93 DTC 165 (T.C.C.), Revelations Research Ltd. v. M.N.R., 92 DTC 1036 (T.C.C.).
+
+[37] I agree that in defining whether an activity constitutes SR & ED for the purposes of the Act it is not to be considered in its constituent parts, but as a whole. Testing would not normally be considered as an eligible SR & ED activity. It becomes an eligible activity only when it is required as part of systematic experimental investigation, which is the case here.
+
+[38] I agree with the conclusions of Bell, J.T.C.C. articulated in Tigney, supra, where he suggested that the relevant provisions of the Act and Regulations are broad enough to look at an activity as a whole and not subdivide it into its constituent parts. Bell, J.T.C.C.'s conclusion is confirmed by the guidelines that are found in new IC-97-1, Scientific Research and Experimental Development Administrative Guidelines for Software Development, dated February 28, 1997. In paragraph 2 of IC-97-1 the Minister states:
+
+The SR & ED project definition is not intended to support the subdividing of SR & ED projects that have been correctly identified into smaller and possibly ineligible activities. The concept of the “set of interrelated activities that collectively are necessary ...” embodied in the SR & ED project definition ensures that a project that is performed for the purpose of technological advancement is evaluated as a unit, provided that all the activities identified for the project are commensurate with the needs, and directly in support, of the attempt to achieve the technological advancement, as required by subsection 248(1) of the Act.
+
+Although this interpretation was not in effect at the time relevant to the present appeal, I would note that the provisions considered by the Circular are almost identical to those in effect for the purposes of defining SR & ED in the taxation years relevant to this appeal. There has been no substantial change in the law between the periods at issue here and the periods to which the Circular applies. (The Income Tax Amendments Act, 1997, S.C. 1998, c. 19, s. 239(1), amended the wording of paragraph (d) of the definition of “SR & ED” and moved the entire provision to subsection 248(1) of the Act. The change of wording in paragraph (d), however, appears to be by way of clarification only. See Department of Finance Technical Note of December 1997 accompanying the amending legislation.)
+
+[39] The Minister appears to favour the splitting of the testing expenditures between those in respect of work executed in Canada and those in respect of work executed outside of Canada. I do not agree with this approach. Even if I were to accept the interpretation favouring the Minister that the testing activity is a SR & ED in itself, the breaking up of the testing activity is not supported by the language of subsections 37(1) or 37(2). These provisions refer to “SR & ED carried on in Canada” and “SR & ED carried on outside Canada”. There is no reference to “that portion of SR & ED” or similar language that would support the breaking down of SR & ED activities in applying the provisions. Further, if the constituent parts of the testing were broken down and allocated between the provisions, it is uncertain whether each particular component would continue to constitute SR & ED. Should the component parts when considered alone fail to meet the requirements of Regulation 2900, then neither of subsections 37(1) or (2) would apply as the activities would not constitute SR & ED.
+
+[40] I would also note that there is nothing in the language or meaning assigned to the relevant provisions to suggest that the determination of where an activity is carried on should be made by reference solely to the cost of performing the activities. It is not the monetary value or cost associated with the particular elements of SR & ED that is determinative of whether the SR & ED was carried on in or outside of Canada. The fact that significant expenditures were made by the Appellant for testing is not determinative.
+
+[41] From the evidence, there is no doubt that the SR & ED performed was controlled and directed from Canada. The testing was performed by the software development team in Canada in controlled conditions. All instructions and data were directed from someone in Canada with the results coming back to Canada to be analysed. The leasing expenditures made in the U.S. merely facilitate a mechanical testing process that is part and in support of the whole SR & ED project carried on in Canada. The mainframe computer was merely a tool that was necessary and that was used to perform the research that occurred in Canada.
+
+[42] In the present appeal, it was not argued that the software project as a whole was not carried on in Canada. The Minister's argument was based on the fact that a component of the testing involved the use of a computer located outside of Canada. The testing on the mainframe computer in Alabama, however, was part of a set of interrelated activities that collectively were necessary to the advancement of the SR & ED that was carried on in Canada.
+
+[43] Having regard to all of these factors, the SR & ED was clearly carried on in Canada. Consequently, subsection 37(1) applies to all expenditures in issue in the present appeals.
+
+[44] For all these reasons, the appeals are therefore allowed with costs.
+
+Signed at Ottawa, Canada, this 28th day of July 1998.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[1] The Appellant’s year end was deemed to be January 10, 1993 when it amalgamated with Aratek International Inc.
+
+[2] The decision in Tigney was appealed to the Federal Court of Appeal on April 14, 1997 and is still pending.
+
+[3] Although counsel did not favour this result, for the reasons that follow later in my analysis, I am of the opinion that if a sufficient portion of SR & ED activity were carried on outside Canada, such that the SR & ED activity, considered as a whole, were carried on outside Canada, then it would fall within subsection 37(2).
+

@@ -1,0 +1,774 @@
+Date: 19980501
+
+Docket: 97-531-IT-G
+
+BETWEEN:
+
+NORTHWEST HYDRAULIC CONSULTANTS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] This appeal is from an assessment for the 1994 taxation year. Although the notice of appeal and the reply raise a number of issues counsel for the parties have effectively removed everything from the table except one central question, that is to say whether the work done on five engineering projects which have been selected by counsel as representative constitutes scientific research and experimental development ("SRED") within the meaning of section 37 of the Income Tax Act and Part XXIX of the Regulations.
+
+[2] The appellant ("NHC") carries on a specialized branch of hydraulic engineering. Over the period of 11 years from 1983 to 1994 it carried out 17 projects in which designs were tested by means of physical models. The question is whether those projects were SRED. Although 1994 is the only year before the court the parties have agreed that if the question of principle is determined they can resolve between themselves the manner in which such determination will affect not only the 1994 but other taxation years, including the appellant's entitlement to investment tax credits and refundable investment tax credits.
+
+[3] The following is an accurate description of the history and business of NHC. It is taken from the report of the expert witness Joe Ploeg:
+
+Northwest Hydraulic Consultants (NHC) was incorporated as a Canadian company by a small group of professors of the University of Alberta in 1972. It has, since that time, grown into an international company, with a staff of some 70 people, of which about 60% are professionals, and with offices in Canada in Edmonton, Alta, (Head Office) and North Vancouver, B.C. and in the U.S. in Seattle, Wash. and W-Sacramento, Cal. NHC is generally known as an engineering consultant firm, specializing in the development, management and protection of water resources. Their special fields of experience include Hydraulic Modelling, Numerical Modelling, River Engineering, Environmental Studies, Hydrology and Storm Water Management.
+
+[4] The 17 projects that are in issue are hydraulic model studies carried out at NHC's North Vancouver office for non-Canadian engineering consulting firms or the engineering departments of a municipality or public utility. Although the subject matter of the projects differs they have in common the construction of a physical model generally to a precise scale that replicates the river or dam or other construction to which the design relates.
+
+[5] The following five projects were chosen by counsel as representative:
+
+1. The Belleville (Lock and Dam) Hydroelectric Project. This project involved the development of a hydroelectric generating station adjacent to an existing lock and dam.
+
+2. The Schuylkill River Sedimentation Study. This project involved the development of a design to reduce the deposition of sediment in front of an existing rowing club on the Schuylkill River in Philadelphia.
+
+3. East Rapti Irrigation Project. This project involved the development of the hydraulic design of a diversion dam and intake required for irrigation water supply.
+
+4. Walters Dam Apron Repair. This project required the development of a design that would eliminate or reduce the water damage to the concrete apron of the dam.
+
+5. White River Diversion Dam. This involved the modification of the design of a diversion dam on the White River.
+
+[6] Before I examine each of these projects in greater detail I shall set out the guidelines that I propose to follow in determining whether the projects fall within the concept of SRED.
+
+[7] Under the Income Tax Act SRED has the meaning given to it by regulation. Section 2900 of the Income Tax Act Regulations reads:
+
+2900.(1) For the purposes of this Part and sections 37 and 37.1 of the Act, "scientific research and experimental development" means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, that is to say,
+
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view,
+
+(c) experimental development, namely, work undertaken for the purposes of achieving technological advancement for the purposes of creating new, or improve existing, materials, devices, products or processes, including incremental improvements thereto, or
+
+(d) work with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support, of the work described in paragraph (a), (b) or (c),
+
+but does not include work with respect to
+
+(e) market research or sales promotion,
+
+(f) quality control or routine testing of materials, devices, products or processes,
+
+(g) research in the social sciences or the humanities,
+
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+
+(i) the commercial production or a new or improved material, device or product or the commercial use of a new or improved process,
+
+(j) style changes, or
+
+(k) routine data collection.
+
+[8] The appellant relies particularly on paragraph (c) of that definition. Paragraph (c) of the French version reads:
+
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+
+[9] I quote this paragraph simply because the words, "de l'amélioration, même légère, de ceux qui existent" seem to clarify any ambiguity that may be found in the words "including incremental improvements thereto".
+
+[10] The addition of these words in 1995 applicable to taxation years ending after December 2, 1992 appears to have been in response to a concern that the achievement or attempted achievement of slight improvements was not covered. I should not have thought it was necessary to say so. Most scientific research involves gradual, indeed infinitesimal, progress. Spectacular breakthroughs are rare and make up a very small part of the results of SRED in Canada.
+
+[11] The tax incentives given for doing SRED are intended to encourage scientific research in Canada (Consoltex Inc. v. The Queen, 97 DTC 724). As such the legislation dealing with such incentives must be given "such fair, large and liberal construction and interpretation as best ensures the attainment of its objects" (Interpretation Act, section 12).
+
+[12] The second preliminary observation that should be made is the use of the Information Circular 86-4R3 which sets out criteria to be applied in determining whether an activity qualifies as SRED. In general I am reluctant to rely too heavily on interpretation bulletins and information circulars in determining contested issues under the Income Tax Act. The reason for this is that in any litigious situation it seems somewhat unfair for an independent arbiter to place much weight on the rules of the game devised by one of the players. I recognize that frequently interpretation bulletins and information circulars set out administrative interpretations and practices that are beneficial to the taxpayer and I am reluctant to do anything that would cast doubt on those interpretations or practices.
+
+[13] There is a further consideration that relates specifically to IC 86-4R3. That circular has been revised a number of times. Dr. J.R. Roberts was a Senior Science Advisor in the Department of National Revenue with a doctorate in organic chemistry. In his extremely helpful and informative testimony he described in some detail the evolution of the government's guidelines with respect to SRED which culminated in IC 86-4R3. It was the result of extensive consultations between government and the scientific community both in industry and in universities. It represents a broad consensus of persons in the public and private sector who are likely to be affected by or to have an interest in the interpretation of the SRED provisions of the Income Tax Act. The process demonstrates the sensitivity of the government to the concerns of the scientific and business communities in this area. Numerous submissions were received from organizations.
+
+[14] Three basic criteria were considered by the panels who were involved in the process: scientific or technological uncertainty, scientific or technological content and scientific or technological advancement.
+
+[15] In light of the extensive consultation and the impressive credentials of the persons who participated in the process, the document that emerged, IC 86-4R3 is a generally useful and reliable guide.
+
+[16] Although I do not presume to have the technological expertise of the persons who assisted in the preparation of the circular, or the witnesses who appeared before me, including the highly qualified experts who appeared on behalf of the appellant and the respondent, I should like to set out briefly my own understanding of the approach to be taken:
+
+1. Is there a technical risk or uncertainty?
+
+(a) Implicit in the term "technical risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+
+(b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+
+(a) the observation of the subject matter of the problem;
+
+(b) the formulation of a clear objective;
+
+(c) the identification and articulation of the technological uncertainty;
+
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+
+(e) the methodical and systematic testing of the hypotheses.
+
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+
+The Belleville (Lock & Dam) Hydroelectric Project
+
+[17] This project was owned and operated by the U.S. Corps of Engineers. It is located on the Ohio River at Belleville, West Virginia. The river was primarily used for navigation. A private developer proposed the construction of a hydroelectric powerhouse on the opposite bank of the river. The appellant was retained to evaluate the initial design and, if necessary, to develop design modifications to improve the performance. The objective was to develop a design that would permit the powerhouse to be constructed and operate in a manner that would not interfere with navigation. The technological problem and the hypotheses formulated to solve the problem are set out in the draft report prepared by the appellant (Exhibit A-1). The objectives of the study were as follows (pages 4-5):
+
+1.3 Study Objectives
+
+Three test series were performed using the 1:120 scale navigation model. The first series of tests addressed ACOE concerns regarding the effect of the proposed powerhouse addition both during and after construction on existing navigation, sedimentation, stage, erosion, and surge. The second series of tests used upstream and downstream flow patterns to develop a hydraulically-efficient and cost-effective design of the civil works. The third series of tests collected additional velocity data to help layout an appropriate recreational facility downstream of the powerhouse.
+
+The test program for the 1:30 scale section model documented the hydraulic performance of the approach channel to the proposed powerhouse. Details of the 1:30 scale model test program can be found in the separate "Powerhouse Performance" report.
+
+Specific ACOE objectives included the following:
+
+. Establish baseline performance of the existing configuration including navigation conditions, water surface profiles, and sediment transport characteristics in the vicinity of the lower lock approach. Also, document velocities over the entire modelled reach of the river, in the lock approaches, near the affected structures and adjacent bank lines (navigation model).
+
+. Ensure that the proposed hydropower project, under steady-state operation, does not have an adverse impact on either the navigation conditions or the bank line velocities. Develop modifications required to eliminate any unsatisfactory conditions during and after construction (navigation model).
+
+. Assess the backwater effects of the project modifications, both during and after construction, and develop designs to eliminate any unsatisfactory conditions (navigation model).
+
+. Investigate the magnitude of upstream and downstream surges (water levels and velocities) resulting from powerhouse start-up and shut-down (navigation model).
+
+. Determine the effect of any site excavation or soil disposal on the upstream flood stages and flow distribution, and investigate designs required to eliminate unsatisfactory conditions (navigation model).
+
+. Provide a qualitative assessment of the movement of sediment into the lower lock approach for the proposed powerhouse conditions and compare with the baseline conditions. Develop design modifications to eliminate adverse conditions as required (navigation model).
+
+. Ensure that the flow over and around the powerhouse does not induce erosion or threaten the integrity of the existing dam (navigation and section models).
+
+. Assess the environmental aspects of the project. In particular, the velocities and flow patterns produced by powerhouse flows in the downstream river channel (navigation and section models).
+
+In addition to the concerns of the ACOE, the model study was also used to:
+
+. Aid in the layout of the recreational facilities downstream of the proposed powerhouse with input from the appropriate resource agencies (navigation model).
+
+. Evaluate the hydraulic performance of alternative approach channel configurations designed to minimize unsymmetrical flow conditions that would adversely affect plant efficiency (navigation and section models).
+
+. Evaluate the hydraulic performance of alternative tailrace channel geometries with emphasis on minimizing head losses and draft tube instabilities (navigation and section models).
+
+[18] Does the passage quoted above demonstrate a degree of technological uncertainty that cannot be resolved by routine engineering?
+
+[19] The overall purpose was to evaluate the initial design and develop modifications that would ensure that the hydroelectric project would not have an adverse impact on navigation on the river, on upstream water levels and would not increase the flow of sediment downstream from the dam. An additional problem was the distribution of flow velocities entering the powerhouse.
+
+[20] I am satisfied that there was a high degree of technological risk. I am not basing this conclusion on the somewhat self-evident observation that the fact that the U.S. Corps of Engineers retained the appellant to do the physical study in itself is illustrative of a high degree of technological risk. The making of a physical model for projects of this type may be a standard requirement of the U.S. Corps of Engineers. However, even if it is standard procedure for them, the very existence of the policy probably demonstrates that a measure of technological risk is inherent in all projects of this type. This may be implicitly recognized in paragraph 7.5 of IC 86-4R3 where it is said:
+
+7.5 In regulated industries where specifications for product performance, registration, certification, and/or safety are enforced or are generally accepted, studies required to meet these requirements or standards are eligible activities.
+
+[21] I prefer however to base my conclusion on the number of uncertainties inherent in the change to the flow pattern that the construction of the hydroelectric project would entail and the velocity of the flow to the power plant resulting from its construction deep into the bank opposite the locks.
+
+[22] Based on the evidence of Mr. Hughes, the engineer in charge of the project of the appellant I do not think that conventional engineering would be adequate to deal with the variables and the uncertainties that were inherent in the major disruption and diversion of the flow of the river resulting from the construction. Two models were required. One problem that emerged was the flow pattern that would have resulted from the initial design would have adversely affected the navigation downstream. As a result the tailrace channel was realigned to obviate the problem with the initial design and the approach channel was realigned. It would be easy to say, after the event, that these solutions are obvious and routine. They are not. They required a number of methodical and systematic experiments and progressive modifications to meet problems that could not have been predicted.
+
+[23] In my view, this project meets all of the criteria set out in Regulation 2900, IC 86-4R3 and the criteria set out above. The result was a technological advance with respect to this particular problem of hydraulic engineering, involving, as it did, the juxtaposition of a lock and dam on a navigable river and a hydroelectric power plant. It is, I think, unduly simplistic to say that the appellant was merely applying technology that it had learned from working on similar projects. Each river is different and each project of this sort adds to the body of knowledge.
+
+[24] I will simply conclude my discussion of this project by quoting from the evidence of Mr. Hughes:
+
+Q. Was there any new knowledge that the staff of NHC gained as a result of this -- working on this particular project?
+
+A. With this, and pretty much every project, we learn something. Some of the earlier lock and dam projects, for instance, we had used a different type of feature to help spread this flow. I this case we developed a feature in this direction which we hadn't used in previous ones. In our early part of our development testing we tried to take that knowledge from our previous projects and apply it here. It didn't prove as beneficial as it did in the previous cases, so we had to develop some other modifications. In this case, for example, this feature here was able to meet the objectives.
+
+The Schuylkill River Sedimentation Study
+
+[25] This study was conducted by the appellant for the City of Philadelphia. The problem was that the Schuylkill River, which flowed in front of Boathouse Row, a rowing club, was depositing sediment in front of the club. As the river flowed around a bend immediately upstream from the club the surface water flowed fairly uniformly, following the contours of the right-hand bank of the river and over a dam downstream on the right. The water near the bed of the river went into a helical flow and veered off to the left toward the rowing club, which was situate on the bank of a river in an indentation or recess in the left bank that could be described as a bay or perhaps more accurately as a cove. The water in the cove is virtually still. The below surface water in the current of the river that goes into a helical flow after coming around the bend moves much more slowly with the result that suspended sediment that was carried along so long as the river was moving rapidly, drops down to the bed from the slower helical flow of the below surface water and is deposited in front of the club, making access difficult or impossible.
+
+[26] The particular characteristic of the flow of current around a bend in a river, the formation of a helix and the differing velocities of the surface and below surface water were well known in the profession.
+
+[27] The problem was to devise a solution that would eliminate the deposit of sediment in front of the club. It was decided that the best way of doing so was the construction of a physical model.
+
+[28] One obvious solution was dredging. This was considered expensive and impermanent. Others were the construction of river training walls - spurs or rock fills off the shore - to intercept the flow pattern or the construction of a river dividing wall parallel to the bank to create scour and prevent sediment from reaching the area.
+
+[29] The river training walls were rejected because of the degree of the bend and velocity of the current. Such structures would have had to be excessively large.
+
+[30] The creation of a division in the river by means of a parallel wall was the most promising idea. It fell into three alternatives:
+
+(a) The flushing concept which involved a parallel dividing wall which would increase the velocity.
+
+(b) The deadpond concept, which involved the building of a long wall that would in effect isolate the area in front of the club. This was rejected for both safety and aesthetic reasons. A large wall in the middle of a river in front of a rowing club is unattractive.
+
+(c) The extended peninsula. Essentially this involved the extension of the existing peninsula which combined the features - and results - of the other two ideas - the isolation of the area and the counteracting of the helical effect by a redirection of the main flow and the increase of the velocity.
+
+[31] I do not think this project meets the criteria of SRED. There was no doubt a measure of uncertainty as to the best method of dealing with the problem and there was also methodical experimentation. However the solutions that were tested and the one that was ultimately adopted were well within accepted engineering techniques. I do not mean to belittle the engineering skill that was utilized in finding an answer to the problem but there was nothing particularly innovative. It could not have failed to be obvious that sooner or later, using established techniques, a solution would be found.
+
+The East Rapti Irrigation Project
+
+[32] The East Rapti River is in Nepal. The objective was to develop the hydraulic design of a diversion dam and intake required for irrigation water supply.
+
+[33] This in my view was an extremely challenging project. The river is 1,800 metres wide and carries large amounts of sediment. The channel is "braided", that is to say it consists of a number of channels. The bank of the river in subject to erosion and is highly unstable. Moreover, the slope is steep giving rise to unusually high velocity.
+
+[34] The problems were to maintain a low flow channel near the intake during the dry season, to exclude sediment from entering the intake and reduce downstream scouring (erosion of materials due to high velocity).
+
+[35] In the result three models were required:
+
+(a) A model of the river; this required a distortion of the scale;
+
+(b) an intake model; and
+
+(c) a settling basin model.
+
+[36] For this purpose it was necessary to develop geometry for upstream training dikes and spurs, and an alignment for the intake structure. The capacity of the sluice gate had to be increased and a flow divide wall had to be added. A downstream scour protection scheme had to be devised and a settling basin had to be modified to improve flushing.
+
+[37] Of all of the projects described it appears to me that this was the one that at the outset had the greatest degree of technological uncertainty. Each characteristic taken alone and in isolation would unquestionably have presented difficulties. Cumulatively they magnified each other.
+
+[38] It seems clear that the problems encountered could not have been resolved by standard or routine engineering. The final report demonstrates the numerous tests that were performed. In the result the project did not achieve the objectives sought. I set out the conclusions enumerated in the final report. It will be obvious that the testing was a mixed success. Many of the hypotheses tested were rejected. What this illustrates is the point made earlier that technological advancement does not necessarily imply success:
+
+10. CONCLUSIONS
+
+The conclusions resulting from the series of tests conducted on the East Rapti models consist of the following:
+
+Baseline tests
+
+* The baseline tests conducted before installation of the weir showed good simulation of a braided river.
+
+* The high flow rates eroded the incised narrow channel system generated by low flows.
+
+Upstream Training Works
+
+* Tests with the weir indicated that upstream left-side training works are needed to protect the guidebank immediately upstream from the weir from erosive attack, prevent erosion of the left bank (Chitwan Park), and to direct approach flow to the intake.
+
+* An upstream training scheme consisting of three open dyke elements plus T-spur dykes both upstream and downstream from the open dyke sections was developed. The training scheme provided the required protection, helped direct low flows to the intake, and allowed the area behind the dyke to the preserved as wetlands. This system performed well, but the three spur configuration was also adequate. The final layout will be the decision of the project designers. A minimum of two spurs is recommended, if limited funding does not permit construction of the tested schemes.
+
+Low-Flow Channel
+
+* Bars built up in the 400 m wide approach channel during floods that isolated the intake during low flows. A series of tests was conducted using submerged inner guide banks to create a low flow channel. A 1 m high guidebank forming a channel 1/4 the width of the weir achieved acceptable results. Because the inner guide bank scheme concentrates flow and causes higher upstream water levels, a scheme using floodway gates was adopted for further study.
+
+* A modified design using two 20 m wide gated floodways and one 20 m undersluice was effective in producing a low flow channel to the intake. This was accomplished primarily with open floodway gates and a closed undersluice.
+
+* A larger radius right-side guidewall improve flow conditions when flow is guided by the right guidewall.
+
+Downstream Degradation
+
+* Extended tests with the weir indicated that degradation downstream from the weir will occur during the early years of the project when bedload transported by the Rapti river is trapped behind the weir, and sediment-free flow passes downstream. This degradation resulted in water surface elevations lowered by approximately 1.5 m.
+
+Upstream Aggradation and Water Levels
+
+* Aggradation occurring upstream from the weir was exaggerated in the model with the result that water elevations measured far upstream from the weir are conservatively high. Water elevations measured upstream near the weir agree closely with levels computed with the assumption that their weir functions hydraulically as a broad-crested weir. The difference between computed and measured elevations 1,800 m upstream from the weir for 2,250 m3/s was 1.7 m.
+
+Velocities near Dykes
+
+* Velocities measured near the downstream end of the downstream T-spur dyke were as high as 6.9 m/s for 6,000 m3/s, and near the downstream end of the existing dyke downstream from the weir as high as 7.7 m/s. Protection will be required against these high velocities.
+
+Performance of Canal Intake
+
+* Tests with canal intakes oriented at 140 and 90 degrees indicated more uniform flow distribution with the 90 degree intake, although both intakes had more flow enter through the left side of the intake. The 90 degree intake was adopted for final design.
+
+* Although both orientations were studied for bedload deposition, only the results of the 90 degree intake will be discussed herein. Flow conditions with the floodway and undersluice gates open 0.5 m resulted in considerable bedload entering the canal headworks area. Flows with the floodway gates open 1 m and the undersluice closed also resulted in considerable deposition in the headworks area.
+
+* The addition of a 40 m long divide wall that extended above the water surface effectively prevented bedload from entering the canal headworks area when tested for the 1 m floodway gate opening with the undersluice closed. When canal flow is also eliminated, prevention of bedload entering the headworks area is further enhanced.
+
+* Flushing tests conducted with a wide open undersluice indicated that flushing with the divide wall is much more effective than without the wall.
+
+Log Passage
+
+* Log passage tests were conducted with the premise that log accumulation in the pocket area upstream from the undersluice should be minimized. This was accomplished to a large extent by closing the undersluice but operating the floodway. This operation resulted in log accumulation upstream from the floodway, but minimal accumulation in the pocket.
+
+* Logs of 20 m size were capable of being flushed by completely opening the gates (floodway or undersluice). Larger logs of 30 m size frequently became jammed.
+
+* Several log diversion walls were tested to explore the potential for improving the effectiveness of diverting logs into the floodway. The best scheme involved a solid skimmer wall that allowed flow to pass underneath the wall and the logs were re-directed away from the pocket area.
+
+* The elimination of all canal flow combined with no undersluice flow resulted in more favourable conditions for diverting logs from the pocket.
+
+Crest
+
+* The crest shape for the weir produces smooth flow conditions. Tests with a simplified crest for the gated sections showed flow separation for the higher flows with some accompanying instability. This was eliminated for the undersluice with a change to a curved shape.
+
+Stilling Basins Downstream of Weir
+
+* Four stilling basin designs were tested downstream of the weir: Types 3 and 4 at basin elevations of 224.7 and 226.7 m. The two higher basins produced downstream water levels that were much higher than the tailwater level. This caused scouring conditions downstream as high velocities were generated by the drop in water level. The Type 3 basin at 224.7 m elevation was adopted for final design.
+
+* The adopted basin was tested with and without stone accumulation in the stilling basin. The presence of stones caused some additional mounding of the water above the floor blocks for the higher flows and an exaggerated vertical eddy that tended to rotate stones back to the face of the spillway, where they may accelerate erosion of the concrete. Many of these stones, however, will wash out at the higher flows.
+
+Stilling Basins and Launching Aprons Downstream of Gates
+
+* Stilling basins and launching aprons were tested downstream from the gated sections. The launching aprons were tested in both level and sloping positions. Velocities and water levels were measured. The sloping launching apron reduces or eliminates the drop in water from the apron to the river, particularly for degraded conditions. A launching apron design is proposed for final design.
+
+Settling Basin
+
+* Approach flow patterns to the settling basin appear satisfactory as the upstream transition adequately spreads the flow so that all basin segments are used effectively. There is slower moving flow along the diverging sidewall that would be improved by rounding the upstream corner of the transition. Deposition in the basin was fairly well distributed among the basin segments.
+
+* Flushing with the four-channel scheme was unsuccessful because insufficient downstream channel capacity resulted in subcritical flow through much of the downstream section of the basin. This scheme would function adequately if more downstream capacity were provided.
+
+* Flushing with the single-channel scheme with the slope through the flushing ports continuing at the 1:100 basin slope was not satisfactory as a hydraulic jump formed in the basin. Elevation drops of 20, 30 and 45 cm through the ports were then tested. Supercritical flow through the ports, and thus effective flushing, was maintained for flow rates from 2 to 6 m3/s for the three tested drops.
+
+Sediment Ejector
+
+* Tests with the sediment ejector indicated effective removal of bed sediments for 6 and 8 m3/s. The location and size of the ejector may require further consideration, as they do not conform to published recommendations. It may be more efficient if it is located with a long straight upstream reach to allow for uniform flow to be attained. The recommendations suggest that ejected flow be limited to approximately 25 percent of the canal flow rate.
+
+[39] The advance that was made was summarized by Dr. Babb:
+
+Q. As a result of this project, were there any innovations or any improvements that you became aware of in hydraulic engineering?
+
+A. Well, this concept of a divide wall is not new, but this is an entirely different application in that it's a highly braided river and so I think the development there, the shape of the intake works, the alignment and the length and the height of the wall in combination with the gates that were used. Also the development of methods for maintaining this low-flow channel for the intake in this highly sediment laden river, that's an advance.
+
+Q. You talked about the piers or those, I think of them as vanes, for the intakes.
+
+A. Yes.
+
+Q. I guess that's this photograph here, Your Honour.
+
+How were they positioned? Is there any hydrotechnical theory on the positioning of these vanes?
+
+A. Well, there is. And just because flow doesn't like to turn a corner, and so if you don't have any vanes in there to help it, then probably half of your -- maybe only a half of your intake area will be affected. In other words, the flow moving downstream only occupies maybe half of that opening. Whereas if you break it up into smaller channels and the nose of that vane is up where the incoming flow can intercept it, then in effect we've got a lot of little channels, what may be this separated zone within each channel. But overall it's a much more effective way and distributed over the width of the intake.
+
+Q. Could these designs have been implemented by resorting merely to textbooks?
+
+A. No, you wouldn't find any of that in a textbook. But there are design guides available and certainly there are suggestions there and these were used in the initial design. But not enough is available there to, I think, develop an effective design of this type.
+
+Q. You mention "design guides". What is a design guide?
+
+A. Well, it's something like a book or a manual that has maybe some number of case studies that could be used, some basic theory in it and maybe some design examples. And if it fits your particular application and it's been either model tested before or built in the field where you can see how it operates, and if you build exactly the same structure, there's no need for a model. But if you're doing things differently or its in a different environment, then the model is necessary.
+
+Q. The sedimentation basin, you indicated that design was provided to you by the Japanese firm?
+
+A. Yeah, they had a standard sedimentation basin design, so we adopted that.
+
+Q. Did you know before it was put in the model whether or not it would work?
+
+A. No, I didn't.
+
+Q. What did you anticipate?
+
+A. I anticipated when the gates were open that the water level would drop and all the sediment would go back to the river.
+
+Q. And in fact that didn't happen, did it?
+
+A. No.
+
+Q. It failed in this project. Is that right?
+
+A. Well, it wasn't built that way, it was just built in the model and it didn't function.
+
+Q. That's what I mean.
+
+A. Yes, right.
+
+Q. The model of the design failed for its purpose?
+
+A. Right.
+
+[40] In my view, the East Rapti River Irrigation Project meets all of the criteria of SRED. The myriad of technological uncertainties are obvious. It is clear that these uncertainties could not be removed by routine engineering. Indeed even with the appellant's highly developed skills in this area a number of the problems could not be resolved. The methodical testing of hypotheses is apparent from the detailed reports submitted. The technological advances were discussed by Dr. Babb both in his viva voce testimony and the conclusions which are reproduced above. I have not reproduced any passages from Exhibit R-7, relating to the hydraulic design and specifications for hydraulic model tests for head work. It does however underline, in the list of objectives, even more than the final report and the evidence of Dr. Babb, the high degree of risk and uncertainty inherent in the project.
+
+[41] This project clearly qualifies as SRED.
+
+The Walters Dam Apron Repair
+
+[42] On this case the appellant was retained by Carolina Power & Light Company. The Walters Dam is an arched dam with 14 gated bays. Water passes over a short crest section at the top through the gates and plunges 180 feet into a concrete basin. During periods of flooding when large volumes of water pass over the dam, the concrete apron on which it falls is damaged.
+
+[43] The dam was built in 1930 and the damage from the falling water was repaired in 1972 and 1990. Dr. Babb and Hank Falvey of NHC visited the dam on December 6, 1990 and wrote to Carolina Power & Light Company on January 15, 1991 and set out the problem:
+
+Analysis of Failure
+
+The attached trip report describes the following damage-producing processes:
+
+. High pressure created by the impact of the water falling 180 ft on the concrete apron finds a path to the underside of the apron through both open grout pipes and construction joints.
+
+. The original uplift has a perimeter bounded by a large crack, having an approximate diameter of 40 ft, and occurred as a result of excessive shear stresses.
+
+. The crack was produced by vertical uplift forces that exceeded the combined tensile strength of the concrete, the weight of the concrete slab, and the impact force of the water.
+
+. The uplift either delaminated the apron from the foundation, or of the newer, upper apron slab from the original lower apron. This resulted in uplift of the slabs at the downstream end of the apron with the uplift force transmitted from one slab to the next through the steel reinforcing bars.
+
+. The average pressure required to generate this uplift is estimated to be slightly more than half the reservoir pressure.
+
+[44] On January 25, 1991, the client wrote to NHC setting out the objectives of the model study:
+
+In response to your letter dated January 15, 1991, we are writing to finalize the objectives for the model study. Our primary objectives for the model study are as follows:
+
+1. Reproduce the conditions that led to the apron damage.
+
+2. Determine the maximum uplift pressures.
+
+3. Determine the water flow and/or gate opening combination which results in the maximum uplift pressure.
+
+4. Document if the maximum uplift is a transitory phenomenon.
+
+A secondary objective for the study would be to document the effect of a plunge pool. While this is a potential approach to reduce the uplift on the apron slab, the design and construction of a downstream weir is probably not justifiable when compared to an anchored slab.
+
+[45] A model on a scale of 1:40 was constructed.
+
+[46] The first solution considered was to construct radial divide walls, the purpose and effect of which was to simulate the effect of opening all of the gates at once in that it deflected the falling jet of water.
+
+[47] The second solution was simply to change the sequence of the gates, or pass the water through more gates. Essentially the purpose of this solution was to dissipate the water falling on the concrete.
+
+[48] Other solutions involved the reshaping of the apron and the sealing of apron joints. The idea of repairing the apron in itself is hardly innovative. Repairs are an inevitable concomitant of damage. The solution suggested went beyond mere repair. It involved not merely the construction of four foot layers of concrete, but rather a large mass of concrete which pressures from below could not move.
+
+[49] There was clearly a technological uncertainty that conventional engineering could not remove. Imaginative and innovative hypotheses were tested methodically and a technological advance was made in understanding the effect of the falling jet, and the spreading of flow through the change in the sequence of opening the gates as well as through the divide wall system.
+
+[50] The technological advance was not spectacular but, as observed above, what may seem routine in hindsight involved innovative hypotheses as well as considerable experimentation.
+
+[51] I think this project qualifies as SRED, although it is not one of the more obvious cases.
+
+The White River Diversion Dam
+
+[52] This project in my view ranks with or just below the Rapti River project in terms of technological uncertainty and difficulty.
+
+[53] The White River Diversion Dam was constructed in 1910. It is owned by the Puget Sound Power and Light Co. NHC was retained by a firm of engineers, HDR Engineering Inc. of Bellevue, Washington.
+
+[54] The purpose of the dam is to divert the river to an intake that leads to a power canal for the purpose of generating hydro electric power. Dr. Babb put the purpose as follows:
+
+A. Primarily keeping the bed material, again the sands and the gravels out of the intake, and also the establishment of favourable fish attraction currents to these entrances.
+
+Q. What were the development phases that you undertook in proceeding along this project?
+
+A. In the initial design, it was primarily done by HDR. He had input to the initial design that was tested in the model. Once the model was considered necessary, then the stages there were to essentially check the model to see that it reproduced the observed conditions in this already-built structure. The second was to test the initial design. Thirdly was to -- if the design didn't perform its desired objectives, was to develop that design, and fourthly was to document the adopted final design over a series of different flow conditions, which involved also establishing a certain gate opening sequence.
+
+[55] It should be noted that the appellant was retained by HDR Engineering Inc. which is itself a large engineering firm whose expertise included hydraulic engineering.
+
+[56] In Exhibit A-12, there are set out a number of alternatives considered by the appellant for the physical models. That exhibit describes the operational problems that the project was intended to correct.
+
+OPERATIONAL PROBLEMS
+
+The operational problems that are to be corrected by the project can be summarized as follows:
+
+. Water level control upstream of the diversion dam over a full range of discharges. The existing dam is a timber crib structure with 7-foot high flashboards that maintain water levels during normal flows but can be removed or will wash out at high flows. These are to be replaced by operational gates of some kind.
+
+. The slide gates in the intake structure are old and need refurbishment or replacement as necessary to support overall design.
+
+. The river transports a significant bedload of sand, gravel and cobbles that collects upstream of the diversion dam and enters and deposits in the intake and interferes with the operation of the intake gates and obstructs the flow. According to samples taken from the bed below any armouring, this material is composed of about 75% gravel, 20% sand and 5% fines. The median size of the gravel fraction is about 80 mm. The largest size sampled is about 100 mm.
+
+. The river also transports, in suspension, a large quantity of sand that is transported through the intake along with the flow going to the Lake Tapps storage reservoir. This sand is deposited in intermediary basins and is removed periodically.
+
+. The river transports significant quantities of floating debris that collects in front of, or enters, the intake and disrupts operations.
+
+. The existing dikes that protect development along the right bank of the river from flooding during high flows, need to be raised and upgraded and protected from erosion by floods.
+
+. There are fish facilities at the diversion dam on both banks which must continue to operate successfully with the new design. These include fish trap facility on the left bank operated by the Corps of Engineers to collect upstream migrants and transport them above Mud Mountain Dam and a fish hatchery on the right bank operated by the Muckleshoot Indian Tribe. In addition, the fisheries agencies have imposed operational restrictions on the diversion related to:
+
+. minimum flow releases, and
+
+. the rate at which flow changes are imposed (ramping rates),
+
+and may impose operational restrictions on sediment releases.
+
+. Operation requires an attendant 24 hours per day. The facility is to be automated.
+
+[57] The portion of the report that is quoted above represents the identification and articulation of technological uncertainty.
+
+[58] The following passage sets out the hypotheses which the testing program was intended to test:
+
+PROJECT OPTIONS
+
+HDR has identified five project design options. The number of options or the features of the options might be changed before or during the physical modelling program. Three of the design options are currently under consideration for physical modelling investigation. The three options which are candidates for modelling include the modifications to the intake which were included in the FERC license application and can be described as follows:
+
+. intake entrance moved about 30 feet towards river,
+
+. louvered debris barrier (replaceable by stoplogs) at entrance,
+
+. overhung, submerged headwall at intake entrance,
+
+. cantilevered intake deck to form a bed load sediment barrier, and
+
+. two slide gates replace by one larger radial gate.
+
+Other proposed features include a log boom and a boat barrier. The options also all include new concrete structures with various gate arrangements. They differ only in the arrangement of gates and sluices in the dam. The options can be described as follows:
+
+Option I - This option includes radial gated sluices and a free ogee crest arranged from left to right across the dam as follows:
+
+. 3 sluice bays, each 50 feet long with floor at El 660 ft controlled by 11-foot high radial gates on a sill at El 660.5 ft. These bays would be separated upstream and downstream by training walls extending vertically to El 666 ft.
+
+. free ogee crest El 671.5 extending from the sluice bays to the right abutment to operate only if flows exceeded 18,000 cfs.
+
+Option II - This option includes flow release control by collapsible rubber dams with arrangement from left to right across the dam as follows:
+
+. a narrow sediment sluice with floor at El 660 ft and a 20-foot sluice gate 11 feet high.
+
+. 3 bays, each 50 feet long with floor at El 660 ft controlled by 11-foot high collapsible rubber dams fastened to a sill at El 660.5 ft. These bays are separated, downstream only, by training walls.
+
+. free ogee crest to El 671.5 extending to the right abutment.
+
+Option III - This option was included in the FERC license application and includes four sediment sluices separated by overflow sections with bascule gates with arrangement from left to right as follows:
+
+. overflow section 28 feet long with crest at El 666 ft and controlled by a bascule gate to El 671 ft.
+
+. a narrow sediment sluice with floor at El 660 ft and a 20-foot sluice gate 11 feet high.
+
+. overflow section 28 feet long with crest at El 666 ft and controlled by a bascule gate to El 671 ft.
+
+. a narrow sediment sluice with floor at El 660 ft and a 20-foot sluice gate 11 feet high.
+
+. overflow section 65 feet long with crest at El 666 ft and controlled by a bascule gate to El 671 ft.
+
+. a narrow sediment sluice with floor at El 660 ft and a 20-foot sluice gate 11 feet high.
+
+. overflow section 65 feet long with crest at El 666 ft and controlled by a bascule gate to El 671 ft.
+
+. a narrow sediment sluice with floor at El 660 ft and 20-foot sluice gate 11 feet high.
+
+. overflow section 65 feet long crest at El 666 ft and controlled by a bascule gate to El 671 ft extending to the left abutment.
+
+[59] The following passage sets out the objectives which the modelling program is intended to achieve:
+
+OBJECTIVES OF MODELLING PROGRAM
+
+The performance of the three structure options will be judged on the basis of a model testing program designed to determine:
+
+. Ability of the structure to pass bedload without allowing it to enter the canal, deposit in the vicinity of the canal intake, or interfere with the downstream fish passage facilities;
+
+. Ability of gated outlets to remove sediments deposited immediately upstream from the dam;
+
+. Ability to release flows downstream from the structure that produce acceptable scour and deposition patterns and safe, controlled dissipation of kinetic energy;
+
+. Sensitivity of structure performance to shifts in upstream approach-flow direction caused by channel instability;
+
+. Water levels corresponding to floods;
+
+. Uniformity of flow entering canal. Any tendency for uneven flows producing dead areas or upstream-directed currents are conducive to settling of suspended sediment and increased head loss, and should be avoided.
+
+. Head losses for flow entering through the canal intake, to determine if the required offtake capacity can be achieved within design water-level differences between forebay and canal;
+
+. Capability to manage floating debris by preventing it from entering the intake area, and guiding it to preferred collection areas.
+
+In addition to the above criteria established for comparison of the options, the following model objectives will be achieved for the preferred option:
+
+. Measurement of velocities for use in upstream dike design;
+
+. Establishing a detailed strategy of dam gate operation for effective passage of bedload;
+
+. Determination of number, extent, alignment and top elevation of any needed divide walls;
+
+. Assessment of feasibility of near-field sediment excluder near canal intake (optional).
+
+[60] I shall not quote extensively from the portion of the report "Need for Physical Modelling" beyond observing that the appellant is very familiar with numerical modelling and rejected it as a reliable form of testing its hypotheses. Numerical modelling is an alternative to physical modelling only where "flow conditions and sediment - transport processes are simple enough to be represented by a numerical simulation".
+
+[61] In a complex project of this sort a form of testing that is essentially two-dimensional is, in the view of the appellant, simply inadequate and indeed risky. I accept the appellant's opinion on this point.
+
+[62] The result of the numerous tests that were performed was that a design was developed that resolved the uncertainties associated with the initial design. Sediment entering the canal was reduced, the intake flow distribution was improved, the accumulation of debris was reduced and downstream scour was reduced.
+
+[63] The most significant difference in the final design from the initial design was the construction of radial gates, the inflatable rubber weirs, and three walls, (excluder, divide and deflector) adjacent to the intake to the power canal.
+
+[64] Of all of the projects put in evidence this one in my view resulted in the greatest amount of technological advance. It is true that any one of the features of the final design may have been known - rubber weirs, radial gates and walls of different types were known. It was the innovative combination and alignment of these factors that makes this project unique.
+
+[65] In fact, it was described in a published paper by Dr. Babb, Michael Blanchette, a senior engineer with Puget Sound Power & Light Co., and Robert King, an engineer with the client HDR Engineering Inc. The conclusion of the article was as follows (Exhibit A-13):
+
+Conclusions
+
+The proposed replacement dam for the White River Project uses bedload deflector and excluder walls and a flow divide wall combined with set opening sequences for the gates and rubber weirs to provide the effective bedload passage. The replacement structure uses a 12 bay intake works at the left abutment of the dam with a release system featuring two radial gates and two rubber weirs. The structure successfully diverts flow with a minimum of bedload material entering the intake. Favourable attraction flows to the left bank fish entrance were established with the riverward relocation of the entrance and the early use of RG1 to pass flows adjacent to the fish entrance to eliminate the return eddy. A bucket type dissipater is used downstream of RG2 to control scour and to reduce the magnitude of the return flow. Most debris approaching the dam will accumulate on the left bank upstream from the radial gates, from where it will be either hydraulically passed or removed mechanically. The design of the proposed facilities was studied and improved with the use of a hydraulic model. Significant benefits of the physical model included: design refinement, gate sizing, scour prediction, bedload behaviour prediction, and agency demonstration and consensus building.
+
+[66] Mr. King testified concerning the need to retain the appellant and it was because he believed that even a firm as large as his had reached the limit of its capabilities.
+
+[67] I have dealt at length with the White River Project because it represents in my view a model of what an SRED project should be. Every element of the criteria set out at the beginning of these reasons is met: technological uncertainty, engineering that goes far beyond the routine, methodical testing of untested and innovative hypotheses and significant technological advances.
+
+[68] I am greatly indebted to the two highly qualified and impressive experts that were called. Professor C.D. Smith, was called by the appellant and Joe Ploeg who was called by the respondent.
+
+[69] Although they arrived at very different conclusions they were, interestingly, not that far apart in some of their approaches. I think that what divided them was the question whether the appellant's activities constituted routine engineering or standard practice and whether technological advances were achieved.
+
+[70] Mr. Ploeg adopted the statement in the information circular:
+
+Standard Practice refers to directly adapting a known engineering or technological practice to a new situation when there is a high degree of certainty that the known technology or practice will achieve the desired objective.
+
+[71] In his initial report Mr. Ploeg appeared to concentrate on the question whether advances were made in the theory or practice of hydraulic modelling. That was not the basis of the claims:
+
+The design, calibration and operation of the hydraulic models for the 17 projects included in this SR & ED claim, can only be described as "standard practice" or "routine engineering". The proposals for hydraulic model tests, prepared by NHC express a high degree of confidence that their technological knowledge base (i.e. their knowledge and understanding of the theory and practice of hydraulic modelling) is quite comprehensive and certainly sufficient to achieve the desired objectives (ref. par. 4.2 of IC 86-4R3).
+
+...
+
+Having carefully reviewed all 17 projects, it is my opinion that no new materials, devices, products or processes have been created, or existing ones improved. Each project provided important information to NHC's clients, allowing them to optimize the design of a structure or a system. All projects presented new situations, but standard hydraulic modelling practices could be used to achieve the objectives of each project.
+
+[72] In his rebuttal report Mr. Ploeg concentrated rather on whether the projects led to generic or specific technological advancements, and stated:
+
+The actual method used for solving an engineering design problem, be it physical or mathematical modelling, does by itself not lead to advancing the technological base.
+
+[73] This observation may be true but the real question is whether the projects themselves led to technological advances. Mr. Ploeg stated in paragraph 2.2 of his rebuttal report:
+
+A detailed review of the 17 projects, with particular reference to the "advancements" listed in appendix 1 of the Expert's Report, shows, however, that no real new or improved devices or processes were developed.
+
+The devices and processes developed by NHC in the course of the modelling work for these 17 projects may have been "new" in the sense of a new location (i.e. a hydraulic structure that was not there before, or the implementation of a river improvement scheme), but all of the work described in the NHC project reports refers to standard devices and processes, which are routinely used in similar design situations all over the world.
+
+After reviewing the 17 projects at issue, I have concluded that none of the projects led to generic or specific technological advancements, with the possibility of creating new or improving existing devices or processes, which could also have been used in other engineering design situations. A test of such an advancement would be the possibility of a patent.
+
+Interpretation Bulletin IT-439 (17 Sep. 1974) which applies to most of the projects, is quite specific in defining the meaning of "new". Par. 8 of this bulletin states: "It is the Department's view that "new" refers to a product or process that is new to the particular taxpayer in Canada. However, where a taxpayer merely duplicates another person's product or process, the scientific research (i.e. systematic investigation) carried out will probably be minimal and will be considered routine testing, which is an excluded activity by virtue of 2900(e)."
+
+[74] Professor Smith, in his report, analyzed the qualifications of the persons at NHC who engaged in the activities, and discussed the concepts of technological uncertainty, technological advancement, and systems uncertainty. His conclusion was as follows (Exhibit A-14):
+
+With regard to NHCL experimental development work using physical hydraulic models, it may be concluded that:
+
+a) The work has been performed using a systemic approach using qualified personnel with relevant experience.
+
+b) In each of the 17 projects reviewed, without exception, problems requiring solutions were identified that could not be resolved by analytical methods alone. An experimental development program including the use of a physical hydraulic model was required in each case.
+
+c) Technological advancement has been achieved in several ways. First, a technological uncertainty was eliminated or reduced, without which the project could not proceed. Second, design solutions which were found experimentally advanced the understanding of the problem so that the knowledge gained could be used to advantage on subsequent studies of similar problems. Third, as a result of cumulative experience gained from each new investigation, the knowledge base of the NHCL engineers and specialists was advanced.
+
+In summary, in the opinion of the writer, the 17 NHCL projects reviewed satisfy the criteria for experimental development as defined in the Income Tax Act.
+
+[75] His comments on each of the projects that were put in evidence were as follows:
+
+1 East Rapti Irrigation Project (1984)
+
+Location : Nepal
+
+Client: Nippon Koei Co. Ltd., Tokyo
+
+Object: Development of hydraulic structures and river protection works
+
+Model type: River model (distorted) 1:200, 1:50 scale, hydraulic structure (2 models) 1:30 scale
+
+Uncertainty: The unknown effect of heavy sediment movement and complicated structure combination (including weir, sluiceway, headgate, ejector, settling basin, fish ladder, log passage and river training works) on project performance.
+
+Observations: Problems with adverse flow patterns, scour, sedimentation, and discharge capacity were observed.
+
+Advancement: Modifications were made to the upstream river training works, sluiceway, canal intake, aprons and log passage thus facilitating development of the project.
+
+...
+
+4 Schuylkill River Sedimentation study (1991)
+
+Location : Pennsylvania
+
+Client: City of Philadelphia
+
+Object: Investigate sedimentation problem at boat dock
+
+Model type: River model, 1:65 scale
+
+Uncertainty: The cause of existing sedimentation problems at Boathouse Row, and remediation measures needed to correct the existing undesirable and unsafe conditions.
+
+Observations: Adverse natural sedimentation patterns were observed. An attempted correction by bank groins was unsatisfactory, and by flushing was unsatisfactory. An in-line dividing wall with an upstream groin was most effective. Dredging was found to be a temporary solution only.
+
+Advancement: The sedimentation pattern caused by the bend effect was corrected by a dividing wall.
+
+5 Walters Dam Apron Repair (1991)
+
+Location : North Carolina
+
+Client: Carolina Power and Light Co., Raleigh NC
+
+Object: Investigate apron failure of existing spillway
+
+Model type: Hydraulic structure, 1:38 scale
+
+Uncertainty: The cause of the failure of the existing apron, and the nature of corrective action required to avoid future problems.
+
+Observations: The apron failure was caused by uplift pressure related to the design and operation of the existing structure.
+
+Advancement: A gate sequence operation to reduce uplift force on the apron was determined, and a set of radial divide walls was devised for the basin to improve flow distribution.
+
+...
+
+7 White River Diversion Dam (1992)
+
+Location: Washington
+
+Client: HDR Engineering Inc., Bellevue
+
+Object: Rehabilitation and upgrading of 80 year old diversion dam
+
+Model type: River/hydraulic structure, 1:40 scale
+
+Uncertainty: The effect of design modifications on performance, and the mechanism for control of sediment & debris flows at intake and problems of flood passage during construction were unknown.
+
+Observations: Flow patterns and bed load movement for several gate alternatives and intake arrangements was observed, and downstream scour patterns were observed. A divide wall was required for the intake structure.
+
+Advancement: The cofferdam arrangement for construction was devised and the gate sequence operations for sediment evacuation were determined. The uncertainties were removed.
+
+...
+
+17 Belleville Hydroelectric Project (1994)
+
+Location: Ohio River, Ohio
+
+Client: Omega JV5, AMP - OHIO, Westerville
+
+Object: Study impact of powerhouse addition on project
+
+Model type: River model, scale 1:100; powerhouse section model, scale 1:30
+
+Uncertainty: The effect of cofferdam works and powerhouse discharge on navigation, stage, surge and sedimentation was observed. The powerhouse was located in a deep recess in the left bank.
+
+Observations: High left bank velocities and increased bed mobility were noted downstream from the powerhouse, requiring design changes in the powerhouse tailrace channel.
+
+Advancement: Design improvements were made, the uncertainties were removed and project development facilitated.
+
+[76] In his rebuttal report, in which he comments on Mr. Ploeg's report, Professor Smith stated:
+
+In all but one of the studies claimed by NHC, their client (or the client's engineer) had applied standard design practice in attempting to adapt a known engineering practice to a new situation. But they, or the regulatory agency responsible for granting approvals, or both, did not have a high degree of certainty that the resulting design would achieve the desired objectives. It is because of this uncertainty that an experimental investigation using hydraulic modelling was undertaken.
+
+[77] In paragraph 2.4 of his rebuttal report he observed:
+
+Given that extensive modifications were required on a number of the designs subjected to experimental evaluation and development and that the end product often bore little resemblance to the initial conceptual design, it is unrealistic to depict the technological character of the product (hydraulic structure or system) as being ‘substantially set'. Realistically the objectives were to determine if the initial design worked at all, to determine what the performance problems were, and to systematically resolve these problems in an experimental development program.
+
+A further indication that technological advancement occurred is related to the uncertainty, in the minds of the designers, or regulators, about the capability of the initial design to perform satisfactorily in terms of the design objectives. It is this uncertainty that resulted in the need to have NHC undertake an experimental investigation. In almost all cases the experimental work showed that the uncertainty was well founded as the experimental evaluation indicated significant performance problems. These problems were solved by subsequent experimental development work. It is my opinion that this constitutes a technological advance in that known engineering practices could, as a result of experimental development, be confidently applied to a new situation where this could not be done solely through application of standard design practice.
+
+[78] The conclusions stated in his rebuttal report were as follows:
+
+I have concluded that the Ploeg Report is incorrect with respect to the following:
+
+1. The basis for the NHC claim is in the area of experimental development of designs for hydraulic/sediment control structures, not in model testing technology.
+
+2. NHC work in development of designs for hydraulic/sediment control structures by physical hydraulic model testing does not fall in the category of standard practice in hydrotechnical engineering.
+
+3. The methodology followed by NHC in conducting their experimental studies was to use a hydraulic model as a tool to evaluate performance of their Client's initial design, to identify performance problems and to systematically solve these problems in an experimental development program. This differs significantly from a methodology whereby many variants of a design are tested with the test data then used to prepare a satisfactory and optimal design.
+
+4. NHC modelling specialists clearly had a major responsibility in the experimental development work in each of the studies included in the claim.
+
+5. A technological advance was made for each of the studies undertaken, including an increase in the technological knowledge base of the NHC specialists.
+
+[79] It was obvious that each expert had great respect for the ability, experience and qualifications of the other one. Although I recognize and respect Mr. Ploeg's expertise in this area, I have concluded that Professor Smith's opinion is more consonant with the evidence adduced and my own view of what constitutes SRED for the purposes of the Income Tax Act, except that I am not persuaded that the Schuylkill project constitutes SRED.
+
+[80] The respondent's position, ably articulated by Mr. Yaskowich, was essentially that the appellant, admittedly a world leader in the field of hydraulic model testing, by its own excellence sets the standard for what represents routine engineering or standard practice.
+
+[81] With respect I think that this sets an unrealistically high standard - indeed a standard of perfection that would discourage scientific research in Canada.
+
+[82] It is quite true, as Mr. Yaskowich observes, that the work done by NHC does raise the client's confidence in a solution that is proposed or devised, but I do not think that this fact in itself detracts from the nature of the activity, or makes it any the less SRED. He contends further that it is wrong to equate technological uncertainty with the client's lack of confidence that a design will work. Expressed in that way, I agree, but it goes beyond that. The technological uncertainty is something that exists in the mind of the specialist such as the appellant, who identifies and articulates it and applies its methods to remove that uncertainty.
+
+[83] I have concluded that four of the five projects described above qualify as SRED.
+
+[84] Since the parties are still actively negotiating figures counsel for the appellant is directed to prepare a draft judgment incorporating these conclusions. The appellant, having been substantially successful, is entitled to its costs.
+
+Signed at Ottawa, Canada, this 1st day of May 1998.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+
+COURT FILE NO.: Northwest Hydraulic Consultants Ltd. and Her Majesty The Queen
+
+STYLE OF CAUSE: 97-531(IT)G
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATES OF HEARING: February 16-18, 1998 and
+
+March 24, 1998
+
+REASONS FOR JUDGMENT BY: D.G.H. Bowman
+
+DATE OF REASONS: May 1, 1998
+
+APPEARANCES:
+
+Counsel for the Appellant: William A. Ruskin, Esq.
+
+Counsel for the Respondent: James O. Yaskowich, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: William A. Ruskin, Esq.
+
+Firm: Clark, Wilson
+
+Barristers & Solicitors
+
+Vancouver, British Columbia
+
+
+
+For the Respondent: George Thomson
+
+Deputy Attorney General of Canada
+
+Ottawa,Canada
+

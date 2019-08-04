@@ -1,0 +1,660 @@
+Date: 20020125
+
+Docket: 2001-347-IT-G
+
+BETWEEN:
+
+NOVA SCOTIA POWER INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Determination
+
+Bowman, A.C.J.
+
+[1] The parties have agreed to submit the following questions to the Tax Court of Canada for determination pursuant to section 173 of the Income Tax Act.
+
+(d) the questions for determination are, in the period up to 1992 when it disposed of its assets:
+
+(1) "Did Nova Scotia Power Corporation conduct its principal income-earning activities as an agent of Her Majesty the Queen such that section 2 of the Income Tax Act (including ancillary provisions such as section 21 of the Act) did not apply to it? And
+
+(2) If the answer to (1) is no, was Nova Scotia Power Corporation an agent of Her Majesty the Queen with respect to the ownership of assets used in its business such that section 21 of the Income Tax Act did not apply to depreciable assets acquired by it?"
+
+[2] The parties agreed on a statement of facts and on a large number of documents, some of which may be referred to in the course of these reasons. The parties themselves refer to Nova Scotia Power Inc. as the appellant and Her Majesty the Queen as the respondent. Although this is not an appeal but a reference I shall do the same.
+
+[3] The agreed statement of facts reads as follows:
+
+1. Prior to 1967, a system for producing and delivering electricity had evolved in Nova Scotia whereby the urban areas were serviced by private corporations, Eastern Light & Power Company Limited and Nova Scotia Light and Power Company Limited, while the rural areas were serviced by the Nova Scotia Power Commission (the "Commission"). A copy of the Power Commission Act, R.S.N.S. 1967, c. 233 is at Tab 1 of the Agreed Documents.
+
+2. In 1967, the Commission acquired the shares of Eastern Light & Power Company Limited and in 1972 acquired 99.65% of the common shares and approximately 98% of the preferred shares of Nova Scotia Light & Power Company Limited. The balance of the shares were acquired in due course.
+
+3. In 1973, the Government of Nova Scotia enacted amendments to the Power Commission Act which changed the name of that statute to the Power Corporation Act, continued the Commission as the Nova Scotia Power Corporation (the "Corporation") and enacted many other changes. The amendment to the Power Commission Act, S.N.S. 1973, c. 47 is at Tab 2 of the Agreed Documents. A consolidated copy of the Power Corporation Act, R.S.N.S. 1989, c. 351 is at Tab 3 of the Agreed Documents.
+
+4. After the enactment of the Power Corporation Act virtually all of the electricity in Nova Scotia was produced and delivered by the Corporation, all of the capital of which was owned by the Province.
+
+5. Between 1973 and 1992, the Corporation made significant borrowings, at least some of which were used for the acquisition of depreciable property used in the production and distribution of electricity.1 The borrowings in question were evidenced by debentures or savings bonds secured by the general credit of the Corporation and were guaranteed by the Province. Typical documents representing each type of borrowing are found at Tabs 12 and 13 respectively of the Agreed Documents.
+
+6. In each year the financial affairs of the Corporation were reported in its financial statements. The comparative financial statements of the Corporation are found at Tab 6 of the Agreed Documents and show the financial affairs from 1980 to 1993 inclusive.
+
+7. No tax was payable on the taxable income of the corporation under the Income Tax Act (the "Act") and the Corporation did not file income tax returns. In the result it did not deduct any amount in respect of capital cost allowance under paragraph 20(1)(a) of the Act, or as interest under any of paragraphs 20(1)(c), (d), (e), or (e.1) of the Act.
+
+8. In 1992 the Province enacted the Nova Scotia Privatization Act, S.N.S., c. 8 (a copy of which is at Tab 4 of the Agreed Documents) pursuant to which Nova Scotia Power Incorporated (the "Appellant") purchased the assets and undertaking previously used by the Corporation in the production and distribution of electricity. As a result of the application of subsection 85(5.1) of the Act, the capital cost of depreciable property acquired by the Appellant was equal to the capital cost of such property to the Corporation.
+
+9. In its original returns of income for the 1994, 1995 and 1996 taxation years the Appellant claimed capital cost allowance under paragraph 20(1)(a) of the Act on the basis that a portion of the interest expense on borrowed money used by the Corporation to acquire depreciable property was properly included in the capital cost of that property acquired by the Appellant.
+
+10. On May 29, 1998, the Corporation filed T2 corporation income tax returns for the taxation years ending March 31, 1980 to March 31, 1993 inclusive. In those returns of income the Corporation elected pursuant to subsection 21(1) and 21(3) of the Act, to add interest on money borrowed to acquire depreciable assets in the amount of $995,260,716 to the capital cost of those assets. (Copies of the returns including the elections are at Tab 5 of the Agreed Documents).
+
+11. Also in May, 1998, the Appellant filed revised capital cost allowance schedules for its 1994, 1995 and 1996 taxation years claiming additional capital cost allowance in the amounts of $46,092,405, $41,774,007 and $21,574,289 respectively on the basis that the amount of interest reflected in the said elections was properly included in computing the capital cost of such property.
+
+12. By Notices of Reassessment dated May 31, 1999, the Minister of National Revenue reassessed the Appellant for the 1994, 1995 and 1996 taxation years on the basis, inter alia, that in determining the undepreciated capital cost of depreciable property of the Appellant, the capital cost of the property acquired from the Corporation should be determined without including any amount in respect of interest on borrowed money used by the Corporation to acquire such property.
+
+13. The Minister's reassessments were based, inter alia, on the assumption that throughout the period with respect to which the Corporation sought to apply subsections 21(1) and 21(3) of the Act, the Corporation was an agent of Her Majesty the Queen in right of Nova Scotia, with the consequence that the Act had no application to the Corporation pursuant to section 17 of the Interpretation Act (Canada).
+
+14. By letter dated June 8, 1999 the Appellant sought a determination of law pursuant to subsection 152(1.1) of the Act. A Notice of Loss Determination was issued on July 2, 1999 and by Notices of Objection filed on July 13, 1999 the Appellant objected to the Notices of Loss Determination for the years 1994, 1995 and 1996.
+
+_________________________________________
+
+1 The question of how much of the borrowed money was used to acquire depreciable property is a separate issue which the parties are not asking the Court to determine.
+
+[4] The relevance of the questions in the stated case is this. The theory is that if Nova Scotia Power Corporation ("NSPC") carried on its income earning activities as an agent of Her Majesty the Queen in right of Nova Scotia, the Income Tax Act did not apply to it by reason of section 17 of the Interpretation Act. The result, according to the appellant, of an affirmative answer to either question is that subsections 21(1) and 21(3) of the Income Tax Act did not apply and accordingly the elections that the appellant made or purported to make could not validly be made under those subsections. The appellant's theory was that if NSPC was not an agent of Her Majesty the Queen in respect of the matters set out in the stated case its exemption from tax derived from paragraph 149(1)(d) of the Income Tax Act, not from its being an agent[1] of the Crown, but from being a corporation 90% of whose shares were owned by Her Majesty the Queen in right of the Province of Nova Scotia. If this is so the application of the Income Tax Act to NSPC is not ousted by section 17 of the Interpretation Act and it remains a corporation subject to the Income Tax Act, capable of filing income tax returns (late, as it happens), computing its income, and making elections under subsections 21(1) and 21(3). That, at least, is the theory. I am not called on to express an opinion whether the overall scheme worked or whether all of the various components necessary to its success fall as expected into place.
+
+[5] My only task is to decide the questions in the stated case. Before I attempt to answer the questions I should be clear on what is being asked. The parties, I assume, would not consider it useful simply to have an answer to the question "up to 1992 was Nova Scotia Power Corporation an agent of Her Majesty the Queen?" Subsection 4(1) of the Power Corporation Act, R.S.N.S. 1989, c. 351, reads:
+
+The Commission shall continue as a body corporate and as agent of Her Majesty in right of the Province under the name of the Nova Scotia Power Corporation and shall consist of a Board of Directors comprised of a Chairman, President and not more than twelve other Directors.
+
+[6] Evidently the parties believe that this provision by itself does not provide a resolution of the question giving rise to the difference between them.
+
+[7] Section 17 of the Interpretation Act reads:
+
+No enactment is binding on Her Majesty or affects Her Majesty or Her Majesty's rights or prerogatives in any manner, except as mentioned or referred to in the enactment.
+
+[8] The Crown contends that the exemption from federal income tax which NSPC enjoyed until 1992 derived from that section and not from paragraph 149(1)(d) of the Income Tax Act, which read in 1992 as follows:
+
+(d) a corporation, commission or association not less than 90% of the shares or capital or which was owned by Her Majesty in right of Canada or a province or by a Canadian municipality, or a wholly-owned corporation subsidiary to such a corporation, commission or association but this paragraph does not apply
+
+(i) to such corporation, commission or association if a person other than Her Majesty in right of Canada or a province or a Canadian municipality had, during the period, a right under a contract, in equity or otherwise either immediately or in the future and either absolutely or contingently, to, or to acquire, shares or capital of that corporation, commission or association, and
+
+(ii) to such wholly-owned subsidiary corporation if a person other than Her Majesty in right of Canada or a province or a Canadian municipality had, during the period, a right under a contract, in equity or otherwise either immediately or in the future and either absolutely or contingently, to, or to acquire, shares or capital of that wholly-owned subsidiary corporation or of the corporation, commission or association of which it is a wholly-owned subsidiary corporation.
+
+[9] The Income Tax Act contains other specific provisions relating to certain federal Crown corporations. For example, section 27 removes prescribed federal Crown corporations from the exemption in paragraph 149(1)(d), and subsection 124(3) prohibits such prescribed Crown federal corporations[2] from making a deduction under subsection 124(1). Other sections of the Income Tax Act deal specifically with the liability of prescribed federal Crown corporations under Part IV.1, Part VI and Part VI.1 (sections 187.61, 190.211 and 191.4).
+
+[10] Section 27 of the Income Tax Act read as follows.
+
+(1) This Part applies to a prescribed federal Crown corporation as though any income or loss from
+
+(a) a business carried on by the corporation as agent of Her Majesty, and
+
+(b) a property of Her Majesty administered by the corporation,
+
+were an income or loss, as the case may be, of the corporation therefrom.
+
+(2) Notwithstanding any other provision of this Act, a prescribed federal Crown corporation and any corporation controlled by such a corporation shall be deemed not to be a private corporation and paragraph 149(1)(d) does not apply thereto.
+
+(3) Where land of Her Majesty has been transferred to a prescribed federal Crown corporation for purposes of disposition, the acquisition of the property by the corporation and any disposition thereof shall be deemed not to have been in the course of the business carried on by the corporation.
+
+[11] It is interesting that up to 1998, subsection 27(1) referred to "prescribed federal Crown corporation". In 1998 subsection 27(1) was amended to remove "prescribed" although the word remained in subsections (2) and (3).
+
+[12] I mention these specific references to Crown corporations simply to illustrate that Parliament has seen fit to grant an exemption to some government owned corporations and to take it away from others. Whether this helps or hinders in finding an answer to the questions asked is uncertain, but it does indicate at least that Parliament was not content to leave the taxability or non-taxability of Crown corporations to section 17 of the Interpretation Act or to some common law prerogative rule concerning the application of statutes to the Crown. I should have thought that an argument might have been made that since Parliament has seen fit to deal specifically with Crown corporations in the Income Tax Act (and thereby impliedly, if not expressly, making them subject to the Income Tax Act if only to exempt them) the provisions of the Act dealing with Crown corporations (including those that are agents of Her Majesty the Queen) take precedence over section 17 of the Interpretation Act. A possible answer to this argument is that section 27 deals specifically with prescribed federal Crown corporations that carry on business as agents of Her Majesty or administer property of Her Majesty and treats the income or loss from such activities as being that of the corporation (and not Her Majesty). Such income is treated as not exempt under paragraph 149(1)(d). Any other federal Crown corporations (non-prescribed) that carry on business or hold property as agents of Her Majesty the Queen fall outside of section 27 of the Income Tax Act and are exempt under section 17 of the Interpretation Act. The answer to this counter argument would be that if such Crown corporations who perform those activities as agents of Her Majesty are not within paragraph 149(1)(d) because they are exempt under section 17 of the Interpretation Act why was it necessary to remove them from paragraph 149(1)(d) by subsection 27(2)? The way the parties have however phrased the question under section 173 precludes my dealing with these interesting but hypothetical arguments.
+
+[13] Question (1) is divisible into two parts: up to 1992 when it disposed of its assets:
+
+(i) did NSPC carry on its principal income earning activities as an agent of Her Majesty the Queen?
+
+(ii) such that section 2 of the Income Tax Act (including an ancillary provision such as section 21 of the Income Tax Act) did not apply to it?
+
+[14] It is not clear from the form of the question whether it is premised on the assumption that an affirmative answer to part (i) entails as a necessary consequence the conclusion stated in part (ii) or whether an affirmative answer to part (i) requires a further determination of the correctness of the conclusion stated in part (ii) of the question.
+
+[15] The same problem exists with the double-barrelled portmanteau question (2). I shall not assume that the parties intended me to deal with both parts of each question. If they do want a determination whether the conclusion stated in the second part of each question follows as the result of an affirmative answer to the first part or whether a negative answer to the first part necessarily negates the second part they should apply to the court with further argument and if necessary further evidence. I am not prepared to deal with the second half of each question on the basis of the material before me.
+
+[16] Mr. Mitchell rephrased the questions as being essentially "whose income is it?" Putting it that way has a certain attraction, but in my respectful view it may be too simplistic and an answer to the question stated in that way would not be particularly edifying. I should have thought that it might have been useful to ask whether the exemption from tax of NSPC derived from section 17 of the Interpretation Act or subsection 149(1)(d) of the Income Tax Act.
+
+[17] A number of observations should be made at the outset.
+
+1. In section 17 of the federal Interpretation Act the reference to Her Majesty includes a reference to Her Majesty in right of a province: Alberta Government Telephones v. C.R.T.C., [1989] 2 S.C.R. 225 at pp. 271-275, per Dickson C.J.; Brant (R.G.) v. Canada, [1998] G.S.T.C. 101 (F.C.T.D.).
+
+2. The prerogative of Crown exemption from the application of statutes has existed before section 17 of the Interpretation Act: Reference re: Precious Metals in Certain Lands of Hudson's Bay Company, [1927] S.C.R. 458 at p. 478, per Anglin C.J., aff'd sub nom Hudson's Bay Company v. Attorney General for Canada et al., [1929] 1 W.W.R. 287 (P.C.); Her Majesty in Right of the Province of Alberta v. Canadian Transport Commission, [1978], 1 S.C.R. 61, per Laskin C.J., at p. 69, quoting Province of Bombay v. Municipal Corporation of Bombay, [1947] A.C. 58 at p. 61, per Lord du Parcq:
+
+The general principle to be applied in considering whether or not the Crown is bound by general words in a statute is not in doubt. The maxim of the law in early times was that no statute bound the Crown unless the Crown was expressly named therein, "Roy n'est lie par ascun statute si il ne soit expressement nosme." But the rule so laid down is subject to at least one exception. The Crown may be bound, as has often been said, "by necessary implication." If, that is to say, it is manifest from the very terms of the statute, that it was the intention of the legislature that the Crown should be bound, then the result is the same as if the Crown had been expressly named. It must then be inferred that the Crown, by assenting to the law, agreed to be bound by its provisions.
+
+3. Whether section 17 of the Interpretation Act displaces the common law Crown immunity rule is perhaps open to question but if it does it does so only to the extent of that portion of the rule expressed in section 17. It is not a complete code with respect to all aspects of the rule relating to Crown exemption from the application of statutes. For example, nowhere in section 17 is the subsidiary rule stated that the Crown may exercise any right or claim any benefit conferred by a statute even though it does not apply to the Crown expressly or by necessary intendment: Toronto Transportation Commission v. The King, [1949] S.C.R. 510. There has been some doubt expressed whether the Crown can take the benefit of a statute by which it is not otherwise bound without having to assume the duties or obligations of the statute: Cayzer Irvine & Co. v. Board of Trade, [1927] 1 K.B. 269 at p. 294, per Scrutton L.J. The view in Canada appears to be that it cannot: Her Majesty in Right of the Province of Alberta v. Canadian Transport Commission (supra); Sparling v. Caisse de dépôt et de placement, [1988] 2 S.C.R. 1015.
+
+Section 17 of the Interpretation Act does not in my view render inoperative all of the common law rules relating to Crown immunity.
+
+4. It is a matter of interpretation whether section 17 of the Interpretation Act and paragraph 149(1)(d) of the Income Tax Act are mutually exclusive provisions. Some corporations described in paragraph 149(1)(d) of the Income Tax Act may well possess as well the attributes of agency of Her Majesty the Queen that would exempt them from the operation of the Income Tax Act under section 17 of the Interpretation Act. It is not necessary at this stage to decide whether, even assuming that section 17 of the Interpretation Act otherwise applied to NSPC, it could also claim exemption under paragraph 149(1)(d) on the basis of one of two arguable propositions which may be expressed as follows:
+
+(i) Paragraph 149(1)(d) and related sections in the Income Tax Act contain a complete code with respect to Crown corporations whether they be agents of Her Majesty the Queen or not and therefore the Income Tax Act either expressly or by necessary implication applies to all Crown corporations.
+
+(ii) Even if NSPC is an agent of Her Majesty the Queen to the extent necessary to make section 17 of the Interpretation Act applicable to it, it can still take advantage of the provisions of the Income Tax Act on the basis of the corollary to the Crown immunity rule stated in 3 above that the Crown is not bound by statutes unless mentioned or referred to therein but it can take advantage of them.
+
+These are not questions that I need answer in this reference.
+
+5. The mere fact that a corporation is described in the statute creating it as "an agent of Her Majesty the Queen" does not mean that it is an agent for all purposes: British Columbia Power Corporation Ltd. v. Attorney General of British Columbia and British Columbia Electric Co. Ltd., 34 D.L.R. (2d) 25.
+
+6. There is a distinction between "agent of Her Majesty" and "agent of Her Majesty for all purposes": Regina v. Eldorado Nuclear Limited, Regina v. Uranium Canada Limited, 4 D.L.R. (4th) 193 (S.C.C.).
+
+7. The mere fact that a corporation is wholly owned by a shareholder does not make it an agent of its shareholder: Denison Mines Ltd. v. M.N.R., [1971] C.T.C. 640.
+
+8. Where Parliament has dealt with some specificity with a particular situation there is at least a prima facie presumption that the specific provision is to apply and not the general: Munich Reinsurance Co. (Canada Branch) v. The Queen, 2002 DTC 6701. The question would be, if it were relevant to this reference, what is the specific and what is the general?
+
+Again, the application of this doctrine is not necessarily germane to the question posed in the stated case but I mention it as well as some of the other points set out above as being one aspect of a larger problem that this reference raises. I shall deal with the question as it has been put to me, but I am far from satisfied that it will provide a complete answer to the problem that the parties are seeking to resolve.
+
+[18] One cannot approach the question whether a corporation is an agent of Her Majesty the Queen for all purposes so that its income is earned and its property held for and on behalf of the Crown as a pure question of law, divorced from what the parties actually did. This proposition is true whether we are dealing with Crown corporations or corporations owned by private individuals. In Denison Mines (supra) Cattanach J. said at pp. 660-662:
+
+Briefly the appellant's position is that the business of Con-Ell was in reality the business of the appellant and in contra-distinction thereof the position of the Minister rests on the case of Salomon v. Salomon, [1897] A.C. 22, that there are two separate legal entities and the losses of one are not the losses of the other.
+
+It is well settled that the mere fact that a person holds all the shares in a company does not make the business carried out by that company the shareholder's business, nor does it make that company the shareholder's agent for carrying on the business. However it is conceivable that there may be an arrangement between the shareholder and the company which will constitute the company the shareholder's agent for the purpose of carrying on the business and so make the business that of the shareholder. It is immaterial that the shareholder is itself a limited company.
+
+The question therefore is whether in the circumstances of the present appeal such an arrangement exists. The basis of agency is a contractual relationship either express or implied. There was no express arrangement here and whether one may be implied is a question of fact based on the circumstances of each particular case.
+
+Counsel for the appellant relied strongly on Smith Stone and Knight Ltd. v. Birmingham Corporation, [1939] 4 All E.R. 116. In this case the plaintiff company was the sole shareholder of a subsidiary company. The premises occupied by the subsidiary were expropriated by the defendant. The parent company sought compensation for business disturbance on the ground that the subsidiary's business was the parent's business. The claim was contested on the ground that the proper claimant was the subsidiary, that being a separate entity.
+
+Atkinson, J. reviewed the authorities and found six points that were relevant for the determination of the question: Who was really carrying on the business? Those points were:
+
+1. Were the profits treated as the profits of the parent company? Here there were no profits but losses.
+
+2. Were the persons conducting the business appointed by the parent company?
+
+3. Was the parent company the head and brain of the trading venture?
+
+4. Did the parent company govern the adventure, decide what should be done and what capital should be embarked on the venture?
+
+5. Did the parent company make the profits by its skill and direction? In the present appeal were the losses incurred by the appellant's direction? and
+
+6. Was the parent company in effectual and constant control.
+
+On the evidence in the present appeal each of the six questions so posed must be answered in the affirmative but in my opinion this is not conclusive. The points outlined by Atkinson, J. are but indicia helpful in determining the question. Other factors may be present which point to a different conclusion.
+
+Later Atkinson, J. said at page 121:
+
+... Indeed, if ever one company can be said to be the agent or employee, or tool ... of another, I think the (subsidiary) company was in the case a legal entity, because that is all it was. There was nothing to prevent the claimants at any moment saying: "We will carry on the business in our own name."
+
+(Brackets are mine.)
+
+Here the very reason for the incorporation of Con-Ell was predicated on the legal advice that the appellant would be in breach of the conditions of the trust deed if it conducted the housing operation on its own account. It is a principle of agency that a person cannot do by an agent what he cannot do himself.
+
+Here Con-Ell acted as principal. It contracted with the building contractor. It obtained bank loans. Because the subsidiary was without a backlog of security the bank insisted upon a guarantee of the subsidiary's indebtedness by the appellant, but it was Con-Ell that contracted the debt as principal and the appellant acted as guarantor only and the appellant also acted as guarantor of Con-Ell to Central Mortgage & Housing Corporation with which corporation Con-Ell contracted directly. Therefore the appellant did not hold out Con-Ell as its agent, nor did Con-Ell purport to act on behalf of a principal undisclosed or otherwise.
+
+Con-Ell was carrying on business and it is important to bear in mind that limited companies that carry on businesses are separate taxable persons and the profits of their respective businesses are separate taxable profits whether or not one be the subsidiary of the other. Any attempt to erode this principle must be based upon clear and unequivocable facts leading to the irrebutable conclusion that one legal entity is acting as the agent of another and that legal entity is really doing the business of the other and not its own at all.
+
+In my view the facts in the present appeal do not justify such a conclusion for the reasons I have expressed.
+
+[19] It is interesting that Cattanach J. found that the subsidiary met all of the conditions listed by Lord Atkinson and still held that the subsidiary was not an agent of the parent company.
+
+[20] Leaving aside for the moment the fact that subsection 4(1) of the Power Corporation Act states that NSPC is an agent of Her Majesty the Queen, do the facts here justify the conclusion that NSPC was carrying on business and owning property as an agent of Her Majesty the Queen? Counsel for the appellant pointed to a number of factors that he contends are inconsistent with such a conclusion.
+
+(a) The Power Corporation Act treated NSPC as a separate entity: it had the power to acquire assets, (paragraph 7(1)(a)) to borrow on its own undertaking (subsections 8(1) and (2)), contract (subsection 29(1)) and use the profits as the board of directors saw fit (subsection 29(2)).
+
+(b) The board of directors ran NSPC as they saw fit and not under the direction of the province.
+
+(c) NSPC was not held out as an agent of Her Majesty the Queen. The province guaranteed the debts but this in itself does not make NSPC an agent of the Crown.
+
+[21] Some of these factors were considered relevant in Metropolitan Meat Industry Board v. Sheedy, [1927] A.C. 899 (J.C.), discussed below.
+
+[22] Counsel for the respondent relies essentially upon two broad arguments:
+
+(a) that NSPC was an agent of Her Majesty the Queen in right of Nova Scotia for the purpose of carrying on its business of producing and supplying electricity,
+
+(b) that NSPC, having represented to the Minister of National Revenue that it was an agent of Her Majesty in right of Nova Scotia, as against the Minister of National Revenue, is estopped from denying the truth of that assertion.
+
+[23] I shall deal with the second argument first. The estoppel, according to the respondent, arises in the following manner.
+
+[24] Paragraphs 27 and 28 of the respondent's submissions read: (footnotes omitted)
+
+27. Further, it is submitted that, as against the Minister of National Revenue, NSPC should be estopped from denying that it was, throughout the period 1973 to 1992, an agent of Her Majesty in right of Nova Scotia.
+
+a) A representation was made to that effect.
+
+b) The representation was, despite initial reservations, accepted and relied upon by the Minister of National Revenue.
+
+c) The Minister of National Revenue suffered a detriment as a result. The immediate and tangible detriment was the loss of some quantum of corporate income tax from NSPL. More intangible was the loss of the opportunity to review and perhaps audit corporate returns of income of NSPC while the years in issue were relatively current and records readily available.
+
+28. Although the representation in 1973 was that of NSPC, and the Appellant NSPI therefore may not be estopped from denying the truth of that representation, it is submitted that NSPI, having essentially inherited the capital cost of NSPC's assets, cannot be in a better position with respect to that capital cost than NSPC itself would be.
+
+[25] Paragraphs 9, 10, and 11 of the respondent's submissions read: (footnotes omitted)
+
+9. NSPC did not initially control all of the shares of its subsidiary, Nova Scotia Power and Light Company Limited ("NSPL"). Consequently, NSPL would not in 1973, have been exempt from federal income taxation under s. 149(1)(d) of the Income Tax Act because it would not have been a "wholly-owned subsidiary" of NSPC.
+
+10. NSPC represented to Revenue Canada that NSPL was exempt from federal income taxation because NSPC had acquired the shares "on behalf of the Government". NSPC expressly relied on the then-new 'agency clause' in the Power Commission Act.
+
+11. Revenue Canada accepted NSPC's representation that NSPL was owned by NSPC as agent for the provincial Government, and allowed NSPL to escape taxation in 1973.
+
+[26] The representation is contained in a letter from NSPC dated May 8, 1973 to the Department of National Revenue. The letter reads:
+
+Mr. H.K. Hingston
+
+Chief of Audit
+
+Department of National Revenue
+
+Taxation
+
+1557 Hollis Street
+
+Halifax, Nova Scotia
+
+Dear Mr. Hingston:
+
+Income Tax - Nova Scotia Light and Power Company, Limited
+
+Thank you for the kind reception which you gave Messrs. Gurnham, Spencer and myself on Tuesday past. I feel we had a worthwhile discussion of the matter at hand.
+
+As requested, I am enclosing copies of letters from our solicitor, dated April 30, 1973 and May 3, 1973 dealing with the subject of the Power Corporation being an agent of the Province of Nova Scotia.
+
+You will note the reference in Mr. Mann's letter of May 3, 1973, to Section 4(1) of the Power Corporation Act. The Power Commission Act was amended at the 1973 Session of the Nova Scotia Legislature, and since I doubt the amendment has been printed as yet, I enclose a copy of Bill 54 which was assented to and proclaimed on March 29, 1973.
+
+With further reference to Mr. Mann's opinion, I would confirm that the decision to purchase the shares of Nova Scotia Light and Power Company, Limited was made by the Government of Nova Scotia, and the Nova Scotia Power Commission, as it was then known, was requested to make an offer and purchase the shares on behalf of the Government.
+
+During a previous meeting Mr. H.E. Spencer had with members of your office, he explored the applicability of tax to the earnings of Nova Scotia Light and Power Company, Limited during the first 19 days of 1972. He advanced certain reasons supporting his contention that tax is not applicable to this period, and as you will recall he reviewed those reasons at our May 1, 1973 meeting. As a follow up to Mr. Spencer's remarks, copies of letters dated April 16, 1973 and May 1, 1973 from Canada Permanent Trust Company and Montreal Trust Company are enclosed certifying the number of shares of Nova Scotia Light and Power Company, Limited held by these respective companies at December 31, 1971.
+
+Please let me know if I can provide you with any additional information.
+
+Yours very truly,
+
+[signed]
+
+R.C. Fraser, C.A.
+
+Vice President - Finance
+
+[27] To that letter were attached two letters to NSPC dated April 30, 1973 and May 3, 1973, from the solicitors MacKeigan, Cox, Downie & Mitchell to NSPC:
+
+April 30, 1973.
+
+Mr. R.C. Fraser,
+
+Vice President - Finance,
+
+Nova Scotia Power Corporation,
+
+P.O. Box 910,
+
+Halifax, Nova Scotia.
+
+Re: Purchase Nova Scotia Light and Power
+
+Company, Limited shares by Nova Scotia
+
+Power Corporation.
+
+Dear Sir:
+
+Further to our correspondence with respect to the above noted matter we wish to advise that we are of the opinion that the Corporation is an agent of the Province of Nova Scotia and the shares of Nova Scotia Light and Power Company, Limited are held by the Corporation as such agent.
+
+We therefore submit that Section 149(1)(d) of the Income Tax Act exempts Nova Scotia Light and Power Company, Limited from the payment of income tax as and from the date on which the Corporation acquired 90% of the Nova Scotia Light shares.
+
+Yours very truly,
+
+MacKEIGAN, COX, DOWNIE & MITCHELL.
+
+[signed]
+
+D. McD. Mann.
+
+May 3, 1973.
+
+Mr. R.C. Fraser,
+
+Vice President - Finance,
+
+Nova Scotia Power Corporation,
+
+P.O. Box 910,
+
+Halifax, Nova Scotia.
+
+Re: Nova Scotia Light and Power Company,
+
+Limited purchase of shares by Nova Scotia
+
+Power Corporation.
+
+Dear Sir:
+
+Further to my letter of April 30th with respect to our opinion that the Corporation is an agent of the Province of Nova Scotia we would refer specifically to Section 4(1) of Chapter 233 Revised Statutes of Nova Scotia, 1967, as amended, which states that "The Commission shall continue as a body corporate and as agent of Her Majesty the Queen in the right of the Province under the name of Nova Scotia Power Corporation ...".
+
+At common law the question as to whether a division of Government or a commission or some other body was an emanation of the Crown and/or agent of the Crown depended largely on the amount of control which Her Majesty exercised over such body.
+
+The control which the Province exercises over the Corporation is complete. For example, the Board of Directors, including the President and Chairman, are appointed by the Governor in Council. Any issue of bonds, debentures or other securities by the Corporation must be approved by the Governor in Council. All municipal contracts and industrial contracts, with an initial installed transformer capacity in excess of 500 KVA, must be approved by the Governor in Council.
+
+The general objects of the Corporation are to develop for Nova Scotia the maximum use of power on an economic and efficient basis and it was with a view to attaining this object that the Government of the Province of Nova Scotia decided to make an offer for the shares of Nova Scotia Light and Power Company, Limited. The Corporation then purchased the shares on behalf of the Province.
+
+It is therefore apparent that the Corporation holds the shares of Nova Scotia Light and Power Company, Limited as agent for the Province of Nova Scotia.
+
+Yours very truly,
+
+MacKEIGAN, COX, DOWNIE & MITCHELL.
+
+[signed]
+
+D. McD. Mann.
+
+[28] I do not think that these representations give rise to an estoppel. In S. Goldstein v. Canada, [1995] 2 C.T.C. 2036, the question of estoppel was discussed at some length at pages 2045-6:
+
+I come next to the question of estoppel.
+
+There is much authority relating to the question of estoppel in tax matters and no useful purpose would be served by yet another review of the cases. I shall endeavour however to set out the principles as I understand them, at least to the extent that they are relevant. Estoppels come in various forms—estoppel in pais, estoppel by record and estoppel by deed. In some cases reference is made to a concept of "equitable estoppel", a phrase which may or may not be accurate. (See Canadian Pacific Railway Co. v. The King, [1931] A.C. 414 at page 429. Cf. Central London Property Trust Ltd. v. High Trees House Ltd., [1947] 1 K.B. 130.) It is sufficient to say that the only type of estoppel with which we are concerned here is estoppel in pais. In Canadian Superior Oil Ltd. v. Paddon-Hughes Development Co., [1970] S.C.R. 932 at pages 939-40 Martland J. set out the factors giving rise to an estoppel as follows:
+
+The essential factors giving rise to an estoppel are I think:
+
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+
+(3) Detriment to such person as a consequence of the act or omission.
+
+Estoppel is no longer merely a rule of evidence. It is a rule of substantive law.3 Lord Denning calls it "a principle of justice and of equity". (See Moorgate Mercantile Co. v. Twitchings, [1976] 1 Q.B. 225, at page 241.)
+
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to the Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment.4 The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.5
+
+The question of the interpretation of paragraph 146(1)(c) is a matter of law and I must decide it in accordance with the law as I understand it. I cannot avoid that obligation because the Department of National Revenue may previously have adopted an interpretation different from that which it now propounds. The question is not whether the Crown is bound by an earlier interpretation upon which a taxpayer has relied. It is more to the point to say that the courts, who have an obligation to decide cases in accordance with the law, are not bound by representations, opinions or admissions on the law expressed or made by the parties.6
+
+The result of the application of the rule in Maritime Electric and the many other cases to the same effect can have, in particular cases, unfortunate consequences for a taxpayer who, in good faith, relies upon a departmental interpretation that is subsequently changed. Nonetheless it is not in the interests of justice that the courts should be fettered by erroneous interpretations of the law by departmental officials.7
+
+______________________
+
+3Halsbury's Laws of England, 4th ed. vol. 16, page 840, paragraph 951.
+
+4Robertson v. Minister of Pensions, [1949] 1 K.B. 227; The Queen v. Langille, [1977] C.T.C. 144, 77 D.T.C. 5086. The earlier cases are fully reviewed by Cameron J. in Woon v. M.N.R., [1950] C.T.C. 263, 50 D.T.C. 871.
+
+5Maritime Electric Co. v. General Dairies Ltd., [1937] A.C. 610; M.N.R. v. Inland Industries Ltd., [1972] C.T.C. 27, 72 D.T.C. 6013 (S.C.C.); Stickel v. M.N.R., [1972] C.T.C. 210, 72 D.T.C. 6178 (F.C.T.D.); [1973] C.T.C. 202, 73 D.T.C. 5178 (F.C.A.); [1974] C.T.C. 416, 74 D.T.C. 6268 (S.C.C.); Granger v. Canada (Employment and Immigration Commission), [1986] 3 F.C. 70, 29 D.L.R. (4th) 501; [1986] 1 S.C.R. 141, 91 N.R. 63.
+
+6C.(G.) v.V.-F.(T.), [1987] 2 S.C.R. 244, 9 R.F.L. (3d) 263, at pages 257-58 (S.C.R.); Custom Glass Ltd. v. M.N.R., [1967] C.T.C. 289, 67 D.T.C. 5207 (Ex. Ct.), at page 294 (D.T.C. 5210); L.I.U.N.A. Local 527 Members' Training Trust Fund v. Canada, [1992] 2 C.T.C. 2410, 92 D.T.C. 2365 (T.C.C.), at page 2415 (D.T.C. 2369).
+
+7I leave aside entirely the question of advance rulings which form so important and necessary a part of the administration of the Income Tax Act. These rulings are treated by the Department of National Revenue as binding. So far as I am aware no advance ruling that has been given to a taxpayer and acted upon has ever been repudiated by the Minister as against the taxpayer to whom it was given. The system would fall apart if he ever did so.
+
+[29] The representation relied upon is essentially a conclusion of law, based upon an opinion from a firm of solicitors. Such an opinion or conclusion of law is entitled of course to respect but it cannot bind the court. Lawyers routinely make representations to the taxing authorities and in the course of doing so may express conclusions of law. The fact that the taxing authorities may accede to the tax result sought by the lawyers, whether or not they concur in the legal reasoning upon which the lawyers' arguments are premised, cannot give rise to an estoppel.
+
+[30] I turn now to the respondent's first argument. The facts upon which the respondent relies are set out in paragraphs 13 to 20 of the respondent's written argument: (footnotes omitted)
+
+13. In addition to the 'agency clause', the Power Corporation Act provided for de jure control of the operations of NSPC by the provincial government by requiring Governor-in-Council approval for:
+
+a) Any significant borrowing;
+
+b) Any contract to supply electricity which involved initial installed transformer capacity in excess of 500 kilovolt amperes.
+
+14. NSPC was accorded the same privileges as the Crown under the Crown Liability Act. Those privileges included the right to notice of impending litigation, immunity from injuctive relief, immunity from execution and immunity from the jurisdiction of the Small Claims Court. NSPC exercised those privileges with respect to all litigation, without exception. Litigation against NSPC was commenced by service on the Attorney-General of the Province, rather than by service on NSPC, and that procedure was insisted upon by NSPC.
+
+15. Employees of NSPC were covered by the provincial Superannuation Act.
+
+16. NSPC was subject to the jurisdiction of the provincial Ombudsman and was subject to audit by the provincial Auditor General.
+
+17. While the provincial Government generally left NSPC to manage the power generation and distribution business, there were few, if any, matters connected with that business where the provincial Government would not, on occasion, take an active role. These matters included:
+
+a) The review of NSPC's capital budget on an annual basis;
+
+b) The setting of rates for electricity;
+
+c) The management of public relations with respect to an increase in electricity rates;
+
+d) The negotiation of contracts to purchase coal;
+
+e) The decision to build new generation facilities;
+
+f) The approval of the method of borrowing money;
+
+g) The decision whether to export electricity;
+
+h) The decision as to where to build other facilities;
+
+i) The decision of whether or not a particular office should be closed;
+
+j) The setting of policy with respect to the sourcing of purchases;
+
+k) The setting of policy with respect to hiring and wage freezes;
+
+l) The setting of policy with respect to the early retirement of employees; and
+
+m) The setting of policy with respect to the collection of accounts from retail customers.
+
+18. An internal document of NSPC, prepared in the course of a strategic planning exercise and dated March 18, 1983, described NSPC as having a "dual mandate", the second of which was said to be "an instrument of public purpose". The report recognized the agency relationship with the government and made recommendations with respect to reconciling that relationship with the efficient management of a business corporation. The report to which this document was appended was approved by the Board of Directors of NSPC.
+
+19. The close relationship between NSPC and the provincial Government resulted in very frequent consultation between the Chairman of the Board of Directors of NSPC and the provincial Premier. It was desirable, if not essential, that the Chairman share the same vision as the Premier with respect to NSPC.
+
+20. When the business of NSPC was privatized in 1992, the provincial Crown joined in executing the General Conveyance of the "Power Assets" of NSPC to the privatized power corporation, NSPI (the Appellant). The provincial Crown also agreed to execute additional conveyances if requested to do so by NSPI.
+
+[31] I accept that these facts demonstrate that a significant degree of control by the province was potentially or actually exercised over the affairs of NSPC. Nonetheless, it does not follow from the fact that a corporation's business activities are closely controlled by its sole shareholder that the business and undertaking of that corporation is that of its shareholder: Odhams Press, Ltd. v. Cook, [1938] 4 All E.R. 545 at p. 551 (per Sir Wilfrid Greene M.R., C.A.), aff'd [1940] 3 All E.R. 15 (H.L.); Denison Mines (supra).
+
+[32] There is a significant distinction between a corporation's business being controlled by its shareholder and the corporation's business, undertaking and property being owned by the shareholder.
+
+[33] I do not think the facts support the conclusion that NSPC's business, income, undertaking and property were owned by the province of Nova Scotia. Such a conclusion would entail an assimilation of the corporation to the province. It is not a conclusion that I think is supportable in this case. The Power Corporation Act treated NSPC as owning its own property, carrying on its own business and owning its own property separate from the province. Under section 7 it had all of the powers of a company incorporated under the Companies Act except as otherwise provided. Under section 8 NSPC could borrow on its own credit and could issue bonds or debentures with the approval of the Governor-in-Council. The Governor-in-Council could lend money to the corporation and guarantee its debts. This last provision would be meaningless if the corporation were an agent or servant of the Crown in respect of its ownership and property and conduct of its business. Under section 10 the board had all of the usual powers of a board of directors of a corporation.
+
+[34] All of the foregoing is inconsistent with NSPC being an agent of Her Majesty in respect of its business and property.
+
+[35] There are, however, a number of provisions that are somewhat inconsistent with NSPC's not being an agent of the Crown in respect of its business and property. These include the treatment of the employees as public service employees for the purpose of the Public Service Superannuation Act (section 5), the corporation's powers of expropriation in section 9 and the application of the Proceedings against the Crown Act under section 15. All of these factors must be weighed and given their proper importance in the Power Corporation Act as a whole.
+
+[36] In my view the factors within the statute itself supporting the conclusion that NSPC is an independent corporation and not an agent of the Crown in respect of its business and the ownership of its property outweigh the factors that point in the opposite direction.
+
+[37] My second and final enquiry is to determine whether subsection 4(1) of the Power Corporation Act, which describes NSPC as an agent of Her Majesty the Queen, has the effect of making the business, assets and undertaking of NSPC the business, assets and undertakings of Her Majesty the Queen.
+
+[38] In B.C. Power Corp. (supra), DesBrisay C.J.B.C. said at pages 28-29:
+
+The legislation in question does not purport to do more than constitute Her Majesty the sole shareholder of the appellant company and does not thereby vest in Her Majesty any property or funds of the appellant nor make it Her Majesty's agent. It is quite clear that all the property and assets of the appellant company remain its own property and that it was the intent of the Act that this should be so. The funds to be paid over are not public funds. Its servants are not civil servants, it is not a government department and its property is not Crown property.
+
+In my opinion the words "an agent of Her Majesty the Queen" as they appear in s. 6(1) cannot be taken to constitute the appellant company an agent of the Crown except in such cases as it performs a duty for or carries out a direction, or acts for or on behalf of Her Majesty, or deals with or otherwise acts in respect of or holds public funds or property of Her Majesty. It is clear, in my view, that in carrying out the directions of the Legislature the company does not act as an agent of the Crown. See Minister of Finance of British Columbia v. The King, [1935] 3 D.L.R. 316 at pp. 322-3, [1935] S.C.R. 278 at pp. 285-6, where Davis, J., in delivering the judgment of the Court said:
+
+But a classic statement of the distinction between a Minister acting as a servant of the Crown and acting as a mere agent of the Legislature to do a particular act is that of Sir George Jessel when counsel in The Queen v. Lords Com'rs of the Treasury case ((1872), L.R. 7 Q.B. 387, at pp. 389-90):—
+
+"Where the legislature has constituted the Lords of the Treasury agents to do a particular act, in that case a mandamus might lie against them as mere individuals designated to do that act; but in the present case, the money is in the hands of the Crown or of the Lords of the Treasury as ministers of the Crown; in no case can the Crown be sued even by writ of right. If the Court granted a mandamus they would be interfering with the distribution of public money; for the applicants do not shew that the money is in the hands of the Lords of the Treasury to be dealt with in a particular manner."
+
+Here we have a particular fund established by the Legislature and created by the setting aside of a certain proportion of the fees paid by persons registering documents under the Land Registry Act so that a fund may be available to compensate those persons who have registered their documents and become deprived of their land or some interest therein in consequence of some fraud by other persons in procuring registration of documents under the Act. The fund is not public money of the Crown but the Minister of Finance for the Province has been designated by the Legislature to pay out of that fund damages sustained by persons who have been wrongfully deprived of their land in consequence of fraudulent registrations, upon proof by certificate of the Court of certain conditions prescribed by the statute. We are of opinion that in a proper case a mandamus lies against the Minister to compel payment out of the fund.
+
+[39] Sheppard J.A. said at pages 30-31:
+
+As to the discovery orders, the Electric Company claims to be an agent of the Crown and so to have come within the prerogative right of the Crown to be immune from discovery; that is, it has become "servants of the Crown to such an extent as to bring them within the principle of the prerogative": Metropolitan Meat Industry Bd. v. Sheedy, [1927] A.C. 899, per Viscount Haldane at p. 905. For that purpose the company relies upon s. 6(1) of the statute which reads: "The Company is an agent of Her Majesty the Queen in right of the Province." That a section does not state the transactions in respect of which the relationship of agency exists nor the powers of the agent in dealing in those transactions: the company contends that under s. 6(1) it has been made the agent of the Crown "for all purposes and with power to act only as agent".
+
+That construction meets difficulties. It adds words not found in the section and, in any event, the agency so defined does not necessarily bring the agent within the immunity. In Yeats v. Central Mtge & Housing Corp., [1950] 3 D.L.R. 801 at pp. 802-3, [1950] S.C.R. 513 at p. 515, Kerwin, J., said:
+
+While by s-s. (1) of s. 5 of the Act the Corporation is for all purposes an agent of His Majesty and its powers under the Act may be exercised by it only as agent of His Majesty, s-s. (2) provides that the Corporation may on behalf of His Majesty enter into contracts in the name of His Majesty or in the name of the Corporation. It being agreed that the contracts in question were entered into in the name of the Corporation, therefore, by virtue of s-s. (4), it may sue or be sued in respect of any right or obligation so acquired or incurred.
+
+And see Yellowknife Transportation Co. v. Reid & Moar & Crown Assets Disposal Corp. (1954), 14 W.W.R. 342, by Boyd McBride, J. Hence, whether or not the Electric Company has by the statute in question become an agent within the prerogative, immunity must be "determined by the true interpretation of the statute": Quebec Liquor Com'n v. Moore, [1924] D.L.R. 901 at p. 910, [1924] S.C.R. 540 at p. 551, per Duff, J., that is from the construction of the statute as a whole and not from the one section (6(1)). In construing the statute, regard should be had to those tests applied in determining whether or not there is such an agency as to come within the prerogative of the Crown and the immunity from discovery.
+
+[40] At page 35, he said:
+
+In conclusion, the Electric Company may be accurately described in the words of Denning,L.J., in Tamlin v. Hannaford, [1950] 1 K.B. at p. 24 as follows:
+
+These are great powers but still we cannot regard the corporation as being his agent, any more than a company is the agent of the shareholders, or even of a sole shareholder. In the eye of the law, the corporation is its own master and is answerable as fully as any other person or corporation. It is not the Crown and has none of the immunities or privileges of the Crown. Its servants are not civil servants, and its property is not Crown property. It is as much bound by Acts of Parliament as any other subject of the King. It is, or course, a public authority and its purposes, no doubt, are public purposes, but it is not a government department nor do its powers fall within the province of government.
+
+It follows that the statute in question does not constitute the Electric Company an agent of the Crown within the prerogative right of the Crown so as to be immune from discovery, and the appeal from the two discovery orders should be dismissed.
+
+[41] In Regina v. Eldorado Nuclear (supra), Dickson J. said at pages 205-206:
+
+Uranium Canada and Eldorado are each, by statute, expressly made "an agent of Her Majesty". Uranium Canada owes its status as a Crown agent to s. 10(4) of the Atomic Energy Control Act, which reads:
+
+10(4) A company is for all its purposes an agent of Her Majesty and its powers may be exercised only as an agent of Her Majesty.
+
+Eldorado's agency status derives from the Government Companies Operation Act, R.S.C. 1970, c. G-7; s.3, reads:
+
+3(1) Every Company is for all its purposes an agent of Her Majesty and its powers may be exercised only as an agent of Her Majesty.
+
+The fact that these statutory provisions make each of the respondent corporations "for all its purposes" an agent of the Crown does not mean, however, that these companies act as Crown agents in everything they do.
+
+Statutory bodies such as Uranium Canada and Eldorado are created for limited purposes. When a Crown agent acts within the scope of the public purposes it is statutorily empowered to pursue, it is entitled to Crown immunity from the operation of statutes, because it is acting on behalf of the Crown. When the agent steps outside the ambit of Crown purposes, however, it acts personally, and not on behalf of the State, and cannot claim to be immune as an agent of the Crown. This follows from the fact that s. 16 of the Interpretation Act works for the benefit of the State, not for the benefit of the agent personally. Only the Crown, through its agents, and for its purposes, is immune from the Combines Investigation Act.
+
+[42] At pages 206-207 he said:
+
+When the present proceedings were before the Ontario Court of Appeal this Court had not rendered judgment in the 1983 C.B.C. case. The Court of Appeal distinguished its own decision in that case on the basis that the Broadcasting Act makes the C.B.C. a Crown agent "for all purposes of this Act", while the Atomic Energy Control Act and the Government Companies Operation Act make each of the respondents in this appeal an agent of the Crown "for all its purposes". The Court of Appeal thought the latter words were broader than the words of the Broadcasting Act, and under the statutory provisions at issue here "there are no limits on the status of the agency".
+
+With respect, I disagree. The Broadcasting Act uses the words "purposes of this Act" in the agency clause because the C.B.C. is established by the Broadcasting Act and derives its corporate objects and powers from that Act (ss. 34(1), 39). Uranium Canada and Eldorado, on the other hand, are not created by the Atomic Energy Control Act or the Government Companies Operations Act, but are incorporated under the Canada Corporations Act, R.S.C. 1970, c. C-32, and receive their corporate objects and powers from that statute and from their letters patent. Under these circumstances, it would be inappropriate for the Atomic Energy Control Act or the Government Companies Operations Act to refer to the "purposes of this Act" in the agency clauses. For this reason I cannot accept that the difference in wording has the significance the Ontario Court of Appeal attributed to it. In my opinion, any limitations that might be imposed on the C.B.C.'s agency status by the words "purposes of this Act" are also imposed on the agency of Uranium Canada and Eldorado by the words "its purposes". That being so, the 1983 C.B.C. case makes the same point as the present one: a Crown agent is entitled to the benefit of the immunity afforded by s. 16 of the Interpretation Act only when it acts within the scope of the Crown purposes it is authorized to serve.
+
+[43] At pages 211-212 he said:
+
+As with Uranium Canada, agreements relating to the sale and supply of uranium fall within Eldorado's corporate objects. I note, however, that unlike Uranium Canada, Eldorado's corporate objects do not restrict it to acting with the approval of the Minister or the Governor in Council. Whatever the de facto relationship between Eldorado and the government may be, the company's corporate objects clauses and the relevant statutes leave it free to operate without government direction.
+
+Does Eldorado's independence in any way affect its right to claim Crown immunity? At common law the question whether a person is an agent or servant of the Crown depends on the degree of control which the Crown, through its Ministers, can exercise over the performance of his or its duties. The greater the control, the more likely it is that the person will be recognized as a Crown agent. Where a person, human or corporate, exercises substantial discretion, independent of ministerial control, the common law denies Crown agency status. The question is not how much independence the person has in fact, but how much he can assert by reason of the terms of appointment and nature of the office: Bank Voor Handel En Scheepvaart v. Administrator of Hungarian Property, [1954] A.C. 584 at pp. 616-7, and see Hogg, Liability of the Crown (1971), p. 207. While Uranium Canada would easily meet the common law test of Crown agency, since it needs approval of the Governor in Council for what it does, I think it is clear that the common law would not recognize Eldorado as a Crown agent since it does not meet the de jure control test. I do not, however, think that this deprives Eldorado of the right of Crown immunity when acting within its corporate purposes.
+
+The position at common law is not that those under de jure control are entitled to Crown immunity, but rather that immunity extends to those acting on behalf of the Crown. In Metropolitan Meat Industry Board v. Sheedy at al., [1927] A.C. 899, the Privy Council found the board not to be a Crown agent because "there is nothing in the statute which makes the acts of administration his [the Minister's] as distinguished from theirs" (p. 905). Sheedy is not an immunity case, rather, the question was whether Crown priority could be asserted in a liquidation. Nevertheless, it does indicate that the de jure test applies only in the absence of specific language indicating the body acts on behalf of or as an agent of the Crown: see also Tamlin v. Hannaford, [1950] 1 K.B. 18 (C.A.). A case such as British Columbia Power Corp. Ltd. v. A.-G. B.C. et al. (1962), 34 D.L.R. (2d) 25, 38 W.W.R. 657, is easily distinguishable. In that case the statutory designation of Crown agent was held not to be conclusive, because the statute did not say "for all its purposes". The majority concluded the statute made the Power Corporation an agent only for some purposes, not including the matter at issue in that appeal.
+
+[44] At page 213 he said:
+
+The "agent for all its purposes" designation was held to be determinative; there was no inquiry into the actual independence of Polymer. I think this case makes it clear that when an enactment refers to the Crown, and a particular body is expressly made a Crown agent for all purposes, the enactment embraces the statutory agent. This applies to the construction of s. 16 of the Interpretation Act.
+
+[45] A number of the cases cited above concern the question whether a corporation's being described as an agent of Her Majesty conferred on it all of the attributes associated with being the Crown, such as immunity from discovery. The question has, however, arisen in other contexts. For example, in Metropolitan Meat Industry Board (supra) the issue was whether a debt owing to the Metropolitan Meat Industry Board was a debt due to the Crown so that the board could claim priority over other unsecured creditors. This case which was cited with approval by Sheppard J.A. and by Dickson J.. Viscount Haldane, speaking for the Judicial Committee, referred to Coomber v. Justices of Berks, (1883) 9 App.Cas. 61, where the principle of the immunity of the Sovereign and of servants of the Crown acting in its service was again enunciated. The following passage from Lord Haldane's judgment at pp. 904-6 is illustrative of the distinction that must be considered here.
+
+But as the exemption was thus attributed to the quality of the prerogative, it is clear that each case had to be scrutinized in order to ascertain whether it really came within the scope of the principle so laid down. In Fox v. Government of Newfoundland, [1898] A.C. 667, such a question was brought before the Judicial Committee. It was held that balances in the books of a bank to the credit of the various local boards administering education in the colony were not debts to which the priority applied that had been given to debts due to the Crown or the Government as revenues of the colony. The reason was that the various boards of education were not mere agents of the Government for the distribution of money entrusted to them, but were to have, within the limits of general educational purposes, uncontrolled discretionary power in expending it. The service, in other words, was not treated as being the service of the Sovereign exclusively within the meaning of the principle, but their own service. Gilbert v. Trinity House, (1886) 17 Q.B.D. 795, further illustrates this aspect of the question.
+
+In the statute before their Lordships they think it not immaterial to observe that under the previous legislation of 1902 the local authorities entrusted with the powers which the Act of 1915 readjusts were certainly not constituted servants of the Crown under the then existing Acts. Their Lordships agree with the view taken by the learned judge in the Court below that no more are the appellant Board constituted under the Act of 1915 servants of the Crown to such an extent as to bring them within the principle of the prerogative. They are a body with discretionary powers of their own. Even if a Minister of the Crown has power to interfere with them, there is nothing in the statute which makes the acts of administration his as distinguished from theirs. That they were incorporated does not matter. It is also true that the Governor appoints their members and can veto certain of their actions. But these provisions, even when taken together, do not outweigh the fact that the Act of 1915 confers on the appellant Board wide powers which are given to it to be exercised at its own discretion and without consulting the direct representatives of the Crown. Such are the powers of acquiring land, constructing abattoirs and works, selling cattle and meat, either on its own behalf or on behalf of other persons, and leasing its property. Nor does the Board pay its receipts into the general revenue of the State, and the charges it levies go into its own fund. Under these circumstances their Lordships think that it ought not to be held that the appellant Board are acting mainly, if at all, as servants of the Crown acting in its service.
+
+(emphasis added)
+
+[46] The same principle was enunciated in Fox v. Government of Newfoundland, (1898) A.C.667.
+
+[47] My conclusion from the principles enunciated in these cases is that the words "agent of Her Majesty the Queen" do not go so far as to make NSPC an agent for all purposes, or make it an agent of Her Majesty the Queen so that it held its income, business, undertaking and property for and on behalf of Her Majesty the Queen. It is of significance that even in cases where the designation of "agent for all its purposes" is used the assimilation of the corporation to the Crown is not complete.
+
+[48] The distinctions drawn in some of the cases referred to above tend to be rather fine. We find such phrases as "agent of Her Majesty", "agent of Her Majesty for all purposes", "agent of Her Majesty for all purposes of the Act", and "agent of Her Majesty for all its purposes". Generally speaking courts have treated "agent of Her Majesty" as connoting a different and more restricted quality of agency from that which the more extended phrases imply. What does emerge from these authorities is that courts have been reluctant to confer on corporations and boards owned or controlled by the Crown privileges and immunities enjoyed by the Crown merely because these entities happen to be called agents of Her Majesty the Queen.
+
+[49] In Mr. Mitchell's book of authorities he reproduced a number of Nova Scotia statutes in which the property and undertaking of entities created by the provincial Crown were specifically stated to be held by them for and on behalf of the Crown. These are:
+
+Legal Aid Act, R.S.N.S. 1989, c. 252, s. 13
+
+13 All property, whether real or personal, acquired, possessed or received by the Commission and all profits earned in the administration of the same are property of Her Majesty in right of the Province.
+
+Liquor Control Act, R.S.N.S. 1989, c. 260, s. 18
+
+18 All property, whether real or personal, all money acquired, administered, possessed or received by the Commission and all profits earned in the administration of this Act, shall be the property of Her Majesty in right of the Province, and all expenses, debts and liabilities incurred by the Commission in connection with the administration of this Act shall be paid by the Commission from the money received by the Commission under such administration.
+
+Nova Scotia Hospital Act, R.S.N.S. 1989, c. 313, s. 4
+
+4 The Hospital and all the real and personal property and assets of every kind held and enjoyed in respect to or in connection with the Hospital are vested in Her Majesty in right of the Province.
+
+Research Foundation Corporation Act, R.S.N.S. 1989, c. 400, ss. 4 and 21
+
+4 The Research Foundation of Nova Scotia, incorporated by Chapter 270 of the Revised Statutes, 1967, shall continue as a body corporate and as agent of Her Majesty in right of the Province under the name of the Nova Scotia Research Foundation Corporation.
+
+21 All property, whether real or personal, acquired, possessed or received by the Foundation and all profits earned in the administration of the same shall be property of Her Majesty in right of the Province.
+
+Schooner Bluenose Foundation Act, R.S.N.S. 1989, c. 414, s. 16
+
+16 All property, whether real or personal, acquired, possessed or received by the Foundation and all profits earned in the administration of the affairs of the Foundation is the property of Her Majesty in right of the Province.
+
+Gaming Control Act, Acts of 1994-95, c. 4, s. 9
+
+9 The Corporation is for all purposes of this Act an agent of Her Majesty in right of the Province and the powers of the Corporation may only be exercised as such an agent.
+
+41 The Commission is for all purposes of this Act an agent of Her Majesty in right of the Province and the powers of the Commission shall only be exercised as such an agent.
+
+[50] It is apparent from these examples that where the legislature wished to create bodies that carried out their purposes and held property as agents of Her Majesty to the extent contended for by the respondent here it was capable of saying so. To find that a corporation is assimilated to the Crown so that its separate identity merged with the Crown and became an alter ego of the provincial Crown in carrying on the business for which it was created is a somewhat far-reaching conclusion. One of the purposes of a Crown corporation is to permit the corporation to carry out its purposes independently of the government. To conclude that in its activities, business and ownership of property it is an alter ego of the Crown would require both compelling evidence of a de facto assimilation of it, or of its business and property, to the Crown in right of Nova Scotia and a clear legal basis of a de jure assimilation to the Crown, such as specific legislation of the type set out in the examples cited above. I do not believe that we have either.
+
+[51] I have concluded that NSPC prior to the sale of its assets in 1992 was not carrying on its business as agent of Her Majesty the Queen nor was it an agent of Her Majesty the Queen with respect to the ownership of assets used in its business.
+
+[52] There is a final observation that I should like to make, not about the merits but about the procedure. The matter came before the court as a reference under section 173 of the Income Tax Act. That section permits the Minister and a taxpayer to agree upon a question of fact, law or mixed fact and law and refer it to the court for determination. The question so propounded for determination "shall be determined by that Court." The court has, at least on the face of the provision, no power or discretion to decline to determine the question. Nonetheless, I think that, notwithstanding the use of the mandatory "shall", the court would have the power to decline to answer the question in appropriate circumstances such as where the question was ambiguous or premised upon a legally impossible or incorrect postulate or where the facts proved or admitted were insufficient to permit a determination. The court's powers here may however be somewhat more circumscribed than its powers under section 58 of the Tax Court of Canada Rules (General Procedure), where the court can decline to hear a question if it does not consider it to be one that can appropriately be answered as a preliminary matter (see for example Spencer v. R., August 7, 2001-811(IT)G; 2001 CarswellNat. 1955).
+
+[53] Section 173 is rarely used. I am aware of only three other cases where it has been invoked: In re M.N.R. and Jay Kay Publications Ltd., 72 DTC 6381, reversed 72 DTC 6453; and O'Neill Motors Limited v. The Queen, 96 DTC 1486, aff'd 98 DTC 6424; Chevron Canada Resources Limited v. The Queen, 97 DTC 1173, reversed 98 DTC 6570.
+
+[54] Had the matter come before me as an ordinary appeal from an assessment I would not have considered myself constrained to accept the issue as framed by the parties. The court has both the power and the duty to frame the issues arising in litigation (L.I.U.N.A. Local 527 Members' Training Trust Fund v. Canada, [1992] 2 C.T.C. 2410).
+
+[55] It will be apparent from my reasons that I found the questions put by the parties to be more restrictive than I would have liked. I should have preferred to have the case come before me as an ordinary appeal in which the appellant challenged the Minister's denial of capital cost allowance on the accumulated interest. In such a case where a variety of complex issues arise, I would have felt freer to define the issues as I perceived them. The purpose of section 173 is to permit the Minister and a taxpayer to submit to the court at any stage, whether before or after an assessment, at the objection stage or after an appeal has been instituted, a question the resolution of which may substantially dispose of an issue between the parties. As such it performs an extremely useful function in appropriate cases of shortening litigation or avoiding lengthy appeals and I would not wish to discourage its use. My concern is that the answers I have given here leave a number of loose ends. Nonetheless within the constraints imposed upon me by the form of question I have endeavoured to answer the questions to the extent that I was able.
+
+[56] I should conclude by expressing my appreciation to all counsel for the thoroughness and excellence of their presentations.
+
+[57] The answers to the first part of each question in the stated case preceding the words "such that" are "no".
+
+[58] If the parties wish to make representations with respect to costs they should communicate with the court.
+
+Signed at Ottawa, Canada, this 25th day of January 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2001-347(IT)G
+
+STYLE OF CAUSE: Between Nova Scotia Power Inc.
+
+and Her Majesty The Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATES OF HEARING: April 10 and September 6, 2001
+
+REASONS FOR DETERMINATION BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF DETERMINATION: January 25, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Warren Mitchell, Q.C.
+
+Douglas H. Mathew, Esq.
+
+Michael W. Colborne, Esq.
+
+Counsel for the Respondent: Ernest Wheeler, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Warren Mitchell, Q.C.
+
+Firm: Thorsteinssons
+
+Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-347(IT)G
+
+BETWEEN:
+
+NOVA SCOTIA POWER INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Application heard on April 10 and on September 6, 2001, at Ottawa, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Warren Mitchell, Q.C.
+
+Douglas H. Mathew, Esq.
+
+Michael W. Colborne, Esq.
+
+Counsel for the Respondent: Ernest Wheeler, Esq.
+
+DETERMINATION OF QUESTIONS
+
+This application, having been called for hearing for the purpose of determining the following questions:
+
+(d) the questions for determination are, in the period up to 1992 when it disposed of its assets:
+
+(1) "Did Nova Scotia Power Corporation conduct its principal income-earning activities as an agent of Her Majesty the Queen such that section 2 of the Income Tax Act (including ancillary provisions such as section 21 of the Act) did not apply to it? And
+
+(2) If the answer to (1) is no, was Nova Scotia Power Corporation an agent of Her Majesty the Queen with respect to the ownership of assets used in its business such that section 21 of the Income Tax Act did not apply to depreciable assets acquired by it?"
+
+And upon hearing the evidence adduced and the submissions of counsel;
+
+It is determined that the answers to the parts of each question preceding the words "such that ..." are "no".
+
+If the parties wish to make representations with respect to costs they should communicate with the court.
+
+Signed at Ottawa, Canada, this 25th day of January 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+[1] The expressions "servant of the Crown" (or of Her Majesty) or "agent of the Crown" (or Her Majesty) seem to be used more or less interchangeably. The expression "emanation of the Crown" has been used in some earlier cases but it is now in disfavour, having been strongly criticised by the Judicial Committee of the Privy Council in International Railway Co. v. Niagara Parks Commission, [1941] 2 All E.R. 456.
+
+[2] Formerly corporations specified in Schedule D to the Financial Administration Act.
+

@@ -1,0 +1,104 @@
+Date: 20010405
+
+Docket: 2000-612-GST-I
+
+BETWEEN:
+
+GALCOM INTERNATIONAL INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Sarchuk J.T.C.C.
+
+[1] This is an appeal by Galcom International Inc. (Galcom) from reassessment number 08GP0100776, dated February 11, 1999, by virtue of which the Minister of National Revenue disallowed a Public Service Body rebate of Goods and Service Tax on goods exported by Galcom. The assessment is in respect of the period from January 1, 1996 to June 30, 1998.
+
+[2] The facts in issue are essentially not in dispute. Galcom is a non-share capital corporation incorporated by letters patent dated April 17, 1991 under Part II of the Canada Corporations Act. Its principal place of operation in Canada is at Hamilton, Ontario. Galcom is registered under the Income Tax Act as a charity established and operated for the purposes of advancing religion and is a "charity" within the meaning of subsection 123(1) of the GST provisions of the Excise Tax Act (the Act).
+
+[3] The international director of Galcom, Reverend Allan W. McGuirl (McGuirl), described its activities as the carrying on of an evangelic ministry primarily to persons in third world countries. Because many of the people with whom it is involved live in remote, largely unserviced villages and are not literate, one of the key methods that it uses for making worship services available and delivering sermons and other spiritual messages is by way of radio broadcasting. To do so, it provides low-powered radio transmitting stations to local churches and missions in its radio broadcast ministry. For this purpose, Galcom makes available speech translation equipment, video projectors, solar-powered public address systems and screening equipment. The broadcast message is in the local language and is presented primarily by local, native persons. To ensure that the radio broadcasts it supports and promotes can be received by those villagers wanting to participate, Galcom provides them, free of charge, with solar-powered, fix-tuned, handheld radios.
+
+[4] Galcom purchases a number of radio components both in Canada and overseas and pays GST on their purchase. These components are assembled into a radio in Canada and are then exported. Section 260 of the Act provides for a 100% rebate of GST paid by a charity in respect of property exported by it in carrying on its charitable activities. Galcom requested the rebate pursuant to this section. The Minister denied Galcom's GST rebate claim on the basis that such components were not exported as required to qualify for the rebate under subsection 260(1) of the Act but were assembled into radios which were exported. The Minister instead gave Galcom a rebate under section 259 of the Act whichprovides generally for a 50% GST rebate to charities in respect of property and services that are not exported from Canada.
+
+Appellant's Position
+
+[5] The Appellant contends that subsection 260(1) allows for the full rebate of GST paid where a charity is the recipient of a supply of property, in this case radio components, has paid tax in respect of the supply and has exported the property. Its representative argued that all of the conditions required to qualify for the rebate under subsection 260(1) of the Act had been met. It is a charity as defined in subsection 123(1) of the Act and it purchased components, paid GST thereon, and exported them. The fact that the components were assembled in a manner that resulted in an operating radio does not negate the fact that the Appellant exported radio components. Each component can be separately identified in the radio, and retained its original form.
+
+[6] The Appellant's representative further argued that while the rebates should be allowed on the plain meaning of subsection 260(1), allowing the rebates would also be consistent with the legislative intent of subsection 260(1). If Parliament intended to allow the rebate only where the property is not further processed, the legislation would have said so. GST is a tax on consumption in Canada. Exports for consumption outside of Canada are not taxed. Furthermore, to ensure exports do not include hidden GST, a system of input tax credits and rebates is used to permit the recovery of tax paid by the exporter so that Canada’s exports are competitive in the world market.[1] It is clear that the radios will never be consumed in Canada and were exported for a charitable purpose outside Canada. Thus since the consumption of the components took place outside Canada, to be consistent with the object and spirit of the Act, they should not be taxed in Canada.
+
+[7] Reference was made by the representative to East v. The Queen.[2] At issue in that case was whether the Appellant was entitled to a tuition credit under section 118.5 of the Income Tax Act. In that case, the Minister argued the institution that provided the course was only certified to teach in four locations in Canada and that the location in Calgary where this student attended had not been certified. In allowing the appeal, Teskey J. concluded that there was:
+
+... nothing in the statute that talks about location, it's the institution that has to be certified and here the Minister of Human Resources has certified the institution SHL Computer Innovations Inc. to give Microsoft courses. The Minister has no authority to limit the institution as to where they teach the course. ...
+
+In result, the Court concluded that the credit should be allowed. The Appellant says the East decision, by analogy, supports its case since the plain facts are that the components, even though they were part of a radio, were exported and they were not consumed in Canada. The Appellant further argues that there is no limiting factor in section 260 and, therefore, it is difficult to understand why the Minister would take a very narrow position of saying it is the radios that left, therefore, the components did not leave.
+
+[8] Counsel for the Minister contends that a plain reading of section 260 makes it clear that Parliament intended that where a charity is a recipient of a supply (rather than an input or something else that is consumed), paid tax in respect of that supply, and thereafter exports the supply, then it will be entitled to a rebate. The Act requires that the supply must be continuous throughout and that if it changed its form, then it no longer maintains the character of the supply that was received. In this case, what was exported was something other than the supply received, thus the Appellant does not qualify for a rebate under section 260.
+
+[9] Although there is no case law directly on point, counsel for the Respondent made reference to several decisions in which the issue was whether certain sales were taxable as pertaining to goods "manufactured or produced".[3] In The Queen. v. E.J. Piggott Enterprises Ltd.,[4] the defendant's business was in the field of magnetic tapes used for recording. One of its operations consisted in assembling, from components, Ferropak cartridges which it sold to customers. In that case, the evidence established:
+
+... that the defendant company took the components and by handwork and the use of apparatus that has been called tape winders brought into being useful and marketable entities that had new forms, qualities and properties or combinations. When a customer ordered a loaded Ferropak cartridge, he received a readily useful unit, not a handful of unconnected articles. In my opinion, the loaded Ferropak cartridges were "produced or manufactured" by the company, within the meaning of those words as used in the Excise Tax Act. Also, where the company assembled and put together the components, other than the tapes with subsequent loading with tapes, it thereby brought into being useful and saleable commercial articles that had new forms, qualities and combinations, and so "produced" such cartridges.
+
+[10] In Gruen Watch Company et al v. A.G. of Canada,[5] the Appellant imported watch movements, produced the watch casing in Canada and then assembled the two together. It sought to be classified as a producer or manufacturer because it created a new form, quality or combination of the goods. The Court held that the operation of inserting watch movements into cases, although the operation took only a few minutes and cost only several cents per watch, amounted to production of watches. This decision was based on the fact that without the insertion of such movements the watch would not run. Counsel for the Respondent submitted that in the present appeal, the assembly of radio components resulted in the creation of a new form and that consumption of a supply takes place when there has been a conversion of a supply from one form to another.
+
+Analysis
+
+[11] The issue in this appeal is whether Galcom is entitled to a 100% GST rebate pursuant to the provisions of subsection 260(1) of the Act for GST paid by it with respect to its receipt of a supply of property, in this case various radio components, which supply was assembled in Canada to create an operating solar-powered, fix-tuned radio and then exported.
+
+[12] Statutory Provisions:
+
+123(1) In section 121, this Part and Schedules V to X,
+
+“property” means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+At the commencement of the period relevant to this appeal, section 260 of the Act read:
+
+260(1) Where a charity
+
+(a) has paid tax in respect of a supply of property or a service received by the charity,
+
+(b) has not claimed and is not entitled to claim an input tax credit in respect of the property or service, and
+
+(c) has exported the property or service for charitable purposes outside Canada,
+
+subject to subsection (2), the Minister shall pay a rebate to the charity equal to the amount of tax paid in respect of the supply.
+
+260(2) A rebate shall not be paid under subsection (1) to a charity in respect of a supply unless the charity files an application for the rebate within four years after the end of the fiscal year of the charity in which tax in respect of the supply became payable.
+
+Section 260 was amended part of the way through the relevant period. The changes extend section 260 to other public institutions but they are not material to the issue in this case. For the purposes of this appeal, the key words in subsection 260(1) of the Act are "where a charity has paid tax in respect of a supply of property ... received by the charity ... and has exported the property ... outside Canada ... the Minister shall pay a rebate to the charity ... ".
+
+[13] The supply of property received by the Appellant consisted of approximately 40 radio components purchased separately in bulk. More specifically, included in this supply were items such as pre-printed circuit boards, resistors, capacitors, slide switches, headphone jacks, DC power jacks, inductor coils, diodes, ceramic filters, ferrite rods, speakers, battery springs, transistors, crystals, cases, solar panels and AC power cords. McGuirl testified that the assembly of these supplies into a solar-powered, fixed-tuned radio was basic and straightforward; the components are plugged into the pre-printed circuit board and the case is attached to protect it. He maintained that following assembly, each part could still be seen and touched and each part could be removed simply if desired. In essence, he contends that the parts had not changed form.
+
+[14] It is difficult to accept this proposition. McGuirl agreed that the various components at the time of their acquisition by the Appellant were not functioning and that any component on its own did not have much individual use. The supplies in issue were not placed haphazardly into the radio case. The evidence is that the circuit board was designed by an engineer and the various components had to be assembled in a precise manner to function as a radio. Although the process was not complicated this assembly was carried out under the supervision of a technical person hired by the Appellant. Furthermore, while the components were not themselves altered in any way, items such as the transistors and capacitators had to be soldered onto the circuit board to hold them in place. It is of some relevance that the radio, which is the exported property in issue, was designed to be rugged enough to be delivered to and utilized in various areas of the world. I note that consideration at one stage was given to simply exporting the parts and sending them outside of Canada for assembly. In fact, McGuirl testified that they did:
+
+"try a few radios out of Hong Kong and we sent them to a very remote area in Haiti and we made about 2,000 radios and we had probably about a 68 to 70% failure rate because they just would not stand up because they just -- the quality was not there."
+
+[15] I am unable to accept the Appellant's argument that since the component parts remained parts even after the assembly, they did not merge with the radio or become indistinguishable, and that because it exported the radios did not mean that it did not export the component parts comprising the radio. I have concluded that the component parts, both imported and those purchased in Canada, which were the supply received by the Appellant in respect of which GST was paid were not the supply of property describable as a radio. The evidence is clear that there was a consumption of the initial supply, i.e. the components, because there was a conversion of that supply from one form, being non-functioning, separate parts, to another property being a fully functioning radio. Put another way, the assembly resulted in the creation of a new product that was different from the unconnected radio components which were the original supply received by the Appellant.
+
+[16] With respect to the Appellant's submission that if Parliament had intended to allow the rebate only when the property is not further processed it would have said so, I make the following observations. First, section 260 allows the Appellant, a charity, a rebate of GST if it has paid GST in respect of a supply of property and the charity has exported that property for charitable purposes outside of Canada. I do not believe there is any ambiguity in the plain language used by the legislators in that section. On the ordinary meaning of the term property, it cannot be said that the supply of property in respect of which the Appellant paid tax was the same property as that exported by it. Second, contrary to the Appellant's position, if the legislators had intended to grant relief in circumstances such as those before the Court, they would likely have utilized language similar to that found in section 80 of the Customs Act which provides, upon certain conditions, for a rebate of customs duty to an Appellant with respect to those imported components subsequently exported or incorporated into finished products which are subsequently exported for sale outside Canada.
+
+[17] For the foregoing reasons, the appeal is dismissed.
+
+Signed at Ottawa, Canada, this 5th day of April, 2001.
+
+"A.A. Sarchuk"
+
+J.T.C.C.
+
+[1] The GST Overview and Technical Paper dated August 8, 1989.
+
+[2] 1999-4941(IT)I – Decision dated August 31, 2000.
+
+[3] Fiat Auto Canada Limited. v. The Queen, 83 DTC 5451; Budget Steel Ltd. v. The Queen, [1996] G.S.T.C. 90 (F.C.A.); The Queen v. Stuart House Canada Ltd., 76 DTC 6033; Tenneco Canada Inc. v. The Queen, 87 DTC 5434 (F.C.T.D.); and The Queen v. E.J. Piggott Enterprises Ltd., 73 DTC 5013.
+
+[4] supra.
+
+[5] 50 DTC 784.
+

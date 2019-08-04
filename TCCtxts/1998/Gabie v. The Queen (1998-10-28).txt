@@ -1,0 +1,116 @@
+Date: 19981028
+
+Docket: 97-2058-IT-I
+
+BETWEEN:
+
+SHANE C. GABIE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+RIP, J.T.C.C.
+
+[1] Shane C. Gabie has appealed income tax assessments for 1993 and 1994 in which the Minister of National Revenue (“Minister”) disallowed claims for an Overseas Employment Tax Credit (“OETC”) pursuant to section 122.3 of the Income Tax Act (“Act”).
+
+[2] During July 1993 to April 19, 1994 (“qualifying period”), Mr. Gabie was employed by Hexagon Computer Systems Incorporated (“Hexagon”) a Canadian resident corporation, to work for a subsidiary corporation of Hexagon located in Boston, Massachusetts. During the relevant times, Hexagon was principally in the software development and management consultation business. Both Hexagon and its subsidiary designed and constructed software in the process of developing computer systems. Hexagon had a contract with the Massachusetts Housing Finance Agency (“MHFA”), an agency of the Commonwealth of Massachusetts government, to provide such services as systems analysis, database design and development and application programming. As a qualified technical professional, the appellant was employed and paid by Hexagon to work at MHFA in Massachusetts to provide these services. MHFA carries on the construction of housing by contracting out the actual construction.
+
+[3] Mr. Gabie is not a professional engineer nor does he have a university degree in engineering. He received a Bachelor of Science degree from Carleton University where he minored in computer science; he is considered to be a qualified technical professional.
+
+[4] According to Mr. Gabie the nature of the work he performed was that of software engineering. Mr. Gabie stated that he performed the necessary analysis using structured and recognized systems analysis. The analysis consists of several steps, including defining the problem and mapping out problems with a computer aided software engineering tool. This tool maps out entities in the analysis and the relationship between the entities.
+
+[5] Mr. Gabie testified that an analysis is performed and then solutions are created on a step-by-step basis. Results are tested piecemeal and then a systems design, involving the various entities that the business requires to track and control information, is put together. The business process and software process have to be manipulated to work together to create a systems prototype for testing. Once the prototype is approved, the software is constructed.
+
+[6] Mr. Gabie’s job for Hexagon was to create a systems life cycle. A systems life cycle includes a systems analysis, requirement analysis, systems design and building the eventual prototype.
+
+[7] The essential difference, Mr. Gabie explained, between the work performed by a person who has a degree in computer science and one who has a degree in computer engineering is that the former works with computer software and the latter works on computer hardware.
+
+[8] Section 122.3 provides that:
+
+(1) Where an individual is resident in Canada in a taxation year and, throughout any period of more than 6 consecutive months that commenced before the end of the year and included any part of the year (in this subsection referred to as the “qualifying period”) and
+
+(a) was employed by a person who was a specified employer ... and
+
+(b) performed all or substantially all the duties of the individual’s employment outside Canada
+
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to
+
+(A) ...
+
+(B) any construction, installation, agricultural or engineering activity, or ...
+
+...
+
+(ii) for the purpose of obtaining, on behalf of the specified employer, a contract to undertake any of the activities referred to in clause (i)(A), (B) or (C),...
+
+[9] The Minister’s position is that Hexagon did not carry on a business outside of Canada with respect to a qualifying activity as enumerated in subparagraph 122.3(1)(b)(i) of the Act, specifically, Hexagon’s activities with MHFA do not constitute an “engineering activity” as referred to in that provision. The appellant submits that he was employed by Hexagon in connection with a contract that Hexagon had with MFHA, under which Hexagon carried on business outside Canada with respect to any engineering activity.
+
+[10] Mr. Gabie further argues that the term “engineering activity” includes the whole range of work which may be described as engineering and this is what Hexagon did in Massachusetts. In rejecting his claims for the OETC, Mr. Gabie asserts that Revenue Canada is disregarding international standards, namely, the standards set down by the International Organization for Standardization (“ISO”), to which Canada has subscribed.[1] He is also of the view that Revenue Canada’s disregard for international standards is a rejection of engineering as it pertains to software.
+
+[11] The parties do not dispute that Hexagon is a specified employer as defined by subsection 122.3(2) or that Mr. Gabie performed all of his duties as an employee of Hexagon outside of Canada for more than six consecutive months as required.
+
+[12] To determine whether the work performed by Mr. Gabie qualifies as an “engineering activity” under the applicable provision of the Act, I must make a finding, amongst other things, that Mr. Gabie’s employment in Massachusetts was in connection with a contract between Hexagon and MHFA under which Hexagon carried on business with respect to an engineering activity: Creagh v. Canada [1996] T.C.J. No. 1404, at paragraphs 32 and 33, per Lamarre-Proulx T.C.C.J.
+
+[13] The French version of the Act uses the word “ingénierie” for “engineering activity” in clause 122.3(1)(b)(i)(B). According to the Robert & Collins English-French dictionary, the word “ingénierie” in French is translated as “engineering” in English. "Engineering" and "engineering activity" do not necessarily mean the same thing. One may not be a professional engineer, for example, but still work in any engineering activity. Where there is a conflict between the French and English versions of the Act, a judge should interpret the version that best meets the interest of Parliament.
+
+[14] The term “engineering activity” is not defined in the Act. However, there are regulations to the Act that consider, either directly or indirectly, the term “engineering”. Paragraph 2900(1)(d) of the regulations, which sets out prescribed expenditures for the purpose of section 37.1 of the Act, refers to “work with respect to engineering, design, operations, research, mathematical analysis, computer programming, data collection, testing and psychological research where that work is commensurate with the needs, and directly in support of” basic research, applied research and experimental development[2].
+
+[15] Mr. Gabie testified that software engineering is recognized worldwide as an engineering discipline, complete with regulatory bodies and standards organizations. The ISO, he stated, recognizes software engineering as an engineering discipline. Canada is a member in the ISO and its acceptance of ISO 9000 means, according to Mr. Gabie, that the Canadian government accepts software engineering as a true engineering discipline.
+
+[16] The term “engineering” has also been used in Revenue Canada’s Information Circulars. Information Circular 97-1, entitled “Scientific Research and Experimental Development Administrative Guidelines for Software Development”, dated February 28, 1997, discusses the three criteria for determining the eligibility of work as scientific research and experimental development (SRED). The second criterion discusses “scientific or technological uncertainty” and states in section 3.2:
+
+One type of technological uncertainty is “system uncertainty”, which refers to uncertainty of the successful integration of software components or technologies. System uncertainty exists only if the integration is not achieved through routine engineering and requires changes to the basic design of the underlying technologies... [emphasis added]
+
+[17] In Information Circular 86-4R3, entitled “Scientific Research and Experimental Development”, dated May 24, 1994, Revenue Canada recognizes and defines, at paragraph 6.10(f), the term “software engineering”:
+
+Software engineering involves the study, in terms of basic or applied research, of the methodology for the design, implementation, testing, and performance evaluation of software systems; that is, advances in the methodology required to construct computer programs with greater flexibility, efficiency, reliability, and ease of maintenance. [emphasis added]
+
+[18] The appellant defined software engineering as a step-by-step process that facilitates the specification, design, implementation, and testing of a software solution for a set of stated requirements in the most expeditious and cost-effective manner possible. Mr. Gabie suggests that this is the process Hexagon applies to perform its obligations under the contract with MHFA.
+
+[19] The definition in Information Circular 86-4R3 is similar to the definition offered by the appellant and describes the activities of the appellant in performing services for Hexagon.
+
+[20] The ISO, according to Mr. Gabie, lists six phases of the software engineering process, namely: system engineering/system analysis; software requirements analysis; design; implementation; testing and maintenance. In the text Software Engineering: A Practitioner's Approach by Roger S. Pressman[3], Michael Stovsky comments at page 202:
+
+A quality assurance system may be defined as the organizational structure, responsibilities, procedures, processes, and resources for implementing quality management [ANS87]. ISO 9000 describes quality assurance elements in generic terms that can be applied to any business regardless of the products or services offered.
+
+[21] Mr. Pressman also refers to the software engineering process, at page 202:
+
+ISO 9001 is the quality assurance standard that applies to software engineering. The standard contains 20 requirements that must be present for an effective quality assurance system. Because the ISO 9001 standard is applicable to all engineering disciplines, a special set of ISO guidelines (ISO 9000-3) have been developed to help interpret the standard for use in software process. [emphasis added]
+
+[22] Software engineering was defined by another person, Fritz Bauer, referred to by Mr. Pressman,[4] as
+
+.... the establishment and use of sound engineering principles in order to obtain economically software that is reliable and works efficiently on real machines
+
+It is clear from that the ISO recognizes the discipline of software engineering.
+
+[23] Software engineering is an important function in the present economy. Engineering today includes more than a “hands-on” type of activity resulting in a physical attribute, as submitted by counsel for the respondent. The increasing flow of information and the commercial reality of the modern world has made the development of “databanks” and “integrated systems” important in the construction of bridges, sanitation systems, buildings, roads, hydro, hydraulic and other projects that are traditionally thought of as engineering projects and their development, as explained by Mr. Gabie, constitutes an independent engineering activity. As stated by Iacobucci J., in R. v. Salituro [1991] 3. S.C.R. 654, at p. 670:
+
+... Judges can and should adapt the common law to reflect the changing social, moral and economic fabric of the country. Judges should not be quick to perpetuate rules whose social foundation has long since disappeared. Nonetheless, there are significant constraints on the power of the judiciary to change the law ... The judiciary should confine itself to those incremental changes which are necessary to keep the common law in step with the dynamic and evolving fabric of our society.
+
+[24] On the facts submitted by Mr. Gabie, he was employed by a person resident in Canada, Hexagon, and performed all or substantially all of his employment in the United States during the qualifying period in connection with a contract under which Hexagon carried on business outside Canada with respect to any engineering activity, specifically an activity related to software engineering. It does not, in my view, matter that Mr. Gabie is or is not a professional engineer so long as his employer's business outside Canada was with respect to any engineering activity and Mr. Gabie's employment outside Canada was performed in connection with that business. This interpretation applies the plain meaning rule to interpret tax legislation referred to by Major, J. in Friesen v. Canada.[5]
+
+[25] The appeal is therefore allowed with costs, if any.
+
+Signed at Ottawa, Canada, this 28th day of October 1998.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+[1] Although there was reference at the trial to ISO, neither party gave evidence to what ISO is or described the organization and its function. ISO is an important international organization to which I may take judicial notice. ISO is a worldwide federation of national standard bodies from some 130 countries, one from each country. The Canadian member is the Standards Council of Canada which was created by the Standards Council of Canada Act: R.S.C. 1970, c. 41 (1st Supp.) s.1 (see under R.S, c. s-16). It's mission is to promote the development of standardization and related activities in the world with a view to facilitating the international exchange of goods and services, and to developing cooperation in the spheres of intellectual, scientific, technological and economic activity. ISO's work results in international agreements which are published as International Standards: http://www.iso.ch/infoe/intro.htm
+
+[2] See also paragraph 4605(d) of the Regulations. This provision described a prescribed activity for the purposes of the definition “for an approved purpose” in paragraph (2) of the definition “approved project property” in subsection 127(9) of the Act. The definition of “approved project property” was repealed by S.C. 1996, c.21, s.30191. Counsel for respondent suggested that since the legislator distinguishes "engineering" and "computer services" in paragraph 4605(d), any computer service cannot be an engineering service. I do not agree.
+
+[3] Pressman, Roger S., Software Engineering: A Practitioner’s Approach, 4th ed. New York: McGraw Hill Companies Inc., 1997. The section quoted was written by M. Stovsky and is adapted from "Fundamentals of ISO 9000" and "ISO 9001 Standard", workbooks developed for Essential Software Engineering, a video curriculum developed by R. S. Pressman and Associates Inc.
+
+[4] Supra p. 22.
+
+[5] [1995] 3 S.C.R. 103 at p 112-114. see also Stubart Investments Limited v. The Queen, [1984] 1 S.C.R. 536, Québec (Communauté Urbaine) v. Corp. Notre-Dame de Bon-Secours [1994] 3 S.C.R. 3 and Alberta (Treasury Branches) v. Canada; Toronto-Dominion Bank v. Canada, [1996] 1 S.C.R. 963
+

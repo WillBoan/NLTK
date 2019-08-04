@@ -1,0 +1,550 @@
+Date: 20020617
+
+Docket: 94-2099-IT-I
+
+BETWEEN:
+
+SARBAN BAWA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+
+
+O'Connor, J.T.C.C.
+
+FACTS
+
+[1] I find the relevant background facts to be as follows:
+
+1. The Appellant in filing his income tax return for 1982 deducted a business loss of $12,804 in respect of two units which he allegedly held in a partnership known as Inter-Teck Oil Partnership.
+
+
+
+2. The Minister of National Revenue ("Minister"), by Notice of Reassessment dated August 14, 1987 reassessed the Appellant for the 1982 taxation year and in so doing reduced the business loss to $262.10 per unit or $524.20 for two units. The Notice of Reassessment indicates that the loss allowed is in respect of a partnership known as Inter-Teck Oil Limited Partnership ("ITOLP").
+
+
+
+3. By Notice of Objection dated October 7, 1987 the Appellant objected to the said Reassessment for the 1982 year. Consideration of this Notice of Objection was held in abeyance by the Minister, after concurrence had been obtained from the Appellant at that time, pending the outcome of certain other appeals filed with the Federal Court of Canada by other individuals involved in ITOLP.
+
+
+
+4. The appeals to the Federal Court referred to above were settled in November, 1993 by Consent Judgment and as a result thereof the rest of the limited partners, including the Appellant were offered in January, 1994 the same terms of settlement as those set out in that Consent to Judgment. The Appellant did not accept the offer of settlement.
+
+
+
+5. The Minister by Notification of Confirmation dated May 27, 1994 confirmed the reassessment for the 1982 taxation year.
+
+
+
+6. The relevant substantive facts may be described as follows:
+
+
+
+(a) International Resource Recovery Inc. ("IRRI") and Inter-Teck Management Ltd. were incorporated under the laws of British Columbia respectively on February 22, 1979 and November 9, 1982; at all material times Jagroop Singh Gill ("Gill") was the sole shareholder and director of IRRI and of Inter-Teck Management Ltd.
+
+
+
+(b) ITOLP was registered with the Register of Companies of British Columbia under the provisions of the Partnership Act of that province on November 10, 1982; Inter-Teck Management Ltd. and Gill were recorded under that registration respectively as the general partner and "founding" partner of ITOLP.
+
+
+
+(c) The initial fiscal period of ITOLP commenced on November 10, 1982 and ended on December 31, 1982 for a period of 52 days in 1982. The Appellant subscribed for two units in an entity known as Inter-Teck Oil Partnership, the date of the subscription being November 4, 1982 (see Tab 1, Exhibit A-1). Certain other investors also subscribed for units in Inter-Teck Oil Partnership, namely, Messrs. Ward, Turner and Madsen (see Tabs 2, 3 and 4, Exhibit A-1). It should be highlighted that this is the bone of contention between the Appellant and the Minister. The Appellant maintains that he became a general partner in the partnership named Inter-Teck Oil Partnership and it was that entity which acquired the equipment in question and as a partner he was entitled to his share of the partnership loss and there was no question of any arm's length problem. The Minister contends that the entity which purchased the equipment from IRRI was ITOLP and that the Appellant at a date later than November 10, 1982 became a limited partner in ITOLP. The Minister contends further that the sale of the equipment was made by IRRI to ITOLP and that there is no record and no evidence of any sale to Inter-Teck Oil Partnership.
+
+
+
+(d) The Minister contends further that IRRI, Inter-Teck Management Ltd., Gill and ITOLP did not deal with one another at arm's length at any time, particularly on November 10, 1982 when IRRI executed the conditional sales contract selling the equipment to ITOLP.
+
+
+
+(e) The sale price in the said conditional sales contract was stated to be $6,850,000 payable in instalments over 10 years. The Minister contends that the equipment had a fair market value on November 10, 1982 of no more than $422,000 and it is that value that should be used because the sale was not at arm's length; accordingly the equipment should have been included by the partnership as a depreciable property under Class 29 in Schedule II to the Income Tax Regulations ("Regulations") at a capital cost of no more than $422,000. The following schedules indicate the losses as reported by ITOLP and the losses as allowed.
+
+
+
+Schedule A
+
+Inter-Teck Oil Limited Partnership
+
+Losses as reported for the fiscal periods ended in 1982, 1983 and 1984
+
+1982
+
+1983
+
+1984
+
+Revenue
+
+26,687.00
+
+9,860.00
+
+8,578.00
+
+Less:
+
+
+
+
+
+
+
+Capital cost allowance
+
+1,712,500.00
+
+3,425,000.00
+
+1,712,500.00
+
+Other expenses
+
+68,442.00
+
+69,341.00
+
+15,461.00
+
+
+
+
+
+
+
+Loss for the year
+
+1,754,255.00
+
+3,484,481.00
+
+1,719,383.00
+
+Loss per unit
+
+6,402.39
+
+6,358.54
+
+6,275.12
+
+
+
+Schedule B
+
+Inter-Teck Oil Limited Partnership
+
+Losses as allowed for the fiscal periods ended in 1982, 1983 and 1984
+
+1982
+
+1983
+
+1984
+
+Revenue
+
+26,687.00
+
+9,860.00
+
+8,578.00
+
+Less:
+
+
+
+
+
+
+
+Capital cost allowance
+
+30,060.00
+
+211,000.00
+
+180,940.00
+
+Other expenses
+
+68,442.00
+
+69,341.00
+
+15,461.00
+
+
+
+
+
+
+
+Loss for the year
+
+71,815.00
+
+270,481.00
+
+187,823.00
+
+Loss per unit subscribed
+
+262.10
+
+493.58
+
+685.49
+
+
+
+[2] The Appellant in computing his income for 1982 sought to deduct a loss of $12,804 but the Minister contends because of the fair market value of $422,000 that the proper amount of such loss so deductible in 1982 was only $524.20 for the Appellant's two units.
+
+SUBMISSIONS OF THE APPELLANT
+
+[3] The Appellant's principal submissions are:
+
+1. That he subscribed to two units in Inter-Teck Oil Partnership and not in ITOLP; that it was Inter-Teck Oil Partnership which acquired the equipment at a price of $6,850,000 that the transaction between IRRI and Inter-Teck Oil Partnership was arm's length and that the said price fixed in the contract should be used to determine capital cost allowance not fair market value. The Appellant was unable to produce a sale or other conveyance by IRRI to Inter-Teck Oil Partnership but he does refer to the financial statements for Inter-Teck Oil Partnership for the year ended December 31, 1982 prepared by Tierney and White (Tab 6, Exhibit A-1). This statement which takes the form of a notice to reader which cautions that no audit has been conducted and the unlimited balance sheet accompanying the statements does show the item "Machinery and Equipment" at $6,850,000.
+
+[4] Further, the Appellant contends that the Minister was grossly wrong in establishing the fair market value of the equipment at no more than $422,000.
+
+SUBMISSIONS OF COUNSEL FOR THE RESPONDENT
+
+[5] I quote certain extracts from counsel's submissions at page 3 et seq. of the Excerpt From Proceedings:
+
+MS. CLARE: Your Honour, Mr. Bawa filed an income tax return for the year 1982 and he was -- and in that income tax return he sought to deduct a business loss which he identifies as being from an entity known as the Inter-Teck Oil Partnership. He was reassessed and a copy of that reassessment has been filed as Respondent's Exhibit 1. In that Notice of Reassessment, the Minister reassessed the Appellant and disallowed ... part of the business loss that had been claimed. That document, the Notice of Reassessment, clearly refers to Inter-Teck Oil Limited Partnership.
+
+
+
+... by virtue of a Notice of Objection, a copy of which has been filed as Exhibit R-2 and identified by the Appellant as having been signed by him on October the 7th, 1987, the Appellant objected to the reassessment. ... What the Notice of Objection says, in paragraph 1, is:
+
+
+
+In 1982, I acquired two units of the Inter-Teck Oil Limited Partnership (the partnership).
+
+
+
+The Minister received this Notice of Objection and proceeded to the stage of confirmation, and the Notice of Confirmation has been filed as Exhibit R-3. The Minister indicated that he had carefully considered the facts and reasons set forth in the Notice of Objection and confirms the reassessment on the basis that this equipment, which was acquired by Inter-Teck Oil Limited Partnership, has been determined to be valued at $422,000.
+
+
+
+The Appellant was not satisfied and, as is his right, he filed an appeal to this court. The document by which he filed his appeal in the Informal Procedure does not at any point refer to either the Inter-Teck Oil Partnership or to the Inter-Teck Oil Limited Partnership. It just says:
+
+
+
+I wish to file an appeal of the notification of confirmation.
+
+
+
+The Minister then replied in great detail in the Reply to Notice of Appeal herein, and dealt with the Appellant's case as though it were an appeal with respect to the limited partnership.
+
+
+
+Now, we have heard Mr. Bawa's testimony that what he purchased was units in a partnership. He provided a copy of a subscription form showing that he subscribed and that the entity described in the subscription form was Inter-Teck Oil Partnership. Not a limited partnership, but Inter-Teck Oil Partnership. I asked him whether he recalled signing a replacement subscription form for the limited partnership. ... he said he did not have a copy of the replacement form.
+
+
+
+Mr. Bawa confirmed that he understood that he was to become a limited partner; that that's clearly set out in the subscription form, which was Tab 1 of Exhibit A-1. In paragraph 3, it clearly indicated that he was to become a limited partner, and that was his understanding. ...
+
+
+
+Mr. Bawa also testified that, although the document refers to becoming a limited partner in the first quarter of 1983, that that process was, in fact, accelerated and that he would have become a limited partner at an earlier date than that indicated.
+
+
+
+...
+
+
+
+The losses, according to the Appellant, are not the losses of the limited partnership, they're the losses of this other entity, the Inter-Teck Oil Partnership. The losses arise by virtue of the claim for the capital-cost allowance with respect to this device or equipment. In paragraph ... 8(g) of the Minister's Reply, that equipment has attributed to it a fair market value of no more than $422,000.
+
+
+
+In my submission, there has been no evidence adduced by the Appellant which would establish any value for that equipment other than the value assumed by the Minister.
+
+
+
+The Appellant says the equipment had a value of $6.8 million, but no expert report was tendered or, indeed, obtained by the Appellant or, it seems, any others of the persons who invested in this partnership and in this equipment, which would tend to establish a value of $6.8 million or any other value. Even the document that was brought to the court this afternoon, the -- attached to Exhibit A-2, a valuation report which, first of all, I'd submit Your Honour can attribute no weight to because we do not have the maker before us, but even that accepts the value of $422,000 for the equipment and only refers to a notional amount for the process in addition to that. So I would submit, Your Honour, that there has been no evidence adduced that would unseat this fair market value of the equipment as being anything other than the $422,000.
+
+
+
+Now, the only other question that arises in this appeal, I would submit, Your Honour, is whether or not, because of the makeup of the group, there is an issue as to arm's length or non-arm's length. First of all, with respect to that, Your Honour, we have Mr. Bawa commenting on the Minister's assumptions with respect to the sale of the equipment to the partnership in paragraph (f). Mr. Bawa took the position that the conditional sale contract, dated November 10th, 1982, was not executed. I produced a copy of the executed conditional sales contract of that date and showed it to Mr. Bawa. Although he was able to identify the signatures of his brother-in-law, Mr. Gill, he still refused to accept that this conditional sales contract(R-4) was executed.
+
+
+
+...
+
+
+
+MS. CLARE: So, Your Honour, the Minister has assumed that on November 10th, 982, the corporation sold the equipment to the limited partnership.
+
+
+
+Now, if the corporation sold the equipment to the limited partnership, the only parties who can participate in claims for capital-cost allowance with respect to that -- or with respect to that equipment are the members of the limited partnership. In order for Mr. Bawa to succeed in his claim with respect to the amount that he sought to deduct in the 1982 taxation year, it's the Minister's submission that he must be a member of that limited partnership.
+
+
+
+Now, this is an unusual situation where we have documentation being drawn up and then replaced, perhaps because the maker had no understanding of what partnerships are or what partnerships do. Clearly, the Appellant's intention was to become a limited partner. Clearly, there was a limited partnership created. Clearly, this equipment belonged to the limited partnership because it was sold to the limited partnership November the 10th, 1982. The only way that Mr. Bawa can participate in any of the losses with respect to the capital-cost allowance on that -- on that partnership property is if he is part of that limited partnership. So I find that when Mr. Bawa is stating that he was not a member of the limited partnership, but only of what seems to have been a predecessor entity called the Inter-Teck Oil Partnership, that what he's really saying is that he should not share in the loss, because the Inter-Teck Oil Partnership, there's no evidence that it owned anything. So if his position is that he should be obtaining these losses as a shareholder in the Inter-Teck Oil Partnership and it's by virtue of his situation with the Inter-Teck Oil Partnership that he is -- that he has this entitlement, then where is the proof that there's anything in the Inter-Teck Oil Partnership that would give rise to any loss that he could claim? There's nothing, Your Honour.
+
+
+
+...
+
+
+
+MS. CLARE: Yes, Your Honour. We do have filed a balance sheet with respect to Inter-Teck Oil Partnership. Once again, we haven't heard from the -- from the maker of that document, so I suggest, Your Honour, you can attribute little or no weight to that document. We don't know what instructions were provided ... Inter-Teck Oil Partnership or -- we don't know who provided the instructions or what instructions were provided to Tierney & White. They, on the second page, provide the usual chartered accountant's notice to reader. You know, the usual disclaimer: "We have not audited, reviewed, or otherwise attempted to verify their accuracy or completeness." So we don't know what was brought to Tierney & White. We have no way of concluding that Tierney & White had a basis to come to a conclusion that there were -- that these losses were losses of this particular legal entity.
+
+
+
+...
+
+
+
+MS. CLARE: ... Now, at -- if we look at the Minister's Reply to Notice of Appeal once again, we see that, in paragraph 8(b) which was admitted by the Appellant, the limited partnership was registered on November the 10th, 1982. Until that occurred, Your Honour, there is no limited partnership. because under section 51(1), the limited partnership is formed when the signed certificate is filed with the registrar. At that time - and we see this, once again, looking at the -- at paragraph (b) of the Reply, which was admitted - the company, which is Inter-Teck Management Ltd., and the individual, and that individual is Jagroop Singh Gill, were recorded under that registration respectively as the general partner and a limited partner of the partnership.
+
+
+
+So, at that point, Your Honour, we have, we know from paragraph (a) which was admitted, 8(a), that Mr. Gill was the sole shareholder and director of each of the corporation and the company. We know that he signs as the limited partner. We know that the general partner is the company. And at November the 10th, 1982, there are no other partners of any sort, whether limited partners or general partners, in the limited partnership. By law, I would submit there cannot be any others without amending the certificate.
+
+
+
+Paragraph (f) of the Minister's Reply is the one, once again, that deals with the purchase by conditional sales contract by the limited partnership of the equipment. So the equipment is owned by the limited partnership and at that point, at November 10th, 1982, the only limited partner is Mr. Gill and the only general partner is his company.
+
+
+
+Now, with respect to the arguments about arm's length, if there is any arm's length amongst any individuals who are alleged to be partners in either the limited partnership or in the -- what I like to think of as the predecessor partnership, the only place that arm's length can exist is in -- at November 10th, 1982 which was the date that the property is sold to the limited partnership, the only arm's length exists in or amongst these predecessor so-called partners. We really don't have any evidence, other than the subscription to what is entitled a partnership agreement, that Inter-Teck Oil Partnership is, in fact, a partnership. We really don't have any real evidence with respect to that. That's the predecessor group. We don't really have any evidence on what, if anything, that entity did, or what assets it had. We know it didn't have the equipment, because the equipment was sold by IRRI to the limited partnership on November 10th, 1982.
+
+
+
+So we don't really know much about that, that entity, but it has been in -- termed a partnership. And yes, there are people who subscribed to that group, or joined in that group, whatever it was, on November the 4th or November the 5th or November the 9th, but they aren't part of the limited partnership because -- at that point because there is no limited partnership at that point. There's no limited partnership until November the 10th, 1982, and they come in the back door on an amendment to the certificate at a later date and become limited partners. And that's the only way that any of these Appellants from -- from the early days, from the predecessor group, whatever it was, get to participate in any loses of the limited partnership is if they were brought into the limited partnership. And we accepted that they -- they did come in and become part of the limited partnership, because clearly, we allowed their losses, but not on the cost base that they wanted which was 6.8 million.
+
+
+
+...
+
+
+
+ANALYSIS AND DECISION
+
+[6] I accept the principal submissions of counsel for the Respondent. There is no proof of the existence of Inter-Teck Oil Partnership. All that we see are subscriptions for units in that entity including a subscription by the Appellant and we see the Notice to Reader statements indicating apparently that such an entity exists and had acquired the equipment. That evidence, in my opinion, is not sufficient to establish the existence of the partnership nor its ownership of the equipment, especially considering that no sale of the equipment to that entity was put forward. What was submitted was an executed copy of the sale of the equipment by IRRI to ITOLP and I have heard no satisfactory evidence which would indicate that that conditional sales agreement was not executed or was not valid. I am supported in this by the fact that numerous investors in ITOLP declared losses in respect of the equipment conveyed to ITOLP, losses related to capital cost allowance in respect of that equipment. With respect to the equipment's fair market value, a figure of $422,000 was accepted by the Federal Court of Appeal in Chutka et al. v. The Queen, 2001 DTC 5093 and as no contradictory evidence has been presented, I accept that figure. Consequently the appeal is dismissed with costs.
+
+[7] The Appellants in the following appeals, namely
+
+1. Jagroop S. Gill, 94-2288(IT)I;
+
+2. Gurdarshan S. Gill, 94-2289(IT)I;
+
+3. Melvyn Cross, 94-2887(IT)I; and
+
+4. Margaret Cross, 94-2888(IT)I
+
+agreed to be bound by the decision to be rendered in this appeal. Consequently these Reasons for Judgment shall constitute Reasons for Judgment in each of those respective appeals. Consequently those appeals are likewise dismissed and further there shall be only one set of costs in respect of this appeal and the appeals mentioned above.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+COURT FILE NO.: 94-2099(IT)I
+
+STYLE OF CAUSE: Sarban Bawa v. Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: April 29, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge T. O'Connor
+
+DATE OF JUDGMENT: June 17, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Margaret E. T. Clare
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+94-2099(IT)I
+
+BETWEEN:
+
+SARBAN BAWA,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on April 29, 2002 at Vancouver, British Columbia, by
+
+
+
+the Honourable Judge Terrence O'Connor
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Margaret E. T. Clare
+
+JUDGMENT
+
+The appeal from the reassessment made under the Income Tax Act for the 1982 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+94-2288(IT)I
+
+BETWEEN:
+
+JAGROOP S. GILL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals called for hearing on April 29, 2002 at Vancouver, British Columbia, by
+
+
+
+the Honourable Judge Terrence O'Connor
+
+JUDGMENT
+
+The Appellant in these appeals has agreed to be bound by the decision in Sarban Bawa (94-2099(IT)I) and consequently the Reasons for Judgment in Sarban Bawa form the Reasons for Judgment in these appeals.
+
+The appeals from the reassessment made under the Income Tax Act for the 1982 and 1993 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+94-2289(IT)I
+
+BETWEEN:
+
+GURDARSHAN S. GILL,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals called for hearing on April 29, 2002 at Vancouver, British Columbia, by
+
+
+
+the Honourable Judge Terrence O'Connor
+
+JUDGMENT
+
+The Appellant in these appeals has agreed to be bound by the decision in Sarban Bawa (94-2099(IT)I) and consequently the Reasons for Judgment in Sarban Bawa form the Reasons for Judgment in these appeals.
+
+The appeals from the reassessments made under the Income Tax Act for the 1982 and 1983 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+
+
+94-2887(IT)I
+
+BETWEEN:
+
+MELVYN CROSS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals called for hearing on April 29, 2002 at Vancouver, British Columbia, by
+
+
+
+the Honourable Judge Terrence O'Connor
+
+JUDGMENT
+
+The Appellant in these appeals has agreed to be bound by the decision in Sarban Bawa (94-2099(IT)I) and consequently the Reasons for Judgment in Sarban Bawa form the Reasons for Judgment in these appeals.
+
+The appeals from the reassessments made under the Income Tax Act for the 1982 and 1984 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+
+94-2888(IT)I
+
+BETWEEN:
+
+MARGARET CROSS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal called for hearing on April 29, 2002 at Vancouver, British Columbia, by
+
+the Honourable Judge Terrence O'Connor
+
+JUDGMENT
+
+The Appellant in this appeal has agreed to be bound by the decision in Sarban Bawa (94-2099(IT)I) and the effect thereof on the Appellant's claim for a child tax credit with the result that the Appellant is liable to repay to the Minister of National Revenue the Overpayment described in the Reply to the Notice of Appeal with all arrears interest and consequently the Reasons for Judgment in Sarban Bawa form the Reasons for Judgment in this appeal.
+
+The appeal from the reassessment made under the Income Tax Act for the 1984 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 17th day of June, 2002.
+
+"T. O'Connor"
+
+J.T.C.C.
+

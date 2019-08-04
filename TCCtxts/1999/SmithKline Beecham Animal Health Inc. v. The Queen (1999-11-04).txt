@@ -1,0 +1,164 @@
+Date: 19991104
+
+Docket: 95-1077-IT-G
+
+BETWEEN:
+
+SMITH KLINE BEECHAM ANIMAL HEALTH INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Order
+
+Bonner, J.T.C.C.
+
+[1] The Respondent in this income tax appeal applies for an order permitting the filing of an Amended Reply to the Notice of Appeal. By that amendment the Respondent seeks to plead what is described in the Notice of Motion as an "alternative legal basis" for defending certain assessments of Part XIII tax.
+
+[2] The Appellant was incorporated in Canada and carries on business here. At all relevant times it was a member of an international group of companies which I shall call the Smith Kline Group. The Appellant's parent company was Smith Kline & French International Co. whose head office was in the United States. The group was engaged in the development, manufacture and sale of pharmaceutical products. During the taxation years 1981 to 1986 inclusive the Appellant manufactured and sold in Canada a medication called Tagamet. The active ingredient in Tagamet is a chemical called cimetidine.
+
+[3] In carrying on its business the Appellant purchased cimetidine from two other members of the Smith Kline Group resident outside Canada. The vendors were Penn Chemicals B.V. ("Penn"), the Irish branch of a Netherlands corporation, and Franklin Chemicals Ltd. of Freeport, Grand Bahamas ("Franklin"). In computing income the Appellant deducted as a cost of goods sold the amounts paid or payable by it to Penn and Franklin for cimetidine supplied by them to the Appellant.
+
+[4] The Minister of National Revenue ("Minister") assessed the Appellant for tax under Part I of the Income Tax Act ("Act") for the taxation years listed above on the basis of findings or assumptions of fact which included the following:
+
+(a) the Appellant paid or agreed to pay U.S. $400.00 per kilogram to the Affiliates [Penn and Franklin] for cimetidine throughout the relevant period;
+
+(b) cimetidine was available from arm's length suppliers between 1981 and 1986 at prices of U.S. $50.00 to $250.00 per kilogram;
+
+(f) the Appellant paid or agreed to pay amounts aggregating $66,982,990 in excess of the price that would have been reasonable in the circumstances if the Appellant and the Affiliates had been dealing at arm's length during the relevant period.
+
+The Minister disallowed the deduction of part of the amounts paid or payable to the affiliates for cimetidine in reliance on subsection 69(2) of the Act. It reads:
+
+69(2) Where a taxpayer carrying on business in Canada has paid or agreed to pay, to a non-resident person with whom he was not dealing at arm's length as price, rental, royalty or other payment for or for the use or reproduction of any property, or as consideration for the carriage of goods or passengers or for other services, an amount greater than the amount (in this subsection referred to as "the reasonable amount") that would have been reasonable in the circumstances if the non-resident person and the taxpayer had been dealing at arm's length, the reasonable amount shall, for the purpose of computing the taxpayer's income from the business, be deemed to have been the amount that was paid or is payable therefor.
+
+The Appellant's position in the appeal as it pertains to the Part I assessments is that subsection 69(2) does not apply and further that, if it does apply, the amount substituted by the Minister is not reasonable in the circumstances of the Appellant.
+
+[5] The Minister issued companion assessments to the Appellant under Part XIII of the Act. Notices of those assessments in respect of payments during the years 1981 to 1986 bear the following explanation:[1]
+
+15% non-resident tax payable under the Income Tax Act. You have failed to deduct and remit a tax of $1,161,874.00 on $7,745,824.00 paid or credited to Smith Kline & French International Co. non-resident of Canada. Interest on the unpaid tax has been charged at the applicable prescribed rate.
+
+Net balance carried over to 1982 assessment notice.
+
+The theory on which the Part XIII assessments proceeded was explained by the assessor as follows:
+
+Since it has been determined that the taxpayer has paid an amount which is [sic] excess of the reasonable amount which it should have paid for the purchase of cimetidine, S. 56(2) deems that the excess is an appropriation which has been deemed by the parent company[2] at the time to have been paid and therefore should be taxed in the hands of the parent company. As the parent company is a non-resident taxpayer, the excess is therefore deemed to be a dividend pursuant to s. 214(3) and is subject to withholding taxes.
+
+Pursuant to the Canada â€“ U.S. Income Tax Convention the appropriate rate of tax is 15% for the years 1981 to 1984 (November 10, 1984) and 10% thereafter. The Canada U.S. agreement was amended and with the coming into force of the new agreement the rate of withholding tax applicable to dividends was reduced.
+
+The statutory provisions referred to and relied on by the assessor were:
+
+56(2) A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to him.
+
+and
+
+214(3) For the purposes of this Part,
+
+(a) where section 15 or subsection 56(2) would, if Part I were applicable, require an amount to be included in computing a taxpayer's income, that the amount shall be deemed to have been paid to the taxpayer as a dividend from a corporation resident in Canada.
+
+The appeal from the Part XIII assessments rests on much the same basis as the appeal from the Part I assessments, namely, that the price that the Appellant paid to Penn and Franklin for cimetidine was reasonable in the circumstances.
+
+[6] Before making the Part XIII assessments founded on the section 56 theory the Minister's officials considered whether the assessments should be made in reliance on paragraph 245(2)(b) of the Act which then read:
+
+245(2) Where the result of one or more sales, exchanges, declarations of trust, or other transactions of any kind whatever is that a person confers a benefit on a taxpayer, that person shall be deemed to have made a payment to the taxpayer equal to the amount of the benefit conferred notwithstanding the form or legal effect of the transactions or that one or more other persons were also parties thereto; and, whether or not there was an intention to avoid or evade taxes under this Act, the payment shall, depending upon the circumstances, be
+
+...
+
+(b) deemed to be a payment to a non-resident person to which Part XIII applies.
+
+Ultimately, when the assessments were issued, the assessor did not rely on section 245. If section 245 is substituted for subsection 56(2) in the chain of statutory provisions which impose Part XIII liability, the non-resident recipient of the deemed payments would have been Penn in the case of some of the payments and Franklin in the case of the rest. They, as opposed to the Appellant's parent, would have been the persons primarily liable for Part XIII tax.
+
+[7] The Reply to the Notice of Appeal as now framed states the issue with respect to tax under Part XIII as follows:
+
+(b) did the Respondent correctly assess the Appellant for tax under Part XIII of the Income Tax Act for amounts deemed to have been paid as dividends by a corporation resident in Canada to Smith Kline & French International Co., within the meaning of subsections 56(2) and 214(3) of the Income Tax Act;
+
+[8] The amendments sought would add the following to the statement of the issues:
+
+(b.1) alternatively, is the Appellant deemed, pursuant to paragraph 245(2)(b) of the Income Tax Act, to have made payments to the Affiliates to which Part XIII of the Income Tax Act (the "Act") applies; and
+
+The amendments add subsection 212(1) to the list of statutory provisions relied on. Although it is not entirely clear why, that list already contains a reference to subsection 245(2). As well the amendments would add the following submissions:
+
+(d) alternatively, should the Court find that no dividends were deemed to have been paid by the Appellant to Smith Kline & French International Co. pursuant to subsections 56(2) and 214(3) of the Income Tax Act, the Respondent submits that the assessments of tax under Part XIII of the Income Tax Act are justified on the basis that, pursuant to subsection 245(2) of the Income Tax Act;
+
+i) the Appellant, as a result of the transactions described in paragraphs 20 and 21 of this Reply, is deemed to have made payments to the Affiliates;
+
+ii) these payments are deemed to be payments to non-resident persons to which Part XIII applies; and
+
+iii) the Appellant failed to deduct or withhold the said tax from the payments made and is therefore personally liable for these amounts pursuant to ss. 215(1) and 215(6) of the Act.
+
+[9] Counsel for the Respondent submits that the amendments are required for the purpose of determining one of the real questions in controversy, namely, whether the alleged overpayment by the Appellant to the affiliated corporations for cimetidine results in liability for Part XIII tax. Counsel points out that the Respondent does not seek to appeal the existing assessments by asserting a claim for more tax than already assessed. Rather, the objective is to ensure that it is open to the Respondent to defend the existing assessments by relying on statutory provisions which, when applied to material facts already pleaded, will support the assessments of Part XIII tax, either in whole or in part. Counsel relied on the general rule governing amendments as stated by the Federal Court of Appeal in Canderel [3] as follows:
+
+... while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties. Provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+
+Counsel submitted that the real question in controversy in a tax appeal is whether the tax assessed is too high, and he asserted that the answer depends on the application of the law to the facts and not upon the analytical skills brought to bear on the case by the assessor. He relied on the dictum of the Federal Court of Appeal in Riendeau:[4]
+
+In our view, the Minister's mental process in making the assessment cannot affect the taxpayer's liability to pay the tax imposed by the Act itself. He may correct a mistake.
+
+He also relied on Minden[5] where Thorson P. stated:
+
+In considering an appeal from an income tax assessment the Court is concerned with the validity of the assessment, not the correctness of the reasons assigned by the Minister for making it. An assessment may be valid although the reason assigned by the Minister for making it may be erroneous. This has been abundantly established.
+
+Finally, counsel argued that the Appellant would not be prejudiced by the amendment. Counsel for the Appellant was advised of the Respondent's intention to seek the amendment before the completion of the discovery process.
+
+[10] Counsel for the Appellant argued that the amendment sought would "fundamentally alter" the Part XIII assessments under appeal; that the Part XIII limitation period expired at least two years ago and that new subsection 152(9) does not assist the Minister for it permits the Minister to advance new arguments in support of assessments but does not permit the Minister to advance a "new basis of assessment" following expiry of the section 152 limitation period. The latter, according to the Appellant, is what the Respondent seeks to do but may not do.
+
+[11] In support of the submission that the amendments if permitted would raise a new basis of assessment, counsel pointed out that the primary liability for Part XIII tax is imposed by section 212 on the non-resident payee. The liability of the resident payor under subsection 215(6) is derivative. It arises from the failure to withhold the tax. If, contrary to the view taken by the assessor, subsections 56(2) and 214(3) do not apply to deem the alleged overpayment to the affiliates to be dividends paid to the Appellant's parent, and if subsection 245(2) does apply, then the payments deemed by subsection 245(2) to have been made must be seen to have been made to Penn and Franklin which reside and carry on business in jurisdictions different from that of the parent. The result is that different tax treaties (or no tax treaty at all) and different rates of tax may apply. Finally, counsel emphasized that the assessor carefully considered the differing implications of subsections 56(2) and 245(2) and made a deliberate choice.
+
+[12] The Appellant's principal argument is that it is not open to the Minister to rely on section 245 at all, either in the first instance or by amendment. That argument rests on what is said in the reasons for judgment of the Supreme Court of Canada in Continental Bank.[6] In that case the Minister raised for the first time at the Supreme Court of Canada an argument which was wholly inconsistent with the position which he had previously taken. McLachlin J. stated at page 6503:
+
+... I agree with Bastarache J. that the Minister's argument that the Bank sold depreciable leasing assets or was otherwise liable for recapture of capital cost allowance pursuant to s. 88(1) of the Income Tax Act, R.S.C. 1952, c. 148, as amended, raised for the first time in this Court, cannot be entertained. The Minister should not be allowed to advance a new basis for a reassessment after the limitation period has expired.
+
+At page 6505 Bastarache J. stated:
+
+32. Taxpayers must know the basis upon which they are being assessed so that they may advance the proper evidence to challenge that assessment. Here, it is not clear that there is the proper factual basis to support a reassessment on the basis proposed by the appellant. For example, the value of the goodwill associated with the Bank's leasing business, which was transferred to Central in December 1986, could bear on the appellant's new claim for recapture by the Bank. It is not possible to measure the extent to which the Bank might otherwise be liable for recapture, or the Bank's income for tax purposes, without being able to properly allocate the purchase price paid by Central between goodwill and leasing assets. Because the Bank was not assessed on the recapture, the evidence relating to the allocation of the purchase price was not adduced at trial. To allow the appellant to proceed with its new assessment without the benefit of findings of fact made at trial would require this Court to become a court of first instance with regard to the new claim.
+
+[13] Continental Bank preceded the amendment of section 152 by the addition of subsection (9) and indeed led to that amendment. Subsection 152(9) reads:
+
+152(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+
+The Appellant argues that this subsection permits alternative arguments in support of an assessment but does not affect the rule laid down by Continental Bank which prohibits arguments after the expiry of the subsection 152(4) period if those arguments amount to an amendment to the basis of assessment.
+
+[14] In my view Continental Bank was never authority for the proposition that the Minister is, when defending an appeal from an assessment after the expiry of the subsection 152(4) period, confined within a conceptual prison called "basis of assessment" comprising only the facts and statutory provisions relied upon by the assessor. In my view Continental Bank is an application of the long standing rule governing litigation in appellate courts which rule prevents litigants from raising points on appeal which were not pleaded and argued in the trial court.[7] Appellate courts cannot be expected to deal with a new issue on appeal resting on an evidentiary record which is deficient by reason of the failure to plead and direct evidence to that issue. Here the Respondent seeks leave to amend well before the commencement of the trial. The situation is in no way analogous to Continental Bank.
+
+[15] Furthermore, nothing said in Continental Bank suggests that subsection 152(4) has a bearing on the amendment which the Respondent seeks. Subsection 152(4) restricts the right of the Minister to "... reassess or make additional assessments, or assess tax, interest or penalties ...". The amendment now in question would not effect a reassessment of tax. Rather it is an attempt to defend the existing assessment of tax by asserting that, on the facts already pleaded, liability is imposed by a provision of the Act other than that relied on by the assessor.
+
+[16] It is long settled law that the validity of an assessment depends on the application of the statute to the facts and not on the assessor's analysis. It is, I believe, unlikely that it was the intention of the Court in Continental Bank (supra) to overrule decisions such as Minden (supra) and Riendeau (supra) without referring to them. Accordingly, I am of the opinion that nothing said in Continental Bank can apply to prevent the Minister from relying on section 245 in the present case.
+
+[17] In any event, I disagree with the Appellant's argument which essentially asserts that subsection 152(9) of the Act is inapplicable because the Minister is attempting by amendment to change the basis of assessment at a time when it is too late to do so by reason of subsection 152(4). When subsection 152(4) is read in the new statutory context which includes subsection 152(9) it is evident that it cannot be said that the legislature intended that the advancing of arguments in support of an existing assessment can constitute the exercise of the power to reassess. Section 152 differentiates between assessment and reassessment on the one hand and the appeal process on the other. What the Respondent seeks is an amendment to the Reply which will permit him to do precisely what the plain language of subsection 152(9) permits, namely, advance an alternative argument in support of the Part XIII assessment. He seeks to argue in the alternative that the existing assessment of tax is supported by provisions of the Act other than those relied upon by the assessor and this he is entitled to do.
+
+[18] I turn next to the question whether leave to amend should be granted under section 54 of the Tax Court of Canada Rules (General Procedure). A valuable summary of the law on this point may be found in the decision of the Federal Court of Appeal in Canderel (supra) at pages 5360 and 5361. It is not necessary to repeat it. The Appellant argues that it would suffer prejudice if the amendment is allowed. This argument is focused on the fact that a finding that the Appellant was under a duty to withhold based on section 245 and not on subsection 56(2) would change the identity of the primary non-resident taxpayer and person from whom the Appellant has a right of recovery under subsection 215(6). In my view, the Appellant is not prejudiced. Allowing the amendment now will do nothing more than place the parties in the same position as if the Respondent had adequately raised section 245 in the first place. Counsel for the Appellant did not suggest that the discovery process would have to be reopened if leave to amend is granted. Nothing in the material suggests that the amendment sought would delay the expeditious trial of the matter. Failure to permit the amendment would have the effect of preventing the Court from considering a possibly relevant provision of the Act when deciding the case on its merits. If the assessment is upheld on the basis of section 245 the judgment will not change the identity of the person primarily liable for the Part XIII tax. Rather, it will identify the person, if there is one, who has been liable all along.
+
+[19] The Appellant argues that the allegations of fact contained in the proposed Amended Reply are an insufficient foundation for the application of subsection 245(2). In my view, if the facts alleged in paragraphs 20 and 21 of the proposed Reply are established, it is at least fairly arguable that subsection 245(2) applies.
+
+[20] Finally, the Appellant argues that the amendment ought not to be allowed because the assessor made an informed decision not to use subsection 245(2). This circumstance has no bearing on the question whether the amendment ought to be allowed.
+
+[21] An order will therefore issue permitting the amendment. The Appellant shall have costs of this application in any event of the cause.
+
+Signed at Ottawa, Canada, this 4th day of November 1999.
+
+"Michael J. Bonner"
+
+J.T.C.C.
+
+[1] The figures vary from year to year.
+
+[2] This sentence is not a model of clarity but it was not suggested that anyone was misled.
+
+[3] The Queen v. Canderel, [1993] 2 C.T.C. 213 at 217.
+
+[4] The Queen v. Riendeau, [1991] 2 C.T.C. 64 at 65.
+
+[5] M.N.R. v. Beatrice Minden, 62 DTC 1044 at 1050.
+
+[6] The Queen v. Continental Bank of Canada, 98 DTC 6501.
+
+[7] The "Tasmania" (1890), 15 App. Cas. 223 at 225.
+

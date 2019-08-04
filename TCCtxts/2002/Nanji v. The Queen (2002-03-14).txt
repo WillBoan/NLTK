@@ -1,0 +1,320 @@
+Date: 20020314
+
+Dockets: 2001-516-IT-I,
+
+2001-3674-IT-I, 2001-3865-IT-I
+
+BETWEEN:
+
+ISMAIL NANJI, PYARALI NANJI,
+
+AMIR NANJI
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] These appeals were heard together and are from assessments for the appellants' 1999 taxation year.
+
+[2] The sole issue is the fair market value of a parcel of land at 6000 Kingston Road on February 22, 1994.
+
+[3] In their 1994 taxation year the appellants, who are three brothers, elected to report a gain on the property on February 22, 1994.
+
+[4] The February 22, 1994 budget eliminated the capital gains exemption except in respect of shares of qualified small business corporations and qualified farm property. Taxpayers were however entitled to preserve the capital gains exemption on other properties in respect of gains that had accrued to February 22, 1994. This was accomplished by filing an election (form T664) under subsection 110.6(19) of the Income Tax Act which created a deemed disposition and resulting capital gain which could be offset by the available capital gains exemption. With the exception of certain types of property that are not relevant here, subsection 110.6(19) provides for a deemed reacquisition at the amount designated, subject to certain conditions that I will discuss later. The deemed acquisition cost forms the adjusted cost base ("ACB") of the property when it is ultimately sold.
+
+[5] If the taxpayer designates an amount that exceeds the fair market value ("fmv") on February 22, 1994, but is less that 11/10 of that fmv the deemed reacquisition cost is the February 22, 1994 fmv. If an amount is designated that exceeds 11/10 of the February 22, 1994 fmv the deemed reacquisition cost is reduced by the amount by which the designated amount exceeds 11/10 of the February 22, 1994 fmv.
+
+[6] Subsections 110.6(25) and (27) permit the revocation or amendment of an election under certain conditions but under subsection (28) the amendment or revocation of an election cannot be made if the amount designated exceeds 11/10 of the February 22, 1994 fmv of the property.
+
+[7] The above is a somewhat simplistic summary of how an election under subsection 110.6(19) works. The following is how it was applied.
+
+[8] The three appellants, together with a fourth person, owned a parcel of land at 6000 Kingston Road, Scarborough, Ontario.
+
+[9] In their returns of income for 1994 they filed an election (form T664) designating proceeds of disposition of $500,000. The election form indicated that the property had been bought in 1980 and had an ACB of $110,000. This resulted in a capital gain of $390,000. They then applied a reduction to that capital gain for the purposes of the election on the basis that the property was a non-qualifying real property. It was assumed that the property was non-qualifying real property, as defined in section 110.6 and I have no evidentiary basis on which to disagree. The property was held and used in the business of operating a garage. The reduction was $54,600, i.e. $390,000 X .14.
+
+[10] The .14 factor was determined by the number of months between February 22, 1992 and February 22, 1994 (24) over the number of months the property was owned prior to February 22, 1994 (168).
+
+[11] The resulting elected capital gain was $335,400. The elected taxable capital gain was ¾ of this amount or $251,550, divided between the four owners in the amount of $62,887.50 each.
+
+[12] In 1999, the year under appeal, the property was sold for $350,000. In their return of income the appellants filed a page from the Guide and calculated their new ACB as follows:
+
+FMV at end of February 22, 1994 $350,000
+
+Designated proceeds of disposition $500,000
+
+$350,000 X 110% = $385,000
+
+$500,000 minus $385,000 = $115,000
+
+$350,000 - $115,000 = $235,000
+
+(new ACB)
+
+Plus expenses of disposition $2,876.25 = $237,876.25
+
+Capital gain $112,123.75
+
+Taxable capital gain $84,092.81
+
+Allocated to each owner $21,023.20
+
+[13] This amount was included in each return for 1999 and the same amount was deducted in computing taxable income as a capital gains deduction.
+
+[14] Neither the assessments nor the 1994 or 1995 returns were put in evidence and for them to be sent to the court, even though they do not form part of the record and are not available for inspection by the public, is, apparently, an illegal search and seizure (Gernhart v. The Queen, 99 DTC 5749). Accordingly it is not clear just what happened on assessing but I assume the capital gains deduction was denied.
+
+[15] Also, the Minister must have assumed that the $350,000 shown in the return was the correct February 22, 1994 fmv even though the respondent called an expert witness who testified that in his opinion the fmv on February 22, 1994 was $275,000. The Minister also seems to have proceeded on the assumption that the appellants did not file amended elections and since the designated amount in the election of $500,000 was more than 11/10 of the February 22, 1994 fmv, they could not have done so in any event. This is the type of case where the respondent should have called the assessor to describe the technical calculations that were made on assessing. The three appellants, whose first language is not English and who are not familiar with the exceptional intricacies of the Income Tax Act in this area, are at a clear disadvantage. Moreover, the Crown has the luxury of being able to call an expert witness from the CCRA. For the appellants to call an expert valuation witness would be prohibitively expensive.
+
+[16] It is perhaps worthwhile to consider what would have happened if they had in the election filed in 1994 designated $350,000 rather than $500,000.
+
+[17] The calculations would have been
+
+$350,000 - $110,000 = $240,000
+
+less reduction for non qualifying property $240,000 X .14 = $33,600
+
+elected capital gain $206,400
+
+taxable capital gain $206,400 X .75 = $154,800
+
+[18] When the property was sold in 1999 the capital gain (assuming the CCRA accepted the February 22, 1994 fmv of $350,000, as it appears to have done) would have been calculated as follows.
+
+February 22, 1994 fmv $350,000
+
+Less designated proceeds $350,000
+
+Minus $350,000 X 1.1 = $385,000 $385,000
+
+0
+
+New ACB $350,000
+
+Capital gain on disposition 0
+
+[19] The consequences of designating a figure that exceeds 11/10 of the February 22, 1994 fmv are significant. Whether the Act says so or not it is a penalty and obviously intended to be such. This is confirmed by subsection 110.6(28) which prohibits the amendment or revocation of the election where the designated amount exceeds 11/10 of the February 22, 1994 fmv. It is clear on the evidence that the designated amount of $500,000 was arrived at in good faith by the appellants.
+
+[20] The calculation made by the appellants of a taxable capital gain of $21,023.20 was correct if we accept the premise that the February 22, 1994 fmv was $350,000. The excessive designation of $500,000 had the effect of reducing the ACB by $115,000. The appellants' mistake was in thinking they could claim a capital gains exemption against the taxable capital gain of $21,023.20. It was simply not available in 1999.
+
+[21] If the February 22, 1994 fmv is $350,000 and the appellants are not able to amend the $500,000 designation, the assessments must stand.
+
+[22] Any increase in the February 22, 1994 fmv beyond $350,000 reduces the amount of the penalty and increases the ACB. Since the appellants called no expert witness I must look to the expert witness report filed by the respondent. The appellants' failure to call an expert is understandable because of the cost but it means that the court must rely solely on the comparables chosen by the respondent's expert.
+
+[23] Obviously the court is not bound by any expert's report and the court seldom adopts any report in its entirety: Grove Crest Farms Limited et al. v. The Queen, 96 DTC 1166; Western Securities Limited v. The Queen, 97 DTC 977; Erb et al. v. The Queen, 2000 DTC 1401; Bibby Estate v. The Queen, 83 DTC 5148 at 5157.
+
+[24] The same is true even where one party does not file a report.
+
+[25] The respondent's expert, Mr. Beharry, has considerable academic qualifications and experience in making appraisals for his employer, the CCRA. It does not appear that he has ever been active in the real estate market as a broker or dealer in Scarborough.
+
+[26] In James et al. v. Canadian National Railway Company, [1965] Ex.C.R. 71, Cattanach, J. said at p. 76:
+
+I must also make some general comment with reference to the real estate experts. My understanding is that a person qualifies to express an opinion as an expert on land values by having had experience operating in the market as a broker or dealer. By reason of that experience, he is in a position to express an opinion as an "expert" as to what buyers would have paid for the expropriated property at the time of expropriation and as to what sellers would have sold the expropriated property for at that time. Without that experience, I should not have thought that a witness has any status to be expressing such opinions as an expert or otherwise. In this case, the evidence as to the qualifications of the experts has emphasized the academic training and the experience of the witness as a valuator or appraiser and has minimized his practical experience in the market. Indeed, in one instance, the witness did not claim any such experience.
+
+[27] He repeated this view in a somewhat modified form in Salt et al. v. The Queen, 84 DTC 6395 at 6401-2.
+
+[28] I am not prepared to go so far as Cattanach, J. did and exclude the evidence of a person without experience as a broker or dealer. Such lack of experience does however go to weight. The evidence of such persons is useful in that it puts before the court comparables from which the court can form its own view of value. However an appraiser must make judgement calls in such matters as the choice of comparables, the adjustments that must be made to the price paid for comparables and distance from the subject property and the highest and best use of the subject property. It is difficult to see how a person with no experience in the real estate market as a broker or dealer can make such judgement calls with any greater degree of accuracy than any one else.
+
+[29] Valuation, as Viscount Simon said in Gold Coast Selection Trust Ld. v. Humphrey, [1948] A.C. 459 at 473, is an art, not a science. It is however an art that requires molding and tempering in the marketplace.
+
+[30] I must nonetheless base my conclusions on the evidence before me and I cannot abrogate that responsibility by merely adopting the opinion of the only person called to give expert testimony.
+
+[31] Mr. Beharry concluded that on February 22, 1994, 6000 Kingston Road had a fmv of $275,000. The CCRA did not use this figure on assessing, and it could not use it to justify asking for more tax (Harris v. M.N.R., 64 DTC 5332 at 5337).
+
+[32] Mr. Beharry discussed three approaches: cost, income and direct comparison. He did not use the income approach. His final figure of $275,000 is the average of the figure of $289,000 determined by the cost approach and the figure of $261,000 arrived at using the direct comparison approach.
+
+[33] The cost approach starts with a land cost of $233,000, adds $139,101 for the building and equipment less a depreciation factor of 60% (an admittedly highly subjective determination) to arrive at a figure of $55,640 for a total of $288,640.
+
+[34] The direct comparison approach uses a number of sales of unimproved lots and a number of sales of lots with buildings on them.
+
+[35] He concluded that the highest and best use of the property on February 22, 1994 was a continuance of its present use, that of a commercial use property. He also concluded that the building added nothing to the value of the property. I find it difficult to reconcile these last two conclusions. I do not think it is realistic to value such property as if it were vacant and yet to use comparables that have similar buildings on them. With one exception the sales of vacant land set out in Mr. Beharry's report indicated a price per square foot that was lower than the square foot price of the improved lots.
+
+[36] The subject property is a corner lot with a frontage on Kingston Road of 97.58 feet. The building is a garage with three bays, not two as assumed by the appraiser. The garage has about 2,256 square feet. The appellant, Mr. Ismail Nanji, who spoke on behalf of his brothers, said the lot was 97 X 145 feet or 14,065 square feet.
+
+[37] Sale no. 1 at 6149 Kingston Road had 19,419 square feet and a frontage of 87 feet. It was not a corner lot. It sold in July 1995 for $330,000, or $17 per square foot. This would indicate a value of $239,105 for the subject property, using Mr. Ismail Nanji's figure for the size.
+
+[38] Sale no. 2 at 2272 Kingston Road sold in May 1994 for $380,000 and resold in May 1995 for $462,500. It had a 75.08 feet frontage with a total size of 8,988 square feet. The service garage had an area of 5,477 square feet. It was closer to downtown Toronto but there was no evidence that this difference in location made it more valuable. The garage was built in 1949 compared to the subject property which was built in 1947. If the building on the subject property added no value as Mr. Beharry believed, it is difficult to see why the building on this property should do so.
+
+[39] The subject property is preferable for several reasons. It is larger, and it is a corner lot. If however we simply divide the lot size into the May 1994 sale price of $380,000 we find that the property sold for $42.27 per square foot. If we apply this figure to the subject property with 14,065 square feet we would arrive at a value of $594,648. This may be high in comparison to some of the other sales but it does indicate that the Crown's valuation of $275,000 is unrealistically low.
+
+[40] Sale no. 3, 2592 Eglinton Avenue East, is a corner lot but it is much larger — 30,980 square feet. It sold in June 1995 for $725,000. It may not be a particularly good comparable because of its size, but using the per square foot price of $23.40 it would indicate a value of about $329,000 for the subject property.
+
+[41] Sale no. 4, 144 Galloway Road, had an area of 23,086 square feet. It sold on June 14, 1994 for $600,000, or about $26 per square foot. This would indicate a value of about $365,690 for the subject property.
+
+[42] Sale no. 5, 2906 Eglinton Avenue East, had an area of 23,760 square feet, sold on June 14, 1994 for $594,595, or $25 per square foot. This would indicate a value of about $351,625 for the subject property.
+
+[43] Sale no. 6 at 4141 Kingston Road, with an area of 8,264 square feet sold on January 31, 1994 for $252,000, or $30 per square foot. This would indicate a value of $421,950 for the subject property.
+
+[44] It will be apparent that if we attribute no value to the buildings and make no adjustments for time or distance, the values, using a square footage of 14,065 for the subject property and based on the six comparables with garages on them would run from a low of $239,105 to a high of $594,648. The average is about $383,669. I do not suggest for a moment that one can take the average of all of the comparables of improved property and thereby arrive at a fair market value. However where the average of the total selling price of the six lots is $383,669 and the average price per square foot is $27.28, which would indicate a price for the subject property of $383,693, it should give anyone attempting to arrive at a fair market value reason to have serious doubts about a figure of $275,000, or 72% of the average figure. Judges should not let themselves be overly bedazzled by the mystique and jargon of real estate appraisals where the results, based on assumptions that are either not articulated or not substantiated, yield valuations that run counter to ordinary commercial common sense. The valuation of a corner lot on Kingston Road in Scarborough, where similar properties are bought and sold routinely, is not, after all, an arcane endeavour. It is a rather mundane exercise.
+
+[45] The sale that in my view is most comparable is sale no. 6 at 4141 Kingston Road. The sale took place only three weeks before February 22, 1994. The lot size is smaller, but the size of the garage, 2,062 square feet, is comparable to the size of that located on the subject property, which is somewhat larger with 2,256 square feet. If anything, the subject property compares favourably to this comparable because it has twice the frontage and is a corner lot, an obvious advantage for a garage. The garage on the subject property is only eight years older.
+
+[46] I can see no basis for adjusting the value of $421,950 downwards. Indeed there might be some justification for adjusting it upwards, but I do not believe I have the evidence that would permit me to do so. Where a property is as comparable to the subject as this one, and a sale takes place at about the relevant date, I can see no reason for making adjustments or calculations of averages.
+
+[47] In my view the evidence establishes that the subject property had a fmv of $421,950 on February 22, 1994.
+
+[48] The appeals are therefore allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fmv of the property at 6000 Kingston Road, Scarborough, Ontario on February 22, 1994 was $421,950.
+
+[49] The appellants are entitled to their costs, if any, in accordance with the tariff.
+
+Signed at Ottawa, Canada, this 14th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NOS.: 2001-516(IT)I, 2001-3674(IT)I, 2001-3865(IT)I
+
+
+
+STYLE OF CAUSE: Between Ismail Nanji and Her Majesty The Queen
+
+Between Pyarali Nanji and Her Majesty The Queen
+
+Between Amir Nanji and Her Majesty The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: July 16, 2001 and February 27, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENTS: March 14, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant themselves
+
+Counsel for the Respondent: Brianna Caryll
+
+COUNSEL OF RECORD:
+
+For the Appellants:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-516(IT)I
+
+BETWEEN:
+
+ISMAIL NANJI,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on July 16, 2001 and heard with the appeals of Pyarali Nanji
+
+(2001-3674(IT)I) and Amir Nanji (2001-3865(IT)I) on February 27, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Brianna Caryll
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the property at 6000 Kingston Road, Scarborough, Ontario on February 22, 1994 was $421,950.
+
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+
+Signed at Ottawa, Canada, this 14th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+2001-3674(IT)I
+
+BETWEEN:
+
+PYARALI NANJI,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard with the appeals of Ismail Nanji (2001-516(IT)I) and Amir Nanji (2001-3865(IT)I) on February 27, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Brianna Caryll
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the property at 6000 Kingston Road, Scarborough, Ontario on February 22, 1994 was $421,950.
+
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+
+Signed at Ottawa, Canada, this 14th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+2001-3865(IT)I
+
+BETWEEN:
+
+AMIR NANJI,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard with the appeals of Ismail Nanji (2001-516(IT)I) and Pyarali Nanji (2001-3674(IT)I) on February 27, 2002 at Toronto, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Brianna Caryll
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1999 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the property at 6000 Kingston Road, Scarborough, Ontario on February 22, 1994 was $421,950.
+
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+
+Signed at Ottawa, Canada, this 14th day of March 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

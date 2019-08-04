@@ -1,0 +1,298 @@
+Date: 20020807
+
+Docket: 2000-4488-IT-I
+
+BETWEEN:
+
+JOHN J. GROHN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Miller J.
+
+[1] Mr. John Grohn appeals by way of informal procedure the assessments of the Minister of National Revenue of his 1994, 1996, 1997 and 1998 taxation years. Mr. Grohn was a resident of Germany during those years. In his written submissions, Mr. Grohn did not argue in connection with the 1997 or 1998 taxation years. As those years' assessments resulted in a refund to Mr. Grohn, this is understandable. The appeals for 1997 and 1998 are consequently dismissed as there is no amount of tax at issue.
+
+[2] Mr. Grohn attempted in his argument to raise issues pertaining to 1995. As there was no notice of objection to an assessment of the 1995 taxation year, I do not consider there to be any appeal before me for that year.
+
+[3] This leaves the 1994 and 1996 taxation years to consider. The facts pertaining to those years are concisely set out in an Agreed Statement of Facts, the relevant parts of which read as follows:
+
+1994 Taxation Year
+
+2. The Minister of National Revenue (the "Minister") assessed Part XIII tax with respect to the 1994 taxation year by Notice of Assessment dated May 24, 1996.
+
+3. By Notice of Objection dated August 7, 1996, the Appellant objected to the Notice of Assessment referred to in paragraph 2 above.
+
+4. During the 1994 taxation year, the Appellant received the following income:
+
+· Registered Retirement Income Fund (T4RIF) from Nesbitt Burns Inc.: $109,600.52
+
+· Government of Canada Public Service Pension: $30,415.00
+
+4.1 The amount of $109,600.52 from Nesbitt Burns Inc. was received, minus the withheld amounts as described in paragraph 6 herein, in various unequal periodic payments throughout the year 1994. The last payment received was substantially higher than the previous ones.
+
+5. With respect to the income from the Registered Retirement Income Fund, the Appellant's "minimum amount" within the meaning of subsection 146.3(1) of the Income Tax Act for the 1994 taxation year, and as calculated by Nesbitt Burns, was $5,134.59 (attached is a copy of the Appellant's T4RIF for the 1994 taxation year).
+
+6. During the 1994 taxation year, the following amount of tax was withheld from the income received by the Appellant:
+
+· On the T4RIF income: $24,941.44
+
+· On the Government of Canada Public Service Pension: $3,488.36
+
+7. The Minister determined the Appellant's liability pursuant to Part XIII resulting from the T4RIF income received in 1994 to be $26,373,22, calculated as follows:
+
+Taxable amount $109,600.52
+
+Minimum amount $5,134.59 x 2= $10,269.18 (periodic)
+
+$109,600.52 - $10,269.18= $99,331.34 (lump sum)
+
+$10,269.18 x 15%= $1,540.38
+
+$99,331.34 x 25%= $24,832.84
+
+$26,373.22 -$24,941.44(withheld) = $1,431.78
+
+8. The Minister determined the Appellant's liability pursuant to Part XIII resulting from the Government of Canada Public Service Pension income received in 1994 to be $4,562.25, calculated as follows:
+
+Taxable amount $30,415 x 15% = $4,562.25
+
+Amount withheld ($3,488.36)
+
+$1,073.89
+
+9. The amount of Part XIII tax assessed for the 1994 year was $2,505.67, calculated as follows:
+
+T4RIF $1,431.78
+
+Gov. Canada Pension $1,073.89
+
+$2,505.67
+
+1996 TAXATION YEAR
+
+10. The Minister of National Revenue assessed Part XIII tax with respect to the 1996 taxation year by Notice of Assessment dated February 16, 2000.
+
+11. By Notice of Objection dated March 8, 2000, the Appellant objected to the Notice of Assessment referred to in paragraph 10 above.
+
+11.1 ...
+
+12. By Notice of Confirmation dated September 29, 2000, the Minister of National Revenue confirmed the assessment referred to in paragraph 10 above.
+
+13. During the 1996 taxation year, the Appellant received the following income:
+
+· Old Age Security Pension (Old Age Security Act): $4,764.42
+
+· Canada Pension Plan Benefits: $4,801.79
+
+· Registered Retirement Savings Plan income (Gov. Canada) (T4RSP): $70.00
+
+· Government of Canada Public Service Pension: $2,127.00
+
+· Interest income (Bank of Montreal): $265.71
+
+14. During the 1996 taxation year, the following amount of tax was withheld from the income received by the Appellant:
+
+· On the Public Service Pension: $176.23
+
+15. The Minister determined the Appellant's liability pursuant to Part XIII resulting from the income received in 1996 to be $2,584.72, calculated as follows:
+
+Old Age Security Pension $4,764.42 x 25% = $1,191.11
+
+Canada Pension Plan Benefits $4,801.79 x 25%= $1,200.45
+
+T4RSP income $70.00 x 15%= $ 10.50
+
+Gov. Canada Pension $2,127.00 x 15%= $ 319.05
+
+Interest income $265.71 x 15%= $ 39.86
+
+Total $2,760.97
+
+16. The amount of Part XIII tax assessed for the 1996 year was $2,584.12, calculated as follows:
+
+Part XIII tax liability $2,760.97
+
+Amount withheld $ 176.23
+
+$2,584.72
+
+[4] Issues
+
+(i) Were the Registered Retirement Income Fund payments received by Mr. Grohn in 1994 taxed at the correct withholding rate?
+
+(ii) Was the Minister's assessment for the 1996 taxation year too late?
+
+(iii) Does the failure of the Canadian payor in 1994 and 1996 to withhold sufficient tax from amounts payable to Mr. Grohn relieve him from his tax liability?
+
+The Registered Retirement Income Fund payments in 1994
+
+[5] In connection with the calculation of the withholding tax on the 1994 RRIF payments of $109,600.52, Mr. Grohn argues that the payments were varying periodic payments and not one lump sum. As such, he maintains the appropriate withholding rate under the Canada-Germany Tax Convention (the "Treaty") is 15% and not the 25% determined by the Minister. The starting point in this analysis is section 212(1)(q) of the Income Tax Act which reads:
+
+212(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+
+...
+
+(q) a payment out of or under a registered retirement income fund that would, if the non-resident person had been resident in Canada throughout the taxation year in which the payment was made, be required by section 146.3 to be included in computing the non-resident person's income for the year, other than the portion thereof that
+
+(i) has been transferred by the payer on behalf of the non-resident person pursuant to an authorization in prescribed form
+
+(A) to a registered retirement savings plan under which the non-resident person is the annuitant (within the meaning assigned by subsection 146(1)),
+
+(B) to acquire an annuity described in subparagraph 60(l)(ii) under which the non-resident person is the annuitant, or
+
+(C) to a carrier (within the meaning assigned by subsection 146.3(1)) as consideration for a registered retirement income fund under which the non-resident person is the annuitant (within the meaning assigned by subsection 146.3(1)), and
+
+(ii) would, if the non-resident person had been resident in Canada throughout the year, be deductible in computing the non-resident person's income for the year by reason of paragraph 60(l);
+
+[6] Before considering the Treaty provisions, it is necessary to look to the Income Tax Conventions Interpretation Act for the definition of "pension" and "periodic pension payment":
+
+"pension" means, in respect of payments that arise in Canada,
+
+(a) if the convention does not include a definition of "pension", a payment under any plan, arrangement or contract that is
+
+(i) a registered pension plan,
+
+(ii) a registered retirement savings plan,
+
+(iii) a registered retirement income fund, (...)
+
+"periodic pension payment" means, in respect of payments that arise in Canada, a pension payment other than
+
+(a) ...
+
+(b) ...
+
+(c) a payment at any time in a calendar year under a registered retirement income fund, where the total of all payments (other than the specified portion of each such payment) made under the fund at or before that time and in the year exceeds the total of
+
+(i) the amount that would be the greater of
+
+(A) twice the amount that, if the value of C in the definition "minimum amount" in subsection 146.3(1) of the Income Tax Act were nil, would be the minimum amount under the fund for the year, and
+
+(B) 10% of the fair market value of the property (other than annuity contracts that, at the beginning of the year, are not described in paragraph (b.1) of the definition "qualified investment" in subsection 146.3(1) of the Income Tax Act) held in connection with the fund at the beginning of the year
+
+if all property transferred in the year and before that time to the carrier of the fund as consideration for the carrier's undertaking to make payments under the fund had been so transferred immediately before the beginning of the year and if the definition "minimum amount" in subsection 146.3(1) of the Income Tax Act applied with respect to all registered retirement funds, and
+
+(ii) ...
+
+[8] Article 9 of the Protocol to the Treaty stipulates that Canadian tax charged on "periodic pension payments" may not exceed 15%. If the payments to Mr. Grohn, are periodic pension payments, then the 15% withholding tax is applicable. Mr. Grohn argues alternatively that the amounts from Nesbitt Burns were not in the nature of pension payments at all, but were an annuity. The evidence indicates that the amounts from Nesbitt Burns came out of a RRIF. The Income Tax Conventions Interpretation Act specifically captures payments from a RRIF in the definition of "pension". Mr. Grohn objects to this domestic legislation as being contrary to the spirit of the Treaty. I disagree with his assessment of the legislation; in any event he has not presented any argument which would justify the consideration of a challenge to the validity of such legislation. The RRIF payments are pension payments, not annuities.
+
+[9] The definition of "periodic pension payments" specifically excludes a payment under a RRIF, if the total of RRIF payments in the year exceeds twice the "minimum amount" (in this case, twice $5,134.59, or $10,269.18 in total). Mr. Grohn agreed with the determination of the minimum amount for these purposes. It follows that the excess of the RRIF payments received in 1994 over $10,269.18, in whatever number of payments, do not qualify as periodic pension payments as defined, and therefore are subject to the greater withholding of 25%.
+
+Late Assessment
+
+[10] The Notice of Assessment for 1996 was dated February 16, 2000. Mr. Grohn relies on his understanding of a three-year limitation to argue that this assessment was made outside the normal assessment period. There is no evidence of an assessment for the 1996 taxation year prior to the February 16, 2000 assessment.
+
+[11] Subsections 152(3.1) and 227(10.1) of the Income Tax Act are the relevant sections to consider. They read as follows:
+
+152(3.1) For the purposes of subsections (4), (4.2), (4.3) and (5), the normal reassessment period for a taxpayer in respect of a taxation year is
+
+(a) ...
+
+(b) in any other case, the period that ends 3 years after the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year or the day of mailing of a notification that no tax is payable by the taxpayer for the year.
+
+227(10.1) The Minister may assess
+
+(a) any person for any amount payable by that person under subsection (9), (9.2), (9.3) or (9.4), and
+
+(b) any non-resident person for any amount payable by that person under Part XIII,
+
+and, where he sends a notice of assessment to that person, sections 150 to 167 (except subsections 164(1.1) to (1.3)) and Division J of Part I are applicable with such modifications as the circumstances require.
+
+[12] The three-year period referred to in subsection 152(3.1) does not run, as Mr. Grohn interprets it, from the end of the calendar year to which the assessment applies. The time period does not commence January 1, 1997, but commences on the day of mailing of a notice of an original assessment. There is no evidence that there was any original assessment prior to February 2000. Subsection 227(10.1) gives the Minister authority to render an original assessment at any time. The February 2000 assessment, as an original assessment, is not outside any three-year time limitation.
+
+Effect of Failure of Payor to Withhold
+
+[13] Finally, for both 1994 and 1996, Mr. Grohn argues that the liability for the insufficient withholding rests with the payor, not with him. The payments under consideration are made up for the most part of payments from the Government of Canada (Government of Canada Pension, OAS, CPP). I can appreciate Mr. Grohn's frustation that the very entity which failed to deduct sufficient withholding, that is the Government of Canada, now seeks a shortfall plus interest from him. Mr. Grohn characterizes this failure as negligence. Whether the cause of the failure is negligence, inadvertence or sloppiness is not relevant. The sections of the Act speaking to liability are clear. The opening words of subsection 212(1), the first section of Part XIII states:
+
+... Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, ... to the non-resident person ...
+
+[14] There is no relieving provision, though the payor, under subsection 215(6), is also liable for the shortfall. Mr. Grohn wants me to interpret subsection 215(6) as shifting responsibility from him to the payor, the Canadian government. The section does not say that. Similarly, the interest arising is a joint liability of both Mr. Grohn and the payor (see subsections 227(8.1) and 227(8.3)). The interest has arisen, at least initially, by the failure of the government to withhold the correct amount. I do not find that Mr. Grohn is relieved of the liability. However, I believe this is a situation where he should apply under the Fairness Provisions (subsection 220(3.1)) for a waiver of the interest, given the Government of Canada was the delinquent payor. I hope Mr. Bourgeois would be so kind as to direct Mr. Grohn in the right direction for such an application.
+
+[15] I explored two further matters with the parties, although not initially raised by them. First, I asked for some explanation as to why the withholding rate of the CPP and OAS was 25% and not 15%. I am satisfied from a review of the Hausman Estate case, [1998] 4 C.T.C. 2232, and the Dumoulin case, 2001 DTC 999, that payments from CPP and OAS are regarded in Canada as social security benefits and not annuities. They therefore do not qualify for the lower withholding.
+
+[16] Second, I asked whether the Respondent had sufficient information to treat Mr. Grohn's 1996 taxation year under the provisions of Part I of the Income Tax Act. As Mr. Grohn has since made it clear that would be his preference. Mr. Grohn has two hurdles to overcome: first, he is far beyond the time limit imposed under subsection 217(2) for making an election to be treated under Part I. Second, to be taxed under Part I, it is necessary to know Mr. Grohn's worldwide income. It is unclear from the facts whether Mr. Grohn has any income other than from Canada, enabling the Respondent to make an appropriate Part I assessment of tax owing. I am therefore unable to direct the Minister to reassess under Part I.
+
+[17] While I must dismiss Mr. Grohn's appeal, I do so with a sense of regret that neither CCRA nor the Department of Justice were able to reach a less onerous result for Mr. Grohn, given it was the Government of Canada who deducted too little tax from Mr. Grohn's payments in the first place. Waiver of interest and a consideration of Part I filing by obtaining the necessary information from Mr. Grohn could have reduced the amount owing by Mr. Grohn without in any way compromising the policy of taxation of non-residents. Having obviously not been privy to discussions between the parties, I make this as a comment of regret only, not as a criticism.
+
+[18] The appeals are dismissed.
+
+Signed at Ottawa, Canada, this 7th day of August, 2002.
+
+"Campbell J. Miller"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-4488(IT)I
+
+STYLE OF CAUSE: John J. Grohn and Her Majesty the Queen
+
+PLACE OF HEARING:
+
+DATE OF HEARING:
+
+REASONS FOR JUDGMENT BY: The Honourable Judge Campbell J. Miller
+
+DATE OF JUDGMENT: August 7, 2002
+
+PARTICIPANTS:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Daniel Bourgeois
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm: N/A
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-4488(IT)I
+
+BETWEEN:
+
+JOHN J. GROHN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals determined from written submissions of the parties by
+
+the Honourable Judge Campbell J. Miller
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Daniel Bourgeois
+
+JUDGMENT
+
+The appeals from assessments of tax made under the Income Tax Act for the 1994, 1996, 1997 and 1998 taxation years are dismissed.
+
+Signed at Ottawa, Canada, this 7th day of August, 2002.
+
+"Campbell J. Miller"
+
+J.T.C.C.
+

@@ -1,0 +1,108 @@
+Date: 20000925
+
+Docket: 1999-4618-IT-I
+
+BETWEEN:
+
+CAMBPELL'S CONCRETE LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur J.T.C.C.
+
+[1] These are appeals from assessments for the Appellant's 1994, 1995 and 1996 taxation years. The issue is how certain materials used by the Appellant in its precast concrete business are to be classified for capital cost allowance (CCA). The Minister of National Revenue (the Minister) re-classified certain items from Class 43 to Class 12 of the Income Tax Regulations, Schedule II.
+
+[2] The relevant facts that are not in dispute or as found by me include the following. The Appellant is in the business of manufacturing and processing concrete products. The dispute is with respect to the classification of the forms used by the Appellant to produce grade rings and eccentric cones for manholes as well as box-culvert sections. During the creating process, reinforcing steel and inserts are placed in the forms. They are then oiled and assembled and fresh concrete is poured into the forms. When the concrete has hardened, the forms are disassembled and the finished concrete product is removed. The precast cement product produced is always identical but for the form leading from the manhole which can be extended in length at the bottom while retaining the same cone-like or eccentric shape.
+
+[3] In Income Tax Regulations, Schedule II, Class 12 reads in part as follows:
+
+Property not included in any other class that is
+
+...
+
+(d) a die, jig, pattern, mould or last;
+
+This Class 12 property can be depreciated 100% in one year. The Appellant would prefer the Class 43 classification which permits 30% depreciation annually and permit it to take advantage of income tax credits (ITCs) if it meets the definition of "qualified property".
+
+[4] The issue is whether the items from which the Appellant wishes to claim CCA are "moulds" within the meaning of the word in Class 12.
+
+[5] The Appellant manufactured a form in 1994 at a cost of $24,495 and purchased a form in 1996 for $7,884. The forms were hollow and made of steel and produced a consistently sized cement product. The culvert was a rectangular box shape. The eccentric cone was a "pipelike" form, with a reducing diameter from the large manhole opening.
+
+Appellant's position
+
+[6] The Appellant was represented by his accountant who set out in writing three submissions: (a) the Minister did not consider the possibility that the forms belonged to another class other than Class 12 which states that the asset falls within Class 12 ("mould") only if it does not fit into another class; (b) the forms in the present case are similar to those in the case of Howden Brothers Construction Ltd. v. The Queen.[1] In Howden, the taxpayer claimed the reverse. It claimed 100% CCA on metal forms used to construct concrete basements. The Appellant claimed the forms were in the nature of a "mould". The Federal Court of Appeal found that the term "mould" did not encompass the forms used by the Appellant; and finally, (c) the Appellant submitted that the forms should be classified under Class 43 because:
+
+(i) For it to be under Class 12, it cannot be under any other class and the present forms are manufacturing and processing equipment and are properly classified under Class 43.
+
+(ii) Class 43 was created by combining part of Classes 39 and 40 and the Interpretation Bulletin IT-147R3 dealing with Class 39 should apply to Class 43. The Bulletin states that to be eligible for inclusion in 39 or 40, the taxpayer must acquire or manufacture the property to be used directly or indirectly in the manufacturing of goods for sale. The facts of this meet those requirements; and
+
+(iii) The Appellant refers to Coopers & Lybrand Limited v. The Queen,[2] to illustrate the interpretation I should give to the facts and the word "mould".
+
+Respondent's position
+
+[7] Simply put, the asset is a mould within the meaning in Class 12.
+
+Analysis
+
+[8] I have attempted to accept the Appellant's argument but cannot for the following reasons. To accept the Appellant's submissions, I have to conclude that the forms are not moulds. Class 12(d) refers to a die, jig, pattern, mould or last. The descriptive words listed, other than mould, are specific. In use, each of these items produce an identical product in the form determined by the die, jig, pattern or last. The word "mould" must fall within the same class.
+
+'Mould' must be interpreted as restricted to the same "genus" as the other words in this subsection.[3]
+
+[9] The following are the definitions of the Class 12 items as they relate to present characterization:[4]
+
+a) die ... a device for stamping, cutting, or moulding material into a particular shape. ...
+
+b) jig ... a device that holds a piece of work and guides the tools operating on it. ...
+
+c) pattern ... a repeated decorative design on fabric, paper, ...
+
+d) mould ... a hollow container into which molten metal etc. is poured or soft material is pressed to harden into a required shape. ...
+
+e) last ... a shoemaker's model for shaping or repairing a shoe or boot.
+
+The asset in question is a hollow container into which cement is poured and hardened into a required shape. It is used to make the same thing, time after time, other than a variation in depth to accommodate specific catch basin needs.
+
+[10] The items in Class 12 all create a continuing product like the die that the Canadian Oxford Dictionary describes as "a device for stamping, cutting or moulding material into shape". The item is used to produce the same shape time after time but for the depth of the cone. The item has a life span over ten years. The Appellant suggests that it does not fall within Class 12 because 12 is intended to concern assets of about a one year life span. For this argument, he refers to Howden where Maguire, D.J. quotes Member St. Onge, as he then was, of the Tax Review Board, with approval as follows:
+
+According to the evidence adduced and after a careful scrutiny of the different classes of depreciation, the Board believes that, in trying to decide in which class an asset belongs for capital cost allowance purposes, the priority should be given to the life expectancy of an asset. In the case at bar, it is obvious that the life expectancy of the asset is from three to four years, and consequently the proper rate of depreciation would be that of Class 10(h) at 30%.
+
+I do not accept that logic. Many of the assets in Class 12 are made to last long beyond a year such as a book and a mine shaft, to name just two.
+
+[12] The Appellant submits that the item is equipment and should be classified as such as in Class 43. The Canadian Oxford Dictionary defines "equipment" vaguely as:
+
+tools, articles, clothing, etc. used or required for a particular purpose.
+
+This definition does not assist the Appellant. The item fits perfectly into the definition for mould. The ordinary use of the English language definition for mould fits the item in question precisely. There is no need to look elsewhere.
+
+[13] The Appellant states that the item falls within the definition of "qualified property" and is eligible to obtain an ITC. Unfortunately, Class 12 assets are not granted ITCs. The Appellant receives a double blow. It has to write 100% of the cost of the moulds in one year and it cannot receive ITCs for their purchase. While the outcome is harsh, I have to take the specific definition of "mould" before the generality of "equipment". The fact situation in Howden is distinguished from the present. In Howden, metal sheets were arranged to receive liquid cement to form basement foundations. These changed with the size of the basements. They did not have the permanency of a die or mould.
+
+[14] The Appellant referred me to Coopers & Lybrand, supra, at page 6458 where it is stated with respect to interpreting the Act:
+
+... it is necessary to determine both the purpose of the legislative provision and the economic and commercial reality of the taxpayer's action.
+
+This guideline, I believe, does not apply in this situation when the meaning of a single word "mould" is clear, precise and unambiguous and one does not have to look extraneously for an interpretation.
+
+[15] For these reasons, the appeals are dismissed.
+
+Signed at Ottawa, Canada, this 25th day of September, 2000.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] 80 DTC 6393 F.C.T.D.
+
+[2] 92 DTC 6452.
+
+[3] Howden, supra.
+
+[4] Canadian Oxford Dictionary (1998).
+

@@ -1,0 +1,208 @@
+Date: 19990408
+
+Docket: 97-2633-IT-G
+
+BETWEEN:
+
+LERRIC INVESTMENTS CORP.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the appellant's 1990, 1991 and 1992 taxation years. The sole issue is whether the appellant's business is a "specified investment business" within the meaning of paragraph 125(7)(e) of the Income Tax Act. If it is a specified investment business it is excluded from the definition of "active business" in paragraph 125(7)(a) and is not entitled to the small business deduction provided by subsection 125(1).
+
+[2] Paragraph 125(7)(e) reads:
+
+(e) — "specified investment business" carried on by a corporation in a taxation year means a business (other than a business carried on by a credit union or a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rents or royalties), unless
+
+(i) the corporation employs in the business throughout the year more than five full-time employees, or
+
+(ii) in the course of carrying on an active business, any other corporation associated with it provides managerial, administrative, financial, maintenance or other similar services to the corporation in the year and the corporation could reasonably be expected to require more than five full-time employees if those services had not been provided.
+
+[3] It is admitted that the principal purpose of the appellant's business was to derive income from property in the form of rents. The sole issue is whether the appellant throughout each of the three years in question employed more than five full-time employees.
+
+[4] The appellant had interests in eight apartment projects, which it owned with other co-owners or joint venturers. In none of the projects was it a partner.
+
+[5] The following schedule sets out the number of full-time employees employed at each project by the joint ventures in which the appellant had an interest, and its percentage of ownership:
+
+Joint Venture
+
+# of Full Time
+
+Employees
+
+% Ownership
+
+Sheridan Twins
+
+16.67
+
+The Diplomat Apartments
+
+20.00
+
+Humber Park Apartments
+
+15.00
+
+Lyon Manor
+
+25.00
+
+839 Roselawn
+
+50.00
+
+Ivory Towers
+
+17.50
+
+Hyland Park Apartments
+
+15.00
+
+Rhona Towers
+
+20.00
+
+[6] The above schedule is for 1990. For 1991 and 1992 the percentages remain the same, and the only difference is that in 1991 Humber Park Apartments had three employees and in 1992 it had four employees.
+
+[7] If one applies the percentage of ownership in each project to the number of employees at each project, the result will be a notional attribution of a fraction of a full-time employee to Lerric.
+
+[8] For 1990 the calculation made by the appellant looks like this:
+
+Joint Venture
+
+# of Full Time
+
+Employees
+
+% Ownership
+
+Allocated to
+
+Lerric
+
+Sheridan Twins
+
+16.67
+
+0.67
+
+The Diplomat Apartments
+
+20.00
+
+0.40
+
+Humber Park Apartments
+
+15.00
+
+0.30
+
+Lyon Manor
+
+25.00
+
+0.25
+
+839 Roselawn
+
+50.00
+
+0.50
+
+Ivory Towers
+
+17.50
+
+0.18
+
+Hyland Park Apartments
+
+15.00
+
+0.15
+
+Rhona Towers
+
+20.00
+
+0.60
+
+Lerric
+
+100.00
+
+2.00
+
+Total Number of full
+
+Time Employees
+
+5.05
+
+[9] For 1991 and 1992, the percentage changes slightly because Humber Park Apartments had three employees in 1991 and four in 1992. This meant that the allocation to Lerric in respect of Humber Park in those years was 0.45 and 0.60 respectively, and the total allocation rose to 5.20 and 5.35.
+
+[10] The appellant had two full-time employees in addition to those employed at the various apartments.
+
+[11] The appellant relies upon paragraph 16 of Interpretation Bulletin IT-73R5. Counsel for the respondent says that paragraph 15 should also be read. I reproduce them both:
+
+15. The phrase "...the corporation employs in the business throughout the (taxation) year more than five full-time employees..." is considered to mean that an employer has six or more employees working a full business day (or a full shift) on each working day of the year, subject to normal absences due to illness or vacation. Employees working part-time cannot qualify as full-time employees. A part-time employee is generally a person employed for irregular hours of duty or specific intermittent periods, or both, during a day, week, month, or year and whose services are not required for the normal work day, week, month, or year. Vacancies caused by terminations that temporarily reduce the staff to less than six employees will normally not disqualify the corporation provided immediate action is taken to restore the staff to normal strength and there is no undue delay in filling the vacant positions.
+
+16. If, for example, two corporations carry on a business in partnership as equal partners with the partnership business employing more than five full-time employees, each partner would, for the purpose of paragraph (a) of the definition of "specified investment business" in subsection 125(7), be considered to employ more than five full-time employees. However, if the business is carried out by corporations in a joint venture or other form of co-ownership, the total number of full-time employees who work jointly for all the co-owners must be allocated to each co-owner in accordance with the co-owner's percentage interest in the property.
+
+[12] Interpretation bulletins are of course not the law, but in cases of doubt administrative practice may be of some assistance (Harel v. D.M.R. of the Province of Quebec, 77 DTC 5438 at 5441-2).
+
+[13] The appellant contends that since the business is carried on by the appellant and the other co-owners in a joint venture or other form of co-ownership the total number of employees who work jointly for all the co-owners must be allocated to the appellant in accordance with its percentage interest in each property. The result is the calculation set out above.
+
+[14] The respondent relies upon a judgment of Muldoon J. of the Federal Court – Trial Division in R. v. Hughes & Co. Holdings Ltd., [1994] 2 C.T.C. 170. The issue in that case was whether the corporate taxpayer carried on a specified investment business or whether it was removed from that expression because it employed more than five full-time employees. It had in fact four full-time employees and several part-time employees. The question was whether in determining if it had more than five full-time employees one could add to the aggregate of full-time employees the part-time employees (i.e. 4+½+½+½+½=6). Muldoon J. said that one could not. I agree. It seems obvious that in deciding how many full-time employees one has, part-time employees cannot be counted at all in that aggregate.
+
+[15] Counsel for the respondent relies upon part of a sentence in the reasons of Muldoon J., where he said: "Now, it having been established in this case that subparagraph 125(7)(e)(i) does not even contemplate a part-time employee, much less a part or fraction of an employee...". The portion I have italicised is obiter. I do not think that the decision of Muldoon J. has any application here. In this case all of the persons employed by the joint ventures are full-time employees. The question is whether one can allocate fractions of employees to the appellant so as to arrive at an aggregate that exceeds five. Counsel for the respondent contends that more than five means at least six. As a pure matter of mathematics this is not correct. Five point two is more than five.
+
+[16] We are not, however, dealing with abstract mathematical concepts. We are dealing with a statute that removes from specified investment business a business in which the corporation employs five or more full-time employees. This implies that there be a measure of activity in which the corporation requires and has more than five full-time employees. Here we have essentially a minority investor in eight projects (except for one, Roselawn, where it owns a 50% interest) in which it shares the salaries with other investors. To total up bits and pieces of employees who work for the various projects in which the appellant has an interest so as to arrive at a figure that is fractionally more than five strikes me as unrealistic and not in accordance with what I believe the exclusion in subparagraph 125(7)(e)(i) is aiming at, which is a corporation whose business is sufficiently active that it uses more than five employees.
+
+[17] The question is not susceptible of a ready answer, and, whatever the common sense reaction might be, a more reasoned analysis is needed. In analyzing the problem different approaches might be considered.
+
+[18] The first approach is to consider whether the distinction drawn in paragraph 16 of IT-73R5 between a partnership and a joint venture is correct. If corporations A and B are partners and the partnership owns an apartment building and employs six full-time employees IT-73R5 says each partner employs six full-time employees. If they are joint venturers, IT-73R5 says they each employ only three full-time employees. It is somewhat difficult to rationalize this distinction. The legal rationale, rightly or wrongly, is probably that a relationship of agency exists between partners but not generally between joint venturers. This is not, however, an answer. Where two joint venturers or co-owners hire a full-time employee for a project that person is an employee of both of them regardless of the absence of agency. It is inaccurate to say that one-half of the employee is employed by one co-owner or joint venturer and one-half by the other.
+
+[19] This analysis would lead to the remarkable conclusion that if we had, say, ten equal joint venturers in a project with six full-time employees, all ten would be considered to employ six full-time employees.
+
+[20] A different analysis based upon paragraph 16 of IT-73R5 would result in each joint venturer being considered to have 0.6 full-time employees, but if, instead of being joint venturers they were partners, they would all employ six full-time employees.
+
+[21] I find both results somewhat absurd. The accepted rule is that where there are two possible interpretations, one of which leads to an absurdity and one of which does not, one should choose the one that does not (Victoria v. The Bishop of Vancouver, [1921] 2 A.C. 384). Here, however, we have two equally absurd results. (See, generally, Driedger on the Construction of Statutes, Third Edition, Chapter 3 by Ruth Sullivan).
+
+[22] The approach that I have always found useful is that set out by Cartwright J. (as he then was) in Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116, where he said at page 5120:
+
+The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conform to the apparent scheme of the legislation.
+
+See also: Re Rizzo & Rizzo Shoes Ltd., 221 N.R. 241 at 257, para. 23.
+
+[23] What, then, is the statute aiming at? The concept of specified investment business seems to have been a response to certain decisions of the courts which treated virtually any commercial activity of a corporation, however passive, even where it was carried under contract by independent contractors who were not employees, as an active business (see, for example, The Queen v. Cadboro Bay Holdings Ltd., 77 DTC 5115 (F.C.T.D.); The Queen v. Rockmore Investments Ltd., 76 DTC 6157; E.S.G. Holdings Limited v. The Queen, 76 DTC 6158; The Queen v. M.R.T. Investments Ltd., 76 DTC 6158).
+
+[24] The result was the introduction of the concept of specified investment business the purpose of which to ensure that "active" meant truly active and that the word not be, in effect, judicially written out of the Act. Therefore the object of the new legislation was to ensure that the business of a corporation that invested in rental properties would not be considered "active" unless there was sufficient activity in the corporation's business to justify the employment of over five full-time employees.
+
+[25] Does a corporation that has varying interests in a number of projects have that level of activity? I think realistically that the appellant employed two full-time employees and shared the expense of fifteen others.
+
+[26] Paragraph 16 of the Interpretation Bulletin is not necessarily wrong in all circumstances. It represents a practical attempt to deal with the problem of co-ownership and no doubt it generally works out to the benefit of the taxpayer. It is, however, only an administrative practice and its guidelines cannot be pushed beyond the limits of reality. To allocate fractions of employees (.15 to .67) to a joint venturer or co-owner strikes me as outside the realm of reality and I would be surprised if whoever wrote the bulletin considered the situation with which we are concerned here.
+
+[27] Each case must turn on its own facts and I should not have thought that real estate investment companies who do their investing through co-ownership or joint ventures were intended to be excluded from subparagraph 125(7)(e)(i) in all cases. However, one must draw the line where one's good sense tells one to draw it.
+
+[28] The appeals are dismissed with costs.
+
+Signed at Ottawa, Canada, this 8th day of April 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

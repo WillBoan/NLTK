@@ -1,0 +1,404 @@
+Date: 19990625
+
+Docket: 97-225-IT-G
+
+BETWEEN:
+
+OSFC HOLDINGS LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+BOWIE J.T.C.C.
+
+[1] These appeals are from reassessments of the Appellant (OSFC) for income tax for its 1993 and 1994 taxation years. They result from the disallowance by the Minister of National Revenue (the Minister) of the Appellant's claim to be entitled to deduct a non-capital loss of $12,572,274 in computing its income for 1993.[1] This amount is, or is claimed to be, the Appellant's share of a loss of $52,384,474 suffered by SRMP Realty and Mortgage Partnership (SRMP) in its fiscal period which ended on September 30, 1993. Of this loss of SRMP, $52,147,632 results from its 99% interest in a partnership known as STIL Partnership II (STIL II). The appeals raise issues of partnership law, and issues as to the application of section 245 of the Income Tax Act (the Act) as re-enacted in 1988.[2]
+
+facts
+
+[2] Standard Trust Company (Standard) carried on a business which included the lending of money on the security of mortgages on real property. For a number of reasons, one of which was the economic climate of the times, it became insolvent, and on May 2, 1991, Mr. Justice Houlden, sitting as a judge of the Ontario Court of Justice (General Division),[3] made an Order that it be wound up, pursuant to the Winding-up Act.[4] Ernst & Young Inc. (E & Y, or the liquidator) was appointed liquidator. Its task, as liquidator, was to obtain the maximum realization possible on the assets of Standard, and to that end it was empowered, both by the Winding-up Act and by the Order of Houlden J., to carry on the business of Standard, so far as was necessary for the beneficial winding-up of the company. References to Standard hereafter are references to Standard Trust Company in liquidation, the directing mind of which was at all relevant times the liquidator's. The liquidator's directing minds, in respect of the matters in issue here, were those of Mr. Bradeen and Mr. Drake.
+
+[3] It was soon apparent to the liquidator that of the total mortgage loan portfolio, some $1.6 billion, approximately one-half was comprised of non-performing loans, which is to say loans upon which the payments of principal and interest were 90 days or more in arrears. Liquidation of this portfolio of non-performing loans was a major challenge for E & Y. Standard's original interest in these properties was simply as mortgagee, but by this time it was in possession of many of them, pursuant to its rights under the mortgages, and the probability was that it would realize on them only through the exercise of its rights as mortgagee in possession, or under its power of sale, or both. The real estate market was weak, and the quality of the loans was poor. In the opinion of the liquidator, potential buyers of the properties were anticipating, or at least hoping, that it would be forced to dispose of Standard's non-performing loans, or the properties securing them, at fire sale prices. This option, was not an attractive one to E & Y.
+
+[4] These non-performing loans included 17 loans on 9 properties,[5] which were referred to in the evidence collectively as the STIL II portfolio. The historic cost to Standard of these loans totalled $85,368,872. To further the liquidation of this group, and another similar group (the STIL I portfolio), as advantageously as possible, the liquidator, with the help of its lawyers, formulated a plan designed to sell the properties to investors in a way that would make available to those investors for tax purposes the substantial losses that Standard had suffered as a result of the drastic decrease in the value of the portfolios’ mortgages which had been brought about by the recent sudden and severe decline in real estate values. The key elements of the plan were that Standard would incorporate a wholly-owned subsidiary, and they would then form a partnership in which Standard would have a 99% interest, and the subsidiary a 1% interest. Standard would transfer non-performing mortgages to the partnership as its contribution to the partnership capital, and it would lend to the subsidiary sufficient cash to make its capital contribution. By reason of subsection 18(13) of the Act,[6] the mortgages would be acquired by the partnership, for income tax purposes, at their cost to Standard, notwithstanding that their then current value was much less. The liquidator would then sell Standard's 99% interest in the partnership to an arm's length purchaser, to whom, at the first partnership year-end, the tax losses would accrue, to the extent of 99%.
+
+[5] To execute this plan, E & Y applied to the Court for, and obtained, authorization to incorporate a wholly-owned subsidiary of Standard, and to create two general partnerships, STIL I and STIL II, which would acquire these two portfolios, with Standard and its subsidiary owning interests of 99% and 1% respectively in each partnership. Pursuant to this authorization, E & Y then carried out the following series of transactions. On October 16, 1992, 1004568 Ontario Inc. (1004568) was incorporated as a wholly-owned subsidiary of Standard. On October 23, 1992, two partnership agreements were entered into between Standard and 1004568, to create the STIL I and the STIL II partnerships. On the same day, 1004568 borrowed $730,220 from Standard, and used it to make its capital contribution for its 1% ownership interest in each partnership. Standard then contributed one mortgage portfolio to STIL I, and another to STIL II, being its capital contribution to each partnership. Standard's contribution of the STIL II portfolio to the STIL II partnership was governed by the terms of a document called the Asset Contribution Agreement. That agreement provided that the purchase price to be paid for the portfolio by STIL II was $41,314,434, which was the net book value of the STIL II portfolio in the accounts of Standard at that time. It also provided that the purchase price would be satisfied by crediting Standard's capital account in the partnership with that amount. 1004568 made its contribution to the capital of the partnership by a cash payment of $417,318, an amount which was established by dividing $41,314,434 by 99. The parties are in agreement that the mortgages which made up the STIL II portfolio had, at that time, an aggregate fair market value of $33,262,000. Their aggregate cost to Standard was $85,368,872.
+
+[6] The partnership agreement entered into by Standard and 1004568 is some 15 pages in length. It contains all the provisions that one would expect to find in a commercial partnership agreement. The purpose of the partnership is stated in the following terms:
+
+ARTICLE 3
+
+PURPOSE OF PARTNERSHIP
+
+Commencing upon the Asset Contribution Date the Partners, through the Partnership, will carry on the business of administering the Mortgage Portfolio, realizing on the security of the mortgages included in the Mortgage Portfolio and enforcing such other rights of the Partnership, as mortgagee, as from time to time may be appropriate, selling some or all of the underlying real property, or selling some or all of the mortgages forming part of the Mortgage Portfolio, all with a view to maximizing the value and marketability of the Mortgage Portfolio.
+
+The Partners acknowledge that Standard is being wound up pursuant to the provisions of the Winding-Up Act (Canada), and pursuant to Orders of the Honourable Mr. Justice Houlden of the Ontario Court of Justice (General Division) made on May 2, 1991 and on July 19, 1991, respectively. The Partners further acknowledge that to the extent any actions of the Partnership relative to the Mortgage Portfolio would have required the approval of the Court if such actions had been taken by Standard had it continued to own the Mortgage Portfolio, such actions shall continue to be subject to the approval of the Court.
+
+[7] There is no doubt, and indeed it is not disputed by the Appellant, that an important integral part of E & Y's plan to maximize the realization of the two portfolios was to make their substantial declines in value available to the ultimate purchasers of the 99% partnership interests as losses for income tax purposes. Had the mortgages simply been sold by the liquidator to a party dealing at arm's length, then the losses would have been realized by Standard at the time of the sale. It did not appear, in the fall of 1992, that Standard would be in a position to utilize these losses. It was essential to the realization plan, therefore, that Standard not sell the mortgages directly to a third party, but instead sell its 99% partnership interest, and that it do so before the first year-end of the partnership, at which time the partnership would be required by section 10 of the Act to write the portfolio assets down to market value.
+
+[8] The selection of the mortgages making up the portfolios of both STIL I and STIL II was structured by E & Y in such a way as to ensure that Standard's 99% interest in the partnerships would be readily marketable. Low environmental risks associated with the properties, substantial decreases in value, a positive net operating income, and the potential for asset appreciation were all factors which the liquidator took into consideration. Included were mortgages which, for a variety of reasons, would prove difficult to sell individually.
+
+[9] Soon after October 23, 1992, E & Y began an intensive campaign to market its 99% interest in the partnerships. A list of potential buyers was created, and an initial approach was made to a number of them. Indeed, it appears that discussions with potential purchasers were underway that summer.
+
+[10] The Appellant is a private corporation owned by Mr. Peter Thomas. It specializes in purchasing and improving distressed real properties. Negotiations between E & Y and the Appellant began in January 1993, with E & Y offering the Appellant the opportunity to purchase the mortgages comprising the STIL II portfolio, together with the potential tax losses in the order of $50 million, as a package deal. The Appellant was given no opportunity to purchase these mortgages on any basis other than as a package, through the acquisition of Standard's 99% interest in the STIL II partnership.
+
+[11] Much evidence was led as to the exact progress of the negotiations between the Appellant and E & Y leading up to the sale of Standard's partnership interest. There is no doubt that the negotiation was a difficult one. As it progressed, the Appellant formed the belief that the liquidator had been less than candid about the condition of some of the properties comprising the portfolio. For its part, E & Y was of the opinion that the Appellant was unwilling to pay a fair price, and that it was unfairly introducing new issues into the negotiation at the last moment. A particularly difficult issue was the terms of the partnership agreement under which the rehabilitation and sale of the properties would be carried out. It was important to the Appellant that it have some measure of control over the management of the operations, because it had confidence in its own expertise, and it recognized that E & Y had little or no experience in the field of real estate development, and in particular, dealing with distressed properties. What was not in dispute, however, was the amount to be paid for the potential tax losses. From the outset, and throughout, both sides were agreed that the final price for the portfolio would include an amount of $5,000,000, approximately 10 ¢ on the dollar, for these.
+
+[12] These negotiations resulted in the execution of an Agreement of Purchase and Sale between Standard and the Appellant, with the transaction effective as of May 31, 1993.[7] The Appellant purchased Standard's 99% interest in the STIL II partnership for a consideration made up of three elements:
+
+1. $17,500,000, of which $14,500,000 was in the form of a promissory note, and the balance was cash payable on closing;
+
+2. An additional amount, described as the earnout, which was to be determined by a formula whereby the Appellant and Standard would share any proceeds from the disposition of the STIL II portfolio in excess of $17,500,000, with the Appellant's proportionate share increasing as the proceeds increased.
+
+3. An amount, up to a maximum of $5,000,000, for the tax losses to be generated within the partnership from the portfolio, contingent on the partners being successful in deducting them from their other income.
+
+[13] One of the most contentious elements in the negotiation concerned the Appellant's insistence that if it was to buy a 99% share of STIL II, then it must have at least an equal voice in the management of the operations of the partnership. Other issues in connection with the terms of the original Partnership Agreement arose too, and so the Agreement of Purchase and Sale had annexed to it an Amended and Restated Partnership Agreement to be executed by the original partners prior to closing. This was done on June 22, 1993.
+
+[14] One of the terms that OSFC insisted on having added to the partnership agreement permitted it to assign its partnership interest to a general partnership, conditional upon it retaining at least a 20% interest in that partnership. The Appellant did in fact, immediately after closing, take advantage of this provision to syndicate its interest in STIL II through a general partnership, SRMP. Interests in SRMP were purchased by several members of a firm of tax lawyers. It is the Appellant's share of the losses, distributed to it through SRMP, which gives rise to these appeals.
+
+issues
+
+[15] The Respondent assessed the Appellant on two alternative bases. The first is that, as a matter of law, the STIL II partnership was not a partnership at all, or if it was a partnership in October 1992, it had ceased to be one by the time the Appellant purchased its interest in 1993. The second is that the transactions in issue are avoidance transactions within the meaning of section 245[8] of the Act, (sometimes known as the general anti-avoidance rule, or GAAR), and they are not saved by subsection 245(4).
+
+[16] These issues require that I answer the following questions:
+
+1. Did a valid partnership come into existence with the execution of the STIL II Partnership Agreement in October 1992?
+
+2. If so, did that partnership come to an end as a result of the amendments made to the Partnership Agreement in June 1993?
+
+3. If the STIL II partnership was validly created, and if it survived the 1993 amendments so that the Appellant was able to purchase the 99% interest of Standard, does GAAR?
+
+the partnership issue
+
+[17] The Respondent attacks the existence of a partnership on several grounds. They may be summarized in this way.
+
+1 . STIL II did not exist as a partnership from the outset in October 1992, because Standard and 1004568 did not intend to carry on business together for profit.
+
+2. STILL II did not exist in the period between October 1992 and June 1993, because Standard and 1004568 did not hold themselves out to be partners during that period.
+
+3. STILL II did not exist in the period between October 1992 and June 1993 because Standard and 1004568 had no reasonable expectation of running the business at a profit during this period.
+
+4. If there was a partnership during the period between October 1992 and June 1993, then it came to an end before the sale of Standard's interest to the Appellant. The effect of the Amended and Restated Partnership Agreement of June 23, 1993, it is argued, was not simply to amend the existing agreement. The changes that it made were so extensive as to amount to the formation of an entirely new partnership at that time between the Appellant and 1004568.
+
+analysis
+
+[18] The requirements to create a partnership were recently considered by the Supreme Court of Canada in the Continental Bank case.[9] Bastarache J., with whom all the other members of the Court agreed on this point, set out there the proper approach to be taken to ascertain if a partnership has been created.[10]
+
+21. After it has been found that the sham doctrine does not apply, it is necessary to examine the documents outlining the transaction to determine whether the parties have satisfied the requirements of creating the legal entity that it sought to create. The proper approach is that outlined in Orion Finance Ltd. v. Crown Financial Management Ltd., [1996] 2 B.C.L.C. 78 (C.A.), at p. 84:
+
+The first task is to determine whether the documents are a sham intended to mask the true agreement between the parties. If so, the court must disregard the deceptive language by which the parties have attempted to conceal the true nature of the transaction into which they have entered and must attempt by extrinsic evidence to discover what the real transaction was. There is no suggestion in the present case that any of the documents was a sham. Nor is it suggested that the parties departed from what they had agreed in the documents, so that they should be treated as having by their conduct replaced it by some other agreement.
+
+Once the documents are accepted as genuinely representing the transaction into which the parties have entered, its proper legal categorisation is a matter of construction of the documents. This does not mean that the terms which the parties have adopted are necessarily determinative. The substance of the parties' agreement must be found in the language they have used; but the categorisation of a document is determined by the legal effect which it is intended to have, and if when properly construed the effect of the document as a whole is inconsistent with the terminology which the parties have used, then their ill-chosen language must yield to the substance.
+
+22. Section 2 of the Partnerships Act defines partnership as "the relation that subsists between persons carrying on a business in common with a view to profit". This wording, which is common to the majority of partnership statutes in the common law world, discloses three essential ingredients: (1) a business, (2) carried on in common, (3) with a view to profit. I will examine each of the ingredients in turn.
+
+23. The existence of a partnership is dependent on the facts and circumstances of each particular case. It is also determined by what the parties actually intended. As stated in Lindley & Banks on Partnership (17th ed. 1995), at p. 73: "in determining the existence of a partnership ... regard must be paid to the true contract and intention of the parties as appearing from the whole facts of the case".
+
+24 The Partnerships Act does not set out the criteria for determining when a partnership exists. But since most of the case law dealing with partnerships results from disputes where one of the parties claims that a partnership does not exist, a number of criteria that indicate the existence of a partnership have been judicially recognized. The indicia of a partnership include the contribution by the parties of money, property, effort, knowledge, skill or other assets to a common undertaking, a joint property interest in the subject-matter of the adventure, the sharing of profits and losses, a mutual right of control or management of the enterprise, the filing of income tax returns as a partnership and joint bank accounts. (See A. R. Manzer, A Practical Guide to Canadian Partnership Law (1994 (loose-leaf)), at pp. 2-4 et seq. and the cases cited therein.)
+
+25 In cases such as this, where the parties have entered into a formal written agreement to govern their relationship and hold themselves out as partners, the courts should determine whether the agreement contains the type of provisions typically found in a partnership agreement, whether the agreement was acted upon and whether it actually governed the affairs of the parties (Mahon v. Minister of National Revenue, 91 D.T.C. 878 (T.C.C.)). On the face of the agreements entered into by the parties, I have found that the parties created a valid partnership within the meaning of s. 2 of the Partnerships Act. I have also found that the parties acted upon the agreements and that the agreements governed their affairs.
+
+[19] In the present case, a partnership agreement was executed on behalf of both Standard and its subsidiary in October 1992. It contained all the usual provisions of the kind referred to by Bastarache J. In particular, it contained clauses governing the formation of the partnership, its continued existence for a term of five years, the purpose for which it was formed, the contributions of the partners to its capital, the management of the partnership business, the manner of keeping the partnership accounts, and the allocation of profit and loss to the partners.
+
+[20] In Continental Bank it was said at paragraph 26:
+
+... The main dispute between the parties concerns whether Leasing intended to carry on business in common with Central's subsidiaries with a view to profit.
+
+[21] The same question is central to the first issue in the present case. It may be framed this way: Did Standard, when the original Partnership Agreement was signed in October 1992, intend to carry on business in common with 1004568, with a view to profit?
+
+[22] As Bastarache J. pointed out in the passage that I have quoted above, this question can only be answered by examining all the facts and circumstances of the particular case. These are:
+
+1. Standard was insolvent, and in liquidation, and was the owner of the assets making up the STIL II portfolio, among others.
+
+2. Those assets had a historical value on the books of Standard far in excess of their current realizable market value at the time Standard was ordered to be wound up. In October 1992, the net book value of the portfolio to Standard was $41,314,434, and its fair market value was approximately $33,000,000.
+
+3. E & Y, as the liquidator, was charged with obtaining the maximum possible realization on the assets.
+
+4. It is abundantly clear from exhibits R-3, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14, and from the evidence of Mr. Bradeen, that the liquidator, and therefore Standard, had the intention of selling a partnership interest to investors prior to the application to Mr. Justice Houlden for authority to create the partnership. The price that the liquidator expected to be paid on the sale of that interest included some amount based upon the losses, for the purpose of computing income under the Act, which would be generated in the partnership during its first fiscal year, and made available to the investors at the first fiscal year-end, to set off against their incomes from other sources.
+
+5. E & Y well understood, throughout, that marketing the losses required that they be realized by the partnership, and not by Standard, and that this required that Standard’s interest in the partnership be sold within 13 months following the creation of the partnership.
+
+6. The only business activity that could be carried on by the liquidator was to realize on the assets of Standard. That was therefore the only business that could be carried on by the STIL II partnership.
+
+7. From the outset in October 1992, STIL II had a business plan for the management and sale of the properties, and it sold one property prior to the closing of the sale of Standard's 99% interest. Standard's intention in entering into the partnership arrangement was to improve the properties making up the portfolio, to lease them and collect rents, and eventually to sell them at prices which would be enhanced both by the improvements made to the properties, and by improved market conditions.
+
+8. The partnership made substantial profits between October 1992 and the date of trial.
+
+[23] It is established by the judgment in Continental Bank that a partnership may be validly created, even though its intended duration is as short as three days, and its principal purpose is to effect a sale of assets in a way which will minimize the incidence of taxation, so long as an incidental purpose is to do some business and to earn some profit.
+
+[24] Counsel for the Respondent argued that E & Y, in its capacity as the liquidator, was limited to winding-up the business of Standard, and that it therefore did not have the capacity to enter into any new business ventures on its behalf, and so could not enter into a partnership with the intention of carrying on business for profit. This submission ignores the fact that at the time it became insolvent, Standard had an ongoing business which included lending money on the security of mortgages. This necessarily included dealing with those mortgages, and, in cases of default, dealing with the mortgaged properties as well. It is this business that was to be continued, at least for several weeks or months, by STIL II, following its creation in October 1992.
+
+[25] The Respondent's argument that STIL II did not hold itself out as a partnership during the period between October 1992 and June 1993 cannot be sustained on the facts. It filed registrations in four provinces, it opened bank accounts, and it sent correspondence to prospective purchasers, and to those third parties from whom the Appellant required information during the course of its due diligence. In all of these communications the partners held themselves out to be carrying on business in partnership.
+
+[26] Counsel for the Respondent also argued that STIL II was not a partnership from the outset in October 1992, because it had no reasonable expectation of profit at that time, and moreover the sale to it of the STIL II portfolio at the net book value of $41,314,434, when it had a fair market value of about $33,000,000, ensured that it could not make a profit, or at least not prior to the sale of Standard's interest. As to the latter point, Mr. Bradeen testified that when the liquidator transferred the portfolio assets to STIL II the net book value was used as the selling price as a matter of convenience, and that it was not considered to be of any importance. What was important was that, for income tax purposes, subsection 18(13) of the Act would govern the value of the assets in the hands of the partnership. It is clear, however, from the evidence of Mr. Bradeen, and from a succession of business plans that were produced and modified between the summer of 1992 and March 1993, that the intention of the liquidator, and therefore of both Standard and 1004568, was that during whatever period Standard remained a partner, the portfolio assets would be managed in a way that would see them produce income, to the extent possible, and at the same time be enhanced in value with a view to their ultimate sale at the best possible price. In my view the documents, and the actions of both the liquidator and the Appellant, establish that profit making and profit sharing were motivating factors driving the business arrangement. As Bastarache J. put it in Continental Bank:[11]
+
+... This is sufficient to satisfy the definition in s. 2 of the Partnerships Act in the circumstances of this case.
+
+[27] The Supreme Court in that case placed great emphasis on the terms of the partnership agreement, and in particular on those terms relating to partnership profits. Similar provisions are to be found in the partnership agreement here, both before and after the amendments made in 1993.
+
+[28] The actual financial results are also significant. For the fiscal year ended October 31, 1993, STIL II showed a net loss, for income tax purposes, of $52,674,376, resulting from the sale of three of the properties and the write-down at year-end of those remaining. This loss for tax purposes does not represent commercial reality, however. STIL II's Statement of Operations for the twelve-month period ending October 31, 1993 shows net income from operations of $1,051,459, which is $568,539 greater than was budgeted. Overall, it suffered a net loss for the 12 months of $8,242,113, as a result of non-operational expenses, which were not budgeted, totalling $8,725,033.[12] The results for the next four fiscal periods showed net profits in the following amounts:
+
+01-10-93 to 30-09-94 $2,607,762 (Exhibit R-54)
+
+01-10-94 to 30-09-95 $ 681,636 (Exhibit R-54)
+
+01-10-95 to 31-12-95 $ 157,695 (Exhibit R-55)
+
+01-01-96 to 31-12-96 $ 835,697 (Exhibit R-56)
+
+The Appellant calculated the net operating income of STIL II to be $5,912,297 for the period between 1993 and 1997 (Exhibit A-168). It calculated SRMP's share of the net profits and the cash flow from the sale of properties between 1993 and 1998 to be $6,317,192, an annual rate of return of 32.82% on the $3,850,000 cash payment which it invested to purchase its 99% share. While the computation of the rate of profit on only the cash portion of the purchase price may have the effect of inflating the rate of return, as argued by counsel for the Respondent, these results demonstrate that the partnership business certainly had the potential for profit from the outset.
+
+[29] Counsel for the Respondent also argued forcefully that STILL II could not be a partnership, because it was inhibited by both the Order of Houlden J. and the provisions of the Winding-up Act from conducting new business. This argument also cannot succeed in the light of the Continental Bank decision. The Supreme Court held there that the requirement that partners carry on business in common was satisfied, although the partners did no more than continue an existing business during a three-day period, entering into no new transactions, and making no operational decisions. STIL II, both before and after the sale of Standard's 99% interest, carried on a much more active business than that.
+
+[30] Counsel for the Respondent made two arguments by way of attack on the continuing existence of STIL II as a partnership following the amendments made to the partnership agreement in June 1992. First, he argued that the amendments were negotiated and signed by Standard as the agent of the Appellant, because it was intended throughout these negotiations that it would be the Appellant and not Standard that would hold the 99% interest under the amended agreement. The result then, it is said, was not the amendment of the terms of a partnership and the sale of an interest in it, but the transfer from the partnership to the Appellant of a 99% interest in the portfolio assets. Counsel then argued, in the alternative, that the changes made to the terms of the partnership agreement were so extensive that their effect was to create a new and different partnership as of that time, with the result that the original STIL II partnership was, as a matter of law, dissolved. It was argued that the result, for purposes of the Act, was that the portfolio assets were either distributed to the partners on dissolution of STIL II, or else transferred to a new and different partnership. In either event, the transfer of the assets would not carry with it the benefit of subsection 18(13) of the Act, and so the transfer would take place at the then current market value, with the losses being realized in the old partnership upon its dissolution as of May 31, 1993, and attributed to Standard and 1004568 as of that date, by reason of section 96 of the Act.
+
+[31] In my view, these arguments cannot succeed. There is no doubt that by the time the liquidator and the Appellant negotiated the changes to the partnership agreement, which were incorporated into the Amended and Restated Partnership Agreement, it was contemplated by both of them that it would be the Appellant, or its assignee, that would hold the 99% interest. Nevertheless, it was the intention of both parties that what would pass would be a partnership interest, and not simply an interest in the portfolio assets. The negotiation clearly proceeded throughout on that basis, and the document that they ultimately executed reflects that intention. The test to be applied in these circumstances is that set out in the following three paragraphs from the judgment of Millett L.J. in the Orion Finance[13] case, and adopted by the Supreme Court of Canada in Continental Bank.[14]
+
+The proper approach which the court adopts in order to determine the legal category into which a transaction falls is well established. The most recent case on the subject is Welsh Development Agency v. Export Finance Co. Ltd. [1992] BCLC 148. The first task is to determine whether the documents are a sham intended to mask the true agreement between the parties. If so, the court must disregard the deceptive language by which the parties have attempted to conceal the true nature of the transaction into which they have entered and must attempt by extrinsic evidence to discover what the real transaction was. There is no suggestion in the present case that any of the documents was a sham. Nor is it suggested that the parties departed from what they had agreed in the documents, so that they should be treated as having by their conduct replaced it by some other agreement.
+
+Once the documents are accepted as genuinely representing the transaction into which the parties have entered, its proper legal categorisation is a matter of construction of the documents. This does not mean that the terms which the parties have adopted are necessarily determinative. The substance of the parties' agreement must be found in the language they have used; but the categorisation of a document is determined by the legal effect which it is intended to have, and if when properly construed the effect of the document as a whole in inconsistent with the terminology which the parties have used then their ill-chosen language must yield to the substance.
+
+...
+
+The legal classification of a transaction is not, therefore, approached by the court in vacuo. The question is not what the transaction is but whether it is in truth what it purports to be. Unless the documents taken as a whole compel a different conclusion, the transaction which they embody should be categorised in conformity with the intention which the parties have expressed in them.
+
+Applying this test, I conclude that both the creation of STIL II, and the subsequent sale of Standard's interest in it to the Appellant, were legally effective to accomplish what the parties intended to bring about.
+
+[32] I find no merit in the argument that the changes made to the terms of the partnership agreement were so extensive as to amount to the creation of a new partnership, and the dissolution of the old one. Counsel catalogued some 13 different amendments to the agreement in three pages of his written argument, which he said made the Amended and Restated Partnership Agreement not simply an amended agreement, but a new and different one. No authority was cited in support of this proposition. A partnership is the relationship among persons who carry on a business together with a view to profit; its essence is the business itself. Here it is clear that the same business was to be carried on after the sale to the Appellant as had been carried on before. I find that the partnership survived the amendment of the agreement and the sale of Standard's interest.
+
+[33] The Appellant therefore succeeds on the partnership issues.
+
+[34] I wish to make two observations before leaving this aspect of the matter, however. The first is that the Respondent did not raise any issue of a sham in this case, nor does the evidence indicate to me that there was any basis upon which to do so. The second is that it was not argued for the Respondent that the withdrawal of Standard as a partner in STIL II, and the entry into the partnership of the Appellant, as opposed to the amendments made to the partnership agreement, had the effect, as a matter of law, of terminating the original partnership and creating a new one. So far as I am aware, this point was not argued in Continental Bank. One might question how a partnership, which is, after all, simply a relationship among persons,[15] can survive the withdrawal of one of those persons from the relationship, or the introduction of another. However, the point not having been raised, I have not considered it in arriving at my conclusion on the partnership issue.
+
+the GAAR issue
+
+[35] With respect to the application of GAAR,[16] the Respondent has pleaded the following in the Reply:
+
+6. y) the following transactions were avoidance transactions ("the Avoidance Transactions")
+
+i) the incorporation of 1004568;
+
+ii) the formation of STIL II by STC and 1004568;
+
+iii) STC's sale of its 99% interest in STIL II to OSFC;
+
+iv) STIL II's reclassification of the mortgages to trading inventory;
+
+v) the write-down of those mortgages to the estimated fair market value;
+
+vi) the formation of SRMP and the purchase of interests in SRMP by the various investors, including the Appellant.
+
+z) none of the Avoidance Transactions were undertaken or arranged, or were a part of a series of transactions undertaken or arranged, primarily for bona fide purposes other than to obtain the tax benefit;
+
+aa) the Appellant received a tax benefit as a result of the Avoidance Transactions, which constituted a direct benefit to the Appellant, by applying its shares of the losses of SRMP in the amount of $12,572,274;
+
+bb) it is reasonable to consider that the Avoidance Transactions resulted either directly or indirectly in a misuse of subsection 18(13) of the Act as well as an abuse of the provisions of the Act read as a whole; and
+
+cc) as a result of the disallowance of the Appellant's share of the 1993 SRMP loss, the Appellant had no amount to deduct as a non-capital loss in 1994.
+
+the transactions
+
+[36] The first three of the transactions alleged by the Respondent to be avoidance transactions are certainly part of a series of pre-ordained steps carried out by the liquidator as part of a deliberate plan. The fourth and fifth are matters of accounting, and their appropriateness depends on the view taken of the facts, and on the application of legal principles to those facts. I agree with counsel for the Appellant, who asserted in argument that if the preceding transactions are not avoidance transactions, then it is of no consequence to this Appellant whether the sixth is found to be one. To vitiate the formation of SRMP and the sale of interests in it to the other investors would, if the previous transactions survive, simply leave all of the losses in the Appellant's hands, and so it would be entitled to the amounts it has claimed for the years under appeal.
+
+[37] I must answer the following questions in relation to the application of GAAR:
+
+1. But for the application of section 245, would the incorporation of 1004568, the formation of STIL II, and the sale by Standard of its interest in STIL II to the Appellant, or any of those transactions, have resulted in a tax benefit?
+
+2. If the answer to the first question is yes, may the transaction, or transactions, reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit?
+
+3. If the answer to the first question is yes, and the answer to the second question is no, did the transaction, or transactions, result, directly or indirectly in a misuse of the provisions of the Act, or an abuse of the provisions of the Act read as a whole?
+
+4. If the first question is answered yes, the second no, and the third yes, then which of the remedies set out in subsection 245(5) is appropriate?
+
+question 1 - was there a tax benefit?
+
+[38] There is no room for doubt about this question; indeed, counsel for the Appellant did not argue otherwise. Subsection (2) is carefully worded to make it clear that the recipient of the tax benefit need not be the same person who enters into, or orchestrates, the transaction or series of transactions. The incorporation of 1004568, the formation of STIL II, and the sale of Standard's 99% interest in it to an arm's length buyer were all part of a series of transactions which resulted in the claimed loss on the part of the Appellant. The answer to the first question is "yes".
+
+question 2 – primary purpose
+
+[39] Mr. Bradeen, in giving his evidence, did not pretend that this claim for loss was not one of the intended results; his position simply was that the revenue to be obtained by the liquidator through the transfer of Standard's tax loss to a purchaser of the partnership interest was not the primary purpose behind the series of transactions, but a subsidiary one. Whether it was a primary purpose is to be judged by an objective standard, however. In The Queen v. Wu,[17] Strayer J.A., in the context of subsection 15(1.1) of the Act, said:
+
+In this connection we refer to the decision of this Court in H.M. v. Placer Dome Inc., decided after the trial judgment in the present case. The provision in question in that case, subsection 55(2) of the Income Tax Act, required for its application that "one of the purposes" be to support a significant reduction in capital gain realized. It did not contain the words "may reasonably be considered that ... ". This Court, for purposes of decision, assumed, without finding, that the test was subjective. But it was held that in the face of the Minister's presumption that this was one of the purposes:
+
+the taxpayer must offer an explanation which reveals the purposes underlying the transaction. That explanation must be neither improbable nor unreasonable ... the taxpayer must offer a persuasive explanation that establishes that none of the purposes was to effect a significant reduction in capital gain.
+
+In our view, with the additional words in subsection 15(1.1) allowing for its application where "it may reasonably be considered" that one of the purposes of payment is alteration of the value of the interest of a shareholder, the onus is even greater on a taxpayer to produce some explanation which is objectively reasonable that none of the purposes was to alter the value of a shareholder's interest.
+
+[40] In the present context, then, the onus on the Appellant is to produce an explanation which is objectively reasonable that the primary purpose for the series of transactions was something other than to obtain the tax benefit. This requires that I examine the subjective evidence of Mr. Bradeen against the more objective backdrop of the documents from the liquidator's files, and common sense.
+
+[41] The following exchange took place between Mr. Bradeen and counsel for the Appellant:
+
+Q. ... was this whole, all the events that we've been discussing, formation of the partnership, transfer of mortgages, and the introduction of OSFC in the Management Committee, all the transactions we're talking about, as far as Standard Trust is concerned or you are concerned, was that simply a tax deal?
+
+A. No, we were trying to maximize the proceeds to the estate from the sale of the underlying assets. And the tax, as far as Standard was concerned, was an enhancement, if you will, but a fairly small part of the deal in terms of realization of proceeds, we were more concerned about an effective way to realize on the underlying security, the real estate.
+
+(Transcript Vol. I, page 190-191)
+
+Neither the question nor the answer was very precise, but the intention was certainly to convey the impression that the creation of the non-arm's length partnership, and the subsequent sale of a 99% interest in it before its first year-end, was not primarily motivated by the potential tax benefit for which a purchaser might pay a significant price. A careful review of Mr. Bradeen's evidence on cross-examination, and of the documents, leads me to conclude that this answer was less than candid.
+
+[42] Exhibits R-6 and R-7 are two drafts prepared by, or for, the liquidator, on July 24 and July 28, 1992 respectively, of an analysis of the proposal to use the non-arm's length partnership to dispose of the properties which later became identified as the STIL I and STIL II portfolios. Exhibit R-14 is a similar document, apparently created on September 11, 1992. The income tax advantages of the proposal feature prominently in all of these documents, and yet they contain no mention of any other motivation for the use of this business structure. Exhibits R-9 and R-10 are cash flow charts which apparently were prepared to show the tax benefit which might be had by using the structure which ultimately was used to move Standard's incipient losses on the portfolio assets to a purchaser who could put them to use.
+
+[43] Exhibits R-11 and R-13 apparently record discussions between the liquidator's staff and potential purchasers in which the tax aspects of the deal were a major topic. The second page of Exhibit R-13 is a schematic and cash flow chart, which also shows the tax benefit to be realized. In none of these documents is there any reference to the factors of obtaining the assistance of real estate experts, maintaining flexibility in the manner of dealing with the assets, or protecting the estate assets, which were put forward by the liquidator as being the principal motivation for electing to use the rather unusual structure of a partnership in which the liquidator and its wholly-owned subsidiary, incorporated for the purpose, would hold interests of 99% and 1% respectively. Exhibit R-15 is a letter dated September 14, 1992 to the liquidator, from the president of CanWest Global Communications Corp., in which he expressed interest in purchasing Standard's interest in a non-arm's length partnership more or less identical to the ones later formed as STIL I and STIL II. Much of the letter is devoted to the income tax losses which would accrue to CanWest Global, and it is clear that the letter was preceded by some discussions of such a deal. Nothing in the letter suggests that CanWest Global could bring any expertise in the marketing of real estate to the partnership.
+
+[44] Much of this evidence is summed up in the following exchange between Mr. Bradeen and counsel for the Respondent:
+
+Q. So it's fairly clear then, Mr. Bradeen, you would agree, would you not, sir, that throughout the spring and summer, [of 1992] Ernst & Young were figuring out how to transfer Standard Trust Company's losses to outsiders in an effort to get more for the mortgages?
+
+A. Yes.
+
+(Transcript Vol. I, page 244)
+
+[45] On October 21, 1992, the liquidator applied to Mr. Justice Houlden for the Order that would permit it to incorporate 1004568, create the STIL partnerships, and convey the portfolio assets to them. Although the realization of something in the order of $10,000,000 from the sale of the tax losses amounting to some $99,000,000 had been in the minds of Mr. Bradeen and his colleagues and advisors for some weeks, and featured prominently in the CanWest Global letter five weeks before, no mention of that is to be found in Liquidator's Report No. 13, which was the document put before Mr. Justice Houlden as the basis for the application for the Court's approval of the transactions. Significantly, an earlier draft of Liquidator's Report No. 13, Exhibit R-46, did refer to the potential for sale of the tax losses in the following terms:
+
+PART III – ASSESSMENT OF THE PROPOSAL
+
+The Liquidator considers that the marketing of the proposal will benefit Standard Trust and Standard Loan in the following respects:
+
+...
+
+iii) the Liquidator believes that the sale price attainable if the Mortgages are sold under the Proposal will be $10 million to $20 million higher than their present market value, partially reflecting the possible tax benefits to purchasers from the realization of the potential losses associated with the Mortgages.
+
+[46] The final version of Liquidator's Report No. 13[18] which was filed with the Court, and on the strength of which the Liquidator obtained leave to incorporate 1004568 and enter into the STIL partnerships with it, had only this to say about the motivation for these transactions:
+
+PART III – STRATEGIC OBJECTIVES
+
+The following objectives of the Liquidator can be accomplished by the transfer of the Mortgages to the Partnership:
+
+(a) Enhanced Marketability
+
+The proposed transfer of Mortgages to the Partnerships has the potential to enhance the value and marketability of the Mortgages and the underlying real property, and may also enhance the marketability and value of Standard Trust's assets generally.
+
+To some extent, the enhanced marketability of the Mortgages may arise simply from the separation of the Mortgages and underlying real property from the other assets of Standard Trust. The Liquidator intends to dispose of the assets of Standard Trust in an orderly manner and is prepared to wait out the market where appropriate. In spite of clearly stating this approach to potential purchasers of Standard Trust's assets, a perception persists in the marketplace that properties may be acquired on "fire sale" terms. Under the arrangements the Liquidator is proposing the Partnerships will become responsible for realizing on the Mortgages and the underlying real property, and this may emphasize to the market the nature of the realization process which is contemplated, and produce better recoveries.
+
+(b) Additional Flexibility for Liquidator
+
+The proposed transaction will also give the Liquidator greater flexibility in the realization process for Standard Trust's assets generally. In addition to being able to sell mortgage assets or parcels of real estate directly, the Liquidator would also have the option of selling some or all of Standard Trust's interest in the Partnerships. Accordingly, the range of realization methods at the Liquidator's disposal and the potential for maximizing the overall value of Standard Trust's assets would be increased under the proposed transaction.
+
+If the Liquidator wishes to sell any of Standard Trust's interest in the Partnerships, such sale would be subject to this Court's approval. In addition, since the Liquidator's objective is to enhance the marketability of Standard Trust's assets and not to isolate them from the supervision of the Court, the Liquidator will cause the Partnerships to seek this Court's approval of any proposed transaction in respect of the Mortgages or the underlying real property in any circumstances where such approval would have been required had the Mortgages not been transferred to the Partnerships.
+
+(c) Protection of Standard Trust's Estate
+
+The Liquidator, through Standard Trust's ownership of the Subsidiary, will cause the Partnerships to continue the process of realizing maximum value from the Mortgages. To this end, the Partnerships may sell Mortgages or foreclose, commence power of sale proceedings, or obtain quit claims in respect of the underlying real property from mortgagors in such a manner as is deemed appropriate by the Subsidiary. All of the foregoing realization procedures are of course presently at the disposal of the Liquidator. No flexibility in the realization process will be sacrificed by the transfer of the Mortgages to the Partnerships.
+
+The recoveries from the Mortgages will continue to be available to Standard Trust and its creditors through distributions from the Partnerships and dividends from the Subsidiary, both of which will be controlled by Standard Trust. However, to ensure that any claims relating to the Mortgages are subject to the Court's supervision to the same extent as at present, the Liquidator requests that the Order of this Court dated July 19, 1991 requiring leave of this Court in any proceedings against Standard Trust or the Liquidator be varied so that such leave would also be required on the same terms, so long as Standard Trust retains its ownership interest in the Partnerships, for any proceedings against the Partnerships.
+
+In the event that the Liquidator subsequently determines that the marketability of the Mortgages and the underlying real property is not enhanced by the separation of these assets from Standard Trust's other assets, the Liquidator could cause the Partnerships to be dissolved, and the Mortgages returned to Standard Trust without cost (apart from the costs of the transfer itself). Accordingly, apart from the transaction costs involved, Standard Trust would not put any funds at risk by engaging in the proposed transaction, and would have the option of undoing the transaction in its entirety if we subsequently determine that this is appropriate. The Liquidator does not anticipate that overall expenses will be higher by engaging in the proposed transaction.
+
+[47] Mr. Bradeen could only offer hearsay evidence that he believed that some disclosure of the tax motivation was revealed orally to Houlden J. during the hearing of the Liquidator's motion.
+
+[48] I do not find Mr. Bradeen's position, either as it was expressed in Liquidator's Report No. 13 or at the trial, to be convincing. The suggestion that by creating a non-arm's length partnership to hold the portfolio assets the liquidator would somehow show the market that it was unwilling to sell them at "fire sale" prices goes unexplained. Any potential buyer of even minimal sophistication would realize that the directing mind remained unchanged when the liquidator created the partnership to take over the assets. Nor did Mr. Bradeen explain in any convincing way how the partnership medium would lead to greater flexibility in dealing with the assets of Standard. Without the interposition of STIL II, the liquidator could have sold interests in any or all of the assets to one or more purchasers, or could have sold any or all of them outright. The logical conclusion is that flexibility was not enhanced, but may even have been diminished, by the introduction of STIL II. A careful reading of the paragraphs in Liquidator's Report No. 13 which follow the heading "Protection of Standard Trust's Estate" does not reveal anything which could be described as a positive aspect arising out of the creation of STIL II. At its highest, this part of the Report says nothing more than that the realization process will not suffer from the proposed partnership arrangement.
+
+[49] It seems to me unlikely that the omission from Liquidator's Report No. 13 of any direct reference to the potential for selling Standard's incipient losses to an investor who could put them to good use was due to an oversight. It was clearly an important component of the liquidator's thinking over the preceding weeks and months. It was in an earlier draft. It is perhaps hinted at in the statement that the proposed sale of the assets to the proposed partnerships
+
+... has the potential to enhance the value and marketablity of the Mortgages and the underlying real property, and may also enhance the marketability and value of Standard Trust's assets generally.
+
+[50] It is far more likely that Mr. Bradeen and his superior in E & Y, Mr. Drake, who were after all accountants operating with the benefit of advice from lawyers, deliberately omitted from the report any mention of the potential to turn the losses to account, because they did not want to create any evidence to suggest that the implementation of the partnership arrangement was motivated by its potential to produce a tax benefit. The proffered explanation, in my view, is not an objectively reasonable one. I find that the primary purpose for which E & Y entered into the series of transactions whereby 1004568 was incorporated, STIL II was formed, and the portfolio was transferred to it by the liquidator, was to obtain the tax benefit. The answer to the second question is "no".
+
+question 3 - misuse or abuse
+
+[51] Subsection (4) of section 245 saves from the operation of subsection (2) those transactions which do not result in "... a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act ... read as a whole." Counsel for the Appellant placed great reliance on this provision. His arguments to that end, in summary, were the following:
+
+1. The transactions attacked by the Minister were specifically approved by the Courts.
+
+2. The purpose of the transactions was to maximize the realization on the portfolio assets.
+
+3. The Appellant was not a party to the avoidance transactions, or a participant in them. It simply purchased a partnership interest on what it considered to be, and ultimately proved to be, commercially advantageous terms.
+
+4. Subsection 18(13) was not misused in these transactions, as it mandates exactly the result that the Minister now attacks.
+
+5. No provisions of the Act, read as a whole, have been misused or abused.
+
+[52] The first two of these arguments may be dealt with together, as neither is relevant to the matter before me. The question of the application of the Act, and in particular GAAR, was not before Mr. Justice Houlden when he made his Order on October 21, 1992 authorizing the transactions. From the paper record, it does not even appear that he was made aware of the tax avoidance purpose driving the proposed series of transactions, although he may have been told of it. In either event, he had no jurisdiction to rule upon the questions now before me, and of course he did not purport to do so. Nor does it assist the Appellant to argue that the purpose of the transactions was to maximize the realization on the portfolio assets. Primary purpose is a subject of inquiry under subsection (2); under subsection (4) the inquiry is directed only to results.
+
+[53] It is not relevant, either, that the transactions prior to the sale of Standard's interest to the Appellant took place without the complicity of the Appellant. As I have already said, subsection 245(3) is carefully worded to ensure that it does not only apply to those situations in which the tax benefit is enjoyed by the author of the transactions. It is true that the incorporation of the subsidiary company, the creation of STIL II and the transfer to it of the portfolio assets were all accomplished prior to the Appellant's arrival on the scene. However the Appellant was well aware of the provenance of the deal it bought into, and of the way in which it hoped to secure a tax benefit. All that is relevant to the operation of subsection 245(4) is whether the scheme would, but for section 245, result in a misuse of subsection 18(13), or in an abuse of the provisions of the Act, read as a whole.
+
+[54] Counsel for the Appellant argues that subsection 18(13) is not misused in this case, because the result for which he contends is the very result that the subsection dictates in the circumstances. That will always be the case when a section of the Act is put to a use for which it was not intended in furtherance of an avoidance transaction, or a series of avoidance transactions. That unintended application of the section is the very mischief at which GAAR is aimed. Subsection 18(13) was enacted as a stop-loss provision, the object of which is to prevent taxpayers who are in the money-lending business from artificially realizing losses on assets which have declined in market value by transferring them to a person with whom they do not deal at arm's length, while maintaining control of the assets through the non-arm's length nature of their relationship with the transferee. The use of that provision to effect the transfer of unrealized losses from a taxpayer who has no income against which to offset those losses to a taxpayer which does have such income is clearly a misuse.
+
+[55] I am also of the view that the transactions in issue here would, but for section 245, result in abuse of the provisions of the Act as a whole. Counsel for the Appellant, in his careful written argument, postulates that for the Court to find that there has been abuse of the provisions of the Act as a whole requires two pre-requisites:
+
+1. a legislative scheme the object of which can readily be ascertained, and
+
+2. a conclusion that the provisions of the Act have been misused, and not simply a conclusion that in the eye of the beholder, the tax benefit obtained is economically inappropriate. (the emphasis is counsel's)
+
+[56] In McNichol et al. v The Queen, Judge Bonner of this Court said, in the context of a surplus stripping scheme:[19]
+
+... The transaction in issue which was designed to effect, in everything but form, a distribution of Bec's surplus results in a misuse of sections 38 and 110.6 and an abuse of the provisions of the Act, read as a whole, which contemplate that distributions of corporate property to shareholders are to be treated as income in the hands of the shareholders. It is evident from section 245 as a whole and paragraph 245(5)(c) in particular that the section is intended inter alia to counteract transactions which do violence to the Act by taking advantage of a divergence between the effect of the transaction, viewed realistically, and what, having regard only to the legal form appears to be the effect. For purposes of section 245, the characterization of a transaction cannot be taken to rest on form alone. I must therefore conclude that section 245 of the Act applies to this transaction.
+
+[57] In RMM Canadian Enterprises Inc. et al. v. The Queen,[20] Judge Bowman expressed complete agreement with this passage, and then went on to say:[21]
+
+To what Bonner J. has said I would add only this: the Income Tax Act, read as a whole, envisages that a distribution of corporate surplus to shareholders is to be taxed as a payment of dividends. A form of transaction that is otherwise devoid of any commercial objective, and that has as its real purpose the extraction of corporate surplus and the avoidance of the ordinary consequences of such a distribution, is an abuse of the Act as a whole.
+
+[58] In my view the same principal applies to the present case. What we have here is an arrangement, only thinly disguised, to make the incipient losses of Standard a marketable commodity for which the liquidator was to receive 10 ¢ on the dollar. That this is contrary to the scheme of the Act is made clear by the following passage from the reasons for judgment of Linden J.A. in the Duha Printers case,[22] where, after setting out the provisions of subsections 87(2.1), 111(1) and (5), 251(2) and 256(7) of the Act, he said:
+
+These sections are part of a complicated network of provisions that prescribe the various circumstances under which losses may be utilized by certain specified corporations. The provisions above are specifically directed at corporations recently subject to a reorganization. They begin with the general proposition, in subsection 111(1), that a corporation may deduct from its taxable income for a year non-capital losses that arose in any of the years specified. Subsection 87(2.1) then adds that, where two or more corporations are amalgamated, the resulting corporation is deemed, for the purpose of determining loss deductibility, to be the same corporation as each predecessor corporation. By the combination of these two provisions, recently amalgamated corporations are allowed to share losses between them.
+
+However, subsection 87(2.1) also adds that subsections 111(3) to (5.4) may apply to restrict loss deductibility. Subsection 111(5), the provision relevant to this case, states that in an amalgamation where control changes hands, losses may be shared only to the extent that the business of the loss corporation is carried on by the amalgamated corporation as a going concern. To understand what is meant by "control" and how it can change hands, one must first refer to subparagraph 251(2)(c)(i). It states that two corporations are related if they are controlled by the same person or by the same group of persons. Subparagraph 256(7)(a)(i) then clarifies that control of a corporation will be deemed not to have been acquired in a share acquisition where the corporations at issue were related "immediately before" to the acquisition. The notion of "control" is therefore central to the working of subsection 111(5).
+
+As complicated as these provisions might seem, the goal they seek is an implementation of certain basic principles governing income computation. These principles are fundamental to the taxing scheme implemented by the Act. Briefly described, this scheme contemplates the taxation of overall net increases in an individual taxpayer's income. In computing such income, the Act allows losses to be shared between income sources so long as those sources are referable to a single individual taxpayer. This is the net income concept. What is not allowed, however, is income or loss sharing between individuals. The reason for this is that the Act allocates tax burdens differentially across different income strata. Certain policy initiatives are thereby implemented, and these initiatives would be frustrated by income or loss sharing between individuals.
+
+Within this scheme, corporations present a special challenge. Corporations are individuals, legally speaking, and as individuals are liable to pay tax. But they are also fictional creations of law whose income is ultimately distributed to the shareholders who own them. They are furthermore very portable and are easily created, traded, bought, and sold. Specific corporate taxation rules exist, therefore, to harmonize the taxation of corporate and shareholder income, and to prevent loss sharing that can result from inappropriate corporate manipulation. One example of the latter concerns the stop-loss provisions of section 111, which quarantine losses to the corporations that created them. Subsection 111(5), however, provides the exception that related corporations may share losses without restriction. Such corporations are, for this purpose, treated by the Act as a single taxable unit, and may be claimed as such by the corporate taxpayer.
+
+[59] The primary intention of the liquidator in this case was to thwart the legislative scheme crafted by Parliament. The Appellant was well aware of that, and was willing to participate, subject to the provisions of Articles 1 and 2 of the Agreement of Purchase and Sale which make the Additional Payment, that is the payment for the tax losses, subject to the Appellant, and any subsequent purchasers from the Appellant, being successful in claiming the losses in the computation of their income. Subsection 245(4) has no application here.
+
+question 4 – the remedy
+
+[60] The final aspect of section 245 is the selection of an appropriate remedy. I did not understand counsel for the Appellant to dispute that the remedy applied by the Minister, which was to disallow the Appellant's claim to offset its share of the losses of the SRMP partnership against its other income, was appropriate in the event of an adverse finding on the substantive issues.
+
+[61] The appeals are therefore dismissed, with costs.
+
+Signed at Ottawa, this 25th day of June, 1999.
+
+"E.A. Bowie"
+
+J.T.C.C.
+
+[1] The 1994 appeal relates to a carry-forward of part of this amount.
+
+[2] S.C. 1988, c. 55, s.185.
+
+[3] Now the Superior Court of Justice.
+
+[4] R. S. c. W-11.
+
+[5] Several of the properties had more than one loan.
+
+[6] See Appendix A.
+
+[7] It was in fact executed somewhat later.
+
+[8] See Appendix A.
+
+[9] Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298.
+
+[10] supra, paras. 21 to 25.
+
+[11] supra, at para 43.
+
+[12] This item is made up of $1,582,314 loss on sale of properties, and $7,142,719 mortgage provision.
+
+[13] Orion Finance Ltd. v. Crown Financial Management Ltd., [1996] 2 BCLC 78 (Eng. C. A.), at pp 84, 85.
+
+[14] supra. at paras. 21 and 44.
+
+[15] Partnership Act, R.S.O. 1990 c. P-5 s. 2.
+
+[16] Section 245 is reproduced in the Appendix.
+
+[17] 98 DTC 6005.
+
+[18] Exhibit A-1 and R-16.
+
+[19] 97 DTC 111 at 121 and 122.
+
+[20] 97 DTC 302.
+
+[21] at 313.
+
+[22] The Queen v. Duha Printers (Western) Limited, 96 DTC 6323 at 6325 (F.C.A.); reversed on other grounds, 98 DTC 6334.
+

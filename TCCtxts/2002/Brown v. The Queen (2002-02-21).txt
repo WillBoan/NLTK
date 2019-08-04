@@ -1,0 +1,162 @@
+Date: 20020221
+
+Docket: 97-3264-IT-G
+
+BETWEEN:
+
+PETER M. BROWN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Directions and Reasons for Directions
+
+Rip, J.
+
+[1] In the reasons for judgment in the appeals of Peter M. Brown from income tax assessments for 1993, 1994, 1995 and 1996, dated November 15, 2001, I concluded that the appeals would be allowed and referred the assessments back to the Minister of National Revenue ("Minister"), if necessary, for reconsideration and reassessment in accordance with the reasons. I instructed counsel for the respondent to prepare a draft judgment to implement my decision, which was to be approved as to form by counsel for the appellant. I stated that if counsel required directions as to settle the term of the judgment, a conference call would be arranged. I also invited submissions as to costs, once the judgment had been approved.
+
+[2] Subparagraph (d) of a paragraph (not numbered) entitled Conclusion in the reasons for judgment states:
+
+d) The Partnership and ASC did not deal at arm's length. The price the Partnership purported to pay for the computer programs was greater than the fair market value of the computer programs. I am not fixing a value. Having regard to my other findings, in particular, that the appellant's at-risk amount is nil, it may not be necessary to determine the fair market value of the engines as of December 31, 1993. In any event, if a valuation is necessary to determine fair market value of the engines as of December 31, 1993 for the purposes of making reassessments, these reasons are to serve as the basis of such valuation.
+
+[3] Counsel have informed me that they require directions. They also advise that it is necessary to determine the fair market value of the engines as of December 31, 1993. The aggregate market value of the engines was to be determined based on my Valuation Analysis at paragraphs 108 to 143, inclusive, of the reasons for judgment.
+
+[4] Conference calls between counsel for both parties and me were held on December 6 and 18, 2001 and January 18, 2002.[1]
+
+[5] During the first conference call counsel and I discussed the general principles of the reasons to guide Mr. Rosen in calculating the value of the Partnership interest in the engines. Since the respondent's counsel was to prepare the draft judgment, the respondent's valuator was to calculate the value of the engines; his calculations would be subject to review by the appellant. Mr. Rosen, counsel advised, wished clarification of two points, the period of time over which the games would have been sold and the cost of the "extra" three games referred to in paragraph 141 of the reasons. (This is set out in Mr. Rosen's letter of December 14, 2001.)
+
+[6] Mr. Rosen participated in the conference call of December 18, 2001 and subsequently calculated the value of the Partnership's interest in the engines to be $4,128,000.[2] Respondent's counsel informed appellant's counsel of the calculation and forwarded to the appellant's counsel Mr. Rosen's "revised" schedules 1, 2, 3 and 5 of the Wise Blackman valuation report ("Wise Blackman report"), namely revised (1) Valuation Summary, (2) Present Value of Net Cash Flow as at December 31, 1993, (3) Discretionary Cash Flow for three-month periods ending on June 30, September 30 and December 31 of 1994, 1995 and 1996 and March 31 of 1995 and 1996, and (5) Projected Statement of Income for the same periods as in revised Schedule 3. By letter dated January 11, 2002 appellant's counsel advised respondent's counsel of possible errors or omissions in Mr. Rosen's calculations. These items were discussed during the conference call of January 18, 2002.
+
+[7] At the end of the conference call of January 18, only two items were not settled.[3] One item was whether, in his evidence, Mr. Wilkinson expressed the costs of derivatives and sequels in Canadian or United States currency. Mr. Rosen assumed the costs were in American funds. If the costs were in Canadian funds, he would have to revise his calculations to increase the valuation of the Partnership's interest in the engines to $4,146,000.[4] Counsel were to get in touch with Mr. Wilkinson to confirm the currency but have so far been unsuccessful. If counsel cannot contact Mr. Wilkinson by March 14, 2002, I must assume that the currency is in Canadian funds and the Partnership's interest in the property be valued at $4,146,000. The evidence was heard here and there is no reason for me not to infer that the currency stated at trial is local currency.
+
+[8] The second item related to figures underlying the calculation of the present value of the tax shield. Appellant's counsel did not have the actual calculations. Respondent's counsel agreed to forward the appropriate software containing the calculations to the appellant's counsel.
+
+[9] Finally, on January 29, 2002, both counsel sent letters to the Registrar of the Court with respect to the calculation of the tax shield component of the engines acquired by the Partnership. Respondent's counsel also wrote on February 1, 2002 in response to the appellant counsel's letter of three days earlier. Appellant's counsel took issue with two assumptions inherent in Mr. Rosen's calculation of the value of the tax shield: that he erred in assuming that the tax shield cash flows ought to be discounted at the same rate as that applied to the software business cash flow, and he erred in assuming the tax shelter would be realized at two points in time, the first half one year after the valuation date, and the second half, two years after the valuation date.
+
+[10] Counsel for the appellant challenged how Mr. Rosen valued the asset. He writes that Mr. Rosen valued "the asset in a 'vacuum', to a notional corporate purchaser with no other source of income against which to apply the CCA [capital cost allowance] deductions. As a result, the CCA shelters only the income produced by the business in which the software is employed, not other sources of income". Mr. Michelin, the appellant's valuator, had advised counsel to take the view "that the class of purchasers who would be interested in an investment of this nature (namely, high-income individuals) is sufficiently broad that it comprises the actual market and that the asset ought to be valued with this group in mind". The value of the tax shield should consider high-income taxpayers, the target market of the investment product.
+
+[11] Therefore, in the view of the appellant, the discount rate applied to the tax shield component ought to be the risk-free rate of return, not the same rate as applied to software business cash flows. The reason for this is that the benefit to be derived from reducing the taxes payable by Mr. Brown is virtually certain, whereas the value of the software business cash flow is much less certain, according to the appellant's counsel. In other words, counsel suggests that even if the software does not generate any revenues, the Partners would still have realized the tax shield by deducting CCA against their other income. This approach assumes a purchaser has income from other sources against which to apply CCA. This is contrary to the position taken by Mr. Wise in his testimony. In describing the discounted cash flow method, he testified:
+
+. . . we are talking about property or an asset. A product is an asset. Take any asset. What will that asset, by being commercially exploited, not a business, just that asset, what will that generate by way of revenues and cash flows if commonly exploited?[5]
+
+I am only interested in the value of the engines, without regard to any potential purchaser's tax situation.
+
+[12] Mr. Rosen discounted the tax shield cash flows by one and two years, respectively, according to the appellant. The discounting of the tax savings, appellant's counsel states, ought to be tied to the time at which Mr. Brown would have realized the savings: he would realize the benefit of the first half of the tax shelter when he filed his 1994 tax return on April 30, 1994 and claimed CCA on one-half of the value of the software. Thus, the first half of the tax shelter benefit ought to be discounted by only four months, not one year as proposed by Mr. Rosen. As far as the second half of the tax shield is concerned, the benefit to Mr. Brown would be realized in four equal instalments over the course of 1994, when he makes his quarterly instalment payments, realizing he could reduce 1994 taxes by deducting the other half of CCA. This, of course, assumes all potential purchasers are individuals, not corporations. Mr. Rosen's analysis assumes the value of the second half of the tax shield would not be realized until December 31, 1995, two years after the valuation date.
+
+[13] I have some difficulty in considering the appellant's representations. First, he appears to be offering new evidence. The fact that new evidence - as opposed to new argument - is being submitted at this late date is enough for me to disregard it. However, the evidence I am being asked to consider also refutes much of what is contained in the Wise Blackman report as well as the testimony of Mr. Michelin at trial.
+
+[14] For example, to consider the personal tax situation of the appellant and the other Partners, in valuing the engines, assumes they are special purchasers. But I had been advised earlier that this was not so. In cross-examination Mr. Michelin stated that:
+
+It's always this notional fair market value I'm not talking about the sale to a partnership. My value is fair market value. It's a notional concept. So it's any potential purchaser or investor, be it an individual or be it a corporate investor.[6]
+
+[15] Mr. Michelin declared there was no "special purchaser" of the engines.[7] He referred to page 7 of the Wise Blackman report where the author writes that the fair market value of the video games relates to the "intrinsic value" thereof, "which we define as a notional value that would prevail based upon rules of return required by potential purchasers . . . without consideration of possible synergistic benefits and/or strategic advantages, which might enure in differing degrees to arm's length purchasers".
+
+[16] The Wise Blackman report did not include the recognition of a special purchase premium for the engines. Indeed, management of American Softworks Corporation ("ASC") informed Messrs Wise and Blackman that there were no identifiable special purchasers in the marketplace for the engines either on or after December 31, 1993.
+
+[17] As far as the tax shield discount rate is concerned, Mr. Michelin, in his testimony, stated he used a 20 per cent discount rate. Respondent's counsel alleges that, based on Mr. Michelin's calculations in Exhibit R-14, he used a discount rate of 29 per cent and 33 per cent when valuing the engines, and Mr. Rosen used 31 per cent, mid way between 29 per cent and 33 per cent in the revised calculations. In the appellant counsel's letter of January 29, 2002, counsel advises that Mr. Michelin now suggests a tax shield discount rate of 7.28 per cent.
+
+[18] The tax aspects of the transaction to any individual taxpayer should not influence the value of the engines; the taxes payable by any one purchaser is not intrinsic to the asset itself. In their original valuations, both Mr. Rosen and Mr. Michelin used corporate tax rates to value the engines as business assets. Payment of tax in quarterly instalments, as required by individuals, should not influence the timing of the tax shield benefit. Let us not forget that the value of the engines must be the same to all potential purchasers as well as to the vendor.
+
+[19] In my view, to consider the tax implications to different potential purchasers in valuing the engines would distort value. One must, as Mr. Michelin and Mr. Rosen agreed in their reports, fix a notional value to the engines, not a value that depends on who the buyer is. I am certain that if there were a special purchaser, or if the tax advantages to the various investors were relevant in determining value, as suggested by the appellant's counsel in correspondence, that would have been addressed in the original Wise Blackman report.
+
+[20] Given my finding that the appellant carried on a business with a reasonable expectation of profit, respondent's counsel agreed the appellant is entitled to deduct his share of interest paid on the Acquisition Note.[8] The parties agree that interest paid by the appellant from revenue allocated to the Partnership was as follows:
+
+1993 - nil
+
+1994 - $45,727
+
+1995 - $39,931[9]
+
+[21] The parties do not agree as to the treatment of net income reported by the Partnership in 1995. The appellant reported business income of $38,606 and claimed interest expense of $42,255 in his 1995 income tax return. The Minister reassessed 1995 to delete both the business income and the interest expense.
+
+[22] Normally, the income of a taxpayer from a business carried on with a reasonable expectation of profit is included in the taxpayer's income for the year. Also, any expenses incurred in the business or for interest on money borrowed to acquire an interest in the business is deductible in computing the taxpayer's income.
+
+[23] Appellant's counsel writes[10] that since the Minister "voluntarily deleted" the appellant's share of income from the Partnership in reassessing him for 1995, the income ought not be included in any subsequent reassessment made pursuant to a judgment of this Court. In his pleadings, the appellant did not suggest that the income be restored. The addition of the income from the Partnership to Mr. Brown's income for 1995 would be tantamount to the Minister appealing his own assessment, which he cannot appeal.
+
+[24] Counsel for the appellant also argues that the Minister and I are bound by the assessments appealed from, unless they are validly changed. A court cannot reassess on its own initiative by adding amounts into income that were not subject of the assessments. The income from the Partnership was not an amount (or issue) appealed from, counsel declares, it was not pleaded by the parties and it is not before the Court. Thus, he submits, I am without jurisdiction to deal with the issue.[11]
+
+[25] Respondent's counsel argued that the appellant raised the issue of whether or not he carried on a business in 1993 and subsequent years and evidence was led on this point. The respondent's pleadings also raised the issue as the primary basis for upholding the Minister's reassessments, including the deletion of reported business income and interest expense in 1995. My colleague Judge Bowie discussed the purpose of pleadings in Zelinski v. The Queen:[12]
+
+The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+
+[26] The pleadings of both parties in these appeals raised the issue among others, whether the taxpayer carried on a business in partnership with a reasonable expectation of profit during the years in appeal. The taxpayer was successful on this issue. When a litigant raises an issue, the litigant must realize the consequences if he or she is successful (or not successful). When a business is held to have been carried on, then all the consequences of the decision must flow logically. Income from the business is to be included and appropriate deductions in computing income allowed. In assessing as he did for the years in appeal, and in particular, for 1995, the Minister assessed all years in appeal on a consistent basis: there was no business. Once the issue is decided, the normal consequences must follow in a subsequent reassessment. However, the amount of any reassessment for 1995 arising from the appeal for 1995 cannot, of course, exceed the amount of the reassessment for 1995 that is under appeal.
+
+[27] The decision of the Supreme Court in Continental Bank[13] does not affect the position of the Minister on the facts of the 1995 appeal. The basis of any subsequent assessment for 1995 by the Minister resulting from the appeal from the 1995 reassessment is the same: whether the taxpayer carried on a business (in partnership) with a reasonable expectation of profit. The inclusion of income by a subsequent reassessment for 1995 will be the result of the appellant's success on the issue of whether a business was carried on.
+
+[28] Mr. Brown's share of the income from the Partnership will be included in his income for 1995. He will also have the right to deduct the interest in computing his net income for 1995. Respondent's counsel has advised me that there will be a reduction in his income for 1995 from that previously reassessed.
+
+[29] A draft judgment shall be prepared and approved without further delay.
+
+[30] The parties are still to speak on the matter of costs.
+
+Signed at Ottawa, Canada, this 21st day of February 2002.
+
+"Gerald J. Rip"
+
+J.T.C.C.
+
+COURT FILE NO.: 97-3264(IT)G
+
+STYLE OF CAUSE: Peter M. Brown v. The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+REASONS FOR DIRECTIONS BY: The Honourable Judge Gerald J. Rip
+
+DATE OF DIRECTIONS: February 21, 2002
+
+APPEARANCES:
+
+Counsel for the Appellant: Craig Sturrock
+
+David R. Davies
+
+Counsel for the Respondent: Graham Reynolds
+
+Lisa MacDonell
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Craig Sturrock and David R.Davies
+
+Firm: Thorsteinssons
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] As a result of the final conference call, I issued an addendum to reasons for judgment on December 6, 2001 to the effect that it "is only the at-risk amount of the Promissory Note component of the total purchase price that is nil", not the cash component of the note.
+
+[2] This value includes an amount of $1,231,000 for the present value of the tax shield.
+
+[3] Another issue was whether the sales of the first eleven games ought to be spread over the period of July 1, 1994 to December 31, 1996 or equally over the entire three-year period, as claimed by the appellant. I agreed with the method used by Mr. Rosen.
+
+[4] As advised by counsel for the respondent in a letter of February 20, 2002. This value included an amount of $1,236,000 for the present value of the tax shield.
+
+[5] Transcript, page 2091.
+
+[6] Transcript, pages 2286-2287.
+
+[7] Transcript, page 2287.
+
+[8] Letter of January 12, 2002.
+
+[9] Appellant counsel's letter of January 11, 2002 and respondent counsel's letter of January 12, 2002.
+
+[10] Letter of January 11, 2002.
+
+[11] The Queen v. Continental Bank of Canada, 98 DTC 6501 (S.C.C.), Pedwell v. The Queen, 2000 DTC 6405 (F.C.A.) and Harris v. M.N.R., 65 DTC 5332 (Ex. Ct.).
+
+[12] [2001] T.C.J. No. 774 (Q.L.), paragraph 4, 2001 CarswellNat at 2582, paragraph 4.
+
+[13] Supra. See also Pedwell, supra.
+

@@ -1,0 +1,134 @@
+Date: 19990215
+
+Dockets: 96-3705-IT-I; 96-4214-IT-I
+
+BETWEEN:
+
+JACQUELINE DRAPEAU,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Archambault, J.T.C.C.
+
+[1] These appeals were heard under the informal procedure. They constitute a new attempt by a taxpayer to challenge the inclusion in her income of alimony received from a former spouse solely for the maintenance of her child. The Supreme Court of Canada in the famous case of The Queen v. Thibaudeau, [1995] 1 C.T.C. 382, 95 DTC 5273, and the Federal Court of Appeal in Serra and Hamer v. The Queen, 98 DTC 6602, both found that such alimony must be included in the income of the former spouse who receives it, pursuant to paragraph 56(1)(b) of the Income Tax Act (Act).
+
+[2] In the case at bar, counsel for Ms. Drapeau has made new arguments that he says were not considered by those courts. The first—and the one that seems clearest to me—is that Ms. Drapeau received the alimony not on her own account but rather as a trustee under a constructive trust. I infer from this that it is being suggested that Ms. Drapeau’s appeals should be allowed because she is not the taxpayer who must include the alimony in her income; that taxpayer is rather the alleged trust or the beneficiary under the alleged trust.
+
+[3] The second argument made by counsel for Ms. Drapeau does not seem as clear to me. If I have understood it properly, Ms. Drapeau does not have to include the alimony in her income because she was not the recipient thereof within the meaning of paragraph 56(1)(b) of the Act.
+
+[4] The Notices of Appeal filed by Ms. Drapeau relate to the 1988, 1989, 1993 and 1994 taxation years.
+
+Facts
+
+[5] Before considering the soundness of these arguments, it would be helpful to provide a brief summary of the most relevant facts, which moreover are not in dispute. Ms. Drapeau married Serge Leclerc on September 2, 1972. They had a child, Frédéric, born on December 11, 1977. In a decree nisi of divorce (court decision) issued by Flynn J. of the Superior Court of Quebec on November 6, 1989, which gave effect to an agreement (1989 agreement) of the same date between the spouses, Ms. Drapeau was awarded physical custody of her minor son. Under the agreement, Mr. Leclerc undertook to pay Ms. Drapeau $950 a month in alimony solely for Frédéric. That amount was to be indexed yearly starting on January 1, 1991. In the 1989 agreement, the spouses declared that they were financially independent and expressly waived any alimony for themselves.
+
+[6] The Minister of National Revenue (Minister) added the following amounts to Ms. Drapeau’s income as alimony:
+
+1988
+
+1989
+
+1993
+
+1994
+
+$10,620
+
+$11,052
+
+$12,775
+
+$12,954.24
+
+Analysis
+
+[7] The relevant provision of the Act is paragraph 56(1)(b), which read as follows during the relevant period:
+
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+
+. . .
+
+(b) any amount received by the taxpayer in the year, pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement, as alimony or other allowance payable on a periodic basis for the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage, if the recipient was living apart from, and was separated pursuant to a divorce, judicial separation or written separation agreement from, the spouse or former spouse required to make the payment at the time the payment was received and throughout the remainder of the year.
+
+[8] As I noted above, the Supreme Court of Canada has already found in Thibaudeau that this paragraph applies in circumstances similar to Ms. Drapeau’s. However, the only argument made before that court was that paragraph 56(1)(b) of the Act violated section 15 of the Canadian Charter of Rights and Freedoms (Charter).
+
+[9] In Serra and Hamer, the Federal Court of Appeal affirmed a decision by my colleague Judge Dussault rejecting Ms. Hamer’s argument that alimony paid to her solely for her child’s benefit could not be income for her because it did not belong to her and she did not have discretion as to its use. In paragraph 1 of his reasons, Marceau J.A. of the Federal Court of Appeal described the issue as follows:
+
+. . . Again the issue was whether the fact that the sums received were exclusively for the maintenance of the children deprived the recipient of the discretion that was necessary in order for these payments to be considered as allowances within the meaning of subsection 56(12) of the Act, and consequently should not be included in the custodial former spouse’s income under paragraphs 56(1)(b), (c) or (c.1) of the Act.
+
+[Footnotes omitted.]
+
+[10] In Hamer v. R., [1997] CarswellNat 1241, Judge Dussault explained in paragraphs 14 et seq. why he had concluded that paragraph 56(1)(b) of the Act applies to alimony paid to a former spouse solely for her child’s benefit. He based his conclusion, inter alia, on the wording of the paragraph, which specifically provides for the inclusion of such an amount. Judge Dussault wrote the following:
+
+16. Section 56(1)(b) relates specifically to an amount received by a spouse or former spouse “as alimony or other allowance payable on a periodic basis for the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage” provided the other conditions stated in the paragraph are met. Paragraphs (c) and (c.1) cover similar payments in different circumstances. Nothing in these provisions requires that the spouse or former spouse receiving amounts for the benefit or maintenance of children in his or her custody be the owner or be himself or herself the creditor of the alimony.
+
+[Emphasis added. Footnotes omitted.]
+
+[11] In my opinion, this is a sufficient reason to reject both of the arguments put forward in the instant case by counsel for Ms. Drapeau. I will deal with the second argument first. Ms. Drapeau need not have been the “recipient” of the allowance in order for her to be required to include it in her income. Counsel for Ms. Drapeau maintained that, in the French version of his reasons, Judge Dussault added the word “ou” (or) between the words “bénéficiaire” (recipient) and “des enfants issus du mariage” (children of the marriage), whereas in the Act there is only a comma.
+
+[12] In making it a condition that the allowance be payable for “the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage”, Parliament has listed three separate situations. The allowance may have been paid for the maintenance of (i) the recipient alone or (ii) children of the marriage or (iii) both the recipient and the children.
+
+[13] When various elements are listed, it is not necessary to repeat the word “or” between each element. Louis-Philippe Pigeon, Q.C., then a professor at Université Laval and later a Supreme Court of Canada judge, recommended in his book entitled Rédaction et interprétation des lois (1965) that the word “or” be inserted between the second-last and last items in the list. He stated the following at page 28:
+
+[TRANSLATION]
+
+In any such enumeration, “and” or “or” should generally be inserted between the second-last and last items. In Heaven’s name, let us avoid repeating “or” after every item, as is done elsewhere. This can become extremely tiresome, especially if the enumeration is long.
+
+[14] Although the wording of paragraph 56(1)(b) leaves something to be desired,[1] it is clear here that the word “recipient” is intended to describe the “taxpayer” referred to at the beginning of paragraph 56(1)(b) of the Act and not to require that the person who actually receives the allowance be the beneficiary thereof. The fact that Ms. Drapeau was not the direct beneficiary of the alimony is therefore irrelevant.[2] The second argument made by counsel for Ms. Drapeau must accordingly be rejected.
+
+[15] In my opinion, the reasons given by Judge Dussault in Hamer are just as applicable in rejecting the first argument of counsel for Ms. Drapeau. Even if we accept his argument that the 1989 agreement created a constructive trust—an argument with which I disagree, as I will explain below—the statutory provision is clear and specific enough to cover the instant case. Indeed, paragraph 56(1)(b) of the Act expressly states that the taxpayer (the former spouse) who receives the alimony is the one who must include it in his or her income even if it is paid solely for the maintenance of the children of the marriage.
+
+[16] As stated above, the Act clearly contemplates three separate situations: if any one of them exists and the other conditions are met, paragraph 56(1)(b) of the Act applies. It is very clear that the allowance may have been paid solely for the maintenance of the children of the marriage. It is not necessary that it have been paid for the maintenance of the recipient. In the case at bar, since it is Ms. Drapeau who received the alimony pursuant to the court decision, since the alimony was paid for the maintenance of a child from her marriage to the payer of the alimony and since the other conditions seem to have been met, it is Ms. Drapeau who must include it in her income.
+
+[17] Although it is not strictly necessary, I would like to add a few comments on the constructive trust doctrine referred to by counsel for Ms. Drapeau. In support of his arguments, he cited a text published on the Internet on August 29, 1996, by the World Wide Legal Information Association (http://wwlia.org/ca-trus1.htm). At the end of the text, constructive trusts are described as follows:
+
+Constructive trusts are another judicial creation where a court will “construct” or invent a trust out of a certain set of facts. Constructive trust is also known as “unjust enrichment.” Case law (see Pettkus and Peter in The Big Cases of Canadian Trust Law) has required three elements before unjust enrichment can be found: an enrichment by somebody, deprivation by somebody and the absence of any legal justification for the enrichment.
+
+[18] It should be added that this “judicial creation” is a creation of the common law courts, and I do not think that the Quebec courts would make use of it to remedy an inappropriate use of alimony. Articles 1493 et seq. of the Civil Code of Québec contain provisions on unjust enrichment. A constructive trust is a type of trust that does not exist in Quebec. Lise Morency, the Associate Deputy Minister of Justice of Quebec, wrote the following at page 7 of “La fiducie (Trust) une institution de Common Law dans un contexte de droit civil” in Conférences sur le nouveau Code civil du Québec (documents connexes) (Actes des Journées louisianaises), Cowansville, Éditions Yvon Blais, 1991: [TRANSLATION] “The scope of the proposed provisions is limited to trusts that are established explicitly, that is, express trusts, thus excluding resulting trusts and constructive trusts.”
+
+[19] Thus, for a trust to have been created, the judge would have had to expressly order its creation or the spouses would have had to expressly establish it in their agreement. There is no mention of a trust here in either the court decision or the 1989 agreement.[3] As well, I would add that there is no evidence of unjust enrichment on Ms. Drapeau’s part. On the contrary, the evidence showed that she had to spend more than the amount of the alimony she received from Mr. Leclerc in order to maintain the same standard of living that her child had had before the divorce.
+
+[20] Finally, it is far from clear that a constructive trust is included in the meaning of “taxpayer” for the purposes of the Act. See the comments of Catherine Brown and Cindy L. Rajan in “Constructive and Resulting Trusts: Challenging Tax Boundaries”, (1997) 45 Canadian Tax Journal 659, at page 682.
+
+[21] For all these reasons, I believe that the amounts paid pursuant to the court decision are amounts covered by paragraph 56(1)(b) of the Act that Ms. Drapeau must include in her income.
+
+[22] However, the same cannot be true of the amounts paid before November 6, 1989. The court decision and the 1989 agreement say nothing about the period prior to that date. There may have been another written agreement between the parties or another Superior Court decision. However, no evidence of such other decision or written agreement was adduced at the hearing. Moreover, there are in this regard no presumptions of fact in the Minister’s favour, since the Reply to the Notice of Appeal is silent on that subject. Accordingly, I cannot confirm the Minister’s assessments with respect to the alimony paid before November 6, 1989.
+
+[23] The evidence did not show what amount was paid in 1989 pursuant to the court decision. However, I consider it reasonable to assume that one twelfth of the amount included in Ms. Drapeau’s income by the Minister for 1989 is the amount that may have been so paid.
+
+[24] For these reasons, Ms. Drapeau’s appeals for the 1988 and 1989 taxation years are allowed. The assessments for those taxation years are referred back to the Minister for reconsideration and reassessment on the basis that $10,620 for 1988 and $10,138 for 1989 must be excluded from Ms. Drapeau’s income. The appeals for the 1993 and 1994 taxation years are dismissed, the whole without costs.
+
+Signed at Ottawa, Canada, this 15th day of February 1999.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 31st day of October 1999.
+
+Erich Klein, Revisor
+
+[1] Since the word “recipient” is not used earlier in the paragraph, the word “taxpayer” should have been used again. This is in fact what was done in the amended text enacted in 1994, which applies to amounts received under a decree, order, judgment or written agreement in the event of the breakdown of a marriage occurring after 1992. Note that in the French version, it was thought appropriate to insert the word “ou” (or) after each of the first two elements in the list, since it is a fairly short list.
+
+The amended text is as follows:
+
+56(1)(b) an amount received by the taxpayer in the year as alimony or other allowance payable on a periodic basis for the maintenance of the taxpayer, children of the taxpayer or both the taxpayer and the children if the taxpayer, because of the breakdown of the taxpayer’s marriage, was living separate and apart from the spouse or former spouse who was required to make the payment at the time the payment was received and throughout the remainder of the year and the amount was received under a decree, order or judgment of a competent tribunal or under a written agreement;
+
+[Emphasis added.]
+
+In my view, this new wording does not change but merely clarifies the scope of the text that was amended.
+
+[2] Although this is not relevant, it could be argued that Ms. Drapeau did benefit, at least indirectly, from the alimony paid by her former husband, since, if he had been unable to pay it, Ms. Drapeau would in all likelihood have had to increase her contribution to supporting Frédéric. From that point of view, it may be said that Ms. Drapeau benefited from the alimony.
+
+[3] For an example of a Superior Court order requiring one of the parties to a divorce to establish a trust, see the decision of Senécal J. in Droit de la famille - 2282, J.E. 95-1992.
+

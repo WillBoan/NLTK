@@ -1,0 +1,288 @@
+Date: 20010221
+
+Docket: 2000-1232-IT-G
+
+BETWEEN:
+
+CANADIAN OCCIDENTAL U.S. PETROLEUM CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] These are appeals from assessments for the appellant's 1994 and 1995 taxation years. The issue is whether subsection 17(3) as it read in those years has the effect of removing the appellant from the operation of subsection 17(1).
+
+[2] Section 17 read as follows:
+
+17(1) Where a corporation resident in Canada has lent money to a non-resident person and the loan remained outstanding for one year or longer without interest on the loan computed at a reasonable rate having been included in computing the lender's income, the corporation shall be deemed to have received, on the last day of each taxation year during which the loan was outstanding, interest on the loan at the prescribed rate computed for the period in the taxation year during which it was outstanding.
+
+(2) Subsection (1) does not apply if a tax has been paid on the amount of the loan under Part XIII.
+
+(3) Subsection (1) does not apply if the loan was made to a subsidiary controlled corporation and it is established that the money that was lent was used in the subsidiary corporation's business for the purpose of gaining or producing income.
+
+[3] Subsidiary controlled corporation is defined in section 248 as follows:
+
+"subsidiary controlled corporation" means a corporation more than 50% of the issued share capital of which (having full voting rights under all circumstances) belongs to the corporation to which it is subsidiary.
+
+[4] Subsection 17(1) has in one form or another been part of Canadian income tax law since 1934. Subsection 17(3) was put into the Income Tax Act in 1951.
+
+[5] The problem in a nutshell is this: in 1988 the appellant loaned money interest-free to a non-resident wholly owned subsidiary and renewed the loan in 1993. The money was used throughout the entire period in the subsidiary's business. On November 15, 1994 the shares of the subsidiary were transferred to a sister company so that the non-resident borrower ceased to be a subsidiary controlled corporation of the appellant from that date on. The Minister assessed on the basis that the exception in subsection 17(3) ceased to apply at that point.
+
+[6] The appellant contends that the relevant date to determine the status of the borrower is when the loan was made. The Minister says that the test is a continuing one to be applied throughout the period in which the lender seeks to have the exception apply.
+
+[7] The agreed statement of facts is as follows
+
+1. The Appellant was a corporation incorporated under the Business Corporations Act of Alberta and was an investment holding company whose principal place of business was 635 - 8th Avenue S.W. in Calgary, Alberta throughout the period from May 31, 1988 to November 30, 1995.
+
+2. The Appellant was wholly-owned subsidiary of Canadian Occidental Petroleum Ltd. ("COPL") until November 30, 1995 and Canadian Occidental International Petroleum Corporation ("IPC") was a corporation all of the common shares of which were owned by COPL until December 1, 1995.
+
+3. At all material times, the Appellant, IPC and COPL were "taxable Canadian corporations" as defined in subsection 89(1) of the Income Tax Act ("the Act").
+
+4. At all material times until November 15, 1994, CanadianOxy Holdings B.V. ("B.V.") was resident in the Netherlands and was wholly-owned subsidiary of the Appellant by reason of the fact that the Appellant held all of BV's issued and outstanding common shares having full voting rights under all circumstances. Accordingly, BV was a "subsidiary controlled corporation" of the Appellant as defined in subsection 248(1) of the Act until November 15, 1994.
+
+5. On or about May 31, 1988, the Appellant (then named Canadian Occidental Services Ltd.) made a loan with a five-year term (the "Loan") in the amount of $67,547,200 US to BV. On May 31, 1988, BV issued a non-interest-bearing promissory note for $67,547,200 US (the "Note") to the Appellant.
+
+6. At maturity of the Note on May 31, 1993, BV reissued the Note to the Appellant amended so that it was payable upon two days notice. The Loan remained outstanding throughout the period from May 31, 1988 to November 30, 1995.
+
+7. The money lent by the Appellant to BV was used in BV's money-lending business for the purpose of gaining or producing income throughout the period from May 31, 1988 to November 30, 1995.
+
+8. On November 15, 1994, as part of a reorganization of the COPL group of companies, the Appellant transferred its common shares of BV to IPC pursuant to subsection 85(1) of the Act in exchange for Class B preferred shares of IPC. From November 15, 1994 to November 30, 1995, the Appellant held all of the issued and outstanding Class B preferred shares of IPC which in turn held all of the common shares of BV. Accordingly, BV was a "controlled foreign affiliate" of the Appellant as defined in subsection 17(15) throughout the relevant period.
+
+9. On November 30, 1995, the Appellant amalgamated with IPC and continued as IPC. On December 1, 1995, IPC was wound up into COPL, with the result that BV became a wholly-owned subsidiary of COPL.
+
+10. No tax has been paid on the amount of the Loan under Part XIII of the Act.
+
+11. On August 26, 1999, the Minister of National Revenue reassessed the Appellant for its 1994 and 1995 taxation years on the basis that subsection 17(1) of the Act applied to the Appellant to deem it to have received interest in the amount of $734,144 and $5,752,312 in respect of the 1994 and 1995 taxation years respectively, and that subsection 17(3) did not apply because BV was not a "subsidiary controlled corporation" of the Appellant from November 15, 1994 to December 1, 1995 and that the money that was lent was not used by a "subsidiary controlled corporation" of the Appellant in its business for the purpose of gaining or producing income during that period.
+
+[8] It is clear that from November 15, 1994 to November 30, 1995 BV was not a subsidiary controlled corporation of the appellant.
+
+[9] The respondent's position is that the non-resident corporation must be a subsidiary controlled corporation throughout the entire period in which the exception in subsection 17(3) is claimed.
+
+[10] I shall set out what I understand is the basis of this argument, which was expressed succinctly by Mr. Plourde. He begins with the unassailable point that the "plain meaning" of words in a statute must be determined in the context in which they are found and he relies upon the statement of Binnie J. in a dissenting judgment in Will-Kare Paving & Contracting v. Canada, [2000] 1 S.C.R. 915 at 940.
+
+[11] From this he proceeds to the proposition that subsection 17(3) must be read together with subsection 17(1).
+
+[12] One could hardly disagree with these points.
+
+[13] Next, he moves to the interpretation given to paragraph 20(1)(c) of the Income Tax Act by Dickson C.J. in The Queen v. Bronfman Trust, 87 DTC 5059, where he pointed to the distinction between the original use and the current use of borrowed money, and stated that it is the current use that is relevant in determining the deductibility of interest under paragraph 20(1)(c). From this he analogizes to the use of the borrowed money by the subsidiary within subsection 17(3), and says if it is a continuing or current test under paragraph 20(1)(c) it should be a continuing or current test under subsection 17(3). I do not propose to decide the correctness of this link in the respondent's claim of reasoning. For one thing section 17 has been amended and for another paragraph 20(1)(c) and section 17 serve very different purposes. Attempting to interpret one provision in a taxing statute by analogy to another one is a precarious and unreliable enterprise.
+
+[14] Even if I accepted the respondent's position that the interpretation of paragraph 20(1)(c) required that a similar continuing and current interpretation be given to the use of the money in subsection 17(3) it does not in my view follow, as the respondent suggests, that a similar interpretation be given to the other condition in subsection 17(3) relating to the status of the subsidiary.
+
+[15] The cardinal rule that a court must follow in interpreting a statute is that one must read the words and if they are reasonably comprehensible one need look no further. I was faced with a problem of interpreting the word "use" in Glaxo Wellcome Inc. v. The Queen, 96 DTC 1159 (aff'd 98 DTC 6638 (F.C.A.); leave to appeal to S.C.C. denied), where I followed the observation of Fauteux C.J. in Ville de Montréal v. ILGWU Center et al., [1974] S.C.R 59 at 66 where he said:
+
+The legislator is presumed to mean what he says; and there is no need to resort to interpretation when the wording is clear ...
+
+[16] Here the wording is perfectly clear:
+
+if the loan was made to a subsidiary controlled corporation ...
+
+[17] In French the words are:
+
+si le prêt a été consenti à une filiale controlée
+
+[18] French and English are linguistic instruments capable of great precision of expression. Parliamentary drafters are presumed to have mastered one or both of those languages and to be able to say what they mean and to mean what they say.
+
+[19] None of the conditions such, for example, as ambiguity, inconsistency or absurdity that might warrant applying the rules of interpretation that have been developed in other cases exist here. There is in my view no justification for this court to add the words "and throughout the period in which the loan was outstanding the borrower continued to be a subsidiary controlled corporation". The judicial filling of perceived legislative lacunae to achieve some unspecified policy objective is an unacceptable usurpation by the court of the legislative function.
+
+[20] In Friesen v. The Queen, 95 DTC 5551, Major J., speaking for the majority of the Supreme Court of Canada, refused to read into the definition of "inventory" words that were not there. He said at page 5556:
+
+The respondent is asking this Court to interpret the definition of inventory as though it read:
+
+"inventory" [for a taxation year] means a description of property the cost or value of which is relevant in computing a taxpayer's income from a business for [the] taxation year;
+
+The principal problem with the respondent's interpretation is that the bracketed words do not appear in the definition of the Income Tax Act. The addition of these words to the definition effects a significant change to the sense of the definition. It is a basic principle of statutory interpretation that the court should not accept an interpretation which requires the insertion of extra wording where there is another acceptable interpretation which does not require any additional wording. Reading extra words into a statutory definition is even less acceptable when the phrases which must be read in appear in several other definitions in the same statute. If Parliament had intended to require that property must be relevant to the computation of income in a particular year in order to be inventory in that year, it would have added the necessary phraseology to make that clear.
+
+[21] The reasoning in that case is equally apposite here.
+
+[22] If Parliament wants to add a further condition containing words such as "throughout the period" it certainly knows how to do so. The following is a list of provisions of the Income Tax Act that contain precisely those words:
+
+1. clause 6(6)(a)(i)(A)
+
+2. subparagraph 12(11)(i) — under the definition of "investment contract"
+
+3. subsection 13(25) — preamble
+
+4. paragraph 13(25)(b)
+
+5. paragraph 40(4)(a)
+
+6. paragraph 66(11.4)(b)
+
+7. subsection 66(11.5) — preamble
+
+8. paragraph 66(11.5)(b)
+
+9. paragraph 89(1)(b) — under the definition of "Canadian corporation"
+
+10. paragraph 89(2)(b)
+
+11. subsection 108(1) — under the definition of "pre-1972 spousal trust"
+
+12. subparagraph 110.6(1)(a)(vi) — under the definition of "qualified farm property"
+
+13. subparagraphs 110.6(1)(e)(i) and (f)(i) — under the definition of "qualified small business corporation share"
+
+14. subsection 112(2)
+
+15. paragraph 131(8.1)(a)
+
+16. paragraph 132(7)(a)
+
+17. paragraph 138.1(1)(a)
+
+18. subsection 146(4)
+
+19. subsection 146.1(5)
+
+20. subsection 146.3(3)
+
+21. paragraph 147.1(3)(a)
+
+22. paragraph 149(1)(o.1)
+
+23. subparagraph 149(1)(o.2)(ii.1)
+
+24. subsection 149(5)
+
+25. subparagraph 187.3(2)(f)(i)
+
+26. paragraph 189(3)(b)
+
+27. paragraph 250(1)(d.1)
+
+28. paragraph 260(1)(c) — under the definition of "securities lending arrangement"
+
+[23] This is sufficient to dispose of the matter. However two further points raised by counsel for the appellant deserve brief mention. The first is that in 1998 section 17 was substantially amended. One of the changes was to provide explicitly for the continuing status and continuing use tests that the respondent contends are implicit in subsection 17(3) in the years under appeal.
+
+[24] New subsection 17(8) reads in part as follows: (emphasis added)
+
+(8) Subsection (1) does not apply to a corporation resident in Canada for a taxation year of the corporation in respect of an amount owing to the corporation by a non-resident person if the non-resident person in a controlled foreign affiliate of the corporation throughout the period in the year during which the amount is owing and it is established that the amount owing
+
+(a) arose as a loan or advance of money to the affiliate that the affiliate has used, throughout the period that began when the loan or advance was made and that ended at the earlier of the end of the year and the time at which the amount was repaid,
+
+(i) for the purpose of earning ...
+
+[25] The short answer to the contention that I should look to subsequent legislation as an aid to interpreting prior legislation is that section 45 of the Interpretation Act prohibits just that. It reads:
+
+45(1) The repeal of an enactment in whole or in part shall not be deemed to be or to involve a declaration that the enactment was previously in force or was considered by Parliament or other body or person by whom the enactment was enacted to have been previously in force.
+
+(2) The amendment of an enactment shall not be deemed to be or to involve a declaration that the law under that enactment was or was considered by Parliament or other body or person by whom the enactment was enacted to have been different from the law as it is under the enactment as amended.
+
+(3) The repeal or amendment of an enactment in whole or in part shall not be deemed to be or to involve any declaration as to the previous state of the law.
+
+(4) A re-enactment, revision, consolidation or amendment of an enactment shall not be deemed to be or to involve an adoption of the construction that has by judicial decision or otherwise been placed on the language used in the enactment or on similar language.
+
+[26] The most extensive discussion of the rule is found in Mountain Park Coals Limited v. Minister of National Revenue, [1952] Ex.C.R. 560. The law is well settled on this point. Indeed Iacobucci J. in Ikea Ltd. v. Canada, [1998] 1 S.C.R. 196 at 208 treated it as self-evident that subsequent legislation could not have any bearing on the interpretation of a prior provision.
+
+[27] Quite apart from section 45 of the Interpretation Act and the jurisprudence on the point, there are cogent reasons for not looking to subsequent legislation as an aid to interpretation. Different people looking at the same subsequent amendment could come to precisely the opposite conclusion about its effect. One person might draw the inference that Parliament was merely making explicit what was always implicit. Another might conclude that Parliament was seeking to correct deficiencies in the prior legislation. Another might conclude that Parliament was intending to change the law. These uncertainties make subsequent legislation a wholly unreliable guide to interpretation.
+
+[28] The provisions of new section 17 are worth looking at if for no reason other than to see the very different styles of drafting in the 1950s and the 1990s. Old section 17 was brief and clear. It is set out in its entirety above. New section 17 has 15 subsections, including four anti-avoidance rules and runs to six columns.
+
+[29] The second point has to do with departmental interpretation. In a published technical interpretation dated April 17, 1991, the Department of National Revenue said this:
+
+The Department's position is that subsection 17(1) contemplates an annual and continuous test for purposes of calculating the interest deemed to be received by the lender corporation with respect to the loan made to a non-resident person. It is also our view that subsection 17(3) cannot be interpreted independently of subsection 17(1). Accordingly, in determining whether subsection 17(3) of the Act exempts the application of subsection 17(1) for a particular taxation year, the borrower must be a subsidiary controlled corporation when the loan is made and it is necessary to determine on an annual basis whether during the year the money that was loaned continued to be used in the subsidiary corporation's business for the purpose of gaining or producing income and whether the borrower, during the year, remained a "subsidiary controlled corporation".
+
+[30] The court is not bound by departmental practice although it is not uncommon to look at it if it can be of any assistance in resolving a doubt: Nowegijick v. The Queen et al., 83 DTC 5041 at 5044. I might add as a corollary to this that departmental practice may be of assistance in resolving a doubt in favour of a taxpayer. There can be no justification for using it as a means of resolving a doubt in favour of the very department that formulated the practice.
+
+[31] The part of the technical interpretation that I have quoted above is, of course, the interpretation that I have rejected. What is rather interesting is the fact that, somewhat inconsistently, in another part of the document, the department uses the same point in time test for the status of the subsidiary as it rejected here. It was dealing with the situation where a foreign subsidiary becomes by amalgamation a subsidiary controlled corporation of the amalgamated corporation. The department's comment is as follows:
+
+Additionally as the amalgamation results in U.S. Co becoming a subsidiary controlled corporation of Amalco, one would tend to look to the relieving provisions of subsection 17(3). However, absent a provision similar to subsection 87(7) to deem Amalco to have made the original loan, as U.S. Co was not a subsidiary controlled corporation at the time the loan was made, Amalco/Canco would continue to be subject to the application of subsection 17(1).
+
+[32] All this is interesting but quite irrelevant to what has to be decided here. My only observation is that anyone looking for perfect consistency in the administrative interpretation of a taxing statute is in for a disappointment.
+
+[33] The appeals are allowed with costs and the assessments for 1994 and 1995 are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that subsection 17(3) applied to the loan by the appellant to Canada Oxy Holdings B.V. in those years.
+
+Signed at Toronto, Canada, this 21st day of February 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2000-1232(IT)G
+
+STYLE OF CAUSE: Between Canadian Occidental U.S. Petroleum Corporation and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Ottawa, Ontario
+
+DATE OF HEARING: February 15, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: February 21, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Roger Taylor, Esq.
+
+Edward Rowe, Esq.
+
+Counsel for the Respondent: Paul Plourde, Q.C.
+
+Catherine Letellier de St-Just
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Roger Taylor, Esq.
+
+Firm: Donahue Ernst & Young
+
+Calgary, Alberta
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-1232(IT)G
+
+BETWEEN:
+
+CANADIAN OCCIDENTAL U.S. PETROLEUM CORPORATION,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on February 15, 2001 at Ottawa, Ontario, by
+
+The Honourable D.G.H. Bowman, Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Roger Taylor, Esq.
+
+Edward Rowe, Esq.
+
+Counsel for the Respondent: Paul Plourde, Q.C.
+
+Catherine Letellier de St-Just
+
+JUDGMENT
+
+It is ordered that the appeals from assessments made under the Income Tax Act for the 1994 and 1995 taxation years be allowed with costs and the assessments be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that subsection 17(3) applied to the loan by the appellant to CanadianOxy Holdings B.V. in those years.
+
+Signed at Toronto, Canada, this 21st day of February 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

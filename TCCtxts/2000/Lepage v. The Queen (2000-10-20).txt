@@ -1,0 +1,176 @@
+Date: 20001020
+
+Docket: 1999-3842-GST-I
+
+BETWEEN:
+
+COLETTE LEPAGE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the “Minister”) under the Excise Tax Act (the “Act”) whereby an amount of $9,800 was assessed as goods and services tax (“GST”) on the sale of a piece of land.
+
+[2] The facts are uncontested by the parties and may be summarized as follows:
+
+1. On March 7, 1996, an agreement of purchase and sale was entered into in respect of a piece of vacant land in the province of Ontario. The agreement was signed by Yvon Lepage (the appellant’s spouse) on behalf of the vendor. The land was held by the appellant, as appears on the conveyance filed as Exhibit A-2.
+
+2. The land is subdivided into six lots.
+
+3. The agreement of purchase and sale was conditional on
+
+(i) the subdivision’s being completed by the municipality before the closing date of the transaction;
+
+(ii) the vendor’s guaranteeing the buyer the right to be supplied with sand; and
+
+(iii) the purchaser’s obtaining financing.
+
+4. The parties to the agreement of purchase and sale did not waive any of these conditions.
+
+5. It was stipulated in clause 5 of the agreement of purchase and sale that the sale had to be closed on or before July 15, 1996, and that the purchaser would have possession upon closing.
+
+6. Clause 10 specified that the vendor was to be liable for certain expenses, including property taxes and water and sewer taxes, up to the closing date.
+
+7. Clause 13 provided that the vendor was to assume the risks until the sale was closed.
+
+8. For lack of financing, the sale was not closed on July 15, 1996.
+
+9. By consent, the closing date was put off to August 29, 1996.
+
+10. The purchaser is not a GST registrant.
+
+11. The vendor is not a GST registrant.
+
+[3] No GST was collected at the time of the sale since the parties to the contract believed that the sale was an exempt supply. Indeed, a supply of real property made by way of sale by an individual is usually considered an exempt supply under subsection 9(2) of Part I of Schedule V of the Act.
+
+[4] However, a supply of lots subdivided into more than two parts has been excluded from the category of exempt supplies since April 24, 1996. This is provided for in paragraph 9(2)(c) of Part I of Schedule V of the Act, which reads as follows:
+
+SCHEDULE V
+
+EXEMPT SUPPLIES
+
+PART I
+
+REAL PROPERTY
+
+S. 9.(2) A supply of real property made by way of sale by an individual or a personal trust, other than
+
+. . .
+
+(c) a supply of a part of a parcel of land, which parcel the individual, trust or settlor of the trust subdivided or severed into parts, except where
+
+(i) the parcel was subdivided or severed into two parts and the individual, trust or settlor did not subdivide or sever that parcel from another parcel of land, or
+
+(ii) the recipient of the supply is an individual who is related to, or is a former spouse of, the individual or settlor and is acquiring the part for the personal use and enjoyment of the recipient
+
+History: . . .
+
+(b) paragraph 9(2)(c) of Part I of Schedule V to the Act, as enacted by s. 90(1), does not apply to supplies of real property made on or before April 23, 1996.
+
+[5] The issue is thus to determine when the sale of the real property took place. Did it occur at the time the agreement of purchase and sale was signed on March 7, 1996, as the appellant claims? In that case the sale of the vacant land would still have been an exempt supply. Or did it take place on completion of the sale, on August 29, 1996, as the respondent claims? In that case the sale of the land that had been subdivided into several lots became a taxable supply under the Act.
+
+[6] I must first point out that the agreement of purchase and sale was not signed by the appellant, who was the registered owner of the property that was sold. It was her husband, Yvon Lepage, who signed the agreement of purchase and sale. There was no indication in it that he was acting as an agent, and the appellant did not testify at the hearing. Only Mr. Lepage testified. According to him, it is clear that he was acting on behalf of the appellant and, furthermore, the appellant recognized his authority to do so by signing the conveyance in August 1996. Although I could perhaps consider Mr. Lepage to have been acting under a tacit agency arrangement because the appellant ultimately signed the conveyance, I will not dwell on this point since, in any case, in the analysis below I find that, for the purposes of the application of the Act, the sale was not closed until August 1996. The question of agency is thus secondary.
+
+[7] To support her position that the sale took place on the signing of the agreement of purchase and sale, the appellant relies on a line of cases establishing that an agreement of purchase and sale of land creates a trust for the benefit of the purchaser. The purchaser thus becomes the equitable owner of the property on the signing of that agreement and the vendor becomes the trustee for the purchaser.
+
+[8] The contractual relationship in common law between a vendor and a purchaser of real property was analysed in Lysaght v. Edwards (1876), 2 Ch. D. 499, at pages 505-506:
+
+JESSEL, M.R. (at 506): It appears to me that the effect of a contract for sale has been settled for more than two centuries; certainly it was completely settled before the time of Lord Hardwicke, who speaks of the settled doctrine of the Court as to it. What is that doctrine? It is that the moment you have a valid contract for sale the vendor becomes in equity a trustee for the purchaser of the estate sold, and the beneficial ownership passes to the purchaser, the vendor having a right to the purchase-money, a charge or lien on the estate for the security of that purchase-money, and a right to retain possession of the estate until the purchase-money is paid, in the absence of express contract as to the time of delivering possession. . . . Now, what is the meaning of the term "valid contract"? "Valid contract" means in every case a contract sufficient in form and in substance, so that there is no ground whatever for setting it aside as between the vendor and purchaser – a contract binding on both parties. As regards real estate, however, another element of validity is required. The vendor must be in a position to make a title according to the contract, and the contract will not be a valid contract unless he has either made out his title according to the contract or the purchaser has accepted the title, for however bad the title may be the purchaser has a right to accept it, and the moment he has accepted the title, the contract is fully binding upon the vendor.
+
+[9] In Buchanan and James v. Oliver Plumbing (1959), 18 D.L.R. (2d) 575, the Ontario Court of Appeal qualified the effects of an agreement of purchase and sale in these terms at page 579:
+
+In Cornwall v. Henson, [1899] 2 Ch. 710 at p. 714 Cozens-Hardy J. pointed out that to state that the effect of a contract for the sale of land was to make the owner the purchaser of the land in equity from that moment was to state the proposition too broadly. He expressed a qualification of that principium in these words: "The doctrine is subject to one obvious qualification – namely, that the contract is one of which the Court under the circumstances will decree specific performance. For instance, if the vendor is not in a position to obtain a decree for specific performance, whether by reason of some defect in title or by reason of some collateral misrepresentation, the purchaser never was in the view of the Court, owner in equity of the property. So, too, if by reason of delay or other circumstances the Court declines to grant to the purchaser specific performance, the purchaser is not treated as being in equity owner of the property."
+
+[10] Thus, the respondent maintains that a trust would be created in favour of the purchaser by the agreement of purchase and sale only if a court of equity, having regard to all the circumstances, would grant specific performance of the contract, that is, would require a person to carry out the contract. The respondent referred to the following decisions:
+
+Howard v. Miller, (1915) A.C. 318, at p. 326
+
+Robinson v. Moffat, (1916) 37 O.L.R. 52 (C.A.)
+
+Guest v. Cochlin, (1929) 64 O.L.R. 165, at p. 171 (Ont. C.A.)
+
+Montreal Trust Co. v. Toronto, (1944) O.R. 1 (C.A.)
+
+[11] Thus, for example, the House of Lords stated the following principle in Howard v. Miller, supra, at page 326:
+
+. . . It is sometimes said that under a contract for the sale of an interest in land the vendor becomes a trustee for the purchaser of the interest contracted to be sold subject to a lien for the purchase-money; but however useful such a statement may be as illustrating a general principle of equity, it is only true if and so far as a Court of Equity would under all the circumstances of the case grant specific performance of the contract.
+
+[12] The appellant, however, relies on the decision of Judge Bell of this Court in 277287 Alberta Ltd. v. The Queen, [1997] G.S.T.C. 44, which approves the position taken in Buchanan, supra, that a trust exists from the time of the initial agreement between the parties once the contract is completed by the subsequent transfer of the property. Schroeder J.A. states in Buchanan, at pages 580-81:
+
+. . . In these circumstances the principles enunciated by James L.J. in Rayner v. Preston (1881), 18 Ch. D. 1 at p. 13, governs not only the rights of the immediate parties to the agreement, but also the rights of the purchaser against strangers to the contract. The passage in the opinion expressed by James L.J. to which I allude, reads as follows:
+
+I am of opinion that the relation between the parties was truly and strictly that of trustee and cestui que trust. I agree that it is not accurate to call the relation between the vendor and purchaser of an estate under a contract while the contract is in fieri the relation of trustee and cestui que trust. But that is because it is uncertain whether the contract will or will not be performed, and the character in which the parties stand to one another remains in suspense as long as the contract is in fieri. But when the contract is performed by actual conveyance, or performed in everything but the mere formal act of sealing the engrossed deeds, then that completion relates back to the contract, and it is thereby ascertained that the relation was throughout that of trustee and cestui que trust. That is to say, it is ascertained that while the legal estate was in the vendor, the beneficial or equitable interest was wholly in the purchaser. And that, in my opinion, is the correct definition of a trust estate. Wherever that state of things occurs, whether by act of the parties or by act or operation of law, whether it is ascertained from the first or after a period of suspense and uncertainty, then there is a complete and perfect trust, the legal owner is and has been a trustee, and the beneficial owner is and has been a cestui que trust.
+
+This passage was quoted with approval by Duff J. (as he then was) in The King v. Caledonian Ins. Co., [1924], 2 D.L.R. 649 at p. 655, S.C.R. 207, at p. 213, where he pointed out that what was stated by James L.J. in the passage quoted was entirely consistent with the judgment of Lord Parker in Howard v. Miller, 22 D.L.R. 75, [1915] A.C. 318, 20 B.C.R. 230.
+
+Applying that principle to the facts of this case, the completion of the contract on June 20, 1957 related back to the contract itself so that on the date of the explosion, namely, April 15, 1957, there had been established a complete and perfect trust, and on that date and, indeed, on March 5, 1957, the plaintiff, Buchanan, was the trustee and the plaintiff James the beneficial owner of the property, the cestui que trust.
+
+[13] In 277287 Alberta Ltd., supra, Judge Bell found that the fact that the agreement of purchase and sale was conditional was unimportant since the conditions were fulfilled and the contracts of sale ultimately performed. According to Judge Bell, there was a transfer of the beneficial ownership on the signing of the agreement of purchase and sale, and he therefore considered that the contract of sale's effect was retroactive to the time of the agreement of purchase and sale, at which time a trust was created in favour of the purchaser.
+
+[14] The appellant maintains that the same analysis should be applied here. The sale may have been executed on August 29, 1996, when all the conditions had been met, but the actual sale occurred retroactively to March 7, 1996, that is, to the signing of the agreement of purchase and sale.
+
+[15] The respondent, however, maintains that, in the tax context, it is the principle stated by the Exchequer Court in M.N.R. v. Wardean Drilling Ltd., 69 DTC 5154, that applies. According to that principle, a property is acquired only if the legal title or the normal incidents of title such as possession, use and risk have been transferred. Cattanach J. states at page 5157:
+
+In my opinion the proper test as to when property is acquired must relate to the title to the property in question or to the normal incidents of title, either actual or constructive, such as possession, use and risk.
+
+[16] The respondent maintains in this case that the agreement of purchase and sale was a conditional sale subject to three conditions: the supply of sand, obtaining financing and the completion of the subdivision. According to the respondent, the subdivision and financing conditions are conditions precedent, that is, they are dependent on an event beyond the control of the parties. However, a contract subject to a condition precedent does not become enforceable unless the condition has been satisfied or the parties have waived it. This principle was stated by the Supreme Court of Canada in Turney et al. v. Zhilka, [1959] S.C.R. 578 at page 583:
+
+. . . The obligations under the contract, on both sides, depend upon a future uncertain event, the happening of which depends entirely on the will of a third party – the Village council. This is a true condition precedent – an external condition upon which the existence of the obligation depends. Until the event occurs there is no right to performance on either side. The parties have not promised that it will occur. In the absence of such a promise there can be no breach of contract until the event does occur.
+
+[17] The Federal Court of Appeal applied this rule in The Queen v. Imperial General Properties Ltd., [1985] 1 F.C. 344. In that case, the agreement of purchase and sale was subject to the condition of compliance with Ontario's The Planning Act. MacGuigan J. concluded as follows at pages 357-358:
+
+. . . Clearly, the condition as to compliance with The Planning Act was a true condition precedent in the terms of Turney v. Zhilka, the fulfillment of which depended entirely on the happening of an external event in the control of third parties. This is not a condition which according to the terms of the agreement or by its very nature could be waived. Thus, until the condition had been fulfilled, the purchaser could not have required specific performance of the contract on October 31, 1968.
+
+[18] According to the respondent, the normal incidents of title such as use, risk and possession remained with the vendor until the closing of the transaction on August 29, 1996. The parties could not have demanded specific performance of the contract before then, since the agreement was subject to conditions precedent. The transfer of beneficial ownership (as commented on by Judge Bell in 277287 Alberta Ltd., supra), if any took place, is not enough to constitute a sale under the Act. The respondent maintains that in the case at bar the existence of a trust may not be presumed.
+
+[19] The respondent accordingly maintains that, in this case, there was no valid and enforceable contract before the conditions precedent included in the agreement of purchase and sale were satisfied. However, no evidence was led to enable the Court to determine the date on which these conditions were fulfilled. The respondent therefore maintains that the sale was completed at the time the transaction was closed, on August 29, 1996.
+
+Analysis
+
+[20] From the cases cited above, it emerges that the trustee-beneficiary relationship is a legal fiction that takes effect only in so far as there is a valid contract. As long as the relationship of the parties to the contract of sale remains in suspense, that relationship cannot be characterized as that of a trustee and beneficiary. Whatever equitable interest the purchaser of the property may have is entirely dependent on the power of a court of equity to order specific performance of the contract. I refer to the words of Lord Parker in Central Trust and Safe Deposit Company v. Snider et al., [1916] 1 A.C. 266, at page 272 (a case originating from the province of Ontario):
+
+It is often said that after a contract for the sale of land the vendor is a trustee for the purchaser. . . . But it must not be forgotten that in each case it is tacitly assumed that the contract would in a Court of Equity be enforced specifically.
+
+If for some reason equity would not enforce specific performance, or if the right to specific performance has been lost by the subsequent conduct of the party in whose favour specific performance might originally have been granted, the vendor . . . either never was, or has ceased to be, a trustee in any sense at all. Their Lordships had to consider this point in the case of Howard v. Miller et al., in connection with the law as to the registration of titles in the province of British Columbia, and came to the conclusion that, though the purchaser of real estate might before conveyance have an equitable interest capable of registration, such interest was in every case commensurate only with what would be decreed to him by a Court of Equity in specifically performing the contract, and could only be defined by reference to the relief which the Court would give by way of specific performance.
+
+[21] This was echoed by the Ontario Court of Appeal in The Montreal Trust Company v. The City of Toronto, [1944] O.R. 1, where it was also held that a trustee-beneficiary relationship exists only to the extent that a court of equity would order specific performance of the contract. In Montreal Trust, the Ontario Court of Appeal considered that, for municipal tax purposes, a municipal officer was not in a position to rule that a contract of sale had become enforceable. The Court held that as long as the sale had not been completed, the vendor could not be considered to be a trustee with respect to the property that was the subject of the contract of sale, and this was so for the very simple reason that, if the sale did not materialize, the purchaser could not be held responsible for payment of the tax.
+
+[22] In the case at bar, the agreement of purchase and sale involved subdivided lots and was conditional, among other things, on the subdivision of these lots being completed by the municipality. This is certainly a condition precedent within the meaning of Turney et al. v. Zhilka, supra, the fulfillment of which depended entirely on the happening of an event that was subject to the will of a third party. Furthermore, it is not a condition which, according to the terms of the agreement, could be waived. As long as this condition was not satisfied, the appellant (the vendor) could not legally force the purchaser to finalize the sale.
+
+[23] I note here that, in her written argument, the appellant submits that when the agreement of purchase and sale was signed, the lots had been surveyed and the subdivision of the land had been approved by the municipality of Clarence. The only step that remained was to obtain the signature of the Minister of Municipal Affairs, which, according to the appellant, automatically follows once the subdivision has been approved by the municipality. I emphasize here that this was not put in evidence at the hearing. Moreover, if the parties to the contract have, of their own accord, thought fit to attach this condition to the agreement of purchase and sale, I do not see how I can ignore its existence. Thus, I am of the view that, although the parties were bound by the agreement of purchase and sale, as long as that condition was unfulfilled, a court of equity could not have ordered specific performance of the sale.
+
+[24] In my opinion, it cannot be said that the transfer of title took place before the condition was satisfied because that condition goes to the very essence of the contract of sale. The appellant could not dispose of subdivided lots as long as they had not been officially approved by the municipality. This is a situation similar to that in the decision rendered by Judge Bonner of this Court in Atriums at Willowells Partnership v. The Queen, [1996] G.S.T.C. 7. In that case, the Court had to decide whether the ownership of a residential condominium unit had been transferred after 1990 for the purposes of subsection 336(3) of the Act. By an agreement of purchase and sale, the purchaser had agreed to purchase a unit in a condominium project that was to be built. The purchase offer specified that, until such time as the project was registered as a condominium, "unit" designated an undivided interest in the project. The purchaser took possession of his unit after the work had been completed and legal title was transferred thereafter. It was held that the ownership of what ultimately became the unit had not been transferred by the creation of a trust since, until the project was registered as a condominium, the subject of the trust was, according to the agreement, a simple undivided interest in the project as a whole and not the beneficial ownership of a dwelling unit as such.
+
+[25] Judge Bonner stated as follows at pages 7-8 of his reasons for judgment:
+
+In my view there is little room for doubt that ownership of a residential condominium unit as defined in s. 123 of the Act did not pass before 1991. Wardean Drilling Ltd. is of little help. In that case the Court had to decide when property was "acquired" for purposes of capital cost allowance. When para. 336(3)(b) speaks of ownership, it speaks of it as of something distinct from possession. The statutory language suggests to me that the legislature envisaged ownership as involving either legal title or something very close to it. It did not envisage an approximation of ownership derived from inferences of the sort which might be drawn from the Agreement of Purchase and Sale in this case. It is impossible to infer that a purchaser under the Agreement of Purchase and Sale could have had ownership of a "bounded space" in the building at any time before 1991 because the unit as a thing capable of ownership did not then exist as an entity separate from the rest of the building. The unit as a thing capable of separate and distinct ownership could come into existence only upon the registration of the condominium.
+
+[26] Similarly, the purchaser in this case could not have the ownership of a subdivided lot before the subdivision of those lots had been completed by the municipality. To paraphrase Judge Bonner, the subdivided lots, as things capable of separate and distinct ownership, could come into existence only upon the final approval of the subdivision by the municipality.
+
+[27] In the circumstances and taking into account the conditions precedent attached to the agreement of purchase and sale, I do not believe that the approach taken by Judge Bell in 277287 Alberta Ltd., supra, should be adopted here. The agreement of purchase and sale could not take effect before the condition precedent was met. I prefer instead the decision of the Federal Court of Appeal in Imperial General Properties Ltd., supra, and I do not think that it has been shown that the purchaser could have demanded specific performance of the contract before the sale closing date. In the circumstances, and for the purposes of applying the Act, I find that the sale took place only on the legal transfer of title on August 29, 1996, and that, on that date, the lots subdivided into more than two parts were no longer exempt supplies.
+
+[28] I would add in obiter that it is useful to note that the tax in respect of a taxable supply of real property by way of sale is payable on the earlier of the day ownership of the property is transferred to the recipient and the day possession of the property is transferred to the recipient under the agreement for the supply (subsection 168(5) of the Act). On the assumption that possession is transferred at the same time as ownership, it would be illogical in my view to consider the tax as payable from the signing of the agreement of purchase and sale when that agreement is subject to a condition precedent. Indeed, if it were and the condition precedent were satisfied only after a certain time had elapsed, it would have to be concluded that the government would be entitled to collect interest on the tax that was paid at the time the sale was closed but that had become payable from the time of the agreement of purchase and sale. It seems to me that this would be straying from the intent of Parliament.
+
+[29] For these reasons, I am of the view that the appeal should be dismissed and the Minister’s assessment confirmed.
+
+Signed at Ottawa, Canada, this 20th day of October 2000.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 31st day of January 2001.
+
+Erich Klein, Revisor
+

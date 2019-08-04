@@ -1,0 +1,556 @@
+Date: 20020605
+
+Docket: 2001-1013-GST-G
+
+BETWEEN:
+
+R. MAXINE COLLINS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+
+
+Hershfield, J.T.C.C.
+
+[1] On or about July 27, 2000, pursuant to section 261 of the Excise Tax Act ("the ETA"), the Appellant applied for a Goods and Services Tax ("GST") rebate in the amount of $3.50.
+
+[2] The Minister of National Revenue ("the Minister") denied the Appellant's claim for the rebate by Notice of Assessment dated November 3, 2000 for the period of February 1, 2000 to June 30, 2000. This appeal under the General Procedure was filed following an objection and Notice of Decision dated January 23, 2001 confirming the assessment.
+
+[3] The GST rebate claim is in respect of a withdrawal fee of $25.00 charged to the Appellant for removing money from a Registered Retirement Savings Plan ("RRSP"). The issue in this appeal is whether such withdrawal fee was for a financial service exempt from tax pursuant to Part VII of Schedule V to the ETA or whether such service was excluded as a financial service by paragraph (q) of the definition of "financial service" set out in subsection 123(1) of the ETA and thus subject to GST.
+
+[4] In brief, the Appellant's position is that the subject RRSP was a self-directed plan (the "Plan") and was by its terms a bare or simple trust ("bare trust") which at common law is not a trust at all but rather creates a relationship of principal and agent. The Appellant goes on to advance the position that if a self-directed RRSP is not a trust, then it is not an "investment plan" as defined in subsection 149(5) of the ETA and if it is neither a trust nor investment plan, then the exclusion set out in paragraph (q) of the definition of a "financial service" is not applicable with the end result that the subject withdrawal fee is an exempt financial service.
+
+[5] The Respondent's position in brief is that: the Plan is a trust either at common law or as that term or arrangement is used in or referred to in the ETA, and thereby is expressly excluded from being a "financial service"; the Plan is an "investment plan" and thereby expressly excluded from being a "financial service"; and, in any event the subject withdrawal service is not an exempt "financial service" under the ETA.
+
+[6] It would be helpful at the outset to set out the relevant statutory provisions.
+
+Under the ETA:
+
+123(1) "financial service" means
+
+
+
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+
+
+
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+
+
+
+(c) the lending or borrowing of a financial instrument,
+
+
+
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+
+
+
+(e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument,
+
+
+
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+
+
+
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy,
+
+
+
+(g) the making of any advance, the granting of any credit or the lending of money,
+
+
+
+(h) the underwriting of a financial instrument,
+
+
+
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+
+
+
+(j) the service of investigating and recommending the compensation in satisfaction of a claim where
+
+
+
+(i) the claim is made under a marine insurance policy, or
+
+
+
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+
+
+
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+
+
+
+(B) the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+
+
+
+(j.l) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss,
+
+
+
+(k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service,
+
+
+
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+
+
+
+(m) a prescribed service,
+
+
+
+but does not include
+
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+
+
+
+(o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service,
+
+
+
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+
+
+
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+
+
+
+(i) a management or administrative service, or
+
+(ii) any other service (other than a prescribed service),
+
+
+
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+
+
+
+(r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice,
+
+
+
+(r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation,
+
+
+
+(s) any service the supply of which is deemed under this Part to be a taxable supply, or
+
+
+
+(t) a prescribed service;
+
+
+
+149(5) In this section, "investment plan" means
+
+
+
+(a) a trust governed by
+
+
+
+(i) a registered pension plan,
+
+(ii) an employee's profit sharing plan,
+
+(iii) a registered supplementary unemployment benefit plan,
+
+(iv) a registered retirement savings plan,
+
+(v) a deferred profit sharing plan,
+
+(vi) a registered education savings plan,
+
+(vii) a registered retirement income fund,
+
+(viii) an employee benefit plan,
+
+(ix) an employee trust,
+
+(x) a mutual fund trust,
+
+(xi) a pooled fund trust,
+
+(xii) a unit trust, or
+
+(xiii) a retirement compensation arrangement,
+
+
+
+as each of those terms is defined for the purposes of the Income Tax Act or the Income Tax Regulations;
+
+
+
+(b) an investment corporation, as that term is defined for the purposes of that Act;
+
+
+
+(c) a mortgage investment corporation, as that term is defined for the purposes of that Act;
+
+
+
+(d) a mutual fund corporation, as that term is defined for the purposes of that Act;
+
+
+
+(e) a non-resident owned investment corporation, as that term is defined for the purposes of that Act; and
+
+
+
+(f) a corporation exempt from tax under that Act by reason of paragraph 149(1)(o.1) or (o.2) of that Act.
+
+Under the Income Tax Act (the"ITA"):
+
+104(1) In this Act, a reference to a trust or estate (in this subdivision referred to as a "trust") shall, unless the context otherwise requires, be read to include a reference to the Trustee, executor, administrator, liquidator of the succession, heir or other legal representative having ownership or control of the trust property, but, except for the purposes of this subsection, subsection (1.1) and paragraph (k) of the definition of "disposition" in subsection 248(1), a trust is deemed to not include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust's property unless the trust is described in any of paragraph (a) to (e.1) of the definition trust" in subsection 108(1).
+
+
+
+...
+
+
+
+108(1) "trust" includes an inter vivos trust and a testamentary trust but in subsections 104(4), (5), (5.2), (12), (13.1), (13.2) (14) and (15) and sections 105 to 107 does not include
+
+
+
+(a) an amateur athlete trust, an employee trust, a trust described in paragraph 149(1)(o.4) or a trust governed by a deferred profit sharing plan, an employee benefit plan, an employees profit sharing plan, a foreign retirement arrangement, a registered education savings plan, a registered pension plan, a registered retirement income fund, a registered retirement savings plan or a registered supplementary unemployment benefit plan,
+
+
+
+FACTS
+
+[7] The following facts are not in dispute:
+
+(a) the Plan was established (a self-directed RRSP) in February of 1995 and the Minister accepted it for registration for the purposes of the ITA;
+
+(b) the Bank of Nova Scotia Trust Company ("the Trustee") is the administrator and Trustee of the Plan;
+
+(c) on February 18, 2000 the Trustee levied a withdrawal fee in the amount of $25.00 on the account maintained for the Plan and collected GST in the amount of $1.75 in respect of such fee. On June 29, 2000 the Bank levied a further withdrawal fee in the amount of $25.00 on the account maintained for the Plan and again collected GST in the amount of $1.75 in respect of such further fee.
+
+[8] A document entitled "Declaration of Trust Scotia Group Retirement Savings Plan" (the "Deed") was tendered as an exhibit and attested to by the Appellant as setting out terms identical or substantially similar to the Declaration of Trust contained with an application executed by the Appellant when her self-directed RRSP was established.[1]
+
+[9] The provisions of the Deed that were referred to at the hearing or that might have relevance to the issue in this case are as follows:
+
+1. THE TRUSTEE
+
+
+
+The Bank of Nova Scotia Trust Company (the "Trustee") by this Declaration of Trust as it may be amended from time to time declares itself to be the Trustee of the Scotia Group Retirement Savings Plan (the "Plan") for the registered owner (the "Annuitant") upon acceptance of a completed Scotia Group Retirement Savings Plan Application (the "Application") from the Annuitant.
+
+
+
+2. REGISTRATION
+
+
+
+The Trustee will apply for registration of the Plan with the relevant taxation authorities pursuant to the Income Tax Act (Canada) and any applicable income tax legislation in the province indicated in the Annuitant's address in the Application (herein collectively called the "Applicable Tax Legislation").
+
+
+
+3. CONTRIBUTIONS AND INVESTMENTS
+
+
+
+Contributions made by the Annuitant or the Annuitant's spouse to the Plan in such minimum or maximum amounts permitted by Applicable Tax Legislation and by the Trustee, and the income earned thereon, will be held in trust by the Trustee for the purpose of providing a retirement income to the Annuitant or to be dealt with in accordance with section 11. ...
+
+
+
+The Trustee will, on the written or oral directions of the Annuitant, invest the property of the Plan, provided that the Trustee may in its sole discretion decline to make any particular investment for any reason including, without limitation, if the proposed investment and related documentation do not comply with the Trustee's administrative requirements, which may be modified from time to time. ... The Trustee may require the Annuitant to provide such documentation in respect of any investment or proposed investment as the Trustee in its sole discretion deems necessary in the circumstances. ... Until the Plan is terminated as provided herein, the Trustee's sole obligation relating to investments of the Plan will be confined to:
+
+
+
+(i) executing the directions of the Annuitant with respect to the investment and reinvestment of monies contributed by the Annuitant or the Annuitant's spouse and of the proceeds of any sales of such investments or reinvestments and any income earned thereon; and
+
+
+
+(ii) maintaining legal ownership and possession of the investments which from time to time form part of the property of the Plan or maintaining such investments in bearer form or in the name of a nominee or in such other name as the Trustee may determine.
+
+. . .
+
+
+
+Without restricting the generality of the foregoing, it will be the sole responsibility of the Annuitant to choose the investments of the Plan, to determine whether any such investment is or remains a qualified investment or constitutes foreign property within the meaning of Applicable Tax Legislation and to determine whether any investment should be purchased, sold or retained by the Trustee as part of the Plan. Neither the Trustee nor the Employer/Association will be liable to the Annuitant if:
+
+
+
+(i) such investments result in additional taxes or penalties imposed by Applicable Tax Legislation, or
+
+
+
+(ii) such investments produce losses of any nature whatsoever for the Plan,
+
+
+
+whether or not the Trustee or Employer/Association has communicated to the Annuitant any information the Trustee or Employer/Association may have received, or any judgment the Trustee or Employer/Association may have formed, with respect to the foregoing at any particular time.
+
+. . .
+
+
+
+4. WITHDRAWALS
+
+
+
+The Annuitant may, by written direction at any time before the purchase of a retirement income pursuant to section 6, request the Trustee to distribute to the Annuitant, subject to any required withholding in respect of taxes or other charges, all or part of the property of the Plan. In no event will any such payment exceed the value of the Plan immediately before the time of payment.
+
+. . .
+
+
+
+9. STATEMENTS AND RECEIPTS
+
+
+
+The Trustee will maintain an account for the Annuitant and will forward to the Annuitant at least quarterly statements of the Plan showing the contributions to the Plan made by the Annuitant or the Annuitant's spouse, the income credited to the Plan, the debits for the purchase of investments, a description of the investments and credits for the sale of those investments. By March 31st in each year, or by such other date as may be permitted by Applicable Tax Legislation, the Trustee will forward to the Annuitant a receipt for income tax purposes of the contributions to the Plan by the Annuitant or the Annuitant's spouse in respect of the immediately preceding taxation year. It is the Annuitant's sole responsibility to ensure that the deductions in respect of contributions claimed by the Annuitant or the Annuitant's spouse, respectively, on his or her income tax return do not exceed the permitted deduction under Applicable Tax Legislation.
+
+. . .
+
+
+
+11. TRANSFER TO A REGISTERED RETIREMENT SAVINGS
+
+PLAN OR REGISTERED RETIREMENT INCOME FUND
+
+
+
+Subject to reasonable notice in writing to the Trustee or to the Agent on the Trustee's behalf from the Annuitant at any time before the provision of a retirement income pursuant to section 6, the Trustee will amend the Plan to be in accordance with Applicable Tax Legislation to permit the transfer of the property of the Plan, subject to the deduction of any fee to which it may be entitled and taxes which may be required to be withheld, to an issuer of another registered retirement savings plan or plans or to a registered pension fund or plan or to a carrier of a registered retirement income fund or funds as is designated in such notice. Upon such transfer, the Trustee will have no liability to the Annuitant hereunder with respect to the property of the Plan so transferred or with respect to the property of the Plan so transferred or with respect to any other obligations relating thereto.
+
+. . .
+
+
+
+13. TRUSTEE'S FEES AND DISBURSEMENTS
+
+
+
+The Trustee will be entitled to compensation for its services and reimbursement of disbursements hereunder in accordance with the fee schedule provided to the Annuitant or Employer/Association, as it may from time to time be amended. Notice of amendments to such schedule will be given to the Annuitant or Employer/Association, as it may from time to time be amended. Notice of amendments to such schedule will be given to the Annuitant or Employer/Association, as applicable and will take effect no earlier than 60 days from the date of such notice. All fees and reimbursement of disbursements provided for hereunder may be charged against and deducted from the assets of the Plan at such time or times during each year as the Trustee may, in its absolute discretion, determine.
+
+
+
+14. TRUSTEE'S POWER TO LIQUIDATE PROPERTY
+
+
+
+The Trustee may retain in cash such portion of the property of the Plan as it in its sole discretion determines is advisable for the administration of the Plan. Without limiting the generality of the foregoing, the Trustee may liquidate investments of the Plan to provide for payment of taxes required to be withheld, payment of its fees and reimbursement of disbursements and payment of other reasonable charges, or may debit any account of the Annuitant with the Agent for such purposes notwithstanding that such account may thereby become overdrawn. If the Annuitant fails to direct the Trustee as to which investments of the Plan to liquidate, the Trustee may sell such investments of the Plan as it in its sole discretion determines is appropriate. If the Trustee is required to exercise such discretion, it may make an additional charge against the Plan.
+
+. . .
+
+
+
+19. NO ADVANTAGE
+
+
+
+No advantage that is conditional in any way on the existence of the Plan may be extended to the Annuitant or any person with whom the Annuitant was not dealing at arm's length, unless the advantages are permitted under Applicable Tax Legislation.
+
+. . .
+
+APPELLANT'S POSITION
+
+[10] The Appellant puts particular emphasis on the portion of paragraph 3 of the Deed that prescribes the Trustee's sole obligation relating to investments of the Plan as confined to executing the directions of the annuitant and maintaining legal ownership and possession of the property and the Plan. The Appellant might also rely on paragraph 4 of the Deed which permits withdrawals from the Plan at the discretion of the annuitant although that paragraph does not expressly provide that the Trustee is required to comply with that direction.
+
+[11] The Appellant also placed emphasis on paragraph 14 of the Deed which permitted the Trustee to collect fees from accounts of the Appellant outside of the Plan indicating the services were performed for her account, as principal, and not for the account of the Plan. If the services were for her account, then the exclusion in paragraph (q) of the definition of a "financial service" cannot apply.
+
+[12] The Appellant had the following fairly extensive list of authorities to help support her position that the trust in question was a bare trust and that such trusts were mere agency relationships that could not be regarded as trusts for the purposes of the ETA:
+
+Trident Holdings Ltd. v. Danard Investments Ltd. et al. Court of Appeal, Howland C.J.O., Morden and Tarnopolsky JJ.A. April 8, 1988.
+
+
+
+Agents/Near Agents (GST and PST Issues), Symposium Paper presented at 1996 commodity Tax Symposium in Ottawa, prepared by Dalton Albrecht of McMillan Binch.
+
+
+
+Characterizing Relationships - Joint Venture, Partnership, Agency and trust, Symposium Paper presented at 2000 Commodity Tax Symposium in Ottawa, prepared by Donald N. Cherniawsky and Blair Nixon of Felesky Flynn.
+
+
+
+Ontario Tax Bulletin LTT - 9 - 2000 - Conveyances Involving Trusts Land Transfer Tax Act.
+
+
+
+Interpretation Revenu Quebec TVQ, 16-23 - Bare Trusts.
+
+
+
+GST/HST Technical Information Bulletin B-068 - Bare Trusts.
+
+
+
+GST/HST Policy Number P-015 - Treatment of Bare Trusts Under The Excise Tax Act.
+
+
+
+Goods and Services Tax Registration Form - GST 5E (90/04) & GST 1 (92/02).
+
+
+
+GST/HST Policy Number P-171R - Distinguishing Between A Joint Venture And A Partnership For The Purposes of Section 273 Joint Venture Election.
+
+
+
+DeMond v. Her Majesty the Queen, C.T.C. 2007, 99 DTC 893.
+
+
+
+The Character of the Bare Trust in Canadian Tax Legislation - W.D. Goodman in D.W. Waters, Equity, Fiduciaries and Trusts (Toronto, Carswell) 1993.
+
+
+
+Gestion Alain St-Pierre Inc. v. Her Majesty the Queen - T.C.C. Docket 2000-498 (GST) 1.
+
+
+
+[13] The gist of these authorities is that where a trustee is conferred no power or discretion and is effectively required to do the bidding of the beneficiary, the predominant nature of the relationship is one of agency. The acts of the trustee are not acts of the trust but are acts of an agent acting for the beneficiary as principal. There is a trust only in the sense that legal ownership of the trust property is with the trust but that ownership is under the control and direction of the beneficiary who can cause it to be turned over at his or her discretion. The trustee has no active role except as agent. That the trustee has purely administrative duties would not be sufficient to warrant a finding that the trustee has an active role in the management of the assets of the trust. Based on these principles, focusing on the provisions of the Deed on which the Appellant puts emphasis does suggest that the fundamental nature of the subject arrangement, the Plan, is a bare trust and that the subject fees were for services performed for the account of the Appellant personally. That is, based on these principles, the Appellant asserts, at law, no services were provided to a "trust" or to an "investment plan".
+
+[14] The Appellant asserts then that paragraph (q) of the definition of a "financial service" in excluding services to "trusts" does not exclude services to a trust arrangement the predominant nature of which establishes an agency relationship. Further, she asserts that in excluding services to "investment plans", paragraph (q) does not exclude services to bare trusts that are governed by a registered plan since by definition an "investment plan" must be a "trust" and a bare trust is not a trust for the purposes of that definition.
+
+RESPONDENT'S POSITION
+
+[15] The Respondent asserts that the Trustee has significant powers and responsibilities and can take action without direction from the annuitant. The Trustee's function is more than to simply hold legal title to property for conveyance to the beneficiary at the beneficiary's demand. Accordingly, the Respondent asserts that the trust is not a bare trust in that the Trustee provides services to the Plan for the account of the Plan and not as a mere agent for the account of the annuitant. Accordingly, the appeal should fail on the basis that the Plan was both a trust and a financial plan and as such paragraph (q) of the definition of "financial service" in subsection 123(1) applies to exclude the subject service from being a financial service exempt from GST.
+
+[16] The Respondent puts emphasis on that part of paragraph 3 of the Deed that provides that the Trustee may, in its sole discretion, decline to make any investment it is directed to make for any reason including administrative requirements which can be modified (unilaterally it seems) at any time. The Trustee can also require documentation acceptable to it before making an investment. Paragraph 9 of the Deed sets out active duties that the Respondent asserts go beyond the normal duties of an agent. Paragraph 13 gives the Trustee absolute discretion in respect of the payment of fees and paragraph 14 gives sole discretion to the trustee to retain cash for administrative requirements and such discretion includes discretion to the Trustee to liquidate investments of the Plan.
+
+[17] I also point out that the first duty of the Trustee pursuant to paragraph 2 of the Deed was to register the Plan. That was an active role and, while responsibility for determining whether an investment is a qualified investment or whether it constitutes foreign property, falls on the annuitant under paragraph 3, paragraph 19 suggests that, in compliance with the provisions of the ITA, there is a category of direction that would not be followed by the Trustee if it effected an advantage to a non-arm's length person. Presumably the Trustee is free to make this determination.
+
+[18] The Respondent asserts that subsection 149(5) of the ETA includes the Plan as an investment plan if the Plan is a trust under the ITA. That the Plan is a trust under the ITA has not been put in issue by the Appellant.
+
+[19] The Respondent also argues that paragraph (q) of the definition of "financial service" in subsection 123(1)of the ETA lists both services to trusts and services to investment plans. By excluding both an "investment plan" and a "trust" the Respondent argues that it is clear that Parliament distinguished between the two on the premise that an investment plan need not be an active trust but rather it need only to be a "trust governed by a registered retirement savings plan" which includes a bare trust governed by an RRSP.
+
+[20] The Respondent also argues that the Trustee is engaged in a commercial activity when it performs its accounting and ongoing duties and is thereby rendering a taxable supply that is not exempt from GST as determined in C.I. Mutual Funds Inc. v. Canada.[2] The Respondent asserts that the fee in the case at bar was not simply for the transfer of money from one account to another but was a payment for the service by the Trustee of selling some assets of the Plan, withholding taxes and sending the proceeds to the annuitant. That is, even if the services by the Trustee were services to the Appellant, they were not services that were exempt services.
+
+ANALYSIS
+
+[21] The ETA does not define "trust", however subsection 149(5) of the ETA does define "investment plan" to include a trust that is governed by a registered retirement savings plan. There is no dispute that the subject self-directed plan is a registered retirement savings plan. The Appellant argues that although it is a registered retirement savings plan it is not a registered retirement savings plan that is referred to in subsection 149(5) since only registered retirement savings plans that are "trusts" are plans referred to in that subsection. The Appellant argues that even if a registered retirement savings plan is a trust for the purposes of the ITA, it is not thereby a trust for the purposes of the ETA. The Appellant argues that the qualification "for the purposes of the Income Tax Act" used in subsection 149(5) of the ETA attaches to the definitions of the plans themselves but not to the definition of "trust" as used at the outset of subsection 149(5).[3]
+
+[22] I cannot agree with the Appellant on this issue. Regardless that the Plan may be a bare trust and thereby may, arguably, not be a trust as that term is used in paragraph (q), it is an "investment plan" as defined in subsection 149(5) of the ETA. An "investment plan" is "a trust governed by ... a registered retirement savings plan ... as each of those terms is defined for the purposes of the Income Tax Act or the Income Tax Regulations". The Appellant's position that this must be taken on its face to mean "real (active) trusts (as defined at common law) governed by a registered plan that is a registered plan as defined for the purposes of the ITA", is not tenable. As a matter of statutory construction, I concur with the Respondent. Registered plans that are real (active) trusts are included in paragraph (q) by reference to services to "trusts". That investment plans are separately listed in that paragraph must be taken to mean that investment plans include arrangements that are bare trusts provided they are governed by an RRSP (or other plan referred to in subsection 149(5)). Otherwise mentioning both investment plans and trusts would be redundant.
+
+[23] In my view a proper reading of subsection 149(5) of the ETA is that it defines "investment plan" to include an arrangement that is for the purposes of the ITA a trust governed by a registered retirement savings plan. Whether the arrangement is a trust so governed must be determined in accordance with the terms of the ITA. Under that Act the term "trust" includes a trust, even a bare trust, registered as an RRSP pursuant to that Act. Subsection 104(1) of the ITA provides that a trust includes a trustee having ownership or control of trust property but excludes agency type trusts unless the trust is described in any of paragraphs (a) to (e.1) of the definition of "trust" in subsection 108(1) of the ITA. Paragraph 108(1)(a) of the ITA expressly includes RRSPs.[4]
+
+[24] Accordingly, the subject Plan is an "investment plan", as defined in subsection 123(1) of the ETA, to which management and administration services have been provided. Such services are excluded from the definition of a "financial service" by paragraph (q) of that definition and are a commercial activity subject to tax under the ETA. The subject service falls within the scope of the Trustee's administrative services and the appeal fails for that reason.
+
+[25] Lest the Appellant believes this should not be the end of the matter, I will direct some brief comments to two other issues raised in this appeal.
+
+[26] Firstly, there is the question as to whether the subject service in this case was a financial service at all. That is, even if the subject service was not excluded by paragraph (q) of the definition of "financial service" that does not make it a financial service. The Appellant took the position that if the service was not excluded under paragraph (q) then she did not have to identify the subject service as one of the services included in paragraphs (a) to (m) of the definition of "financial services" in subsection 123(1) of the ETA.
+
+[27] The definition of "financial service" does not support this position. The Appellant had an onus of proof to establish that the subject service was one included in the exhaustive list of services expressly set out in paragraphs (a) to (m) to be financial services. The subject service had to fall within the included list before it could be excluded by paragraph (q). Of that there seems to be no doubt. That the Trustee of the Plan imposes an administrative fee for a withdrawal is not in and by itself sufficient to create a necessary inference that the fee is for a financial service such as, for example, one or more of the services set out in either of paragraphs (a) or (l). If the service is one included in any such paragraph it might be excluded by paragraph (q), otherwise, if not so included, recourse to paragraph (q) to exclude it is not necessary; the service is not a financial service regardless of the application of that exclusionary paragraph.
+
+[28] That the Appellant would not or could not address this point could, in itself, result in the failure of the Appellant to succeed in this appeal. I do not take the Respondent's admission that the Trustee performed management, administrative and other services to the Plan as an admission that the subject withdrawal fee was for an administrative service included in the list of services defined to be financial services. No evidence was brought as to what the service fee was actually for. The Respondent argued that the fee, although a "withdrawal" fee, included a fee for liquidating an investment in the Plan, withholding taxes, accounting for GST as well as transferring funds from one account to another (the latter likely falling within paragraph (a) of the definition "financial service"). The Appellant did not rebut this position. She did not argue or urge a finding that the fee was simply for transferring funds or debiting an account. While such finding seems possible (even likely) on the face of it, the Appellant had a burden here which she simply chose to ignore.
+
+[29] Secondly and lastly, there is the question of whether the Plan is a bare trust and thereby not a trust. Given that I regard any comments on this question of "when is a trust not a trust?" as obiter dicta, I will deal with it summarily.
+
+[30] I have already listed the Appellant's authorities on the question and the difficulties of the question are considered at length in those authorities. They include the Minister's own views on the question which admit to a practise in the administration of the ETA that would treat a bare trust as a mere agent and not as a trust[5]. Having considered these authorities, I acknowledge that but for the reference to "investment plan" in paragraph (q) of the definition of "financial service" and the manner in which subsection 149(5) defines "investment plan", there would be a reasonable argument in this case that the subject service might properly be regarded as a service provided to the Appellant - not as a service to a trust. Still, even limiting the veto power the Trustee has on investments in the Plan to investments in respect of which it has not received requested/required documentation or information or about which it may have concerns as to benefiting a non arm's length party (a limitation one might read in to reconcile contradictory provisions in the Deed), such discretionary powers go beyond a mere agency. The power to liquidate and hold as much cash as the Trustee feels necessary also goes beyond mere agency. The exercise of these discretionary powers would be subject to a trustee's equitable obligation to account but this is not the same as an agent's accountability which is based in contract not equity.
+
+[31] The Trustee under the terms of the Deed is not there to simply obey the instructions of the annuitant. The Trustee has a fiduciary roll with some autonomy as Trustee. While the Trustee is to follow asset management directions, the Appellant has no assurance of total control over the assets in the Plan. These "trust" aspects of the Deed override the agency aspects in considering, for GST purposes, whether the Plan was a trust. Other considerations such as the Trustee having the right to go beyond trust assets to cover its fees and expenses are not compelling.[6]
+
+[32] Important as well is the Trustee's obligation under paragraph 2 of the Deed to have the Plan registered. While that is not an ongoing duty (and while pursuant to paragraph 19 of the Deed, Plan amendments to accommodate certain transfers are at the behest of the Appellant), it was a critical aspect of the relationship of the parties that required an active trustee at the outset and, as evidenced in paragraph 25 of the Deed, an active trustee with sufficient independence from the annuitant to ensure compliance with the ITA was required throughout the life of the Plan.[7] The Appellant needed that active relationship, bargained for it and cannot denounce it. She could accept nothing less than a "trust governed by an RRSP" and to read the Deed as giving her less in the hope of stirring, to her advantage, the muddy water around this whole question of bare trusts cannot prevail.
+
+[33] The appeal is dismissed with costs to the Respondent.
+
+Signed at Ottawa, Canada, this 5th day of June 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-1013(GST)G
+
+STYLE OF CAUSE: R. Maxine Collins and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: February 21, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge J.E. Hershfield
+
+DATE OF JUDGMENT: June 5, 2002
+
+APPEARANCES:
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Patricia Babcock, Jasmine Sidhu
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-1013(GST)G
+
+BETWEEN:
+
+R. MAXINE COLLINS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on February 21, 2002 at Vancouver British Columbia, by
+
+The Honourable Judge J.E. Hershfield
+
+Appearances
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Patricia A. Babcock
+
+Jasmine Sidhu
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act, for the period February 1, 2000 to June 30, 2000, notice of which is dated November 3, 2000 and bears number 002-920-976-123-700-01, is dismissed, with costs to the Respondent, for the reasons set out in the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 5th day of June 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+[1] The actual application and declaration of trust contained with such application was not put in evidence. Rather, a blank application was produced which, on the reverse side, set out a declaration of trust. However, that declaration was not exactly the same as a separate exhibit purporting to be the declaration of trust attached to the Appellant's own application. The latter deed related to a group plan. Still, without seeming to realize there was a difference, the Appellant swore in respect of each exhibit separately that that exhibit set out the deed of trust that was the deed of trust that was attached to her application. While the differences between the two deeds relate solely to Employer references in the group plan and are not worth setting out, it is somewhat unsettling that the Appellant seeks a judgment on the exact legal relationship that a deed of trust creates and is unable to identify the exact terms of the particular deed of trust that defines that relationship. However, the Respondent did not take issue with the Appellant's inability to produce the deed of trust governing her Plan. The hearing proceeded on the basis that the terms of the group plan introduced as exhibit A-5 would be taken to be the terms of the Appellant's Plan.
+
+[2] [1999] G.S.T.C. 12 (F.C.A.).
+
+[3] The Appellant had to agree that her Plan was a trust for the purposes of the ITA since if it was not, then she would not enjoy the benefit of having her Plan not being subject to income tax. Subsection 146(4) provides that no tax is payable by a trust governed by a RRSP. That is, the provision of the ITA liberating her registered plan from tax liability on income earned is based on her Plan being a trust. However, while the Appellant insisted that her RRSP was a trust for the purposes of the ITA, it was not a trust for the purposes of the ETA.
+
+[4] The inclusion in paragraph 108(1)(a) of RRSPs is actually to exclude such trusts as being treated as trusts under certain provisions of the ITA as set out in the preamble to the definition of "trust". That certain trusts are treated differently or are subjected to different taxing provisions does not suggest that some trusts such as bare trusts are not trusts under the ITA. To the contrary, the suggestion seems to be that different trusts denote different relationships and in certain situations the type of trust needs to be determined in order to apply an appropriate tax consequence in respect of an event involving that trust. The authorities relied on by the Appellant to support her position that all bare trusts are not trusts, do not all say that bare trusts are not trusts. For the most part they suggest that trusts can evidence differing relationships that must be governed, in the context of a particular issue, by legal principles that best apply to the particular relationship dictated by the terms of a given trust. The principle that beneficiaries are not liable for the acts of trustees will, for example, not likely prevail in the case of a bare trust because agency principles better apply to that relationship in respect of that issue but that will not always suggest that the trustee may not still be in a trust position in other contexts, particularly when the context is a taxation statute.
+
+[5] GST/HST Policy Statements Policy Number P-015 issued July 1992. This statement however only recognizes such bare trust treatment where the trustee has the sole duty to convey title to trust property on the demand and at the direction of beneficiaries and does not have any independent power, discretion or responsibility pertaining to the trust property. This most narrow definition of a bare trust does not fit the case at bar. In the case at bar, the Trustee not only has substantive administrative duties but has, in some material areas, power and discretion over trust property. I note that this narrow definition of a bare trust likely reflects its purest meaning and certainly conforms to the old English concept of a bare trustee. In Christie v Ovington (1875), 1 Ch. D. 279 at 261, Hall V. C. embraces a meaning ascribed to the term "bare trustee" which is "a trustee to whose office no duties were originally attached, or who, although such duties were originally attached to his office, would on the requisition of the cestuis que trust, be compellable in equity to convey the estate to them, or by their direction ...". More recent authorities allude to bare trustees having passive duties or non-management duties of an accounting or protective nature and to determining the predominant nature of a "trust" arrangement where it has characteristics of a principal/agent relationship. Still, the cases cited by the Appellant as supporting a broader meaning to bare trusts (Trident and DeMond - see paragraph 12 of these Reasons) do not suggest, on their facts, that the bare trusts being considered were other than bare trusts in the narrow sense. The Trustees in both those cases had no powers or discretion over the trust property.
+
+[6] This right under paragraph 14 of the Deed is limited to accounts maintained for the Appellant by the Trustee's agent Scotia McLeod Inc. This is not a general right to go after the annuitant. To the contrary it seems that the scope of the right is in the control of the Appellant who does not appear to be under any obligation to keep other accounts with Scotia McLeod Inc.
+
+[7] In the unreported case of Ozad Estate v M.N.R. (July 21,1989) Judge Bonner of this Court held that a testamentary trust did not come to an end until the residue was fully distributed. This case was cited in one of the Appellant's authorities "The Character of the Bare trust in Canadian Tax Legislation" (see paragraph 12 of these Reasons). In Ozad it seems that the active duties of the trustees were complete and property was held simply for distribution to beneficiaries. Judge Bonner found, in effect, that the reduction of trustee duties to passive pre-distribution duties was not sufficient for tax purposes to constitute what might then be a bare trust as a non-trust. While that case might well be distinguished (in that the trustees still had discretion to make charitable donations so that beneficial interests were not finally determined), it reflects a principle with which I agree. Once an active trusteeship exists, such trusteeship is not for tax purposes so readily shed until the property of the trust is finally distributed. This will be particularly true where the trustee, while subject to direction from the beneficiary, has some aspect of discretion as to the application of trust property or has any control of or discretion in the management of the assets of the trust. In this type of case, at least, it is less a question of the predominant nature of the arrangement than it is a question of whether it is appropriate under the provisions of the law being examined to ignore the existence of the trust as such.
+

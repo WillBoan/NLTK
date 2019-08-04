@@ -1,0 +1,188 @@
+Date: 19990608
+
+Docket: 97-1208-IT-G
+
+BETWEEN:
+
+CSI DEVELOPMENT CORP.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur, J.T.C.C.
+
+[1] This appeal is from an assessment whereby the Minister of National Revenue assessed the Appellant tax of $1,225,473 and interest of $257,736 under Part III of the Income Tax Act on the basis that a dividend of $2,600,000 paid by the Appellant exceeded the amount of the Appellant's dividend account. The issue arises from somewhat unusual and complex circumstances and is whether the Appellant can claim a non-taxable capital dividend of $2,600,000. An agreed statement of facts supplemented the evidence of Jack Grushcow (Grushcow).
+
+General Background
+
+[2] Grushcow is an impressive entrepreneur who, with his wife Sandra, founded Consumers Software Inc.[1] in 1983. From 1983 to 1991, he worked tirelessly to build a dynamic company with approximately 50 engineers producing sophisticated electronic mail software. During this period, the Appellant borrowed a total of $850,000 from Ventures West Technologies International Limited (Ventures West).
+
+[3] In 1991, Bill Gates on behalf of Microsoft Corporation offered to purchase all of the assets of the Appellant and a newly formed limited partnership. Ventures West seized the occasion to paralyze the transaction, seeking an increased percentage of the sale proceeds. In July 1991, Bill Gates gave Grushcow two days to settle his problems with Ventures West and complete the transaction or the offer to purchase would be withdrawn. Grushcow described those two days as the most stressful of his life. He stated that Ventures West "ground another $3,000,000 out of me and I paid Ventures West $7,400,000" to satisfy the original $850,000 indebtedness.[2]
+
+[4] Microsoft retained about 40 of the Appellant's employees and continues to market the product developed by the Appellant. Grushcow presently has turned his considerable talents to the field of genetics.
+
+[5] The statement of agreed facts is as follows:
+
+1. The Appellant (formerly Consumers Software Inc.) is a "private corporation" as defined in subsection 89(1) of the Income Tax Act (the "Act").
+
+2. Prior to January 31, 1991, the Appellant carried on the business of designing, developing, marketing, manufacturing and distributing electronic mail software (the "Software").
+
+3. On February 1, 1991, the business affairs of the Appellant were reorganized and substantially all of its assets and undertaking were transferred to a newly-formed limited partnership, the Consumers Software Limited Partnership ("CSLP") which then commenced carrying on the business of designing, developing, marketing, manufacturing and distributing the Software to various users around the world.
+
+4. The Appellant was the general partner of CSLP. The other partners of CSLP were 400751 B.C. Ltd. ("400751"), a company related to the Appellant which acted as the initial limited partner of CSLP, and Ventures West Technologies International Limited Partnership ("Ventures West").
+
+5. Ventures West had been a shareholder in the Appellant prior to the February 1, 1991 reorganization. 400751 ultimately transferred its nominal interest in CSLP to 400281 B.C. Ltd. ("400281"), another company related to the Appellant.
+
+6. At all relevant times, the Appellant and Ventures West dealt at arm's length for purposes of the Act.
+
+7. The relationship between the partners of CSLP was governed by a partnership agreement dated for reference December 31, 1990 and effective January 31, 1991 (the "Partnership Agreement"). A true copy of the Partnership Agreement is set forth at Schedule "A" hereof. For present purposes, the pertinent provisions of the Partnership Agreement can be summarized as follows:
+
+(a) Pursuant to paragraph 7.4 of the Partnership Agreement, Ventures West was entitled to receive periodic cash distributions from CSLP in the amounts specified therein. The cash distributions periodically payable to Ventures West by CSLP were guaranteed by the Appellant. One of the amounts specified in the Partnership Agreement to which Ventures West was entitled was a cash distribution from CSLP equal to 1% of revenues earned by CSLP in excess of certain threshold limits.
+
+(b) Pursuant to paragraph 7.8(a) of the Partnership Agreement, the taxable income of CSLP, defined as its income for a fiscal year as determined by the general partner pursuant to the Act, was to be allocated among the partners as follows:
+
+(i) first to Ventures West in an amount equal to the lesser of CSLP's taxable income and the amount of cash distributions made to Ventures West under paragraph 7.4 of the Partnership Agreement;
+
+(ii) thereafter, 0.0l% of any remaining taxable income to 400751 and, subsequently, (400281); and
+
+(iii) thereafter, any remaining taxable income to the Appellant;
+
+(c) Pursuant to paragraph 7.8(b) of the Partnership Agreement, the net income of CSLP, defined as its net income for a fiscal year determined in accordance with generally accepted accounting principles of CSLP's auditors, was to be allocated among the partners as follows:
+
+(i) first to Ventures West in an amount equal to the lesser of CSLP's net income for the fiscal period and the taxable income for the period allocated to Ventures West;
+
+(ii) thereafter, 0.01% of any remaining net income to 400751 and, subsequently, (400281); and
+
+(iii) thereafter any remaining net income to the Appellant.
+
+(d) Pursuant to paragraph 7.9 of the Partnership Agreement, in the event CSLP sold all or substantially all of its assets (a "Sale of Substantial Assets") Ventures West was also entitled to receive an additional distribution from CSLP equal to one-third of the amount by which the net proceeds from the Sale of Substantial Assets exceeded $8,550,000 (referred to in the Partnership Agreement as the "Control Premium"). Paragraph 7.9 also provides that if a Sale of Substantial Assets occurred on or before June 30, 1991, the aggregate amount receivable by Ventures West pursuant to paragraphs 7.4 and 7.9 of the Partnership Agreement would not be less than $2,250,000.
+
+(e) Paragraph 7.9 of the Partnership Agreement specifically provided that any amounts payable to Ventures West under paragraph 7.9 upon a Sale of Substantial Assets were to be allocated to Ventures West as taxable income for the purpose of subsection 96(1.1) of the Act.
+
+8. On March 5, 1991 Microsoft Corporation ("Microsoft"), a Delaware corporation and one of the leading developers of software technology in the world, make an offer through its wholly-owned subsidiary, CSI Transfer Co., to acquire substantially all of the assets of CSLP, including the rights to the Software. The offer was accepted by the Appellant as general partner on behalf of CSLP and the transaction was closed on April 5, 1991.
+
+9. Pursuant to an amending agreement dated April 1, 1991 (the "Amending Agreement"), the Partnership Agreement was amended as follows:
+
+a) The definition of Control Premium in the Partnership Agreement was amended so that Ventures West was entitled to share in any proceeds from a Sale of Substantial Assets in excess of $2,750,000 (rather than proceeds in excess of $8,550,000 prior to this amendment);
+
+b) Paragraph 7.9 of the Partnership Agreement was amended so that Ventures West was entitled to receive 38% of any Control Premium (rather than one-third of any Control Premium prior to this amendment);
+
+c) Paragraph 7.9 of the Partnership Agreement was amended so that if a Sale of Substantial Assets occurred on or before June 30, 1991, the minimum amount receivable by Ventures West pursuant to paragraphs 7.4 and 7.9 of the Partnership Agreement would not be less than $7,400,000 (rather than $2,250,000 prior to this amendment).
+
+10. Upon the transfer of the Software to CSI Transfer Co., CSLP realized proceeds from the disposition of eligible capital property of $12,269,553. The proceeds realized by CSLP from the disposition of the Software exceeded CSLP's eligible capital expenditures in respect of the Software by $10,776,785 (the "Net Proceeds").
+
+11. For its fiscal period ended July 31, 1991, CSLP reported net income of $10,176,308 and taxable income of $8,441,302. In computing its taxable income for the purposes of section 96 of the Act for the fiscal period ending July 31, 1991, CSLP included the sum of $8,082,597, which amount equalled 75% of the Net Proceeds and represented the negative balance at that time of CSLP's "cumulative eligible capital account" calculated in accordance with section 14 of the Act.
+
+12. The taxable income of CSLP for its fiscal period ending July 31, 1991 was $8,441,302 of which $7,400,000 was allocated to Ventures West, such amount being equal to the cash distribution that Ventures West was entitled to under the Partnership Agreement, while $104 of taxable income was allocated to 400281. The balance of CSLP's taxable income of $1,041,198 was allocated to the Appellant.
+
+13. The full amount of distributions made to Ventures West and 400751/400281 by CSLP during CSLP's fiscal period ended July 31, 1991 were treated as taxable income to Ventures West and 400751/400281. No part of the non-taxable portion of the eligible capital property proceeds realized by CSLP on the disposition of the Software was allocated to Ventures West or 400751/400281. The full amount of the non-taxable portion of the eligible capital property proceeds received by CSLP on the disposition of the Software was allocated to the Appellant.
+
+14. Immediately prior to July 31, 1991, the amount of the Appellant's capital dividend account was $633,718.
+
+15. On July 31, 1991, the Appellant added the amount of $2,694,196 to its capital dividend account, being 25% of the Net Proceeds. As a result, the Appellant determined that the amount of its capital dividend account at July 31, 1991 was $3,327,914.
+
+16. There were no additions or deductions to the Appellant's capital dividend account between July 31, 1991 and June 1, 1992.
+
+17. On June 1, 1992, the Appellant paid a dividend totalling $2,600,000 (the "Dividend") to the holders of its common shares. Prior to the date on which the Dividend was paid, the Appellant completed and filed with the Minister of National Revenue (the "Minister") a form T2054 (Capital Dividend Election), together with supporting documentation, pursuant to which the Appellant elected under subsection 83(2) of the Act to treat the full amount of the Dividend as a capital dividend for purposes of the Act.
+
+18. By Notice of Assessment (#8756036) (the "Assessment") dated October 12, 1994, the Minister assessed the Appellant taxes of $1,225,473 and interest of $257,736 under Part III of the Act on the basis that the amount of the Dividend exceeded the amount of the Appellant's capital dividend account on June 1, 1992.
+
+19. The Assessment is premised on the Minister's assumption that the Appellant only entitled by Revenue Canada policy to add a portion of the non-taxable portion of the proceeds received by CSLP on the disposition of the Software to its capital dividend account, equal to $332,317. As a result, the Minister assumed that the amount of the Appellant's capital dividend account immediately prior to the payment of the Dividend was $966,035, not $3,327,914 as reported by the Appellant.
+
+20. By Notice of Objection dated January 4, 1995, the Appellant objected to the Assessment.
+
+21. By Notice of Confirmation dated January 17, 1997, the Minister confirmed the Assessment.
+
+22. No amount in respect of the non-taxable portion of the proceeds realized by CSLP on the disposition of the Software has ever been included in the capital dividend accounts of Ventures West, 400751 or 400281.
+
+23. At all material times, the Appellant, Ventures West and Microsoft dealt at arm's length, each with the others.
+
+24. None of the transactions undertaken by the Appellant which relate to this matter were undertaken for any "tax avoidance" purpose and should not be construed as such.
+
+25. Sections 103(1) and 103(1.l) of the Act are not applicable to this matter.
+
+[6] The diagram below illustrates the corporate connections:
+
+[Omitted]
+
+[7] Included in the partnership agreement were the following:
+
+(a) Ventures West would receive cash distributions equal to 61% of CSLP's earnings;
+
+(b) Ventures West would receive the difference between CLSP's taxable income and the 1% cash distribution;
+
+(c) The company 400751 or later 400281 would receive 0.01% of any remaining taxable income;
+
+(d) Any remaining taxable income was to be paid to the Appellant;
+
+(e) Upon the sale of CSLP, Ventures West would receive one-third of the amount by which the net proceeds exceeded $8,550,000 but not less than $2,250,000 if the sale occurred before June 30, 1991.
+
+[8] The net proceeds of the sale were $10,776,785. The taxable income of CSLP was $8,441,302. Pursuant to the agreement, Ventures West was entitled to $2,225,000. This agreement was amended prior to the closing of the sale to provide that Ventures West would receive $7,400,000. The net proceeds of the sale prior to paying Ventures West was $10,776,785. The Appellant was allocated the remaining taxable income of $1,041,198.[3]
+
+[9] The capital dividend is the surplus of a private corporation available for distribution to its shareholders without attracting tax. The Appellant's position is that the balance in the Appellant's capital dividend account in June 1992 was $3,327,914. The Respondent stated that it was $966,035.
+
+[10] The facts are not in dispute. It would appear that the Appellant's position falls into a void. I have struggled to accept the Appellant's argument, but I cannot. Both parties acknowledge that pursuant to section 96 of the Act that the Appellant, as a member of the CSLP partnership, can compute its income, non-capital loss or net capital loss, restricted farm loss and farm loss for a taxation year as if it was a separate person. The Respondent states that the partnership cannot allocate a capital dividend account because it does not have one. Only a private corporation has one and it is on this point alone that the Appellant's argument goes astray. Seventy-five percent of the partnership's income is taxable in the hands of the partners in their pro-rated shares and twenty-five percent flows tax-free. When it is a corporate partner, the non-taxable portion of the capital gain can be added to the capital dividend account. This amount can then flow tax-free to the shareholders of the corporate partner in the form of dividends.
+
+[11] The question of what the amount was in the Appellant's capital dividend account at the time it declared a dividend on June 30, 1992, hinges on an anomaly in paragraph 89(1)(b) of the Act. During the relevant period, it read in part:
+
+89(1) In this subdivision,
+
+...
+
+(b) "capital dividend account" of a corporation at any particular time means the amount, if any, by which the aggregate of
+
+(i) the amount, if any, by which
+
+(A) the aggregate of all amounts each of which is the amount if any, by which
+
+(I) the amount of a capital gain of the corporation realized in the period commencing on the first day of the first taxation year commencing after the time the corporation last became a private corporation and ending after 1971, and ending immediately before the particular time
+
+...
+
+The anomaly arises when a corporation attempts to pay out the 25% capital gain portion. Paragraph 89(1)(b) is silent as to the treatment of the non-taxable portion of the capital gain of a private corporation that is a member of a partnership and does not provide for the addition of this capital to the corporation's capital dividend account. The Minister of National Revenue recognizes this irregularity or omission in the Act and attempts to correct the void by stating the following in Interpretation Bulletin IT-138R at paragraph 19:
+
+For the purposes of paragraph 89(1)(b) it is considered that each of the items in subparagraphs 89(1)(b)(i), (ii), (iii) and (iv) is to be included in the corporate partner's capital dividend account to the extent of its share thereof.[4]
+
+Revenue Canada concludes in effect that a corporate taxpayer, such as the Appellant, who is a member of a partnership, can include its proportionate of the non-taxable capital gain to its capital dividend account.
+
+[12] While the Interpretation Bulletin does not have legislative authority, it is an important factor in interpreting the Act when there is a void. Courts often have recourse to such Bulletins when there is a doubt as to the meaning of legislation. The Bulletin IT-138R, paragraph 19, is a common sense conclusion. The Appellant should be in a position to pay out to its shareholders its proportionate share of the 25% capital gain tax-free.
+
+[13] The problem arises with the Appellant's position that the allocation of the capital gain is to be determined by the partners and their agreement. The Minister concluded that it was fair to grant the Appellant 12.33% of the $2,694,196 capital gain which amounted to $332,317. The Appellant claims that the entire $2,694,196 capital gain should be added to its capital dividend account, as convened by the partners in the agreement.
+
+[14] For reasons that are unclear, Ventures West appears to have treated the whole of its $7,400,000 on account of income.
+
+[15] I accept the submission of the Respondent that a partnership does not have a capital dividend account and cannot pass a capital dividend to its partners. Section 96 of the Act permits a partnership to allocate income to its members. A partnership does not pay any tax. It is a conduit to pass income to the partners as calculated at the partnership level. To alleviate an unfairness, the Minister accepts the interpretation of paragraph 89(1)(a) as set out in Bulletin IT-138R. Subsection 96(1) of the Act provides that a partnership shall be treated as a separate person for the purpose of computing its income. It does not treat it as such for any other purposes. Section 96 essentially requires a partner to compute its income or losses from the partnership at the partnership level and make an allocation as provided by the partnership agreement. Subsection 96(1) provides further that a partners' share of the income retains its source in the hands of the partner. It is not clear that Ventures West intended inside or outside of the partnership agreement to allocate the whole amount of the tax-free portion to the Appellant but that is of no consequence. Again, section 96 provides for the taxation of a partnership member and not the partnership itself. The Appellant corporation may be a member of a partnership.
+
+[16] If such an apportionment were permitted, Canadian taxpayers could be subsidizing the Appellant. A situation could arise where a corporation or person could have an abundance of capital losses and wished to set off these losses with capital gains. It could be advantageous to arrange for one corporation to be appropriated the entire amount of the non-taxable portion. Such arrangement may be artificial and contrary to the provisions of the Act.
+
+[17] In the present case, the partnership's net income was $10,176,308 calculated pursuant to section 96 taking into account all permitted deductions. This amount was then allocated to the partners pursuant to the partnership agreement. CSLP does not have a capital dividend account and cannot withhold the non-taxable portion of the proceeds. Section 96 provides that the partnership's calculated net income be allocated to each partner who will ultimately include it in income for tax purposes. The Appellant corporation received its portion of the taxable income equal to $1,041,198 of which 25% is non-taxable. The Minister, recognizing an unfairness in paragraph 89(1)(b) permitted the Appellant to add the non-taxable 25% of the capital gain it received to its capital dividend account. The Appellant is free to declare a tax-free dividend equal to the amount in the capital dividend account. Even if I were satisfied that the apportionment to the Appellant is part of the partnership agreement, the Minister is not bound to give effect to it.
+
+[18] A taxpayer cannot contract out of the Act to avoid a tax liability.[5] The Appellant was given the benefit of the Minister's policy as expressed in Bulletin IT-138R. The wording of paragraph 89(1)(b) is clear. "Capital dividend account of a corporation means the amount, if any, by which the aggregate of ... the amount of capital gain of the corporation realized ... ". The amount of capital gain realized by the Appellant is the portion of the taxable income allocated to the Appellant as well as its proportionate share of the 25% non-taxable portion.
+
+[19] In conclusion, the Respondent's position is correct. The Income Tax Act contains no provision which would allow the non-taxable portion of a capital gain realized in a partnership to flow out of the partnership and increase the capital dividend account of one partner irrespective of its share in the partnership.
+
+[20] The appeal is dismissed, with costs.
+
+Signed at Ottawa, Canada, this 8th day of June, 1999.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Consumers Software Inc. is the predecessor of the Appellant.
+
+[2] In addition to this payment, Venture West received prior funds pursuant to the limited partnership agreement – page 37, para. 7.4(1).
+
+[3] The Company, 400281, received $104 which is ignored.
+
+[4] Several authors have endorsed this interpretation. See Douglas S. Ewens, “Tax Issues Affecting Partnerships” in Report of Proceedings of the Forty-Ninth Conference (Toronto: Canadian Tax Foundation, 1998), p. 8:1 at 8:17; Jack Bernstein, “Partnerships in Private Corporate Planning” in Corporate Management Tax Conference 1994 (Toronto: Canadian Tax Foundation, 1994), p. 8:1 at 8:11; and Peter McQuillan and James Thomas, Understanding the Taxation of Partnerships, 3rd ed. (North York: CCH Canadian Limited, 1991) at 86.
+
+[5] Smerchanski v. M.N.R., 74 DTC 6197 at 6203 (F.C.A.).
+

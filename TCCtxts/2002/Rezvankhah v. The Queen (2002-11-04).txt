@@ -1,0 +1,124 @@
+Date: 20021104
+
+Docket: 2002-2104-IT-I
+
+BETWEEN:
+
+JALAL REZVANKHAH,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] At the conclusion of argument I informed Mr. Chalabiani, who appeared as agent on behalf of the appellant that I would be dismissing the appeal subject to a minor concession that the respondent was prepared to make but that since the issue was a somewhat technical one and the appellant was not at the time of trial in Canada I would give brief written reasons.
+
+[2] The issue is the correct method of calculation of capital gains or losses realized on the disposition of securities which were purchased and sold on margin using U.S. currency. The fact the purchases were on margin was stressed by Mr. Chalabiani as a basis for distinguishing Gaynor v. M.N.R., 87 DTC 279 (T.C.C.) aff'd 88 DTC 6394 (F.C.T.D.) aff'd 91 DTC 5288 (F.C.A.).
+
+[3] In 1998 the appellant disposed of a substantial number of corporate shares that had been purchased in 1996, 1997 and 1998. In calculating his capital gains or losses he determined what the gain or loss was in U.S. dollars and then translated that amount into Canadian dollars.
+
+[4] The Minister in computing the appellant's capital gain or loss went through a two step calculation. The adjusted cost base was determined by applying the average exchange rate in the year of acquisition to arrive at the Canadian dollar equivalent of the U.S. dollar cost in the year of acquisition, and the proceeds of disposition were computed by applying the average exchange rate in the year of disposition to arrive at the Canadian dollar equivalent of the U.S. dollar proceeds.
+
+[5] I believe this approach is the correct one. Transactions that take place in foreign currency that are relevant to the computation of capital gains or income must for Canadian income tax purposes be expressed in Canadian dollars. This means translating the foreign currency cost and the foreign currency proceeds into their Canadian dollar equivalent at the time of purchase and the time of sale. This view is confirmed by the Gaynor decision in the Federal Court of Appeal where the court stated at page 5289:
+
+The appellant's contention is that, in order to calculate the amount of her capital gains, the respondent should have first determined the profit in American currency that she had realized on the sale of her securities and, after that, should have converted the amount of that profit into Canadian currency at the rate of exchange prevailing at the time she had sold the securities.
+
+This contention was, in our view, correctly rejected by the Trial judge. Paragraph 40(1)(a) of the Income Tax Act makes it clear that the capital gain realized by the appellant in each case was the "amount" by which the proceeds of the disposition of her securities exceeded the adjusted cost base of those securities. When that provision speaks of the "amount" of the capital gain, it obviously refers to an amount expressed in Canadian currency. As that amount is the result of a comparison between two other amounts, namely, the amount representing the cost of the securities and the amount representing the value of the proceeds of disposition, it necessarily follows that both the cost of the securities and the value of the proceeds of disposition must be valued in Canadian currency which is the only monetary standard of value known to Canadian law. Once this is realized, it becomes clear that the cost of the securities to the appellant must be expressed in Canadian currency at the exchange rate prevailing at the time of their acquisition while the valuation of the proceeds of disposition of the same securities must be made in Canadian currency at the rate of exchange prevailing at the time of the disposition.
+
+That method of assessing the amount of capital gains may, as counsel for the appellant said, produce undesirable results in certain cases. It is nevertheless the only method that is in harmony with the provisions of the Act.
+
+[6] I am aware that a taxpayer may believe, as a matter of common sense, that if he or she buys something for $1,000 U.S. and subsequently sells it for $1,000 U.S. no gain or loss has been realized and that the fact that the Canadian dollar has fallen as against the U.S. dollar should not result in a gain for the purposes of Canadian income tax. Nonetheless that in my view is the effect of Gaynor. That conclusion is not in my view affected by the House of Lords judgment in Pattison (Inspector of Taxes) v. Marine Midland Ltd. [1984] 1 A.C. 362, referred to by Rip J. in Avis Immobilien G.M.B.H. v. Her Majesty The Queen, [1994] 1 C.T.C. 2204.
+
+[7] Three further observations should be made.
+
+[8] The first has to do with the average annual exchange rate. This rate is published by the CCRA and is used for all U.S. currency transactions in the particular year. It is a sensible administrative practice although the appropriate rate should technically be that which prevails at the moment the transaction occurs. If the use of that rate works out favourably for a taxpayer there is no reason why it cannot be used if the taxpayer insists. The use of the average annual exchange rate is simply an administrative convenience, not an inflexible rule.
+
+[9] The second point has to do with the fact that the appellant was buying on margin. The contention, if I understand it correctly, is that the portion of the proceeds representing the amount owing in the margin account simply went to the broker and were never converted to Canadian funds. With respect I think this confuses two separate concepts. An actual conversion of foreign currency to Canadian dollars may give rise to a gain or loss. It is questionable in my view whether subsection 39(2) of the Income Tax Act is necessary for this result to obtain. That is not however what we are talking about here. This case involves the requirement that transactions in foreign currency be translated into the Canadian dollar equivalent to determine the result for Canadian tax purposes. No actual conversion is necessary and the gain or loss is the same whether the shares are purchased on margin or entirely out of the taxpayer's own funds.
+
+[10] The third point is that counsel for the Crown stated that the respondent was prepared to concede that the appellant was entitled to the $200 exemption contemplated by subsection 39(2) of the Income Tax Act. I informed him that I had some doubt whether subsection 39(2) had any application. However I make no final determination on the point. Far be it from me to deprive a taxpayer of the benefit of a concession that the Crown is prepared to make.
+
+[11] The appeal will be allowed and the assessment referred back to the Minister of National Revenue solely for the purpose of allowing the appellant the $200 capital gains exemption provided by subsection 39(2) of the Income Tax Act.
+
+Signed at Ottawa, Canada, this 4th day of November 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.COURT FILE NO.: 2002-2104(IT)I
+
+STYLE OF CAUSE: Between Jalal Rezvankhah and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: October 24, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: November 4, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Najafgholi Chalabiani
+
+Counsel for the Respondent: Michael Taylor, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: --
+
+Firm: --
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2002-2104(IT)I
+
+BETWEEN:
+
+JALAL REZVANKHAH,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 24, 2002 at Vancouver, British Columbia, by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Agent for the Appellant: Najafgholi Chalabiani
+
+Counsel for the Respondent: Michael Taylor, Esq.
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1998 taxation year be allowed and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment solely for the purpose of allowing the appellant the $200 capital gains exemption provided by subsection 39(2) of the Income Tax Act.
+
+Signed at Ottawa, Canada, this 4th day of November 2002.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

@@ -1,0 +1,226 @@
+Date: 20020212
+
+Docket: 1999-4155-IT-I
+
+BETWEEN:
+
+TARAS CHEBERIAK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hershfield, J.T.C.C.
+
+[1] These appeals are from an assessment of tax in respect of the 1996 taxation year and from reassessments of tax in respect of the 1995 and 1997 taxation years which denied the Appellant's claim for pension tax credits pursuant to subsection 118(3) of the Income Tax Act (the "Act").
+
+[2] The Appellant puts at issue whether payments received out of his Locked-in Retirement Income Fund ("LRIF"), a registered retirement income fund ("RRIF") for the purposes of section 146.3 of the Act, are eligible for such credit even if received before attaining the age of 65 years. If attaining the age of 65 is a statutory requirement for claiming the pension tax credit, the Appellant seeks to invoke section 15 of the Canadian Charter of Rights and Freedoms[1] on the basis of age discrimination and his status as a non widower given that widows and widowers are permitted under the Act to claim such credit in respect of payments out of such registered plans, irrespective of age, where the payments are received as a consequence of the death of their spouse.
+
+FACTS
+
+[3] The Appellant is a retired Saskatchewan Government employee who was born on April 7, 1933. That is, he had not reached the age of 65 in any of the years under appeal. As a government employee, he had participated in a pension plan. Upon his retirement, the Appellant had the option to transfer his pension funds to either a life annuity, a life income fund or an LRIF. The Appellant chose to transfer his pension into an LRIF (registered as an RRIF) as he believed that life annuities offered very poor payment terms. During the 1995, 1996 and 1997 taxation years the Appellant received payments out of his LRIF totalling $4,640.00, $38,317.06 and $32,600.00 in each year, respectively. In filing his income tax returns for the years in question, the Appellant claimed a $1,000.00 pension tax credit pursuant to subsection 118(3) of the Act. The Respondent denied this credit.
+
+PENSION TAX CREDIT PROVISIONS
+
+[4] Subsection 118(3) of the Act allows an individual a pension tax credit with respect to certain pension income received in a taxation year. It reads as follows:
+
+(3) Pension credit — For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+
+A × B
+
+where
+
+A is the appropriate percentage for the year; and
+
+B is the lesser of $1,000 and
+
+(a) where the individual has attained the age of 65 years before the end of the year, the pension income received by the individual in the year, and
+
+(b) where the individual has not attained the age of 65 years before the end of the year, the qualified pension income received by the individual in the year.
+
+[5] The terms "pension income" and "qualified pension income" are defined in subsection 118(7) of the Act.
+
+(7) Definitions - Subject to subsection (8), for the purposes of subsection (3),
+
+"pension income" received by an individual in a taxation year means the total of
+
+(a) the total of all amounts each of which is an amount included in computing the individual's income for the year that is
+
+(i) a payment in respect of a life annuity out of or under a superannuation or pension plan,
+
+(ii) an annuity payment under a registered retirement savings plan, under an "amended plan" as referred to in subsection 146(12) or under an annuity in respect of which an amount is included in computing the individual's income by reason of paragraph 56(1)(d.2),
+
+(iii) a payment out of or under a registered retirement income fund or under an "amended fund" as referred to in subsection 146.3(11),
+
+(iv) an annuity payment under a deferred profit sharing plan or under a "revoked plan" as referred to in subsection 147(15),
+
+(v) a payment described in subparagraph 147(2)(k)(v), or
+
+(vi) the amount by which an annuity payment included in computing the individual's income for the year by reason of paragraph 56(1)(d) exceeds the capital element of that payment as determined or established under paragraph 60(a), and
+
+(b) the total of all amounts each of which is an amount included in computing the individual's income for the year by reason of section 12.2 of this Act or paragraph 56(1)(d.1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952;
+
+"qualified pension income" received by an individual in a taxation year means the total of all amounts each of which is an amount included in computing the individual's income for the year and described in
+
+(a) subparagraph (a)(i) of the definition "pension income" in this subsection, or
+
+(b) any of subparagraphs (a)(ii) to (vi) or paragraph (b) of the definition "pension income" in this subsection received by the individual as a consequence of the death of a spouse of the individual.
+
+[6] The term "pension plan" is not defined in the Act.
+
+ARGUMENT OF THE PARTIES
+
+[7] The Appellant submits that his LRIF is a pension pursuant to the Pension Benefits Act, 1992 (Saskatchewan), S.S. 1992, c. P-6.001, and that, therefore, he is in receipt of a payment under a pension plan and qualifies for the credit regardless of the fact that he had not attained the age of 65 in the years in question. There is no question that subsection 118(3) of the Act permits the pension tax credit even if the recipient of a payment has not attained 65 years of age before the end of the year of receipt provided the payment is "qualified pension income". The definition of "qualified pension income" expressly includes "a payment in respect of a life annuity out of or under a superannuation or pension plan". The Appellant maintains that his LRIF receipts are "qualified pension income" by virtue of this express inclusion. He maintains that his LRIF is a pension and that his receipts are an annuity that ought to be considered to be a life annuity for the purposes of these provisions of the Act.[2]
+
+[8] The Respondent submits that an LRIF is not a pension for the purposes of the subject provisions of the Act and, if it is, that payments (the subject payments) out of an (this) LRIF are not payments "in respect of a life annuity". If the Respondent is correct in either of these arguments, the appeal will fail as the Appellant will not have received qualified pension income in any of the subject years. It is also the Respondent's position that RRIFs and pension plans must be seen as mutually exclusive plans for the purposes of the subject provisions of the Act so that the Appellant's LRIF, being an RRIF, cannot be dealt with under the subject provisions as a pension plan.
+
+[9] Subsection 31(1) of the Pension Benefits Regulations, 1993; (Saskatchewan); Chapter P-6.001 Reg.1, Pension Benefits Act, 1992 reads as follows:
+
+31(1) In this section:
+
+(a) "contract" means a locked-in retirement income fund contract, except in clauses (b) and (d);
+
+(b) "life annuity contract" means a contract with an insurance business under which the insurance business guarantees the payment of a pension that is not commutable to the owner of a contract and that does not take into account the sex of the person and the co-annuitant, if any, in determining the amount of the pension;
+
+(c) "locked-in retirement account contract" means a locked-in retirement account defined in section 29; and
+
+(d) "locked-in retirement income fund contract" means a contract with respect to a locked-in retirement income fund that is registered as a retirement income fund pursuant to the Income Tax Act (Canada).
+
+(2) For purposes of the Act and these regulations, a contract is a pension.
+
+[10] According to the Respondent, the above definitions indicate that while an LRIF is a pension for the purposes of the Saskatchewan Benefits Act and its Regulations, it must be registered as an RRIF pursuant to the Act. Respondent's counsel argues that RRIF payments, being specifically dealt with in subparagraph (a)(iii) of the definition of pension income, must, as a matter of proper construction of the subject provisions, not be included as payments described in subparagraph (a)(i) of the definition of pension income. He submits the legislative history of the provisions supports this construction as well. He sets out his argument in paragraphs 16 -18 of his written submission as follows:
+
+16. Subsection 110.2 (now subsection 118(3)) of the Act was introduced in 1975 by Bill C-49. Bill C-49 was part of a larger budgetary plan which focused on protecting people's savings against the eroding effects of inflation. Of particular concern during this time was easing the burden caused by high inflation on senior citizens. The $1000.00 exemption was available to anyone in receipt of a private pension and to people over the age of 65 in receipt of an annuity from a Registered Retirement Savings Plan or a payment from a Deferred Profit Sharing Plan.[3] At the time Bill C-49 was introduced, legislation with respect to Registered Retirement Income Funds did not exist. However, in passing Bill C-49 Parliament drew distinction between private pensions and personally administered investment plans such as Registered Retirement Savings Plans and Deferred Profit Sharing Plans for people under 65.
+
+17. Bill C-49 was debated in the House of Commons during the 30th Parliament, 1st session on November 18th, 1974. It is clear from the Commons Debates that the object and intent of Bill C-49 was tax relief to those over 65. [4]
+
+18. Legislation with respect to RRIF's was introduced by Bill C-56 in 1978. The 1978 income tax amendments contained revisions to various sections of the Act to reflect the new RRIF concept. Paragraph 110.2(3)(b) (now 118(7)) of the Act, defining "qualified pension income", was expanded to include a reference to payments from a RRIF, so that the $1000.00 pension exemption would be available to an individual who has not reached age 65 provided he or she receives the RRIF payments as a result of the death of his or her spouse. Parliament specifically refrained from making the credit available to those under the age of 65 years except in very limited circumstances.
+
+[11] The Respondent's counsel also refers in his submissions to one case that dealt with the application of subsection 118(3) of the Act to RRIF payments received by an individual under the age of 65 years. Whalen v. Canada,[1995] 1 C.T.C. 2339, 95 DTC 356 (T.C.C.) was a case heard under the informal procedure by Judge O'Connor on May 9, 1994. It dealt with an individual whose employment was terminated and whose employer paid over the Appellant's pension entitlement into the Appellant's RRSP. The Appellant then converted the RRSP to an RRIF. He withdrew money from his RRIF and claimed the pension credit of $1,000 in filing his income tax returns for the years in question. In dismissing the Appellant's appeal, Judge O'Connor stated:
+
+The law is clear that payments out of a RRIF do not entitle recipients under age 65 to the $1,000.00 pension credit. It is true that had the payments come directly from the Camco pension plan the credit would be available. Although there is a "paper trail" showing where the moneys originated, this is not sufficient to alter the application of the Act. Payments under a RRIF are not the same as direct pension payments. The appellant controls his RRIF's investment and the amounts paid to him. The appellant has probably acted prudently from a tax point of view in having his company pension rolled-over on a tax free basis into his RRSP and subsequently converted on a tax-free basis to a RRIF. Having done that however he cannot now argue that payments from the RRIF are to be treated in the same manner as direct payments from his company pension plan. The appeal is dismissed.
+
+ANALYSIS
+
+[12] Since the Appellant had not attained the age of 65 before the end of the years in question, the subject receipts out of his RRIF need to be qualifying pension income. Since he has not received the amounts as a consequence of a death of a spouse, he will only have qualifying pension income in the subject years if the payments out of his RRIF were of the type described in subparagraph (a)(i) of the definition of pension income. That is, the payments out of his RRIF must be respect of a life annuity out of or under a pension plan.
+
+[13] I will deal firstly with the question of whether payments out of an RRIF should, as matter of proper construction of the subject provisions, be necessarily excluded as payments described in subparagraph (a)(i) of the definition of pension income. The Respondent relies on the Whalen case as supporting its position.
+
+[14] I do not think that Whalen necessarily supports this position although there are other cases, not mentioned by the Respondent's counsel, that might also seem to support it. Two other cases are: R. Saucier v. Canada [2000] TCJ No. 346 (Q.L.); summary at 2000 DTC 3615 (TCC) and Kennedy v. Canada [2001] TCJ No. 486 (Q.L.). In the former case Lamarre Proulx, J. denied a credit under subsection 118(3) in respect of payments out of an RRSP to an annuitant who had not attained the age of 65 years. In that case it was found that the subject payments were neither payments in respect of a life annuity nor amounts received as a consequence of the death of a spouse so that the Minister rightly disallowed the tax credit provided in subsection 118(3) of the Act. I do not think the case necessarily stands for the proposition that a payment out of any registered plan cannot be one that is entitled to the pension tax credit where the payment is "in respect of a life annuity" and where it is established that the payment was "out of or under a superannuation plan or pension plan". This also presumes that the particular registered plan, such as an RRIF in this case, is a "pension plan" that can and does hold life annuities. In any event, there was a finding of fact in the Saucier case that the subject payments from the subject RRSP were not payments in respect of a life annuity. As such, the payments were not "pension income" as defined in subparagraph (a)(i) of the definition of "pension income". This in turn meant that the payments in Saucier were not qualified pension income unless they were received as a consequence of the death of the recipient's spouse. Since the payments were not received as a consequence of the death of the recipient's spouse (and since the recipient had not reached age 65 before the end of the year of receipt) subsection 118(3) would deny the credit.
+
+[15] In Kennedy, Bowie, J. held that payments from an RRIF cannot be considered as payments out of a superannuation or pension plan simply because the original source of the funds in the RRIF were derived from a pension plan.[5] That is, the Kennedy case is not authority for the position that payments out of a registered plan are necessarily not payments in respect of a life annuity out of or under a superannuation of pension plan.[6]
+
+[16] Similarly in Whalen, relied on by the Respondent, O'Connor, J. did not suggest that all payments out of an RRIF, cannot be treated as pension income under the Act. Rather, he expressly stated that registered plans in which the annuitant controls the investments and the amounts payable to him are not pension income under subparagraph 118(7)(a)(i) of the definition of pension income in the Act. This reasoning does distinguish the plan he was considering in that case, however, it does not speak to the case where the RRIF holds life annuities. To that extent, the annuitant has lost at least some control over investment returns and the amounts available to be paid out of the plan. Further, if inflation was a factor in qualifying life annuities for the pension tax credit regardless of age (as suggested in the Budget Speech referred to in the submission of Respondent's counsel[7]), I suggest that where an RRIF has made investments in life annuities, there may be little more protection against inflation than if a life annuity was held directly.
+
+[17] I draw these distinctions only because the Appellant has asserted, and I believe correctly so, that his LRIF is a "pension plan" and that that brings him within the description of payments set out in subparagraph (a)(i) of the definition of pension income. The Saskatchewan Pension Benefits Act and Regulations provide that, for the purposes of such Legislation and Regulations, an LRIF fund is a pension. Under Saskatchewan law, then, a payment out of an LRIF is a payment out of a pension. The fact that the LRIF must under Saskatchewan law be registered under the Income Tax Act as an RRIF is not relevant to the question as to whether or not it is a "pension" under Saskatchewan law. It seems to be clear to me, then, that under the law of the governing jurisdiction, Saskatchewan in this case, an LRIF is a pension for the purposes of identifying "pension income" under the Income Tax Act. As such, it seems clear that the Act would permit the Appellant to claim the pension tax credit even though he had not yet attained the age of 65 by the end of the subject years (and was not in receipt of the subject payments as a consequence of the death of a spouse) provided that his RRIF held life annuities.[8] That is, in my view, the requirement that a payment be "in respect of a life annuity" is satisfied where the pension plan (i.e. the RRIF) has invested in life annuities at least to the extent that it is reasonable to conclude that the payment reflects life annuity receipts in the RRIF. In such case the policy of the subject provisions relating to elements of fixed returns and loss of investment control seem to apply as much to decisions to make annuity investments within a plan as to a similar decision outside a plan. I do not find it contrary to any theory of statutory construction to suggest that where an RRIF holds a life annuity, a payment out of the RRIF could be a payment under both subparagraphs 118(7)(a)(i) and (iii) of the definition of "pension income". Such payment, then, is included in both paragraphs (a) and (b) of the definition of "qualified pension income". I am not inclined to agree that paragraph (b) treatment (as opposed to paragraph (a) treatment) should be imposed on recipients of payments out of an RRIF that has invested in one or more life annuities.[9]
+
+[18] The Appellant never brought evidence that his LRIF had made an investment in a life annuity. Further, I cannot accept his argument that his LRIF payments are "an annuity". Even if they are, that is not sufficient. The requirements in the Act are clear. To succeed the Appellant must at least show that his LRIF held a "life annuity" which under the governing law of Saskatchewan is a defined type of annuity contract with an insurance business. Apparently, no such contract was held in the Appellant's LRIF. Accordingly, his appeal must fail in spite of his having satisfied me that his LRIF was a pension under the law of Saskatchewan and that payments out of an RRIF are not necessarily excluded as a source of qualified pension income even if they are not received as a consequence of the death of a spouse.
+
+[19] With respect to the Charter argument raised by the Appellant I note that this was considered in Kennedy. Bowie, J. rejected the Charter argument in that case and I endorse his reasoning which adopted the reasoning in the Supreme Court decision in Law v. Canada, [1999] 1 S.C.R. 497.[10] To invalidate legislation that differentiates individuals (or groups) on the basis of age (or marital status), it must be shown that the differential treatment withholds the benefit from the claimant in a way that reflects a presumed stereotypical characteristic of that group or person or that has the effect of perpetuating or promoting the view that the person or group is less capable or less worthy of the benefit or less worthy of recognition or of less value as a human being or as a member of Canadian Society than the person or group benefited. Judge Bowie found that the object of the provisions of the Income Tax Act in question is to ameliorate in some small degree the lot of persons 65 and over and those who have lost a spouse who contributed to the family income. As did the Supreme Court in Law, Bowie, J. found that such ameliorating legislative provisions did not violate the human dignity of more advantaged individuals (or that of the persons not receiving the benefit). I agree with Judge Bowie's conclusions in respect of this ground for appeal. Accordingly the Charter argument fails in my view.[11]
+
+[20] The appeals are dismissed without costs.
+
+Signed at Ottawa, Canada, this 12th day of February 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-4155(IT)I
+
+STYLE OF CAUSE: Taras Cheberiak and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Regina, Saskatchewan
+
+DATE OF HEARING: October 5, 2000
+
+August 7, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge J.E. Hershfield
+
+DATE OF JUDGMENT:
+
+APPEARANCES:
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Lyle Bouvier
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-4155(IT)I
+
+BETWEEN:
+
+TARAS CHEBERIAK,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeals heard on October 5, 2000 and August 7, 2001 at Regina, Saskatchewan, by
+
+the Honourable Judge J.E. Hershfield
+
+Appearances
+
+For the Appellant: The Appellant himself
+
+Counsel for the Respondent: Lyle Bouvier
+
+JUDGMENT
+
+The appeals from the assessment made under the Income Tax Act for the 1996 taxation year and from reassessments of tax in respect of the 1995 and 1997 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 12th day of February 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+[1] Being Schedule B of the Canada Act 1982 (U.K.) c.11.
+
+[2] The Appellant also argued that it is material to determine the type of pension that sourced the funds in the registered plan (e.g. a defined benefit plan vs. a defined contribution plan). The Kennedy case (see paragraph 14 and note 5 of these Reasons) establishes that the type of plan from which the paying plan was first funded is not relevant.
+
+[3] Budget Speech of the Honourable John N. Turner, Minister of Finance and Member of Parliament for Ottawa-Carleton, Monday, November 18, 1974.
+
+[4] House of Commons Debates 30th Parliament, 1st session, 1974-1975.
+
+[5] The Kennedy case establishes that the type of plan from which the paying plan was first funded is not relevant. I agree with this finding and it disposes of that aspect of the Appellant's argument which is to consider the nature of his plan before he converted it to a RRIF. Similarly the nature of the options he had and his reasons for choosing a RRIF are not relevant.
+
+[6] At paragraph 5 of his judgement in Kennedy, Bowie J. does state that payments out of a RRIF are not "qualified pension income" unless received as a consequence of the death of the spouse of the recipient. Given the context of the statement however, it might be fair to assume that he was speaking of RRIFs that had not invested in life annuities.
+
+[7] The Budget Speech of the Honourable John M. Turner (infra note 3 of these Reasons) specifically states that the proposed measures were intended to protect people against the eroding effects of inflation. Although the Speech goes on to speak of protecting seniors, the legislation does not so limit the benefit of the tax credit to seniors in respect of life annuity payments out of a pension fund.
+
+[8] Paragraph 146.3(1) defines qualified investments for RRIFs and subparagraph (b.2) permits investment in life annuities.
+
+[9] Interestingly, an "annuity" payment "under" an RRSP is expressly listed in subparagraph 118(7)(a)(ii) of the definition of "pension income". They are not so expressly listed in subparagraph 118(7)(a)(iii) of that definition dealing with "a payment" "out of or under" an RRIF. The import of these distinctions are not apparent to me although I note that different registered plans permit different types of annuities as qualified investments. In coming to my view that an RRIF is capable of being described in subparagraph (a)(i) of the definition of "pension income", I have considered that RRIF's can invest in life annuities as contemplated in subparagraph (a)(i) of the definition of "pension income". This may not be the case in other registered plans.
+
+[10] In Law, the Supreme Court considered the validity of legislation providing age based benefits; i.e. differential treatment based on age.
+
+[11] I note that the requirements of the Federal Court Act in respect of the required notice of a charter argument being raised were not met in this case. Had the argument had merit the Appellant would have been afforded an opportunity to provide such notice.
+

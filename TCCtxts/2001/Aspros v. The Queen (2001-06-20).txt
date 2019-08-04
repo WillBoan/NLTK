@@ -1,0 +1,184 @@
+Date: 20010620
+
+Docket: 2000-3303-GST-I
+
+BETWEEN:
+
+KATHY ASPROS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Hamlyn, J.T.C.C.
+
+FACTS
+
+[1] This appeal arises from a Notice of Decision dated May 24, 2000, in which the Minister of National Revenue (the "Minister") denied the Appellant a refund of $1,809.22 of GST paid on defective goods purchased that were subsequently returned to the supplier from a court ordered settlement.
+
+[2] The Appellant purchased a car on November 25, 1995, which turned out to be defective. Three years after the purchase, the Appellant received a court ordered settlement whereby she recovered $25,000.00 from the dealer who sold her the defective car. The Appellant applied for a rebate of the GST paid on the defective car, which the Minister denied by letter dated May 24, 2000. The Appellant is appealing the Minister's decision.
+
+[3] The Appellant in pleadings states that if something is returned, then the taxes paid on such an item should be refunded. The Appellant states that she should not have to pay taxes on an item that she no longer possesses. The Minister in pleadings states that the Appellant was a recipient of a taxable supply, was required to pay GST as the recipient of a taxable supply, the supplier was obligated to collect the GST payable by the Appellant, and that the GST was not "paid in error" by the Appellant. Thus she is not entitled to a rebate.
+
+[4] The Minister also stated at trial that any claim for a rebate on the application must be filed within two years after the day the purchase was paid for or GST was remitted. If the rebate application was for amounts paid or remitted before July 1, 1998, the applicant has four years to file after the date of payment or remission.
+
+ISSUE
+
+[5] Whether the Appellant is entitled to a refund for GST paid on defective goods purchased which were returned.
+
+STATUTORY FRAMEWORK
+
+[6] The relevant provisions of the Act are:
+
+165. (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada a tax in respect of the supply calculated at the rate of 7% of the value of the consideration for the supply.
+
+221. (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+
+225. (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+
+A - B
+
+where
+
+A is the total of
+
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+
+228. (2) Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+
+232. (1) Where a particular person has charged to, or collected from, another person an amount as or on account of tax under Division II in excess of the tax under that Division that was collectible by the particular person from the other person, the particular person may, within two years after the day the amount was so charged or collected,
+
+...
+
+(b) where the excess amount was collected, refund or credit the excess amount to that other person.
+
+(3) Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+
+...
+
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person; and
+
+...
+
+261. (1) Where a person has paid an amount
+
+(a) as or on account of, or
+
+(b) that was taken into account as,
+
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+
+(2) A rebate in respect of an amount shall not be paid under subsection (1) to a person to the extent that
+
+(a) the amount was taken into account as tax or net tax for a reporting period of the person and the Minister has assessed the person for the period under section 296;
+
+(b) the amount paid was tax, net tax, penalty, interest or any other amount assessed under section 296; or
+
+(c) a rebate of the amount is payable under subsection 215.1(1) or (2) or 216(6) or a refund of the amount is payable under section 69, 73, 74 or 76 of the Customs Act because of subsection 215.1(3) or 216(7).
+
+(3) A rebate in respect of an amount shall not be paid under subsection (1) to a person unless the person files an application for the rebate within two years after the day the amount was paid or remitted by the person. [emphasis added]
+
+ANALYSIS
+
+[7] In this appeal, the Appellant received a court ordered settlement (December 4, 1998) for the defective vehicle whereby she recovered $25,000.00 from the supplier. The appellant no longer possesses the vehicle. The Appellant is seeking a refund for the GST paid on the returned vehicle and filed an application for the rebate on December 30, 1998.
+
+[8] The scheme of the Excise Tax Act (the "Act") is such that a taxpayer who has overpaid GST could either receive a refund for such overpayment directly from the supplier of the taxable supply under section 232, or alternatively apply for a refund from the Minister under section 261 for tax paid in error.
+
+[9] The Appellant states she was advised by the civil court judge in Ontario to apply directly for the GST rebate.
+
+[10] The focus at trial was on the limitation period issue. Pursuant to subsection 261(3), a person claiming a section 261 rebate must file an application within two years after the amount was paid or remitted. Bill C-70 [1997, c.10, ss. 71(1)] reduced the time limit for claiming the rebate to two years from four years. This amendment relates to amounts paid or remitted after June 1996, and to amounts paid or remitted on or before June 30, 1996, unless the amounts are claimed in an application filed on or before July 1998.
+
+[11] The vehicle in question was purchased by the Appellant before June 30, 1996 and the Appellant filed an application for the section 261 rebate after July 1998, which was after the court ordered settlement. Therefore the two year time limit applies. The Appellant has filed for a section 261 rebate past the statutory deadline.
+
+[12] The result would appear to be a windfall for the taxing authorities. Although such a gap in the legislative scheme may lead to an unfair result, it is well established that this Court does not have jurisdiction to remedy any such perceived unfairness. On this point, in Impact Shipping Inc. v. The Queen,[1] Chief Judge Christie, as he then was, stated:
+
+[The argument of the appellant] presupposes that the Tax Court is vested with some kind of general equitable jurisdiction to remedy what it might consider an inequitable result regardless of the fact that the legislation creating the alleged inequity is perfectly clear.
+
+Jurisdiction of the nature just described is not vested in this Court either expressly or by necessary implication.
+
+DECISION
+
+[13] The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 20th day of June 2001.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+COURT FILE NO.: 2000-3303(GST)I
+
+STYLE OF CAUSE: Kathy Aspros and Her
+
+Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: June 15, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge D. Hamlyn
+
+DATE OF JUDGMENT: June 20, 2001
+
+APPEARANCES:
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Steve Leckie
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-3303(GST)I
+
+BETWEEN:
+
+KATHY ASPROS,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on June 15, 2001, at Toronto, Ontario, by
+
+the Honourable Judge D. Hamlyn
+
+Appearances
+
+For the Appellant: The Appellant herself
+
+Counsel for the Respondent: Steve Leckie
+
+JUDGMENT
+
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated June 14, 1999 and bears number 9915913801237, is dismissed in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 20th day of June 2001.
+
+"D. Hamlyn"
+
+J.T.C.C.
+
+[1] [1995] GSTC 28 at 28-5 (T.C.C.).
+

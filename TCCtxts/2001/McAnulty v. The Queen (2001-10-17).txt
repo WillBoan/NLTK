@@ -1,0 +1,424 @@
+Date: 20011017
+
+Docket: 2000-420-IT-G
+
+BETWEEN:
+
+NANCY McANULTY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+Bowman, A.C.J.
+
+[1] This appeal is from an assessment for the appellant's 1996 taxation year. In that year the appellant exercised stock options that she held to acquire 45,000 shares of Bre-X Minerals Ltd. ("Bre-X"). Under section 7 of the Income Tax Act she brought into income the difference between the price paid on the exercise of the options and the fair market value on the date of exercise. She also claimed a deduction of 25% of the taxable benefit under paragraph 110(1)(d) of the Income Tax Act. One of the conditions to the right to claim that deduction is that the option price be not less than the fair market value of the shares at the time of the agreement to issue the shares.
+
+[2] The appellant's position is that the relevant date (the date of the agreement) was April 29, 1994 when the President of Bre-X, David Walsh, told the appellant that she would be receiving options to purchase 45,000 shares. The respondent's position is that the relevant date is not earlier than May 19, 1994.
+
+[3] The parties entered into a partial agreed statement of facts which reads as follows.
+
+For the purposes of this appeal, the parties, by their respective counsel, admit the following facts and agree that their admission of facts shall have the same effect as if the facts had formally been proved and accepted by the Court as true. The parties each reserve the right to adduce additional evidence which is relevant and probative of any issue before the Court and which is not inconsistent with the facts admitted herein. All statutory references are to the Income Tax Act (Canada) ("Act") as it read during the 1996 taxation year, unless noted otherwise.
+
+1. The Appellant is a resident of Canada for the purposes of the Act.
+
+2. During the relevant period Bre-X Minerals Ltd. ("Bre-X") was a mining corporation, the common shares of which were listed for trading, and in fact traded, on the Alberta Stock Exchange ("ASE").
+
+3. During the relevant period the President of Bre-X was Mr. David Walsh.
+
+4. The appellant was an employee of Bre-X throughout the period between 1993 and 1996.
+
+5. Pursuant to a directors' resolution dated December 30, 1988, Bre-X passed a Stock Option Plan as an incentive for its directors, officers and employees ("Plan").
+
+6. Pursuant to the terms of the Plan, the granting and exercise of the options thereunder were subject to compliance with the requirements of the applicable stock exchange and any government authority or regulatory body to which Bre-X was subject.
+
+7. On April 29, 1994, the fair market value of a common Bre-X share did not exceed $1.50.
+
+8. On May 2, 1994, Mr. Wash met with the Director of Listings from the ASE, Mr. Gerald Romanzin.
+
+9. On May 4, 1994, Mr. Walsh wrote a letter to Mr. Romanzin wherein Mr. Walsh expressed the intention of Bre-X to grant stock options to its employees and directors.
+
+10. Throughout the period May 19, 1994 to September 30, 1994 (inclusive), the faire market value of Bre-x common shares was greater than $1.50 per share.
+
+11. On June 30, 1994 Mrs. Jeannette Walsh, Secretary of Bre-X, certified the contents of a resolution of the directors of Bre-X effective May 19, 1994 approving the granting of, inter alia, 45,000 options to the Appellant.
+
+12. The Appellant did not pay any amount or consideration to Bre-X to acquire the 45,000 options in issue.
+
+13. On January 2, 1996, the Appellant exercised all of the 45,000 options in issue and purchased 45,000 common shares of Bre-X ("Subject Shares") from treasury at the total option price of $67,500 ($1.50 per share).
+
+14. In computing her income for her 1996 taxation year the Appellant included an employment benefit of $2,317,500 under subsection 7(1) in respect of the exercise of her 45,000 options. The said employment benefit was reported on a T4 slip issued to the appellant by Bre-X in accordance with the Act.
+
+15. In computing her taxable income for her 1996 taxation year the Appellant claimed a deduction under paragraph 110(1)(d) of $579,375 relating to the benefit deemed by subsection 7(1) to have been received by the Appellant in that year in respect of the exercise of her 45,000 options.
+
+16. On May 7, 1999 the Minister of National Revenue reassessed the Appellant's 1996 taxation year ("Reassessment") to disallow the paragraph 110(1)(d) stock option deduction of $579,375.
+
+17. The Appellant filed a Notice of Objection to the Reassessment in accordance with the Act.
+
+18. By Notice of Confirmation dated December 14, 1999 the Minister of National Revenue confirmed the Reassessment.
+
+[4] The parties also agree that the following assumptions by the Minister are correct:
+
+10s) on September 12, 1994, the ASE informed Bre-X, in writing, that the additional listing of 409,000 common shares had been approved, subject to the payment of an additional listing fee of $535;
+
+t) on January 2, 1996, the Appellant exercised her option of purchasing 45,000 shares at $1.50 per share (the "Subject Shares"); and
+
+u) on January 15, 1996, Bre-X filed notice with the ASE of shares issued upon exercise or cancellation of reserved securities wherein the Appellant was listed to have been granted her stock option on May 19, 1994.
+
+[5] Section 7 of the Income Tax Act contains a code for the taxation of employees on stock options given them by their employers. They are not taxed on the fair market value of the options when they are given to them (as was the treatment in the United Kingdom under Abbott v. Philbin, [1961] A.C. 352).
+
+[6] Rather they are taxed when the options are exercised on the difference between the option price paid and the fair market value of the shares at the time of exercise. Paragraph 110(1)(d) gives a deduction of a portion of the amount so taxed (in the year in question it was 25%) so as, in effect, to put stock option benefits on the same footing as capital gains. However the deduction under paragraph 110(1)(d) is taken away if the fair market value of the stock at the time the option is granted is greater than the option price.
+
+[7] Paragraph 110(1)(d) reads
+
+110(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+
+...
+
+(d) where, after February 15, 1984,
+
+(i) a corporation has agreed to sell, issue or cause to be issued to the taxpayer a share of its capital stock or of the capital stock of another corporation with which it does not deal at arm's length,
+
+(ii) the share was a prescribed share at the time of its sale or issue, as the case may be, or, where the taxpayer has disposed of rights under the agreement, the share would have been a prescribed share if it were issued or sold to the taxpayer at the time the taxpayer disposed of such rights,
+
+(iii) the amount payable by the taxpayer to acquire the share under the agreement (determined without reference to any change in the value of a currency of a country other than Canada relative to Canadian currency during the period between the time the agreement was made and the time the share was acquired) is not less than the amount by which
+
+(A) the fair market value of the share at the time the agreement was made
+
+exceeds
+
+(B) the amount, if any, paid by the taxpayer to acquire the right to acquire the share,
+
+or where the rights under the agreement were acquired by the taxpayer as a result of one or more dispositions of rights to which subsection 7(1.4) applied, the amount payable by the taxpayer to acquire the old share under the original option (determined without reference to any change in the value of a currency of a country other than Canada relative to Canadian currency during the period between the time the agreement was made and the time the share was acquired) that was disposed of in consideration for a new option in the first such disposition was not less than the amount by which
+
+(C) the fair market value of the old share at the time the agreement in respect of the original option was made
+
+exceeds
+
+(D) the amount, if any, paid by the taxpayer to acquire the right to acquire the old share, and
+
+(iv) at the time immediately after the agreement was made and, where the rights under the agreement were acquired by the taxpayer as a result of one or more dispositions to which subsection 7(1.4) applied, at the time the agreement in respect of the original option was made and at the time immediately after each disposition, the taxpayer was dealing at arm's length with the corporation, the other corporation and the corporation of which the taxpayer is an employee,
+
+an amount equal to ¼ of the amount of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of the share or the transfer or other disposition of the rights under the agreement.
+
+[8] The facts are not complicated. The appellant is a former legal secretary. When she moved from Montreal to Calgary with her husband she began working for Bre-X in November of 1992. At that time its offices were in one large room in the basement of a house. It had four or five employees, including the appellant. Her husband, Stephen McAnulty, started working for Bre-X in 1993 in the field of industrial relations. At all times relevant to this appeal the president of Bre-X was Mr. David Walsh, who is now deceased. Mr. Walsh appears at this time to have exercised control of the day-to-day operations of Bre-X. When she started working for Bre-X the appellant was paid no salary. She worked 20-30 hours per week doing mainly clerical duties. In March of 1993 she started receiving a salary of $2,000 per month.
+
+[9] I come now to the events that occurred in the critical period between April 29, 1994 and May 19, 1994.
+
+[10] On Friday, April 29, 1994 Bre-X received by fax from the stockbrokers Loewen, Ondaatje, McCutcheon Limited ("LOM") the following letter.
+
+Loewen, Ondaatje, McCutcheon Limited ("LOM" or the "Agent") would be pleased to assist Bre-X Minerals Ltd. (the "Issuer"), as lead manager, in the placement outside Canada of up to 3,000,000 units (hereafter "Units") of the Issuer by way of a private placement on a "best effort" agency basis (the "Issue"). Each unit will consist of one common share and one half of one non-transferable common share purchase warrant exercisable at $1.75 per common share with an expiration date ending two years from the Closing Date. The Agent proposes to place the Units at an offering price of $1.50 per Unit. Net proceeds to the Issuer will be the offering price of $1.50 per Unit less the Agent's commission of $0.105 per Unit, for net proceeds of $1.395 per Unit before all expenses related to the Issue. In addition, the Issuer will issue to the Agent 300,000 broker warrants exercisable for Units at $1.50 for a period of one year following the end of any applicable hold periods. The Issuer will be responsible for all expenses related to the Issue, including the fees for the Agent's legal counsel and applicable GST and all reasonable travel and out-of pocket expenses. The general terms and conditions of this private placement of Units are set out herein and in the schedule attached to this letter.
+
+It is agreed that management of the Issuer will make itself available, if required, to meet certain institutional investors in Europe. It is further agreed that the Agent may select and invite certain other investment dealers to participate in a syndicate for the offering of the Units, in which case LOM will have the right to choose members and control all syndicate arrangements.
+
+The closing of the Issue will take place in Paris, France on May 19, 1994, or such other time and place as we may mutually agree, at which time delivery of the Units and cheques for the Agent's commission and the fees for the Agent's legal counsel will be provided against the payment of the gross proceeds from the sale of the Units.
+
+This letter agreement is subject to the execution of a detailed Agency Agreement by 4:00 p.m. (Toronto Time) on May 17, 1994 containing terms and conditions typical in the industry for transactions of this nature, including standard clauses regarding market conditions and events of serious international consequences.
+
+It is further agreed that the Issuer will grant LOM a right of first refusal to lead manage any subsequent financings for the Issuer for a period of eighteen (18) months from the Closing Date.
+
+This agreement will also be subject to the Issuer receiving the required regulatory approvals for the issuance of the Units at the price of $1.50 and supplying additional material to the Agent, to the satisfaction of the Agent, including: (1) audited financial statements for the year ended November 30, 1993; (ii) additional information concerning the company's finances to the date of this letter; (iii) evidence that the Issuer holds titles in good standing for all material mineral properties held by the Issuer including the Busang, Teware and Sable properties; and (iv) any such other information that the Agent may reasonably request.
+
+If the terms and conditions outlined herein and in the attached terms sheet are acceptable please indicate by signing below.
+
+[11] It was signed as accepted and agreed by Mr. Walsh as president of Bre-X and faxed back to LOM on April 29, 1994 by Mr. Walsh's wife, Jeannette Walsh, who was the secretary of the company.
+
+[12] Mr. Walsh called the appellant to his desk and told her that he was going to issue to her 45,000 stock options at $1.50. Mrs. Walsh also testified that she was standing at this desk when he said this to the appellant.
+
+[13] There was really nothing more formal to it than that. Mr. Walsh did not make the issuance of the options conditional on anything, nor did he ask her to pay anything. I found Mrs. McAnulty a credible witness. She did not seek to embellish the story. However I am satisfied that it happened as the appellant testified — nothing more and nothing less.
+
+[14] Mrs. Jeannette Walsh, Mr. Walsh's wife testified and confirmed what Mrs. McAnulty said.
+
+[15] On the same day Mr. Walsh made an appointment to meet with Mr. Gerald Romanzin the Director, Listings, of The Alberta Stock Exchange ("ASE") and he met with him on Monday, May 2, 1994. He wrote to him on May 4, 1994. Mrs. Walsh typed the letter. It reads as follows.
+
+Thank you for meeting on short notice with Steve McAnulty and myself May 2, 1994.
+
+By way of this letter, we wish to confirm our conversation as follows:
+
+- We have successfully negotiated a Private Placement of 3,000,000 Bre-X Minerals Ltd. units, employing Loewen Ondaatje McCutcheon Limited (LOM) as Agent. Please see four page LOM letter attached for reference.
+
+- The terms negotiated are:
+
+(a) 3,000,000 units @ $1.50
+
+(b) Each unit consists of 1 share and ½ warrant @ $1.75, expiring May 19, 1996.
+
+(c) Agent's Fees:
+
+(i) Cash commission - 7%
+
+(ii) 300,000 broker warrants exercisable for 300,000 units @ $1.50 for a period of one year following the end of any applicable hold period.
+
+(d) Closing: May 19, 1994
+
+- In addition to the 3,000,000 units being placed by LOM, we have negotiated 300,000 units under the same terms with no commission payable. This was done prior to LOM's involvement.
+
+- We enclose Notice to the Alberta Stock Exchange of a Proposed Private Placement duly completed.
+
+- Employees and Directors Options:
+
+Shares issued and outstanding: 9,938,833
+
+Shares to be issued re units: 3,300,000
+
+Pro forma shares outstanding 13,238,833
+
+- Option availability 10% of pro forma 1,328,883
+
+Option current reserved 925,000
+
+Options Available 398,883
+
+- The Exchange will approve Employee & Directors Options applications @ $1.50 based on issued and outstanding as of the Private Placements' closing and unit price.
+
+As we foresee no problems with the scheduled closing date of May 19, 1994, we would appreciate a letter from the Exchange conditionally listing the shares resulting from the units (4,950.000) and brokers warrants (450,000).
+
+Thank you for your assistance in this matter.
+
+[16] On June 30, 1994 Mrs. Walsh signed a certified copy of a resolution of the directors of Bre-X. It reads as follows.
+
+WHEREAS the Corporation wishes to grant an option to purchase shares to the following Employees and Directors of the Corporation:
+
+NOW THEREFORE BE IT RESOLVED THAT:
+
+1. The Corporation grant to David G. Walsh (Employee) an option to purchase 110,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+2. The Corporation grant to Paul M. Kavanagh (Director) an option to purchase 100,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+3. The Corporation grant to Joel King (Director) an option to purchase 10,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+4. The Corporation grant to Jeannette Walsh (Employee) an option to purchase 70,000 common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+5. The Corporation grant to John B. Felderhof (Employee) an option to purchase 55,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+6. The Corporation grant to Nancy J. McAnulty (Employee) an option to purchase 45,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+7. The Corporation grant to John B. Thorpe (Employee) an option to purchase 15,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+8. The Corporation grant to Catherine L. Gilchrist (Employee) an option to purchase 4,000 Common Shares at an option price of $1.50 per share, for a period of five years expiring the 19th day of May, 1999.
+
+I HEREBY CERTIFY that the foregoing is a true copy of a Resolution of the Directors of the BRE-X MINERALS LTD. signed by all of the Directors and made effective the 19th day of May, 1994, which Resolution is in full force and effect, unamended.
+
+WITNESS my hand and the corporate seal of the Corporation at the city of Calgary, in the Province of Alberta, this 30th day of June, 1994.
+
+[signed by Jeannette Walsh]
+
+Secretary
+
+[17] On May 19, 1994 the appellant and Mr. David Walsh (on behalf of Bre-X) signed the following agreement.
+
+THIS SHARE OPTION AGREEMENT dated as of
+
+May 19, 1994.
+
+BETWEEN:
+
+BRE-X MINERALS LTD. a Corporation with an office in Calgary, Alberta (hereinafter called "Bre-X" or the "Corporation")
+
+- and -
+
+NANCY J. MCANULTY, of the City of Calgary, in the Province of Alberta (hereinafter called "N.McAnulty")
+
+WHEREAS:
+
+A. N.McAnulty is an employee of Bre-X;
+
+B. Bre-X wishes to provide, pursuant to the terms of the Corporation's Stock Option Plan, an option to purchase shares in the Corporation;
+
+THEREFORE this Agreement witnesses that in consideration of $1.00 and other valuable consideration, receipt of which is acknowledged, the parties agree as follows:
+
+1. Bre-X hereby grants an option to N.McAnulty to purchase Forty Five Thousand (45,000) Common Shares of the Corporation ("the Option Shares").
+
+2. The Option granted herein is hereby deemed to be granted subject to the approval of the Alberta Stock Exchange.
+
+3. The Option Shares may be acquired at any time up to an including May 19, 1999.
+
+4. This Option Agreement shall terminate 30 days after N.McAnulty ceases to be an Employee of the Corporation.
+
+5. The Option price shall be $1.50 per Option Share.
+
+6. The Option may be exercised in whole or in part from time to time by delivering a notice in writing to the registered office of the Corporation accompanied with sufficient funds to pay for the Option Shares being subscribed for, or in direction to the Corporation to set off monies owing by the Corporation to N.McAnulty against the option price.
+
+7. The shares shall not be issued to N.McAnulty until the option price in respect to those shares has been satisfied.
+
+8. This Agreement cannot be assigned by N.McAnulty.
+
+9. All terms and conditions respecting the option granted herein shall be governed by the Company's stock option plan adopted December 30, 1988, and the laws of the Province of Alberta.
+
+10. In the event of:
+
+(a) any reduction in the number of shares of the Corporation due to consolidation thereof;
+
+(b) any increase in the number of shares of the Corporation due to subdivision thereof; or
+
+(c) any reclassification of shares of the Corporation;
+
+the Corporation shall deliver at the time of any exercise of the Option thereafter, such reduced, additional or reclassified number of shares as would have resulted from such consolidation, subdivision or reclassification if such exercise of the Option had occurred prior to the date of such consolidation, subdivision or reclassification.
+
+11. This Agreement may be executed in counterpart each of which shall be deemed an original but all of which together shall constitute one of the same instrument.
+
+IN WITNESS WHEREOF the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+
+BRE-X MINERALS LTD.
+
+PER: [signed]
+
+[signed] [signed by Nancy McAnulty]
+
+Witness NANCY J. MCANULTY
+
+[18] Mrs. Walsh testified that Mr. Walsh signed on behalf of Bre-X and also witnessed Mrs. McAnulty's signature.
+
+[19] On September 12, 1994 the ASE informed Bre-X that the additional listing of 409,000 shares was approved, subject to the payment of an additional listing fee. On January 2, 1996 the appellant exercised her options.
+
+[20] In filing her return of income for 1996 she included the amount of $2,317,500 in income for 1996 under section 7 and deducted $579,375 under paragraph 110(1)(d).
+
+[21] The deduction was denied on the basis that the fair market value of the Bre-X stock "at the time the stock option agreement was made" exceeded $1.50 per share. If "the time the stock option agreement was made" was April 29, 1994 this assumption is incorrect and the appellant is entitled to the deduction under paragraph 110(1)(d). If "the time the stock option agreement was made" is May 19, 1994 or some later date the fair market value of the shares at that time was greater than $1.50 per share, the condition in paragraph 110(1)(d) is not met and the appellant is not entitled to the deduction. The relevant portion of the French version of paragraph 110(1)(d) is:
+
+(1) Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+
+...
+
+d) dans le cas où, après le 15 février 1984, à la fois :
+
+(i) une société est convenue de vendre au contribuable, ou d'émettre ou de faire émettre en sa faveur, une action de son capital-actions ou de celui d'une autre société avec laquelle elle a un lien de dépendance,
+
+...
+
+(iii) le montant que le contribuable doit payer pour acquérir l'action aux termes de la convention (déterminé compte non tenu d'un changement de la valeur de la monnaie d'un pays étranger par rapport à la valeur du dollar canadien entre le moment de la conclusion de la convention et le moment de l'acquisition de l'action) est au moins égal à l'excédent de la juste valeur marchande de l'action au moment de la conclusion de la convention sur le montant que le contribuable a payé pour acquérir le doit d'acquérir l'action ...
+
+(iv) immédiatement après la conclusion de la convention et, si le contribuable a acquis les droits prévus par la convention par suite d'une ou plusieurs dispositions auxquelles le paragraphe 7(1.4) s'applique, au moment où la convention visant l'option initiale a été conclue et immédiatement après chaque disposition, le contribuable n'avait de lien de dépendance ni avec la société, ni avec l'autre société, ni avec la société dont il est l'employé.
+
+un montant égal à ¼ de la valeur de l'avantage que le contribuable est réputé avoir reçu en application du paragraphe 7(1) au cours de l'année relativement à l'action ou relativement au transfert ou à une autre forme de disposition des droits prévus par la convention.
+
+[22] The question is simple: Did Bre-X agree to sell or issue shares to the appellant on April 29, 1994 or was there no agreement until at the earliest May 19, 1994 when the private placement closed, the written agreement was signed by Mr. Walsh on behalf of Bre-X and by the appellant and the directors' resolution was signed? Clearly Mr. Walsh informed the appellant on April 29, 1994 that Bre-X was going to grant her 45,000 options and at that time the shares were trading at $1.50 per share. There was nothing in writing at that time. There is no evidence that the appellant said anything or that she committed herself either orally or in writing to go on working for Bre-X, although in fact she did continue to work until March of 1996.
+
+[23] The words "agree" or "agreement" generally connote to a lawyer a binding contractual commitment and it is in this sense that the respondent argues that the word must be interpreted in paragraph 110(1)(d). This is certainly the conventional meaning: Helby v. Matthews, [1895] A.C. 471 at 475-6, per Lord Herschell L.C.; Goldsack v. Shore, [1950] 1 K.B. 708 at 713, per Evershed M.R.
+
+[24] The law is clear that such an agreement need not be in writing. If Parliament requires an agreement to be in writing it is quite capable of saying so as it has in many sections of the Income Tax Act. In M.N.R. and Chysler Canada Limited et al., 91 DTC 5526, Strayer J. said at p. 5531:
+
+I have considered carefully the statements by way of obiter dicta by J.O. Weldon in Fowler v. M.N.R., concerning the meaning of "agreement" in the predecessor to the present subsection 7(1). With respect I am unable to find in the words of the subsection the restrictive sense of the word "agreement" which he adopts there. He started with the assumption, based on the argument by the representative of the Minister, that subsection 7(1) is intended to cover only stock option agreements. He sees section 7 as confined to the selective provision of special benefits based on performance. From this he concludes that there must be a "separate formal agreement with each employee" which the company wishes to benefit, an agreement which should be "carefully executed by the company and the employee". I am unable to find language in the subsection to support that conclusion. I can see no reason why the "agreement" referred to cannot be an oral agreement or an implied agreement—even an implied agreement based on a collective bargaining arrangement which, the evidence indicates, existed in the present case.
+
+[25] Counsel for the appellant went further and submitted that "agreement" in section 7 and paragraph 110(1)(d) could mean a non-binding commitment by a corporation to sell shares to an employee at a fixed price. The point is not without merit, when one considers the way in which employee stock options are granted to employees. The company traditionally allocates stock options to employees based on a variety of criteria such as position in the company, seniority or past services. How many options are issued to a particular employee is a matter of management's discretion, not of negotiation and bargaining between the employee and the company. Whether at the time of allocation a binding agreement comes into existence may be an open question — I think that it does — but it is certainly at that point that it can be said that the company "agreed" to sell shares to the employee.
+
+[26] Do the facts in this case justify a similar conclusion?
+
+[27] We have a senior member of management, the president, Mr. Walsh, informing the appellant that the company would give her 45,000 options. This is confirmed by an immediate phone call to The Alberta Stock Exchange, a meeting the following Monday and a letter on Wednesday confirming the meeting.
+
+[28] Counsel for the respondent argued that Mr. Walsh had no authority to bind the company to issue options because the Bre-X stock option plan, which was a Schedule to Directors' Resolutions of December 30, 1988 gave the administration of the plan to the Board of Directors who had not (at least on the evidence before me) delegated their powers to Mr. Walsh.
+
+[29] Sections 2 and 3 of the plan read as follows.
+
+2. IMPLEMENTATION
+
+The Plan and the grant and exercise of any options under the Plan are subject to the compliance with the applicable requirements of each stock exchange on which the shares of the Corporation are listed at the time of the grant of any options under the Plan and of any government authority or regulatory body to which the Corporation is subject.
+
+3. ADMINISTRATION
+
+The Plan shall be administered by the Board of Directors of the Corporation which shall, without limitation, have full and final authority in its discretion, but subject to the express provisions of the Plan, to interpret the Plan, to prescribe, amend and rescind rules and regulations relating to it and to make all other determinations deemed necessary or advisable for the administration of the Plan. The Board of Directors may delegate any or all of its authority with respect to the administration of the Plan and any or all of the rights, powers and discretions with respect to the Plan granted to it hereunder to such committee of directors of the Corporation (which may comprise only the President or any one director) as the Board of Directors may designate and upon such delegation such committee of directors, as well as the Board of Directors, shall be entitled to exercise any or all of such authority, rights, powers and discretions with respect to the Plan. When used hereafter in the Plan, "Board of Directors" shall be deemed to include a committee of directors acting on behalf of the Board of Directors.
+
+[30] The president of Bre-X had ostensible authority to commit the company to issue shares under an option agreement and the appellant had no reason to question his authority. The genesis of the so called "indoor management rule" is found in The Royal British Bank v. Turquand, (1856) 6 E & B 327.
+
+[31] I do not however think that this is the case for a lengthy dissertation on the rule in Turquand's case. Mrs. McAnulty had no reason to go behind Mr. Walsh's promise to ensure that all of the formalities required by the by-laws had been met. This is a clear case in which the rule applies. It is discussed at some length in McKnight Construction Co. v. Vansickler, [1915] 51 S.C.R. 374 at 382 and 387; and Acton Tanning Co. v. Toronto Suburban Rway Co., [1918] 56 S.C.R. 196 at 217.
+
+[32] Counsel for the respondent also pointed to clause 6.2 of the stock option plan which reads
+
+6.2 OPTION AGREEMENT
+
+All options shall be granted under the Plan by means of an agreement (the "Option Agreement") between the Corporation and each Participant in the form as may be approved by the Board of Directors, such approval to be conclusively evidenced by the execution of the Option Agreement by the President or any two (2) directors or officers of the Corporation.
+
+[33] The stock option plan is not a statute. It sets out rules for the administration of the plan but failure to comply with those rules does not invalidate the granting of options as against the grantee. The directors' resolution and the written agreement of May 19, 1994 are formal confirmation and implementation of the agreement made on April 29, 1994.
+
+[34] It was also contended that on April 29, 1994 there was no binding agreement since there was no new consideration because the appellant was already receiving a salary. Alternatively it was argued that the consideration was past consideration which, in law, is not consideration at all. The argument is that the agreement to sell her shares at $1.50 was a reward for the period when she worked for no pay at all. It is interesting, albeit possibly irrelevant, that section 25 of the Alberta Business Corporation Act includes in the permissible consideration for the issuance of shares the value of past services. No doubt the appellant's past unpaid service was a factor that influenced Mr. Walsh, as was her continued employment with the company.
+
+[35] I do not mean in any way to minimize the cogent and persuasive arguments advanced by Mr. O'Callaghan, or criticize the position taken by Mr. Peddle, the CCRA auditor. Mr. Peddle acted on what appeared to him, not unreasonably, to be evidence of the date of the agreement — the directors' resolution and the written agreement dated May 19, 1994. Moreover, the notice to The Alberta Stock Exchange stated that the options were granted on May 19, 1994. Such a notice could of course not bind the appellant.
+
+[36] My view is simply this: a broader approach to the interpretation of "agree" and "agreement" in paragraph 110(1)(d) is required if the object of that paragraph is to be achieved. A technical one that excludes an oral commitment made by a senior officer of the company with apparent authority would in my view destroy the purpose for which the provision is in the act, that of according to the taxation of employee stock options what essentially amounts to capital gains treatment where the option price at the time of the agreement is no less than the price at which the shares are trading at that time. It would create chaos in the public companies in the country if when senior management tells the employees that they are to be given options at a particular price, they had to look at the by-laws and ensure that management followed the rules, and then, if there is an upward fluctuation in the price of the shares between the date of notification and the date something was put in writing and a final resolution of the directors is passed an adjustment had to be made to the option price.
+
+[37] The appeal is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant the deduction of $579,375 under paragraph 110(1)(d) of the Income Tax Act.
+
+Signed at Toronto, Canada, this 17th day of October 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+
+COURT FILE NO.: 2000-420(IT)G
+
+STYLE OF CAUSE: Between Nancy McAnulty and
+
+Her Majesty The Queen
+
+PLACE OF HEARING: Calgary, Alberta
+
+DATE OF HEARING: October 1, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+DATE OF JUDGMENT: October 17, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Ken S. Skingle, Esq.
+
+Counsel for the Respondent: John O'Callaghan, Esq.
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Ken S. Skingle, Esq.
+
+Firm: Felesky Flynn
+
+Calgary, Alberta
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2000-420(IT)G
+
+BETWEEN:
+
+NANCY McANULTY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on October 1, 2001, at Calgary, Alberta by
+
+The Honourable D.G.H. Bowman
+
+Associate Chief Judge
+
+Appearances
+
+Counsel for the Appellant: Ken S. Skingle, Esq.
+
+Counsel for the Respondent: John O'Callaghan, Esq.
+
+JUDGMENT
+
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 1996 taxation year be allowed with costs and the assessment be referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant the deduction of $579,375 under paragraph 110(1)(d) of the Act.
+
+Signed at Toronto, Canada, this 17th day of October 2001.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

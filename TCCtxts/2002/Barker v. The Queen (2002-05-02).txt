@@ -1,0 +1,170 @@
+Date: 20020502
+
+Docket: 2001-3141
+
+BETWEEN:
+
+DONALD G. BARKER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasonsfor Judgment
+
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on March 15, 2002 at Toronto, Ontario)
+
+Hershfield, J.T.C.C.
+
+[1] This is an appeal in respect of a reassessment of the Appellant's 1997 taxation year in which he claimed a loss arising from the retirement of what was documented as a loan to a company, Barker Terp Gibson Limited (which I will refer to as "Barker Limited"). In 1997, $41,480.00 was advanced to the company. The loan was forgiven as part of the same series of transactions that documented it as a loan.
+
+[2] That amount was asserted to be a capital loss that met the requirements of paragraph 39(1)(c) of the Income Tax Act (the "Act"), which defines a business investment loss from the disposition of any property. While that paragraph goes on to narrow its application to the loss from the disposition of certain types of capital property, namely a certain type of share or certain type of debt, the loss so defined must first be a capital loss as otherwise determined in respect of the disposition of any property regardless of whether or not it is a share or a debt. Further, for the capital loss otherwise determined to constitute a business investment loss, the disposition must be one to which subsection 50(1) applies unless it is a disposition to a non-arm's length person. In the case at bar it is not necessary to find that subsection 50(1) applies as the disposition in question in the subject year is to an arm's length person[1].
+
+[3] As to the type of property that can give rise to a business investment loss, subparagraphs 39(1)(c)(iii) and (iv) require that the property disposed of be a share in the capital stock of a small business corporation or be a debt owing to the taxpayer by a Canadian-controlled private corporation. The further requirements relating to the bankruptcy or winding-up of the debtor do not apply where the property disposed of is a debt owed to the taxpayer by a Canadian-controlled private corporation that is a small business corporation.
+
+[4] These are the relevant aspects of the definition of business investment loss as prescribed by paragraph 39(1)(c) which reads as follows:
+
+39(1) For the purposes of this Act,
+
+...
+
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+
+(i) to which subsection 50(1) applies, or
+
+(ii) to a person with whom the taxpayer was dealing at arm's length
+
+of any property that is
+
+(iii) a share of the capital stock of a small business corporation, or
+
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+
+(A) a small business corporation,
+
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+
+(C) a corporation referred to in section 6 of the Winding-up Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+
+...
+
+[5] The corporation, Barker Limited, is a Canadian-controlled private corporation, that is a small business corporation. That Barker Limited meets the requirements of these defined terms was not disputed by the Respondent. The issues identified by the assumptions in the Reply are whether there was a debt owing and if there was whether it was made for the purposes of gaining or producing income. The principal issue was acknowledged to be the purpose of the advance of the funds and the application of subparagraph 40(2)(g)(ii). That sub-paragraph provides that the taxpayer's loss will be treated as nil to the extent that the loss arises from the disposition of a debt or other right to receive an amount unless it was acquired for the purpose of gaining or producing income. If the property disposed of in the case at hand, is in fact a debt or other right to receive an amount acquired for a non-income earning purpose, subparagraph 40(2)(g)(ii) would be fatal to the Appellant's claim for either a capital loss or a business investment loss. In respect of the question as to whether the property disposed of was a debt or right, subject to this stop loss rule, I note that paragraph 7(h) of the Reply states an assumption as follows:
+
+(h) there was no debt owing to the Appellant by a Canadian controlled private corporation;
+
+[6] Since it is not an issue that Barker Limited was a Canadian-controlled private corporation, this assumption in the Reply confirms the Respondent's position that there was no debt in existence that could be disposed of at a loss. However, that there is no debt, a finding of fact that I will deal with later in these Reasons, does not necessarily mean that a capital loss, albeit not a business investment loss, has not been incurred. Notwithstanding this possibility, for the Respondent confirmed at the trial that it was the Respondent's position that neither a capital loss nor business investment loss had been incurred in the subject year in respect of any disposition of any property of the Appellant. In my view, a capital loss has been incurred and recognition of it is required.
+
+[7] The Appellant was a 50% shareholder in Barker Limited. Each shareholder guaranteed the company's line of credit and bore unlimited liability in respect of the indebtedness to the bank, although the Appellant's guarantee was only secured by a collateral mortgage for $25,000.00. The company was running into difficulty and was incurring losses. The bank line was not in immediate jeopardy but the Appellant, who was employed by the company, decided to call it quits. He needed out of his guarantee and wanted to dispose of his shares. It was acknowledged that the guarantee at this point in time had not been called.
+
+[8] The Appellant and the other 50% shareholder in Barker Limited entered into a purchase and sale agreement pursuant to which the Appellant sold his shares in Barker Limited for $1.00 and pursuant to which the Appellant contributed his share of the company's deficiency as a loan and forgiveness.
+
+[9] The accountant for Barker Limited, who testified along with the Appellant in this matter, did year-end financial statements for February 28, 1997, which would be the company's year-end on the sale of the Appellant's shares to the other 50% shareholder in this case. The previous year-end had been April 30 but the share sale effected a change of control on February 28 the effective date of the purchase of shares by the other 50% shareholder and that resulted in a change in year-end to February 28.
+
+[10] The financial statements were not prepared until the end of May, and the buyout price was determined in consultation with the accountants at that time. The purchase and sale agreement was not prepared until May although it was executed as of February 28, 1997. There was a deficiency or negative value attributable to the Appellant's interest of $41,480.00 calculated in respect of this buyout due to liabilities of the company and a deficiency of assets. The most substantial liability (about 85% of the total liability of the company) was the outstanding bank loan guaranteed by the Appellant. The parties agreed that the deficiency or negative value had to be accounted for. While there was no evidence that the Unanimous Shareholder's Agreement (terminated under the purchase and sale agreement) provided for this or that there was any other pre-existing written shareholder's agreement requiring such accounting, I accept that same was the implicit agreement of the parties as co-shareholders. It was an agreement between them necessitated by the departing shareholder's obligation under the guarantee and his need to be released from it. I accept that this was a mutual agreement.
+
+[11] While the written agreement documenting the sale of the shares did not refer to the release, there was correspondence from the bank in March and April of the subject year that confirms that the release had already been obtained before the agreement was written up in May. The bank provided the release in reliance on other guarantors (namely the other shareholder whose agreement was required by the bank before it would release the Appellant). I accept that the release was a precondition of the Appellant advancing and forgiving repayment of the subject $41,480.00 which he contributed to the company under the purchase and sale agreement. I further accept that the release would not have been given had not the Appellant accounted to Barker Limited for the negative value determined by its accountant. The release was conditional on the other shareholder's consent that was, in turn, conditional on the Appellant accounting for the deficiency. The guarantee pierced the corporate veil in favour of the bank and obtaining the release effectively pierced the veil in favour of the Appellant's co-shareholder. I accept that the mutual agreement that effectively pierced the veil as between shareholders created a deferred liability which was coupled to the deferred liability arising from the personal guarantees provided to the bank.
+
+[12] It seems clear then that the Appellant bought his full release from all deferred liabilities by contributing to the company his share of the negative value of the company. That is, he bought his release by contributing 50% of the deficiency which share was $41,480.00.[2]
+
+[13] While it is clear that the payment here was on account of a deferred liability or loan, it was described in the purchase and sale agreement as a loan or current advance to Barker Limited with an immediate forgiveness, presumably in the hope of getting the business investment loss treatment on its disposition. However, if the transaction was in fact a current advance (loan) then it could not be said to have been made for the purpose of gaining or producing income which in turn would mean that the disposition occurring on the forgiveness would be subject to the stop loss rule in subparagraph 40(2)(g)(iii).
+
+[14] As to whether or not there was a current debt owing to the Appellant as a result of the transaction as documented, I agree with the assumption in the Reply. There was no debt created.[3]
+
+[15] If there was no debt, the nature of the payment has to be ascertained. It is clear that the amount was paid by the Appellant to obtain the release under the guarantee. It was a payment arising primarily in respect of that deferred liability which was incurred by the Appellant in a prior year when an income earning purpose was not in question. A loss incurred in respect of such a deferred liability is a capital loss but not one included within the type of loss that qualifies for business investment loss treatment.
+
+[16] During argument in this matter, the Respondent's counsel referred me to the case of Easton v. R., 97 DTC 5464 (FCA). While the reason for her is providing me this case is unclear, I note that it makes reference to the case of M.N.R. v. Steer (1966), [1967] S.C.R. 34 (S.C.C.), wherein it was held that a guarantee given to a bank for a company's indebtedness by the taxpayer in consideration for shares in the company was to be treated as a deferred loan to the company and that monies paid to discharge the indebtedness were to be treated as a capital loss. Further, the general tenure of the Easton decision seems to me to be clear. Unreimbursed payments by shareholders in respect of payments arising from a guarantee, even voluntary payments, are presumed to be on capital account unless rebutted by facts that compel income treatment as opposed to capital treatment. A shareholder's guarantee of the corporation's liability is made to secure an enduring benefit in the form of dividends or an increase in value of the share. While the benefit relates to the shares, it is not sufficiently related to constitute a cost of the shares. The benefit is a distinct capital asset, and as underlined in the case at bar, has attached rights and liabilities that go beyond those attached to the shares themselves. Shares are a non-assessable interests. In the case at bar, the shareholders, aside from their interests in the shares, and in addition to the bank guarantees, have agreed to be assessable as between the two of them. Accordingly, there are rights and obligations between them that go beyond the rights that attach simply to their shares. The benefit derived from the guarantee and the assessable interest in the company might be reflected in rights assured under a Unanimous Shareholder's Agreement or otherwise. [4] In the case at bar, the purchase and sale agreement, pursuant to which the $41,480.00 was contributed, contains mutual releases of all such rights and obligations and from all manner of actions, causes, debts, claims and the like. There are indemnity and save harmless provisions that are redundant in the shareholder context alone. This, together with the termination of the Unanimous Shareholder's Agreement, evidences that there was another intangible property, a chose-in-action if you will, embodied in the co-shareholder arrangement in this case in respect of which consideration was required to be paid on its disposition. That bundle of mutual rights and obligations is "property" having, in this case, a negative value to each of the parties that have an interest in it. The shareholders have, as between them, looked through the corporate veil and created an interest, distinct from the shares, capable of alienation between them. The contribution to a deficit or to satisfy a deferred or contingent liability (arising primarily from the personal guarantees to the bank) is a cost of the disposition of this intangible property that gives rise to a loss pursuant to the calculations set out in subparagraph 40(1)(b)(i). That is, there is a disposition in this case of a capital property that requires a payment that gives rise to a loss under the Act. A building needing to be demolished can be sold by the vendor paying the purchaser to take it over. These are costs or outlays made for the purpose of making the disposition and form part of the loss calculated in subparagraph 40(1)(b)(i) which provides that the loss from the disposition of any property includes "any outlays and expenses incurred by the taxpayer for the purpose of making the disposition".
+
+[17] The Appellant was retiring from active involvement with Barker Limited. He was resigning as an employee and officer and director and sold his shares. He was obliged to pay the subject amount in order to walk from commitments that he made in a commercial context on capital account. These commitments constituted a deferred liability which had to be dealt with on withdrawing from all his interests in the company including disposing of his shares and related contractual interests. His related contractual interests are capital property and to the extent they have a negative value paid on disposition, such payment is a cost of sale. The negative value was a contingent liability that ceased to be contingent on the disassociation of the Appellant from Barker Limited. The cost of such a disassociation is on capital account and in this case gives rise to a capital loss of $41,480.00. To find otherwise, not to allow this capital loss, would be to say that this expenditure falls into the category of a "nothing" not recognized at all in our tax system. Yet, it is clearly not a personal expenditure. It is a cost clearly associated with the capital side of his investment in this company and as such he should not be denied recognition of a loss actually incurred.
+
+[18] I will make a few additional comments relating to one of the other cases referred to by Respondent's counsel, namely, The Cadillac Fairview Corporation Limited v. The Queen, 99 DTC 5121 (F.C.A.). In that case, a parent company made payments to the bank pursuant to a guarantee of its subsidiary's debt before there was a demand. As I understand the case, the bank required these payments as it would not consent to various proposals that would leave the loan balance unpaid and secured by other parties acquiring the subsidiary. This would suggest that the share purchase price would have been deflated to recognize the existence of the debt had the bank agreed to such proposals. Instead, it seems the bank required the loans to be retired which the parent did and the buyer then required the parent to waive or release any subrogated claims it had against the subsidiary arising from its payment of such liabilities of its subsidiary. The parent claimed a capital loss in respect of the amount paid to the bank and the Federal Court of Appeal found that no such loss existed. It seems that that finding was based on the finding in that case that the debt owing by the subsidiary to the parent arising from the parent's payment of the subsidiary's debts was not disposed of but rather enforcement rights were waived for valuable consideration. The extrication from a financial fiasco was the consideration and no loss should be recognized.
+
+[19] While Cadillac Fairview does stand for denying losses created by termination payments on account of contingent liabilities, caution should, in my view, be exercised in applying it where doing so denies recognition of actual outlays that enable the sale of a capital asset. Recognizing capital losses created by such outlays is a theoretically acceptable result and one permitted by subparagraph 40(1)(b)(i) which was not considered in Cadillac Fairview. On the facts of Cadillac Fairview, the sections of the Act relied on to claim the loss were found to not apply on their own terms. Further, Cadillac Fairview is distinguishable from the case at bar. In the case at bar, there is a distinct capital asset existent between two shareholders who as between them had set up a regime of rights and liabilities which were required to be disposed of on the sale of shares by one of them. This distinct capital asset was disposed of and the disposition required the incurrence of expenses which gave rise to a loss under subparagraph 40(1)(b)(i). In Cadillac Fairview there was a finding that there was unaccounted for consideration that offset any loss. In the case at bar, we have an existent contractual relationship between co-shareholders each with a contingent liability. There was consideration that passed between them on the termination of their contractual arrangements that offset except to the extent of the deficiency which was accounted for and was a cost of sale over and above the other consideration that flowed from the termination of the Appellant's interests in these contractual arrangements.
+
+[20] Accordingly, the appeal is allowed and is referred back to the Minister on the basis that a capital property has been disposed of and that outlays and expenses in the amount of $41,480.00, are to be recognized as outlays and expenses made or incurred by the Appellant for the purpose of making that disposition for the purposes of subparagraph 40(1)(b)(i). For greater certainty, I note that the loss so determined is not a business investment loss.
+
+Signed at Ottawa, Canada, this 2nd day of May 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-3141(IT)I
+
+STYLE OF CAUSE: Donald G. Barker and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: March 15, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge J.E. Hershfield
+
+DATE OF JUDGMENT: May 2, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Cary N. Selby
+
+Counsel for the Respondent: Andrea Jackett
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name:
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-3141(IT)I
+
+BETWEEN:
+
+DONALD G. BARKER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on March 15, 2002 at Toronto, Ontario, by
+
+the Honourable Judge J.E. Hershfield
+
+Appearances
+
+Agent for the Appellant: Cary N. Selby
+
+Counsel for the Respondent: Andrea Jackett
+
+JUDGMENT
+
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Ottawa, Canada, this 2nd day of May 2002.
+
+"J.E. Hershfield"
+
+J.T.C.C.
+
+[1] There was no evidence that the other 50% shareholder of Barker Limited was related to the Appellant and since the disposition prices here were determined in an arm's-length fashion, I have accepted that the transaction was at arm's-length. Further, the Reply does not assert that the transactions were not at arm's-length but it rather acknowledges that a small business investment loss was allowed in respect of the sale of shares of Barker Limited by the Appellant to the other shareholder. If the share sale was non arm's-length then there would be no business investment loss unless subsection 50(1) applied. Subsection 50(1) would not have applied in this case in respect of the share sale as the debtor did not meet any of the requirements of subparagraphs (i) through (iii) of paragraph 50(1)(b).
+
+[2] The bank indebtedness which was fully guaranteed by the Appellant was $97,589.00. Even if the Appellant had a right to be indemnified by the other shareholder as to half of this amount guaranteed by the Appellant, the Appellant's exposure was for the full $97,589.00 and this was the case regardless that the security actually pledged was only for $25,000.00. Obtaining full release of all obligations to the bank and his co-shareholder at the cost of $41,480.00 was clearly in the Appellant's interests and an obligation he had accepted when he provided the guarantee and agreed with his co-shareholder to account for deficits in Barker Limited.
+
+[3] That the agreement entered into effective February 28, 1997, dealing with the purchase and sale of the Appellant's shares in Barker Limited, describes the contribution of $4l,480.00 by the Appellant to the Corporation as an advance and forgiveness arguably supports an argument that form should govern over substance. On the other hand the assumption in the Reply is to be taken as true unless otherwise proved. The Appellant made no real attempt to disprove the assumption. In my view, the assumption effectively regards the so-call loan and forgiveness to be artificial. There was no genuine enforceable loan. It was a payment to exact a release from a deferred loan obligation created at an earlier point in time. If form prevails over substance, I might note parenthetically that, subject to a reorganisation of the classes of shares held as between the Appellant and the other shareholder, this payment could have been structured as a contribution of capital in respect of the shares held by the Appellant and in such case there would not only have been a capital loss on the disposition of the shares but that loss might have qualified as a business investment loss.
+
+[4] A copy of the Unanimous Shareholder's Agreement was not provided at the hearing but it is referred to and terminated in the purchase and sale agreement.
+

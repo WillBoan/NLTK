@@ -1,0 +1,332 @@
+Date: 19990609
+
+Docket: 98-201-IT-G
+
+BETWEEN:
+
+LOMAN WAREHOUSING LTD.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, J.T.C.C.
+
+[1] These appeals are from assessments for the appellant's 1994 and 1995 taxation years. The issue is the deductibility by the appellant of $2,306,163 in 1994 as a bad debt pursuant to clause 20(1)(p)(ii)(A) of the Income Tax Act. The 1995 assessment denying a loss carry-forward from 1994 is consequential upon the 1994 assessment.
+
+Introduction
+
+[2] The facts are somewhat complex. I shall try to simplify them. In brief, the appellant is one of a large number of companies controlled by Mr. and Mrs. Julian B. Smith (the "Smith Group" of companies). Rather than having each company borrow money from the bank they entered into a Mirror Netting Agreement ("MNA"), the purpose of which was to reduce administrative time and expense and reduce interest costs. Generally, the rate of interest that a bank pays to a customer on money deposited with it is lower than the rate it charges on money that it lends to that customer. Thus, if a customer of the bank owes $100,000 to the bank and pays interest at 6%, and has $40,000 on deposit on which it receives 4% the overall net borrowing cost ($6,000-$1,600=$4,400) is greater than it would be if the two accounts were combined ($60,000 x .06=$3,600). This, in somewhat simplistic terms, is the problem that the MNA, otherwise known as the "cash concentration agreement", was designed to alleviate.
+
+[3] The problem is easy to understand and its solution is apparent in the example that I gave above, where there is one bank customer with two accounts, one of which has a positive balance earning interest of 4% p.a. and one of which has an overdraft on which it pays 6% interest p.a. The obvious answer is to combine the accounts. Where, however, there is a proliferation of corporate entities in the same group, the problem is more complex and calls for a more sophisticated solution, unless, of course, one is prepared to amalgamate the corporations into one. This solution evidently did not commend itself to Mr. Smith. Hence, the MNA.
+
+Facts
+
+[4] I shall try to summarize the salient points of the agreed statement of facts and of Mr. Julian B. Smith's evidence.
+
+[5] The appellant's year-end was June 30, 1994. It was incorporated on June 30, 1992. On June 30, 1993 and June 30, 1994, Mr. Smith controlled a large complex of corporations, set out in schedules to the agreed statement. Among them were Continental Distributors Ltd., ("Continental") of which Mr. Smith owned 100% of the shares, and the appellant, of which he owned 70% of the shares through a numbered company.
+
+[6] Another company in the group was Crawford Warehouses Inc. ("CWI"). This company does not appear in the charts appended to the agreed statement, but in the agreed statement the parties have stipulated that CWI was part of the Smith Group and incorporated for the purpose of acquiring the assets of a warehousing company called Johnson Terminals. One of Johnson Terminals' largest clients was Procter & Gamble Inc. Procter & Gamble Inc. unexpectedly moved out after CWI acquired Johnson Terminals' assets, leaving CWI with a large and expensive vacant building. This gave rise to the financial difficulties of CWI that form the basis of the bad debt claim that is the subject of this appeal.
+
+The MNA
+
+[7] Since 1985, the Smith Group of companies has entered into a series of MNAs with Western & Pacific Bank of Canada (which appears to have changed its name at some point to Canadian Western Bank) ("Western"). The agreement that applies to these appeals was dated March 17, 1993. The agreement was between Western and 13 companies of the Smith Group, including Continental, CWI and the appellant, all described as "customers".
+
+[8] The agreement provided for three types of account:
+
+(a) designated accounts for each customer;
+
+(b) offset accounts for each designated account;
+
+(c) a pooled account, intended to be in the name of Continental, which was described as the "primary customer".
+
+[9] On April 20, 1993, Western offered to loan to Continental a total of $3,300,000 as an operating loan, a working capital loan and a lease facility. The loans were guaranteed by the other companies that were parties to the MNA of March 17, 1993.
+
+[10] Paragraphs 4, 5, 6, 7 and 8 of the MNA read as follows:
+
+4. PRIMARY DESIGNATED ACCOUNT:
+
+The Customers and the Bank agree that the Primary Customer shall designate an account as the "Primary Designated Account" on Schedule A hereto to which the Bank shall credit any amounts due to the Primary Customer by the Bank hereunder and from which the Bank shall debit any amounts due to the Bank by the Primary Customer hereunder.
+
+5. BALANCE CONSOLIDATION:
+
+At the close of business each day the Bank shall determine the daily finally adjusted closing balance of each Designated Account and shall transfer the balance of each such account, whether debit or credit, to the Pool Account by way of offsetting balances between the Designated Account, its applicable Offset Account and the Pool Account.
+
+6. CREDIT LIMITS:
+
+The Customer shall ensure that at all times the net debit balance in the Pool Account shall not exceed the Agreement Credit Limit as set out on Schedule A hereto and the Customers agree that the Bank may refuse to honour any drawing on a Designated Account which would cause the credit limit on that account as set out on Schedule A hereto to be exceeded or which would in the opinion of the Bank cause the Agreement Credit Limit as set out in Schedule A hereto to be exceeded.
+
+7. DEBIT BALANCES:
+
+If at any time the Pool Account reflects a net debit balance, the applicable amount shall constitute a liability of the Primary Customer and the Primary Customer shall pay the Bank interest thereon at the rate and on the terms set out on Schedule A hereto.
+
+8. OPERATION OF THE ACCOUNTS:
+
+(a) The Customer acknowledges that the transfer of the balances of the Designated Account by means of an Offset Account shall mean that no entries will be made by the Bank in respect of the said transfers in the account records of the applicable Designated Account and that the account records for each Designated Account will remain intact for record purposes only.
+
+(b) The Customer acknowledges that except as specified herein the Designated Accounts of the Customer shall continue to be operated as separate accounts of the Customer in accordance with the Bank's normal practice governing such accounts and that nothing contained in the Agreement shall affect any other agreements or arrangements between the Customers and the Bank or other rights which the Bank may have under law respecting loans, deposits or other banking matters.
+
+[11] Paragraphs 23 to 33 of the agreed statement set out clearly the way in which the MNA arrangement worked. No purpose would be served by my attempting to summarize in my own words the operation of the arrangement. It is sufficient to reproduce those paragraphs:
+
+23. Apart from any money advanced under the 1993 MNA or other similar Mirror Netting Agreements, from time to time certain companies in the Smith Group would advance funds to other companies in the Smith Group for specific purposes. This would result in each company having a net positive or negative balance within the Group (the "Non-Mirror Balances").
+
+24. In addition, each company in the Smith Group that was a party to a Mirror Netting Agreement would have a positive or negative balance in its Designated Account with Western at the end of every business day (the "Mirror Balances").
+
+25. By operation of the Mirror Netting Agreements (including the 1993 MNA) in place at relevant times, the Smith Group participated in a central banking arrangement. Under the arrangement, positive and negative balances were transferred from the Designated Account of each company in the Group by means of an Offset Account to a Pool Account at the close of every business day. Each company with a negative balance would have the use of the money in the Pool Account to reduce its negative balance to nil. If there were insufficient funds in the Pool Account to allow each negative company to reduce its negative account to nil, the Group would draw on its line of credit with Western to the extent necessary to reduce the negative accounts to nil.
+
+26. Under the Mirror Netting Agreements, the Smith Group agreed that the transfers of the balances from the Designated Accounts by the Offset Accounts to the Pool Account would not be recorded by Western in the Designated Accounts and that the records of the Designated Accounts would remain intact for record purposes only.
+
+27. The following charts illustrate a simple example of the operation of the 1993 MNA:
+
+creation of Designated Accounts under the 1993 MNA
+
+28. A Designated Account is created for each company as well as a Primary Designated Account for Continental. In Chart #1, Company A has 100 credit, Loman has a 200 credit, CWI is overdrawn by 200, Company D is overdrawn by 500 and Continental has a 1000 credit.
+
+Chart #1
+
+Smith Company
+
+Primary Designated Account
+
+Designated Account
+
+Offset Account
+
+Pool Account
+
++100
+
+Loman
+
++200
+
+CWI
+
+- 200
+
+- 500
+
+Continental
+
++1000
+
+transfer to Offset Accounts
+
+29. As shown in Chart #2, at the end of every business day money is either
+
+(a) taken from the Offset Account and deposited in the Designated Account, leaving a zero balance in the Designated Account and a negative balance in the Offset Account (see e.g. CWI and Company D); or
+
+(b) withdrawn from the Designated Account and deposited in the Offset Account, leaving a zero balance in the Designated Account and a positive balance in the Offset Account (see e.g. Company A, Loman and Continental):
+
+Chart #2
+
+Company
+
+Primary Designated Account
+
+Designated Account
+
+Offset Account
+
+Pool Account
+
++100
+
+- 100
+
++100
+
+Loman
+
++200
+
+- 200
+
++200
+
+CWI
+
+- 200
+
++200
+
+- 200
+
+- 500
+
++500
+
+- 500
+
+Continental
+
++1000
+
+- 1000
+
++1000
+
+transfer to Concentration Account
+
+30. As shown in Chart #3, simultaneously, the same process applies to the Offset Accounts to move the balance into the Pool Account:
+
+Chart #3
+
+Company
+
+Primary Designated Account
+
+Designated Account
+
+Offset Account
+
+Pool Account
+
++100
+
+- 100
+
++100
+
+- 100
+
++100
+
++200
+
+- 200
+
+- 500
+
++1000
+
++600
+
+Loman
+
++200
+
+- 200
+
++200
+
+- 200
+
+CWI
+
+- 200
+
++200
+
+- 200
+
++200
+
+- 500
+
++500
+
+- 500
+
++500
+
+Continental
+
++1000
+
+- 1000
+
++1000
+
+- 1000
+
+Total
+
+31. Western would pay interest on the positive balance in the Pool Account at the end of a particular business day (in this example, Western would pay interest on $600).
+
+32. If there were a negative balance in the Pool Account at the end of a particular business day, the Smith Group would be required to draw down an equal amount for that day from its line of credit with Western and use that amount to increase the negative Pool Account to nil. The Smith Group would then owe interest to Western on the amount drawn down on the line of credit for that day.
+
+33. For every month in a fiscal year, the practice of the Smith Group in respect of each company in the Group was to add the positive or negative Non-Mirror Balances to the positive or negative Mirror Balances to give a Net Loan Balance for that month. The Group would then charge an interest expense or accrue interest income to each member of the Group based on its Net Loan Balance for that month for that company. The Smith Group did not segregate the interest earned or paid on Non-Mirror Balances from interest earned or paid on Mirror Balances.
+
+[12] The result is that the overall borrowing costs of the group as a whole were lowered by, in effect, netting the positive and negative net loan balances in the individual designated account of each corporation that was a party to the MNA.
+
+[13] In the 1993 and 1994 taxation years, the appellant advanced through the pool account a total of $2,306,163 to CWI which, as noted above, was in financial difficulties as the result of the loss of its major tenant, Procter & Gamble Inc. Apparently, some part of this was advanced even after Procter & Gamble Inc. had moved out. One might wonder why the appellant would continue to advance money even after it knew that CWI was in trouble, but the decision was made that it would adversely affect the group as a whole if one member was allowed to go under. This was a business decision and it must be respected.
+
+[14] In 1993 and 1994, CWI paid the appellant interest of $42,543 and $182,749 respectively. CWI deducted the interest incurred on its net loan balances and the appellant included the interest earned on its net loan balances.
+
+[15] On June 30, 1994, the appellant demanded that CWI repay it $2,369,239. The amount was uncollectible in the appellant's 1994 taxation year and it was not repaid by CWI to the appellant. The appellant deducted $2,369,269 under paragraph 20(1)(p) of the Income Tax Act. It is conceded that the correct figure should have been $2,306,163.
+
+[16] The parties agree that the following are the issues to be decided:
+
+(i) was the advance of $2,306,163 from Loman to CWI referred to in paragraph 38 a "loan or lending asset" for purposes of subparagraph 20(1)(p)(ii) of the Income Tax Act (Canada) (the "Act")?
+
+(ii) if the advance was a loan or lending asset, did Loman's ordinary business include the lending of money?
+
+(iii) if the advance was a loan or lending asset and if Loman's ordinary business included the lending of money, did Loman make or acquire this particular loan or lending asset in the ordinary course of that business?
+
+[17] Paragraph 20(1)(p) of the Income Tax Act as it applied to 1994 read as follows:
+
+20. Deductions permitted in computing income from business or property
+
+(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+
+...
+
+(p) Bad debts
+
+the total of
+
+...
+
+(ii) all amounts each of which is that part of the amortized cost to the taxpayer at the end of the year of a loan or lending asset (other than a mark-to-market property, as defined in subsection 142.2(1)) that is established in the year by the taxpayer to have become uncollectible and that,
+
+(A) where the taxpayer is an insurer or a taxpayer whose ordinary business includes the lending of money, was made or acquired in the ordinary course of the taxpayer's business of insurance or the lending of money, or
+
+(B) where the taxpayer is a financial institution (as defined in subsection 142.2(1)) in the year, is a specified debt obligation (as defined in that subsection) of the taxpayer.
+
+[18] The appellant does not contend that the advance was a lending asset. Counsel argued that it was a loan. Moreover, the parties agree that the appellant's business was 100% warehousing and services related thereto and that at all relevant times the appellant was not in the money-lending business.
+
+[19] Notwithstanding the concession that the appellant was not in the money-lending business the appellant contends that its "ordinary business include[d] the lending of money" and that the loan was "made or acquired in the ordinary course of [its] business of ...the lending of money".
+
+[20] It is agreed that the amount became uncollectible in 1994. In Whitland Construction Company Limited v. The Queen, 99 DTC 33 Teskey J. set out the four elements that must be satisfied to permit deductibility under paragraph 20(1)(p). Only three of those elements are in issue here, uncollectibility being conceded.
+
+[21] Was the advance of $2,306,163 a loan? Counsel for the respondent contends that the advance was not a loan but rather an intercorporate advance. She points to the fact that there were no loan agreements, resolution, promissory notes or other security documents necessary to establish the existence of a loan in law as distinct from an accommodation between related entities.
+
+[22] I agree that a loan and an advance are not always the same thing but where an advance is made on the understanding of both parties that there is an obligation to repay it either on demand or at some predetermined date it becomes a loan. The absence of formal documentation is not fatal nor is the absence of a requirement to pay interest. Here, however the payment of interest reinforces the implicit obligation to repay the amounts and the practice of the companies in the group of repaying advances confirms that the amounts advanced between the parties to the MNA were loans.
+
+[23] Counsel referred to Andersen Inc. v. T.D. Bank, (1994) 14 B.L.R. (2d) 1 (Ont. C.A.). The case confirms the commercial authenticity of such mirror netting arrangements and the reality of the advances made between the companies. To this extent it provides some support for the appellant's position.
+
+[24] A more difficult question is whether the appellant's ordinary business included the lending of money. It is true that participation in an MNA was a business relationship, dictated by sound commercial reasons. Each party to the MNA that was in a credit position was obliged automatically to advance money to those that were in a debit position. In a sense, one could say that a taxpayer's banking arrangements as well as its administrative arrangements are necessary parts of the carrying on of its business. This is confirmed by such cases as Boulangerie St-Augustin Inc. v. The Queen, 95 DTC 164, aff'd 97 DTC 5012 (F.C.A.) or Beauchamp v. Woolworth Plc., [1990] 1 A.C. 478. (H.L.). Nonetheless, I should not have thought that the making of loans to other companies in a corporate group could be said to be a part of the ordinary business of a warehousing company. I say this for several reasons.
+
+[25] The expression "whose ordinary business includes the lending of money" requires a determination of just what the taxpayer's "ordinary business" is. The ordinary business of the appellant is warehousing, not lending money to other companies in the group. Some effect must be given to the word "ordinary". It implies that the business of lending money be one of the ways in which the company as an ordinary part of its business operations earns its income. It also implies that the lending of money be identifiable as a business. I agree that the participation in the MNA, in which a company in the group, depending upon whether on a given day it is in a credit or debit position, may loan or borrow funds is an incident of its business. The appellant's argument equates the words "whose ordinary business includes the lending of money" to the words "in whose business the lending of money is an incident." I do not think the two expressions cover the same territory.
+
+[26] This conclusion is reinforced by the concluding words of clause 20(1)(p)(ii)(A):
+
+...made or acquired in the ordinary course of the taxpayer's business of .... the lending of money.
+
+[27] It is admitted that the appellant was not in the money-lending business. How then can it be said that the lending of money was part of its ordinary business or, a fortiori, that the loans were made "in the ordinary course of the taxpayer's business of ... the lending of money".
+
+[28] The clear inference is that the taxpayer must be in the business of the lending of money. That is not a conclusion that on the evidence I can reach.
+
+[29] I am fortified in this view by the discussion by the Federal Court of Appeal in Bastion Management Limited v. The Queen, 95 DTC 5238, of the distinction between "in the ordinary course of the business" and "the ordinary course of business". At page 5242 Linden JA said:
+
+The phrase used is "in the ordinary course of the business," not "in the ordinary course of business." This means that the relevant business is that of the taxpayer, not of some abstract business organization. The words "the business", as used in paragraph 20(1)(gg), can logically refer only to the business of the taxpayer for which the clause is being used to calculate the income.
+
+[30] I note that in the predecessor to paragraph 20(1)(p) the phrase used is "in the ordinary course of business".
+
+[31] While the loan may arguably have been made "in the ordinary course of business", in the sense that the MNA was an incident of the appellant's business, it cannot be said that it was made in the ordinary course of the appellant's business of the lending of money. The appellant did not have such a business.
+
+[32] The appeals are dismissed with costs.
+
+Signed at Toronto, Canada, this 9th day of June 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

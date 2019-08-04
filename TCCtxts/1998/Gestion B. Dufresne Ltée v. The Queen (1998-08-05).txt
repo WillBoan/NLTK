@@ -1,0 +1,228 @@
+Date: 19980805
+
+Docket: 96-3882-IT-G
+
+BETWEEN:
+
+GESTION B. DUFRESNE LTÉE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Archambault, J.T.C.C.
+
+[1] Gestion B. Dufresne Ltée (“Gestion Dufresne”) is contesting a notice of assessment issued by the Minister of National Revenue (“the Minister”) for the 1991 taxation year. Under subsection 55(2) of the Income Tax Act (“the Act”), the Minister treated as a capital gain a dividend that Gestion Dufresne was deemed to have received on a share redemption. The Minister argues that the dividend was received as part of a series of transactions that resulted in a significant increase in the interest held in a corporation (Roger Grenier Inc. (“Grenier”)) by a person (Gestion G. Hamel Ltée (“Gestion Hamel”)) with whom the corporation that received the dividend (Gestion Dufresne) was dealing at arm’s length. Gestion Dufresne argues that it and Gestion Hamel were not dealing with each other at arm’s length and that subsection 55(2) of the Act is not applicable.
+
+[2] Gestion Dufresne also argues that the Minister could not make a reassessment beyond the normal three-year period and that it did not file a notice of waiver of the limitation period (the notice it filed related solely to 1990). The Minister argues that the notice of waiver actually related to 1991.
+
+Facts
+
+[3] The facts of this appeal are not really in dispute, and most of them have been admitted by counsel for Gestion Dufresne. At the close of its fiscal year ending on February 28, 1990, Gestion Dufresne owned 466 class A common shares (“466 shares”) in Grenier, which represented 70 percent of that class of shares. Bertrand Dufresne was Gestion Dufresne’s sole shareholder. Gestion Hamel owned the rest of the class A common shares in Grenier, or 30 percent of that class of shares. Gaston Hamel was Gestion Hamel’s sole shareholder. His spouse, Aline Desrochers, is the sister of Madeleine Desrochers, Bertrand Dufresne’s spouse.
+
+[4] During the 1989 and 1990 fiscal years, Grenier redeemed common shares owned by Gestion Dufresne: $100,000 worth in 1989 and $380,000 worth in 1990. On March 2, 1990, during the 1991 fiscal year, Grenier redeemed the remaining 466 shares owned by Gestion Dufresne for $450,000.
+
+[5] Since the paid-up capital and the adjusted cost base of the 466 shares were $1 each, Gestion Dufresne was deemed (under paragraph 84(3)(b) of the Act) to have received a dividend of $449,534 ($450,000 - $466) during the 1991 fiscal year.[1] Under subsection 112(1) of the Act, that amount was deductible in computing Gestion Dufresne’s taxable income. For the purposes of calculating the capital gain, the proceeds of disposition were deemed to be $466 under subparagraph 54(h)(i) of the Act, since the amount of the deemed dividend had to be subtracted from the proceeds of disposition otherwise determined. The amount of the capital gain was therefore nil, as the proceeds of disposition would in that case have been equal to the adjusted cost base.
+
+[6] Since the income earned after 1971 that was attributable to the 466 redeemed shares amounted to $364,942, one of the results of the redemption was to effect a significant reduction in the portion of the capital gain that Gestion Dufresne would have realized on a disposition of the 466 shares at fair market value immediately before the redemption and that could reasonably be considered to be attributable to anything other than income earned after 1971.
+
+[7] Before making a reassessment for 1991, the Minister’s auditor informed Gestion Dufresne’s representatives that he was going to apply subsection 55(2) of the Act and treat the dividend deemed to have been received on redemption of the 466 shares as a capital gain. On November 22, 1993, the representatives asked the auditor if they could submit comments to the Minister’s head office in Ottawa. Several months later, no decision had yet been made and the normal reassessment period was about to expire (on June 21, 1994). The auditor therefore asked Gestion Dufresne’s agent to file a notice of waiver of the limitation period.
+
+[8] On May 25, 1994, Gestion Dufresne filed a Form T2029 (Waiver in Respect of the Normal Reassessment Period) signed by Mr. Dufresne. It concerned “the application of section 55 to the transaction in which Roger Grenier Inc. redeemed shares held by Gestion B. Dufresne Inc. for $450,000”. The relevant taxation year indicated in the waiver was that ending on February 28, 1990. In his testimony, the Minister’s auditor maintained that the notice of waiver applied rather to the year ending on February 28, 1991. He could not have accepted a notice of waiver for 1990, since the limitation period for that year had already expired by that time.
+
+[9] On March 9, 1995, the Minister made a reassessment in which he added $337,151 to Gestion Dufresne’s taxable income, which amount represented the taxable portion of the capital gain of $449,534 (that is, three-quarters of the capital gain).
+
+Analysis
+
+Limitation
+
+[10] Under subsection 152(4) of the Act, it is clear that the notice of reassessment of March 9, 1995, was issued after the normal reassessment period. However, the Act sets out exceptions authorizing the Minister to make reassessments in such circumstances. One such exception is where a taxpayer has, within the normal reassessment period, filed a notice of waiver of the limitation period.
+
+[11] In this case, Gestion Dufresne gave the Minister within the normal reassessment period a notice of waiver in which it clearly stated that it was waiving the limitation period in respect of the application of section 55 to the redemption of the 466 shares. However, counsel for Gestion Dufresne argued that the notice of waiver is not valid since it refers to the 1990 taxation year. In his Notice of Appeal, counsel argued that a strict interpretation should prevail since Gestion Dufresne’s waiver was “solely for the taxation year ending on February 28, 1990, and not for the taxation year ending on February 28, 1991”. However, Gestion Dufresne did not adduce any evidence to support this allegation. In particular, Mr. Dufresne did not appear as a witness to swear that he had no intention of waiving the limitation period for 1991 when he signed the waiver of May 25, 1994.
+
+[12] Despite the arguments of counsel for Gestion Dufresne, I am convinced by the evidence adduced by the respondent establishing that Gestion Dufresne genuinely intended to waive the normal reassessment period for 1991. To begin with, 1991 is the only year in respect of which the Minister intended to apply section 55 of the Act. No mention was made of 1990 in the auditor’s discussions with Gestion Dufresne’s representatives. Moreover, Gestion Dufresne could not have mixed up 1990 and 1991, since the notice of waiver refers to a $450,000 share redemption. If Gestion Dufresne had really been concerned only with 1990, as its counsel argued, it would have stated that its waiver applied only to a $380,000 share redemption. It seems obvious to me that the reference to 1990 rather than 1991 in the notice of waiver was a careless mistake. I therefore conclude that the notice of waiver of May 25, 1994, is applicable to the 1991 taxation year and that the assessment was made within the time set out in the Act.
+
+Subsection 55(2)
+
+[13] The only problem raised by the application of subsection 55(2) of the Act relates to subparagraph 55(3)(a)(ii) of the Act. Were Gestion Dufresne and Gestion Hamel dealing with each other at arm’s length? The other conditions governing the application of this subparagraph and of subsection 55(2) are not in dispute.
+
+[14] Before setting out each party’s position, it would be helpful to reproduce the relevant portions of section 55 of the Act:
+
+55(2) Where a corporation resident in Canada has after April 21, 1980 received a taxable dividend in respect of which it is entitled to a deduction under subsection 112(1) or 138(6) as part of a transaction or event or a series of transactions or events . . . (or, in the case of a dividend under subsection 84(3), one of the results of which) was to effect a significant reduction in the portion of the capital gain that, but for the dividend, would have been realized on a disposition at fair market value of any share of capital stock immediately before the dividend and that could reasonably be considered to be attributable to anything other than income earned or realized by any corporation after 1971 and before the transaction or event or the commencement of the series of transactions or events referred to in paragraph (3)(a), notwithstanding any other section of this Act, the amount of the dividend . . .
+
+(a) shall be deemed not to be a dividend received by the corporation;
+
+(b) where a corporation has disposed of the share, shall be deemed to be proceeds of disposition of the share except to the extent that it is otherwise included in computing such proceeds; and
+
+. . .
+
+55(3) Subsection (2) does not apply to any dividend received by a corporation,
+
+(a) unless such dividend was received as part of a transaction or event or a series of transactions or events that resulted in
+
+(i) a disposition of any property to a person with whom that corporation was dealing at arm’s length, or
+
+(ii) a significant increase in the interest in any corporation of any person with whom the corporation that received the dividend was dealing at arm’s length;
+
+. . .
+
+55(5) For the purposes of this section,
+
+. . .
+
+(e) in determining whether two or more persons are dealing with each other at arm’s length, persons shall be deemed to be dealing with each other at arm’s length and not to be related to each other if one is the brother or sister of the other
+
+. . . .
+
+[Emphasis added.]
+
+[15] Sections 251 and 252 of the Act set out the general rules defining the circumstances in which persons are not “dealing with each other at arm’s length” or are “related persons”. The relevant provisions are as follows:
+
+251(1) For the purposes of this Act,
+
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+
+(b) it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm’s length.
+
+251(2) For the purpose of this Act “related persons”, or persons related to each other, are
+
+(a) individuals connected by blood relationship, marriage or adoption;
+
+. . .
+
+(c) any two corporations
+
+. . .
+
+(ii) if each of the corporations is controlled by one person and the person who controls one of the corporations is related to the person who controls the other corporation . . . .
+
+251(6) For the purposes of this Act,
+
+(a) persons are connected by blood relationship if one is the child or other descendant of the other or one is the brother or sister of the other;
+
+(b) persons are connected by marriage if one is married to the other or to a person who is so connected by blood relationship to the other . . . .
+
+252(2) In this Act, words referring to a parent of a taxpayer include a person whose child the taxpayer is, in the taxation year in respect of which the expression is being employed, within the meaning of subsection (1) or whose child the taxpayer had previously been within the meaning of paragraph (1)(b), and
+
+(a) “brother” includes brother-in-law . . .
+
+(d) “sister” includes sister-in-law.[2] [Emphasis added.]
+
+Positions of the parties
+
+[16] To determine whether Gestion Hamel and Gestion Dufresne were not dealing with each other at arm’s length for the purposes of section 55 of the Act, it is necessary to apply not only the general rules set out in sections 251 and 252 but also the special rule set out in paragraph 55(5)(e) of the Act, which deems two sisters not to be related to each other. Both parties are agreed on this approach. The fundamental difference between their respective positions lies in the scope to be given this presumption. The respondent argued that if two sisters are “deemed . . . not to be related to each other”, this also means that they must, in a manner of speaking, be treated as strangers; in more technical terms, it means that they are deemed no longer to be “connected by blood relationship”. Gestion Dufresne argued that the presumption in paragraph 55(5)(e) of the Act is limited strictly to the concept of “related persons” and does not have the effect of deeming two sisters not to be connected by blood relationship or, in other words, no longer to be sisters. Let us see how these two interpretations apply to the facts of this case.
+
+[17] Counsel for Gestion Dufresne argued that determining whether a non-arm’s-length relationship exists is a three-step process. First, it must be determined whether the persons concerned are connected by blood relationship or marriage. Second, it must be determined whether those persons are related. Third, it must be determined whether they are dealing with each other at arm’s length. This interpretation is based on the fact that the Act defines three quite separate concepts: (i) persons connected by blood relationship or marriage; (ii) related persons; and (iii) persons not dealing with each other at arm’s length.
+
+[18] Counsel for Gestion Dufresne took the following approach in reaching the conclusion that Gestion Hamel and Gestion Dufresne are not dealing with each other at arm’s length. The first step is to determine whether Mr. Dufresne and Mr. Hamel are connected by blood relationship or marriage. Since Mr. Hamel is Mrs. Dufresne’s brother-in-law, he is deemed to be her brother (paragraph 252(2)(a) of the Act). Since they are deemed to be brother and sister, they are also deemed to be connected by blood relationship (paragraph 251(6)(a) of the Act). Finally, since Mr. Dufresne is married to Mrs. Dufresne, who is deemed to be connected to Mr. Hamel by blood relationship, Mr. Dufresne is connected to Mr. Hamel by marriage (paragraph 251(6)(b) of the Act). Of course, the same analysis could be done from Mr. Hamel’s standpoint, since he is married to Mrs. Hamel, who is deemed to be Mr. Dufresne’s sister.
+
+[19] Counsel for Gestion Dufresne noted that the concept of “related persons” as defined in subsection 251(2) of the Act did not have to be relied on in order to reach this conclusion. The presumption in paragraph 55(5)(e) of the Act, pursuant to which Mrs. Hamel and Mrs. Dufresne are deemed not to be related to each other, is therefore not applicable to this case.
+
+[20] Having determined that Mr. Dufresne and Mr. Hamel are connected by marriage, the second step is to determine whether they are related persons. Under paragraph 251(2)(a) of the Act, individuals connected by marriage are related persons. Mr. Dufresne and Mr. Hamel are therefore related persons. The presumption in paragraph 55(5)(e) of the Act is not applicable here, not because they are not deemed to be brothers but rather because they are deemed to be individuals connected by marriage.
+
+[21] The third step is to determine whether Gestion Dufresne and Gestion Hamel are dealing with each other at arm’s length, which is easily done. Since the former is controlled by Mr. Dufresne, who is related to Mr. Hamel, and since Mr. Hamel controls Gestion Hamel, the two corporations are related under subparagraph 251(2)(c)(ii) of the Act and are therefore not dealing with each other at arm’s length under paragraph 251(1)(a) of the Act. Subsection 55(2) of the Act therefore does not apply to the redemption of the 466 shares.
+
+[22] In support of this strict interpretation he has adopted, counsel for Gestion Dufresne argued that if Parliament had intended that subsection 55(2) of the Act should apply in circumstances such as those of this appeal, brothers and sisters would have had to be deemed by paragraph 55(5)(e) of the Act not to be connected by blood relationship. If that had been the case, a connection by marriage could not have been established between Mr. Dufresne and Mr. Hamel, since Mr. Dufresne would not have been married “to a person [Mrs. Dufresne] who is so connected by blood relationship to the other [Mr. Hamel]” (paragraph 251(6)(b) of the Act). Even if Mr. Hamel had been deemed to be Mrs. Dufresne’s brother because he is her brother-in-law and the term “brother” includes “brother-in-law”, they would have been deemed by paragraph 55(5)(e) of the Act not only not to be related persons but also not to be connected by blood relationship.
+
+[23] According to the analysis used by the respondent in determining that Gestion Hamel and Gestion Dufresne were not dealing with each other at arm’s length, a broader scope must be given to the presumption in paragraph 55(5)(e) of the Act. When two sisters are deemed not to be related to each other, this means that they also cease to be connected by blood relationship, and their respective spouses can therefore no longer be connected by marriage. Mr. Hamel can no longer be Mrs. Dufresne’s brother-in-law, as it were. Thus, Mr. Hamel can no longer be married to “a person [Mrs. Hamel] who is so connected by blood relationship to the other [Mr. Dufresne]” (paragraph 251(6)(b) of the Act). Accordingly, if Mr. Hamel and Mr. Dufresne cannot be connected by marriage, they cannot be related to each other. This means that their management companies cannot be related either and must be dealing with each other at arm’s length.
+
+The proper interpretation
+
+[24] At first glance, I think that the positions put forward by the parties in this case can be equally persuasive. I would add that Gestion Dufresne’s position even struck me as more persuasive at first. It is true that paragraph 55(5)(e) of the Act contains two presumptions: first, the presumption that persons are dealing with each other at arm’s length, and second, the presumption that they are not related to each other. There is no presumption that they are not “connected by blood relationship”.
+
+[25] When a statutory provision seeks to create a legal fiction, it is important that the scope of the fiction be clearly specified. There are many illustrations of this in the Act. For example, in paragraph 55(5)(e) of the Act, Parliament did not merely provide that two sisters are deemed not to be related to each other; it also considered it necessary to add that they are deemed to be dealing with each other at arm’s length. The purpose of this was probably to ensure that the following argument would not be made: even if two sisters are deemed not to be related — which means that they cannot be deemed to have a non-arm’s-length relationship — it can still be argued that in factual terms they are not dealing with each other at arm’s length and that this affects the determination of whether, for the purposes of subparagraph 55(3)(a)(ii) of the Act, the corporation that received the dividend and the person whose interest in a corporation was significantly increased were dealing with each other at arm’s length.
+
+[26] As counsel for Gestion Dufresne noted, it can be shown that persons are connected by marriage or blood relationship under subsection 251(6) of the Act without there being any need to refer to the concept of “related persons”. For example, paragraph 251(6)(a) provides that persons are connected by blood relationship if one is the brother or sister of the other. Regardless of whether or not the Desrochers sisters are deemed not to be related to each other for the purposes of the Act, they are in fact still sisters. If Parliament wanted to change that fact for the purposes of a statute and to create a legal fiction, it was important that it be quite clear as to the scope of the fiction. Gestion Dufresne argued that the fact that persons are deemed not to be related does not necessarily mean they are no longer connected by blood relationship.
+
+[27] The Minister’s position is just as persuasive. If Parliament took the trouble to adopt a rule under which two sisters are deemed not to be related to each other, that rule must be given its full effect. In this spirit, the relationship between Mr. Hamel and Mr. Dufresne must be determined on the assumption that their spouses are strangers to each other. Based on this assumption, the wives’ husbands can no longer be brothers-in-law (in relation to the wives). From a more technical point of view, the terms “related persons” and “persons related to each other” are defined as persons connected by blood relationship (see paragraph 251(2)(a) of the Act). When persons are deemed not to be related to each other, this also means that they are deemed not to be connected by blood relationship.
+
+[28] Which interpretation should be accepted? In my opinion, this depends on the answer to the following question: which of the two interpretations is more consistent with Parliament’s purpose in enacting subsections 55(2) et seq. of the Act in 1981? This approach is the one taken by Cartwright J. in Highway Sawmills Ltd. v. M.N.R., 66 DTC 5116, in which he stated the following at p. 5120:
+
+The answer to the question what tax is payable in any given circumstances depends, of course, upon the words of the legislation imposing it. Where the meaning of those words is difficult to ascertain it may be of assistance to consider which of two constructions contended for brings about a result which conforms to the apparent scheme of the legislation.
+
+See also Cree Enterprises Ltd. v. M.N.R., 66 DTC 5158, and Trans-Canada Investment Corp. Ltd. v. M.N.R., 53 DTC 1227, aff’d [1956] S.C.R. 49, 55 DTC 1191.
+
+[29] It is clear from the wording of section 55 of the Act, as it applies to the facts of this appeal, that Parliament wanted to prevent a taxpayer from being able — in a broad sense — to “indirectly transfer” an interest in a corporation (“the transferred corporation”) to third parties with whom the taxpayer is dealing at arm’s length (“third parties”) without realizing a taxable capital gain. Subsection 55(2) of the Act ensures that the non-taxable dividend the taxpayer receives instead of a capital gain is still treated as a capital gain.
+
+[30] On certain conditions, the transfer can be made tax-free if it is in favour of certain persons with whom the taxpayer is not dealing at arm’s length (“closely related persons”). For example, if the taxpayer is a corporation owned by a father and the interest in the transferred corporation is transferred to his child, subsection 55(2) of the Act does not apply. The result would be the same if, in the scenario I have just outlined, the father were replaced with a husband and the child with that husband’s wife. Subsection 55(2) of the Act would likewise not apply to a transfer within a group of corporations controlled by one individual.
+
+[31] It is clear by virtue of paragraph 55(5)(e) of the Act that brothers and sisters, and by virtue of subsection 252(2) of the Act that close brothers-in-law and close sisters-in-law, are deemed not to be related to each other. The effect of this rule is thus to include such persons (who in the absence of paragraph 55(5)(e) would have been related persons) in the category of third parties, and to exclude them from the category of closely related persons.
+
+[32] It now remains to be determined in which of these two categories distant brothers-in-law and distant sisters-in-law should be placed. If the interpretation suggested by Gestion Dufresne is accepted, distant brothers-in-law — and distant sisters-in-law — would be related persons to whom paragraph 55(5)(e) would not apply and they would therefore fall into the category of closely related persons. Is this outcome consistent with Parliament’s intent? I do not think so. Why would subsection 55(2) of the Act apply to a transfer to third parties, brothers and close brothers-in-law but not to a transfer to distant brothers-in-law? Why would distant brothers-in-law receive greater tax advantages than brothers or close brothers-in-law? It makes no sense. The relationship between distant brothers-in-law is generally more like a relationship between third parties than between closely related persons. I see no reason why distant brothers-in-law should receive more advantageous treatment than brothers in the application of subsection 55(2) of the Act. The Minister’s interpretation is therefore more consistent with the purpose of the Act, while Gestion Dufresne’s interpretation leads, in my opinion, to absurd results incompatible with that purpose.
+
+[33] Counsel for the Minister also argued that adopting Gestion Dufresne’s interpretation could open the door to some kinds of planning designed to avoid the application of subsection 55(2) of the Act. For example, if a man controlled one management company and his brother controlled another, the brothers could transfer their shares to their spouses (distant sisters-in-law in relation to each other) and we would be in the same situation as in the case at bar. Would such planning be covered by anti-avoidance rules, such as section 245 of the Act? I do not have to decide that question. However, it is an additional reason to accept the Minister’s interpretation in the case at bar.
+
+[34] Even if I were wrong in accepting the Minister’s interpretation of the scope of the presumption in paragraph 55(5)(e) of the Act, there is another reason why I could find subsection 55(2) of the Act to be applicable. As I pointed out in note 2 above, the word “brother-in-law” can have two meanings: a narrow meaning, which applies only to a close brother-in-law, and a broad meaning, which also applies to a distant brother-in-law. If the broad meaning of the word “brother-in-law” were adopted, Mr. Hamel and Mr. Dufresne would be considered brothers-in-law and would thus be deemed to be brothers. As such, they would be deemed not to be related persons, which would mean that the two management companies could not have a non-arm’s length relationship.[4]
+
+[35] I should point out that this interpretation would be contrary not only to that put forward by counsel for Gestion Dufresne in his argument but also to the interpretation of counsel for the Minister, who defended the position set out in Interpretation Bulletin IT-419, dated July 10, 1978, in which the Minister adopted the narrow meaning of the word “brother-in-law”. Paragraph 5 of Bulletin IT-419 read as follows:
+
+5. Paragraph 252(2)(a) states that “brother” includes “brother-in-law”, ie. the brother of one’s spouse or the husband of one’s sister. It does not include the husband of one’s spouse’s sister. Similarly, paragraph 252(2)(d) states that “sister” includes “sister-in-law”, ie. the sister of one’s spouse or the wife of one’s brother. It does not include the wife of one’s spouse’s brother. Thus, if Mr. A and Mr. B are otherwise unrelated, and they have each married one of a pair of sisters, they are not related by blood pursuant to paragraph 251(6)(a). Similarly, if Mr. A and Mrs. B are brother and sister Mrs. A and Mr. B are not related by blood.
+
+[36] Counsel for Gestion Dufresne cited a number of decisions acknowledging that an interpretation bulletin can have some persuasive force where there is an ambiguity in the application of a statute. In Mattabi Mines Ltd. v. Ont. (Min. of Revenue), [1988] 2 S.C.R. 175, Wilson J. stated the following at p. 196:
+
+. . . Interpretation Bulletins, however, do have some persuasive force where there is an ambiguity in the legislation.
+
+In another decision by the Supreme Court of Canada, Nowegijick v. The Queen, [1983] 1 S.C.R. 29, Dickson J. stated the following at p. 37:
+
+Administrative policy and interpretation are not determinative but are entitled to weight and can be an “important factor” in case of doubt about the meaning of legislation . . . .
+
+[37] In my view, if it were necessary to adopt the broad meaning of the term “brother-in-law” in order to be consistent with Parliament’s intent in subsection 55(2) and paragraph 55(5)(e) of the Act, I would do so. I consider this factor much more important than that of administrative interpretation.
+
+[38] I accordingly conclude that Mr. Dufresne and Mr. Hamel are not related and that since Gestion Hamel and Gestion Dufresne are therefore not related they were dealing with each other at arm’s length. Subsection 55(2) of the Act applies to the redemption of the 466 shares.
+
+[39] For these reasons, Gestion Dufresne’s appeal is dismissed and the notice of assessment is confirmed, the whole with costs to the Minister.
+
+Signed at Ottawa, Canada, this 5th day of August 1998.
+
+“Pierre Archambault”
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this day of September 1998.
+
+Erich Klein, Revisor
+
+[1] This tax treatment does not take account of subsection 55(2) of the Act.
+
+[2] The Act does not define the terms “brother-in-law” and “sister-in-law”. The Petit Robert defines “beau-frère” (brother-in-law) as follows:
+
+[translation]
+
+1. Spouse’s brother, to the other spouse. 2. Husband of a person’s sister or sister-in-law.
+
+Moreover, the Shorter Oxford Dictionary defines “brother-in-law” as follows:
+
+The brother of one’s husband or wife, the husband of one’s sister. Occas., the husband of one’s wife’s (or husband’s) sister.
+
+It can thus be seen that the word “brother-in-law” has two possible meanings. As applied to the facts of this appeal, the first meaning, which might be called the narrow meaning, would make Mr. Dufresne only Mrs. Hamel’s brother-in-law and Mr. Hamel only Mrs. Dufresne’s brother-in-law. Mr. Dufresne would not be Mr. Hamel’s brother-in-law. To refer in these reasons to a brother-in-law or sister-in-law in this narrow sense, I will use the terms “brother-in-law”, “sister-in-law”, “close brother-in-law” and “close sister-in-law”. In the broader sense of the term, Mr. Hamel could be the brother-in-law of both Mr. and Mrs. Dufresne. Based on this meaning, Mr. Dufresne would be Mr. Hamel’s brother-in-law. In these reasons, I will use the terms “distant brother-in-law” and “distant sister-in-law” to refer to a brother-in-law or sister-in-law who would not qualify as such according to the narrow meaning of these terms (here, Mr. Hamel and Mr. Dufresne).
+
+It should be noted that subsection 252(2) was amended by S.C. 1993, c. 24, s. 140(1) (applicable after 1992). It is now clear that the Act applies only to close brothers-in-law and sisters-in-law. Since that date, paragraphs 252(b) and (c) have read as follows:
+
+252(2) In this Act, words referring to
+
+. . .
+
+(b) a brother of a taxpayer include a person who is
+
+(i) the brother of the taxpayer’s spouse, or
+
+(ii) the spouse of the taxpayer’s sister;
+
+(c) a sister of a taxpayer include a person who is
+
+(i) the sister of the taxpayer’s spouse, or
+
+(ii) the spouse of the taxpayer’s brother . . . .
+
+[3] Gestion Dufresne did not argue that it and Gestion Hamel had a factual non-arm’s length relationship, nor did the evidence disclose facts showing such a relationship. It is also worth noting that an amendment to paragraph 55(3)(a) of the Act that applies to dividends received after February 21, 1994, has replaced the “arm’s length” test with the “related” persons test.
+
+[4] Aside, of course, from the possibility that in factual terms they are not dealing with each other at arm’s length (paragraph 251(1)(b) of the Act).
+

@@ -1,0 +1,274 @@
+Date: 20010814
+
+Docket: 2001-400-IT-I
+
+BETWEEN:
+
+JOHN DUNFIELD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+ISSUE:
+
+[1] The issue is whether the Appellant is entitled to deduct the amount of $3,600 paid as "child maintenance" in calculating his income for the 1998 taxation year.
+
+GENERAL:
+
+[2] All section references relate to the Income Tax Act ("Act") unless otherwise stated.
+
+FACTS:
+
+[3] The Appellant, John Dunfield ("Dunfield"), and Shelley Davies ("Davies") are the biological parents of Sydney Elizabeth Grace Davies, who was born on July 3, 1996. They have never been married and they have never cohabited in a conjugal relationship, always having retained separate residences. On September 19, 1996, the Appellant executed a document between himself and Davies entitled "Parenting Agreement" ("Agreement"). Davies executed the Agreement on October 4, 1996. It provided for the payment of child maintenance in the amount of $200 per month commencing September 1, 1996 through to and including February 1, 1997 and the sum of $300 per month commencing March 1, 1997 and continuing until and including March 1, 2000.
+
+[4] The Appellant, in his 1998 income tax return, claimed a deduction in the amount of $3,600. Upon the Minister of National Revenue ("Minister") disallowing this deduction and the Appellant having filed a Notice of Objection, all in December, 1999, the Appellant applied to The Queen's Bench (Family Division), Brandon Centre ("Queen's Bench")[1]. On May 8, 2000 it issued the following Consent Order ("Order") with respect to the Agreement:
+
+The Agreement between the Parties, dated October 4, 1996 is hereby declared to be an Order of this court effective the date upon which the Agreement was entered, October 4, 1996, and that it be held to be of the same force and effect as if originally entered pursuant to Court Order in accordance with section 60(c) of the Income Tax Act as it was then written, and that the payment of child support of $200.00 per month commencing September 1, 1996 through to and including February 1, 1997 and the sum of $300.00 per month commencing March 1, 1997 and continuing until and including March 1, 2000, is declared to be made in accordance with this section and subject to the income inclusion and deduction provisions of the Income Tax Act in force at that time.
+
+APPELLANT'S SUBMISSIONS:
+
+[5] Appellant's counsel submitted that the Agreement clearly intended that the payments be deductible by the Appellant and taxable to the recipient. She submitted that the Order was made by a court of competent jurisdiction in accordance with the laws of Manitoba and that it deemed the Agreement to be an order of the Queen's Bench effective the date of its execution, October 4, 1996. She then said that the payments in 1998 were deductible pursuant to the provisions of paragraph 60(c), which, she stated, provided that support payments made pursuant to an order of a competent tribunal were deductible by the payor and taxable to the recipient. Counsel said that the Order
+
+... effectively and retroactively declares the payments made to be pursuant to a court order from the date of the agreement forward.
+
+RESPONDENT'S SUBMISSIONS:
+
+[6] Respondent's counsel submitted that the amount was not deductible pursuant to paragraph 60(b) of the Act. It reads as follows:
+
+(b) support - the total of all amounts each of which is an amount determined by the formula
+
+A - (B+C)
+
+where
+
+A is the total of all amounts each of which is a support payment paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxpayer year;
+
+[7] She argued that it provided for the deduction of support as determined by the formula A - (B+C). She said that A was the total of all support amounts paid after 1996, B was the total of all child support amounts paid after the commencement day and C was the total of support amounts paid after 1996 that were deductible in a preceding taxation year. She stated that the payments do not come within the definition of "support amount" in section 56.1(4)[2] as the amounts were not receivable under an order made by a competent tribunal in accordance with the laws of a province as required by paragraph (b) of the definition. She submitted that for the purpose of the above formula the amounts are nil for each of A, B and C, and that there was no amount which the Appellant was entitled to deduct in 1998.
+
+[8] Counsel then submitted, in the alternative, that if the amounts fell within the definition of "support amount" in subsection 56.1(4) they would also fall within the definition of "child support amount" in subsection 56.1(4). She said that in the equation in paragraph 60(b) the child support amounts would be subtracted from the total of support amounts with the result that they would not be deductible.
+
+[9] Counsel also argued that the Order did
+
+not accomplish the intended effect of retroactively deeming the payment to have been received under an order made in accordance with former paragraph 60(c),
+
+and that the Appellant was not entitled to a deduction in the 1998 taxation year.
+
+[10] She submitted further that the definition of "commencement day" in subsection 56.1(4) specifically provided that the "commencement day" of an order made after April 1997 is the day it is made. She said that the definition of "commencement day" therefore precluded a finding that the Order was made on October 4, 1996 or at any time other than May 8, 2000. She concluded this portion of her submission by saying that there was no mechanism in the definition of "commencement day" for deeming an order to be made at any other time.
+
+[11] Further, counsel submitted that subsection 60.1(3) specifically contemplated and provided for retroactive recognition of prior payments and that because the amounts deducted by the Appellant did not fall within the description in that provision, no retroactive recognition of those payments could be made.
+
+ANALYSIS AND CONCLUSION:
+
+[12] The legislation in this area of tax law was, before the 1997 amendments, complex and bewildering to those unfortunately clutched by its talons. Now, it is almost incomprehensible. Planned legislative abstruseness could not have ascended the Olympian heights scaled by both the substantive and implementing provisions respecting the income inclusion and deduction of maintenance payments. The Minister, for some unexplained reason, decided to and did, reassess the Appellant disallowing the deduction claimed in 1998 without having reassessed Davies to include the $3,600 in her income.[3] Assuming that Davies would be reassessed to remove the payments from her income if the Appellant loses this appeal, this appears to have been done with no increase to the fiscus but because of an ungenerous approach to the application of rules while ignoring the reparation steps taken. Thousands of taxpayers are affected by this maze of legislative pitfalls. Many of them, for economic reasons, are obliged to represent themselves in court. What chance do they have of making any sense of these provisions when lawyers and judges are driven to the wall in their attempts to understand and apply them? The agonies of domestic combatant strife are debilitating and depressing. No one in that position needs a torpefying journey through this legislative labyrinth.
+
+[13] The Appellant relied upon a combination of paragraph 60(c) of the Act and the court Order as entitling him to the deduction. That paragraph reads as follows:
+
+There may be deducted in computing a taxpayer's income for a taxation year ... an amount paid by the taxpayer in the taxation year as an allowance payable on a periodic basis for the maintenance of the recipient, children, of the recipient or both recipient and the children if
+
+(i) at the time the amount was paid and throughout the remainder of the year the taxpayer was living separate and apart from the recipient,
+
+(ii) the taxpayer is the natural parent of a child of the recipient, and
+
+(iii) the amount was received under an order made by a competent tribunal in accordance with the laws of a province.
+
+He cannot succeed on that basis because paragraph 60(c) was replaced before 1998. Sections 10(1) and 10(2) of the Income Tax Budget Amendments Act, 1996 provided:
+
+10(1) Paragraphs 60(b) and (c) of the Act are replaced by:
+
+paragraph 60(b) above.
+
+10(2) Subsection (1) applies to amounts received after 1996.[4]
+
+[14] By virtue of paragraph 60(b), the amount deductible is equal to the cumulative sum of all support amounts paid after 1996 minus the total of the child support payments that became payable after the commencement date and all support amounts made after 1996 that were deductible in years prior to the relevant taxation year.
+
+[15] The expression "child support amount" is defined in subsection 56.1(4) of the Act as follows:
+
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or former spouse of the payer or who is a parent of a child of whom the payer is a natural parent.
+
+[emphasis added]
+
+[16] The term "support amount" is found in the same subsection and reads, in part, as follows:
+
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+
+...
+
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+[17] Accordingly, in order to be a "support amount" and, therefore, a "child support amount", the payment must be "receivable under an order made by a competent tribunal in accordance with the laws of" Manitoba. The question is whether the payment of $3,600 was so made. When paid in 1998, before issue of the Order, such payments, having been made pursuant to the Agreement, were not made under an order of a competent tribunal.
+
+[18] This leads us to the examination of the effect of the May 8, 2000 Order.
+
+[19] The Dale v. Canada, (1997) 51 DTC 5252 decision of the Federal Court of Appeal is a leading authority on the issue of the impact of retroactive superior court decisions on tax matters. Robertson J.A., at 5255, stated the law on the matter as follows:
+
+As a matter of law both the Tax Court and this Court are required to give effect to orders issued by the superior courts of the provinces.
+
+...
+
+In determining whether a legal transaction will be recognized for tax purposes one must turn to the law as found in the jurisdiction in which the transaction is consummated. ... As for the Minister, he must accept the legal results which flow from the proper application of common law and equitable principles, as well as the interpretation of legislative provisions. This leads me to the question of whether the Minister is bound by an order issued by a superior court, which order has its origins in the interpretation and application of the provisions of a provincial statute.
+
+In the court below, the Minister argued that the order of the Nova Scotia Supreme Court might be binding as between the taxpayers and the Dale Corporation but not on him. Judge Bowman rejected that argument, and in my opinion rightly so...
+
+[20] Robertson J.A. further referred to principles expressed in the Supreme Court of Canada case of Wilson v. The Queen, [1983] 2 S.C.R. 594 and said, at 5256:
+
+The first principle is that the record of a superior court is to be treated as "absolute verity so long as it stands unreversed" (per McIntyre J. at 599, quoting Monnin J.A. in the Manitoba Court of Appeal). Second, an order which has not been set aside must receive full effect according to its terms (at 604). Third, the order is binding on all the world (at 601, citing Bird J.A. in Canadian Transport Co. v. Alsbury (1952), [1953] 1 D.L.R. 385 (B.C. C.A.) (B.C.C.A.) at 418). Fourth, a collateral attack is deemed to include proceedings other than those whose specific object is to effect a reversal or nullification of the order. At page 599 McIntyre held as follows:
+
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed. It is also well settled in the authorities that such an order may not be attacked collaterally - and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment.
+
+[21] Finally, Robertson J.A. made the following observations:
+
+Rarely are guiding rules or principles expressed as absolutes and so it is proper to ask whether the prohibition against collateral attacks is subject to exceptions. ... I need only address the Minister's "jurisdictional" attack. As I understand it, the Minister's position is that a court order which has the effect of rewriting fiscal history is not binding on him. Based on the existing authorities, he posits that a court order cannot create a state of affairs in an earlier year that did not in fact exist.
+
+It seems only logical that a court would decline the invitation to grant a retroactive order which has the clear legal effect of rewriting fiscal history. Assuming that such an order were granted then it would be proper to ask whether the Minister is entitled to ignore it for taxation purposes. One might be tempted to permit an attack on the ground of fiscal revisionism where it could be shown that the order was obtained by non-disclosure or misrepresentation. More likely than not revisionist orders will be obtained on consent, or in circumstances where it is likely that the tax ramifications of the order were not placed squarely before the judge, or where the judge was obviously sympathetic to the taxpayer's situation. There are two reported tax cases decided prior to Wilson which aptly illustrate the judicial sympathy scenario: see Bentley v. Minister of National Revenue (1954), 54 D.T.C. 510 (T.A.B.) and Hobbs v. Minister of National Revenue, (1970), 70 D.T.C. 1744 (T.A.B.). In both cases it is obvious that there was no legal foundation, statutory or otherwise, for making the retroactive orders requested. Assuming without deciding that those decisions come within the exceptional category recognized in Wilson, they are readily distinguishable from the case under appeal.
+
+[22] Further, in A.G. Canada v. Juliar, 2000 DTC 6589 (Ont. C.A.) retroactive rectification was granted to achieve reversal of unintended tax consequences.
+
+[23] It is obvious from Dale and Sussex Square Apartments v. The Queen, 2000 DTC 6548, that courts with jurisdiction in federal tax matters have given effect to such rectification orders made by provincial courts
+
+[24] It seems clear, from studying the Order, that the tax consequences were apparent to the judge, thereby weakening any suggested attack on the basis of "fiscal revisionism". The concept of "fiscal revisionism" cannot be applied to the Appellant who, in 1996, sought to ensure deductibility, then and for subsequent years.
+
+[25] Based upon the foregoing authorities, with particular reference to the principles enunciated in Dale, I conclude that the order of Mykle, J. of the Queen's Bench was made under the Manitoba Family Maintenance Act by a "competent tribunal". That Act describes "court" as the Manitoba Court of Queen's Bench. The consent Order was properly made in accordance "with the laws of a province".[5] Accordingly, the Order was effective as of the date of the Agreement.
+
+[26] It is now necessary to examine paragraph 60(b) to determine the amounts described in A, B and C. In so doing I conclude that:
+
+A, the total "support amount", is the sum of $3,600 for 1998 plus 1997 payments, being amounts payable as an allowance on a periodic basis for the maintenance of the child, the payor Appellant being a natural parent of the recipient, the amounts being both payable and receivable under an order made by a competent tribunal in accordance with the laws of a province.
+
+B is the total "child support amount" that became payable by the taxpayer ... under an order on or after its commencement day.
+
+[27] The term "commencement day" is defined in subsection 56.1(4) of the Act as follows:
+
+"commencement day" at any time of an agreement or order means
+
+(a) where the agreement or order is made after April 1997, the day it is made; and
+
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+
+[28] The effect of Justice Mykle's order declaring the October 4, 1996 Agreement to be an order of the Queen's Bench, effective the date upon which the agreement was entered, namely October 4, 1996, is that there is no "commencement date" for the purposes of B. Therefore, the amount of B is zero.
+
+C is the total support amount paid after 1996 that was deductible in computing income for a preceding year. It is assumed that the word "deductible" applies to the 1997 payments under the conclusion I have reached in respect of Judge Mykle's order. Accordingly, C would represent the total payments made before 1998. Since C includes only amounts paid after 1996 it must be the amount of the 1997 payments.
+
+[29] The result is that A represents all amounts paid after 1996, B is nil and C is amounts deductible before 1998. The result is that the formula produces the amount paid in 1998, namely, $3,600.[6]
+
+[30] To summarize:
+
+(1) I conclude that the portion of the Order reading:
+
+The Agreement between the Parties, dated October 4, 1996 is hereby declared to be an Order of this court effective the date upon which the Agreement was entered, October 4, 1996,
+
+created an order retroactive to and effective on and from that date.
+
+(2) The Appellant is entitled, for his 1998 taxation year, to deduct the amount of $3,600 under paragraph 60(b).
+
+[31] Accordingly, the appeal is allowed with costs.
+
+Signed at Toronto, Canada this 14th day of August, 2001.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-400(IT)I
+
+STYLE OF CAUSE: John Dunfield v. Her Majesty the Queen
+
+PLACE OF HEARING: Brandon, Manitoba
+
+DATE OF HEARING: May 29, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge R.D. Bell
+
+DATE OF JUDGMENT: August 14, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: Pat Fraser
+
+Counsel for the Respondent: Angela Evans
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Pat Fraser
+
+Firm: Meighen, Haddad & Co.
+
+Brandon, Manitoba
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-400(IT)I
+
+BETWEEN:
+
+JOHN DUNFIELD,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on May 29, 2001 at Brandon, Manitoba, by
+
+the Honourable Judge R.D. Bell
+
+Appearances
+
+Counsel for the Appellant: Pat Fraser
+
+Counsel for the Respondent: Angela Evans
+
+JUDGMENT
+
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Signed at Toronto, Ontario this 14th day of August, 2001.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] in Manitoba.
+
+[2] To be set out later.
+
+[3] As stated by Respondent's counsel.
+
+[4] S.C. 1996, c. 25 Income Tax Budget Amendments Act, 1996 but see Income Tax Budget Amendments Act, 1997, s. 307(2) which deems s. 10(1) to have come into force on April 25, 1997.
+
+[5] The words in quotes are taken from paragraph 56.1(4).
+
+The Family Maintenance Act, section 48 reads:
+
+A court may, without a hearing, make an order under this Act where the parties consent and have agreed as to the provisions of the order.
+
+[6] Section 307 (1) of the Income Tax Act Budget Amendments Act, 1997, seems to provide, that if an amount could not be deducted before the introduction of paragraph 60(b), it cannot be deducted after its introduction. Reference is made to this implementing legislation to demonstrate that the deduction sought by the Appellant is not prevented by same.
+

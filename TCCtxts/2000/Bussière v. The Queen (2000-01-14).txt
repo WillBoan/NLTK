@@ -1,0 +1,150 @@
+Date: 20000114
+
+Docket: 1999-691-IT-I
+
+BETWEEN:
+
+SYLVAIN BUSSIÈRE,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre Proulx, J.T.C.C.
+
+[1] This is an appeal under the informal procedure respecting the calculation of the Registered Retirement Savings Program ("RRSP") deduction limit under subsection 146(1) of the Income Tax Act (the "Act"). The point for determination is whether the pension adjustment calculated for 1996 was rightly subtracted from the RRSP deduction limit.
+
+[2] "RRSP deduction limit" is defined in subsection 146(1) of the Act as follows:
+
+"RRSP deduction limit" of a taxpayer for a taxation year means the amount determined by the formula :
+
+A + B + R – C
+
+where
+
+A is the taxpayer's unused RRSP deduction room at the end of the preceding taxation year,
+
+B is the amount, if any, by which
+
+(a) the lesser of the RRSP dollar limit for the year and 18% of the taxpayer's earned income for the preceding taxation year
+
+exceeds the total of all amounts each of which is
+
+(b) the taxpayer's pension adjustment for the preceding taxation year in respect of an employer, or
+
+(c) a prescribed amount in respect of the taxpayer for the year,
+
+C is the taxpayer's net past service pension adjustment for the year, and
+
+R is the taxpayer's total pension adjustment reversal for the year;
+
+(My emphasis.)
+
+[3] This definition was amended by S.C. 1998, c. 19, subsection 37(1), applicable as of 1989. However, with respect to taxation years prior to 1998, the value of R in the formula appearing in the definition is nil.
+
+[4] The facts of the instant case are set out in the Reply to the Notice of Appeal (the "Reply") as follows:
+
+[TRANSLATION]
+
+2. By notice of assessment dated June 15, 1998 for the 1997 taxation year, the Minister revised the Registered Retirement Savings Plan (RRSP) deduction down to $4,026.
+
+3. In making this reassessment, the Minister made in particular the following assumptions of fact:
+
+(a) in filing his return of income for the 1996 taxation year, the appellant entered no pension adjustment amount;
+
+(b) on February 26, 1998, the Minister issued a notice of reassessment to the appellant for the 1996 taxation year with the only change being that his pension adjustment for that year was $3,852;
+
+(c) this $3,852 amount was traced by the Minister in reconciling the appellant's T4s for the 1996 taxation year;
+
+(d) the appellant made the following contributions to RRSPs for the 1997 taxation year:
+
+(i) 02/17/97 L'Industrielle Alliance $5,000
+
+(ii) 12/29/97 CIBC $3,000
+
+Total $8,000
+
+(e) in filing his return of income for the 1997 taxation year, the appellant, based on his calculation of his RRSP deduction limit for that year, claimed an amount of $7,878;
+
+(f) as the appellant's pension adjustment for the 1996 taxation year was $3,852, the Minister revised the appellant's allowable RRSP deduction down to $4,026 for the 1997 taxation year.
+
+4. At the objection stage, the Minister determined:
+
+(a) that the appellant had worked for his former employer, HMRC Services Inc. ("HMRC") for a period of two years and 15 days;
+
+(b) that HMRC had a non-contributory pension plan;
+
+(c) that the pension adjustment with respect to HMRC's plan was not based on the appellant's contributions but on the plan administrator's recognition of one year;
+
+(d) that, as the appellant had worked with HMRC for more than two years, the calculation of the pension adjustment had been properly made.
+
+[5] In his testimony the appellant admitted subparagraphs 3(a), (b), (d) and (e) and 4(b).
+
+[6] The appellant is a medical sales representative who worked for HMRC Services Inc. (Hoechst Marion Roussel Canada), a pharmaceutical concern, for two years and 15 days. He was laid off on November 13, 1996.
+
+[7] HMRC has a non-contributory pension plan. It is a defined benefit plan. The appellant had to have worked for HMRC for more than two years to have vested rights in the plan, such as the right to a refund of amounts which the employer has paid into the plan for the employee or, if the employee leaves those amounts in the plan, a right to eventual benefits. At the time of his departure, the appellant withdrew the amount of $1,400 from this non-contributory plan.
+
+[8] The plan administrator determined the pension adjustment for 1996 to be $3,852.
+
+[9] Marc Vachon, a Revenue Canada auditor, testified at the request of counsel for the respondent. He filed as Exhibit I-1 a worksheet showing the calculation of the pension adjustment for 1996. He checked the employer's calculation and confirmed that it was correct.
+
+[10] The amount is not disputed by the appellant. What he contests is the Minister's deduction of it in computing his RRSP deduction limit for 1997. The appellant contends that, if he had been dismissed in 1997, the addition of the total pension adjustment reversal would have enabled him to claim a much higher RRSP deduction limit than that which he is now being allowed for his 1997 taxation year. He does not know the amount of the total pension adjustment reversal. The question was put to the respondent's witness and to counsel and no one knew how to make the necessary calculation or had the answer.
+
+[11] Be that as it may, in the instant case, the notion of total pension adjustment reversal did not apply for 1996. The point for determination is thus whether, in computing his RRSP deduction limit, the appellant must deduct the pension adjustment referred to in paragraph (b) of B in the formula reproduced in paragraph 2 of these Reasons.
+
+[12] "Pension adjustment" is defined in subsection 248(1) of the Act as follows:
+
+"pension adjustment" of a taxpayer for a calendar year in respect of an employer has the meaning assigned by regulation.
+
+[13] As may be seen, the definition refers to the Income Tax Regulations (the "Regulations"). The Reply refers to [TRANSLATION] "parts of sections 8300 and 8400" of the Regulations, without being more specific. Nor did counsel for the respondent refer me to any specific part of the Regulations or to any case law. The legal argument focused solely on the fact that the total pension adjustment reversal did not apply and the only evidence adduced by the respondent concerned the calculation of the pension adjustment, which, in both cases, was not questioned by the appellant. However, there is case law on the very specific subject of the legal effect of the pension adjustment for the year in which an employee leaves his employment and ceases to belong to the employer's pension plan. That case law consists of this Court's decisions in Emmerson v. Canada, [1997] T.C.J. No. 967, Berkeley v. Canada, [1995] T.C.J. No. 108, Kroff v. Canada, [1996] T.C.J. No. 1747 and Osborn v. Canada, [1995] T.C.J. No. 534.
+
+[14] Judge Sarchuk's decision in Emmerson, supra, is of particular interest and it is the decision I shall follow here. Paragraph 5 of the reasons for that decision contains the following comments by counsel for the appellant Emmerson:
+
+5. . . . In other words, the PA acts as a means by which participants in an RPP and other persons who can only contribute to an RRSP receive equal treatment in terms of the ability to contribute to pension plans and to deduct those contributions from otherwise taxable income.
+
+. . .
+
+In these circumstances, the essential position of the Appellant is that the calculation of the PA in respect of the 1993 calendar year was based upon a single alleged fact which is simply not born [sic] out by reality: that the Appellant had made a contribution to an RPP which resulted in a benefit entitlement reasonably considered to be attributable to her employment with DSS. In fact, at the end of the 1993 calendar year, the Appellant had no more entitlement to a benefit attributable to her employment with DSS than a person who was never employed by DSS.
+
+While the Appellant made an initial contribution to the employer's Plan in the 1993 calendar year, that contribution was returned to her prior to the end of the 1993 calendar year such that, at the end of the 1993 calendar year, the Appellant had made no contributions to an RRP. . . .
+
+In this regard, the Appellant's circumstances are not unlike those which prevailed in Berkeley v. Canada. In that case, Berkeley had been on leave of absence from employment with [the] Federal Government and resigned on March 31, 1992. Although Berkeley was a member of the same Superannuation Plan, no contributions were made to the plan during 1992. In the view of Lamarre Proulx T.C.J., it was very clear that no contributions had been made by the Appellant and that, given the meaning of the term "accrual", it followed that no portion of a pension benefit was earned by or had accrued to the Appellant.
+
+Berkeley v. Canada, [1995] T.C.J. No 108 (File No. 94-812(IT)I per Lamarre Proulx, T.C.J.).
+
+Similarly, in the present case, at the time of the calculation of the PA, it cannot be said that any portion of a pension benefit had been earned by or accrued to the Appellant because all contributions had been returned to her. As in Berkeley, the essential fact supporting the calculation of the PA is absent.
+
+. . .
+
+To conclude, the Appellant emphasizes the legislative objective behind the calculation of a PA. The obvious purpose of a PA is to ensure that persons like the Appellant do not have a greater ability to claim deductions from taxable income by virtue of being able to contribute to both an RPP and an RRSP. It is without question that, in the present case, the Appellant received no such extra entitlement. In fact, the exact opposite has occurred: by virtue of the calculation of a PA on the basis of a fictional contribution to an RPP, the Appellant's maximum RRSP contribution limit has been artificially reduced with the result that the intent of these provisions is compromised and, furthermore, the Appellant is left with a higher tax burden.
+
+[15] I now refer to Judge Sarchuk's conclusions in paragraphs 6 to 10 of his reasons:
+
+6. The issue before this Court is whether the Appellant's RRSP deduction limit should be reduced by the pension adjustment benefits as calculated by the Minister. The Respondent's position is that whether a benefit entitlement actually accrued to this Appellant is irrelevant for determining her PA amount because the Regulations deem it to have accrued for the purpose of determining the normalized pension amount in Regulation 8302(3). I am unable to accept that proposition in this case.
+
+7. The facts are not in dispute. Contributions were made by the Appellant commencing on approximately January 24, 1993 and continued until the termination of her employment on May 31, 1993. The entire amount of her contributions was returned to her in that year less a deduction for income tax and that fact was reflected in the T4 and T4A forms issued by her Employer. Thus by the end of 1993, the Appellant was not employed by DSS, was not required to contribute and had no entitlement to a benefit vested or not, under the Plan.
+
+8. The Respondent's position flows from the operation of Regulation 8302(3) to the effect that in "calculating the normalized pension, regard must be had to the amount of benefits that would be payable if the benefits were vested". However, it is clear (if anything in these Regulations can be said to be clear) that the benefits referred to are those "to which the individual is entitled". It would appear logical that any such entitlement under a pension plan is contingent upon contributions being in the Plan to the credit of the individual. A deemed vesting converts a possible entitlement to a benefit into a right to such benefit for the purposes of the Regulations in issue. I am satisfied that the deeming provision in Regulation 8302(3) was intended to apply to cases where a person has made contributions which were still included in the Plan but where the person had no vested right to any benefits arising from the Plan. This was the situation in P.W. Osborn v. Canada and Brian Kroff v. Her Majesty the Queen.
+
+9. In my view, the PA relates to a specific calendar year and represents an estimate of the value of a benefit accrual under a defined benefit provision of a registered pension plan "that can reasonably be considered to be attributable to the individual's employment with the employer" [subsection 8302(1) of the Regulations]. When calculating the benefit accrual, one must first determine "the individual's normalized pension under the provision at the end of the year that can reasonably be considered to have accrued in respect of the year" [paragraph 8302(2)(a) of the Regulations]. Since the Appellant was no longer employed and no contributions existed in the pension plan on her behalf, it cannot be said that there was any benefit accrual which could reasonably be considered to be attributable to her employment in respect of that year.
+
+10. I have concluded therefore that the Appellant had no benefit entitlement which could be deemed vested under the Regulations and which would then form the basis for calculation of the PA. The appeal is allowed, with costs.
+
+[16] I come to the same conclusion that in Emmerson: as the appellant withdrew his contribution from his employer's pension plan in 1996, there was no pension adjustment in respect of a pension plan for that year.
+
+[17] The appeal is accordingly allowed, without costs.
+
+Signed at Ottawa, Canada, this 14th day of January 2000.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+"Louise Lamarre Proulx"
+
+J.T.C.C.
+

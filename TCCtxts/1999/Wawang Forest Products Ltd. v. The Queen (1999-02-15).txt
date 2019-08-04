@@ -1,0 +1,132 @@
+Date: 19990212
+
+Docket: 96-2286-IT-G; 96-2287-IT-G
+
+BETWEEN:
+
+WAWANG FOREST PRODUCTS LTD., NERAK CONTRACTORS INC.,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+McArthur, J.T.C.C.
+
+[1] The Appellant, Wawang Forest Products Ltd. (Wawang), appeals the income tax assessments for the 1987, 1988, 1990 and 1991 taxation years. Holdbacks amounting to $26,158, $14,716, $10,365, and $146,910, respectively, claimed by Wawang as deductions from income were determined by the Minister of National Revenue (the Minister) not to be outlays or expenses incurred for the purpose of gaining or producing income within the meaning of paragraph 18(1)(a) of the Income Tax Act (the Act).
+
+[2] The Appellant, Nerak Contractors Inc. (Nerak), appeals assessments for the 1988, 1990 and 1991 taxation years. Holdbacks amounting to $4,158, $33,395, and $123,059, respectively, claimed by Nerak as deductions from income were determined by the Minister not to be outlays or expenses within the meaning of paragraph 18(1)(a) of the Act. The two appeals were heard together on common evidence.
+
+[3] The issue is whether the holdbacks are an expense or outlay incurred in the respective taxation years claimed pursuant to paragraph 18(1)(a) of the Act. Alternatively, if they are deductible expenses under 18(1)(a), are they nonetheless contingent liabilities within the meaning of paragraph 18(1)(e) of the Act?
+
+Facts
+
+[4] Both Appellants are wholly owned subsidiaries of Buchanan Forest Products Limited and maintain common offices in Thunder Bay, Ontario. Wawang undertakes forestry activities that largely consist of the cutting, skidding and delimbing of spruce, jack pine and poplar trees. Nerak's activities largely consist of loading and hauling these logs to various mills. Wawang and Nerak contract most of their activities to independent contractors.[1] These contracts provide that the contractors will cut, skid and delimb (Wawang) or haul wood products (Nerak) at stipulated prices per cord or per metric tonne. The contracts provide further that the contractors will comply with the Workers' Compensation Act.
+
+[5] During the relevant period, subsection 11(3) of the Workers' Compensation Act, R.S.O. c. W-11 empowered the Workers' Compensation Board (WCB) to obtain payment of the contractor's assessment from the principal (Wawang/Nerak) should the contractor not make the required WCB payment. That is, if the contractors did not pay their WCB obligations, the Board could and would "leapfrog" to the principals to collect the delinquent accounts. The Appellants' contracts therefore required a holdback pending receipt of valid clearance certificates or other appropriate acknowledgements from the WCB eliminating Wawang/Nerak's legal exposure for payment of the contractors' WCB liability. The holdbacks were deducted from the total contract price.
+
+[6] In years prior to 1989, holdback amounts were paid or cleared within a relatively short period of time. During the relevant period, however, there was a three-year delay in paying the holdbacks because of a dispute between the Appellants and WCB which dispute was resolved in favour of the Appellants in 1993. Despite attempts by some contractors to obtain the holdback money, the Appellants refused to pay until they had received clearance certificates. At the time of the Minister's audit for the taxation years in question, no amount on account of the holdbacks had been paid to the contractors or to the WCB. It would appear that at the date of trial, approximately 95% of the holdbacks had been paid by the Appellants.
+
+Position of the Appellant
+
+[7] The holdbacks constitute part of the money owing by Wawang/Nerak to their contractors for work already completed and accordingly, constitute an outlay or expense within the meaning of paragraph 18(1)(a) of the Income Tax Act.
+
+[8] There are no provisions contained in the Income Tax Act that are inconsistent with the accounting treatment and the reporting of income employed by the taxpayers. The accounting and reporting method employed is consistent with generally accepted accounting principles (GAAP). Nothing in that method is inconsistent with any established principle of the jurisprudence or any rule of law. Deduction of the holdbacks provides the best matching of costs and revenues.
+
+[9] The holdbacks are not contingent liabilities within the meaning of paragraph 18(1)(e) of the Income Tax Act. A contingency is an event that may or may not occur and a contingent liability is a liability which depends for its existence upon an event which may or may not happen.[2] There is no subsequent event or condition upon which the liability for payment of the holdback portion depends. The Appellants' liability for the entire contract price arises as soon as the services are complete. The liabilities to contractors in respect of holdbacks as protection against potential additional WCB exposure for contractors' unpaid WCB liabilities, are neither reserves nor contingent liabilities but rather are genuine, very real liabilities owing for fully completed services. They are paid when Wawang and Nerak are absolved from WCB liability owing by the contractors which is a completely separate matter from the contractors' services and the fees therefor.
+
+Position of the Respondent
+
+[10] The holdbacks claimed by the taxpayers were not expenses made or incurred within the meaning of paragraph 18(1)(a) of the Income Tax Act. Under the terms of the contracts that are in evidence, there was simply no obligation on the part of either Wawang or Nerak to pay the amounts of these holdbacks in the years in which the Appellants are seeking to deduct them. Alternatively, paragraph 18(1)(e) of the Income Tax Act would disallow the deduction on the basis that these represent contingent liabilities. The contracts provided that there was a condition precedent – providing clearance certificates - that had to be satisfied by the contractor prior to these amounts becoming payable.
+
+Legislation
+
+[11] During the relevant period, subsection 11(3) of the Workers' Compensation Act, R.S.O. 1990, c. W-11 provided:
+
+Where a person ... in this subsection ... referred to as the principal, contracts with any other person, in this section referred to as the contractor, for the execution by or under the contractor of the whole or any part of any work for the principal, it is the duty of the principal to see that any sum that the contractor or any subcontractor is liable to contribute to the accident fund is paid, and if any such principal who fails to do so is personally liable to pay it to the Board ...
+
+Also, paragraphs 18(1)(a) and (e) of the Income Tax Act provided that:
+
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+
+...
+
+(e) an amount as, or on account of, a reserve, a contingent liability or amount or a sinking fund except as expressly permitted by this Part;
+
+Analysis
+
+[12] The Wawang and Nerak contracts were similar and there is no need to deal with them separately. In 1987 and 1988, the contracts read, in part:
+
+The COMPANY agrees to pay the CONTRACTOR an additional $.80 per cord for spruce and pine full tree, $.70 per cord for poplar treelength and $1.25 per cord for spruce and pine treelength upon the receipt of a CERTIFICATE OF CLEARANCE from the Workers' Compensation Board for his account.
+
+In the 1990 and 1991 taxation years, the contract wording was different in that the words "may hold back" were used but this does not give rise to a different result. It read as follows:
+
+The CONTRACTOR agrees that the COMPANY may hold back the following sums out of any sum otherwise payable to the CONTRACTOR until such time as the CONTRACTOR furnishes to the COMPANY a clearance certificate or such other evidence as the COMPANY shall require that the CONTRACTOR has paid any and all sums that the CONTRACTOR is liable to contribute to the Workers' Compensation Accident Fund:
+
+...
+
+Before receiving all of its money earned for performing a contract, a contractor had to fulfil the condition precedent of providing the Appellants with a WCB clearance certificate. This is simple contract law. "The contractor agrees that the Company may holdback – certain amounts – ". There was no obligation to pay the holdbacks in the years in which they were sought to be deducted unless the Appellants received clearance certificates. The main thrust of the Appellants' argument is that the contractors' work had been completed, there was nothing left to be done and the Appellants had a very real liability for fully completed services in the year claimed. When they received the clearance certificates, they had to pay the holdback.
+
+[13] However, the Appellants' submission in this regard is not entirely accurate. If they never received a certificate from WCB, they did not have to pay the holdback. It would appear from the evidence that approximately 5% of the holdbacks were never paid for whatever reasons. Further, the Appellants could deduct levies and fines from monies owing to the contractors. These facts cannot simply be ignored. The holdback liability was not absolute. The Appellants may pay all of the holdback sums or they may not. Moreover, the holdbacks were not placed in a separate trust account when they accrued in the Appellants' books. Rather, they were paid out of the Appellants' general account from funds on hand at the time of payment. The contractors did not have an enforceable claim against the Appellants for the holdbacks until a clearance certificate was provided. Pursuant to their contract, the Appellants also had a right of setoff from the holdback proceeds should there be certain trespass or damage claims against the Appellants as a result of actions by the contractors.
+
+[14] An expense occurs in the year the obligation to pay is incurred.[3] An expense cannot be said to be incurred by a taxpayer until there is an obligation to pay,[4] and it must be an obligation to pay during the year it is claimed as an expense.[5] Without consideration to GAAP and matching principals, I find from a layman's view, the holdbacks were not expenses until the Appellants received clearance certificates. It is only then that they became payable and a current expense. An expense cannot be said to be incurred by a taxpayer who is not under an obligation to anyone.[6] It is a question of law that must be considered and not simply accounting principles.
+
+[15] This is the position taken in the case of Newfoundland Light & Power, supra, wherein Pratte J. stated:
+
+Indeed, in order for an expense to be incurred during a year, the obligation to pay must be created during that year; similarly, there is no cost of property to a taxpayer as long as the obligation to pay that cost has not come into existence.
+
+Also, I agree with Brulé J. in Co-operators, supra who stated that the obligation must be an obligation to pay in the year it is claimed and not two or three years later as was the situation in the present appeals.
+
+[16] The Appellants wish to distinguish the uncertified construction lien holdback cases[7] from the present facts. The Appellants argued that in the Colford and Guay cases, there was uncertainty as to the quantum of the holdbacks to be paid while in the present case there is no such uncertainty and all the work is complete and accepted as is. It is clear from extensive jurisprudence that construction (lien) holdbacks are not deductible until paid.[8] The Appellants submitted that eventually the holdbacks we are dealing with in the Wawang/Nerak appeals will be paid. The Court in Guay, supra did not find that a similar submission affected its decision. As in the present case, in Guay it was not a certainty that the full amount withheld would be paid and the Court stated:[9]
+
+However, as we have seen above, there is an additional reason for dismissing the appeal: this is that we are dealing with amounts withheld which are not only uncertain as to quantum if partial damages result from badly done work, but which will no longer even be due or payable if damages exceed the amounts withheld.
+
+[17] Unlike the situation in the case of Wil Mechanics Ltd. v. The Queen,[10] the Appellants' contracts contained express terms permitting the Appellants to withhold money for damages.
+
+[18] The Appellants urged the Court to follow the decision in Imperial Financial Services Ltd. v. M.N.R.,[11]wherein Imperial was entitled to holdback 20% of the amounts billed to it by its subcontractors and to pay those amounts in three consecutive five-year instalments during the 15 years following completion of the work. In fact, Imperial accelerated the payments and had paid the holdbacks in full within two or three years. The Minister disallowed the claimed deductions for reasons similar to those in the present appeals. The Court held, inter alia, that the holdbacks were genuine liabilities and in the peculiar circumstances, if the Appellant had reduced its expenses by the amount of the holdbacks, its income would have been distorted. The Court stated at page 190:
+
+The holdbacks were a sum of money and the Appellant was under an obligation to pay the same. They were just not due at the year end.
+
+[19] In Imperial Financial, supra, the Court was dealing with appeals for the 1980 and 1981 taxation years and in fact, all holdbacks were paid in the 1982 taxation year. This fact may have had an influence on the decision. Further, the taxpayer in Imperial Financial does not appear to have had the equivalent requirements of a clearance certificate or the right of setoff contained in the Wawang and Nerak contracts. I am not certain I would have reached the same conclusion as the trial Judge in Imperial Financial. I believe that the decision is restricted to its specific facts.
+
+[20] Having regard to case law previously cited, I agree with counsel for the Respondent that unless amounts are due, they are not deductible as expenses. They become expenses in the year they are due. For example, rent owing but not payable until 1999, is not a deductible expense in the 1998 taxation year.
+
+[21] Having found that paragraph 18(1)(a) of the Income Tax Act bars the Appellants' claim because they had no liability to pay the holdbacks during the years in question, there is no need to look to GAAP for assistance[12] nor is there a need to consider paragraph 18(1)(e) of the Income Tax Act although it would appear that the holdbacks are contingent liabilities. The Minister correctly disallowed the deduction of the unpaid holdbacks because they were not outlays or expenses made or incurred within the meaning of paragraph 18(1)(a) of the Income Tax Act. The appeals are dismissed, with costs.
+
+Signed at Ottawa, Canada, this 12th day of February 1999.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] Motivated by Workers' Compensation Board legislation and other considerations, the Appellants require those doing work for them to be incorporated and they have assisted them in the incorporation process.
+
+[2] TNT Canada Inc. v. The Queen, 88 DTC 6334.
+
+[3] Co-operators General Insurance Co. v. M.N.R., 93 DTC 303 (T.C.C.); Northern and Central Gas Corporation Limited v. The Queen, 87 DTC 5439 (F.C.A.); and Newfoundland Light & Power Co. v. The Queen, 90 DTC 6166 (F.C.A.).
+
+[4] The Queen v. Burnco Industries Ltd. et al, 84 DTC 6348 (F.C.A.).
+
+[5] Co-operators General Insurance, supra.
+
+[6] Burnco Industries Ltd. et al., supra.
+
+[7] M.N.R. v. Colford Contracting Co. Ltd., 60 DTC 1131 (Ex. Ct.) and J.L. Guay Ltée v. M.N.R., 71 DTC 5423 (F.C.T.D.).
+
+[8] Ellis Construction Ltd. v. M.N.R., 82 DTC 1625 (T.R.B.)
+
+[9] Guay (supra)
+
+[10] 90 DTC 6475 (F.C.T.D.).
+
+[11] 91 DTC 184 (T.C.C.).
+
+[12] Canderel Limited v. The Queen, 98 DTC 6100 at 6106 (S.C.C.).
+

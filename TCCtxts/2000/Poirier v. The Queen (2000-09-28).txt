@@ -1,0 +1,192 @@
+Date: 20000928
+
+Docket: 1999-2643-IT-I
+
+BETWEEN:
+
+ALBERT POIRIER,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bowman, A.C.J.
+
+[1] This appeal is from an assessment for the 1995 taxation year by which the Minister of National Revenue denied to the appellant a deduction of $19,310.35 and $1,548.53 as allowable business investment losses under paragraph 39(1)(c) of the Income Tax Act.
+
+[2] The notice of appeal and the reply were in French, as was the oral argument. The written argument submitted after the hearing was in English. Counsel stated that they had no preference with respect to the language in which the reasons for judgment were written. Since these reasons make extensive reference to the written submissions of counsel they will be written in English. A French version will of course be made available to the parties if they wish.
+
+[3] Counsel for the respondent states that the facts are accurately set out in the appellant's written submissions. These facts are as follows:
+
+1. The Appellant, Albert Poirier, was at all material times to this action a shareholder and director of Chez Lucille (1993) Ltd. which operated a restaurant in Bouctouche, New Brunswick.
+
+2. After incurring substantial losses, Chez Lucille (1993) Ltd. ceased its operations in May of 1995. At that time, Chez Lucille (1993) Ltd. was insolvent and owed considerable amounts of money to numerous creditors including the sum of $19,310.00 to the Minister of Finance of New Brunswick for provincial sales tax, and the sum of $1,548.53 to the Workplace Health, Safety and Compensation Commission (WHSCC), for remittances pursuant to the Workers' Compensation Act.
+
+3. To guarantee the payment of these outstanding amounts, the Minister of Finance and the WHSCC registered liens against a property owned by the Appellant pursuant to Section 26(1) of the Revenue Administration Act and Section 72 of the Workers' Compensation Act.
+
+4. The Appellant's property was sold on May 10, 1995, and in order to discharge the liens the Appellant was compelled to personally pay the outstanding amounts to the Minister of Finance and WHSCC.
+
+5. For the 1995 taxation year, the Appellant claimed the payments of $19,310.00 made to the Minister of Finance and $1,548.53 made to WHSCC as allowable business losses pursuant to Section 39(1)c) of the Income Tax Act on the basis that he was required by law to pay the indebtedness of Chez Lucillle (1993) Ltd.
+
+6. This appeal is from a notice of re-assessment of the Appellant's 1995 taxation year in which the Minister of National Revenue denied the deduction of the amounts personally paid by the Appellant of $19,310.00 and $1,548.00 as allowable business losses pursuant to Section 39(1)(c) of the Income Tax Act.
+
+[4] In general a capital loss may be set off only against a capital gain. An exception exists with respect to an allowable business investment loss ("ABIL") which may be deducted from other income under paragraph 3(d). An ABIL is defined in paragraph 38(c) as Â¾ of a taxpayer's business investment loss.
+
+[5] Business investment loss is defined in paragraph 39(1)(c) as follows:
+
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+
+(i) to which subsection 50(1) applies, or
+
+(ii) to a person with whom the taxpayer was dealing at arm's length
+
+of any property that is
+
+(iii) a share of the capital stock of a small business corporation, or
+
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+
+(A) a small business corporation,
+
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+
+(C) a corporation referred to in section 6 of the Winding-up Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+
+exceeds the total of
+
+...
+
+The rest of the definition is irrelevant to this appeal.
+
+[6] Subsection 50(1) reads:
+
+For the purposes of this subdivision, where
+
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3),
+
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act, that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+
+(iii) at the end of the year,
+
+(A) the corporation is insolvent,
+
+(B) neither the corporation nor a corporation controlled by it carries on business,
+
+(C) the fair market value of the share is nil, and
+
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+
+[7] Under subparagraph 40(2)(g)(ii) a taxpayer's loss from the disposition of a debt or other right to receive an amount is nil unless the debt or right was acquired for the purpose of gaining or producing income from a business.
+
+[8] From the foregoing it is apparent that the following conditions must prevail for the appellant to succeed:
+
+(a) There must be a debt owing to the appellant by Chez Lucille (1993) Ltd.
+
+(b) Chez Lucille (1993) Ltd. must be a small business corporation as contemplated by clauses 39(1)(c)(iv)(A), (B) or (C).
+
+I assume this condition is met. The point is not raised as an issue by the respondent.
+
+(c) The debt must have been acquired for the purpose of gaining or producing income from a business or property.
+
+(d) The debt must be established to have become a bad debt in the year.
+
+[9] In The Cadillac-Fairview Corporation Limited v. The Queen, 97 DTC 405, aff'd 99 DTC 5121, I summarized at pages 406-8 the principles that I believe applied in the case where a guarantor is obliged to make good under a guarantee and the manner in which this may have an effect under paragraph 39(1)(c):
+
+It would appear useful, in order to give some focus to the factual background to the capital loss issue which follows, if I summarize briefly the principles that I think apply in a case of this type. The appellant's claim to an allowable capital loss is premised upon the allegation that it guaranteed the indebtedness of its fifth-tier U.S. subsidiaries, that it paid lenders in satisfaction of those guarantees, that it became subrogated to the rights of the lenders, that it disposed of these rights for nil proceeds and that it thereby incurred a capital loss.
+
+To arrive at the conclusion that a capital loss has been sustained for the purposes of the act it is clear from sections 3, 38 and 39 that there must have been an actual or deemed disposition of property. The mere making of a capital payment does not, of itself, give rise to a capital loss. Where a guarantee of a primary debtor's obligation is given and the guarantor is required under the guarantee to pay and does pay to the creditor the primary debtor's obligation, the guarantor is in the normal course subrogated to the position of the creditor unless it has explicitly or implicitly waived those rights of subrogation or other circumstances prevent such rights from arising. Absent such a factual or legal impediment, by operation of law a debtor-creditor relationship arises between the guarantor and the primary debtor. The guarantor's cost of the debt would normally be the amount that it paid under the guarantee.
+
+If, as is frequently the case, the principal debtor cannot pay, the debt may be regarded as having become bad. Section 50 of the Act deems the debt to have been disposed of by the guarantor at the end of the taxation year in which it became bad and to have been reacquired at a cost of nil immediately thereafter. Thus, through the combined operation of the law of subrogation and section 50 of the Act, the disposition necessary to support the claim for a capital loss is achieved.
+
+Subparagraph 40(2)(g)(ii) provides:
+
+a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+
+...
+
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm's length.
+
+...
+
+is nil.
+
+In many cases if a guarantor is obliged to make good under a guarantee it is because the principal debtor is unable to pay the obligation. From this, it follows that the guarantor's right of subrogation against the principal debtor is, at the time of acquisition, likely to be, in many instances, worthless or virtually worthless. A narrow and mechanical reading of subparagraph 40(2)(g)(ii) would lead one to conclude that on the payment of the guaranteed amount the guarantor's acquisition of the worthless subrogated debt could not possibly have as its purpose the gaining or producing of income from a business or property. Such an interpretation in my view lacks commercial sense. A functional and more commercially realistic interpretation would subsume in the purpose of the acquisition of the subrogated debt the purpose for which the guarantee was originally given.
+
+The analysis of the facts requires that the following questions be answered:
+
+(a) Were the subsidiaries' obligations to the banks guaranteed by the appellant?
+
+(b) Was the appellant's payment of the amounts in question made pursuant to the obligation under the guarantees?
+
+(c) Did the appellant acquire by subrogation a debt owing by the subsidiary to the lenders?
+
+(d) Was that debt disposed of in the year? The appellant argues that, quite apart from its position that the debt became bad, with the consequent deemed disposition under section 50 of the Income Tax Act, the appellant, in the case of four of the five subsidiaries involved here, disposed of the debts by waiving its rights of subrogation. The effect of the waiver is, in my view, critical, for reasons upon which I shall elaborate more fully below.
+
+(e) Was that debt acquired for the purpose of gaining or producing income from a business or property of the appellant? More specifically, based on the analysis set out above, if the payments were made pursuant to the guarantees, were the guarantees given for the purpose of gaining or producing income from a business or property of the appellant?
+
+If the answer to all five of the questions is in the affirmative the appellant must necessarily succeed. If the answer to any one of them is in the negative, it must fail, whatever commerciality may have motivated the payments. In a broad commercial sense the appellant lost money but its entitlement to the relief it claims is based upon legal concepts of some specificity. To arrive at the result it seeks the appellant must bring itself within those concepts. In particular, it must demonstrate that it acquired a debt for the purpose of gaining or producing income from a business or property and that the debt either became bad in 1984 or was otherwise disposed of at a loss.
+
+[10] Let us then apply this analysis to Mr. Poirier's situation.
+
+[11] I am prepared to assume that the registration of the liens against the appellant's property under section 26 of the New Brunswick Revenue Administration Act and section 72 of the New Brunswick Worker's Compensation Act was legal. However, I make no finding in this respect. Section 26 of the Revenue Administration Act reads:
+
+26(1) Every collector who collects a tax shall be deemed to hold the tax in trust for Her Majesty in right of the Province and for the payment over of the tax in the manner and at the time provided under this Act, and, notwithstanding subsection 72(2) of the Workers' Compensation Act, the amount shall, until paid, form a special lien upon his entire estate, on the entire assets of his estate in the hands of any trustee, and upon all his property used in or in connection with or produced in or by the business of the collector, in priority to every claim, privilege, lien or encumbrance, whenever created, subject only to taxes levied under the Real Property Tax Act.
+
+26(2) The lien in subsection (1)
+
+(a) attaches upon the date the tax is collected by the collector and does not require registration or filing of any document or the giving of notice to any person to create or preserve it,
+
+(b) attaches to all property subsequently coming within the class of property described in subsection (1) until the amount due and payable including interest and penalties, if any, has been fully paid, and
+
+(c) subject to subsection (3), follows any property to which it attaches into whosever hands the property comes.
+
+26(3) Where a lien has attached to property that is the stock in trade of the collector and that property is disposed of in the ordinary course of business of the collector, the lien shall be extinguished upon the bona fide sale of that property made in the ordinary course of business.
+
+26(4) Where any property referred to in subsection (3) is sold or otherwise disposed of the amount due and payable including interest and penalties, if any, is a first charge on the proceeds of the sale or disposition of that property.
+
+26(5) Any mortgagee, judgment creditor or other person having any claim, lien, privilege or other encumbrance upon or against any property to which is attached a lien under subsection (1)
+
+(a) may pay the amount of such lien,
+
+(b) may add such amount to his mortgage, judgment or other security, and
+
+(c) has the same rights and remedies for such amount as are contained in his security.
+
+[12] I have some difficulty in seeing just how the obligations of the company became the obligations of the appellant so as to entitle the Minister of Finance and the WHSCC to place liens on the appellant's property. The point was not argued and I shall assume the legality of the liens. When the property was sold the appellant had to pay the amount of the liens.
+
+[13] Counsel for the appellant argues that the appellant was compelled by law to discharge the company's debt, he is entitled to a right of recovery. I quote in full counsel's argument on this point.
+
+10. The Courts have generally held that if someone is compelled by law to discharge the debt of another, the law of restitution recognizes a right of recovery. This principle was recognized in Brook's Wharf and Bull Wharf Limited v. Goodman Brothers, [1937] 1 K.B. 534. In this case, the plaintiffs owned a warehouse where the defendants had consigned 10 packages of squirrel furs. Under the Customs Consolidation Act, the plaintiffs were compelled to pay duty on the packages deposited in the warehouse. They brought an action to be indemnified by the defendants. The Court held that the plaintiffs were allowed to recover the amount paid in duty from the defendants given that the plaintiffs were compelled by law to pay the duty. The Court found that the payment had relieved the defendants of their obligation and that the primary liability to pay duty rested on the defendants. At page 544, Lord Wright stated:
+
+"The essence of the rule is that there is a liability for the same debt resting on the plaintiff and the defendant and the plaintiff has been legally compelled to pay, but the defendant gets the benefit of the payment, because his debt is discharged either entirely or pro tanto, whereas the defendant is primarily liable to pay as between himself and the plaintiff. The case is analogous to that of a payment by a surety which has the effect of discharging the principal's debt and which, therefore, gives a right of indemnity against the principal."
+
+11. A similar reasoning was more recently adopted by the Court in Steele Excavating Ltd. v. British Columbia Forest Products Ltd., [1987] B.C.J.. No. 2214. In that case, the plaintiff (BCFP) was under contract with two companies, Steele and Clayjim, to purchase timber harvested under TSLs (Timber Sale Licenses). The TSL's were granted by the Crown to one Shaw, who was a director of the two companies. During the performance of the agreements, BCFP received stumpage and royalty invoices from the Crown in respect of the timber, which on presentation to him Shaw declined to pay. He alleged an express agreement with BCFP that BCFP was to pay the stumpage to the Crown and that the agreed price in each of the agreement was "net to him" of the stumpage charges. Shaw's evidence of this express agreement at trial was not accepted by the trial judge. BCFP withheld the sum of $72,657.30 from Steele, advising Shaw that it would be retained until the stumpage was paid. Shaw did not at this or any other time pay any stumpage to the Crown in respect of Steele or Clayjim timber sold to BCFP, nor did Steele or Clayjim. The Crown demanded payment of the stumpage from Shaw as licencee of the TSLs, and from BCFP pursuant to s. 142 of the Forest Act. BCFP ended up paying the stumpage in respect of the Clayjim and Steele timber. The Court found that Shaw, Clayjim and Steele were primarily liable for the stumpage and that BCFP's payment of the stumpage had relieved the defendants of their liability to pay stumpage under the TSLs. The Court therefore ordered that Shaw, Clayjim and Steele indemnify BCFP to the extent that each or any of them had been relieved from their liability to the Crown.
+
+[14] Counsel for the respondent accepts that the appellant had a legal obligation to pay the amounts and I am not prepared to embark on an enquiry whether this is correct as a matter of law.
+
+[15] I am also prepared to accept, as counsel for the respondent accepts, that the appellant's payment of the obligations of the corporation gave rise to a debt by the corporation. Again, I accept the point simply because it is not challenged by the respondent and in light of the conclusion I have reached it ultimately makes no difference. I would however not want this acceptance to be taken as an independent endorsement of the proposition. Assuming a debt arose, was it a debt that was acquired for the purpose of gaining or producing income? In my view where a payment is made pursuant to a guarantee by a shareholder of a debt of a corporation the debt that arises by subrogation is acquired for the purpose of gaining or producing income. In The Cadillac Fairview Corporation case I dealt with the point as follows at page 412:
+
+In light of this conclusion, I need not deal at length with Ms. Van Der Hout's argument that the guarantees were not given for the purpose of gaining or producing income. If the guarantees were not given for the purpose of gaining or producing income from a business or property of the appellant, I have difficulty in conceiving of any other basis on which they could have been given. The respondent's argument seems to be that if the appellant had charged a fee for giving the guarantees it would have met the "for the purpose of gaining or producing income" test but that because it charged no fee it had no such purpose. The ultimate purpose of any parent company of a corporate organization is to earn income from its subsidiaries, generally in the form of dividends. To have the treatment of capital losses that it sustains in respect of shares or debts of its subsidiaries depend upon whether interest or guarantee fees are charged is, in today's world of business, simply not an acceptable criterion to apply. That theory has been laid to rest in such cases as Charles A. Brown v. The Queen, FCTD, No. T-2712-91, January 15, 1996, Byram v. The Queen, 95 DTC 5069, Business Art Inc. v. M.N.R., 86 DTC 1842, and National Development Ltd. v. The Queen, 94 DTC 1061. The respondent relied heavily on Canada Safeway Ltd. v. M.N.R., 57 DTC 1239. For the reasons given in Mark Resources Inc. v .The Queen, 93 DTC 1004 at p. 1011 the Canada Safeway case has no application in the circumstances involved here.
+
+[16] That is not the situation here. I agree with the submission by counsel for the respondent that when the appellant made the payments in question the company was no longer in operation. It had ceased operations and was insolvent. There is a world of difference between making good under a guarantee of a corporation that was given when it was in operation, with a view to enhancing its income earning potential, and paying an obligation imposed by law or to remove a lien after there is no possibility of earning income from the corporation. I would compare this with the situation where a business has ceased but an obligation that results from the business that was previously carried on arises and must be satisfied. The fulfilment of that obligation would seem to me to be for the purpose of gaining or producing income from a business. Here, however, the obligation to pay the company's indebtedness arose after the company has ceased operations.
+
+[17] The appeal is therefore dismissed.
+
+Signed at Ottawa, Canada, this 28th day of September 2000.
+
+"D.G.H. Bowman"
+
+A.C.J.
+

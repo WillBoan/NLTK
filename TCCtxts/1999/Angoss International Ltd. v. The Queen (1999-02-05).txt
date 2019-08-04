@@ -1,0 +1,230 @@
+Date: 19990204
+
+Docket: 97-819-IT-G
+
+BETWEEN:
+
+ANGOSS INTERNATIONAL LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for judgment
+
+Bowman, J.T.C.C.
+
+[1] The issue in this appeal is whether a payment made in 1992 by the appellant, a resident of Canada, of $150,000 US ($184,070 CND) to Informix Software Inc. ("Informix") a resident of the United States, is subject to non-resident withholding tax under Part XIII of the Income Tax Act. The Minister of National Revenue assessed withholding tax on the basis that the payment was subject to withholding tax under subparagraph 212(1)(d)(i) of the Act.
+
+[2] The appellant contends that the payment is not taxable under Part XIII of the Act for essentially three reasons:
+
+(a) the payment does not fall within subparagraph 212(1)(d)(i) at all;
+
+(b) in any event it is excluded from paragraph 212(1)(d) by subparagraph 212(1)(d)(vi);
+
+(c) in the further alternative it is protected from Canadian tax by reason of Article XII of the Canada – U.S. Income Tax Convention (1980).
+
+[3] The relevant portions of section 212 of the Act read as follows:
+
+212.(1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+
+RENTS, ROYALTIES, ETC
+
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+
+(i) for the use of or for the right to use in Canada any property, invention, trade-name, patent, trade-mark, design or model, plan, secret formula, process or other thing whatever,
+
+(ii) for information concerning industrial, commercial or scientific experience where the total amount payable as consideration for that information is dependent in whole or in part on
+
+(A) the use to be made of, or the benefit to be derived from, that information,
+
+(B) production or sales of goods or services, or
+
+(C) profits,
+
+(iii) for services of an industrial, commercial or scientific character performed by a non-resident person where the total amount payable as consideration for those services is dependent in whole or in part on
+
+(A) the use to be made of, or the benefit to be derived from, those services,
+
+(B) production or sales of goods or services, or
+
+(C) profits,
+
+but not including a payment made for services performed in connection with the sale of property or the negotiation of a contract,
+
+(iv) made pursuant to an agreement between a person resident in Canada and a non-resident person under which the non-resident person agrees not to use or not to permit any other person to use any thing referred to in subparagraph (i) or any information referred to in subparagraph (ii), or
+
+(v) that was dependent on the use of or production from property in Canada whether or not it was an instalment on the sale price of the property, but not including an instalment on the sale price of agricultural land,
+
+but not including
+
+(vi) a royalty or similar payment on or in respect of a copyright in respect of the production or reproduction of any literary, dramatic, musical or artistic work.
+
+[4] Article XII of the Convention reads:
+
+ARTICLE XII
+
+Royalties
+
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+
+2. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the laws of that State; but if a resident of the other Contracting State is the beneficial owner of such royalties, the tax so charged shall not exceed 10 per cent of the gross amount of the royalties.
+
+3. Notwithstanding the provisions of paragraph 2, copyright royalties and other like payments in respect of the production or reproduction of any literary, dramatic, musical or artistic work (but not including royalties in respect of motion pictures and works on film, videotape or other means of reproduction for use in connection with television) arising in a Contracting State and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.
+
+4. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including motion pictures and works on film, videotape or other means of reproduction for use in connection with television), any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, tangible personal property or for information concerning industrial, commercial or scientific experience, and, notwithstanding the provisions of Article XIII (Gains), includes gains from the alienation of any intangible property or rights described in this paragraph to the extent that such gains are contingent on the productivity, use or subsequent disposition of such property or rights.
+
+[5] The appellant is an Ontario corporation that at all material times carried on the business of developing software. It was incorporated in 1984 as CS Computing Services Inc. In 1993 it changed its name to Angoss Software International Limited and in 1997 to its present name. Prior to 1992 it acquired a computer software program called "SmartWare" from Informix. It functioned as a value added reseller of the software which it bought from Informix in shrink-wrapped (i.e. manufactured and packaged) form and installed. It had no right to manufacture the product.
+
+[6] By 1992, the appellant decided that it wanted to start manufacturing the product SmartWare and, about the same time, Informix decided it wanted to get out of manufacturing that product.
+
+[7] The result was two agreements, a Source Code License Agreement and a Value Added Reseller License Agreement.
+
+[8] The agreements, of course, speak for themselves but in broad outline the object of the Source Code License Agreement was, first, to allow the appellant to examine the source code of SmartWare for sixty days. If it decided it wanted to retain access to the SmartWare source code it was to pay Informix the sum of $150,000 US, the amount in issue in this case. The second purpose was, if it decided to pay the $150,000 US, to grant it a license to use the source code in the manufacture of Software which it intended to sell.
+
+[9] The Source Code License Agreement was signed at the same time as the Value Added Reseller License Agreement. Each of the two agreements refers to the other and it was obviously intended that they be complementary to each other.
+
+[10] The Value Added Reseller License Agreement was cobbled together in a singularly peculiar way. Its purpose was evidently to complement the Source Code License Agreement by providing for license fees based upon the number of copies of the software manufactured.
+
+[11] The Value Added Reseller License Agreement in its original form was presumably the sort of agreement under which the appellant and Informix had operated when the appellant simply bought the software and resold it. Such an agreement would have been entirely inappropriate for the licensing of the source code to permit the appellant to manufacture the product. Therefore, substantial portions were deleted and replaced by an amending agreement signed at the same time as the original agreement. Relevant portions of the Source Code License Agreement are as follows:
+
+SOURCE CODE LICENSE AGREEMENT
+
+This is an Agreement between Informix Software, Inc. ("Informix"), a Delaware corporation, and CS Computing Services, Inc. ("Licensee"), a Canadian corporation, and is effective pursuant to Section 6.A of this Agreement.
+
+WHEREAS, Informix is in the business of designing, developing, marketing and licensing computer software program; and
+
+WHEREAS, Informix is either the author and owner of certain computer programs described in Exhibit "A" hereto ("Products"), or has the right to grant licenses for the use and all other dispositions, either in whole or in part, of the Products Source Code as hereinafter defined; and
+
+WHEREAS, Licensee desires to obtain royalty-free access to the Source Code for a period of sixty (60) days after receipt of the Source Code from Informix ("Review Period"), in order to determine whether it will be feasible for Licensee to progress with certain applications Licensee is developing, and Informix wishes to grant access to the Source Code for this purpose; and
+
+WHEREAS, on or before the expiration of the Review Period, Licensee intends to notify Informix of its wish to retain access (for the license fee set forth in Paragraph 2) to the Source Code for application development, and
+
+WHEREAS, Products Source Code as used herein is defined as the human readable embodiment of the computer code associated with Products implementing specific algorithms from which the Products will be derived, whether such embodiment is contained on paper, magnetic media, electronic impulses or other form or media; and
+
+WHEREAS, Products Object Code as used herein is defined as the computer executable embodiment of the computer code associated with a Product derived from the related Source Code by a process normally referred to as compilation or other process which translates the Source Code or some intermediate code derived therefrom to a form which is understood and acted upon by computers regardless of the media on which contained;
+
+NOW, THEREFORE, in consideration of these premises and other considerations, the parties hereto agree as follows:
+
+1. SOURCE CODE LICENSE
+
+A. The terms "Products", "Source Code" and "Object Code" shall have the meanings set forth above for all purposes in connection with this Agreement.
+
+B. Informix agrees to grant and Licensee agrees to accept on the terms and conditions herein, and with the express restrictions as set forth below, a nonexclusive, indivisible license, right and privilege to use and copy, in whole or in part, the Products Source Code, and to permit and restrict access to and use of the Source Code only by Licensee and its employees, only to the extent necessary for the purpose of examining the Source Code for the Review Period, and thereafter, in the event of its exercise of its option to retain the Source Code upon payment of the fee as set forth in Paragraph 2 of this Agreement, solely for the purpose of supporting the development and maintenance of Licensee's ANGOSS software on hardware systems on which Licensee chooses to make operable the Products (as combined into the ANGOSS software). The Source Code will be delivered by Informix to Licensee only as operable on IBM PC-compatible platforms operating in conjunction with the DOS operating system.
+
+C. Subject to the provisions of Section 8 of this Agreement, the license herein granted does not apply to other Informix Products Source Codes in existence or to be designed, manufactured, assembled or sold by Informix. In the event that Licensee desires to obtain the rights to such new or other types of Informix Products Source Codes, the granting of such rights shall be subject to a separate agreement then to be negotiated.
+
+D. In consideration for the Products Source Code license herein granted, Informix expressly prohibits, and Licensee expressly agrees to refrain from the distribution, sale, manufacture or copy for distribution or sale, and/or any other disposition, disclosure, release to or use by any third party of the Products Source Code.
+
+E. In consideration for the Products Source Code license herein granted, Informix expressly prohibits, and Licensee expressly agrees to refrain from the distribution, sale, manufacture or copy for distribution or sale, and/or any other disposition, disclosure, or release of the Products in executable Object Code form, including all compilations of the Products Source Code, or any part thereof, into executable Object Code form, except as provided for in Paragraph 1 (B), supra. It is acknowledged, however, that Licensee desires to obtain the rights to distribute, sell, manufacture or copy for distribution or sale, and/or make any other disposition, disclosure, release or use of the Products in executable Object Code form, including all compilations of the Products Source Code, or any part thereof, into executable Object Code form, and the granting of such rights are subject to a separate agreement executed contemporaneously with this Agreement.
+
+F. Rights granted by Informix to Licensee under this Agreement shall in no manner affect exclusive ownership by Informix of the Products Source Code, or any and all other software products owned and designed, manufactured, distributed, sold or otherwise disposed of by Informix.
+
+2. PAYMENT FOR AND DELIVERY OF PRODUCTS SOURCE CODE
+
+In the event Licensee desires to retain access to the Source Code after the Review Period, on the earlier of the expiration of the Review Period or the date when Licensee notifies Informix of its desire to begin modification and development effort on the Source Code, Licensee shall pay to Informix the nonrefundable amount of One Hundred Fifty Thousand Dollars Exactly (U.S. $150,000.00) said money of which is to be paid at 4100 Bohannon Drive, Menlo Park, California 94025, in United States Dollars without deductions of any kind.
+
+Informix agrees that within five (5) days of the Effective Date of this Agreement, Informix will ship to Licensee the Source Code operable on an IBM PC-compatible operating in conjunction with the DOS operating system.
+
+...
+
+4. COPYRIGHT NOTICES, LEGENDS, TRADEMARKS AND TRADENAMES, AND TRADE SECRETS
+
+A. Licensee agrees to include the following notice in any ANGOSS products into which the Products, in whole or in part, have been compiled and/or incorporated: "Portions of this product are licensed from and are proprietary to Informix Software, Inc., and are the subject of copyrights 1979 – 1991 in Informix Software, Inc."
+
+B. Licensee further agrees not to otherwise use any trademark or tradename of Informix, which are admitted to be the sole and exclusive property of Informix, without the prior written consent of Informix.
+
+...
+
+17. IMPLEMENTATION AND MODIFICATIONS
+
+A. This Agreement states the entire agreement of the parties on the subjects hereof; provided, however, that it is acknowledged that this Agreement is executed contemporaneously with the Authorized Value-Added Reseller Agreement between Informix and Licensee...
+
+[12] The Value Added Reseller License Agreement between Informix and the appellant, as licensee, as amended, provided in part:
+
+1.1 Nonexclusive License Grant. Informix hereby grants Licensee, subject to Paragraph 1.2 of this Agreement, the following royalty-bearing, nontransferrable, nonexclusive licenses which may be exercised solely within the Distribution Territory, Licensee may:
+
+a. obtain from Informix the distribution masters in order for Licensee to manufacture Products in whole or in part for: (a) internal development purposes of the VAR Program; and (b) distribution to Sublicensee and End User in conjunction with the Application Package. Licensee agrees to include the following notice in any ANGOSS products into which the Products, in whole or in part, have been compiled and/or incorporated: "Portions of this product are licensed from and are proprietary to Informix Software, Inc., and are the subject of copyrights 1979 – 1991 in Informix Software, Inc." Licensee will utilize the ANGOSS serialization process to keep records of all copies into which the Product are compiled and/or incorporated.
+
+b. grant the right for one or more Distributors to distribute and sublicense the Products, with or as part of the Application Packages, to Resellers or End Users; and
+
+....
+
+EXHIBIT B
+
+FEES, DISCOUNTS AND PAYMENTS
+
+SECTION 1. DISCOUNTS/FEES.
+
+Discount Alternative. It is acknowledged that Licensee will be evaluating the Source Code to Product pursuant to the Source Code License Agreement executed contemporaneously herewith. Licensee may subsequently agree to retain the Source Code for purposes of making modifications in order to market and distribute the modified Product in conjunction with the Application Package. In the interim, Licensee may opt to acquire licenses to the Products at discounts applicable according to the following:
+
+A. From the Effective Date of this Agreement until March 31, 1992, Licensee may opt to acquire licenses to the Object Code directly from Informix at a fee to Informix of $75.00 (U.S.) per copy of SmartWare II (version 1.5) (or Licensee may substitute LAN access nodes); in such event, the copies of Object Code versions of the Product will be provided to Licensee in the manner most cost effective to Informix, including with minimally adequate packaging;
+
+B. If Licensee manufactures the Products by means of employing the Source Code, as it may be modified by Licensee pursuant to the Source Code Agreement executed contemporaneously with this Agreement, Licensee shall pay a per copy fee to Informix according to the following:
+
+Copies 1-1000 U.S.$50.00/copy
+
+1001-5000 U.S.$40.00/copy
+
+5001 + U.S.$25.00/copy
+
+Licensee may acquire User Documentation for the Products directly from Informix, at a fee per copy of one hundred dollars (US$100).
+
+[13] For the sake of completeness I mention that in January 1993 a new International Distributions License Agreement with Manufacturing Rights was entered into by the appellant and Informix. This subsequent agreement, which superseded the two earlier agreements, is not relevant to the nature of the payment made under the Source Code License Agreement.
+
+[14] The question is, therefore, what the sum of $150,000 US was paid for.
+
+[15] The respondent argues that it was:
+
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+
+(i) for the use of or for the right to use in Canada any property, ...secret formula, process or other thing whatever, ...
+
+[16] The appellant concedes that it is arguable that the payment falls within this provision, but contends that if it is a royalty or similar payment it is in respect of a copyright, and is therefore exempted by subparagraph 212(1)(d)(vi).
+
+[17] The term "royalty" generally is used to denote a periodic payment based on use, production or sales. Counsel for the respondent contends that even if the $150,000 US is not a royalty or similar payment, the term "any payment" is not eiusdem generis with rent or royalty and is broad enough to cover a single lump sum payment.
+
+[18] The $150,000 US is described in the Source Code License Agreement as a "license fee" and this is, in my opinion, precisely what it is — a fee for the use of the source code. As such I think, notwithstanding the absence of periodicity, it is "similar" to a royalty.
+
+[19] Counsel for the respondent suggested that if the $150,000 US had to be characterized it was a form of earnest or payment to bind the bargain to take the license, or to show the appellant's good faith and serious commitment to the continued relationship. I think this contention is susceptible of two responses. First, the payment was not to be made until the appellant had examined the source code and had definitely decided to proceed with the license. Second, if the respondent's suggested characterization were correct, the payment would not fall within subparagraph 212(1)(d)(i) at all.
+
+[20] The terms royalty or similar payment are used in subparagraphs 212(1)(d)(i) and (vi) and have the same meaning. Was the payment "on or in respect of a copyright in respect of the production or reproduction of any literary, dramatic, musical or artistic work"?
+
+[21] It is clear beyond any doubt that copyright subsists in a source code computer program. This was true even before the amendment to the Copyright Act, which defined "literary work" to include computer programs. In Apple Computer, Inc. v. Mackintosh Computers Ltd. (1990), 71 D.L.R. (4th) 95, the Supreme Court of Canada, affirming the Federal Court, Trial Division and the Federal Court of Appeal, held that source codes embedded in silicone chips were protected by subsection 3(1) of the Copyright Act, R.S.C. 1970, c. C-30. Subsection 3(1) of that Act read as follows:
+
+3(1) For the purposes of this Act, "copyright" means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatever... and includes the sole right
+
+(a) to produce, reproduce, perform or publish any translation of the work;
+
+...
+
+(d) in the case of a literary, dramatic, or musical work, to make any record, perforated roll, cinematograph film, or other contrivance by means of which the work may be mechanically performed or delivered.
+
+[22] In Computer Law, Sookman, Barry B. 1991 Thomson Canada Limited, it is stated at pages 3-66 and 3-67:
+
+(a) Source Code
+
+In numerous cases decided before the enactment of Bill C-60, computer programs in their source code formats were found to meet the requirements of copyrightability as literary works.355 In IBM Corp. v. Ordinateur Spirales356 and in Apple Computer Inc. v. Mackintosh Computers Ltd.,357 Reed J. expressed the opinion that source codes are protected under the Act as expressions of thought in an original alphanumeric form.358 It is not necessary that what is written or recorded should express a meaning in a language; source codes are given the same protection as a list of meaningless words used as telegraph codes,359 and as a system of shorthand.360 Numerous decisions in the United States have likewise protected source code as a literary work of authorship fixed in a tangible medium of expression.361
+
+(The numerous footnotes are omitted.)
+
+[23] It follows therefore that a computer source code is a literary work in respect of which copyright subsists. It is equally clear that the payment was for the right to use or reproduce the source code and was therefore "on or in respect of a copyright in respect of the production or reproduction of any literary, ... work."
+
+[24] In the result, the payment is exempt from withholding tax under subparagraph 212(1)(d)(vi) of the Act.
+
+[25] Even if I am wrong in rejecting the respondent's argument that the payment is caught by the words " ... any payment for the use of or the right to use in Canada any ... other thing whatever" in the opening words of paragraph 212(1)(d) and subparagraph (i) thereof but not by the words "royalty or similar payment," in subparagraph (vi), I think the payment is in any event protected by the Convention . "Royalties" is defined in Clause 4 of Article XII to mean "payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work ...".
+
+[26] The $150,000 US clearly is such a payment.
+
+[27] The appeal is allowed with costs and the assessment of non-resident withholding tax is vacated.
+
+Signed at Ottawa, Canada, this 4th day of February 1999.
+
+"D.G.H. Bowman"
+
+J.T.C.C.
+

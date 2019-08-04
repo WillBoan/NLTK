@@ -1,0 +1,274 @@
+Date: 20000218
+
+Docket: 97-1185-IT-G
+
+BETWEEN:
+
+FEDERATED CO-OPERATIVES LIMITED,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Mogan, J.T.C.C.
+
+[1] This appeal is concerned with the special tax which is levied on large corporations under Part I.3 of the Income Tax Act. The charging provision states:
+
+181.1.(1) Every corporation shall pay a tax under this Part for each taxation year equal to 0.2% of the amount, if any, by which
+
+(a) its taxable capital employed in Canada for the year
+
+exceeds
+
+(b) its capital deduction for the year.
+
+The phrase "capital deduction" is defined in section 181.5 to be $10,000,000 to ensure that the tax in Part I.3 is levied only on large corporations. Taxable capital is defined as follows:
+
+181.2(2) The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+
+It can be seen that the definition of "taxable capital" comprises a positive element (capital) and a negative element (investment allowance). Each of these is a defined term but, in this appeal, I am concerned primarily with the definition of "investment allowance" which is found in subsection 181.2(4):
+
+181.2(4) The investment allowance of a corporation (other than a financial institution) for a taxation year is the total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation that is
+
+(a) a share of another corporation,
+
+(b) a loan or advance to another corporation (other than a financial institution),
+
+(c) a bond, debenture, note, mortgage or similar obligation of another corporation (other than a financial institution),
+
+(d) ...
+
+[2] In the course of the Appellant's business, it frequently accumulates cash balances in excess of its immediate cash requirements. It is the Appellant's policy to invest all or a significant portion of such cash balances in commercial instruments known as "bankers' acceptances". The issue in this appeal is whether a bankers' acceptance (referred to hereafter as a "BA") falls within item (b) or (c) of the definition of "investment allowance" set out above in subsection 181.2(4). If a BA falls within the definition of "investment allowance", then it will increase the negative element in the definition of "taxable capital" and reduce the tax payable under Part I.3 of the Act.
+
+[3] The taxation years under appeal are 1992, 1993 and 1994. At the end of each year, the Appellant had a significant amount invested in BAs and deducted the respective amounts as part of its "investment allowance" in the computation of "taxable capital" for the purposes of Part I.3. The Minister of National Revenue disallowed the deduction of all amounts invested in BAs on the basis that such amounts were not part of the Appellant's investment allowance. The amounts invested in BAs and disallowed by the Minister; and the corresponding tax under Part I.3 of the Act are as follows:
+
+Invested in BAs
+
+Corresponding Tax at 0.2%
+
+1992
+
+$244,156,063
+
+$488,312
+
+1993
+
+285,358,284
+
+570,717
+
+1994
+
+282,538,905
+
+565,078
+
+[4] The only witness who testified in this appeal was Randall Arthur Boyer, a chartered accountant who is a fulltime employee of the Appellant as finance administration officer. Mr. Boyer has held that position for 11 years. He has extensive knowledge of the Appellant's policy of purchasing BAs and he also has experience on the other side of the transaction with respect to issuing BAs. His evidence is summarized below in paragraphs 5 to 15 inclusive.
+
+[5] The Appellant is the central manufacturing and wholesaling organization for the co-operative retail system in western Canada. It procures on a wholesale basis goods which are sold through the co-operative retail system. It also owns and operates a number of manufacturing facilities throughout western Canada including a refinery, a lumber mill and feed mills. The retail co-operatives are the Appellant's shareholders. The Appellant purchases BAs to earn a rate of return on its excess cash balances. It buys BAs rather than commercial paper because the credit risk associated with a BA is less than the credit risk associated with commercial paper. The Appellant recognizes a risk/return trade-off. Commercial paper yields a higher rate of return than BAs but the credit risk is also higher.
+
+[6] Each morning, the Appellant determines its cash position and the amount of excess cash which is not required for a certain number of days into the future. It then contacts several brokers or money market desks to get offers on the BAs that they have available. Those brokers and money market desks provide the specific dates when the available BAs will mature and the discount at which they are prepared to sell. The Appellant evaluates the offers and decides which BAs it wishes to purchase. It then calls back the particular broker or money market desk and does the trade. The Appellant issues a draft in payment for one or more BAs; the draft is delivered to the broker or money market desk in exchange for the BAs which are held by the broker or money market desk in safekeeping for the Appellant.
+
+[7] The Appellant does not buy BAs every day but it is in the market several times a week. Exhibit A-1 is a three-page schedule of BAs owned by the Appellant at the end of the three taxation years under appeal: October 31, 1992, 1993 and 1994. Each page of Exhibit A-1 has nine columns which were identified and described by Mr. Boyer. In this appeal, it is important not only to characterize a BA as a particular commercial instrument but to understand how it comes into existence. I shall therefore summarize Mr. Boyer's description of Exhibit A-1 starting at the left-hand column using the column heading with the Boyer description:
+
+1. Bank: The financial institution whose broker or money market desk was the vendor of the specific BA.
+
+2. Key: A symbol which the Appellant's computer program uses to identify the vending bank in the first column.
+
+3. Invoice date: The date when the Appellant purchased the specific BA.
+
+4. Expiry date: The maturity or due date of the specific BA.
+
+5. Guarantor: The financial institution which has "accepted" or guaranteed payment of the specific BA.
+
+6. Rate: The yield that the Appellant would earn on the specific BA from the date of purchase to its expiry/maturity due date.
+
+7. Amount: The discounted purchase price paid by the Appellant for the specific BA.
+
+8. Days: The number of days from the purchase date (column 3) to the date of the schedule (Appellant's fiscal year end – October 31).
+
+9. Accrued Interest The interest that has accrued from the purchase date (column 3) to the fiscal year end (October 31).
+
+[8] The discounted purchase price in column 7 was explained as follows. It is the nature of a BA that the amount of the discount determines the yield and BAs are always sold at a discount. If the face amount of the BA was one million dollars, the Appellant would purchase it for less than $1 million. The difference between the purchase price and $1 million, and the period from purchase date to maturity date are relevant in determining the yield.
+
+[9] Mr. Boyer was a well informed witness because he was familiar with the role of both the purchaser and the issuer of a BA. Two corporations which are managed by the Appellant are issuers of BAs. Those corporations are New Grade Energy Inc. and Interprovincial Co-operative Limited. Mr. Boyer had personal responsibility for the issuing of BAs by those two corporations. He described the process as follows using New Grade Energy Inc. ("New Grade") as an example. New Grade would start by establishing a credit facility with its bank which happened to be the Canadian Imperial Bank of Commerce ("CIBC"). Once established, that credit facility would permit New Grade to issue a BA. The CIBC would provide a number of BA forms to New Grade which would (i) sign them on the front like a cheque; (ii) endorse them on the back; and (iii) return them with a blank amount to the CIBC which would forward them to Toronto to be held in safekeeping until New Grade decided to issue them.
+
+[10] When New Grade decided to issue one or more BAs and receive the proceeds as borrowed capital, it would inform the CIBC of the amount and term of the BA. The CIBC would then take one of the signed and endorsed BA forms held in safekeeping and complete it by filling in the amount and maturity date. The CIBC would then "accept" the security of New Grade by endorsing its "acceptance" on the front of the form. Exhibit A-2 is a photocopy of a paid BA in the amount of $100,000 issued by New Grade on May 22, 1996 and maturing 35 days later on June 26. It was accepted by the CIBC on the left side of the front of the form with two signatures. Although Exhibit A-2 (being a photocopy) has nothing on the back, the original BA of which Exhibit A-2 is a copy would have been endorsed on the back by New Grade with the same two signatures which appear on the front as drawer. It is this endorsement on the back which makes the BA a marketable security after its acceptance by the bank.
+
+[11] After the bank had endorsed its acceptance, New Grade was able to take the BA into the market to raise capital. New Grade would call several brokers asking for bids on the particular BA it was issuing. Generally, it would choose the best bid (highest capital amount offered or lowest yield to purchase). Having made the choice, New Grade would call back the broker who made the best bid to accept the bid and the deal would be done. The broker who made the best bid would then deliver a draft to the CIBC in Toronto in exchange for the BA. New Grade would receive the proceeds from the sale of the BA after the CIBC had deducted its stamping fee which is like a commission for accepting or guaranteeing the BA. Apart from the involvement of the CIBC in establishing the initial credit facility for New Grade and later accepting a particular BA, the CIBC is not involved in the process of taking the BA to market and selling it at the best price.
+
+[12] When a BA issued by New Grade comes due, the holder of that BA (through its broker) would present it for payment to the CIBC which, in exchange for the BA, would pay to the holder the face amount of the BA and then charge the account of New Grade for that amount which the CIBC had disbursed on its behalf. While the BA was outstanding from the date of its sale to the date of its redemption, New Grade recorded the face amount of the BA as a liability.
+
+[13] The Appellant could not produce in Court any of the BAs which it had purchased in the years under appeal because, at maturity, each BA is exchanged for payment of its face amount and the BA is stamped "paid" and returned to the issuer for cancellation. The Appellant produced Exhibit A-2 as a "paid" BA which had been issued in 1996 by its subsidiary New Grade. Even when a particular BA was outstanding and owned by the Appellant as an investment, the document itself was held in Toronto for safekeeping by the Appellant's broker or agent to facilitate its exchange for cash on the maturity date. Mr. Boyer described it as a convenience because, in Canada, all BAs are generally held in Toronto. Upon purchase, the Appellant could have insisted on taking delivery of a particular BA at its office in Saskatoon but it would have had to ship the BA back to Toronto for exchange and settlement on the due date.
+
+[14] When the Appellant purchased a particular BA, it had no knowledge of the credit arrangements between the bank which "accepted" the BA and the bank's client which issued the BA. In fact, when the Appellant purchased a BA in the years under appeal, it did not even know the identity of the person (almost always a corporation) which issued the BA. Mr. Boyer explained the situation in these words:
+
+Question: When Federated is purchasing a BA does Federated know who the issuer of the BA is?
+
+Answer: We do not know. We could know, but we do not. In these specific BA notes, we did not.
+
+Question: Why is that?
+
+Answer: The main reason for that is, that because we are purchasing the BA note based on the credit risk associated with the guarantor of the note, which is the financial institution that has accepted or stamped the note, there is really no need for us to know who the issuing corporation is. [Transcript page 19]
+
+...
+
+Question: Would it be fair to say that the investor or the purchaser of a banker's acceptance is purchasing that particular instrument on the strength of the bank that has accepted it as opposed to the particular circumstances of the drawer?
+
+Answer: The endorsement by the financial institution is really the credit risk that the purchaser of the BA note is ultimately relying upon for payment of the note at maturity, although it is issued by the drawer. [Transcript page 29]
+
+[15] Although the Appellant did not know the identity of the persons who issued the BAs, the Appellant was concerned to know the bank which had accepted each BA. Mr. Boyer stated in evidence:
+
+Question: So, Federated does know who has accepted the note when it buys it?
+
+Answer: Yes, we do.
+
+Question: Is that in any way relevant to Federated, does the identity of the entity that is accepting the note or has accepted the note, is that relevant to Federated?
+
+Answer: It is relevant in that we would not want to hold 100 percent of our BA portfolio or BA notes, we would not want them all guaranteed or accepted by the same financial institution. We would like to have our credit risk associated with the financial institutions that have guaranteed the notes spread out amongst several of those financial institutions. [Transcript page 20]
+
+[16] Having regard to the above summary of evidence, BAs have been described as follows:
+
+A bankers' acceptance is a bill of exchange drawn by a customer upon a bank, payable at some specified future date and accepted by the bank. It is called a bankers' acceptance to distinguish it from a trade acceptance which is typically accepted by the customer and represents an obligation arising under a trading contract. Banks' acceptance of drafts drawn on them by their customers has been judicially recognized as a part of the business of banking for over a hundred years. Typically, the customer draws a bankers' acceptance payable to the customer's own order and receives it back form the bank after acceptance. The customer then endorses the acceptance either "generally", thus rendering it payable to bearer or "specifically", making it payable to a named broker. In either event, the acceptance will usually be sold to an investor in the money market.
+
+(Crawford and Falconbridge Banking and Bills of Exchange, Eighth Edition, 1986 at pages 878)
+
+[17] The Appellant claims that a BA falls within one or the other of the following two items which are part of the definition of "investment allowance":
+
+(b) a loan or advance to another corporation (other than a financial institution),
+
+(c) a bond, debenture, note, mortgage or similar obligation of another corporation (other than a financial institution),
+
+In argument, Appellant's counsel acknowledged that the purchase of a BA by the Appellant was not a "loan" but Mr. McKenzie did argue that the word "advance" was broad enough to include a BA. The Appellant relies on the decision of the B.C. Court of Appeal in Air Canada v. Minister of Finance for British Columbia, [1981] 2 W.W.R. 97. The appeal by Air Canada was under the Corporation Capital Tax Act of the Province of British Columbia. The Province levied a tax on "taxable paid-up capital" and the following portion of subsection 12(1) had to be construed:
+
+12(1) For the purpose of computing the taxable paid-up capital of a corporation for a fiscal year, there may be deducted from its paid-up capital as at the close of the fiscal year such of the following amounts as are applicable ...
+
+(c) The amount that equals that proportion of paid-up capital remaining after the deduction of the amounts provided by paragraphs (a), (b) and (d) which the cost of the investments made by the corporation in the shares and bonds of other corporations, in loans and advances to other corporations and in the bonds, debentures and other securities of any government, municipal or school corporation bears to the total assets of the corporation remaining after the deductions of the amounts provided in paragraphs (a), (b) and (d), but cash on deposit with any corporation doing the business of a savings bank ... shall be deemed not to be loans and advances to other corporations.
+
+[18] I have underlined those words which in my view make this awkward legislation more comprehensible. Air Canada held four kinds of bank paper: a certificate of deposit, a bearer deposit term note, a swap deposit transaction and a bankers' acceptance. The parties had agreed that a chartered bank was "doing the business of a savings bank" within the meaning of paragraph 12(1)(c). The Ministry of Finance claimed that the cost of the four kinds of bank paper was "cash on deposit" and therefore deemed not to be loans or advances to other corporations. The B.C. Court of Appeal concluded that the cost of the four kinds of bank paper (including BAs) was not "cash on deposit" but was loans and advances to other corporations. Air Canada was successful in its appeal. This decision is clouded by the fact that the BAs owned by Air Canada were only one of the four kinds of bank paper which were lumped together for litigation purposes. Also, under the B.C. legislation, financial institutions like banks were not segregated from other corporations as they are in subsection 181.2(4) quoted above.
+
+[19] In TransCanada Pipeline Limited v. Ontario Minister of Revenue, [1993] 1 C.T.C. 277, the corporate taxpayer ("TCPL") under long-term supply contracts with gas producers had agreed to purchase certain minimum quantities of gas each year. If it was unable to take delivery of the agreed minimum in any year, it was required to pay the producer the full minimum purchase price but became entitled to a credit for such payments against future purchases of gas within a limited period of time. These were described as "take or pay" payments. Under the capital tax provisions of the Ontario Corporations Tax Act, the issue was whether the "take or pay" payments could be deducted from TCPL's paid-up capital in accordance with paragraph 54(1)(c) which permitted the deduction of "investments ... in ... advances to other corporations". In allowing the appeal of TCPL, the Ontario Court of Appeal stated at page 279:
+
+The second question is whether the take or pay payments were "advances" within the meaning of the subsection. ... In the temporal sense, these take or pay payments were advance payments required to be made by the respondent when it found itself unable to take delivery of the minimum quantity of gas specified in its contract with a gas producer. At the time they were made, the respondent expected and certainly hoped that, in the fullness of time, it would call for the delivery of an equivalent amount of gas for which it had so paid. While subsequent events belied this expectation and this hope, they did not, in our view, change the character of the take or pay payments which, at the time they were made, fell within dictionary definitions of "advance" as a "payment [made] beforehand or in anticipation" and a "payment made before ... the completion of an obligation for which it is to be paid": Dictionary of Business and Finance (1957), page 9.
+
+[20] The decision of the Federal Court of Appeal in Oerlikon Aérospatiale Inc. v. The Queen, 99 DTC 5318 is important because that Court was required to construe and apply certain provisions of Part I.3 of the Act which is the same Part that I am required to construe in this appeal. The taxpayer in Oerlikon was a subcontractor required to assemble and sell to a sister corporation ("WOB") certain components of a defence system which WOB would supply to the Canadian government. There was an agreement between Oerlikon and WOB that the working capital of Oerlikon would be provided by payments from WOB prior to the delivery or invoicing of product from Oerlikon to WOB. At the end of its 1989 taxation year, the amounts owing by Oerlikon to WOB and other customers were approximately $244 million. In computing its income for 1989 for purposes of Part I, Oerlikon included the $244 million under paragraph 12(1)(a) but deducted the same amount as a reserve under paragraph 20(1)(m). When computing its "capital" for purposes of Part I.3, Oerlikon had to apply the following statutory provision:
+
+181.2(3) The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+
+(b.1) the amount of its deferred unrealized foreign exchange gains at the end of the year,
+
+(c) the amount of all loans and advances to the corporation at the end of the year,
+
+(d) ...
+
+[21] Oerlikon argued that amounts received from customers prior to the delivery or invoicing of product were not "loans and advances" within the meaning of paragraph (c). In dismissing Oerlikon's appeal, the Federal Court of Appeal stated at pages 5323 and 5324:
+
+In the alternative, the appellant claims that the amount of $244,492,173 does not constitute "loans and advances" within the meaning of paragraph 181.2(3)(c) and should therefore not be included in the computation of its capital as such. It considers that the word "advance" can have two meanings: an "advance in the sense of a loan" which refers to a loan in the literal sense of the word, and an "advance in the sense of a payment on account" which refers to an amount to be applied against the price of a contract paid before the contract is performed. It contends that only the concept of "advance in the sense of a loan" is contemplated in paragraph 181.2(3)(c).
+
+...
+
+The Ontario Court of Appeal's decision in TransCanada Pipelines v. Ontario (Minister of Revenue) is much closer to the facts of the instant case. In that matter, the Court had to determine whether various payments made by TCPL to natural gas producers under long-term supply contracts could be deducted from the computation of its paid-up capital under paragraph 54(1)(c) of the Corporations Tax Act.
+
+...
+
+TCPL attempted to deduct the surplus portion of these payments as "loans and advances" to its suppliers under paragraph 54(1)(c) of the Ontario legislation. The Ontario Minister of Revenue issued assessments disallowing this treatment. TCPL successfully challenged these assessments both at first instance and on appeal. After a brief analysis, the Court of Appeal emphasized the fact that the payments in question:
+
+... fell within dictionary definitions of "advance" as a "payment [made] beforehand or in anticipation" and a "payment made before ... the completion of an obligation for which it is to be paid": Dictionary of Business and Finance (1957), p. 9.
+
+and held that these amounts constituted, inter alia, "advances" within the meaning of paragraph 54(1)(c).
+
+The appellant was unable to show how the advances at issue in this case were distinguishable from the advances the Ontario Court of Appeal considered in TCPL. Both cases dealt with payments made in advance for the eventual performance of the resulting reciprocal obligation.
+
+[22] The above decisions in TransCanada Pipelines and Oerlikon support the proposition that, when construing the phrase "loans and advances", there is a real difference between a "loan" and an "advance". An "advance" in the context of that phrase is an amount paid before the completion of an obligation for which it is to be paid; or an amount paid before the performance of a resulting reciprocal obligation. In that sense, an amount paid by the Appellant for the purchase of a BA is the cost of an investment and not an advance to another corporation. I place little weight on the decision of the B.C. Court of Appeal in Air Canada because (i) four kinds of bank paper (including BAs) were lumped together for litigation purposes; (ii) when characterizing the bank paper, the Court was forced to choose between "loans and advances to other corporations" and "cash on deposit"; and (iii) under the awkwardly worded B.C. legislation, financial institutions like banks were not segregated from other corporations as they are in subsection 181.2(4).
+
+[23] In Les Technologies Industrielles SNC Inc. v. Le sous-ministre du Revenu du Québec, [1998] J.Q. no. 3738 (QL), the Minister of Revenue of Quebec assessed the taxpayer corporation for a capital tax under the Loi sur les impôts which levies a tax similar to the tax under Part I.3 of the federal Income Tax Act. It appears that the corporation had issued certain BAs which were accepted and then purchased by two banks. They were issued on November 30, 1987 and due on February 29, 1988. Because the Quebec capital tax provision did not expressly include a bankers' acceptance within the capital of a corporation, the issue was whether bankers' acceptances are "loans and advances" within the meaning of section 1136 of the Loi sur les impôts. Desmarais J. of the Quebec Superior Court concluded that bankers' acceptances do not fall within the meaning of section 1136:
+
+Peu importe par ailleurs dans le présent litige la definition acceptée. Si l'avance est “ un paiement par anticipation d'une somme due ”, cette définition ne cadre pas avec la définition de l'article 1136 paragraphe d), puisque l'argent provenant de Nationale et Royale le 30 novembre 1987, est le produit d'une vente d'effet de commerce et non un paiement anticipé sur l'acceptation bancaire du 29 février 1988.
+
+UNOFFICIAL TRANSLATION
+
+It does not matter which definition is accepted in the case at bar. If an advance is "a payment in advance of an amount owing", this definition is not consistent with the one found in paragraph 1136(d), as the money received from the National Bank of Canada and the Royal Bank of Canada on November 30, 1987, constituted the proceeds from a sale of commercial paper and not an advance on the banker's acceptance of February 29, 1988.
+
+[24] In my opinion, the cost of a BA to the Appellant is not an "advance" to another corporation within the meaning of paragraph 181.2(4)(b) of the Act. If I should be wrong in this opinion and if the cost of a BA is an "advance", I would then conclude that it is an advance to the accepting bank (i.e. a financial institution) and not an advance to the drawer of the BA (i.e. another corporation). As stated in paragraph 17 above, the Appellant's counsel acknowledged in argument that the purchase of a BA was not a "loan" within the meaning of paragraph 181.2(4)(b). Therefore it remains to be determined whether a BA falls within any of the words in paragraph 181.2(4)(c):
+
+(c) a bond, debenture, note, mortgage or similar obligation of another corporation (other than a financial institution),
+
+[25] The Appellant does not claim that a BA could be characterized as "a bond, debenture or mortgage" but it does claim that a BA is a "note" or obligation similar to a note. Basically, I am required to interpret the word "note" as used in paragraph 181.2(4)(c). In Friesen v. The Queen, 95 DTC 5551, the Supreme Court of Canada quoted with approval at page 5553 the following statement by E.A. Driedger on statutory interpretation:
+
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+
+Because I am required to read the words in paragraph 181.2(4)(c) in their entire context and in their grammatical and ordinary sense, I propose to review the dictionary meanings of the four specific words in paragraph (c) using Black's Law Dictionary, Seventh Edition, 1999:
+
+Bond: an obligation; a promise; a written promise to pay money or do some act if certain circumstances occur or a certain time elapses. (page 169)
+
+Debenture: a debt secured only by the debtor's earning power, not by a lien on any specific asset. (page 408)
+
+Note: a written promise by one party (the maker) to pay money to another party (the payee) or to bearer. (page 1085)
+
+Mortgage: a conveyance of title to property that is given as security for the payment of a debt or the performance of a duty and that will become void upon payment or performance according to the stipulated terms. (page 1026)
+
+[26] Each of the above four words is evidence of an obligation to pay an amount of money or to do some act. Each word indicates an amount owing by a debtor to a creditor. Each word indicates a two-party transaction. In legal and commercial language, the word "note" is used interchangeably with "promissory note". Subsection 176(1) of the Bills of Exchange Act, Statutes of Canada, Chapter B-4, defines a promissory note as follows:
+
+176(1) A promissory note is an unconditional promise in writing made by one person to another person, signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money to, or to the order of, a specified person or to bearer.
+
+One distinction between a note and a BA is that a note is a two-party instrument while a BA is a three-party instrument (i.e. the drawer, the acceptor and the holder in due course). The Appellant's counsel argued that, in substance, the Appellant's funds on the purchase of a BA would flow through the accepting bank to the drawer of the BA; and that the drawer and Appellant were analogous to the maker and payee of a note. I cannot accept that argument because it ignores not only the important but the essential presence of the accepting bank in the transaction.
+
+[27] It is the acceptance by the bank which gives the BA value in the money market. The Appellant as a purchaser of BAs did not even know the identity of the issuers/drawers. I will repeat here a portion of the evidence of Mr. Boyer quoted above in paragraph 14:
+
+... we are purchasing the BA note based on the credit risk associated with the guarantor of the note, which is the financial institution that has accepted or stamped the note, there is really no need for us to know who the issuing corporation is. ... The endorsement by the financial institution is really the credit risk that the purchaser of the BA note is ultimately relying upon for payment of the note at maturity, although it is issued by the drawer.
+
+In paragraph 16 above, there is a description of a BA from a prominent Canadian textbook on bills of exchange. The same author makes the following comment on a BA:
+
+... It is clear both in principle and on authority that there is no borrowing upon the issue of a bankers' acceptance. The investor or ultimate purchaser of the acceptance does not make a loan to the drawer; he acquires an investment security in a transaction or purchase and sale. The bank does not lend money to the drawer; it lends its credit by accepting the order to pay as an accommodation to its customer, and pays the acceptance at maturity as its own obligation. The customer does not "repay" the bank at maturity; he may provide it with the funds required to discharge the acceptance, or he may indemnify it if it pays its own funds before calling upon him. Therefore it may be seen that there is no borrowing or lending by anyone. ...
+
+Crawford and Falconbridge Banking and Bills of Exchange, Eighth Edition, 1986 at page 879
+
+[28] Paragraph 181.2(4)(c) is concerned only with obligations having the character of a debt. According to the passage quoted above, there is no borrowing or lending by anyone upon the sale of a BA. A BA is not a debt instrument. In my opinion, the word "note" in paragraph 181.2(4)(c) cannot be construed to include a BA. Indeed, there would be an unreasonable distortion in the ordinary meaning of the word "note" (as a commercial instrument) to hold that it means or includes a BA.
+
+[29] Counsel for both parties referred me to certain provisions of the Bills of Exchange Act and, in particular, to sections 127, 128 and 129.
+
+127 The acceptor of a bill by accepting it engages that he will pay it according to the tenor of his acceptance.
+
+128 The acceptor of a bill by accepting it is precluded from denying to a holder in due course
+
+(a) the existence of the drawer, the genuineness of his signature and his capacity and authority to draw the bill;
+
+(b) in the case of a bill payable to drawer's order, the then capacity of the drawer to endorse, but not the genuineness or validity of his endorsement; or
+
+(c) in the case of a bill payable to the order of a third person, the existence of the payee and his then capacity to endorse, but not the genuineness or validity of his endorsement.
+
+129 The drawer of a bill by drawing it
+
+(a) engages that on due presentment it shall be accepted and paid according to its tenor, and that if it is dishonoured he will compensate the holder or any endorser who is compelled to pay it, if the requisite proceedings on dishonour are duly taken; and
+
+(b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to endorse.
+
+[30] As I understand the above legislation and the passage from Crawford and Falconbridge quoted in paragraph 16 above, a BA is a bill of exchange and the accepting bank is the party primarily liable to a holder in due course. The drawer of the BA is secondarily liable. If the Appellant as purchaser of a BA is a holder in due course, the Appellant's first claim for payment is against the accepting bank. This appears to be not only consistent with the provisions of the Bills of Exchange Act but is also the precise understanding of Mr. Boyer, the Appellant's only witness.
+
+[31] Appellant's counsel cited the decision in Recalma et al. v. The Queen, 96 DTC 1520 (Tax Court of Canada) and 98 DTC 6238 (Federal Court of Appeal) in which a BA is described as " ... a short-term note issued by a third party which the bank selling the note is primarily responsible for (or guarantees) repayment". See page 6239. The issue in Recalma was whether certain investment income was situate on a reserve for purposes of the Income Tax Act and the Indian Act. The Court in Recalma was not required to consider the character of a BA and whether it was a "note". I regard the sentence quoted above from page 6239 as a casual description of a BA for illustrative purposes and not intended to be a technical legal description. Even if I were to apply the above description in Recalma, I would conclude from Mr. Boyer's evidence that the Appellant regarded the BA as a "note" of the accepting bank (as a financial institution) and therefore disqualified from paragraph 181.2(4)(c).
+
+[32] The Appellant attempted to make a "double taxation" argument. Under paragraph 181.2(3)(d), the issuer/drawer of a BA is required to include in the computation of its capital the amount of all indebtedness represented by bonds, notes, BAs, etc. If the Appellant is not permitted to deduct the year end carrying value of its BAs as part of its investment allowance under subsection 181.2(4), the Appellant claims that Revenue Canada will be able to tax twice the amount of that value. There is no merit in this argument. First, upon the purchase of a particular BA, the purchaser would not ordinarily know the identity of the issuer/drawer and would not know if the issuer/drawer was a large corporation taxable under Part I.3 of the Act. Second, the Appellant's year end carrying value of a particular BA would be an amount different from the issuer/drawer's recorded liability with respect to that BA. And third, it is a fundamental principle of double taxation that the same person must be taxed twice. In Barnes v. Hutchinson, [1940] A.C. 81, Lord Wright stated at page 97:
+
+... Whatever the precise scope of the rule against double taxation, it must at least involve that it is the same income, that it is the same person in respect of the same piece of income that is being doubly taxed, whether directly or indirectly, and that the double taxation is by British assessment.
+
+[33] Notwithstanding the able argument put forward by Appellant's counsel, I am satisfied that a bankers' acceptance cannot be brought within paragraph (b) or
+
+(c) of subsection 181.2(4) of the Act. The appeals for the 1992, 1993 and 1994 taxation years are dismissed, with costs.
+
+Signed at Ottawa, Canada, this 18th day of February, 2000.
+
+"M.A. Mogan"
+
+J.T.C.C.
+

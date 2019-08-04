@@ -1,0 +1,416 @@
+Date: 19981124
+
+Dockets: 97-1791-IT-G; 97-1793-IT-G
+
+BETWEEN:
+
+PETER J. SPEER, CRAIG G. BUSHELL,
+
+Appellants,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+O'Connor, J.T.C.C.
+
+[1] These appeals were heard on common evidence in Vancouver, British Columbia, on October 26 and 27, 1998.
+
+[2] Several witnesses were heard and numerous exhibits were filed.
+
+[3] The main issue is whether the Minister was correct in assessing as fee income certain dividends which had been received by Peter Speer in 1987 and by Craig Bushell's wife in 1988 on the ground that the amounts paid effectively represented fees earned by Coopers & Lybrand ("Coopers"), of which the two Appellants were Vancouver partners. There are ancillary issues, namely, whether the Minister was statute barred in reassessing; whether the Minister can raise the issue of "sham" only at the late date of the Replies to the Notices of Appeal when the original assessment was based solely on subsection 56(2) of the Income Tax Act ("Act"); and whether the Minister can assess fee income in 1989 in the exact same amounts as dividends which had been reported and assessed as dividends in 1987 for Mr. Speer and 1988 for Mrs. Bushell, there having been no reassessments of either of them in respect of the said dividends.
+
+Background
+
+[4] As these appeals revolve around the concept of "refundable dividend tax on hand", I refer to the following extracts from CCH Canadian Limited Reports, Vol. 4, p. 19039 et seq., which explain that concept.
+
+One of the principles underlying the Income Tax Act is the concept that integration should be achieved when most types of income are received by a private corporation and then passed on to an individual shareholder. Integration is achieved when the total of tax payable by the private corporation and the resident individual shareholder is the same as the tax that would have been payable had the shareholder received the income directly. The mechanics of achieving this result require four stages:
+
+(1) a corporation is taxed on all types of investment income (except dividends in certain situations);
+
+(2) a portion of the tax paid by the corporation is refunded under section 129 when it pays a dividend, to produce a net effective tax rate on its investment income;
+
+(3) the dividend is "grossed-up" in the hands of a resident individual shareholder under subsection 82(1) to reflect the premise that the corporation's tax on investment income has been paid on the shareholder's behalf; and
+
+(4) the shareholder is allowed to deduct a dividend tax credit under section 121 to reflect the tax notionally "paid" by the corporation on the shareholder's behalf.
+
+Some of the most important provisions of the Income Tax Act directed toward achieving this integration are those dealing with the calculation of the refund of refundable dividend tax on hand contained in section 129. As described below, one of the most important aspects of refundable dividend tax on hand and accordingly, the benefits of integration, is restricted to private corporations which are Canadian-controlled.
+
+...
+
+It should be noted that under the present law, refundable dividend tax on hand is accumulated in respect of Canadian and foreign investment income only if the corporation qualifies as a Canadian-controlled private corporation throughout the years in which the income is earned. A private corporation is defined in subsection 89(1) to be a corporation resident in Canada that is not a public corporation as defined in subsection 89(1) and which is not controlled directly or indirectly by one or more public corporations. Under subsection 125(7), a Canadian-controlled private corporation is defined to be a private corporation that is not controlled directly or indirectly by non-residents, public corporations (other than a prescribed venture capital corporation) or a combination thereof.
+
+If a corporation qualifies as a private corporation it will be subject to the 33 1/3% tax on portfolio dividends imposed under section 186 but will be entitled to a refund of this tax. It may also be entitled to a refund of a portion of the tax paid on its other investment income.
+
+...
+
+Income, other than income from an active business, can be divided into two basic categories: (i) portfolio dividends and (ii) other income including taxable capital gains, income from property and income from a "specified investment business". ... Portfolio dividends are those dividends received by a private corporation which are subject to tax under Part IV and the full amount of this tax may be refunded to the private corporation as a result of the payment of taxable dividends. Apart from the tax under Part IV, dividends between Canadian corporations generally flow free of tax. The refundable tax imposed by Part IV is designed to prevent an undue deferral of tax when portfolio dividends are received by a private corporation rather than directly by an individual shareholder. However, if the shareholder's marginal rate of tax on dividends is more than 33 1/3%, the fact that the dividends are received by a private corporation will result in some deferral of tax as compared to a direct receipt of such dividends by the shareholder. ...
+
+Facts
+
+[5] I find the most relevant facts to be as follows:
+
+1. Coopers developed a plan with respect to refundable dividend tax on hand (the "RDTOH Plan") whereby companies with RDTOH balances could get tax refunds without paying taxable dividends to existing shareholders.
+
+2. Coopers in Vancouver facilitated such a transaction in early 1987 and received fees for its work. It was decided to expand the Plan later in 1987.
+
+3. The Plan is best explained by quoting from Coopers' memo of March 27, 1987 to All Tax Partners. That memo is at Tab 9 of Exhibit R-1 and reads as follows:
+
+Date: March 27, 1987
+
+To: All Tax Partners
+
+From: Bruce Sinclair, Vancouver
+
+Subject: GETTING A REFUND OF YOUR CLIENTS'
+
+REFUNDABLE DIVIDEND TAX ON HAND
+
+The Vancouver office has developed a plan that will be of interest to private corporations having large RDTOH balances. There is no requirement to pay taxable dividends to existing shareholders. Interested private corporations will include corporations that have realized large capital gains; corporations that earn investment income in excess of the shareholders' requirements for cash dividends; or corporations that have had significant Part IV tax liabilities. In these circumstances, the present value of the RDTOH may be low and the shareholders may prefer entering into transactions today rather than waiting until dividends would ultimately be paid in future years.
+
+The transactions, which involve a client of the Vancouver office, are designed to create a refund to the corporation of its RDTOH for a relatively small cost – about 10% of the amount of the tax refunded. The amount of this fee is such that it could be recouped within a year or two by the private corporation through re-investing the RDTOH refunded. The 50% increase in the RDTOH of corporations on January 1, 1987 makes this type of transaction more attractive than previously. Because of the fixed costs associated with the plan, RDTOH of at least $150,000 - $200,000 is required.
+
+A brief outline of the essentials of the plan is attached.
+
+The Vancouver office will bill our client for C & L services provided and we propose to share the fee in the ratio of 70% to the referring office and 30% to the Vancouver office.
+
+Please call me if you have any clients that may be interested in such a transaction and I will forward a document binder. We will be asking anyone (including the clients' legal counsel) outside the firm to sign secrecy agreements and we would request that you contact the Vancouver office before discussing the plan with specific parties. We will also attempt to centralize the distribution of documents so as to preserve the value of this plan.
+
+"BRS"
+
+BRS:de
+
+cc: Bill Camden
+
+David Steele
+
+RDTOH PLAN
+
+EXAMPLE – TO RECOVER $500,000 OF RDTOH
+
+LOAN = $1,450,000
+
+PREFERENCE SHARES
+
+PUC = $1
+
+REDEMPTION AMOUNT = $1,500,001
+
+PURCHASE AMOUNT = $1,450,000
+
+STEPS:
+
+1. Subsidiary is newly incorporated for each transaction.
+
+2. Shareholder lends $1,450,000 to Subsidiary, payable on demand and secured by the preferred shares of Private Company (see 3 below).
+
+3. Subsidiary uses the proceeds of the loan to subscribe for $1,450,000 of preferred shares of Private Company. The preferred shares are non-voting and redeemable at the option of Private Company. The paid-up capital is $1; the redemption amount is $1,500,001. ...
+
+4. When preferred shares are redeemed, a deemed dividend of $1,500,000 arises in Private Company triggering a tax refund of $1,500,000/3 = $500,000. The net cost to Private Company is $1,500,001 - $1,450,000 = $50,001.
+
+5. Subsidiary will receive the $1,500,000 deemed dividend free of tax. Subsidiary has obtained independent legal advice to this effect – Coopers & Lybrand will not opine since we have acted as architects of the plan and stand to earn substantial fees.
+
+6. The issuance of high/low preference shares may cause some difficulty for corporations incorporated federally or in certain provinces. One solution might be continuation into B.C.. Undoubtedly other solutions exist. This problem will have to be explored on a province by province basis.
+
+...
+
+4. The flow of dividends from the RDTOH companies down to the subsidiaries of the public companies, then down to the public companies, namely Pinetree Software Canada Ltd. ("Pinetree") and Eastern Mines Ltd. and to AH Three Holdings Ltd. ("AH Three") and AG Fourteen Holdings Ltd. ("AG Fourteen") and then from these last two mentioned companies to their shareholders, namely Coopers partners or investment vehicles of partners or family members of partners or family trusts (collectively "Coopers partners") is shown on the following diagram which is, with minor corrections and clarifications, based on Schedule I to the Replies to the Notice of Appeal. Although these two appeals only relate to the amounts paid to Peter Speer and Mrs. Bushell, the diagram, as well as the dividends paid, as detailed below, cover all amounts paid to Coopers partners. This approach was adopted by the Respondent because many other Coopers partners have been assessed in the same manner as Peter Speer and Mrs. Bushell.
+
+Strip
+
+Companies
+
+$170,000 $226,859 $123,352 $1,308,578
+
+of
+
+Public
+
+Companies
+
+$62,500 $62,500 $141,500 $147,500
+
+$340,000 $574,289 $80,000
+
+$314,289
+
+Not directly relevant to
+
+these appeals
+
+$15,630 $242,265 $90,979 $86,857 $194,508
+
+$70,335 $60,022 $74,508
+
+$58,584
+
+Coopers Vancouver Non Tax Partners Coopers Vancouver Tax Partners
+
+5. The actual dividends paid to Peter J. Speer, to Craig G. Bushell's wife and to other Coopers partners is shown below and is based on Schedule III to the Replies.
+
+DIVIDENDS PAID
+
+December 23, 1987 AG Fourteen Holdings Ltd. declared the following taxable dividends:
+
+Class A Common $60,000 C.L. Friesen, in Trust
+
+Class B Common $80,700 Rodney B. Johnston
+
+Class C Common $26,904 Yolande A. Proctor
+
+Class C Common $26,904 S.C. Sinclair, in Trust
+
+Total $194,508
+
+December 23, 1987 AH Three holdings declared the following taxable dividends:
+
+Class A Common $15,630 Judith Bowles
+
+Class D Common $15,630 W.J. Dawson Family Trust
+
+Class E Common $15,630 June F. Fairchild
+
+Class G Common $7,815 Hazel Halliday
+
+Class H Common $7,815 Catriona Halliday
+
+Class I Common $7,815 Maureen Fane
+
+Class K Common $15,630 Pauline Kay
+
+Class L Common $15,630 Doreen A. Lilley
+
+Class M Common $15,630 M.A. Linsley Family Trust
+
+Class P Common $15,630 Janet Paterson
+
+Class R Common $15,630 M.G. Larsen
+
+Class S Common $15,630 Donna M. Shultz
+
+Class T Common $15,630 K. Powroznik, in Trust
+
+Class V Common $7,815 Robert E. Sinclair
+
+Class W Common $7,815 Susan M. Sinclair
+
+Class X Common $15,630 P.J. Speer
+
+Class Y Common $15,630 L. Marie Stanley
+
+Class Z Common $15,630 Doris Wanless
+
+Total $242,265
+
+January 13, 1988 AG Fourteen Holdings Ltd. declared the following taxable dividends;
+
+Class A Common $20,700 C.L. Friesen, in Trust
+
+Class C Common $26,904 Yolande Proctor
+
+Class D Common $26,904 S.C. Sinclair, in Trust
+
+Total $74,508
+
+January 13, 1988 AH Three Holdings declared the following dividends:
+
+Class C Common $15,630 Liz Byrd
+
+Class I Common $7,815 Maureen Fane
+
+Class N Common $15,630 C.G. Bushell's wife
+
+Class O Common $15,630 300169 B.C. Ltd.
+
+Class U Common $15,630 D.R. Eddy, in Trust
+
+Total $70,335
+
+March 31, 1988 AG Fourteen Holdings declared the following taxable dividends:
+
+Class A Common $1,200 C.L. Friesen, in Trust
+
+Class B Common $1,200 Rodney B. Johnston
+
+Class C Common $28,092 Yolande A. Proctor
+
+Class D Common $28,092 S.C. Sinclair, in Trust
+
+Total $58,584
+
+6. The said March 27, 1987 memo refers to a cost to the RDTOH companies of 10% of the tax refund (said 10% to be divided 50/50 between the subsidiaries of the public companies and Coopers). The memo also refers to a split in the fees between the referring office of Coopers and the Vancouver office, namely 70% for the referring office and 30% for the Vancouver office. Further, Coopers' letter to Pinetree dated May 4, 1987 (Tab 5 of Exhibit R-1) which was agreed to by Pinetree, indicates a fee was to be paid to Coopers.
+
+7. From April 22, 1987 to May 26, 1987 Coopers wrote to RDTOH companies outlining Coopers' involvement asking that the transaction be completed in confidence and advising that the fees earned by Coopers would be borne by the public companies or their subsidiaries – see Tabs 25 to 29 of Exhibit R-1.
+
+8. The RDTOH companies were advised that Coopers would be receiving fees from the subsidiaries of the public companies, said subsidiaries being AH Six Holdings Ltd. ("AH Six"), Quinstar Developments Ltd. ("Quinstar") and AG Nineteen Holdings Ltd. ("AG Nineteen"). These subsidiaries were incorporated in April and May of 1987 and were controlled by the public companies.
+
+9. The amounts received by the subsidiaries matched the amounts proposed to be charged as fees in the March 27, 1987 memo. For example, as stated in paragraph 4(bb) of the Replies,
+
+bb) On June 16, 1987, AH6 entered into an RDTOH transaction involving the purchase of preferred shares for $7,330,000 which were redeemed immediately after their purchase by the issuer company G.R. Dawson Holdings Ltd. for an amount of $7,500,000 resulting in a net gain to AH6 (after legal expenses) of $170,000.
+
+Applying these figures to step 4 of the RDTOH Plan quoted above on page 6, the deemed dividend in the Private Company is $7,500,000, the tax refund is $7,500,000/3 = $2,500,000. The net cost to the Private Company is $7,500,000 - $7,330,000 = $170,000.
+
+10. All of the shares of AH Three and AG Fourteen (the "Coopers companies") were owned by Coopers partners. The amounts paid out by AH Six, Quinstar and AG Nineteen to the Coopers companies were, for all intents and purposes, exactly the same amounts as paid to the subsidiaries of the public companies. In other words, the so-called cost or premium of 10% mentioned above was split 50-50 between the Coopers companies and the subsidiaries. None of the companies in the chain paid Coopers any fees in respect of the RDTOH Plan. The obvious advantages of the Plan are that dividend income is taxed at a rate lower than fee income and in some cases Coopers partners would achieve income splits.
+
+11. The amount paid by AH Three to Peter Speer was taken into account in determining his share of profits earned from Coopers. The amount paid by AH Three to Mrs. Bushell was taken into account in determining Craig Bushell's share of profits earned from Coopers. Both Peter Speer and Craig Bushell were required to make a 10% capital contribution to Coopers in respect of the dividends paid.
+
+12. The legal relationships are not at issue. In other words, the companies shown on Schedule I were validly incorporated, the requisite resolutions of directors declaring dividends were adopted and were technically correct. Both Peter Speer and Mrs. Bushell (through a family trust of which she was the sole beneficiary) acquired shares in the Coopers companies in each case at a cost of $100.00.
+
+13. Neither of the Appellants were officers or directors of any of the companies but other Coopers' partners were directors of the Coopers companies.
+
+14. When the RDTOH Plan was presented to the partners, several partners raised objections to Coopers participating by way of fees because it was beyond the business of Coopers and might raise liability insurance problems and further it was quite possibly contrary to the British Columbia Institute of Chartered Accountants' Rules against contingency fees. Thus, Coopers received no fees but through the Coopers companies, Coopers partners received dividends. There is no doubt that at one point in time it was contemplated that fees would be paid to Coopers, however the evidence of Peter Walton, on behalf of the RDTOH companies and Michael Iannacone, on behalf of AG Nineteen and Quinstar, was that there was no agreement as to fees and no professional advice was provided by Coopers. The companies involved received opinions from professionals other than Coopers.
+
+Submissions of the Appellants
+
+[6] Counsel for the Appellants submits that since the dividends in issue were reported in the 1987 and 1988 tax returns respectively for Mr. Speer and Mrs. Bushell, and since they were taxed as such and have not been reassessed the Minister cannot subsequently decide to tax the same amounts as fee income. He states that if the Minister can succeed in doing so then tax will have been paid twice with respect to the same amounts.
+
+[7] Counsel submits further that as the dividends were paid in 1987 and 1988 the same amounts cannot be taxed in the 1989 year. Moreover the actual reassessment in 1993 is statute barred – i.e., too late. Also none of the Coopers partners in Victoria who were shareholders of Nordic Investments Ltd. or partners in Edmonton who were either shareholders or whose spouses or family trusts owned shares in C & L Edmonton Limited were reassessed. He adds that of greater significance is the fact that none of the corporations who issued the dividends received by AH Three or AG Fourteen were reassessed. Counsel argues further that the Minister cannot raise the issue of "sham" and even if he can, there was no sham. He adds that the basis of the assessment is subsection 56(2) of the Act in that the Minister concluded that the Appellants directed or concurred in a payment being made by AH Six, Quinstar and AG Nineteen to the Coopers companies, which would otherwise have been made by way of fees to the Appellants and other Coopers partners and that this position is untenable because the Appellants were incapable legally of directing or concurring in any issuance of dividends by AH Six, Quinstar or AG Nineteen.
+
+[8] He refers to the decision of the Supreme Court of Canada in Neuman v. M.N.R., unreported, File 25565, judgment dated May 21, 1998, which determined conclusively that subsection 56(2) cannot apply to dividends since as dividends come from retained earnings of a corporation, if dividends are not issued funds remain in the corporation and the shareholders have no right to require the payment of the dividend.
+
+[9] Counsel adds further that there was no clear proof of any agreement to pay fees to Coopers and that the letter to Pinetree, dated May 4, 1987, refers to a fee but does not refer to any amount or to any of the terms and conditions related to the payment of that fee.
+
+Submissions of the Respondent
+
+[10] The submissions of the Respondent are best summarized by quoting from pages 7 and following of Respondent's counsel's written argument.
+
+1. It is the Respondent's submission that the case before the Court is one of a simple case of constructive receipt, for which subsection 56(2) was designed to prevent. Cattanach, J., of the Federal Court Trial Division in Murphy v. R., [1980] C.T.C. 386 stated the purpose of subsection 56(2) as follows (Tab 3, para.38):
+
+Subsection 56(2) is to impute receipt of income to the taxpayer that was diverted at his instance to some one else. It is to cover cases where the taxpayer seeks to avoid the receipt of what in his hands would be income by arranging to transfer that amount to some other person he wishes to benefit or for his own benefit in doing so. Apart from any moral satisfaction the practical benefit to the taxpayer is the reduction in his income tax.
+
+2. Where a taxpayer had rights to a sum which would be taxable in his hands and he arranges for those sums to be received by another, subsection 56(2) has been applied to bring the sums back into his income. see Sims v. MN.R. (Tab 7), McClain Industries of Canada v. R. (Tab 8), George D. Adams v. M.N.R. (Tab 9).
+
+3. Coopers were entitled to fees resulting from their development of and work on the RDTOH Plan. They were entitled to these fees from the public companies. Instead of being paid these fees, Coopers, as creditor to the public companies, directed the public companies to pay the fees to AH3 and AG14. The public companies then had the Subsidiaries which they controlled pay the amounts owed to Coopers to AH3 and AG14. The amounts would then flow as dividends to either the partner or a family member. The practical effect of this is that what was professional fees has been converted into dividend income in the partners hands or dividend income in the hands of a family member who presumably would be either non-taxable or taxed at a lower rate than the partner.
+
+4. The relevant portions of subsection 56(2) of the Income Tax Act reads as follows:
+
+A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person... shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+
+5. From the wording of subsection 56(2), four ingredients must be present for there to be taxability under the subsection:
+
+a) there must be a payment or transfer of property to a person other than the reassessed taxpayer;
+
+b) the payment or transfer must be pursuant to the direction of or with the concurrence of the reassessed taxpayer;
+
+c) the payment or transfer must be for the benefit of the reassessed taxpayer or for the benefit of another person whom the reassessed taxpayer wished to benefit; and
+
+d) the payment or transfer would have been included in the reassessed taxpayer's income if it had been received by him or her.
+
+George A. Murphy v. Her Majesty the Queen, 80 DTC 6314 (F.C.T.D.)
+
+Melville Neuman v. Her Majesty the Queen, unreported, op cit.
+
+6. In our case, the amounts paid by the Subsidiaries to AH3 and AG14 as set out in Schedule I of the Reply were payments or transfers of property to a person other than the Appellants. These payments were for the benefit of the Appellants (in that they reduced their income tax) and for the benefit of persons related to the Appellants (in that the amounts were redirected to corporations in which their family members were shareholders). These amounts would have been included in the Appellant's income if received by them as their share of the income of the Coopers partnership.
+
+7. In addition to the above four criteria, an additional criteria was added by the Supreme Court of Canada's decisions in McClurg and Neuman. This is that the reassessed taxpayer had an entitlement to, or would otherwise have received, the payments in dispute.
+
+8. As stated, it is the Respondent's submission in our case that the amounts paid by the Subsidiaries to AH3 and AG14 were fees owing to Coopers for their development and work on the RDTOH plan and that the Appellants, as partners in Coopers, had an entitlement to those fees, and concurred in the redirection of those fees to companies in which they or their family members were shareholders.
+
+9. If it should be found that the amounts paid by the Subsidiaries to AH3 and AG14 were in fact dividends, the Respondent concedes that the appeals should be allowed as the Appellants would not have any pre-existing entitlement to these dividends as they were not shareholders in the Subsidiaries. As was determined in Neuman, subsection 56(2) would have no application because the dividends, if not paid, would be retained as earnings by the company.
+
+10. The two issues therefore are whether Coopers & Lybrand had an entitlement to fees from the RDTOH plan and whether the amounts paid to AH3 and AG14 by the Subsidiaries were in fact fees and not dividends.
+
+11. The Respondent submits that the letter dated May 4, 1987 from Coopers to Pinetree (Tab 5 of Exhibit R-1) clearly establishes an agreement to pay a fee as it was signed "accepted and agreed" by a director of Pinetree. This alone would establish an entitlement to a fee by Coopers. However, the following evidence provides further support for a fee entitlement:
+
+a) the nationally distributed Coopers interoffice memo dated March 27, 1987 which was written to inform the various Coopers offices of the RDTOH plan and to get referrals of RDTOH companies makes several references to fees:
+
+i) refers to a 10% fee to be charged;
+
+ii) proposes a split of this fee between the referring office and Vancouver office of Coopers;
+
+iii) refers to the earning of "substantial fees" by Coopers as a reason why Coopers cannot give an opinion to the Subsidiaries as to the tax-free receipt of the dividend from the RDTOH companies;
+
+iv) advises referring offices on the contents of any engagement letters stating that "it is very important that the referring office notify its clients in writing that Coopers & Lybrand will be receiving fees from the public company or Subsidiary";
+
+v) advises that the "fees" will definitely not be refunded should the RDTOH plan not work.
+
+b) a letter [Tab 10 of Exhibit R-1] from Coopers to Randy Zien, a lawyer at the law firm Ladner Downs and legal advisor to one of the RDTOH companies, stated that "Coopers & Lybrand is acting on behalf of its client, Pinetree Software Canada Ltd., and will be paid a fee for services rendered on its behalf.";
+
+c) letters from Coopers to the RDTOH companies state "the fees earned by Coopers & Lybrand will be borne by our client in this transaction, the purchaser of the redeemable preferred shares.";
+
+d) as well, as Coopers developed this Plan, it would be reasonable that they would seek financial compensation for use of the Plan. Mr. Majeau himself referred to a proprietary right to the RDTOH Plan.
+
+12. Taken as a whole, the Respondent submits the documents evidence a clear entitlement to fees on the part of Coopers for its development of and facilitation of the RDTOH plan.
+
+13. Not only does the evidence indicate that a fee was earned by Coopers, the Respondent submits that the evidence also indicates that the amounts that were paid to AG14 and AH3 were in fact payment of the fees owing to Coopers and were not dividends:
+
+a) the only financial benefit derived out of the Plan by anyone at Coopers were the amounts that flowed first from the Subsidiaries to AG14 and AH3 and then from AH3 and AG14 to the partners and family members of the partners of Coopers. If Coopers had an entitlement to a fee, and since no fee was paid to Coopers directly, it would be reasonable to assume that the amounts flowing from AG14 and AH3 were in payment of the fees owing to Coopers;
+
+b) the March 27 memo from Coopers which was distributed nationally proposed exploiting the RDTOH Plan by charging a fee equal to 10% of the dividend refunds. This was the proposal in March. As it turned out, the amounts received by the Subsidiaries from the RDTOH companies, which were to be distributed between the public companies and the Coopers Companies, were consistent with the proposed 10% fee to be paid;
+
+c) the amounts paid out to Coopers & Lybrand (Edmonton) Ltd. and Nordic Investments Ltd., which represent investment vehicles by the Edmonton and Victoria partners of Coopers respectively, exactly matched the proposed fee split arrangement between referring offices and the Vancouver office as set out in the national Coopers memo dated March 27, 1987;
+
+d) the amounts paid out to the public companies and LD134 exactly matched the amounts paid out to the Coopers Companies;
+
+e) as with the Appellants share of partnership income for the year, the Appellant was required to make a 10% capital contribution with respect to the amounts received from AH3. Therefore, at least for purposes of this holdback, the amounts from AH3 were treated as if they were partnership income of the Appellants.
+
+14. As a dividend is received by virtue of ownership of the capital stock of a corporation and not to any other consideration (see Neuman Tab 2 para.57), the amounts received by AG14 and AH3 from the Subsidiaries did not have the characteristics of a dividend and in substance were amounts in payment of the fees owing to Coopers for developing the RDTOH Plan.
+
+15. It is trite law that the substance of a payment is to govern over its form. Courts have in the past considered the nature of a payment made by a corporation allegedly made as dividend payments and have found the payments were not, because of their nature, in substance dividends. see Charles A. Guenette v. M.N.R. (Tab 4), Katherine Irene German v. M.N.R. (Tab 5), United Color and Chemicals Ltd. v. M.N.R. (Tab 6).
+
+16. In summary the Respondent submits that the evidence indicates that, contrary to the Appellants position, the proposed charging of a fee by Coopers as set out in the March 27, 1987 memo was carried out and fees were earned by Coopers for their development of the RDTOH Plan. As well, the evidence indicates that the amounts that were paid to AG14 and AH3 were in payment of the fees earned by Coopers and as such they were not in substance dividends but rather represented professional fees earned by Coopers. The redirecting of these fees to AG14 and AH3 is clearly a situation subsection 56(2) was meant to address.
+
+Analysis and Decision
+
+[11] In my opinion there was no sham. The companies were validly incorporated and the declarations of dividends were validly made. Shares in AH Three and AG Fourteen were validly acquired. There was no attempt to disguise the true nature of the relationships between the companies and their shareholders nor of the dividends being paid. Having found there was no sham I will not address whether the Minister was barred from raising that issue.
+
+[12] The Supreme Court of Canada in Neuman made it clear that subsection 56(2) does not apply to dividends. Admittedly, there is a close relationship between the amount of the dividends and the amount of the fees that might otherwise have been charged. However the Coopers partners were free to take advantage of the provisions of the Act and to structure the transactions in such a manner that dividends would be paid and not fees. Moreover, there was no specific agreement as to fees. Dividends have been validly declared and paid and moreover the Minister has already assessed the amounts in question as dividends in 1987 for Mr. Speer and 1988 for Mrs. Bushell. The following extracts from the decision of the Supreme Court in Neuman are relevant:
+
+34 As the judicial history of this appeal reveals, the interpretation of this Court's majority decision in McClurg lies at the heart of the present case. This Court held in McClurg that generally s. 56(2) will not apply to dividend income. However, Dickson C.J. suggested in obiter in McClurg that s. 56(2) may apply where dividend income is distributed through the exercise of a discretionary power to a non-arm's length shareholder who has made no legitimate contribution to the company (at p. 1054). The Federal Court of Appeal felt bound by the potential exception articulated by Dickson C.J. in obiter since the facts in the present case were similar to the facts in McClurg with the only material difference being that Ruby Neuman, unlike Wilma McClurg., had not made any contribution to the corporation.
+
+35 A large part of my analysis will involve a review of the holdings in McClurg. Before I turn to McClurg, however, I wish to make some observations to place the present debate into its proper perspective. First, s. 56(2) strives to prevent tax avoidance through income splitting; however, it is a specific tax avoidance provision and not a general provision against income splitting. In fact, “there is no general scheme to prevent income splitting” in the ITA (V. Krishna and J. A. VanDuzer, “Corporate Share Capital Structures and Income Splitting: McClurg v. Canada” (1992-93), 21 Can. Bus. L.J. 335, at p. 367). Section 56(2) can only operate to prevent income splitting where the four preconditions to its application are specifically met.
+
+36 Second, this case concerns income received by Ruby Neuman during the 1982 taxation year at which time the ITA did not provide specific guidelines to deal with corporate structures designed for the purposes of income splitting and tax minimization. Professor V. Krishna, in an article entitled “Share Capital Structure of Closely-Held Private Corporations” (1996), 7 Can. Curr. Tax. 7, at p. 9, made the following comment with respect to income splitting in the corporate context:
+
+Except when specifically curtailed by the Income Tax Act (for example, by the attribution rules), income splitting per se is not a sanctioned arrangement. Thus, corporate structures that facilitate income splitting in private companies should not be penalized without clear statutory language and intent. [Emphasis added.]
+
+Parliament has since fashioned legislation to regulate corporate income splitting (s. 74.4 of the ITA, introduced in 1985), but this legislation does not apply to the present appeal.
+
+37 Third, this appeal is limited to the interpretation and application of s. 56(2) of the ITA; the appeal is not based on the general anti-avoidance rule set out in s. 245 of the ITA (“GAAR”). GAAR came into force on September 13,1988 and it applies only to transactions entered into on or after that date.
+
+38 Fourth, the respondent has not argued that the appellant was involved in a sham or an artificial transaction and this was acknowledged by counsel for the respondent during the hearing.
+
+39 Finally, it is important to remember that this Court held unanimously in Stubart, supra, at p. 575, that a transaction should not be disregarded for tax purposes because it has no independent or bona fide business purpose (Estey J. wrote for himself and Beetz and McIntyre JJ,; Wilson J. wrote concurring reasons for herself and Ritchie J.). Thus, taxpayers can arrange their affairs in a particular way for the sole purpose of deliberately availing themselves of tax reduction devices in the ITA. Estey J. rejected the suggestion that a distinction must be drawn between non-arm's length and arm's length transactions in the application of this principle (at pp. 570-72). According to Stubart, therefore, non-arm's length arrangements can also be created for the sole purpose of taking advantage of tax reduction devices.
+
+...
+
+63 Finally, the requirement of a legitimate contribution is in some ways an attempt to invite a review of the transactions in issue in accordance with the doctrines of sham or artificiality. Implicit in the distinction between non-arm's length and arm's length transactions is the assumption that non-arm's length transactions lend themselves to the creation of corporate structures which exist for the sole purpose of avoiding tax and therefore should be caught by s. 56(2). However, as mentioned above, taxpayers are entitled to arrange their affairs for the sole purpose of achieving a favourable position regarding taxation and no distinction is to be made in the application of this principle between arm's length and non-arm's length transactions (see Stubart, supra). The ITA has many specific anti-avoidance provisions and rules governing the treatment of non-arm's length transactions. We should not be quick to embellish the provision at issue here when it is open for the legislator to be precise and specific with respect to any mischief to be avoided.
+
+64 To summarize, it is inappropriate to consider the contributions of a shareholder to a corporation when determining whether s. 56(2) applies. Dividends are paid to shareholders as a return on their investment in the corporation. Since the distribution of the dividend is not determined by the quantum of a shareholder's contribution to the corporation, it would be illogical to use contribution as the criterion that determines when dividend income will be subject to s. 56(2). The same principles apply in the context of both non-arm's length relationships such as often exist between small closely held corporations and their shareholders, and arm's length relationships such as exist between publicly held corporations and their shareholders.
+
+[13] The facts (a) that fees were paid to Coopers on the first transaction in early 1987; (b) that correspondence and memos refer to fees or costs; (c) that the splits of 50/50 and 70/30 described above were in effect achieved; and (d) that the dividends paid to Coopers partners were taken into account in dividing partnership profits and fixing capital contributions certainly indicate that the amounts of the dividends were related to the amounts of the fees that might otherwise have been charged but in my opinion that is not sufficient to change dividends, validly and legally declared by companies, validly incorporated and organized, into fees. It is noteworthy that the dividends declared by the RDTOH companies and by the subsidiaries of the public companies were paid prior to the enactment of subsection 129(1.2), an anti-avoidance provision apparently aimed at transactions of the nature in question. This subsection is discussed in IT-243R4 as follows:
+
+6. Subsection 129(1.2) provides an anti-avoidance rule which prevents a corporation from structuring arrangements in order to obtain a dividend refund without the related shareholder tax being paid. For example, a private corporation with RDTOH may seek to issue shares with a high redemption price but low paid-up capital to a tax-exempt entity or other corporation that receives ordinary dividends on a non-taxable basis and obtain a dividend refund on the subsequent share redemption. Subsection 129(1.2) is designed to stop these types of arrangements by deeming a dividend not to be a taxable dividend and denying a dividend refund in respect of that dividend where the following circumstances exist:
+
+the dividend is paid on a share of a corporation;
+
+the share (or a substituted share) was acquired by the holder in a transaction or as part of a series of transactions; and
+
+one of the main purposes of the transaction or the series of transactions was to obtain a dividend refund.
+
+Subsection 129(1.2) applies to dividends paid after 4 p.m. Eastern Daylight Saving Time, September 25, 1987 to a person who is exempt from tax or is a corporation other than a private corporation, and to all dividends paid after November 27, 1987 where the circumstances described above exist.
+
+[14] As to the issue of whether the Minister could in 1993 assess the 1989 taxation year it is helpful to quote the following from the Replies to understand the Minister's position:
+
+oo) had the fees been paid directly to the Appellant and the Partners, instead of being paid to AH3 and AG14 and then as Dividends to the Other Persons, the amounts would have been taxable to the Appellant and the Partners as income of the Coopers Operating Partnership;
+
+pp) the Coopers Operating Partnership had a year end of April 3 and was a member of the Coopers Partnership with a year end of January 31.
+
+qq) as a result the income in respect of the fees earned in the year ending April 3, 1988 (from fees received in the form of dividends in May and June, 1987) are income to the Coopers Partnership in the year ending January 31, 1989;
+
+In my view it is a considerable stretch to conclude that because of the varying year ends of Coopers and the Coopers Operating Partnership, the Minister could assess in 1993 dividends actually paid and assessed to tax in 1987 and 1988. Moreover, in my opinion, if any recharacterization of the dividends was to be done (and in my view it should not), what Coopers in effect did was to charge a consideration for the use of the Plan, i.e., a consideration for the use of intellectual property not fee income. That consideration was clearly received in 1987 and 1988 and cannot be assessed in 1993 as income received in 1989.
+
+[15] I have reviewed all the authorities submitted by counsel for the Respondent but find that none of them have convinced me to arrive at conclusions other than those stated above.
+
+[16] Consequently the appeals are allowed with costs and the reassessments in issue are vacated.
+
+Signed at Ottawa, Canada this 24th day of November 1998.
+
+"T.P. O'Connor"
+
+J.T.C.C.
+

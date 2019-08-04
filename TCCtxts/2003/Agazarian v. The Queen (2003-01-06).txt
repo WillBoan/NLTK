@@ -1,0 +1,484 @@
+Date: 20030106
+
+Docket: 95-2570-IT-G
+
+BETWEEN:
+
+GEORGE AGAZARIAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+ISSUE:
+
+[1] The Appellant, by Notice of Motion, pursuant to paragraph 58(1) of the Tax Court of Canada Rules (General Procedure), applied for the determination before hearing of the appeal, of the following question of law raised in the Notice of Appeal, namely, as set out in the motion:
+
+Was the Minister of National Revenue entitled to make a reassessment of tax for the Appellant's 1987 taxation year pursuant to subparagraph 152(4)(b)(i) of the Income Tax Act after October 5, 1991, the end of the Appellant's normal reassessment period for the 1987 taxation year?
+
+More particularly, the question is whether the Minister, having made a reassessment pursuant to subparagraph 152(4)(b)(i) as required by paragraph 152(6)(c), can make another reassessment in respect of the same loss carry back request.
+
+GENERAL:
+
+[2] All references to section numbers pertain to the Income Tax Act ("Act") unless otherwise stated.
+
+FACTS:
+
+[3] Pertinent facts taken from an Agreed Statement of Facts are as follows:
+
+1997 TAXATION YEAR:
+
+1. The Appellant filed his 1987 taxation year return of income ("1987 Tax Return") as required by section 150 of the Act on or before April 30, 1988.
+
+2. The Minister of National Revenue ("Minister"), by Notice of Assessment dated October 5, 1988, assessed the Appellant's 1987 taxation year.
+
+3. In his return of income for his 1988 taxation year ("1988 Tax Return") the Appellant included a form entitled "Request for Loss Carry-Back" in which he requested that a non-capital loss of $1,747,617 ("1988 Partnership Loss") representing his share of a loss suffered by the Grand Bell Property, Ltd. Partnership be applied as a deduction ("1988 Loss Carry Back) for his 1987 taxation year.
+
+4. By Notice of Reassessment dated July 11, 1989 the Minister applied to the Appellant's taxable income for the 1987 taxation year non-capital losses carried forward from his 1984, 1985 and 1986 taxation years.[1]
+
+5. By letter dated September 8, 1989 an official of Revenue Canada (now Canada Customs & Revenue Agency ("Revenue")) acknowledged receipt of the 1988 tax return and advised the Appellant that the 1988 Partnership Loss would be reviewed prior to the 1988 Tax Return being processed.
+
+6. By letter dated February 6, 1990 a Revenue official notified the Appellant that the 1988 Tax Return would be processed as filed. The letter stated further that the review of the 1988 Partnership Loss was still in progress and that the Appellant would be notified of Revenue's findings prior to completion of the audit.
+
+7. By Notice of Reassessment dated August 22, 1990 ("Second 1987 Reassessment"), the Minister reassessed the Appellant's 1987 taxation year allowing the deduction of the 1988 Loss Carry Back to the extent of the Appellant's taxable income for the 1987 taxation year, namely $1,734,235. (See paragraph 13 below)
+
+8. The "normal reassessment period" within the meaning of subsection 152(3.1) of the Act, in respect of the Appellant's 1987 taxation year, ended on October 5, 1991.
+
+9. The Appellant filed no other prescribed form amending his 1987 Tax Return to claim any further deductions from his income for the 1987 taxation year.
+
+10. By Notice of Reassessment dated April 1, 1993 ("Third 1987 Reassessment"), the Minister purported to reassess the Appellant's tax liability for the 1987 taxation year by disallowing the deduction of the 1988 Loss Carry Back from the Appellant's taxable income for the 1987 taxation year.
+
+11. The Appellant having filed a Notice of Objection in respect of the Third 1987 Reassessment, the Minister, by Notice of Confirmation, confirmed that reassessment.
+
+12. The Appellant has filed a Notice of Appeal to this Court in respect of the Third 1987 Reassessment.
+
+1998 TAXATION YEAR:
+
+13. By Notice of Assessment dated March 28, 1990, the Minister assessed the Appellant's tax liability for the 1988 taxation year allowing the deduction of the 1988 Partnership Loss from the Appellant's income for that year.
+
+14. By Notice of Assessment dated April 1, 1993 ("First 1988 Reassessment") the Minister purported to reassess the Appellant's tax liability for the 1988 taxation year by disallowing the deduction of the 1988 Partnership Loss from the Appellant's income for the 1988 taxation year.
+
+15. The Appellant filed a Notice of Objection on the basis, inter alia, that the "First 1988 Reassessment" was made after the normal reassessment period had expired and was, therefore, a nullity.
+
+16. By Notice of Reassessment on May 10, 1993 ("Second 1988 Reassessment"), the Minister assessed tax as nil, the "First 1988 Assessment" being statute-barred.[2]
+
+17. By Notice of Reassessment on April 20, 1995 ("Third 1988 Reassessment"), after considering the above Notice of Objection, the Minister purported to vary the Second 1988 Reassessment by allowing the 1988 Partnership Loss to the extent of the Appellant's other income for the year.
+
+APPLICABLE LEGISLATION
+
+[4] Appellant's counsel submitted that the relevant portion of subsection 152(4), amended by 1990, c. 39 (as amended by 1991, c. 49, s. 256), applicable after April 27, 1989, for the period in question, read as follows:
+
+Subject to subsection (5), the Minister may at any time assess tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, and may
+
+...
+
+(b) before the day that is 3 years after the expiration of the normal reassessment period for the taxpayer in respect of the year, if
+
+(i) an assessment or reassessment of the tax of the taxpayer was required pursuant to subsection (6) or would have been required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+
+...
+
+(c) within the normal reassessment period for the taxpayer in respect of the year, in any other case,
+
+reassess or make additional assessments, or assess tax, interest or penalties under this Part, as the circumstances require, except that a reassessment, an additional assessment or an assessment may be made under paragraph (b) after the normal reassessment period for the taxpayer in respect of the year only to the extent that it may reasonably be regarded as relating to
+
+(emphasis added)
+
+(d) the assessment or reassessment referred to in subparagraph (b)(i) or (ii),
+
+...
+
+and further that paragraph 152(6)(c) read as follows:
+
+Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by him or on his behalf for the year as ...
+
+(c) a deduction ... under section 111 in respect of a loss for a subsequent taxation year, ...
+
+by filing with the Minister, on or before the day on or before which the taxpayer is ... required by section 150 to file a return of income for that subsequent taxation year, a prescribed form amending the return, the Minister shall reassess the taxpayer's tax for any relevant taxation year (other than a taxation year preceding the particular taxation year) in order to take into account the deduction claimed.
+
+(emphasis added)
+
+[5] Respondent's counsel stated, in disagreeing with Appellant's counsel, that, in his view, subsection 152(4) as amended by S.C. 1998 c. 19, s. 181(4) applicable after April 27, 1989, was the correct version. It reads, in part, as follows:
+
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+
+...
+
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+
+(i) is required pursuant to subsection (6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+
+That amending Act also added subsection 4.01 to section 152, reading as follows:
+
+(4.01) Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a) or (b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to, ...
+
+(b) where paragraph (4)(b) applies to the assessment, reassessment or additional assessment,
+
+(i) the assessment, reassessment or additional assessment to which subparagraph (4)(b)(i) applies,
+
+(ii) the assessment or reassessment referred to in subparagraph (4)(b)(ii),
+
+(iii) the transaction referred to in subparagraph (4)(b)(iii),
+
+(iv) the payment or reimbursement referred to in subparagraph (4)(b)(iv),
+
+(v) the reduction referred to in subparagraph (4)(b)(v), or
+
+(vi) the application referred to in subparagraph (4)(b)(vi).
+
+[6] Counsel agreed that for the purposes of this hearing it did not matter whether the original subsection 152(4) was used or whether the revised subsection 152(4) and the new subsection 152(4.01) were used. Counsel agreed also that this avoided an argument as to which of the two versions applied to the years in question. The Court, of course, cannot make a decision without determining which version of a legislative section is applicable. Although I thought, at the hearing, that such determination would not be difficult, I subsequently decided to, and did, hold a telephone conference to hear submissions from both counsel respecting their different views.
+
+[8] Appellant's counsel submitted that the assessing action taken by the Minister in 1993 was complete and that the former version, not the 1998 amended version, applied to that action. He relied upon section 43 of the Interpretation Act. The portion of that section to which he referred reads as follows:
+
+43. Where an enactment is repealed in whole or in part, the repeal does not
+
+...
+
+(b) affect the previous operation of the enactment so repealed or anything duly done or suffered thereunder,
+
+He submitted further that there is nothing expressed in the amending act, specifically subsection 181(8), which:
+
+... points to a desire by Parliament to affect reassessments which were made prior to the enactment date, albeit that they relate to a period that is covered by the amendment act. It only appears to apply to reassessments made after June 18, 1998, with respect to those earlier periods.
+
+He later said that it only applies to assessing action taken after June 18, 1998 with respect either to future years or earlier periods.
+
+[9] Respondent's counsel submitted that neither section 43 nor section 44[3] need be looked at to decide what legislation was applicable on April 1, 1993, the date of the reassessment. He said:
+
+What this is going to come down to is the wording of 181(8) of the amending act, and it is our submission that the way it is -- the way it is structured, having a general applicability after April 27, 1989 followed by specific exceptions, leads you to the conclusion that it applies to taxation years, reassessments, or whatever, after April 27, 1989 unless you fall within one of the paragraphs to the exceptions.
+
+He referred to section 181(8) of S.C. 1998 c. 19 entitled Income Tax Amendments Act, 1997 which stated that subsections (3) to (5)[4] apply after April 27, 1989, except that:
+
+(a) in applying subsection 152(4) to the Act, as enacted by subsection (4), before August 1997, it shall be read without reference to subparagraph (b)(vi);
+
+(b) in applying subsection 152(4) of the Act, as enacted by subsection (4), to a taxation year before the 1996 taxation year, it shall be read without reference to subparagraph (b)(v);
+
+(c) in applying subsection 152(4.01) of the Act, as enacted by subsection (4), before August 1997, it shall be read without reference to subparagraph (b)(vi); and
+
+(d) in applying subsection 152(4.01) of the Act, as enacted by subsection (4), to a taxation year before the 1996 taxation year, it shall be read without reference to subparagraph (b)(v).
+
+[10] Respondent's counsel then said:
+
+There are lots of amending acts that provide for legislation applying with respect to certain taxation years after a certain point. There is lots of amending legislation that specifically says it applies to reassessments made after. In our case, there isn't a specific application date. There is a general application followed by exceptions.
+
+[11] I do not agree with Appellant's counsel that section 43(b) of the Interpretation Act applies. That provision reads as follows:
+
+43. Where an enactment is repealed in whole or in part, the repeal does not
+
+...
+
+(b) affect the previous operation of the enactment so repealed or anything duly done or suffered thereunder,
+
+Section 43 deals only with a situation in which an enactment is repealed. Section 44, however, deals with repeal and substitution. Section 44(f) reads as follows:
+
+44. Where an enactment, in this section called the "former enactment", is repealed and another enactment, in this section called the "new enactment", is substituted therefor,
+
+...
+
+(f) except to the extent that the provisions of the new enactment are not in substance the same as those of the former enactment, the new enactment shall not be held to operate as new law, but shall be construed and have effect as a consolidation and as declaratory of the law as contained in the former enactment;
+
+(italics added)
+
+In effect, the opening words of section 44, using the words "repealed" and "substituted", speak of repeal and replacement, thereby relating it to section 181(4) of the Income Tax Amendments Act, the opening words of which are:
+
+Subsection 152(4) of the Act is replaced by the following:
+
+(italics added)
+
+This view is supported by the French version of the opening words of section 44 which are
+
+En cas d'abrogation et de remplacement, les règles suivantes s'appliquent:
+
+(italics added)
+
+Returning to the English version, the new shorter Oxford English Dictionary defines "consolidation" as follows:
+
+1 The action or an act of uniting or amalgamating; combination into a single whole ...
+
+2 The action or an act of making (more) solid or compact ...
+
+The same dictionary defines "declaratory" as:
+
+Having the nature or form of a declaration; explanatory, affirmatory; (of a statute etc.) that explains what the existing law is
+
+It is my view that the provisions of the new section 152(4) are, in "substance", the same as those of the former section 152(4). Accordingly, I have concluded that the former section 152(4) is the appropriate legislation to be applied and reviewed for the purposes of this case.
+
+APPELLANT'S SUBMISSIONS RESPECTING THE MOTION:
+
+[8] Appellant's counsel submitted that the question of law should be answered in the negative. He said that the Minister was not entitled to make the Third 1987 Reassessment because the requirements of subparagraph 152(4)(b)(i) were not met. Counsel expanded this by stating that the Minister purported, pursuant to subparagraph 152(4)(b)(i), to make the Third 1987 Reassessment after the Appellant's normal reassessment period in respect of the year. He added that the Minister may make a reassessment after the normal reassessment period pursuant to that subsection only where the taxpayer has claimed an amount by filing the prescribed form under subsection 152(6), such claim not yet having been processed.
+
+[9] Counsel stated that the Second 1987 Reassessment was issued in response to the Loss Carry Back claim made under subsection 152(6) and, at that point, the Minister's duties were fulfilled. He said that the Minister had no authority or ability to make a further reassessment of the Appellant's 1987 taxation year because the Appellant did not claim any further amount as a carry back of deductions or credits pursuant to subsection 152(6), the normal reassessment period having ended on October 5, 1991 and the purported Third 1987 Reassessment having been made on April 1, 1993. Counsel stated that such deduction could not, obviously, be claimed on filing the 1987 Tax Return because it arose in the following year, namely 1988. He accompanied this statement with the submission that subsection 152(6) exists for the benefit of a taxpayer, compelling the Minister to take into account a claim for a deduction from income for a previous year and that without this subsection the Minister would be powerless to reassess a prior year after the normal reassessment period in respect of that year. Counsel also argued that under subparagraph 152(4)(d) the Minister could make a reassessment only to take into account the changes requested by the taxpayer's application under subsection 152(6). He submitted that the reference in subparagraph 152(4)(d) to a "reassessment referred to in subparagraph 152(4)(b)(i)" is a reference to a reassessment required by subsection 152(6) not yet made by the Minister. Counsel stated that paragraph 152(4)(b)(i) refers to a reassessment that "was required" pursuant to subsection 152(6) and not to a reassessment that had already been made.
+
+[10] Counsel said further that under a combination of subparagraph 152(4)(b)(i) and subsection 152(6) the Minister is required to make one reassessment of tax payable and, having made same, may not make another reassessment after the normal assessment period unless the taxpayer files another request under subsection 152(6). He stated that this was evident from the use of the singular form of the nouns "assessment" and "reassessment" in subparagraph 152(4)(b)(i). He sought to buttress this point by stating that it was evident that subsection 152(6)(c) provided for a single loss carry back request in respect of a year. Counsel also submitted that the Interpretation Act provides that "words in the singular include the plural, and words in the plural include the singular" unless a contrary intention appears. He then said that a contrary intention does appear in subparagraph 152(4)(b)(i). His point was that the "one time reassessment mechanism" in subparagraph 152(4)(b)(i) can be contrasted with paragraph 152(4)(c)[5] which allows the Minister to reassess a taxpayer's tax payable within the normal reassessment period without any precondition.
+
+[11] Appellant's counsel referred to Wesbrook Management Ltd. v. The Queen, 96 DTC 6590 (F.C.A.) affirming 96 DTC 1841 (T.C.C.). The issue was whether Wesbrook was vicariously liable for the tax liability of a corporation ("466") which it had acquired and wound up without obtaining a certificate pursuant to subsection 159(2) of the Act. 466 claimed the carry back of a non-capital loss[6]. That having been allowed, the Federal Court of Appeal stated that, there being no question of fraud or misrepresentation, no further assessment could be issued to 466 after March 9, 1992, the end of the normal reassessment period.
+
+[12] Appellant's counsel pointed out further that the Appellant had claimed the 1988 Partnership Loss on filing his return of income for that year. Although the Minister allowed that loss, he purported to reassess the Appellant, after the normal reassessment period had expired, to disallow such deduction. In response to Appellant's Notice of Objection the Minister conceded that the 1988 taxation year was statute barred and allowed the deduction of the 1988 Partnerhsip Loss for that year. Counsel stated that it would be anomalous for the Minister to be entitled to disallow the deductibility of the 1988 Partnership Loss carried back to the 1987 year.
+
+[13] Counsel then pointed to one of the amendments in subparagraph 152(4)(b)(i) which, before such amendment, stated in part that the Minister may reassess:
+
+... before the day that is three years after the expiration of the normal reassessment period for the taxpayer in respect of the year, if
+
+(i) an assessment or a reassessment of the taxpayer was required pursuant to subsection (6) ...
+
+(italics added)
+
+That paragraph, as amended, provides that the Minister may make a reassessment after the taxpayer's normal reassessment period in respect of a year:
+
+...only if ... the ... reassessment ... is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and is required pursuant to subsection 6 as amended ...
+
+(italics added)
+
+Counsel's point was that the amended provision clearly makes a reassessment prospective and that, therefore, it having been made, no subsequent reassessment can be made if no subsequent Request for a Loss Carry-Back is made.
+
+RESPONDENT'S SUBMISSIONS RESPECTING THE MOTION:
+
+[15] Respondent's counsel's main point was that under subsection 152(4) the Minister can reassess before the day that is three years after the expiration of the normal reassessment period in respect of Loss carry-back claims made under subsection 152(6) and is not prevented from so doing because of the words:
+
+... except that a reassessment ... may be made under paragraph (b) after the normal reassessment period for the taxpayer in respect of the year only to the extent that it may reasonably be regarded as relating to
+
+(d) the assessment or reassessment referred to in subparagraph (b)(i). ...
+
+(italics added)
+
+His thesis was that subsequent reassessments in respect of the Loss carry-back could be made because the reassessments relate to the Loss carry-back. He submitted that if there was to be a limit to one reassessment only, the language would have been similar to that in subsection 245(8) of the Act which, with respect to reassessments, states:
+
+... an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6).
+
+[17] Counsel referred to Flexi-Coil Ltd. v. R., 92 DTC 6047 (F.C.T.D.). He submitted that this case had facts much the same as the case at bar in which a Loss Carry-Back Request was made, such loss was allowed by the Minister for the year to which it was carried back, and there was a subsequent assessment disallowing that loss after the normal assessing period. Counsel quoted from paragraph 6053 of the Judgment as follows:
+
+... The plaintiff maintains that it is clear from the wording that the intent of this provision is that an assessment beyond the four years applies only to the limited circumstances referred to in paragraph 152(4)(b), which provides that the MNR can reassess within seven years from the date referred to in (a) (ii) if an assessment or reassessment of tax was required pursuant to subsection 152(6). Subsection 152(6) provides that where a taxpayer claims a loss under section 111 in respect of a loss for a subsequent year the MNR shall reassess the taxpayer for any relevant tax year ... The application of the loss carryback does not extend to situations where a claim has been made for the loss carryback and the MNR has reassessed under section 152(4) or 152(6) and then the MNR wants to change that assessment where it allows the loss carryback. If I understand the plaintiff's argument, an assessment made by the MNR in respect of a correction by the MNR, is not a reassessment contemplated under section 152(6) in that it is not a reassessment that results from the taxpayer seeking a deduction, but a reassessment that results from the MNR having reconsidered the taxpayer's claim after it was allowed. ...
+
+[18] Counsel then stated that the Appellant's argument was rejected by Cullen, J. at paragraph 44 as follows:
+
+Regarding the second loss carryback, the plaintiff argued that, based on a plain reading of the amendments, subsections 152(4) and 152(6) are restrictive in the sense that the seven year reassessment period applies only if an assessment of tax was required pursuant to subsection (6), i.e. if the taxpayer claimed a deduction under section 111. According to the plaintiff, the case before me involves an assessment that the MNR made in respect of a correction and as such is not a reassessment contemplated under subsection 152(6). With respect I cannot accept this portion of the plaintiff's argument. In keeping with MacKay, J.'s comments, I believe this is a situation where the opportunity afforded by the amended subsection 111(1) is taken by the taxpayer after April 19, 1983 to claim a loss carryback, which could only be done for a taxation year commencing after December 31, 1982, as the plaintiff filed the prescribed form T2A amending its 1981 tax return, on March 30, 1984. The question then becomes: does the expanded limitation period apply to just the 1983 year (the plaintiff's position) or does it apply not only to the 1983 losses carried back but to other losses carried back pursuant to an application under subsection 152(6)? This is not a case, as in Placer Dome, where the loss was claimed in a prior taxation year and carried back within the prevailing limit of one year and the MNR is limited to the terms of subsection 152(4) as it was prior to April 19, 1983, namely a four year reassessment period. Further, in this case, unlike Placer Dome, there was an application for the loss carryback to 1981. I am of the opinion that the seven year assessment period applies in respect of the 1983 loss carryback to 1981 and therefore this portion of the 1981 notice of reassessment is valid.[7]
+
+(emphasis added by Respondent's counsel
+
+in his presentation of the quoted portion)
+
+[19] Counsel referred to Greene v. M.N.R., 95 DTC 5078 re: TCC affirmed by Federal Court of Appeal, 95 DTC 5684. Counsel's submission was that based upon the words of Rothstein, J., while a judge of the Trial Division of the Federal Court, the words "shall reassess" in paragraph 152(6)(c) are not mandatory and that the words "take into account" therein mean only that the Minister must consider the deduction claimed and reassess by allowing such portions of the deduction claimed, if any, as he considers appropriate. He added that Justice Rothstein, at 5081 said:
+
+In general terms, under section 152, the Minister is not bound to allow any deduction claimed by a taxpayer, but rather, he may consider it and if appropriate, allow or disallow it. Further, the Minister may reassess a taxpayer's tax anytime up to three years after the date a notice of assessment is issued. ... It would be inconsistent with the scheme of reassessment under the Act to interpret subsection 152(6) as requiring the Minister to allow any deduction claimed by a taxpayer irrespective of the Minister's view as to its appropriateness.
+
+[20] Respondent's counsel found support in Greene for the proposition that the Minister would be free to issue more than one reassessment under subsection 152(6) because Rothstein, J. said, at paragraph 24:
+
+... It seems to me that if the Minister is entitled to reassess in the manner he considers appropriate, the first reassessment under subsection 152(6) may also be made in accordance with his view of the appropriateness of the deduction claimed.
+
+(emphasis added)
+
+[21] Counsel stated that the learned Justice said:
+
+If applicant's counsel is correct, whether the Minister is bound to allow the deduction claimed by a taxpayer under subsection 152(6) will be academic as long as the limitation provided in subparagraph 152(4)(b)(i) has not expired, because the Minister would be able to issue a further reassessment under subparagraph 152(4)(b)(i) immediately following his reassessment under subsection 152(6). The issue of whether the Minister is obliged to reassess by allowing the deduction under subsection 152(6) is only significant if the limitation period for a further reassessment has expired. In the case at bar, there is no specific evidence as to when the limitation periods commenced or expired but I think it would be fair to say that the applicant would not be advancing the argument he has made in this case if the limitation period under subparagraph 152(4)(b)(i) had not expired for at least one of the years of reassessment.
+
+With respect, applicant's counsel's argument leads to a very one-sided result. If he is right, the Minister must reassess allowing the deduction claimed with no recourse for further reassessment after the limitation period under subparagraph 154(4)(b)(i) has expired. On the other hand, if the Minister is correct, the applicant may file a notice of objection to the Minister's reassessment and appeal to the Tax Court of Canada. No rationale has been advanced by counsel for the applicant as to why Parliament would have intended the one-sided result for which he argues. On the contrary, I think an approach that entitles both the Minister recourse from the deduction claimed by the applicant and the applicant recourse from a reassessment made by the Minister, is balanced.
+
+The only basis for the applicant's argument is that the words "to take into account" must mean "to allow". As I have indicated, this is not the only interpretation of these words, and having regard to the context of section 152 of the Act, and for the scheme of reassessment under the Act generally, an interpretation of the words "to take into account" as meaning "to consider" would be the most reasonable.
+
+ANALYSIS AND CONCLUSION:
+
+[22] This motion has necessitated a lengthy process of interpreting a provision obviously enacted for a taxpayer's benefit but lacking the elusive characteristic of clarity. "Nice points of law" should not be the offspring of imprecise legislation. The same comment is made respecting the 1998 amendment of section 152(4) retroactive to the period after April 27, 1989. An amended section such as the one under consideration should contain explicit language about its application respecting assessments already made under the replaced legislation. It is noted that three different interpretations of its application, one from Appellant's counsel, one from Respondent's counsel and one from the Court are advanced in the consideration of its applicability. Its application may have seemed clear to the legislative drafters but certainly was not clear to interested and affected readers.
+
+[23] Respecting Flexi-Coil (supra) the Appellant made deductions in its 1983 income tax return resulting in a non-capital loss in the amount of $1,319,256. It claimed a deduction of that amount as a non-capital loss in computing taxable income for its 1981 taxation year by filing prescribed form T-2A amending its 1981 return. Under subsection 152(6) the Minister of National Revenue ("Minister"), by Notice of Reassessment dated May 28, 1985:
+
+...allowed the non-capital loss carried back from the 1982 taxation year and reassessed the plaintiff's 1981 income tax return accordingly. Also, the plaintiff was advised that no tax was payable in respect of its 1982 taxation year.[8]
+
+By Notices of Reassessment dated February 15, 1989 the Minister disallowed the plaintiff's claims in its 1982, 1983 and 1984 taxation years by the amounts claimed in those years and denied the deduction of non-capital losses arising in the 1982 and 1983 taxation years in computing the Appellant's taxable income for its 1981 taxation years. Mr. Justice Cullen does not furnish reasons for his statement that:
+
+With respect I cannot accept this portion of the plaintiff's argument.
+
+He simply followed this statement with a discussion of applicable statutory time limitations. It is not discernible from the Reasons for Judgment whether appellant's counsel made submissions other than as described in the judgment. In that regard, Cullen, J. said:
+
+...the plaintiff argued that, based on a plain reading of the amendments, subsections 152(4) and 152(6) are restricted in the sense that the seven-year reassessment period applies only if an assessment of tax was required pursuant to subsection (6) i.e, if the taxpayer claimed a deduction under section 111. According to the plaintiff, the case before me involves an assessment that the Minister of National Revenue made in respect of a correction and as such is not a reassessment contemplated under subsection 152(6).
+
+[27] The Federal Court Trial Division judgment in Greene (supra), through Rothstein, J., said:
+
+The issue in this case is whether the words "the Minister shall reassess the taxpayer's tax for any relevant taxation year ... in order to take into account the deduction claimed" in subsection 152(6) of the Income Tax Act ... requires the Minister to reassess by allowing the deduction claimed or only requires the Minister to reassess by considering the deduction claimed and allowing that which he assesses to be appropriate.
+
+[28] In Greene, the Applicant sought to carry back portions of a 1988 loss to reduce his taxable income in 1985, 1986 and 1987. The Minister, having taken no action to reassess those three years, the Applicant filed an originating Notice of Motion seeking an order of mandamus against the Minister requiring reassessment of those years by taking into account the deductions claimed. The Respondent consented to the application and the August 10, 1994 judgment of Strayer, J., as he then was, made the following order:
+
+The Respondent shall reassess the Applicant's tax for his 1985, 1986 and 1987 taxation years in order to take into account the deductions claimed by the Applicant, in accordance with subsection 152(6) of the Income Tax Act.
+
+[29] Each of the Notices of Reassessment dated October 14, 1994 for those three years stated:
+
+Your income tax return has been reassessed in order to take into account your claim for a deduction for a portion of a net capital loss of a subsequent year.
+
+As your 1988 taxation year has previously been reassessed to disallow this reported net capital loss, there is no change to your 1985, [1986], [1987] taxable income.
+
+Accordingly, the Applicant's taxable income for those three years was unchanged. The Applicant asked the Federal Court - Trial Division for declarations requiring the Minister to reassess those three years allowing the deductions claimed. After stating that, in accordance with subsection 152(8) of the Act, an assessment shall be deemed to be valid and binding notwithstanding any error, defect or omission therein, Rothstein, J. said that the only recourse for the Applicant was to object and appeal under the relevant provisions of the Act. He later stated:
+
+For the sake of completeness, I should indicate that if this Court did have jurisdiction to entertain the applicant's application, I would, in any event, have to deny it.
+
+He concluded that the words "take into account" in subsection 152(6) mean only that the Minister must consider the deduction claimed and reassess by allowing such portions of the deduction claimed, if any, as he considers appropriate. He stated that the document to be filed under subsection 152(6) is a prescribed form amending the return of an earlier year. He also said that subsection 152(7) which provides:
+
+The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied ... assess the tax payable under this Part.
+
+did not bind the Minister to accept the return or information (which he said included the prescribed form) in assessing the taxpayer and allowing the deduction claimed. After further discussion, he stated:
+
+It would be inconsistent with the scheme of reassessment under the Act to interpret subsection 152(6) as requiring the Minister to allow any deduction claimed by a taxpayer irrespective of the Minister's view as to its appropriateness.
+
+The learned judge further stated that if Applicant's counsel was correct, whether the Minister was bound to allow the deduction claimed under subsection 152(6), would be academic as long as the limitation provided in subparagraph 152(4)(b)(i) had not expired:
+
+... because the Minister would be able to issue a further reassessment under subparagraph 152(4)(b)(i) immediately following his reassessment under subsection 152(6).
+
+He then said that there was no specific evidence as to when the limitation periods commenced or expired but assumed that they had so expired. The judgment continued with the statement that the only basis for the Applicant's argument to succeed was that the words "to take into account" must mean "to allow". He disagreed with that interpretation. In concluding that the Court did not have jurisdiction to entertain the Applicant's application he then stated that if it did have such jurisdiction he would find that the Minister had complied with the Order of Strayer, J. and that if the Applicant was dissatisfied with the subsequent reassessment he could file a Notice of Objection and appeal to the Tax Court of Canada.
+
+[35] The Federal Court of Appeal dismissed the Applicant's appeal with these words which are quoted in toto:
+
+We do not find it necessary to express any opinion on the judge's view that he had no jurisdiction in the circumstances since he went on to deal with the merits of the matter and reached the right conclusion.
+
+The Minister's obligation to "take into account the deduction claimed" as set out in both the Order of Strayer, J. and subsection 152(6) of the Income Tax Act is satisfied when the Minister considers the taxpayer's claim for deduction and concludes, as he did in the reassessments issued in this case, that the claims should be disallowed. A contextual reading of the subsection can give no other result. The judge's reasoning on this point, although technically an obiter dictum, is unexceptionable.
+
+The appeal will be dismissed with costs.
+
+[36] With respect, I do not find the reasons in either Greene decision persuasive or compelling. In the Trial Division, the amount of loss sought by the Applicant to be carried back to 1985, 1986 and 1987 had been disallowed. Simply stated, therefore, there was no loss to be carried back. Although the Court discussed the question of whether the words "to take into account" in subsection 152(6) meant, as the Applicant's argument indicated, "to allow", that situation does not arise in the case at bar, the 1988 loss having been allowed by the Minister in 1988 and having been applied to 1987. Further, the learned justice's statements that the Minister would be able to issue a further reassessment under subparagraph 152(4)(b)(i) were obiter dicta and were unnecessary to the decision that the Court did not have jurisdiction to entertain the Applicant's application.
+
+[37] With respect, in the Federal Court of Appeal's decision, the statement that:
+
+A contextual reading of the subsection can give no other result.
+
+does not apply in this case. Again, unlike Greene, in this appeal, a loss in the 1988 taxation year had been considered by the Minister, had been allowed for that year and had been carried back to 1987. The Federal Court of Appeal did not have the benefit of a fact situation such as exists in this case. It seems to have been speaking in the abstract about a provision upon which the Trial Division was not asked to adjudicate, namely that Court's obiter dicta.
+
+[38] Further, with respect, I do not agree, in circumstances such as in this motion, that, as set out in the Federal Court Trial Division's obiter dicta in Greene:
+
+... The Minister would be able to issue a further reassessment under subparagraph 152(4)(b)(i) immediately following his reassessment under subsection 152(6).
+
+A reassessment cannot be made under paragraph 152(6)(c). It is directive only in that it provides that the Minister, in defined circumstances,
+
+... shall reassess ... in order to take into account the deduction claimed.
+
+A reassessment, therefore, is not made under subsection 152(6) but is made pursuant to the provisions of subparagraph 152(4)(b)(i). That is the only section in the Act authorizing a reassessment carrying a loss back to a prior year. It is clearly prospective, as submitted by Appellant's counsel. The 1988 loss was approved after consideration by the Minister, notice by letter having been given by Revenue Canada that the loss claim would be reviewed. Subsequently, the carry-back of that loss was allowed by the Minister and applied to the 1987 taxation year. There is no issue here as to what, as discussed in the obiter dicta portion of Greene, is meant by the words in paragraph 152(6)(c):
+
+... to take into account the deduction claimed.
+
+The amount claimed had been approved by the Minister before it was applied by him to the 1987 taxation year. The Minister responded, as he was directed to do by paragraph 152(6)(c). After having, obviously, carefully considered the loss carry-back claimed and having applied it, by reassessment, to 1987, his duty was fulfilled, the prospective reassessment was made, and his right to reassess further was foreclosed.
+
+[41] Respondent's counsel's submission that its position is buttressed by the limiting language of subsection 245(8), not employed in subparagraph 152(4)(b)(i) fails. Support for this conclusion is found in paragraph 152(4.01)(b) which provides that a reassessment may be made after the normal reassessing period:
+
+... but only to the extent that, it can reasonably be regarded as relating to, ....
+
+(b) where paragraph 4(b) applies to the ... reassessment,
+
+(i) the ... reassessment ... to which subparagraph 4(b)(i) applies,
+
+...
+
+(iii) the transaction referred to in subparagraph 4(b)(iii), ...
+
+(emphasis added)
+
+The word "transaction" is used in that provision in a specific subparagraph but is not used in relation to subparagraph 4(b)(i), the very subparagraph referring to subsection 152(6).
+
+[42] Finally, I agree with Appellant's counsel's submission regarding subsection 33(2) of the Interpretation Act that
+
+Words in the singular include the plural, ...
+
+unless, as provided in section 3(1) of that Act, "a contrary intention" appears. I accept his proposition that a contrary intention does appear in subparagraph 152(4)(b)(i).
+
+[43] For the above reasons I shall grant the motion. As the Court does not know what effect this will have on the outcome of the appeal, counsel may contact me with respect to the costs of this motion.
+
+Signed at Ottawa, Canada, this 6th day of January, 2003.
+
+"R.D. Bell"
+
+J.T.C.C.COURT FILE NO.: 95-2570(IT)G
+
+STYLE OF CAUSE: George Agazarian v. The Queen
+
+PLACE OF HEARING: Vancouver, British Columbia
+
+DATE OF HEARING: September 10, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge R.D. Bell
+
+DATE OF JUDGMENT: January 6, 2003
+
+APPEARANCES:
+
+Counsel for the Appellant: Edwin G. Kroft
+
+Alistair Campbell
+
+Counsel for the Respondent: Robert Carvalho
+
+Jasmine Sidhu
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: Edwin G. Kroft
+
+Firm: McCarthy Tetrault LLP
+
+Vancouver, British Columbia
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+95-2570(IT)G
+
+BETWEEN:
+
+GEORGE AGAZARIAN,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Motion heard on September 10, 2002 at Vancouver, British Columbia, by
+
+the Honourable Judge R.D. Bell
+
+Appearances
+
+Counsel for the Appellant: Edwin G. Kroft
+
+Alistair Campbell
+
+Counsel for the Respondent: Robert Carvalho
+
+Jasmine Sidhu
+
+JUDGMENT
+
+The motion is granted for the reasons attached.
+
+The parties may contact the Court within 30 days hereof regarding costs.
+
+Signed at Toronto, Canada, this 6th day of January, 2003.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] Apparently included for information only, not being necessary for determination of the motion.
+
+[2] Obviously, the Court accepts the Agreed Statement of Facts. However, in typical fashion, no explanation is set out in the copy of the Notice of Reassessment attached to the Agreed Statement of Facts as to why the revised taxable income was $744,454 while the amount of tax owing was NIL.
+
+[3] Which had been referred to during the telephone conference
+
+[4] Subsection (4) dealt with subsection 152(4).
+
+[5] As it read before the 1998 amendment.
+
+[6] Arising from the Grand Bell Partnership, being the same partnership in respect of which the present Appellant sought the deduction of the 1988 Partnership Loss.
+
+[7] The quoted portions were presented by Counsel in the copy of the judgment taken from Carswell Tax Partners cases and handed to the Court. He referred to paragraph numbers, which obviously, were added later. This is not in the form of judgment that was reported in 92 DTC 6047. It would be appreciated if counsel provided copies of judgments to the Court that are in accordance with the judgments originally issued with appropriate references to quotations.
+
+[8] As the reference to "the non-capital loss carried back from the 1982 taxation year" is included in the same paragraph of the judgment that refers to the carrying back of the 1983 loss, it appears that reference to "the 1982 taxation year" is in error and that it should read: "the 1983 taxation year". This interpretation is supported by the fact that the reasons state that the reassessment of 1981, disallowing the 1982 loss, was issued beyond the time limitation and was invalid.
+

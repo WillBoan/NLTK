@@ -1,0 +1,170 @@
+Date: 20010214
+
+Docket: 2000-1348-GST-I
+
+BETWEEN:
+
+RÉJEAN TREMBLAY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Lamarre, J.T.C.C.
+
+[1] This is an appeal from an assessment made by the Minister of National Revenue ("Minister") under Part IX of the Excise Tax Act ("Act"). The appellant, who is not a registrant for the purposes of the Act, had a residential complex built for himself in Hull, in the province of Quebec, into which, adjacent to the building, he incorporated a hoistway to accommodate a wheelchair lift. The appellant did not pay the goods and services tax (GST) when he acquired the wheelchair lift since it is a zero-rated supply under section 14 of Part II of Schedule VI to the Act. This wheelchair lift, which was purchased in Ottawa, Ontario, was installed in the hoistway, which was built at the same time as the residential complex, by various trades in accordance with the instructions of the wheelchair lift's supplier. That supplier did not take charge of the construction because, according to the appellant, it was not certified to do so in the province of Quebec.
+
+[2] The Minister states in the Reply to the Notice of Appeal that the appellant paid GST at the time of acquisition of the various taxable supplies of goods and services, including the hoistway, which were used or consumed to build the residential complex. The appellant subsequently applied to the Minister under section 261 of the Act for a GST rebate of $704.82, which he considers that he paid for the construction of the hoistway incorporated into the residential complex. The Minister refuses to pay a rebate of this amount of $704.82 for two reasons:
+
+(1) the construction of the hoistway is not a zero-rated supply under the Act and, consequently, no rebate is available for the GST paid; and
+
+(2) the amount of the GST rebate sought by the appellant was estimated, and not determined on the basis of actual supplies of goods and services acquired specifically for the construction of the hoistway in issue.
+
+[3] In the appellant's view, the construction of the hoistway is a zero-rated supply in the same way as the wheelchair lift. The appellant contends that, in designating the wheelchair lift as a zero-rated good, Parliament intended to ensure that GST was not paid on a good which a disabled person could use to move from one floor to another in a wheelchair. For the wheelchair lift to be operational, a structure must necessarily be built in accordance with the supplier's specifications to ensure that the lift is usable. The appellant contends that, without that structure, which is the hoistway, the wheelchair lift is of no use since it cannot be used to move a disabled person from one floor to another. The two are indissociable.
+
+[4] The appellant also contends that, according to the Dictionnaire de la comptabilité of the Canadian Institute of Chartered Accountants, acquisition cost is the [TRANSLATION] "purchase price of a good plus all other costs ([including the costs] of installation) which it is necessary to incur before the entity can use the good". The appellant maintains that the total cost of the wheelchair lift is the cost of the "platform lift", on which he paid no GST, plus the cost to build the hoistway, estimated at $10,068.80, on which he paid $704.82 in GST. He claims a rebate of this last amount.
+
+[5] Concerning the estimated cost of construction of the hoistway, the appellant contends that this was the most accurate and impartial way for him to determine the cost of the hoistway. As the business of the wheelchair lift's supplier was in Ottawa (since, according to the appellant, Savaria, the company supplying these lifts had no representative in the Hull-Gatineau area in the province of Quebec), it was prohibited by law from supplying the full lift installation service in a new house being built in Quebec. The appellant therefore asked a building contractor to submit a bid stating the estimated construction cost of a hoistway since the hoistway construction costs were mixed in with the construction costs of the residential complex as a whole.
+
+Analysis
+
+[6] This appeal concerns the application of the provisions on zero-rated supplies, that is, subsection 123(1) of the Act and sections 14, 32 and 34 of Part II of Schedule VI to the Act. These provisions read as follows:
+
+123. (1) Definitions – In section 121, this Part and Schedules V to X,
+
+"zero–rated supply" means a supply included in Schedule VI.
+
+SCHEDULE VI – ZERO-RATED SUPPLIES
+
+PART II – Medical and Assistive Devices
+
+14. Chair for disabled, commode chair or similar aid to locomotion – A supply of a chair, commode chair, walker, wheelchair lift or similar aid to locomotion, with or without wheels, including motive power and wheel assemblies therefor, that is specially designed for use by an individual with a disability.
+
+. . .
+
+32. Part, accessory or attachment specially designed for a property described in Part II – A supply of a part, accessory or attachment that is specially designed for a property described in this Part.
+
+. . .
+
+34. Services of installing, restoring, repairing or modifying a property described in sections 2 to 32 – A supply of a service (other than a service the supply of which is included in any provision of Part II of Schedule V except section 9 of that Part and a service related to the provision of a surgical or dental service that is performed for cosmetic purposes and not for medical or reconstructive purposes) of installing, maintaining, restoring, repairing or modifying a property described in any of sections 2 to 32 and 38 to 40 of this Part, or any part for such a property where the part is supplied in conjunction with the service.
+
+[7] The issue is whether the supplies of goods and services that were used or consumed to build the hoistway are zero-rated supplies within the meaning of subsection 123(1) of the Act because of the application of the above-quoted sections 32 and 34 of Part II of Schedule VI. More specifically, can it be said:
+
+(1) that the parts, accessories or attachments acquired by the appellant for the construction of the hoistway are parts, accessories or attachments specially designed for the wheelchair lift; and
+
+(2) that the services acquired by the appellant for the construction of the hoistway are services of installing the wheelchair lift?
+
+[8] The Act does not define the terms "parts" ["pièces"] and "accessories" or "attachments" ["accessoires"]. However, the French words "pièce" and "accessoire" are defined in the Grand Dictionnaire Encyclopédique Larousse as follows:
+
+[TRANSLATION]
+
+PIÈCE
+
+1. Each of the elements which, when assembled, form a constructed thing.
+
+. . .
+
+2. Each of the elements of a set, whole or series.
+
+ACCESSOIRE
+
+2. Thing, instrument or device intended to complement a principal element or assist in the operation of a device in the various circumstances of its use.
+
+The same terms are defined in Le Robert Dictionnaire de la langue française as follows:
+
+[TRANSLATION]
+
+PIÈCE
+
+1. Separate portion . . . of a whole.
+
+2. Archaic Piece, portion (of a whole, of a substance).
+
+ACCESSOIRE
+
+3. a (1611).Constituting a necessary or useful complement for the convenient use of an object.
+
+[9] In Androck v. M.N.R. (1987), 74 N.R. 255, the Federal Court of Appeal considered the meaning of the word "parts" in the context of the application of the Customs Tariff, at page 4:
+
+. . . Moreover, while we think it both unnecessary and undesirable to define the word "parts" in such a way that it might apply in any factual context, we are of the opinion that the goods in issue, to be classified as parts, must be related to the entity with which they will be used to form a necessary and integral part thereof and not simply as an optional accessory, as here.
+
+[10] In Canadian Airlines International Ltd. v. British Columbia, [1995] B.C.J. No. 2779 (Q.L.), the British Columbia Supreme Court stated the following in paragraph 8:
+
+. . . the ordinary meaning of "parts" is very different from the meaning of "tools". While I do not believe that it is absolutely essential that an item be incorporated in a physical way into something to make it susceptible of the definition of "part", yet it seems to me that inherent in the idea of a thing being a part of something is the concept that it be used in the operation or the utilization of the thing in question. For instance, if one asked the average individual to define what a part is, I suppose a common response might be that it is a portion of the whole. [Emphasis added.]
+
+[11] It is clear in the instant case that the hoistway is absolutely necessary to the use of the wheelchair lift. Without the hoistway, the lift cannot operate. I therefore consider it clear that the hoistway is an accessory essential to the use of the lift. It is also clear that the hoistway was specially designed for the wheelchair lift and has no other use in the residential complex in which it was built.
+
+[12] However, the Minister contends that the purchase invoice for the wheelchair lift, on which the appellant paid no GST, already included installation. He therefore concludes that the services supplied by the various trades to add the hoistway to the residential complex cannot be considered as zero-rated supplies of services for the installation of the lift.
+
+[13] The appellant explained in his testimony that the wheelchair lift's supplier could not build the hoistway because it was prohibited from doing so by the Régie du bâtiment. However, he said that the hoistway was installed in accordance with the specifications given by the supplier.
+
+[14] It is clear in my mind that the lift could not be installed until after the hoistway was installed. As the supplier could not install the hoistway, the appellant had to ask the men who were already building his residential complex to do so. Those who built the hoistway nevertheless contributed to the installation of the lift in accordance with the standards indicated by the supplier.
+
+[15] In Interior Mediquip Ltd. v. Canada, [1994] T.C.J. No. 1160 (Q.L.), Judge Beaubier of this Court held that the supply of a service to convert a motor vehicle in order to permit access to it by means of a wheelchair ramp (a zero-rated good) was also a zero-rated supply. Judge Beaubier found that the supply of the various components of the motor vehicle conversion service constituted a supply of accessories specially designed for the wheelchair ramp within the meaning of section 32 of Part II of Schedule VI to the Act. Judge Beaubier added the following in paragraph 12:
+
+In some measure it may also constitute a supply of a service of installing or a supply of parts in conjunction with the installation of the wheelchair ramp.
+
+[16] In the same way as the conversion of a motor vehicle to permit the installation of a zero-rated good constituted a zero-rated supply of services, I find that the supplies of services and parts, accessories or attachments used to build the hoistway permitted the installation of a zero-rated good (the wheelchair lift) and that these supplies therefore constituted zero-rated supplies within the meaning of the Act.
+
+[17] The respondent then argues that the appellant may not obtain a rebate of a payment of tax made in error since he cannot produce the original receipts to prove that tax was paid. The Minister relies on section 223 of the Act, which reads as follows:
+
+223. (1) Disclosure of tax – Every registrant who makes a taxable supply to a recipient shall
+
+(a) where an invoice or receipt is issued to, or an agreement in writing is entered into with, the recipient in respect of the supply, indicate in the invoice, receipt or agreement either
+
+(i) the total tax payable in respect of the supply in a manner that clearly indicates the amount of that total, or
+
+(ii) the total of the rates at which tax is payable in respect of the supply and, where the invoice, receipt or agreement relates to supplies in respect of which tax is payable and supplies in respect of which no tax is payable, the supplies to which tax at those rates applies; and
+
+(b) in any other case, indicate in prescribed manner that the amount paid or payable by the recipient includes the tax payable in respect of the supply.
+
+(2) Particulars – A person who makes a taxable supply to another person shall, on the request of the other person, forthwith furnish to the other person in writing such particulars of the supply as may be required for the purposes of the Part to substantiate a claim by the other person for an input tax credit or rebate in respect of the supply.
+
+[18] The Minister also refers to the Regulations Prescribing the Information that a Registrant is to Obtain Before Filing a Return in which an Input Tax Credit is Claimed (SOR/91-45) ("Regulations"), more specifically to that part of the Regulations (section 3) respecting the information required to claim an input tax credit that is prescribed for the purposes of paragraph 169(4)(a) of the Act.
+
+[19] Section 223 sets out the basic requirements that registrants must meet when they make taxable supplies. Paragraph 169(4)(a) and the Regulations set out the requirements that a registrant must meet to obtain an input tax credit. These provisions and the Regulations impose no particular obligation on the recipient of a supply such as the appellant in the instant case.
+
+[20] The appellant applied for a rebate of a payment made in error under section 261, which reads as follows:
+
+261. (1) Rebate of payment made in error – Where a person has paid an amount
+
+(a) as or on account of, or
+
+that was taken into account as,
+
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+
+[21] Subsection 262(1) further provides as follows:
+
+262. (1) Form and filing of application – An application for a rebate under this Division (other than section 253) shall be made in prescribed form containing prescribed information and shall be filed with the Minister in prescribed manner.
+
+[22] According to subsection 262(1), the Minister has discretion as to the information he may require. However, no regulations have been made with respect to subsections 261(1) and (2) of the Act, although the instructions on filing an application appended to form GST 189E – General Application for Rebate of Goods and Services Tax (GST) – state that the original receipts for all purchases must be submitted with the application. This requirement enables the taxpayer to prove that tax was in fact paid. In the instant case, the appellant did not attach an original receipt for the construction of the hoistway to his rebate application or file any receipt with the Court specifically itemizing the cost of that supply. At trial, however, he did produce a copy of a bid from Tribec Construction Générale (note 5 of Exhibit A-1) giving an estimate of the cost of the additions to the residential complex for construction of the hoistway. The appellant also had in his possession all the receipts from the various trades that worked on construction of the building showing that he had paid GST. Furthermore, the Minister himself admitted in paragraph 28(d) of the Reply to the Notice of Appeal that the appellant had paid GST when he acquired the various taxable supplies of goods and services used or consumed in order to build the residential complex, including the hoistway.
+
+[23] The Minister is now in no position to argue through his counsel that no proof of payment of tax was provided to him. The requirement that original receipts be filed for all purchases appears to have been met by the appellant before the trial. Even if the appellant had not met the requirement before the trial, I consider it to be a mere administrative requirement of a directory rather than imperative nature[1] whose purpose is to enable the Minister to obtain proof that tax has been paid. In any case, the Minister actually admitted in the Reply to the Notice of Appeal that tax had been paid on all the supplies used to build the residential complex, including the hoistway. In my view, the failure to file receipts specifically concerning construction of the hoistway itself is not fatal to the appellant's case in so far as the Court is satisfied that tax was paid.
+
+[24] I consider the procedure the appellant used in the circumstances, namely providing an estimate of the acquisition cost of the hoistway, to be valid in view of the fact that he could not accurately establish the specific costs associated with the hoistway itself from the invoices he had in hand.
+
+[25] I therefore find that the appellant produced sufficient evidence to show that he was entitled to a rebate of the payment of $704.82 which he believes he made in error at the time of construction of the hoistway used to install the wheelchair lift.
+
+[26] The appeal is accordingly allowed with costs.
+
+Signed at Ottawa, Canada, this 14th day of February 2001.
+
+"Lucie Lamarre"
+
+J.T.C.C.
+
+[OFFICIAL ENGLISH TRANSLATION]
+
+Translation certified true on this 4th day of May 2001.
+
+Stephen Balogh, Revisor
+
+[1] See Senger-Hammond v. R., [1996] T.C.J. No. 1609 (Q.L.), in which Judge Bowman analysed the approach that should be taken on the question of receipts that are to be furnished to establish eligibility for the child care expense deduction under the Income Tax Act.
+

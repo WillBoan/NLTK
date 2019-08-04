@@ -1,0 +1,162 @@
+Date: 20010823
+
+Docket: 1999-2936-IT-G
+
+BETWEEN:
+
+BONNIE FRY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+Bell, J.T.C.C.
+
+ISSUE:
+
+[1] The issue is whether:
+
+(1) The amount of $82,500 paid by Manufacturers' Life Insurance Company ("Manufacturers") as settlement in respect of injuries sustained in an automobile accident is includable in the Appellant's income for her 1996 taxation year; and
+
+(2) If so, whether the Appellant is entitled to deduct legal fees in the sum of $38,293.73 from same.
+
+FACTS:
+
+[2] The Appellant was injured in a motor vehicle accident on August 18, 1991 and, since that time, has been unable to work. She submitted a claim through her employer's group disability insurance policy to North American Life Insurance Company ("North American"). North American denied her claim.
+
+[3] The Appellant sued the insurer for a declaration that she was entitled to long term disability benefits ("LTD"). This action proceeded to private mediation and the Appellant's claim against North American, which had been taken over by Manufacturers' Life Insurance Company, was settled on September 26, 1996 by the payment of $82,500 by Manufacturers to the Appellant.
+
+[4] The Appellant paid her lawyer the sum of $38,293.73 in respect of all legal services performed by him for her arising out of the automobile accident.
+
+[5] Pursuant to the LTD policy the Appellant's monthly entitlement to LTD benefits was $1,388.96 based on 66.67% of gross salary of $25,000. Monthly LTD benefits were reduced by Canadian Pension Plan disability benefits being $516.42 at the time of settlement. This resulted in a net LTD entitlement of $872.54 per month, totalling $10,470.48 per annum. She received the equivalent of approximately 6.5 years of future LTD benefits, plus $15,000 as a contribution to her legal expenses. Had she received the equivalent of the lump sum for LTD entitlements to age 65 she would have received benefits for a period of approximately 28 years. Based on a present value calculation, using a 5% discount factor without indexing, the total entitlement to future LTD benefits in terms of 1996 dollars would have been $151,507.85.
+
+[6] Manufacturers issued a T4A and submitted same to Revenue Canada resulting in the Appellant being assessed for income tax on that amount. Such form was not sent to the Appellant. She did not declare that amount as income, believing that the settlement was not subject to income tax. The Appellant had paid no part of the premiums for the group LTD benefits.
+
+APPELLANT'S SUBMISSIONS:
+
+[7] Appellant's counsel submitted that the only provision of the Income Tax Act ("Act") which could possibly require the settlement amount to be included in income is paragraph 6(1)(f). It provided:
+
+There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+
+... the total of all amounts received by the taxpayer in the year that were payable to the taxpayer on a periodic basis in respect of the loss of all or any part of the taxpayer's income from an office or employment, pursuant to
+
+(i) a sickness or accident insurance plan ...
+
+[8] He submitted simply that the Appellant had received a lump sum and that there were no amounts received "on a periodic basis" in respect of the insurance. He referred to Whitehouse v. R., 2000 DTC 1616 in which the facts were almost identical to those in this appeal. This Court determined that paragraph 6(1)(f) was inapplicable, the amounts received by the Appellant not having been payable on a periodic basis. That case made reference to Landry v. R., 98 DTC 1416 in which the Court held:
+
+The lump sum payment received by Mrs. Landry was not payable on a periodic basis and there is no allegation or assumption that the $25,000 represented simply the aggregate of periodic payments that she might have received over her lifetime.
+
+Counsel submitted that there was no such allegation or assumption in the present case. Alternatively, he argued that even if the sum of $82,500 was taxable, the Appellant was entitled to deduct legal fees in the sum of $38,293.73.[1]
+
+RESPONDENT'S SUBMISSIONS:
+
+[9] Respondent's counsel submitted that the amount should be includable in income under paragraph 6(1)(a) of the Act which requires the inclusion of:
+
+the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+
+(i) derived from the contributions of the taxpayer's employer to or under a registered pension plan, group sickness or accident insurance plan, ...
+
+[10] She then referred to this Court's decision in Cook v. R., 95 DTC 853. In this case, the Appellant received from the insurer, after having been refused claimed benefits, a single payment of $15,000 in respect of all costs. This Court, in relying upon R. v. Savage, 83 DTC, 5409 (S.C.C.) determined that:
+
+The significant and the simple point is whether the amount is founded in the Appellant's rights under an employment contract and it is so found. The amount is taxable because of the provisions of paragraphs 6(1)(a) of the Act.
+
+[11] The Court, at page 5414, said that the words in paragraph 6(1)(a), namely, "in respect of", referring to Nowegijick v. The Queen, 83 DTC 5041 (S.C.C.) were words of the widest possible scope. The Court then held that the payments were in respect of employment.
+
+[12] Counsel also referred to Dumas v. Her Majesty the Queen, 2000 DTC 2603 in which this Court determined that an amount paid to settle a legal action by an employee unable to perform her duties, was includable in income as a benefit under paragraph 6(1)(a) of the Act. It found that because the settlement amount was not paid "on a periodic basis" it was not taxable under paragraph 6(1)(f), but that it was taxable under paragraph 6(1)(a) as a benefit received "in respect of, in the course of, or by virtue of an office or employment", relying upon the Savage decision .
+
+[13] Respondent's counsel also submitted that the amount was includable in income under paragraph 6(1)(a) and that the exception in subparagraph (i) related only to the premiums paid by her employer in respect of the accident insurance plan.
+
+ANALYSIS AND CONCLUSION:
+
+[14] The amount of $300 at issue in Savage had nothing to do with an insurance claim settlement. It was, in fact, a reward to an employee for passing an examination. Paragraph 6(f) was not in issue and was not considered. Although the Court in Dumas relied upon this decision, I have reached a conclusion consistent with the decisions in Whitehouse and Landry. In the present case, there was no allegation or assumption that the $82,500 represented the aggregate of periodic payments that the Appellant might have received over her lifetime. In addition, paragraph 6(f) deals specifically with amounts paid pursuant to an accident insurance plan:
+
+...that were payable ... on a periodic basis in respect of the loss of all or any part of the taxpayer's income from an office or employment.
+
+That paragraph would have little, if any meaning if, in circumstances where it cannot be applied to a taxpayer, an amount escaping inclusion by virtue of its terms would be includable in another subparagraph. It is noted that paragraph 6(1)(a) is not paramount to paragraph 6(1)(f). Each of the paragraphs contained under subsection 6(1) stand separate and apart from each other. The subject matter of payment under an accident plan having been dealt with under paragraph 6(1)(f), the matter is closed.
+
+[15] Accordingly, the appeal is allowed with costs.
+
+Signed at Ottawa, Canada this 23rd day of August, 2001.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+COURT FILE NO.: 1999-2936(IT)G
+
+STYLE OF CAUSE: Bonnie Fry v. The Queen
+
+PLACE OF HEARING: Toronto, Ontario
+
+DATE OF HEARING: August 14, 2001
+
+REASONS FOR JUDGMENT BY: The Honourable Judge R.D. Bell
+
+DATE OF JUDGMENT: August 23, 2001
+
+APPEARANCES:
+
+Counsel for the Appellant: David Share
+
+Counsel for the Respondent: Lesley King
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: David Share
+
+Firm: Share, David, Associates
+
+Toronto, Ontario
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+1999-2936(IT)G
+
+BETWEEN:
+
+BONNIE FRY,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on August 14, 2001 at Toronto, Ontario, by
+
+the Honourable Judge R.D. Bell
+
+Appearances
+
+Counsel for the Appellant: David Share
+
+Counsel for the Respondent: Lesley King
+
+JUDGMENT
+
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+
+Costs are awarded to the Appellant.
+
+Signed at Ottawa, Canada this 23rd day of August, 2001.
+
+"R.D. Bell"
+
+J.T.C.C.
+
+[1] During this portion of his submission, Respondent's counsel stated that if the sum of $82,500 was includable in income, the Respondent would agree to the deduction of the legal fees in the amount of $38,293.73.
+

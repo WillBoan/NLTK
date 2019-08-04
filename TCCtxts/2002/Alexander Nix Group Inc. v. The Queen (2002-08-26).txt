@@ -1,0 +1,184 @@
+Date: 20020826
+
+Docket: 2001-3361-GST-I
+
+BETWEEN:
+
+ALEXANDER NIX GROUP INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Reasons for Judgment
+
+McArthur J.
+
+[1] The Minister of National Revenue denied the Appellant's claim for input tax credits (ITCs) because its supplier's goods and service tax (GST) registration number was invalid. We are dealing in particular, with the specific requirements of subsection 169(4) of the Excise Tax Act which reads as follows:
+
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+
+(b) ...
+
+Prescribed information is included in paragraph 3(b) of the Input Tax Credit Information Regulations (ITC Regulations) which boils down, for our purposes, to the following selective passages:
+
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+
+(a) ...
+
+(b) ...
+
+(i) ... the registration number assigned under subsection 241(1) of the Act to the supplier ...
+
+...
+
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply ... is $150 or more,
+
+(i) the information set out in paragraphs (a) and (b),
+
+(ii) ...
+
+Simply put, prescribed information includes a registration number. I take that to mean a valid registration number.
+
+Facts
+
+[2] Douglas A. Nix is a chartered accountant who very ably represented the Appellant corporation. The Appellant, registered for the purposes of Part IX of the Act, claimed ITCs in the amount of $3,766 on $53,874 of services provided by 864116 Ontario Ltd. (864). The GST registration number provided to the Appellant by 864 was invalid. It was the original registration for 864 in 1990 but it was deregistered in the early 1991. In sympathy to the Appellant's position, the Minister registered 864 in 1998 but deregistered it after being unable to contact the controlling mind of 864.
+
+Position of the Appellant
+
+[3] The Appellant submitted a seven-page Notice of Appeal concluding on page 7 as follows:
+
+Claimant acted in good faith in paying the GST as required under the Act and as demonstrated above, Claimant fulfilled the substantive conditions set out in s. 169(1) and s. 169(4) and is entitled to receive the benefit of the disallowed ITC.
+
+Denying Claimant the benefit of the input tax credit is punitive and prejudicial to the Claimant and clearly not within the wording, spirit or intent of the Act. Since Revenue has a statutory obligation to recover the GST invoiced and paid to Contractor, Claimant should not be penalized for Revenue's inability or failure to collect from person's who have collected GST on behalf of Her Majesty.
+
+Position of the Respondent
+
+[4] There was insufficient and/or inappropriate evidence submitted by the Appellant as required by subsection 169(4) of the Act and paragraph 3(b)(ii) of the ITC Regulations. The Minister added that the language of subsection 169(4) is restrictive: "A registrant may not claim an ITC ... unless ...", and the Regulations clearly states a registration number. It is deemed that this means a valid registration number.
+
+Analysis
+
+[5] The Minister referred to several cases. There is no need to go beyond the case of Helsi Construction Management Inc. v. The Queen[1] and an article by the highly respected author, David M. Sherman, in Canada GST Service, Binder C3, Carswell 2001, regarding ITCs.
+
+[6] In Helsi Construction, Judge Bowman held that the documentary requirements of subsection 169(4) are mandatory and not directory and that the absence of compliance with the Regulations is fatal. The main reason for the disallowance in Helsi was that the suppliers' GST numbers were not shown on the invoices. He stated:
+
+We are dealing with one of the technical requirements under a statute that is somewhat unique for its specificity. Moreover, it is the foundation of a self-assessing system that operates in the commercial world. Unfortunate as it may seem to the appellant, rules are rules. I can do nothing to help the appellant on this point.
+
+I agree with this reasoning and apply it to the present case. As Mr. Sherman notes in his article, a conflicting position was taken by Judge Lamarre in Tremblay v. The Queen.[2] In Canada GST Service, Mr. Sherman reviews case law on subsection 169(4). Near the end of his commentary at page 169-431 he states:
+
+When the registration number is false, the number is not considered as having been obtained for the purposes of paragraph 3(b)(ii) of the Regulations. As a result, the related ITC claim would be invalid because it did not meet the condition provided for at paragraph 169(4)(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply is $30 or more.
+
+[7] Not being a small supplier, 864 was required to be registered. It was deregistered in 1991. To assist the Appellant, the Minister reregistered it on July 1, 1998 but was unable to find the corporation's directors or operators. It was then deregistered retroactive to July 1, 1998. The registration number provided to the Appellant and in turn provided by the Appellant to the Minister was false.
+
+[8] The bottom line is that at the time 864 rendered the services it was not registered and provided an invalid or false registration number to the Appellant. I conclude that the invalid registration number is fatal to the Appellant's appeal. The onus was on the Appellant to overturn the Minister's assessment and it failed to do so.
+
+[9] In Helsi Construction, Judge Bowman stated:
+
+While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R., [1997] 1 C.T.C. 2728) that is not so in the case of the GST provisions of the Excise Tax Act.
+
+Judge Lamarre had a different view in Tremblay.She found that the requirement in subsection 169(4) was not mandatory. As Mr. Sherman states, the conflicting conclusions between Tremblay and Helsi will have to be resolved at some time.
+
+[10] The following taken from the final 2 pages of the Sherman article have been of assistance to me and are worth quoting:
+
+Q. Can an input tax credit (ITC) be invalidated if the vendor who collected GST/HST on purchased goods or services was not registered or provided a false registration number?
+
+A. Yes. The ITC claim would be identified as an invalid claim.
+
+Where the substantive conditions for claiming the ITC provided for at subsection 169(1) are met, the documentary requirements provided for at subsection 169(4) must also be met.
+
+Once of the conditions for claiming an ITC is that tax must be payable in respect of the supply. Subsection 221(1) requires every person who makes a taxable supply to collect the GST/HST payable thereon from the recipient of the supply. ...
+
+...
+
+Paragraph 169(4)(a) provides that, before filing the return for the reporting period in which the ITC is claimed, the registrant must have obtained sufficient evidence (in such form and containing such information) as will enable the amount of the ITC to be determined, including information which may be prescribed under the Input Tax Credit Information Regulations (the Regulations).
+
+The requirement to obtain the registration number of the supplier is found under paragraph 3(b)(ii) of the Regulations. This requirement exists where the total amount paid or payable shown on the supporting documentation in respect of the supply is $30 or more.
+
+[11] There are several cases where this Court has held that a lack of a GST registration number is fatal.[3] As stated in Helsi, the documentary requirements of subsection 169(4) are mandatory and not directory and for this reason, I cannot grant relief to the Appellant. The appeal is dismissed.
+
+Signed at Ottawa, Canada, this 26th day of August, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+COURT FILE NO.: 2001-3361(GST)I
+
+STYLE OF CAUSE: Alexander Nix Group Inc. and
+
+Her Majesty the Queen
+
+PLACE OF HEARING: Hamilton, Ontario
+
+DATE OF HEARING: May 29, 2002
+
+REASONS FOR JUDGMENT BY: The Honourable Judge C.H. McArthur
+
+DATE OF JUDGMENT: August 26, 2002
+
+APPEARANCES:
+
+Agent for the Appellant: Douglas Nix
+
+Counsel for the Respondent: Bobby Sood
+
+COUNSEL OF RECORD:
+
+For the Appellant:
+
+Name: N/A
+
+Firm:
+
+For the Respondent: Morris Rosenberg
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+2001-3361(GST)I
+
+BETWEEN:
+
+ALEXANDER NIX GROUP INC.,
+
+Appellant,
+
+and
+
+HER MAJESTY THE QUEEN,
+
+Respondent.
+
+Appeal heard on May 29, 2002, at Hamilton, Ontario, by
+
+the Honourable Judge C.H. McArthur
+
+Appearances
+
+Agent for the Appellant: Douglas A. Nix
+
+Counsel for the Respondent: Bobby Sood
+
+JUDGMENT
+
+The appeal from the assessment of goods and services tax made under the Excise Tax Act, notice of which is dated January 14, 2000, for the period June 5, 1998 to December 31, 1998, is dismissed.
+
+Signed at Ottawa, Canada, this 26th day of August, 2002.
+
+"C.H. McArthur"
+
+J.T.C.C.
+
+[1] [2001] T.C.J. No. 149.
+
+[2] [2001] T.C.J. 99.
+
+[3] Some of the additional cases referred to by the Minister are Olson Realty Corp. v. Canada, [1998] T.C.J. No. 192; Jadam Holding Ltd. v. Canada, [1995] T.C.J. No. 1389; and Metro Exteriors Ltd. v. Canada, [1995] T.C.J. No. 1302.
+
