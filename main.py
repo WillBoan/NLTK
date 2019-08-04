@@ -13,7 +13,7 @@ import pprint
 
 
 
-
+ksafjeliei
 
 
 
@@ -26,7 +26,7 @@ import pprint
 def getParaIndex(p, lines_list):
     for i, l in enumerate(lines_list):
         if p == l:
-            return i
+            return i#
 
 
 def printJudgement(judgement_bits):
@@ -44,11 +44,11 @@ def printJudgementFullData(judgement_bits):
         print()
 
 
-# def classifyJudgementBit(jb_text):
-#     if re.match(r'^\[\d+]', jb_text):
-#         type = para
-#     elif trueIfLogicalHeading(jb_text):
-#         pass
+def classifyJudgementBit(jb_text):
+    if re.match(r'^\[\d+]', jb_text):
+        type = para
+    elif trueIfLogicalHeading(jb_text):
+        pass
 
 def getPossibleHeadings(judgement_bits):
     possible_headings = []
